@@ -58,6 +58,7 @@ body {
 .container {
     max-width: 600px;
     width: 90%;
+    padding: 4rem 0 3rem;
 }
 
 header h1 {
@@ -116,9 +117,11 @@ form {
 
 input[type="email"] {
     padding: 0.75rem;
-    border: 1px solid #ccc;
+    border: 1px solid var(--btn-border);
     border-radius: 4px;
     font-size: 1rem;
+    background-color: var(--btn-bg);
+    color: var(--fg);
 }
 
 button[type="submit"] {
