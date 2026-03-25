@@ -61,6 +61,14 @@ body {
     padding: 4rem 0 3rem;
 }
 
+.logo {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
 header h1 {
     font-size: 2.5rem;
     margin-bottom: 0.5rem;
@@ -147,6 +155,49 @@ button[type="submit"]:hover {
     margin-top: 1rem;
     color: #4CAF50;
     font-weight: bold;
+}
+
+.articles-section {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--btn-border);
+    text-align: left;
+}
+
+.articles-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.4rem;
+}
+
+.articles-desc {
+    font-size: 1rem;
+    color: var(--subtitle);
+    margin-bottom: 1.2rem;
+}
+
+.articles-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+
+.articles-list a {
+    display: block;
+    color: var(--fg);
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    border: 1px solid var(--btn-border);
+    background-color: var(--btn-bg);
+    transition: background-color 0.2s;
+}
+
+.articles-list a:hover {
+    background-color: var(--btn-hover);
 }
 
 .contact-section {
