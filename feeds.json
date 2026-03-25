@@ -1,0 +1,89 @@
+{
+  "lastUpdated": "2026-03-25T12:53:51Z",
+  "sources": {
+    "eater": {
+      "label": "Eater",
+      "site": "https://www.eater.com/trends",
+      "items": [
+        {
+          "title": "The Eater App Just Got a Lot Better",
+          "link": "https://www.eater.com/editor-newsletter/950572/new-eater-app-2026",
+          "desc": "A version of this post originally appeared in Stephanie Wu’s newsletter, “From the Editor,” which features an early peek at Eater’s biggest projects a"
+        },
+        {
+          "title": "Where Your Favorite Chefs and Food Experts Eat When They’re Off the Clock",
+          "link": "https://www.eater.com/press-room/24434033/eater-app-list-sharing-chefs-creators",
+          "desc": "The Eater app just got a lot better. It’s still the same trusted place to find great restaurants, but now with a smarter, more personal way to explore"
+        },
+        {
+          "title": "The Ultra-Thick Pancake Is on the Rise",
+          "link": "https://www.eater.com/trends/950531/thick-fluffy-pancake-trend-explained-golden-diner",
+          "desc": "The famous Golden Diner pancakes are made by flooding a pan with yeasted batter, which allows them to grow tall and domed in shape. | Cole Saladino\t\n\n"
+        }
+      ]
+    },
+    "restaurantbusiness": {
+      "label": "Restaurant Business",
+      "site": "https://www.restaurantbusinessonline.com/",
+      "items": [
+        {
+          "title": "Starbucks wants to get rid of the long lines at its airport shops",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREJOUC1qeGVXc0tjOTZwY2FKM1FndmgydWJnaWdvUXkwOV9tUHZFSTVBZk0zWThBcEY2OW1WblZmYzhkSzZBbzFDbnc1Yk9oUzM3VXNWOFVmQmhPRUtIWkFKTUFEbDhWaDhPRFg4QnpZaU95QlFUSmhrM01HMld5WmJ2RFZwYXpKbVZ1MzdLZk0yelBTakhST0lEOVU0WDJSTjlCNm5B?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "Restaurants wonder what Square's mass layoffs will mean for them",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGNtZ2l0Sl9icllKVHRXeGRDZktSd2FTZG00VXp2UDhKRGFqTjFVYm56ZXJJdlBBYTR4VEg0LVNoeXBiVE96VjlDcVl1OWotejFRNWVzWUpNWmRmelJESzJPbGFaRHFaVXI5MWFYSDhQelRTLXJudHVvWnVudHd3VWJEb2FDcHJlWE9WbTVrUVhsSHFiakU2cUxVU01EV1Zsdjd2b0ZqVTE1WHc?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": ""
+        }
+      ]
+    },
+    "foodandwine": {
+      "label": "Food & Wine",
+      "site": "https://www.foodandwine.com/news",
+      "items": [
+        {
+          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "The Pantry Forager",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTmgteGJlM1lRRTE5d0tyQUNWY3V2SkdrdG85RVFnY0VLOE9HNHJaT3F1UTJVNmMwTmkzVGRnQ0FYMEhMZ3BDbDFwSjhRSzZVVF9tbnN4WHByWGxGM1l4WQ?oc=5",
+          "desc": ""
+        }
+      ]
+    },
+    "businessinsider": {
+      "label": "Business Insider",
+      "site": "https://www.businessinsider.com/food",
+      "items": [
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
+          "desc": ""
+        }
+      ]
+    }
+  }
+}

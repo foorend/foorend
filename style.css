@@ -62,11 +62,11 @@ body {
 }
 
 .logo {
-    width: 80px;
-    height: 80px;
+    width: 140px;
+    height: 140px;
     object-fit: contain;
     border-radius: 50%;
-    margin-bottom: 1rem;
+    margin-bottom: 1.2rem;
 }
 
 header h1 {
@@ -77,12 +77,6 @@ header h1 {
 .subtitle {
     font-size: 1.2rem;
     color: var(--subtitle);
-    margin-bottom: 2rem;
-}
-
-.hero img {
-    max-width: 100%;
-    border-radius: 16px;
     margin-bottom: 2rem;
 }
 
@@ -157,20 +151,88 @@ button[type="submit"]:hover {
     font-weight: bold;
 }
 
-.disqus-section {
+.news-section {
     margin-top: 3rem;
     padding-top: 2rem;
     border-top: 1px solid var(--btn-border);
     text-align: left;
 }
 
-.disqus-title {
+.news-section-title {
     font-size: 1.5rem;
     margin-bottom: 1.5rem;
 }
 
-#disqus_thread {
-    color-scheme: normal;
+.news-loading {
+    color: var(--subtitle);
+    font-size: 0.95rem;
+}
+
+.news-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.feed-source-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+}
+
+.feed-source-name {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+.feed-source-link {
+    font-size: 0.85rem;
+    color: var(--subtitle);
+    text-decoration: none;
+}
+
+.feed-source-link:hover {
+    color: var(--fg);
+}
+
+.feed-items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.feed-item {
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--btn-border);
+    border-radius: 8px;
+    background-color: var(--btn-bg);
+    transition: background-color 0.2s;
+}
+
+.feed-item:hover {
+    background-color: var(--btn-hover);
+}
+
+.feed-item-title {
+    display: block;
+    color: var(--fg);
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: bold;
+    line-height: 1.4;
+    margin-bottom: 0.25rem;
+}
+
+.feed-item-desc {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--subtitle);
+    line-height: 1.5;
 }
 
 .articles-section {

@@ -24,6 +24,49 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    // News feeds
+    const newsContainer = document.getElementById('news-feeds');
+    if (newsContainer) {
+        fetch('feeds.json')
+            .then(r => r.json())
+            .then(data => {
+                const sources = data.sources || {};
+                const keys = Object.keys(sources);
+                if (!keys.length) {
+                    newsContainer.innerHTML = '<p class="news-loading">뉴스를 준비 중입니다.</p>';
+                    return;
+                }
+                const grid = document.createElement('div');
+                grid.className = 'news-grid';
+                keys.forEach(key => {
+                    const src = sources[key];
+                    const items = src.items || [];
+                    if (!items.length) return;
+                    const block = document.createElement('div');
+                    block.className = 'feed-source';
+                    block.innerHTML = `
+                        <div class="feed-source-header">
+                            <h3 class="feed-source-name">${src.label}</h3>
+                            <a href="${src.site}" class="feed-source-link" target="_blank" rel="noopener">더보기 →</a>
+                        </div>
+                        <ul class="feed-items">
+                            ${items.map(item => `
+                                <li class="feed-item">
+                                    <a href="${item.link}" class="feed-item-title" target="_blank" rel="noopener">${item.title}</a>
+                                    ${item.desc ? `<p class="feed-item-desc">${item.desc}</p>` : ''}
+                                </li>
+                            `).join('')}
+                        </ul>`;
+                    grid.appendChild(block);
+                });
+                newsContainer.innerHTML = '';
+                newsContainer.appendChild(grid);
+            })
+            .catch(() => {
+                newsContainer.innerHTML = '<p class="news-loading">뉴스를 불러올 수 없습니다.</p>';
+            });
+    }
+
     const contactForm = document.getElementById('contact-form');
     const contactConfirmation = document.getElementById('contact-confirmation');
     const contactSubmit = document.getElementById('contact-submit');
