@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-25T18:10:56Z",
+  "lastUpdated": "2026-03-25T22:59:47Z",
   "sources": {
     "eater": {
       "label": "Eater",
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "The Eater App Just Got a Lot Better",
-          "link": "https://www.eater.com/editor-newsletter/950572/new-eater-app-2026",
-          "desc": "A version of this post originally appeared in Stephanie Wu’s newsletter, “From the Editor,” which features an early peek at Eater’s biggest projects a"
-        },
-        {
           "title": "Where Your Favorite Chefs and Food Experts Eat When They’re Off the Clock",
           "link": "https://www.eater.com/press-room/24434033/eater-app-list-sharing-chefs-creators",
           "desc": "The Eater app just got a lot better. It’s still the same trusted place to find great restaurants, but now with a smarter, more personal way to explore"
+        },
+        {
+          "title": "The Eater App Just Got a Lot Better",
+          "link": "https://www.eater.com/editor-newsletter/950572/new-eater-app-2026",
+          "desc": "A version of this post originally appeared in Stephanie Wu’s newsletter, “From the Editor,” which features an early peek at Eater’s biggest projects a"
         },
         {
           "title": "The Ultra-Thick Pancake Is on the Rise",
@@ -48,6 +48,11 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": ""
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": ""
@@ -55,11 +60,6 @@
         {
           "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": ""
-        },
-        {
-          "title": "The Pantry Forager",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTmgteGJlM1lRRTE5d0tyQUNWY3V2SkdrdG85RVFnY0VLOE9HNHJaT3F1UTJVNmMwTmkzVGRnQ0FYMEhMZ3BDbDFwSjhRSzZVVF9tbnN4WHByWGxGM1l4WQ?oc=5",
           "desc": ""
         }
       ]
