@@ -157,6 +157,22 @@ button[type="submit"]:hover {
     font-weight: bold;
 }
 
+.disqus-section {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--btn-border);
+    text-align: left;
+}
+
+.disqus-title {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+#disqus_thread {
+    color-scheme: normal;
+}
+
 .articles-section {
     margin-top: 3rem;
     padding-top: 2rem;
