@@ -29,6 +29,19 @@
                 <button type="submit">Subscribe</button>
             </form>
             <p id="confirmation-message" class="hidden">Thank you for subscribing!</p>
+
+            <section class="contact-section">
+                <h2 class="contact-title">제휴 문의</h2>
+                <p class="contact-desc">광고, 콜라보, 원고 제안 등 편하게 남겨주세요 🤝</p>
+                <form id="contact-form" action="https://formspree.io/f/mbdprzry" method="POST">
+                    <input type="text" name="name" placeholder="이름 / 회사명" required>
+                    <input type="email" name="email" placeholder="이메일" required>
+                    <input type="text" name="subject" placeholder="문의 유형 (광고, 콜라보, 기타 등)">
+                    <textarea name="message" placeholder="문의 내용을 입력해주세요" rows="5" required></textarea>
+                    <button type="submit" id="contact-submit">문의 보내기</button>
+                </form>
+                <p id="contact-confirmation" class="hidden">문의가 접수되었습니다. 빠르게 답변드릴게요 😊</p>
+            </section>
         </main>
     </div>
     <script src="main.js"></script>
