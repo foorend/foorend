@@ -123,81 +123,50 @@ def parse_rss(content, mode):
 
     return items[:3]
 
-def fetch_stibee_articles(base_url, count=6):
-    """Fetch recent newsletter issues from stibee public archive page."""
-    articles = []
-
-    # Try RSS/Atom feed variants first
-    for rss_path in ['/rss', '/feed', '/atom']:
-        try:
-            rss_url = base_url.rstrip('/') + rss_path
-            content = fetch(rss_url)
-            items = parse_rss(content, 'direct')
-            if items:
-                print(f"  stibee RSS found at {rss_path}: {len(items)} articles")
-                return items[:count]
-        except Exception:
-            pass
-
-    # Fall back to HTML scraping of the archive page
+def fetch_stibee_articles(base_url='https://foodtrend.stibee.com', count=6):
+    """Fetch latest Korean newsletter articles via sitemap + og:title from each article page."""
     try:
-        content_bytes = fetch(base_url)
-        content = content_bytes.decode('utf-8', errors='ignore')
+        # Step 1: Parse sitemap to get article URLs sorted by number (newest first)
+        sitemap = fetch(base_url.rstrip('/') + '/sitemap.xml')
+        root = ET.fromstring(sitemap)
+        ns_sm = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 
-        # Try Next.js __NEXT_DATA__ embedded JSON (most reliable for SSR pages)
-        nd_match = re.search(r'<script[^>]+id="__NEXT_DATA__"[^>]*>(\{.+?\})</script>', content, re.DOTALL)
-        if nd_match:
+        urls = []
+        for url_elem in root.findall(f'{{{ns_sm}}}url'):
+            loc = url_elem.find(f'{{{ns_sm}}}loc')
+            if loc is None or not loc.text:
+                continue
+            m = re.search(r'/p/(\d+)', loc.text)
+            if m:
+                urls.append((int(m.group(1)), loc.text.rstrip('/')))
+
+        urls.sort(key=lambda x: x[0], reverse=True)
+        top_urls = [url for _, url in urls[:count]]
+        print(f"  stibee sitemap: found {len(urls)} articles, fetching top {len(top_urls)}")
+
+        # Step 2: Fetch og:title from the head of each article page (first 8KB)
+        articles = []
+        for url in top_urls:
             try:
-                nd = json.loads(nd_match.group(1))
-                props = nd.get('props', {}).get('pageProps', {})
-                # Try common stibee data shapes
-                for field in ('emailList', 'emails', 'issues', 'archiveList', 'list'):
-                    items_data = props.get(field, [])
-                    if isinstance(items_data, list) and items_data:
-                        for item in items_data[:count]:
-                            title = item.get('subject', item.get('title', item.get('name', '')))
-                            link = item.get('archiveUrl', item.get('url', item.get('link', '')))
-                            if title and link:
-                                articles.append({'title': title, 'link': link, 'desc': ''})
-                        if articles:
-                            print(f"  stibee __NEXT_DATA__[{field}]: {len(articles)} articles")
-                            return articles[:count]
-            except (json.JSONDecodeError, KeyError):
-                pass
+                req = urllib.request.Request(url, headers=HEADERS)
+                with urllib.request.urlopen(req, timeout=10) as r:
+                    head_html = r.read(8192).decode('utf-8', errors='ignore')
 
-        # Regex fallback: look for stibee API archive links with adjacent text
-        link_pat = re.compile(
-            r'href="((?:https://(?:stibee\.com|foodtrend\.stibee\.com))?/api/v1\.0/emails/auto/[^"]+)"[^>]*>'
-            r'((?:[^<]|<(?!/))+)'
-        )
-        for m in link_pat.finditer(content):
-            link = m.group(1)
-            if not link.startswith('http'):
-                link = 'https://stibee.com' + link
-            text_block = strip_html(m.group(2)).strip()
-            if text_block and len(text_block) > 4:
-                articles.append({'title': text_block[:120], 'link': link, 'desc': ''})
-                if len(articles) >= count:
-                    break
+                title_m = (
+                    re.search(r'property="og:title"\s+content="([^"]+)"', head_html) or
+                    re.search(r'<title>([^<]+)</title>', head_html)
+                )
+                title = html.unescape(title_m.group(1)) if title_m else url
+                articles.append({'title': title, 'link': url, 'desc': ''})
+                print(f"  ✓ {title[:60]}")
+            except Exception as e:
+                print(f"  stibee {url}: {e}")
 
-        if articles:
-            print(f"  stibee HTML scrape: {len(articles)} articles")
-            return articles
-
-        # Last resort: Google News search for stibee foodtrend newsletter
-        q = urllib.parse.quote('site:stibee.com foodtrend')
-        gn_url = f'https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko'
-        gn_content = fetch(gn_url)
-        items = parse_rss(gn_content, 'googlenews')
-        if items:
-            print(f"  stibee via Google News: {len(items)} articles")
-            return items[:count]
+        return articles
 
     except Exception as e:
-        print(f"  stibee HTML fetch error: {e}")
-
-    print("  stibee: no articles found")
-    return []
+        print(f"✗ stibee: {e}")
+        return []
 
 result = {
     'lastUpdated': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
@@ -246,7 +215,7 @@ for src in KOREAN_SOURCES:
 
 # Korean newsletter articles (stibee)
 print("Fetching stibee Korean newsletter articles...")
-result['korean_articles'] = fetch_stibee_articles('https://foodtrend.stibee.com')
+result['korean_articles'] = fetch_stibee_articles()
 
 with open('feeds.json', 'w', encoding='utf-8') as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
