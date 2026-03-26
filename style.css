@@ -378,24 +378,17 @@ button[type="submit"]:hover {
         display: flex;
         flex-direction: row;
         min-height: 100vh;
-        border-bottom: 1px solid var(--btn-border);
-    }
-
-    .pc-page:last-child {
-        border-bottom: none;
+        padding: 0 7%;
     }
 
     /* Columns */
     .pc-col {
         flex: 1;
-        padding: 5vh 5%;
+        padding: 6vh 3%;
         display: flex;
         flex-direction: column;
         justify-content: center;
-    }
-
-    .pc-left {
-        border-right: 1px solid var(--btn-border);
+        align-items: center;
     }
 
     /* Reset section top-borders and margins when inside a column */
@@ -414,7 +407,6 @@ button[type="submit"]:hover {
 
     /* ── Page 1: Hero ── */
     .pc-page-1 .pc-left {
-        align-items: center;
         text-align: center;
     }
 
@@ -432,41 +424,43 @@ button[type="submit"]:hover {
     .pc-page-1 header h1 {
         font-size: 2.8rem;
         margin-top: 1.2rem;
+        line-height: 1.2;
     }
 
+    /* Right column: left-align subtitle and buttons */
     .pc-page-1 .pc-right {
-        justify-content: center;
-        gap: 0;
+        align-items: flex-start;
     }
 
     .pc-page-1 .subtitle {
         font-size: 1.35rem;
         margin-bottom: 2.5rem;
-        line-height: 1.6;
+        line-height: 1.7;
+        text-align: left;
     }
 
     .pc-page-1 .links {
         flex-direction: column;
         gap: 1rem;
         margin-bottom: 0;
+        width: 100%;
         max-width: 380px;
     }
 
-    /* ── Page 2: Articles — vertically start from top with padding ── */
-    .pc-page-2 .pc-col {
-        justify-content: flex-start;
-        padding-top: 7vh;
-    }
-
-    /* ── Page 3: News — vertically start from top with padding ── */
+    /* ── Pages 2 & 3: sections fill column width, centered in column ── */
+    .pc-page-2 .pc-col,
     .pc-page-3 .pc-col {
-        justify-content: flex-start;
-        padding-top: 7vh;
-        overflow-y: auto;
+        justify-content: center;
     }
 
-    .pc-page-3 .news-section {
+    .pc-col .articles-section,
+    .pc-col .news-section {
         width: 100%;
+    }
+
+    /* ── Page 3: allow scroll if news list is long ── */
+    .pc-page-3 .pc-col {
+        overflow-y: auto;
     }
 
     /* ── Page 4: Contact — centered single column ── */
