@@ -125,11 +125,30 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // ── Visitor counter ──────────────────────────────────────────
+    const visitorLabel = document.getElementById('visitor-label');
+    function updateVisitorLabel(lang) {
+        visitorLabel.textContent = lang === 'en' ? ' visitors' : '명 방문';
+    }
+
+    fetch('https://api.countapi.xyz/hit/foorend.github.io/visits')
+        .then(r => r.json())
+        .then(data => {
+            document.getElementById('visitor-count').textContent = data.value.toLocaleString();
+        })
+        .catch(() => {
+            document.getElementById('visitor-counter').style.display = 'none';
+        });
+
     if (currentLang === 'en') applyLang('en');
 
     langToggle.addEventListener('click', () => {
-        applyLang(currentLang === 'ko' ? 'en' : 'ko');
+        const next = currentLang === 'ko' ? 'en' : 'ko';
+        applyLang(next);
+        updateVisitorLabel(next);
     });
+
+    updateVisitorLabel(currentLang);
 
     // ── News & articles fetch ────────────────────────────────────
     const newsContainer = document.getElementById('news-feeds');

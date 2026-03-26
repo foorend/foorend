@@ -35,6 +35,33 @@ body {
     transition: background-color 0.3s, color 0.3s;
 }
 
+#visitor-counter {
+    position: fixed;
+    top: 1.2rem;
+    left: 1.2rem;
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    background-color: var(--toggle-bg);
+    color: var(--toggle-fg);
+    border-radius: 20px;
+    padding: 0 0.9rem;
+    height: 2.8rem;
+    font-size: 0.78rem;
+    font-weight: bold;
+    letter-spacing: 0.03em;
+    z-index: 100;
+    white-space: nowrap;
+}
+
+#visitor-icon {
+    font-size: 0.9rem;
+}
+
+#visitor-count {
+    font-size: 0.85rem;
+}
+
 #lang-toggle {
     position: fixed;
     top: 1.2rem;
