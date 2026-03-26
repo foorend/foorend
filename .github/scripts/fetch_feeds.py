@@ -1,5 +1,26 @@
-import urllib.request, urllib.parse, re, html, json, xml.etree.ElementTree as ET
+import urllib.request, urllib.parse, re, html, json, xml.etree.ElementTree as ET, time
 from datetime import datetime, timezone
+
+
+def translate(text, from_lang, to_lang):
+    """Translate text using MyMemory free API. Returns original on failure."""
+    if not text:
+        return text
+    try:
+        url = (
+            'https://api.mymemory.translated.net/get?q='
+            + urllib.parse.quote(text[:500])
+            + f'&langpair={from_lang}|{to_lang}'
+        )
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=10) as r:
+            data = json.loads(r.read())
+        result = data['responseData']['translatedText']
+        if 'MYMEMORY' in result or 'QUERY LENGTH' in result:
+            return text
+        return result
+    except Exception:
+        return text
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -175,17 +196,20 @@ result = {
     'korean_articles': [],
 }
 
-# Global sources
+# Global sources — add Korean translations for titles
 for src in SOURCES:
     try:
         content = fetch(src['rss'])
         items = parse_rss(content, src['mode'])
+        for item in items:
+            item['title_ko'] = translate(item['title'], 'en', 'ko')
+            time.sleep(0.3)
         result['sources'][src['key']] = {
             'label': src['label'],
             'site': src['site'],
             'items': items,
         }
-        print(f"✓ {src['label']}: {len(items)} articles")
+        print(f"✓ {src['label']}: {len(items)} articles (translated to ko)")
     except Exception as e:
         print(f"✗ {src['label']}: {e}")
         result['sources'][src['key']] = {
@@ -194,17 +218,20 @@ for src in SOURCES:
             'items': [],
         }
 
-# Korean news sources
+# Korean news sources — add English translations for titles
 for src in KOREAN_SOURCES:
     try:
         content = fetch(src['rss'])
         items = parse_rss(content, src['mode'])
+        for item in items:
+            item['title_en'] = translate(item['title'], 'ko', 'en')
+            time.sleep(0.3)
         result['korean_news'][src['key']] = {
             'label': src['label'],
             'site': src['site'],
             'items': items,
         }
-        print(f"✓ {src['label']}: {len(items)} articles")
+        print(f"✓ {src['label']}: {len(items)} articles (translated to en)")
     except Exception as e:
         print(f"✗ {src['label']}: {e}")
         result['korean_news'][src['key']] = {

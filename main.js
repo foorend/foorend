@@ -79,12 +79,16 @@ document.addEventListener('DOMContentLoaded', () => {
                     <a href="${src.site}" class="feed-source-link" target="_blank" rel="noopener">${t.seeMore}</a>
                 </div>
                 <ul class="feed-items">
-                    ${items.map(item => `
+                    ${items.map(item => {
+                        const title = lang === 'ko'
+                            ? (item.title_ko || item.title)
+                            : (item.title_en || item.title);
+                        return `
                         <li class="feed-item">
-                            <a href="${item.link}" class="feed-item-title" target="_blank" rel="noopener">${item.title}</a>
+                            <a href="${item.link}" class="feed-item-title" target="_blank" rel="noopener">${title}</a>
                             ${item.desc ? `<p class="feed-item-desc">${item.desc}</p>` : ''}
-                        </li>
-                    `).join('')}
+                        </li>`;
+                    }).join('')}
                 </ul>`;
             grid.appendChild(block);
         });
