@@ -1,10 +1,16 @@
 {
-  "lastUpdated": "2026-03-26T15:58:27Z",
+  "lastUpdated": "2026-03-26T20:00:32Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Utah-based Firehouse Subs franchisee files Chapter 11 bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkVDeTQyV2FSZTNmRHFudDVZMV9JaXRwZUs0RTNNdVhqV2JGYlYwbG5JQUctVy1VUTMzYWViRzdxV3BoQ0p1eGY3NmlkbTVPa0EwSHZheTJGa2k2WjQ1NGdKZld5NmZ0YWpUX0d2anVNMzRrd2E5ZmxqWGc0YnY4dWhJZkF0X0RERkxESEd4YW04Rm9xUG5NRkYwa1hKR2JwWXpDSlNTaVh6VmQtbU1tWUxR?oc=5",
+          "desc": "",
+          "title_ko": "유타에 기반을 둔 Firehouse Subs 프랜차이즈 가맹점 파일 제 11 장 파산"
+        },
         {
           "title": "Fast-growing Nothing Bundt Cakes is sold to KKR",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdU8zcFU2Z05Ic1o2VHZoRXpwa2d2elI4dkxELWpJYWxjT090MDZlMHM5QnRFdnVDM3I3Q3Z5M2FhRVJ2T21EYUh0VG1WbzU1WGdtdzRCVUJMNm8wMm9aNHFIWjRZcy1lYlJHcFpLb3ppYmN0RXcxQzNKMk54T3RabkZxM2RJaHpGdmx3Ml80NXNKYTRwRXVr?oc=5",
@@ -12,16 +18,10 @@
           "title_ko": "빠르게 성장하는 번트 케이크는 KKR에 판매되지 않습니다"
         },
         {
-          "title": "Dickey's franchise registration expires in several states",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2htYTBFcktuRV9YaDBkeFE1dzNYMjU5bWJHVzRsM3cxQjEtM3VzZG1PLU1ua01RZkl0Mkl2M3BQSnNINlAxUXA1QjVia1V5TFRXUENNeEt2dHJ3T3d3MU1vZ1E2cWpGWnkxLU4tWWRpVnlxY2dpRlZfRHZxR3NtZEl2RlhhRnhXMmVoN3NEV0stX2FadUYzNU1zMl81S20tdEE?oc=5",
+          "title": "A large Applebee's franchisee files for bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVViN3JjVElGWnZ6amtCcXJiT0RndElfVWRvZ0hQYURJSDh0Snk2TnJ2bUNDdF9WSXFwWjBNWkt6b2taYWhrR25IdE41ZFQ2UGNuQzlZbkQtOEt4SEM0ZWYySEU3N0o1OFJzTF9EQkU1alBsUU9pN0U1UGJuZzgwMmxDMGQyd0NqbXdJV3RRLXhOMzFqWjd4dzdn?oc=5",
           "desc": "",
-          "title_ko": "Dickey's 프랜차이즈 등록이 여러 주에서 만료됩니다"
-        },
-        {
-          "title": "Starbucks wants to get rid of the long lines at its airport shops",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREJOUC1qeGVXc0tjOTZwY2FKM1FndmgydWJnaWdvUXkwOV9tUHZFSTVBZk0zWThBcEY2OW1WblZmYzhkSzZBbzFDbnc1Yk9oUzM3VXNWOFVmQmhPRUtIWkFKTUFEbDhWaDhPRFg4QnpZaU95QlFUSmhrM01HMld5WmJ2RFZwYXpKbVZ1MzdLZk0yelBTakhST0lEOVU0WDJSTjlCNm5B?oc=5",
-          "desc": "",
-          "title_ko": "스타벅스는 공항 상점에서 긴 줄을 없애고 싶어합니다."
+          "title_ko": "대규모 Applebee 프랜차이즈 가맹점의 파산 신청"
         }
       ]
     },
@@ -29,12 +29,6 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
-        {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드"
-        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -46,6 +40,12 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
           "desc": "",
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭"
+        },
+        {
+          "title": "The Pantry Forager",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTmgteGJlM1lRRTE5d0tyQUNWY3V2SkdrdG85RVFnY0VLOE9HNHJaT3F1UTJVNmMwTmkzVGRnQ0FYMEhMZ3BDbDFwSjhRSzZVVF9tbnN4WHByWGxGM1l4WQ?oc=5",
+          "desc": "",
+          "title_ko": "팬트리 채집가"
         }
       ]
     },
@@ -116,10 +116,10 @@
           "title_en": "Pigeon eliminates 99% of the smell of sweat and food... Fragrant even in the rainy season"
         },
         {
-          "title": "다슬기국부터 산딸기까지…영월 자연이 차린 '왕의 밥상'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaay0tZ2hGREQxSTVuVHlvN3YyQ2NEMi1NQ2RtMXE2bm5tVGlfbVBhNTlUVlVCdEVSYTRBVWRqV1UyUEl3ZHNyTFFjSXFGQktaSlNYc3BORllkd9IBVEFVX3lxTE5oY0pZYVdPdHJUVXRXMlY2dS1jTlhmdlBTWlBka2Z4NUFDcjFHdnlIc0N0SU5kdnRRempNbFZMb0RocGRPcS1FcVZQYkV2Q0EwNVlzaQ?oc=5",
+          "title": "\"아프기 전에 챙겨요\"…건강에 꽂힌 2030 몰리자 매출 터졌다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZy1CeUFyYTM1TUwwWHptSzRxeXk5VVZrb1NrUTJiWktTejl4QXJLdnJsX0ljSjk2cWlBbFJkQzRrYW9iT1BaRWUwR25GNHdpUnQtdGFlS1phZ9IBVEFVX3lxTE5hTGp3SDluYjBseEtyWXdYRTNZRjFOVW0zYVplaGJVRTUzTzc3OWtkaFNZMG90ZGtkYnJkMTA4Ry1lc0FaVjl5cVF1NGNNTGxTLVg0MA?oc=5",
           "desc": "",
-          "title_en": "From Seulgi Kingdom to Raspberries... 'The King's Table' prepared by Yeongwol Nature"
+          "title_en": "\"Take care of it before it hurts\" … It burst into sales when I crowded into my health in 2030"
         }
       ]
     },
