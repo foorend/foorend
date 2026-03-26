@@ -12,18 +12,6 @@ document.addEventListener('DOMContentLoaded', () => {
         localStorage.setItem('theme', isLight ? 'light' : 'dark');
     });
 
-    const form = document.getElementById('subscribe-form');
-    const confirmationMessage = document.getElementById('confirmation-message');
-
-    form.addEventListener('submit', (e) => {
-        e.preventDefault();
-        const emailInput = document.getElementById('email');
-        if (emailInput.value) {
-            form.classList.add('hidden');
-            confirmationMessage.classList.remove('hidden');
-        }
-    });
-
     function renderNewsGrid(container, sources) {
         const keys = Object.keys(sources);
         if (!keys.length) {
