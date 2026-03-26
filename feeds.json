@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T20:00:32Z",
+  "lastUpdated": "2026-03-26T21:56:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -134,16 +134,16 @@
           "title_en": "Please love me a lot 'The 3rd Seoul International Food Film Festival'"
         },
         {
-          "title": "'제3회 서울국제음식영화제' 많이 사랑해주세요",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53X1pzWk8zc3c4emt0cVBPOFVmRWVKdzR1RFRYNjVPaWs2b3lMYV9aN3NkWElyMVFCQ3dEbnFmQXJoU3dOTC1hOGp0aG9NYWE1TFJv0gFTQVVfeXFMTndfWnNaTzNzdzh6a3RxUE84VWZFZUp3NHVEVFg2NU9pazZveUxhX1o3c2RYSXIxUUJDd0RucWZBcmhTd05MLWE4anRob01hYTVMUm8?oc=5",
-          "desc": "",
-          "title_en": "Please love me a lot 'The 3rd Seoul International Food Film Festival'"
-        },
-        {
           "title": "해마로푸드서비스, 3.63% 오르며 체결강도 강세 지속(270%)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yOUpJaGw2ZHFoUlI5Ml9RWVhxU2RZajZ5d0dRNUVjY1BIQkdMWFVwb3dlbHJ3RTZ0UHNSNC0wUUJrUUhyck5QVWRRT0FjNDBzOEMw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNWFlPNmtoV2dfcjI4N0Q3dGxNZlMtZ09yOXVBYkhuRVFsZHVPREd4Y3M0RjQ2VGhwc25ZYXoxUWFHcGxLYmRfdGpoVUkwQUFuZmc?oc=5",
           "desc": "",
           "title_en": "Hippopotamus Food Service Gains 3.63% and Strong Clamping Strength Continues (270%)"
+        },
+        {
+          "title": "'수미네 반찬' 김수미도 설렌 음식디미방 식사 체험..'궁금증 UP'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BN3MzOS1qRWs3bTNkMXFLMExPbEcydjZqc2JqRVJLNW4xZjNDZEt3c2JZRl90dEJWcDRhbl92aG5feGx4djhXaHBSOHpfZXBpM1HSAVNBVV95cUxQTmxCZHJ4YmhCaTljOXpRME9DN25MYUZ5SFFUS0hKN18zWU5VRXNOVTAxTUtUV1lyOEhXOU9xN0VhVDNyYjhYa1ZjWVRjV1hBa25LOA?oc=5",
+          "desc": "",
+          "title_en": "'Sumine side dish' Kim Sumi also sullen food dining experience.. 'Curiosity UP'"
         }
       ]
     },
@@ -151,6 +151,12 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "레어드슈퍼푸드, 매출 성장에도 순손실 330만 달러·원자재 부담에 급락",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbE1NbkxEbFNRR3VCa3dvV1ZKTUpLT0tlcUFMWlVXQm9ndzh1QTRPQ2llZTZUVlotLVBzcE85VVBwUGpteldyS0RXZXlWeThvSEE?oc=5",
+          "desc": "",
+          "title_en": "Laird Superfood Plunges on Net Loss of $3.3 Million and Raw Materials Despite Sales Growth"
+        },
         {
           "title": "어보브푸드인그리디언츠, 내부자 거래 의혹 전면 부인 및 나스닥 상장 유지 절차 신속 진행",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zMjlQa0NsckZ5TUhIUzNyRHJYTlNNRlJWREpXYVdxN3VzbE5LbGpkbDFSZEI0RjQ4WElnRUR1M0RqRU1WSXlmOVRkazlWek9RWEE?oc=5",
@@ -162,12 +168,6 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCVFZWSDBMalBkbl9yOXp5a081WjJfVXM2UEN6UUk2RTJtN3FjT1BURmlwV01ESG9zVGM4amM4NTJWWm1pZkd6ZHhqTTJyV05mZXc?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food (280360) Slight increase +3.31%"
-        },
-        {
-          "title": "한국남부발전 신인천빛드림본부, 인천 서구푸드마켓 1호점에 1000만원 기탁",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VTUtzZUNDbWc0TG1FVi1vYTZOU3J3LTVaOU0zbmUwQkFmaUw1OXdDcS1HSGdURUdmYVZucXFSNlB5UWlRRkVmV0pJVWl6VkdkOEg0bFpn?oc=5",
-          "desc": "",
-          "title_en": "South Korea Power Plant Shin Incheon Dream Headquarters Deposits KRW 10 Million at 1st Food Market in Seo-gu, Incheon"
         }
       ]
     },
