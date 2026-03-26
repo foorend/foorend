@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-03-26T11:39:02Z",
+  "lastUpdated": "2026-03-26T15:58:27Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
         {
-          "title": "Dickey's franchise registration expires in several states",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2htYTBFcktuRV9YaDBkeFE1dzNYMjU5bWJHVzRsM3cxQjEtM3VzZG1PLU1ua01RZkl0Mkl2M3BQSnNINlAxUXA1QjVia1V5TFRXUENNeEt2dHJ3T3d3MU1vZ1E2cWpGWnkxLU4tWWRpVnlxY2dpRlZfRHZxR3NtZEl2RlhhRnhXMmVoN3NEV0stX2FadUYzNU1zMl81S20tdEE?oc=5",
-          "desc": "",
-          "title_ko": "Dickey's 프랜차이즈 등록이 여러 주에서 만료됩니다"
-        },
-        {
           "title": "Fast-growing Nothing Bundt Cakes is sold to KKR",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdU8zcFU2Z05Ic1o2VHZoRXpwa2d2elI4dkxELWpJYWxjT090MDZlMHM5QnRFdnVDM3I3Q3Z5M2FhRVJ2T21EYUh0VG1WbzU1WGdtdzRCVUJMNm8wMm9aNHFIWjRZcy1lYlJHcFpLb3ppYmN0RXcxQzNKMk54T3RabkZxM2RJaHpGdmx3Ml80NXNKYTRwRXVr?oc=5",
           "desc": "",
           "title_ko": "빠르게 성장하는 번트 케이크는 KKR에 판매되지 않습니다"
+        },
+        {
+          "title": "Dickey's franchise registration expires in several states",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2htYTBFcktuRV9YaDBkeFE1dzNYMjU5bWJHVzRsM3cxQjEtM3VzZG1PLU1ua01RZkl0Mkl2M3BQSnNINlAxUXA1QjVia1V5TFRXUENNeEt2dHJ3T3d3MU1vZ1E2cWpGWnkxLU4tWWRpVnlxY2dpRlZfRHZxR3NtZEl2RlhhRnhXMmVoN3NEV0stX2FadUYzNU1zMl81S20tdEE?oc=5",
+          "desc": "",
+          "title_ko": "Dickey's 프랜차이즈 등록이 여러 주에서 만료됩니다"
         },
         {
           "title": "Starbucks wants to get rid of the long lines at its airport shops",
@@ -78,22 +78,22 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Best Housewarming Gifts (That You’ll Want for Yourself)",
+          "link": "https://www.eater.com/24372860/best-housewarming-gifts",
+          "desc": "Housewarming gifts are tricky. They are tricky by scale: larger than a host gift, smaller than a wedding gift. And they are tricky by kind: housewarmi",
+          "title_ko": "최고의 하우스워밍 선물 (직접 원하는 선물)"
+        },
+        {
+          "title": "The 38 Best Restaurants in Rome, According to a Best-Selling Local Cookbook Author",
+          "link": "https://www.eater.com/maps/best-restaurants-rome-italy",
+          "desc": "Roman cuisine is a reflection of the city itself — layered, deeply rooted in tradition, and full of contrasts. After years of eating my way through Ro",
+          "title_ko": "베스트셀러 요리책 저자에 따르면 로마 최고의 레스토랑 38곳"
+        },
+        {
           "title": "Where Your Favorite Chefs and Food Experts Eat When They’re Off the Clock",
           "link": "https://www.eater.com/press-room/24434033/eater-app-list-sharing-chefs-creators",
           "desc": "The Eater app just got a lot better. It’s still the same trusted place to find great restaurants, but now with a smarter, more personal way to explore",
           "title_ko": "좋아하는 셰프와 음식 전문가가 언제 어디서나 식사를 즐길 수 있는 곳"
-        },
-        {
-          "title": "The Eater App Just Got a Lot Better",
-          "link": "https://www.eater.com/editor-newsletter/950572/new-eater-app-2026",
-          "desc": "A version of this post originally appeared in Stephanie Wu’s newsletter, “From the Editor,” which features an early peek at Eater’s biggest projects a",
-          "title_ko": "Eater 앱이 훨씬 더 좋아졌습니다"
-        },
-        {
-          "title": "The Ultra-Thick Pancake Is on the Rise",
-          "link": "https://www.eater.com/trends/950531/thick-fluffy-pancake-trend-explained-golden-diner",
-          "desc": "Buttermilk pancakes were a “day-one” item when Luella’s Southern Kitchen first opened in Chicago in 2015, explains owner Darnell Reed; nevertheless, t",
-          "title_ko": "매우 두꺼운 팬케이크가 떠오르고 있습니다"
         }
       ]
     }
@@ -140,10 +140,10 @@
           "title_en": "Please love me a lot 'The 3rd Seoul International Food Film Festival'"
         },
         {
-          "title": "'수미네 반찬' 김수미도 설렌 음식디미방 식사 체험..'궁금증 UP'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BN3MzOS1qRWs3bTNkMXFLMExPbEcydjZqc2JqRVJLNW4xZjNDZEt3c2JZRl90dEJWcDRhbl92aG5feGx4djhXaHBSOHpfZXBpM1HSAVNBVV95cUxQTmxCZHJ4YmhCaTljOXpRME9DN25MYUZ5SFFUS0hKN18zWU5VRXNOVTAxTUtUV1lyOEhXOU9xN0VhVDNyYjhYa1ZjWVRjV1hBa25LOA?oc=5",
+          "title": "해마로푸드서비스, 3.63% 오르며 체결강도 강세 지속(270%)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yOUpJaGw2ZHFoUlI5Ml9RWVhxU2RZajZ5d0dRNUVjY1BIQkdMWFVwb3dlbHJ3RTZ0UHNSNC0wUUJrUUhyck5QVWRRT0FjNDBzOEMw?oc=5",
           "desc": "",
-          "title_en": "'Sumine side dish' Kim Sumi also sullen food dining experience.. 'Curiosity UP'"
+          "title_en": "Hippopotamus Food Service Gains 3.63% and Strong Clamping Strength Continues (270%)"
         }
       ]
     },
