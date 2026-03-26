@@ -131,14 +131,35 @@ document.addEventListener('DOMContentLoaded', () => {
         visitorLabel.textContent = lang === 'en' ? ' visitors' : '명 방문';
     }
 
-    fetch('https://api.countapi.xyz/hit/foorend.github.io/visits')
-        .then(r => r.json())
-        .then(data => {
-            document.getElementById('visitor-count').textContent = data.value.toLocaleString();
-        })
-        .catch(() => {
-            document.getElementById('visitor-counter').style.display = 'none';
-        });
+    function loadVisitorCount() {
+        const APIs = [
+            {
+                url: 'https://api.counterapi.dev/v1/foorend-github-io/visits/up',
+                parse: d => d.count,
+            },
+            {
+                url: 'https://hits.dwyl.com/foorend/foorend.json',
+                parse: d => d.count,
+            },
+        ];
+        function tryNext(i) {
+            if (i >= APIs.length) return; // keep placeholder "—"
+            const { url, parse } = APIs[i];
+            fetch(url)
+                .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+                .then(data => {
+                    const n = parse(data);
+                    if (n != null && !isNaN(Number(n))) {
+                        document.getElementById('visitor-count').textContent = Number(n).toLocaleString();
+                    } else {
+                        tryNext(i + 1);
+                    }
+                })
+                .catch(() => tryNext(i + 1));
+        }
+        tryNext(0);
+    }
+    loadVisitorCount();
 
     if (currentLang === 'en') applyLang('en');
 
