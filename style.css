@@ -35,6 +35,28 @@ body {
     transition: background-color 0.3s, color 0.3s;
 }
 
+#lang-toggle {
+    position: fixed;
+    top: 1.2rem;
+    right: calc(1.2rem + 2.8rem + 0.5rem);
+    background-color: var(--toggle-bg);
+    color: var(--toggle-fg);
+    border: none;
+    border-radius: 20px;
+    padding: 0 0.9rem;
+    height: 2.8rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    z-index: 100;
+}
+
+#lang-toggle:hover {
+    opacity: 0.8;
+}
+
 #theme-toggle {
     position: fixed;
     top: 1.2rem;
@@ -527,6 +549,12 @@ button[type="submit"]:hover {
         top: 1.5rem;
         right: 2rem;
         width: 3rem;
+        height: 3rem;
+    }
+
+    #lang-toggle {
+        top: 1.5rem;
+        right: calc(2rem + 3rem + 0.5rem);
         height: 3rem;
     }
 }

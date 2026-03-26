@@ -12,6 +12,60 @@ document.addEventListener('DOMContentLoaded', () => {
         localStorage.setItem('theme', isLight ? 'light' : 'dark');
     });
 
+    // ── Language toggle ──────────────────────────────────────────
+    const translations = {
+        ko: {
+            heroWelcome: `FOOREND's Food Trend Archive에 오신 것을 환영합니다✨<br><br>이 페이지는 단순한 뉴스 모음이 아닙니다.<br>FOOREND는 2022년, 백화점 F&B팀 바이어로 일하던 Alex가 퇴사 후에도 현업의 감각을 잃지 않기 위해 시작한 국내외 F&B 비즈니스 뉴스 클리핑에서 출발했습니다. 그 기록이 쌓이고 쌓여, 지금은 메일 뉴스레터 구독자 3,500+, 인스타그램 팔로워 4,900+, 카카오톡 레터 구독자 1,000+분들과 함께하는 FOOREND가 되었고요.<br><br>이 아카이브 페이지는 그 루틴을 그대로 공개한 공간입니다.<br>매주 어떤 매체에서, 어떤 뉴스를 보고, 그 안에서 무엇을 클리핑하는지. FOOREND가 200건이 넘는 뉴스레터를 발행해오며 쌓아온 정보 탐색의 루틴을 담았습니다. 여기에 더해, 그 매체들의 뉴스가 3시간마다 자동으로 업데이트되도록 구성해두었습니다.<br><br>F&B 현업에 계신 분들께는 빠르게 트렌드를 짚을 수 있는 레퍼런스로, 크리에이터분들께는 콘텐츠 아이디어의 출발점으로, 이 업계에 관심을 갖기 시작한 분들께는 넓고 깊은 시야를 열어주는 공간이 되길 바라는 마음으로 만들었습니다.<br><br>한국에서도 글로벌 F&B 트렌드를, 글로벌에서도 한국 현지 F&B 트렌드를 자연스럽게 접할 수 있도록, 페이지 우측 상단에 한글/영어 자동번역 기능도 함께 준비했으니 많은 관심과 활용 부탁드립니다. 감사합니다🙇🏻`,
+            globalNewsTitle: '글로벌 F&B 최신 뉴스 📰',
+            koreanNewsTitle: '한국 F&B 최신 뉴스 📰',
+            contactTitle: '제휴 문의',
+            contactDesc: '광고, 콜라보, 원고 제안 등 편하게 남겨주세요 🤝',
+            namePlaceholder: '이름 / 회사명',
+            emailPlaceholder: '이메일',
+            subjectPlaceholder: '문의 유형 (광고, 콜라보, 기타 등)',
+            messagePlaceholder: '문의 내용을 입력해주세요',
+            submitBtn: '문의 보내기',
+        },
+        en: {
+            heroWelcome: `Welcome to FOOREND's Food Trend Archive ✨<br><br>This isn't just a news feed.<br>FOOREND began in 2022, when Alex — a former F&B buyer at a Korean department store — started clipping domestic and international F&B business news after leaving the industry, simply to stay sharp. That quiet habit grew into something bigger: a newsletter now shared with 3,500+ email subscribers, 4,900+ Instagram followers, and 1,000+ KakaoTalk Letter subscribers.<br><br>This archive is where that routine becomes visible.<br>Which outlets. Which stories. What gets picked and why. Everything that goes into building over 200 issues of FOOREND is laid out here — and the sources update automatically every 3 hours, so what you're seeing is always current.<br>It's built for the F&B professionals who need to move fast, the creators looking for their next angle, and anyone curious enough to want a real window into what's happening in this industry — not just locally, but globally.<br><br>Whether you're based in Korea and want to track global F&B trends, or you're somewhere in the world trying to understand what's happening in the Korean market, you'll find it here. An auto-translation toggle (KO/EN) sits in the top right corner — use it freely.<br>Hope this becomes a space you come back to 🙇🏻`,
+            globalNewsTitle: 'Global F&B Latest News 📰',
+            koreanNewsTitle: 'Korean F&B Latest News 📰',
+            contactTitle: 'Partnership Inquiries',
+            contactDesc: 'Advertising, collabs, content proposals — feel free to reach out 🤝',
+            namePlaceholder: 'Name / Company',
+            emailPlaceholder: 'Email',
+            subjectPlaceholder: 'Inquiry Type (Advertising, Collaboration, Other)',
+            messagePlaceholder: 'Write your message here',
+            submitBtn: 'Send a Message',
+        }
+    };
+
+    const langToggle = document.getElementById('lang-toggle');
+    let currentLang = localStorage.getItem('lang') || 'ko';
+
+    function applyLang(lang) {
+        const t = translations[lang];
+        document.getElementById('hero-welcome').innerHTML = t.heroWelcome;
+        document.getElementById('global-news-title').textContent = t.globalNewsTitle;
+        document.getElementById('korean-news-title').textContent = t.koreanNewsTitle;
+        document.getElementById('contact-title').textContent = t.contactTitle;
+        document.getElementById('contact-desc').textContent = t.contactDesc;
+        document.querySelector('input[name="name"]').placeholder = t.namePlaceholder;
+        document.querySelector('input[name="email"]').placeholder = t.emailPlaceholder;
+        document.querySelector('input[name="subject"]').placeholder = t.subjectPlaceholder;
+        document.querySelector('textarea[name="message"]').placeholder = t.messagePlaceholder;
+        document.getElementById('contact-submit').textContent = t.submitBtn;
+        langToggle.textContent = lang === 'ko' ? 'EN' : 'KO';
+        currentLang = lang;
+        localStorage.setItem('lang', lang);
+    }
+
+    if (currentLang === 'en') applyLang('en');
+
+    langToggle.addEventListener('click', () => {
+        applyLang(currentLang === 'ko' ? 'en' : 'ko');
+    });
+
     function renderNewsGrid(container, sources) {
         const keys = Object.keys(sources);
         if (!keys.length) {
@@ -93,7 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
     contactForm.addEventListener('submit', async (e) => {
         e.preventDefault();
         contactSubmit.disabled = true;
-        contactSubmit.textContent = '전송 중...';
+        contactSubmit.textContent = currentLang === 'en' ? 'Sending...' : '전송 중...';
 
         const res = await fetch(contactForm.action, {
             method: 'POST',
@@ -106,8 +160,8 @@ document.addEventListener('DOMContentLoaded', () => {
             contactConfirmation.classList.remove('hidden');
         } else {
             contactSubmit.disabled = false;
-            contactSubmit.textContent = '문의 보내기';
-            alert('전송에 실패했습니다. 잠시 후 다시 시도해주세요.');
+            contactSubmit.textContent = translations[currentLang].submitBtn;
+            alert(currentLang === 'en' ? 'Submission failed. Please try again later.' : '전송에 실패했습니다. 잠시 후 다시 시도해주세요.');
         }
     });
 });
