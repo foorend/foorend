@@ -25,9 +25,15 @@ document.addEventListener('DOMContentLoaded', () => {
             subjectPlaceholder: '문의 유형 (광고, 콜라보, 기타 등)',
             messagePlaceholder: '문의 내용을 입력해주세요',
             submitBtn: '문의 보내기',
+            newsLoading: '뉴스를 불러오는 중...',
+            newsEmpty: '뉴스를 준비 중입니다.',
+            newsError: '뉴스를 불러올 수 없습니다.',
+            articlesEmpty: '아티클을 준비 중입니다.',
+            articlesError: '아티클을 불러올 수 없습니다.',
+            seeMore: '더보기 →',
         },
         en: {
-            heroWelcome: `Welcome to FOOREND's Food Trend Archive ✨<br><br>This isn't just a news feed.<br>FOOREND began in 2022, when Alex — a former F&B buyer at a Korean department store — started clipping domestic and international F&B business news after leaving the industry, simply to stay sharp. That quiet habit grew into something bigger: a newsletter now shared with 3,500+ email subscribers, 4,900+ Instagram followers, and 1,000+ KakaoTalk Letter subscribers.<br><br>This archive is where that routine becomes visible.<br>Which outlets. Which stories. What gets picked and why. Everything that goes into building over 200 issues of FOOREND is laid out here — and the sources update automatically every 3 hours, so what you're seeing is always current.<br>It's built for the F&B professionals who need to move fast, the creators looking for their next angle, and anyone curious enough to want a real window into what's happening in this industry — not just locally, but globally.<br><br>Whether you're based in Korea and want to track global F&B trends, or you're somewhere in the world trying to understand what's happening in the Korean market, you'll find it here. An auto-translation toggle (KO/EN) sits in the top right corner — use it freely.<br>Hope this becomes a space you come back to 🙇🏻`,
+            heroWelcome: `Welcome to FOOREND's Food Trend Archive ✨<br><br>This isn't just a news feed.<br>FOOREND began in 2022, when Alex — a former F&B buyer at a Korean department store — started clipping domestic and international F&B business news after leaving the industry, simply to stay sharp. That quiet habit grew into something bigger: a newsletter now shared with 3,500+ email subscribers, 4,900+ Instagram followers, and 1,000+ KakaoTalk Letter subscribers.<br><br>This archive is where that routine becomes visible. Which outlets. Which stories. What gets picked and why. Everything that goes into building over 200 issues of FOOREND is laid out here — and the sources update automatically every 3 hours, so what you're seeing is always current. It's built for the F&B professionals who need to move fast, the creators looking for their next angle, and anyone curious enough to want a real window into what's happening in this industry — not just locally, but globally.<br><br>Whether you're based in Korea and want to track global F&B trends, or you're somewhere in the world trying to understand what's happening in the Korean market, you'll find it here. An auto-translation toggle (KO/EN) sits in the top right corner — use it freely. Hope this becomes a space you come back to 🙇🏻`,
             globalNewsTitle: 'Global F&B Latest News 📰',
             koreanNewsTitle: 'Korean F&B Latest News 📰',
             contactTitle: 'Partnership Inquiries',
@@ -37,11 +43,58 @@ document.addEventListener('DOMContentLoaded', () => {
             subjectPlaceholder: 'Inquiry Type (Advertising, Collaboration, Other)',
             messagePlaceholder: 'Write your message here',
             submitBtn: 'Send a Message',
+            newsLoading: 'Loading news...',
+            newsEmpty: 'No news available.',
+            newsError: 'Failed to load news.',
+            articlesEmpty: 'No articles available.',
+            articlesError: 'Failed to load articles.',
+            seeMore: 'More →',
         }
     };
 
     const langToggle = document.getElementById('lang-toggle');
     let currentLang = localStorage.getItem('lang') || 'ko';
+    let fetchedData = null;
+
+    function renderNewsGrid(container, sources, lang) {
+        const t = translations[lang];
+        const keys = Object.keys(sources);
+        if (!keys.length) {
+            container.innerHTML = `<p class="news-loading">${t.newsEmpty}</p>`;
+            return;
+        }
+        const grid = document.createElement('div');
+        grid.className = 'news-grid';
+        let hasItems = false;
+        keys.forEach(key => {
+            const src = sources[key];
+            const items = src.items || [];
+            if (!items.length) return;
+            hasItems = true;
+            const block = document.createElement('div');
+            block.className = 'feed-source';
+            block.innerHTML = `
+                <div class="feed-source-header">
+                    <h3 class="feed-source-name">${src.label}</h3>
+                    <a href="${src.site}" class="feed-source-link" target="_blank" rel="noopener">${t.seeMore}</a>
+                </div>
+                <ul class="feed-items">
+                    ${items.map(item => `
+                        <li class="feed-item">
+                            <a href="${item.link}" class="feed-item-title" target="_blank" rel="noopener">${item.title}</a>
+                            ${item.desc ? `<p class="feed-item-desc">${item.desc}</p>` : ''}
+                        </li>
+                    `).join('')}
+                </ul>`;
+            grid.appendChild(block);
+        });
+        if (!hasItems) {
+            container.innerHTML = `<p class="news-loading">${t.newsEmpty}</p>`;
+            return;
+        }
+        container.innerHTML = '';
+        container.appendChild(grid);
+    }
 
     function applyLang(lang) {
         const t = translations[lang];
@@ -58,6 +111,14 @@ document.addEventListener('DOMContentLoaded', () => {
         langToggle.textContent = lang === 'ko' ? 'EN' : 'KO';
         currentLang = lang;
         localStorage.setItem('lang', lang);
+
+        // Re-render news grids if data is already loaded
+        if (fetchedData) {
+            const newsContainer = document.getElementById('news-feeds');
+            const koreanNewsContainer = document.getElementById('korean-news-feeds');
+            if (newsContainer) renderNewsGrid(newsContainer, fetchedData.sources || {}, lang);
+            if (koreanNewsContainer) renderNewsGrid(koreanNewsContainer, fetchedData.korean_news || {}, lang);
+        }
     }
 
     if (currentLang === 'en') applyLang('en');
@@ -66,66 +127,26 @@ document.addEventListener('DOMContentLoaded', () => {
         applyLang(currentLang === 'ko' ? 'en' : 'ko');
     });
 
-    function renderNewsGrid(container, sources) {
-        const keys = Object.keys(sources);
-        if (!keys.length) {
-            container.innerHTML = '<p class="news-loading">뉴스를 준비 중입니다.</p>';
-            return;
-        }
-        const grid = document.createElement('div');
-        grid.className = 'news-grid';
-        let hasItems = false;
-        keys.forEach(key => {
-            const src = sources[key];
-            const items = src.items || [];
-            if (!items.length) return;
-            hasItems = true;
-            const block = document.createElement('div');
-            block.className = 'feed-source';
-            block.innerHTML = `
-                <div class="feed-source-header">
-                    <h3 class="feed-source-name">${src.label}</h3>
-                    <a href="${src.site}" class="feed-source-link" target="_blank" rel="noopener">더보기 →</a>
-                </div>
-                <ul class="feed-items">
-                    ${items.map(item => `
-                        <li class="feed-item">
-                            <a href="${item.link}" class="feed-item-title" target="_blank" rel="noopener">${item.title}</a>
-                            ${item.desc ? `<p class="feed-item-desc">${item.desc}</p>` : ''}
-                        </li>
-                    `).join('')}
-                </ul>`;
-            grid.appendChild(block);
-        });
-        if (!hasItems) {
-            container.innerHTML = '<p class="news-loading">뉴스를 준비 중입니다.</p>';
-            return;
-        }
-        container.innerHTML = '';
-        container.appendChild(grid);
-    }
-
-    // Global news feeds
+    // ── News & articles fetch ────────────────────────────────────
     const newsContainer = document.getElementById('news-feeds');
-    // Korean news feeds
     const koreanNewsContainer = document.getElementById('korean-news-feeds');
-    // Korean articles list
     const koreanArticlesList = document.getElementById('korean-articles-list');
 
     if (newsContainer || koreanNewsContainer || koreanArticlesList) {
         fetch('feeds.json')
             .then(r => r.json())
             .then(data => {
+                fetchedData = data;
                 if (newsContainer) {
-                    renderNewsGrid(newsContainer, data.sources || {});
+                    renderNewsGrid(newsContainer, data.sources || {}, currentLang);
                 }
                 if (koreanNewsContainer) {
-                    renderNewsGrid(koreanNewsContainer, data.korean_news || {});
+                    renderNewsGrid(koreanNewsContainer, data.korean_news || {}, currentLang);
                 }
                 if (koreanArticlesList) {
                     const articles = data.korean_articles || [];
                     if (!articles.length) {
-                        koreanArticlesList.innerHTML = '<li class="articles-loading">아티클을 준비 중입니다.</li>';
+                        koreanArticlesList.innerHTML = `<li class="articles-loading">${translations[currentLang].articlesEmpty}</li>`;
                         return;
                     }
                     koreanArticlesList.innerHTML = articles.map(a => `
@@ -134,12 +155,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             })
             .catch(() => {
-                if (newsContainer) newsContainer.innerHTML = '<p class="news-loading">뉴스를 불러올 수 없습니다.</p>';
-                if (koreanNewsContainer) koreanNewsContainer.innerHTML = '<p class="news-loading">뉴스를 불러올 수 없습니다.</p>';
-                if (koreanArticlesList) koreanArticlesList.innerHTML = '<li class="articles-loading">아티클을 불러올 수 없습니다.</li>';
+                const t = translations[currentLang];
+                if (newsContainer) newsContainer.innerHTML = `<p class="news-loading">${t.newsError}</p>`;
+                if (koreanNewsContainer) koreanNewsContainer.innerHTML = `<p class="news-loading">${t.newsError}</p>`;
+                if (koreanArticlesList) koreanArticlesList.innerHTML = `<li class="articles-loading">${t.articlesError}</li>`;
             });
     }
 
+    // ── Contact form ─────────────────────────────────────────────
     const contactForm = document.getElementById('contact-form');
     const contactConfirmation = document.getElementById('contact-confirmation');
     const contactSubmit = document.getElementById('contact-submit');
