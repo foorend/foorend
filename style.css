@@ -465,10 +465,11 @@ button[type="submit"]:hover {
         overflow-y: auto;
     }
 
-    /* ── Pages 2 & 3: sections fill column width, centered in column ── */
+    /* ── Pages 2 & 3: sections start from same top position ── */
     .pc-page-2 .pc-col,
     .pc-page-3 .pc-col {
-        justify-content: center;
+        justify-content: flex-start;
+        padding-top: 8vh;
     }
 
     .pc-col .articles-section,
