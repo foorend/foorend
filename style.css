@@ -110,6 +110,30 @@ header h1 {
     background-color: var(--btn-hover);
 }
 
+.links-small {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    justify-content: center;
+}
+
+.btn-small {
+    background-color: var(--btn-bg);
+    color: var(--fg);
+    padding: 0.5rem 0.8rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    border: 1px solid var(--btn-border);
+}
+
+.btn-small:hover {
+    background-color: var(--btn-hover);
+}
+
 form {
     display: flex;
     flex-direction: column;
@@ -454,9 +478,14 @@ button[type="submit"]:hover {
         flex-direction: row;
         gap: 1rem;
         margin-top: 1.5rem;
-        margin-bottom: 0;
+        margin-bottom: 0.8rem;
         width: 100%;
         justify-content: center;
+    }
+
+    .pc-page-1 .pc-left .links-small {
+        justify-content: center;
+        margin-bottom: 0;
     }
 
     /* Right column: welcome text */
