@@ -29,13 +29,6 @@ HEADERS = {
 
 SOURCES = [
     {
-        'key': 'eater',
-        'label': 'Eater',
-        'site': 'https://www.eater.com/trends',
-        'rss': 'https://www.eater.com/rss/index.xml',
-        'mode': 'direct',
-    },
-    {
         'key': 'restaurantbusiness',
         'label': 'Restaurant Business',
         'site': 'https://www.restaurantbusinessonline.com/',
@@ -55,6 +48,13 @@ SOURCES = [
         'site': 'https://www.businessinsider.com/food',
         'rss': 'https://news.google.com/rss/search?q=site:businessinsider.com/food&hl=en-US&gl=US&ceid=US:en',
         'mode': 'googlenews',
+    },
+    {
+        'key': 'eater',
+        'label': 'Eater',
+        'site': 'https://www.eater.com/trends',
+        'rss': 'https://www.eater.com/rss/index.xml',
+        'mode': 'direct',
     },
 ]
 

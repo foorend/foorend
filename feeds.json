@@ -1,31 +1,7 @@
 {
   "lastUpdated": "2026-03-26T08:47:55Z",
-  "sources": {
-    "eater": {
-      "label": "Eater",
-      "site": "https://www.eater.com/trends",
-      "items": [
-        {
-          "title": "Where Your Favorite Chefs and Food Experts Eat When They’re Off the Clock",
-          "link": "https://www.eater.com/press-room/24434033/eater-app-list-sharing-chefs-creators",
-          "desc": "The Eater app just got a lot better. It’s still the same trusted place to find great restaurants, but now with a smarter, more personal way to explore",
-          "title_ko": "좋아하는 셰프와 음식 전문가가 언제 어디서나 식사를 즐길 수 있는 곳"
-        },
-        {
-          "title": "The Eater App Just Got a Lot Better",
-          "link": "https://www.eater.com/editor-newsletter/950572/new-eater-app-2026",
-          "desc": "A version of this post originally appeared in Stephanie Wu’s newsletter, “From the Editor,” which features an early peek at Eater’s biggest projects a",
-          "title_ko": "Eater 앱이 훨씬 더 좋아졌습니다"
-        },
-        {
-          "title": "The Ultra-Thick Pancake Is on the Rise",
-          "link": "https://www.eater.com/trends/950531/thick-fluffy-pancake-trend-explained-golden-diner",
-          "desc": "Buttermilk pancakes were a “day-one” item when Luella’s Southern Kitchen first opened in Chicago in 2015, explains owner Darnell Reed; nevertheless, t",
-          "title_ko": "매우 두꺼운 팬케이크가 떠오르고 있습니다"
-        }
-      ]
-    },
-    "restaurantbusiness": {
+  “sources”: {
+    “restaurantbusiness”: {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
@@ -94,6 +70,30 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
           "desc": "",
           "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다."
+        }
+      ]
+    },
+    "eater": {
+      "label": "Eater",
+      "site": "https://www.eater.com/trends",
+      "items": [
+        {
+          "title": "Where Your Favorite Chefs and Food Experts Eat When They're Off the Clock",
+          "link": "https://www.eater.com/press-room/24434033/eater-app-list-sharing-chefs-creators",
+          "desc": "The Eater app just got a lot better. It's still the same trusted place to find great restaurants, but now with a smarter, more personal way to explore",
+          "title_ko": "좋아하는 셰프와 음식 전문가가 언제 어디서나 식사를 즐길 수 있는 곳"
+        },
+        {
+          "title": "The Eater App Just Got a Lot Better",
+          "link": "https://www.eater.com/editor-newsletter/950572/new-eater-app-2026",
+          "desc": "A version of this post originally appeared in Stephanie Wu's newsletter, "From the Editor," which features an early peek at Eater's biggest projects a",
+          "title_ko": "Eater 앱이 훨씬 더 좋아졌습니다"
+        },
+        {
+          "title": "The Ultra-Thick Pancake Is on the Rise",
+          "link": "https://www.eater.com/trends/950531/thick-fluffy-pancake-trend-explained-golden-diner",
+          "desc": "Buttermilk pancakes were a "day-one" item when Luella's Southern Kitchen first opened in Chicago in 2015, explains owner Darnell Reed; nevertheless, t",
+          "title_ko": "매우 두꺼운 팬케이크가 떠오르고 있습니다"
         }
       ]
     }
