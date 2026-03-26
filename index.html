@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>푸드 트렌드 매거진👨🏻‍💻푸렌드🍽️</title>
+    <title>FOOREND's Food Trend Archive</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -11,16 +11,13 @@
     <div class="container">
         <header>
             <img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a420d865-800b-4ed2-865a-b611cb27aaad/thumb_%ED%91%B8%EB%A0%8C%EB%93%9C_%EB%A1%9C%EA%B3%A0.jpg" alt="푸렌드 로고" class="logo">
-            <h1>푸드 트렌드 매거진👨🏻‍💻푸렌드🍽️</h1>
-            <p class="subtitle">국내/해외 F&B Biz News부터 푸드 트렌드 요약까지🗣</p>
+            <h1>FOOREND's Food Trend Archive</h1>
+            <p class="subtitle">Korean / Global F&B Business Magazine, FOOREND's Food Trend Archive.</p>
         </header>
         <main>
-<div class="description">
-                <p>맛집블로거에서 백화점 F&B MD/Buyer로, 퇴사 후 메뉴 기획 컨설팅, 밀 키트 크라우드 펀딩, 오프라인 F&B 브랜드 운영/마케팅에 식품 관련 웹툰 감수까지- F&B와 맞닿아 있는 다양한 일들을 하는 Alex가 직접 클리핑한 국내외 F&B 트렌드 리포트 매거진, 'FOOREND(Food Trend)'입니다!</p>
-            </div>
             <div class="links">
-                <a href="https://foodtrend.stibee.com/" class="btn">뉴스레터 구독하기 💌</a>
-                <a href="https://www.instagram.com/foodtrendf_oorend/" class="btn">인스타그램 ✨</a>
+                <a href="https://litt.ly/foorend" class="btn" target="_blank" rel="noopener">About FOOREND?</a>
+                <a href="https://www.instagram.com/foodtrendf_oorend/" class="btn" target="_blank" rel="noopener">FOOREND's Founder, Alex</a>
             </div>
             <form id="subscribe-form" class="hidden">
                 <input type="email" id="email" name="email" placeholder="Enter your email" required>
@@ -29,8 +26,8 @@
             <p id="confirmation-message" class="hidden">Thank you for subscribing!</p>
 
             <section class="articles-section">
-                <h2 class="articles-title">English Articles 🌍</h2>
-                <p class="articles-desc">영문으로 읽는 글로벌 F&B 트렌드</p>
+                <h2 class="articles-title">FOOREND (English)</h2>
+                <p class="articles-desc">English version of FOOREND - Korean / Global F&B Business Trend Newsletter</p>
                 <ul class="articles-list">
                     <li><a href="https://foodtrend.beehiiv.com/p/global-beverage-trends-for-2026" target="_blank" rel="noopener">🥤 Global Beverage Trends for 2026</a></li>
                     <li><a href="https://foodtrend.beehiiv.com/p/five-shifts-shaping-korea-s-food-scene-right-now" target="_blank" rel="noopener">🔥 Five Shifts Shaping Korea's Food Scene Right Now</a></li>
@@ -41,9 +38,22 @@
                 </ul>
             </section>
 
+            <section class="articles-section">
+                <h2 class="articles-title">FOOREND (Korean)</h2>
+                <p class="articles-desc">Korean version of FOOREND - Korean / Global F&B Business Trend Newsletter</p>
+                <ul class="articles-list" id="korean-articles-list">
+                    <li class="articles-loading">아티클을 불러오는 중...</li>
+                </ul>
+            </section>
+
             <section class="news-section">
                 <h2 class="news-section-title">글로벌 F&amp;B 최신 뉴스 📰</h2>
                 <div id="news-feeds"><p class="news-loading">뉴스를 불러오는 중...</p></div>
+            </section>
+
+            <section class="news-section">
+                <h2 class="news-section-title">한국 F&amp;B 최신 뉴스 📰</h2>
+                <div id="korean-news-feeds"><p class="news-loading">뉴스를 불러오는 중...</p></div>
             </section>
 
             <section class="contact-section">

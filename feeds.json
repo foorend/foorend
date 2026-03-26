@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T05:52:25Z",
+  "lastUpdated": "2026-03-26T06:36:40Z",
   "sources": {
     "eater": {
       "label": "Eater",
@@ -18,7 +18,7 @@
         {
           "title": "The Ultra-Thick Pancake Is on the Rise",
           "link": "https://www.eater.com/trends/950531/thick-fluffy-pancake-trend-explained-golden-diner",
-          "desc": "The famous Golden Diner pancakes are made by flooding a pan with yeasted batter, which allows them to grow tall and domed in shape. | Cole Saladino\t\n\n"
+          "desc": "Buttermilk pancakes were a “day-one” item when Luella’s Southern Kitchen first opened in Chicago in 2015, explains owner Darnell Reed; nevertheless, t"
         }
       ]
     },
@@ -85,5 +85,108 @@
         }
       ]
     }
-  }
+  },
+  "korean_news": {
+    "hankyung": {
+      "label": "한국경제",
+      "site": "https://www.hankyung.com/topic/food",
+      "items": [
+        {
+          "title": "푸디스트, 케어푸드 브랜드 ‘케어포유’ 론칭, B2C 시장까지 확장하는 라이프케어 전략 본격화",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50enR1VmJXczNQaTY2ME1HNXR5ZEJUZDFfU0xRVGw2aUNncFdYYU9YTzliYXhiWWpGZ0gyNUhLYXNYYkJNLVBFaVZGRktfbDZOMk9FV0kyakNnRTlhSnhuYjVJd28yYU5aci1F?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "피죤, 땀·음식 냄새 99% 제거…장마에도 향기롭게",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TWk5LYnBqcjY4ZkJZaHp3dWhpWDBZQUdyS0lqaTQ1TXFtcE9jdUg2ZkEzdmhZUVgzMVFQRUVpR19WeTIxUVd0SmdhSjdwXy1ZYnAzSGxkWHB2UdIBVEFVX3lxTE5SNlk5bzRlRWdETEotNVZZUklFcThneFhRNUpzc0VQekNfMkxHY2hzcHZPZDlydXJ4TjhhbHZrZUhVR2xXY3JpaDg5dkstRkM5Nk9SdQ?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "[2026 올해의 프랜차이즈 브랜드파워 1위] 중국음식 전문 브랜드, 하이탠탠마라탕",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tTzk5WDlYUWJUdkpzUU5wYkdBXzZEMVhzYlFsMG5tX1hEdHp6OWdCQ1pIX0NhdHlWcG1rX1pZM0VRLXY5cjZfUl9vQkd5Y2JmNE1BeGp6cUtDQW5OeXd2LXQ3QUhkN2tTMzNIaQ?oc=5",
+          "desc": ""
+        }
+      ]
+    },
+    "sedaily": {
+      "label": "서울경제",
+      "site": "https://www.sedaily.com",
+      "items": [
+        {
+          "title": "'수미네 반찬' 김수미도 설렌 음식디미방 식사 체험..'궁금증 UP'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BN3MzOS1qRWs3bTNkMXFLMExPbEcydjZqc2JqRVJLNW4xZjNDZEt3c2JZRl90dEJWcDRhbl92aG5feGx4djhXaHBSOHpfZXBpM1HSAVNBVV95cUxQTmxCZHJ4YmhCaTljOXpRME9DN25MYUZ5SFFUS0hKN18zWU5VRXNOVTAxTUtUV1lyOEhXOU9xN0VhVDNyYjhYa1ZjWVRjV1hBa25LOA?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "'제3회 서울국제음식영화제' 많이 사랑해주세요",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53X1pzWk8zc3c4emt0cVBPOFVmRWVKdzR1RFRYNjVPaWs2b3lMYV9aN3NkWElyMVFCQ3dEbnFmQXJoU3dOTC1hOGp0aG9NYWE1TFJv0gFTQVVfeXFMTndfWnNaTzNzdzh6a3RxUE84VWZFZUp3NHVEVFg2NU9pazZveUxhX1o3c2RYSXIxUUJDd0RucWZBcmhTd05MLWE4anRob01hYTVMUm8?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "해마로푸드서비스, 3.63% 오르며 체결강도 강세 지속(270%)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yOUpJaGw2ZHFoUlI5Ml9RWVhxU2RZajZ5d0dRNUVjY1BIQkdMWFVwb3dlbHJ3RTZ0UHNSNC0wUUJrUUhyck5QVWRRT0FjNDBzOEMw?oc=5",
+          "desc": ""
+        }
+      ]
+    },
+    "maeil": {
+      "label": "매일경제",
+      "site": "https://www.mk.co.kr",
+      "items": [
+        {
+          "title": "어보브푸드인그리디언츠, 내부자 거래 의혹 전면 부인 및 나스닥 상장 유지 절차 신속 진행",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zMjlQa0NsckZ5TUhIUzNyRHJYTlNNRlJWREpXYVdxN3VzbE5LbGpkbDFSZEI0RjQ4WElnRUR1M0RqRU1WSXlmOVRkazlWek9RWEE?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "G. 윌리-푸드 인터내셔널, 2025년 매출 6.1억 쉐켈·영업익 33% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83NzA3N2xVdHYwZVhyTUZJWUl4MWlCSlJsWkNLYkZ4M0R6YjRZdFU5Z2JldzFBeHdyeE11WnVDaXZkSlVpTmJmME9DRzRFRy1wM0E?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "롯데웰푸드(280360) 소폭 상승세 +3.31%",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCVFZWSDBMalBkbl9yOXp5a081WjJfVXM2UEN6UUk2RTJtN3FjT1BURmlwV01ESG9zVGM4amM4NTJWWm1pZkd6ZHhqTTJyV05mZXc?oc=5",
+          "desc": ""
+        }
+      ]
+    },
+    "realfoods": {
+      "label": "리얼푸드",
+      "site": "https://www.realfoods.co.kr",
+      "items": [
+        {
+          "title": "이렇게 먹으면 부담 절반…파스타 열량·혈당 잡는 법",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4MzE1X0xfVldELUdLYW9ldjNvODBhMUhNQnJ0LTkwanhOOE9ZdHBoQ1VhaTFhdklhU29pTmFwSG44YWpjT21HVTlnNDV5UVZlZVY3S0NfWQ?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "이디야커피, 모찌 디저트 확장…과일 맛 2종 선봬",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wNkRJR0RGSkw4Z1BrajlkemxfQlZVSnV2T2RPclNnWFd4LUtGSkFyNmR5VFo0bTF5MllLcDFEb2dQTW8xeFFqZFM5cnNQYnkyUTIxaExpWQ?oc=5",
+          "desc": ""
+        },
+        {
+          "title": "말차부터 두쫀쿠까지…SNS가 만든 유행 법칙",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GZE9VeTQtVkhMeU9ZX1MtaTZsTEJLRC1hOG13U0tiTGJfd3NieTlNV2R3dWVvb1drNW9COFlWZ0I1a05QMm1kbGRieDRRdm8yT25XZ3Zqcw?oc=5",
+          "desc": ""
+        }
+      ]
+    }
+  },
+  "korean_articles": [
+    {
+      "title": "푸드 트렌드 요약, 푸렌드",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1hMDdpdXRScF9mbVpQc01DZWJFaVdjemtBSGFVaXZGN1N3dmU3UFVhcnNTVm5UQTNMZVgwY3hMQ0oxVU0?oc=5",
+      "desc": ""
+    },
+    {
+      "title": "🥔식자재도 팝업도, 브랜딩이 중요한 시대🍩✨",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iMzNBX3k3MndVNDUzdEctWG54WkhOTVQ5QVpqeFJCanplQWZSSU5fOXZhdlZNOHRKMTB0dUNNSjBHSVJYM29Sc1ZNX0p0VHljWHlUQ29kQ2tYeW42bG1OX29kcE9VbkZmNko5MzA4UmhkTy1TRDI1M21VbXNsQQ?oc=5",
+      "desc": ""
+    },
+    {
+      "title": "🍗10년 동안 1위였던 교촌을 이긴 치킨은?🏆✨",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0waFVJLXh0SHNqMU8tamxTc0V0VEhDTmEybkxFWkdfWjVHTnNmNkRHTGxBaW5Wd3lQOGdwYmZaaXpFVURiYm1tcVpRRGhiWkdCOENiZlJNUV9BbG9GVVpSN2tXRmQ5MXFybUk5b1R0RF9XRE1YTk5JM0ZFdmxLQQ?oc=5",
+      "desc": ""
+    }
+  ]
 }
