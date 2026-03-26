@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T08:47:55Z",
+  "lastUpdated": "2026-03-26T11:39:02Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -78,21 +78,21 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "Where Your Favorite Chefs and Food Experts Eat When They're Off the Clock",
+          "title": "Where Your Favorite Chefs and Food Experts Eat When They’re Off the Clock",
           "link": "https://www.eater.com/press-room/24434033/eater-app-list-sharing-chefs-creators",
-          "desc": "The Eater app just got a lot better. It's still the same trusted place to find great restaurants, but now with a smarter, more personal way to explore",
+          "desc": "The Eater app just got a lot better. It’s still the same trusted place to find great restaurants, but now with a smarter, more personal way to explore",
           "title_ko": "좋아하는 셰프와 음식 전문가가 언제 어디서나 식사를 즐길 수 있는 곳"
         },
         {
           "title": "The Eater App Just Got a Lot Better",
           "link": "https://www.eater.com/editor-newsletter/950572/new-eater-app-2026",
-          "desc": "A version of this post originally appeared in Stephanie Wu's newsletter, \"From the Editor,\" which features an early peek at Eater's biggest projects a",
+          "desc": "A version of this post originally appeared in Stephanie Wu’s newsletter, “From the Editor,” which features an early peek at Eater’s biggest projects a",
           "title_ko": "Eater 앱이 훨씬 더 좋아졌습니다"
         },
         {
           "title": "The Ultra-Thick Pancake Is on the Rise",
           "link": "https://www.eater.com/trends/950531/thick-fluffy-pancake-trend-explained-golden-diner",
-          "desc": "Buttermilk pancakes were a \"day-one\" item when Luella's Southern Kitchen first opened in Chicago in 2015, explains owner Darnell Reed; nevertheless, t",
+          "desc": "Buttermilk pancakes were a “day-one” item when Luella’s Southern Kitchen first opened in Chicago in 2015, explains owner Darnell Reed; nevertheless, t",
           "title_ko": "매우 두꺼운 팬케이크가 떠오르고 있습니다"
         }
       ]
@@ -128,10 +128,10 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "'수미네 반찬' 김수미도 설렌 음식디미방 식사 체험..'궁금증 UP'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BN3MzOS1qRWs3bTNkMXFLMExPbEcydjZqc2JqRVJLNW4xZjNDZEt3c2JZRl90dEJWcDRhbl92aG5feGx4djhXaHBSOHpfZXBpM1HSAVNBVV95cUxQTmxCZHJ4YmhCaTljOXpRME9DN25MYUZ5SFFUS0hKN18zWU5VRXNOVTAxTUtUV1lyOEhXOU9xN0VhVDNyYjhYa1ZjWVRjV1hBa25LOA?oc=5",
+          "title": "'제3회 서울국제음식영화제' 많이 사랑해주세요",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNEp6Tm5jVFFOYkNUUDNJNnpYOS1vUmJOc0tuc1c5T1NwSEJEb1F4UFVxZmo3TUQ3SXoxckE2c3ZPbE1sNV9xX3VzSWpZVkpGMlHSAVNBVV95cUxOd19ac1pPM3N3OHprdHFQTzhVZkVlSnc0dURUWDY1T2lrNm95TGFfWjdzZFhJcjFRQkN3RG5xZkFyaFN3TkwtYThqdGhvTWFhNUxSbw?oc=5",
           "desc": "",
-          "title_en": "'Sumine side dish' Kim Sumi also sullen food dining experience.. 'Curiosity UP'"
+          "title_en": "Please love me a lot 'The 3rd Seoul International Food Film Festival'"
         },
         {
           "title": "'제3회 서울국제음식영화제' 많이 사랑해주세요",
@@ -140,10 +140,10 @@
           "title_en": "Please love me a lot 'The 3rd Seoul International Food Film Festival'"
         },
         {
-          "title": "해마로푸드서비스, 3.63% 오르며 체결강도 강세 지속(270%)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yOUpJaGw2ZHFoUlI5Ml9RWVhxU2RZajZ5d0dRNUVjY1BIQkdMWFVwb3dlbHJ3RTZ0UHNSNC0wUUJrUUhyck5QVWRRT0FjNDBzOEMw?oc=5",
+          "title": "'수미네 반찬' 김수미도 설렌 음식디미방 식사 체험..'궁금증 UP'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BN3MzOS1qRWs3bTNkMXFLMExPbEcydjZqc2JqRVJLNW4xZjNDZEt3c2JZRl90dEJWcDRhbl92aG5feGx4djhXaHBSOHpfZXBpM1HSAVNBVV95cUxQTmxCZHJ4YmhCaTljOXpRME9DN25MYUZ5SFFUS0hKN18zWU5VRXNOVTAxTUtUV1lyOEhXOU9xN0VhVDNyYjhYa1ZjWVRjV1hBa25LOA?oc=5",
           "desc": "",
-          "title_en": "Hippopotamus Food Service Gains 3.63% and Strong Clamping Strength Continues (270%)"
+          "title_en": "'Sumine side dish' Kim Sumi also sullen food dining experience.. 'Curiosity UP'"
         }
       ]
     },
@@ -158,16 +158,16 @@
           "title_en": "Above Foods Ingridians Quickly Deny Alleged Insider Trading Allegations and Keep Nasdaq Listed"
         },
         {
-          "title": "G. 윌리-푸드 인터내셔널, 2025년 매출 6.1억 쉐켈·영업익 33% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83NzA3N2xVdHYwZVhyTUZJWUl4MWlCSlJsWkNLYkZ4M0R6YjRZdFU5Z2JldzFBeHdyeE11WnVDaXZkSlVpTmJmME9DRzRFRy1wM0E?oc=5",
-          "desc": "",
-          "title_en": "G. Willie-Foods International saw a 33% spike in sales of 610 million shekels and operating profits in 2025"
-        },
-        {
           "title": "롯데웰푸드(280360) 소폭 상승세 +3.31%",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCVFZWSDBMalBkbl9yOXp5a081WjJfVXM2UEN6UUk2RTJtN3FjT1BURmlwV01ESG9zVGM4amM4NTJWWm1pZkd6ZHhqTTJyV05mZXc?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food (280360) Slight increase +3.31%"
+        },
+        {
+          "title": "한국남부발전 신인천빛드림본부, 인천 서구푸드마켓 1호점에 1000만원 기탁",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VTUtzZUNDbWc0TG1FVi1vYTZOU3J3LTVaOU0zbmUwQkFmaUw1OXdDcS1HSGdURUdmYVZucXFSNlB5UWlRRkVmV0pJVWl6VkdkOEg0bFpn?oc=5",
+          "desc": "",
+          "title_en": "South Korea Power Plant Shin Incheon Dream Headquarters Deposits KRW 10 Million at 1st Food Market in Seo-gu, Incheon"
         }
       ]
     },
