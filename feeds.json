@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T05:52:43Z",
+  "lastUpdated": "2026-03-27T08:09:43Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "'제3회 서울국제음식영화제' 많이 사랑해주세요",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNEp6Tm5jVFFOYkNUUDNJNnpYOS1vUmJOc0tuc1c5T1NwSEJEb1F4UFVxZmo3TUQ3SXoxckE2c3ZPbE1sNV9xX3VzSWpZVkpGMlHSAVNBVV95cUxOd19ac1pPM3N3OHprdHFQTzhVZkVlSnc0dURUWDY1T2lrNm95TGFfWjdzZFhJcjFRQkN3RG5xZkFyaFN3TkwtYThqdGhvTWFhNUxSbw?oc=5",
+          "desc": "",
+          "title_en": "Please love me a lot 'The 3rd Seoul International Food Film Festival'"
+        },
+        {
           "title": "'수미네 반찬' 김수미도 설렌 음식디미방 식사 체험..'궁금증 UP'",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BN3MzOS1qRWs3bTNkMXFLMExPbEcydjZqc2JqRVJLNW4xZjNDZEt3c2JZRl90dEJWcDRhbl92aG5feGx4djhXaHBSOHpfZXBpM1HSAVNBVV95cUxQTmxCZHJ4YmhCaTljOXpRME9DN25MYUZ5SFFUS0hKN18zWU5VRXNOVTAxTUtUV1lyOEhXOU9xN0VhVDNyYjhYa1ZjWVRjV1hBa25LOA?oc=5",
           "desc": "",
@@ -138,12 +144,6 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IcGc1MzRhVHQtUG02WXRwdEVnTmFIZm92ak5UTzV1ajlSZTFoNk9qZ2tYcFo3b2U1NElNX0FuTExMdEg3M0Z0N0xTUzhVUXpTNlHSAVNBVV95cUxOaWV3bVQ2ZHZJUHFnaU9Ia0NOVnBNQ1Zhd2FGa19yNFdURUFLQzQ1NWtGSTBOZDlCeU9fbnJwUGpuUjFaMEtzNWN2dkYzY1gya3hrRQ?oc=5",
           "desc": "",
           "title_en": "'' Ha Seong-woon, Standing Broadcast Parade \"I've never eaten such delicious food before\""
-        },
-        {
-          "title": "손경식 CJ제일제당 대표, 주총서 “심려 끼쳐 죄송…K푸드 확장·헬스케어 육성”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CRzUyWm95M3lpd21SM0dZaWNDVzVwT0NhVzcwX2hzUG1ZVFdMSFRVY0dpMm55amZIMlhodGFpQ1RKdnhTUlAxSFFSOXIxdGwzR2fSAVNBVV95cUxOcnUxdzVIMnR4bUZOUGgwSXRjNWo3dVB3c0RCWFZvVVFZNEdmNlJwdXUzNTA5bk9rVTlCbC1PQzh0aFR5cVlRdG15U2pJbXNjZWhOYw?oc=5",
-          "desc": "",
-          "title_en": "Sohn Kyung-sik, CEO of CJ Cheiljedang, “Sorry for the inconvenience… Expanding K-Food and Fostering Healthcare”"
         }
       ]
     },
