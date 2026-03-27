@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T08:09:43Z",
+  "lastUpdated": "2026-03-27T11:31:40Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -134,16 +134,16 @@
           "title_en": "Please love me a lot 'The 3rd Seoul International Food Film Festival'"
         },
         {
-          "title": "'수미네 반찬' 김수미도 설렌 음식디미방 식사 체험..'궁금증 UP'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BN3MzOS1qRWs3bTNkMXFLMExPbEcydjZqc2JqRVJLNW4xZjNDZEt3c2JZRl90dEJWcDRhbl92aG5feGx4djhXaHBSOHpfZXBpM1HSAVNBVV95cUxQTmxCZHJ4YmhCaTljOXpRME9DN25MYUZ5SFFUS0hKN18zWU5VRXNOVTAxTUtUV1lyOEhXOU9xN0VhVDNyYjhYa1ZjWVRjV1hBa25LOA?oc=5",
-          "desc": "",
-          "title_en": "'Sumine side dish' Kim Sumi also sullen food dining experience.. 'Curiosity UP'"
-        },
-        {
           "title": "'격조식당' 하성운, 기립 방송 퍼레이드 \"이렇게 맛있는 음식은 처음이야\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IcGc1MzRhVHQtUG02WXRwdEVnTmFIZm92ak5UTzV1ajlSZTFoNk9qZ2tYcFo3b2U1NElNX0FuTExMdEg3M0Z0N0xTUzhVUXpTNlHSAVNBVV95cUxOaWV3bVQ2ZHZJUHFnaU9Ia0NOVnBNQ1Zhd2FGa19yNFdURUFLQzQ1NWtGSTBOZDlCeU9fbnJwUGpuUjFaMEtzNWN2dkYzY1gya3hrRQ?oc=5",
           "desc": "",
           "title_en": "'' Ha Seong-woon, Standing Broadcast Parade \"I've never eaten such delicious food before\""
+        },
+        {
+          "title": "손경식 CJ제일제당 대표, 주총서 “심려 끼쳐 죄송…K푸드 확장·헬스케어 육성”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CRzUyWm95M3lpd21SM0dZaWNDVzVwT0NhVzcwX2hzUG1ZVFdMSFRVY0dpMm55amZIMlhodGFpQ1RKdnhTUlAxSFFSOXIxdGwzR2fSAVNBVV95cUxOcnUxdzVIMnR4bUZOUGgwSXRjNWo3dVB3c0RCWFZvVVFZNEdmNlJwdXUzNTA5bk9rVTlCbC1PQzh0aFR5cVlRdG15U2pJbXNjZWhOYw?oc=5",
+          "desc": "",
+          "title_en": "Sohn Kyung-sik, CEO of CJ Cheiljedang, “Sorry for the inconvenience… Expanding K-Food and Fostering Healthcare”"
         }
       ]
     },
@@ -158,16 +158,16 @@
           "title_en": "Venture Forum Merchandising and Globalization of Traditional Korean Food"
         },
         {
+          "title": "장영훈 전문가에듣는다 '전통음식의 산업화 시급'",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4LW5Eem9wTk9hUEc1Ny1aWEJldEtSVVBXNDFfb21HbjM4NUtJXzlDQmVMNnlEdjRvUmdUeVd3OUJoUkZxdDBXai1UMA?oc=5",
+          "desc": "",
+          "title_en": "Young-Hoon Jang: 'Industrialization of Traditional Foods Hourly'"
+        },
+        {
           "title": "레어드슈퍼푸드, 매출 성장에도 순손실 330만 달러·원자재 부담에 급락",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbE1NbkxEbFNRR3VCa3dvV1ZKTUpLT0tlcUFMWlVXQm9ndzh1QTRPQ2llZTZUVlotLVBzcE85VVBwUGpteldyS0RXZXlWeThvSEE?oc=5",
           "desc": "",
           "title_en": "Laird Superfood Plunges on Net Loss of $3.3 Million and Raw Materials Despite Sales Growth"
-        },
-        {
-          "title": "어보브푸드인그리디언츠, 내부자 거래 의혹 전면 부인 및 나스닥 상장 유지 절차 신속 진행",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zMjlQa0NsckZ5TUhIUzNyRHJYTlNNRlJWREpXYVdxN3VzbE5LbGpkbDFSZEI0RjQ4WElnRUR1M0RqRU1WSXlmOVRkazlWek9RWEE?oc=5",
-          "desc": "",
-          "title_en": "Above Foods Ingridians Quickly Deny Alleged Insider Trading Allegations and Keep Nasdaq Listed"
         }
       ]
     },
@@ -176,22 +176,22 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "양배추 한 통만 있으면 끝! ‘양배추 샤브샤브’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vVXA3OWdRSzYwbThzekpjWFFTOHFJbmxrcG9SdGE1VGxyYlV4ZzQ3QzVmdXg3Wl9uYl9VM1o5VDBQbkRtbVRmZTBoVFptRVl6azhaQWhxZw?oc=5",
-          "desc": "",
-          "title_en": "Just one bucket of cabbage and you're done! ‘Cabbage Shabu Shabu’"
-        },
-        {
           "title": "이렇게 먹으면 부담 절반…파스타 열량·혈당 잡는 법",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4MzE1X0xfVldELUdLYW9ldjNvODBhMUhNQnJ0LTkwanhOOE9ZdHBoQ1VhaTFhdklhU29pTmFwSG44YWpjT21HVTlnNDV5UVZlZVY3S0NfWQ?oc=5",
           "desc": "",
           "title_en": "If you eat like this, half the burden… How to catch pasta calories and blood sugar"
         },
         {
-          "title": "이디야커피, 모찌 디저트 확장…과일 맛 2종 선봬",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wNkRJR0RGSkw4Z1BrajlkemxfQlZVSnV2T2RPclNnWFd4LUtGSkFyNmR5VFo0bTF5MllLcDFEb2dQTW8xeFFqZFM5cnNQYnkyUTIxaExpWQ?oc=5",
+          "title": "면사랑, 최대 41% 할인에 쿠폰도 쏜다…네이버 ‘푸드페스타’참가",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50SG5admVETDVpUWl6NTRIcjRnQkRkRG11TFlFbXU0eXFlNmdBTnJ4Mnh0RnczY3c3cVBDNEo0MTliS1FvaVRPOGFzcXAxeEEyTC10RU80SQ?oc=5",
           "desc": "",
-          "title_en": "Ediya Coffee, Mochi Dessert Expansion… 2 Types of Fruit Flavors"
+          "title_en": "Cotton love, shoot coupons for up to 41% off… Participate in Naver ‘Food Festa’"
+        },
+        {
+          "title": "요거트·말차·비스켓이면 끝…‘말차 요거트치즈케이크’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwd2w3WVNBbjV4SWdtVFpCTnpHUHpqRWU4bDBLYXVaaVB1dVExMUdBMU4yNUJhYzVsMGFucWxIMG5GWTdiNEQxdDQtTDVrd2EtRXZEZXE1Zw?oc=5",
+          "desc": "",
+          "title_en": "Yogurt · Matcha · Biscuits are the end... ‘Matcha Yogurt Cheese Cake’"
         }
       ]
     }
