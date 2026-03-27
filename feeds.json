@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T15:10:32Z",
+  "lastUpdated": "2026-03-27T19:53:35Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -18,10 +18,10 @@
           "title_ko": "빠르게 성장하는 번트 케이크는 KKR에 판매되지 않습니다"
         },
         {
-          "title": "A large Applebee's franchisee files for bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVViN3JjVElGWnZ6amtCcXJiT0RndElfVWRvZ0hQYURJSDh0Snk2TnJ2bUNDdF9WSXFwWjBNWkt6b2taYWhrR25IdE41ZFQ2UGNuQzlZbkQtOEt4SEM0ZWYySEU3N0o1OFJzTF9EQkU1alBsUU9pN0U1UGJuZzgwMmxDMGQyd0NqbXdJV3RRLXhOMzFqWjd4dzdn?oc=5",
+          "title": "Utah-based Firehouse Subs franchisee files Chapter 11 bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkVDeTQyV2FSZTNmRHFudDVZMV9JaXRwZUs0RTNNdVhqV2JGYlYwbG5JQUctVy1VUTMzYWViRzdxV3BoQ0p1eGY3NmlkbTVPa0EwSHZheTJGa2k2WjQ1NGdKZld5NmZ0YWpUX0d2anVNMzRrd2E5ZmxqWGc0YnY4dWhJZkF0X0RERkxESEd4YW04Rm9xUG5NRkYwa1hKR2JwWXpDSlNTaVh6VmQtbU1tWUxR?oc=5",
           "desc": "",
-          "title_ko": "대규모 Applebee 프랜차이즈 가맹점의 파산 신청"
+          "title_ko": "유타에 기반을 둔 Firehouse Subs 프랜차이즈 가맹점 파일 제 11 장 파산"
         }
       ]
     },
@@ -29,6 +29,12 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
+        {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드"
+        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -40,12 +46,6 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
           "desc": "",
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭"
-        },
-        {
-          "title": "The Pantry Forager",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTmgteGJlM1lRRTE5d0tyQUNWY3V2SkdrdG85RVFnY0VLOE9HNHJaT3F1UTJVNmMwTmkzVGRnQ0FYMEhMZ3BDbDFwSjhRSzZVVF9tbnN4WHByWGxGM1l4WQ?oc=5",
-          "desc": "",
-          "title_ko": "팬트리 채집가"
         }
       ]
     },
@@ -116,10 +116,10 @@
           "title_en": "\"Take care of it before it hurts\" … It burst into sales when I crowded into my health in 2030"
         },
         {
-          "title": "다슬기국부터 산딸기까지…영월 자연이 차린 '왕의 밥상'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaay0tZ2hGREQxSTVuVHlvN3YyQ2NEMi1NQ2RtMXE2bm5tVGlfbVBhNTlUVlVCdEVSYTRBVWRqV1UyUEl3ZHNyTFFjSXFGQktaSlNYc3BORllkd9IBVEFVX3lxTE5oY0pZYVdPdHJUVXRXMlY2dS1jTlhmdlBTWlBka2Z4NUFDcjFHdnlIc0N0SU5kdnRRempNbFZMb0RocGRPcS1FcVZQYkV2Q0EwNVlzaQ?oc=5",
+          "title": "패스트푸드 입맛 길들여온 맥도널드 50년",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckFLZi1oREE4VmozbXVvSFZpS2tQeUc1eGhGRjBocGFNZXhPekx2Y3ZrX3g0aU03VXFwSlYyMUV6dzJnM2o3NU1uWXg5eG1qcmd2NlFSZEhjVzB6am56R1hiR3o4OUE0djR3MnN3REhCWVFReUZVa2dGa2tJeHU3NFZReVAwbjA?oc=5",
           "desc": "",
-          "title_en": "From Seulgi Kingdom to Raspberries... 'The King's Table' prepared by Yeongwol Nature"
+          "title_en": "Fast Food 50 Years of Taming McDonald's"
         }
       ]
     },
@@ -128,22 +128,22 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "'제3회 서울국제음식영화제' 많이 사랑해주세요",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNEp6Tm5jVFFOYkNUUDNJNnpYOS1vUmJOc0tuc1c5T1NwSEJEb1F4UFVxZmo3TUQ3SXoxckE2c3ZPbE1sNV9xX3VzSWpZVkpGMlHSAVNBVV95cUxOd19ac1pPM3N3OHprdHFQTzhVZkVlSnc0dURUWDY1T2lrNm95TGFfWjdzZFhJcjFRQkN3RG5xZkFyaFN3TkwtYThqdGhvTWFhNUxSbw?oc=5",
+          "title": "배달 음식 이물 막는다…강동구, 159곳 특별 위생지도",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jRXBQcVNwNk9zRFA0S2liMUNzcWExN01qTFBvX0pTdHBKazhNb0QtSWhSREY4b3M4Uzdub05QeDNwU1E4enBlWWcxbS1oa2V3N1pj0gFTQVVfeXFMTmNFcFBxU3A2T3NEUDRLaWIxQ3NxYTE3TWpMUG9fSlN0cEprOE1vRC1JaFJERjhvczhTN25vTlB4M3BTUTh6cGVZZzFtLWhrZXc3WmM?oc=5",
           "desc": "",
-          "title_en": "Please love me a lot 'The 3rd Seoul International Food Film Festival'"
+          "title_en": "Block foreign bodies in food delivery… 159 special hygiene maps in Gangdong-gu"
         },
         {
-          "title": "'제3회 서울국제음식영화제' 많이 사랑해주세요",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53X1pzWk8zc3c4emt0cVBPOFVmRWVKdzR1RFRYNjVPaWs2b3lMYV9aN3NkWElyMVFCQ3dEbnFmQXJoU3dOTC1hOGp0aG9NYWE1TFJv0gFTQVVfeXFMTndfWnNaTzNzdzh6a3RxUE84VWZFZUp3NHVEVFg2NU9pazZveUxhX1o3c2RYSXIxUUJDd0RucWZBcmhTd05MLWE4anRob01hYTVMUm8?oc=5",
+          "title": "배달 음식 이물 막는다…강동구, 159곳 특별 위생지도",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jV3ptTlBXRnZZM1pXOXM3Z205b3JNNnlFTFYxRzVERHc3MHM5dVRDS3lRT0RqemR2NGlxUjdfMUhaZmo2ZVB0bkN5S3ZweDJpVEHSAVNBVV95cUxOY0VwUHFTcDZPc0RQNEtpYjFDc3FhMTdNakxQb19KU3RwSms4TW9ELUloUkRGOG9zOFM3bm9OUHgzcFNROHpwZVlnMW0taGtldzdaYw?oc=5",
           "desc": "",
-          "title_en": "Please love me a lot 'The 3rd Seoul International Food Film Festival'"
+          "title_en": "Block foreign bodies in food delivery… 159 special hygiene maps in Gangdong-gu"
         },
         {
-          "title": "해마로푸드서비스, 3.63% 오르며 체결강도 강세 지속(270%)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNWFlPNmtoV2dfcjI4N0Q3dGxNZlMtZ09yOXVBYkhuRVFsZHVPREd4Y3M0RjQ2VGhwc25ZYXoxUWFHcGxLYmRfdGpoVUkwQUFuZmc?oc=5",
+          "title": "'격조식당' 하성운, 기립 방송 퍼레이드 \"이렇게 맛있는 음식은 처음이야\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IcGc1MzRhVHQtUG02WXRwdEVnTmFIZm92ak5UTzV1ajlSZTFoNk9qZ2tYcFo3b2U1NElNX0FuTExMdEg3M0Z0N0xTUzhVUXpTNlHSAVNBVV95cUxOaWV3bVQ2ZHZJUHFnaU9Ia0NOVnBNQ1Zhd2FGa19yNFdURUFLQzQ1NWtGSTBOZDlCeU9fbnJwUGpuUjFaMEtzNWN2dkYzY1gya3hrRQ?oc=5",
           "desc": "",
-          "title_en": "Hippopotamus Food Service Gains 3.63% and Strong Clamping Strength Continues (270%)"
+          "title_en": "'' Ha Seong-woon, Standing Broadcast Parade \"I've never eaten such delicious food before\""
         }
       ]
     },
@@ -158,16 +158,16 @@
           "title_en": "Venture Forum Merchandising and Globalization of Traditional Korean Food"
         },
         {
-          "title": "장영훈 전문가에듣는다 '전통음식의 산업화 시급'",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4LW5Eem9wTk9hUEc1Ny1aWEJldEtSVVBXNDFfb21HbjM4NUtJXzlDQmVMNnlEdjRvUmdUeVd3OUJoUkZxdDBXai1UMA?oc=5",
-          "desc": "",
-          "title_en": "Young-Hoon Jang: 'Industrialization of Traditional Foods Hourly'"
-        },
-        {
           "title": "레어드슈퍼푸드, 매출 성장에도 순손실 330만 달러·원자재 부담에 급락",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbE1NbkxEbFNRR3VCa3dvV1ZKTUpLT0tlcUFMWlVXQm9ndzh1QTRPQ2llZTZUVlotLVBzcE85VVBwUGpteldyS0RXZXlWeThvSEE?oc=5",
           "desc": "",
           "title_en": "Laird Superfood Plunges on Net Loss of $3.3 Million and Raw Materials Despite Sales Growth"
+        },
+        {
+          "title": "어보브푸드인그리디언츠, 내부자 거래 의혹 전면 부인 및 나스닥 상장 유지 절차 신속 진행",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zMjlQa0NsckZ5TUhIUzNyRHJYTlNNRlJWREpXYVdxN3VzbE5LbGpkbDFSZEI0RjQ4WElnRUR1M0RqRU1WSXlmOVRkazlWek9RWEE?oc=5",
+          "desc": "",
+          "title_en": "Above Foods Ingridians Quickly Deny Alleged Insider Trading Allegations and Keep Nasdaq Listed"
         }
       ]
     },
@@ -175,12 +175,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "이렇게 먹으면 부담 절반…파스타 열량·혈당 잡는 법",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4MzE1X0xfVldELUdLYW9ldjNvODBhMUhNQnJ0LTkwanhOOE9ZdHBoQ1VhaTFhdklhU29pTmFwSG44YWpjT21HVTlnNDV5UVZlZVY3S0NfWQ?oc=5",
-          "desc": "",
-          "title_en": "If you eat like this, half the burden… How to catch pasta calories and blood sugar"
-        },
         {
           "title": "면사랑, 최대 41% 할인에 쿠폰도 쏜다…네이버 ‘푸드페스타’참가",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50SG5admVETDVpUWl6NTRIcjRnQkRkRG11TFlFbXU0eXFlNmdBTnJ4Mnh0RnczY3c3cVBDNEo0MTliS1FvaVRPOGFzcXAxeEEyTC10RU80SQ?oc=5",
@@ -192,6 +186,12 @@
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwd2w3WVNBbjV4SWdtVFpCTnpHUHpqRWU4bDBLYXVaaVB1dVExMUdBMU4yNUJhYzVsMGFucWxIMG5GWTdiNEQxdDQtTDVrd2EtRXZEZXE1Zw?oc=5",
           "desc": "",
           "title_en": "Yogurt · Matcha · Biscuits are the end... ‘Matcha Yogurt Cheese Cake’"
+        },
+        {
+          "title": "‘No-Ice’ 녹차 음료…대만 ‘푸드판다’ 트렌드 발표",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80eDN3WHFqNEVpanN3NmNYT2pTYkJHeXYwWFR1RXRlRDRsREg1MlRnSHJLR3l0RXA1YjQwRXBOcUlDOU5rOF91R0N3WXJHMVotNzRRV1J0TQ?oc=5",
+          "desc": "",
+          "title_en": "‘No-Ice’ Green Tea Drink Announces‘ Food Panda ’Trend in Taiwan"
         }
       ]
     }
