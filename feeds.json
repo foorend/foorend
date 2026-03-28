@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T22:01:10Z",
+  "lastUpdated": "2026-03-28T05:15:50Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -30,6 +30,12 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "How Italy's 'Wine Windows' Played a Part in the Plague and the Pandemic",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RNHBLWkVpc2xlTW1tT1VZQ081b19FU2NtTHZfYUN3Vk1pd0VkLWJPcXVKamdGWHBGWllRMFFXblRmSXFjZXM4bUZRdWozVXdpc0laNGhINkp5UTgybzMtX3M2N3A4SXNxVXc?oc=5",
+          "desc": "",
+          "title_ko": "이탈리아의 '와인 창문' 이 전염병과 전염병에 어떻게 영향을 미쳤는지"
+        },
+        {
           "title": "Food News & Trends",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
@@ -40,12 +46,6 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
           "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭"
         }
       ]
     },
@@ -104,22 +104,22 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "[르포]\"여기 DDP야, 이태리야\"…K뷰티·푸드트럭만 붐볐다[코스모프로프 볼로냐 2026]",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRUd2ZXJaVTNZUkJ2ZlBUU1RLNl8zcjYxMzhtRzJEUGhDbVVBcHhwMkJkUU9VaWt6OVZVeWcxb21mczRUWFQ1NklxeDFvQkNINWJESUFLeVRsNENSRU9xWXFoa193SEJoa0ZETQ?oc=5",
+          "desc": "",
+          "title_en": "[Repo] \"Here's DDP, Italy\" … Only K-beauty and food trucks were crowded [Cosmoprof Bologna 2026]"
+        },
+        {
           "title": "푸디스트, 케어푸드 브랜드 ‘케어포유’ 론칭, B2C 시장까지 확장하는 라이프케어 전략 본격화",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50enR1VmJXczNQaTY2ME1HNXR5ZEJUZDFfU0xRVGw2aUNncFdYYU9YTzliYXhiWWpGZ0gyNUhLYXNYYkJNLVBFaVZGRktfbDZOMk9FV0kyakNnRTlhSnhuYjVJd28yYU5aci1F?oc=5",
           "desc": "",
           "title_en": "Foodist launches carefood brand ‘CareFoyu', intensifies life care strategy to expand to B2C market"
         },
         {
-          "title": "\"아프기 전에 챙겨요\"…건강에 꽂힌 2030 몰리자 매출 터졌다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZy1CeUFyYTM1TUwwWHptSzRxeXk5VVZrb1NrUTJiWktTejl4QXJLdnJsX0ljSjk2cWlBbFJkQzRrYW9iT1BaRWUwR25GNHdpUnQtdGFlS1phZ9IBVEFVX3lxTE5hTGp3SDluYjBseEtyWXdYRTNZRjFOVW0zYVplaGJVRTUzTzc3OWtkaFNZMG90ZGtkYnJkMTA4Ry1lc0FaVjl5cVF1NGNNTGxTLVg0MA?oc=5",
+          "title": "패스트푸드 입맛 길들여온 맥도널드 50년",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SdVhkejNPWnJjcTkzallRN0l1aVRQYUczNGJETmw1a01XYlZSQjRvMnp5NF90Y2VkcTUwWVhzNDR5Z1c0S2lBaUN3cXhna2RNYWttQU55NGx2UzNQdEIzc05GYko4Y3o5eXRNcElEcjNJTzZzODRKRlJHbkVNdmc?oc=5",
           "desc": "",
-          "title_en": "\"Take care of it before it hurts\" … It burst into sales when I crowded into my health in 2030"
-        },
-        {
-          "title": "피죤, 땀·음식 냄새 99% 제거…장마에도 향기롭게",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TWk5LYnBqcjY4ZkJZaHp3dWhpWDBZQUdyS0lqaTQ1TXFtcE9jdUg2ZkEzdmhZUVgzMVFQRUVpR19WeTIxUVd0SmdhSjdwXy1ZYnAzSGxkWHB2UdIBVEFVX3lxTE5SNlk5bzRlRWdETEotNVZZUklFcThneFhRNUpzc0VQekNfMkxHY2hzcHZPZDlydXJ4TjhhbHZrZUhVR2xXY3JpaDg5dkstRkM5Nk9SdQ?oc=5",
-          "desc": "",
-          "title_en": "Pigeon eliminates 99% of the smell of sweat and food... Fragrant even in the rainy season"
+          "title_en": "Fast Food 50 Years of Taming McDonald's"
         }
       ]
     },
@@ -127,6 +127,12 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "CJ씨푸드, 3.11% 오르며 체결강도 강세로 반전(199%)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nM21oODVRQ2tLZXFQWkJULWxBWW9NT1pzQTBUczUtMWI0QUNMbDdLMHRheEpyQWVXNWg4SEJDbjA0clo2VnNRbHpHVnFGTXkzSEpB?oc=5",
+          "desc": "",
+          "title_en": "CJ Seafood reverses strong fastening strength with a rise of 3.11% (199%)"
+        },
         {
           "title": "배달 음식 이물 막는다…강동구, 159곳 특별 위생지도",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jRXBQcVNwNk9zRFA0S2liMUNzcWExN01qTFBvX0pTdHBKazhNb0QtSWhSREY4b3M4Uzdub05QeDNwU1E4enBlWWcxbS1oa2V3N1pj0gFTQVVfeXFMTmNFcFBxU3A2T3NEUDRLaWIxQ3NxYTE3TWpMUG9fSlN0cEprOE1vRC1JaFJERjhvczhTN25vTlB4M3BTUTh6cGVZZzFtLWhrZXc3WmM?oc=5",
@@ -138,12 +144,6 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jV3ptTlBXRnZZM1pXOXM3Z205b3JNNnlFTFYxRzVERHc3MHM5dVRDS3lRT0RqemR2NGlxUjdfMUhaZmo2ZVB0bkN5S3ZweDJpVEHSAVNBVV95cUxOY0VwUHFTcDZPc0RQNEtpYjFDc3FhMTdNakxQb19KU3RwSms4TW9ELUloUkRGOG9zOFM3bm9OUHgzcFNROHpwZVlnMW0taGtldzdaYw?oc=5",
           "desc": "",
           "title_en": "Block foreign bodies in food delivery… 159 special hygiene maps in Gangdong-gu"
-        },
-        {
-          "title": "'제3회 서울국제음식영화제' 많이 사랑해주세요",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNEp6Tm5jVFFOYkNUUDNJNnpYOS1vUmJOc0tuc1c5T1NwSEJEb1F4UFVxZmo3TUQ3SXoxckE2c3ZPbE1sNV9xX3VzSWpZVkpGMlHSAVNBVV95cUxOd19ac1pPM3N3OHprdHFQTzhVZkVlSnc0dURUWDY1T2lrNm95TGFfWjdzZFhJcjFRQkN3RG5xZkFyaFN3TkwtYThqdGhvTWFhNUxSbw?oc=5",
-          "desc": "",
-          "title_en": "Please love me a lot 'The 3rd Seoul International Food Film Festival'"
         }
       ]
     },
@@ -158,16 +158,16 @@
           "title_en": "Above Food Ingredients nears completion of FY2025 audit.. Nasdaq compliance expected to recover"
         },
         {
+          "title": "[이번주뭘살까] 유통가, 봄맞이 세일·제철 음식 할인 풍성",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKanJSMTExeHctNFc1X3FTeUQ3Q21aR1B0NDg0b1dpZ0lQMWJ5c21XSjQwMnpZUTctZXc3T0pDR0lidG5qUnhOOTB1Z2c1OG80d3c?oc=5",
+          "desc": "",
+          "title_en": "[What's on this week] Distribution price, spring sale · Seasonal food discount abundance"
+        },
+        {
           "title": "벤처포럼 한국전통음식의 상품화ㆍ세계화",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UQWxreHlfQTVFNGFmVnlMM3loVGtpcmtvWWFDMEp5VUdsSUYtdUw3dzV5OHBwRzZFeHRMeDZGWjFGVW5tZC1zbGxleXdudw?oc=5",
           "desc": "",
           "title_en": "Venture Forum Merchandising and Globalization of Traditional Korean Food"
-        },
-        {
-          "title": "레어드슈퍼푸드, 매출 성장에도 순손실 330만 달러·원자재 부담에 급락",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbE1NbkxEbFNRR3VCa3dvV1ZKTUpLT0tlcUFMWlVXQm9ndzh1QTRPQ2llZTZUVlotLVBzcE85VVBwUGpteldyS0RXZXlWeThvSEE?oc=5",
-          "desc": "",
-          "title_en": "Laird Superfood Plunges on Net Loss of $3.3 Million and Raw Materials Despite Sales Growth"
         }
       ]
     },
@@ -176,22 +176,22 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "초콜릿 최대 성수기, 브라질 부활절 초콜릿의 진화",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UUzg5dm5aZlY2SGhUZVNHQVVIaGx0LTA5Nm5qNlQ5bUptdmhkaHR5Szk4QVhSbElSTjlaTGdpdmR4NlpCYXkzVWFwa1pyMTlaNnl0Ti01UQ?oc=5",
-          "desc": "",
-          "title_en": "The peak season for chocolate, the evolution of Brazilian Easter chocolate"
-        },
-        {
-          "title": "티젠, RTD 탄산음료 ‘애사비소다’, GS25 입점",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0teGNGYmQ3TjJNSng2ZDQ4VVpDM1g1UVlZSV83MjhtdWV0MDZrRXRydUxRbGNieWZKQ1pvOHdQQ2tBZDFYUmt6cVZqbExaODhid1I1bUFaZw?oc=5",
-          "desc": "",
-          "title_en": "Tizen launches RTD soda ‘ASABISODA’, GS25"
-        },
-        {
           "title": "이디야커피, 모찌 디저트 확장…과일 맛 2종 선봬",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wNkRJR0RGSkw4Z1BrajlkemxfQlZVSnV2T2RPclNnWFd4LUtGSkFyNmR5VFo0bTF5MllLcDFEb2dQTW8xeFFqZFM5cnNQYnkyUTIxaExpWQ?oc=5",
           "desc": "",
           "title_en": "Ediya Coffee, Mochi Dessert Expansion… 2 Types of Fruit Flavors"
+        },
+        {
+          "title": "말차부터 두쫀쿠까지…SNS가 만든 유행 법칙",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GZE9VeTQtVkhMeU9ZX1MtaTZsTEJLRC1hOG13U0tiTGJfd3NieTlNV2R3dWVvb1drNW9COFlWZ0I1a05QMm1kbGRieDRRdm8yT25XZ3Zqcw?oc=5",
+          "desc": "",
+          "title_en": "From matcha to duchyuku… Fashionable laws made by SNS"
+        },
+        {
+          "title": "면사랑, 최대 41% 할인에 쿠폰도 쏜다…네이버 ‘푸드페스타’참가",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50SG5admVETDVpUWl6NTRIcjRnQkRkRG11TFlFbXU0eXFlNmdBTnJ4Mnh0RnczY3c3cVBDNEo0MTliS1FvaVRPOGFzcXAxeEEyTC10RU80SQ?oc=5",
+          "desc": "",
+          "title_en": "Cotton love, shoot coupons for up to 41% off… Participate in Naver ‘Food Festa’"
         }
       ]
     }
