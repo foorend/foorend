@@ -31,9 +31,10 @@ document.addEventListener('DOMContentLoaded', () => {
             articlesEmpty: '아티클을 준비 중입니다.',
             articlesError: '아티클을 불러올 수 없습니다.',
             seeMore: '더보기 →',
+            articlesMoreBtn: '더보기 →',
         },
         en: {
-            heroWelcome: `Welcome to FOOREND's Food Trend Archive ✨<br><br>This isn't just a news feed.<br>FOOREND began in 2022, when Alex — a former F&B buyer at a Korean department store — started clipping domestic and international F&B business news after leaving the industry, simply to stay sharp. That quiet habit grew into something bigger: a newsletter now shared with 3,500+ email subscribers, 4,900+ Instagram followers, and 1,000+ KakaoTalk Letter subscribers.<br><br>This archive is where that routine becomes visible. Which outlets. Which stories. What gets picked and why. Everything that goes into building over 200 issues of FOOREND is laid out here — and the sources update automatically every 3 hours, so what you're seeing is always current. It's built for the F&B professionals who need to move fast, the creators looking for their next angle, and anyone curious enough to want a real window into what's happening in this industry — not just locally, but globally.<br><br>Whether you're based in Korea and want to track global F&B trends, or you're somewhere in the world trying to understand what's happening in the Korean market, you'll find it here. An auto-translation toggle (KO/EN) sits in the top right corner — use it freely. Hope this becomes a space you come back to 🙇🏻`,
+            heroWelcome: `Welcome to FOOREND's Food Trend Archive ✨<br><br>This isn't just a news feed.<br>FOOREND began in 2022, when Alex — a former F&B buyer at a Korean department store — started clipping domestic and international F&B business news after leaving the industry, simply to stay sharp. That quiet habit grew into something bigger: a newsletter now shared with 3,500+ email subscribers, 4,900+ Instagram followers, and 1,000+ KakaoTalk Letter subscribers.<br><br>This archive is where that routine becomes visible. Which outlets. Which stories. What gets picked and why. Everything that goes into building over 200 issues of FOOREND is laid out here — and the sources update automatically every 3 hours, so what you're seeing is always current. It's built for the F&B professionals who need to move fast, the creators looking for their next angle, and anyone curious enough to want a real window into what's happening in this industry — not just locally, but globally.<br><br>Whether you're based in Korea and want to track global F&B trends, or you're somewhere in the world trying to understand what's happening in the Korean market, you'll find it here. Language buttons (KO/EN/JA) sit in the top right corner — use them freely. Hope this becomes a space you come back to 🙇🏻`,
             globalNewsTitle: 'Global F&B Latest News 📰',
             koreanNewsTitle: 'Korean F&B Latest News 📰',
             contactTitle: 'Partnership Inquiries',
@@ -49,10 +50,30 @@ document.addEventListener('DOMContentLoaded', () => {
             articlesEmpty: 'No articles available.',
             articlesError: 'Failed to load articles.',
             seeMore: 'More →',
+            articlesMoreBtn: 'See More →',
+        },
+        ja: {
+            heroWelcome: `FOOREND's Food Trend Archive へようこそ ✨<br><br>このページは、単なるニュースまとめではありません。<br>FOORENDは2022年、百貨店のF&Bチームバイヤーとして働いていたAlexが退職後も現場感覚を失わないよう、国内外のF&Bビジネスニュースのクリッピングを始めたことから生まれました。その記録が積み重なり、現在はメールニュースレター読者3,500+、Instagramフォロワー4,900+、KakaoTalkレター読者1,000+の方々とともにあるFOORENDとなりました。<br><br>このアーカイブページは、そのルーティンをそのまま公開した場所です。<br>毎週どのメディアから、どんなニュースを見て、その中から何をクリッピングするか。FOORENDが200件を超えるニュースレターを発行してきた情報探索のルーティンを詰め込んでいます。さらに、それらのメディアのニュースが3時間ごとに自動更新されるよう設定しています。<br><br>F&B業界のプロフェッショナルには素早くトレンドを把握するリファレンスとして、クリエイターにはコンテンツアイデアの出発点として、この業界に興味を持ち始めた方々には広く深い視野を開く場所となることを願って作りました。<br><br>韓国からもグローバルF&Bトレンドを、グローバルからも韓国のF&Bトレンドを自然に知ることができるよう、ページ右上に言語切り替えボタン（KO/EN/JA）を用意しています。ぜひご活用ください。ありがとうございます🙇🏻`,
+            globalNewsTitle: 'グローバル F&B 最新ニュース 📰',
+            koreanNewsTitle: '韓国 F&B 最新ニュース 📰',
+            contactTitle: 'お問い合わせ',
+            contactDesc: '広告、コラボ、原稿提案などお気軽にどうぞ 🤝',
+            namePlaceholder: 'お名前 / 会社名',
+            emailPlaceholder: 'メールアドレス',
+            subjectPlaceholder: 'お問い合わせ種別（広告、コラボ、その他）',
+            messagePlaceholder: 'お問い合わせ内容をご記入ください',
+            submitBtn: '送信する',
+            newsLoading: 'ニュースを読み込み中...',
+            newsEmpty: 'ニュースを準備中です。',
+            newsError: 'ニュースを読み込めませんでした。',
+            articlesEmpty: '記事を準備中です。',
+            articlesError: '記事を読み込めませんでした。',
+            seeMore: 'もっと見る →',
+            articlesMoreBtn: 'もっと見る →',
         }
     };
 
-    const langToggle = document.getElementById('lang-toggle');
+    const langBtns = document.querySelectorAll('.lang-btn');
     let currentLang = localStorage.getItem('lang') || 'ko';
     let fetchedData = null;
 
@@ -112,7 +133,13 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelector('input[name="subject"]').placeholder = t.subjectPlaceholder;
         document.querySelector('textarea[name="message"]').placeholder = t.messagePlaceholder;
         document.getElementById('contact-submit').textContent = t.submitBtn;
-        langToggle.textContent = lang === 'ko' ? 'EN' : 'KO';
+        const enMore = document.getElementById('en-articles-more');
+        const koMore = document.getElementById('ko-articles-more');
+        if (enMore) enMore.textContent = t.articlesMoreBtn;
+        if (koMore) koMore.textContent = t.articlesMoreBtn;
+        langBtns.forEach(btn => {
+            btn.classList.toggle('active', btn.dataset.lang === lang);
+        });
         currentLang = lang;
         localStorage.setItem('lang', lang);
 
@@ -128,7 +155,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // ── Visitor counter ──────────────────────────────────────────
     const visitorLabel = document.getElementById('visitor-label');
     function updateVisitorLabel(lang) {
-        visitorLabel.textContent = lang === 'en' ? ' visitors' : '명 방문';
+        if (lang === 'en') visitorLabel.textContent = ' visitors';
+        else if (lang === 'ja') visitorLabel.textContent = '人が訪問';
+        else visitorLabel.textContent = '명 방문';
     }
 
     function loadVisitorCount() {
@@ -161,12 +190,14 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     loadVisitorCount();
 
-    if (currentLang === 'en') applyLang('en');
+    applyLang(currentLang);
 
-    langToggle.addEventListener('click', () => {
-        const next = currentLang === 'ko' ? 'en' : 'ko';
-        applyLang(next);
-        updateVisitorLabel(next);
+    langBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const lang = btn.dataset.lang;
+            applyLang(lang);
+            updateVisitorLabel(lang);
+        });
     });
 
     updateVisitorLabel(currentLang);

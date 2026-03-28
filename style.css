@@ -62,26 +62,36 @@ body {
     font-size: 0.85rem;
 }
 
-#lang-toggle {
+#lang-buttons {
     position: fixed;
     top: 1.2rem;
     right: calc(1.2rem + 2.8rem + 0.5rem);
+    display: flex;
+    gap: 0.3rem;
+    z-index: 100;
+}
+
+.lang-btn {
     background-color: var(--toggle-bg);
     color: var(--toggle-fg);
     border: none;
     border-radius: 20px;
-    padding: 0 0.9rem;
+    padding: 0 0.7rem;
     height: 2.8rem;
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     font-weight: bold;
     letter-spacing: 0.05em;
     cursor: pointer;
-    transition: background-color 0.3s;
-    z-index: 100;
+    transition: background-color 0.2s, color 0.2s;
 }
 
-#lang-toggle:hover {
+.lang-btn:hover {
     opacity: 0.8;
+}
+
+.lang-btn.active {
+    background-color: var(--fg);
+    color: var(--bg);
 }
 
 #theme-toggle {
@@ -366,6 +376,29 @@ button[type="submit"]:hover {
     padding: 0.5rem 0;
 }
 
+.articles-more {
+    margin-top: 0.8rem;
+    text-align: right;
+}
+
+.articles-more-btn {
+    display: inline-block;
+    color: var(--subtitle);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: bold;
+    padding: 0.5rem 0.9rem;
+    border-radius: 6px;
+    border: 1px solid var(--btn-border);
+    background-color: var(--btn-bg);
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.articles-more-btn:hover {
+    background-color: var(--btn-hover);
+    color: var(--fg);
+}
+
 .contact-section {
     margin-top: 3rem;
     padding-top: 2rem;
@@ -579,9 +612,12 @@ button[type="submit"]:hover {
         height: 3rem;
     }
 
-    #lang-toggle {
+    #lang-buttons {
         top: 1.5rem;
         right: calc(2rem + 3rem + 0.5rem);
+    }
+
+    .lang-btn {
         height: 3rem;
     }
 }
