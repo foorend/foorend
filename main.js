@@ -103,7 +103,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     ${items.map(item => {
                         const title = lang === 'ko'
                             ? (item.title_ko || item.title)
-                            : (item.title_en || item.title);
+                            : lang === 'ja'
+                                ? (item.title_ja || item.title)
+                                : (item.title_en || item.title);
                         return `
                         <li class="feed-item">
                             <a href="${item.link}" class="feed-item-title" target="_blank" rel="noopener">${title}</a>
