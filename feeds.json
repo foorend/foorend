@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T05:15:50Z",
+  "lastUpdated": "2026-03-28T07:58:24Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -9,19 +9,22 @@
           "title": "Krispy Kreme sells most of its stake in U.S. joint venture for $90M",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGo1SXY0dFFjZ0FIRC0yMjVHWHJuZHlaUzFLVkVUZ0ZWNGhNaG9rQjZFZ19MbDVKSmg2Mm9IdjNpMWFkdGJPNnpwZmRwRzc5dkJOb1hRNTJMbWkzWDl4dnc2SmVzTG9tb25EMFN6VVBkbGZvOWZNS3puVkRqYUZTdUhKRG1wMDkwTVpkY2FQZlBFbmt6c2tzdmdyX2trMnVDcjA4?oc=5",
           "desc": "",
-          "title_ko": "크리스피 크림 (Krispy Kreme) 은 미국 합작 투자 지분 대부분을 $ 90M에 매각합니다."
+          "title_ko": "크리스피 크림 (Krispy Kreme) 은 미국 합작 투자 지분 대부분을 $ 90M에 매각합니다.",
+          "title_ja": "クリスピー・クリーム、米国ジョイントベンチャーの株式の大部分を$ 9,000万で売却"
         },
         {
           "title": "Fast-growing Nothing Bundt Cakes is sold to KKR",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdU8zcFU2Z05Ic1o2VHZoRXpwa2d2elI4dkxELWpJYWxjT090MDZlMHM5QnRFdnVDM3I3Q3Z5M2FhRVJ2T21EYUh0VG1WbzU1WGdtdzRCVUJMNm8wMm9aNHFIWjRZcy1lYlJHcFpLb3ppYmN0RXcxQzNKMk54T3RabkZxM2RJaHpGdmx3Ml80NXNKYTRwRXVr?oc=5",
           "desc": "",
-          "title_ko": "빠르게 성장하는 번트 케이크는 KKR에 판매되지 않습니다"
+          "title_ko": "빠르게 성장하는 번트 케이크는 KKR에 판매되지 않습니다",
+          "title_ja": "急成長何もバンドケーキはKKRに販売されていません"
         },
         {
           "title": "Utah-based Firehouse Subs franchisee files Chapter 11 bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkVDeTQyV2FSZTNmRHFudDVZMV9JaXRwZUs0RTNNdVhqV2JGYlYwbG5JQUctVy1VUTMzYWViRzdxV3BoQ0p1eGY3NmlkbTVPa0EwSHZheTJGa2k2WjQ1NGdKZld5NmZ0YWpUX0d2anVNMzRrd2E5ZmxqWGc0YnY4dWhJZkF0X0RERkxESEd4YW04Rm9xUG5NRkYwa1hKR2JwWXpDSlNTaVh6VmQtbU1tWUxR?oc=5",
           "desc": "",
-          "title_ko": "유타에 기반을 둔 Firehouse Subs 프랜차이즈 가맹점 파일 제 11 장 파산"
+          "title_ko": "유타에 기반을 둔 Firehouse Subs 프랜차이즈 가맹점 파일 제 11 장 파산",
+          "title_ja": "ユタ州に拠点を置くFirehouse Subsフランチャイズ加盟店が第11章破産を申請"
         }
       ]
     },
@@ -33,19 +36,22 @@
           "title": "How Italy's 'Wine Windows' Played a Part in the Plague and the Pandemic",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RNHBLWkVpc2xlTW1tT1VZQ081b19FU2NtTHZfYUN3Vk1pd0VkLWJPcXVKamdGWHBGWllRMFFXblRmSXFjZXM4bUZRdWozVXdpc0laNGhINkp5UTgybzMtX3M2N3A4SXNxVXc?oc=5",
           "desc": "",
-          "title_ko": "이탈리아의 '와인 창문' 이 전염병과 전염병에 어떻게 영향을 미쳤는지"
+          "title_ko": "이탈리아의 '와인 창문' 이 전염병과 전염병에 어떻게 영향을 미쳤는지",
+          "title_ja": "イタリアの「ワインの窓」が疫病とパンデミックでどのように役割を果たしたか"
         },
         {
           "title": "Food News & Trends",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드"
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド"
         },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함"
+          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
+          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟"
         }
       ]
     },
@@ -57,19 +63,22 @@
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스"
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス"
         },
         {
           "title": "The True Energy Price Exposure Of Everything You Eat",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
           "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출"
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出"
         },
         {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
           "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다."
+          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
+          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制"
         }
       ]
     },
@@ -81,19 +90,22 @@
           "title": "The Best Housewarming Gifts (That You’ll Want for Yourself)",
           "link": "https://www.eater.com/24372860/best-housewarming-gifts",
           "desc": "Housewarming gifts are tricky. They are tricky by scale: larger than a host gift, smaller than a wedding gift. And they are tricky by kind: housewarmi",
-          "title_ko": "최고의 하우스워밍 선물 (직접 원하는 선물)"
+          "title_ko": "최고의 하우스워밍 선물 (직접 원하는 선물)",
+          "title_ja": "最高のハウスウォーミングギフト（自分にぴったりのもの）"
         },
         {
           "title": "The 38 Best Restaurants in Rome, According to a Best-Selling Local Cookbook Author",
           "link": "https://www.eater.com/maps/best-restaurants-rome-italy",
           "desc": "Roman cuisine is a reflection of the city itself — layered, deeply rooted in tradition, and full of contrasts. After years of eating my way through Ro",
-          "title_ko": "베스트셀러 요리책 저자에 따르면 로마 최고의 레스토랑 38곳"
+          "title_ko": "베스트셀러 요리책 저자에 따르면 로마 최고의 레스토랑 38곳",
+          "title_ja": "地元のベストセラー料理本作家によるローマのベストレストラン38選"
         },
         {
           "title": "Where Your Favorite Chefs and Food Experts Eat When They’re Off the Clock",
           "link": "https://www.eater.com/press-room/24434033/eater-app-list-sharing-chefs-creators",
           "desc": "The Eater app just got a lot better. It’s still the same trusted place to find great restaurants, but now with a smarter, more personal way to explore",
-          "title_ko": "좋아하는 셰프와 음식 전문가가 언제 어디서나 식사를 즐길 수 있는 곳"
+          "title_ko": "좋아하는 셰프와 음식 전문가가 언제 어디서나 식사를 즐길 수 있는 곳",
+          "title_ja": "お気に入りのシェフやフードエキスパートが時間外に食べる場所"
         }
       ]
     }
@@ -107,19 +119,22 @@
           "title": "[르포]\"여기 DDP야, 이태리야\"…K뷰티·푸드트럭만 붐볐다[코스모프로프 볼로냐 2026]",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRUd2ZXJaVTNZUkJ2ZlBUU1RLNl8zcjYxMzhtRzJEUGhDbVVBcHhwMkJkUU9VaWt6OVZVeWcxb21mczRUWFQ1NklxeDFvQkNINWJESUFLeVRsNENSRU9xWXFoa193SEJoa0ZETQ?oc=5",
           "desc": "",
-          "title_en": "[Repo] \"Here's DDP, Italy\" … Only K-beauty and food trucks were crowded [Cosmoprof Bologna 2026]"
+          "title_en": "[Repo] \"Here's DDP, Italy\" … Only K-beauty and food trucks were crowded [Cosmoprof Bologna 2026]",
+          "title_ja": "【レポ】「ここはDDP、イタリア」… Kビューティーとフードトラックだけが混雑していた[Cosmoprof Bologna 2026]"
+        },
+        {
+          "title": "토종-외국계 패스트푸드업체 `김치 버거' 경쟁",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN29VdnFWZjJLZFJHODdtZE1fRjBWWjF4YjQwSVNpbWk4MkFXajZhN1VUM0R1dkY2OW5Ha2dVUlNFd2ZCTTNXNG9Mak9jbG96WGVSeEZwREVkeGZHaUxBZ1pkMVotd2ZyaU03R2xsaW9EbnBUeFFDTmpEcFV2S0MwWnNZSV9mSWc?oc=5",
+          "desc": "",
+          "title_en": "Competition for indigenous-foreign fast food company `Kimchi Burger'",
+          "title_ja": "外資系ファストフード会社「キムチバーガー」の競争"
         },
         {
           "title": "푸디스트, 케어푸드 브랜드 ‘케어포유’ 론칭, B2C 시장까지 확장하는 라이프케어 전략 본격화",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50enR1VmJXczNQaTY2ME1HNXR5ZEJUZDFfU0xRVGw2aUNncFdYYU9YTzliYXhiWWpGZ0gyNUhLYXNYYkJNLVBFaVZGRktfbDZOMk9FV0kyakNnRTlhSnhuYjVJd28yYU5aci1F?oc=5",
           "desc": "",
-          "title_en": "Foodist launches carefood brand ‘CareFoyu', intensifies life care strategy to expand to B2C market"
-        },
-        {
-          "title": "패스트푸드 입맛 길들여온 맥도널드 50년",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SdVhkejNPWnJjcTkzallRN0l1aVRQYUczNGJETmw1a01XYlZSQjRvMnp5NF90Y2VkcTUwWVhzNDR5Z1c0S2lBaUN3cXhna2RNYWttQU55NGx2UzNQdEIzc05GYko4Y3o5eXRNcElEcjNJTzZzODRKRlJHbkVNdmc?oc=5",
-          "desc": "",
-          "title_en": "Fast Food 50 Years of Taming McDonald's"
+          "title_en": "Foodist launches carefood brand ‘CareFoyu', intensifies life care strategy to expand to B2C market",
+          "title_ja": "フーディスト、ケアフードブランド「CareFoyu」を立ち上げ、B 2 C市場に拡大するライフケア戦略を強化"
         }
       ]
     },
@@ -131,19 +146,22 @@
           "title": "CJ씨푸드, 3.11% 오르며 체결강도 강세로 반전(199%)",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nM21oODVRQ2tLZXFQWkJULWxBWW9NT1pzQTBUczUtMWI0QUNMbDdLMHRheEpyQWVXNWg4SEJDbjA0clo2VnNRbHpHVnFGTXkzSEpB?oc=5",
           "desc": "",
-          "title_en": "CJ Seafood reverses strong fastening strength with a rise of 3.11% (199%)"
+          "title_en": "CJ Seafood reverses strong fastening strength with a rise of 3.11% (199%)",
+          "title_ja": "CJシーフードは、3.11 ％ （ 199 ％ ）の上昇で強力な締結強度を逆転させます"
         },
         {
           "title": "배달 음식 이물 막는다…강동구, 159곳 특별 위생지도",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jRXBQcVNwNk9zRFA0S2liMUNzcWExN01qTFBvX0pTdHBKazhNb0QtSWhSREY4b3M4Uzdub05QeDNwU1E4enBlWWcxbS1oa2V3N1pj0gFTQVVfeXFMTmNFcFBxU3A2T3NEUDRLaWIxQ3NxYTE3TWpMUG9fSlN0cEprOE1vRC1JaFJERjhvczhTN25vTlB4M3BTUTh6cGVZZzFtLWhrZXc3WmM?oc=5",
           "desc": "",
-          "title_en": "Block foreign bodies in food delivery… 159 special hygiene maps in Gangdong-gu"
+          "title_en": "Block foreign bodies in food delivery… 159 special hygiene maps in Gangdong-gu",
+          "title_ja": "フードデリバリーで異物をブロック…江東区の159の特別な衛生マップ"
         },
         {
           "title": "배달 음식 이물 막는다…강동구, 159곳 특별 위생지도",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jV3ptTlBXRnZZM1pXOXM3Z205b3JNNnlFTFYxRzVERHc3MHM5dVRDS3lRT0RqemR2NGlxUjdfMUhaZmo2ZVB0bkN5S3ZweDJpVEHSAVNBVV95cUxOY0VwUHFTcDZPc0RQNEtpYjFDc3FhMTdNakxQb19KU3RwSms4TW9ELUloUkRGOG9zOFM3bm9OUHgzcFNROHpwZVlnMW0taGtldzdaYw?oc=5",
           "desc": "",
-          "title_en": "Block foreign bodies in food delivery… 159 special hygiene maps in Gangdong-gu"
+          "title_en": "Block foreign bodies in food delivery… 159 special hygiene maps in Gangdong-gu",
+          "title_ja": "フードデリバリーで異物をブロック…江東区の159の特別な衛生マップ"
         }
       ]
     },
@@ -155,19 +173,22 @@
           "title": "어보브 푸드 인그리디언츠, 2025회계연도 감사 완료 임박..나스닥 규정 준수 회복 전망",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oWHJLU3UwX3FXa1pkTm9NSFo0MUlhd2RFR3h0X2lBT3oxOHpyTVB3djVpWUN1U0x1bVBDRHYzZEYwUlRXNXA1dGNPd2J2cEcwT1E?oc=5",
           "desc": "",
-          "title_en": "Above Food Ingredients nears completion of FY2025 audit.. Nasdaq compliance expected to recover"
-        },
-        {
-          "title": "[이번주뭘살까] 유통가, 봄맞이 세일·제철 음식 할인 풍성",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKanJSMTExeHctNFc1X3FTeUQ3Q21aR1B0NDg0b1dpZ0lQMWJ5c21XSjQwMnpZUTctZXc3T0pDR0lidG5qUnhOOTB1Z2c1OG80d3c?oc=5",
-          "desc": "",
-          "title_en": "[What's on this week] Distribution price, spring sale · Seasonal food discount abundance"
+          "title_en": "Above Food Ingredients nears completion of FY2025 audit.. Nasdaq compliance expected to recover",
+          "title_ja": "上記の食品成分は、2025年度の監査の完了に近づいています。ナスダックのコンプライアンスは回復すると予想されます"
         },
         {
           "title": "벤처포럼 한국전통음식의 상품화ㆍ세계화",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UQWxreHlfQTVFNGFmVnlMM3loVGtpcmtvWWFDMEp5VUdsSUYtdUw3dzV5OHBwRzZFeHRMeDZGWjFGVW5tZC1zbGxleXdudw?oc=5",
           "desc": "",
-          "title_en": "Venture Forum Merchandising and Globalization of Traditional Korean Food"
+          "title_en": "Venture Forum Merchandising and Globalization of Traditional Korean Food",
+          "title_ja": "ベンチャーフォーラムのマーチャンダイジングと伝統的な韓国料理のグローバル化"
+        },
+        {
+          "title": "[이번주뭘살까] 유통가, 봄맞이 세일·제철 음식 할인 풍성",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKanJSMTExeHctNFc1X3FTeUQ3Q21aR1B0NDg0b1dpZ0lQMWJ5c21XSjQwMnpZUTctZXc3T0pDR0lidG5qUnhOOTB1Z2c1OG80d3c?oc=5",
+          "desc": "",
+          "title_en": "[What's on this week] Distribution price, spring sale · Seasonal food discount abundance",
+          "title_ja": "【今週のご案内】流通価格、春のセール・季節の食材割引豊富"
         }
       ]
     },
@@ -179,19 +200,22 @@
           "title": "이디야커피, 모찌 디저트 확장…과일 맛 2종 선봬",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wNkRJR0RGSkw4Z1BrajlkemxfQlZVSnV2T2RPclNnWFd4LUtGSkFyNmR5VFo0bTF5MllLcDFEb2dQTW8xeFFqZFM5cnNQYnkyUTIxaExpWQ?oc=5",
           "desc": "",
-          "title_en": "Ediya Coffee, Mochi Dessert Expansion… 2 Types of Fruit Flavors"
+          "title_en": "Ediya Coffee, Mochi Dessert Expansion… 2 Types of Fruit Flavors",
+          "title_ja": "Ediya Coffee、Mochi Dessert Expansion… 2種類のフルーツフレーバー"
         },
         {
           "title": "말차부터 두쫀쿠까지…SNS가 만든 유행 법칙",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GZE9VeTQtVkhMeU9ZX1MtaTZsTEJLRC1hOG13U0tiTGJfd3NieTlNV2R3dWVvb1drNW9COFlWZ0I1a05QMm1kbGRieDRRdm8yT25XZ3Zqcw?oc=5",
           "desc": "",
-          "title_en": "From matcha to duchyuku… Fashionable laws made by SNS"
+          "title_en": "From matcha to duchyuku… Fashionable laws made by SNS",
+          "title_ja": "抹茶からお土産まで… SNSで作ったおしゃれな法律"
         },
         {
           "title": "면사랑, 최대 41% 할인에 쿠폰도 쏜다…네이버 ‘푸드페스타’참가",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50SG5admVETDVpUWl6NTRIcjRnQkRkRG11TFlFbXU0eXFlNmdBTnJ4Mnh0RnczY3c3cVBDNEo0MTliS1FvaVRPOGFzcXAxeEEyTC10RU80SQ?oc=5",
           "desc": "",
-          "title_en": "Cotton love, shoot coupons for up to 41% off… Participate in Naver ‘Food Festa’"
+          "title_en": "Cotton love, shoot coupons for up to 41% off… Participate in Naver ‘Food Festa’",
+          "title_ja": "コットンラブ、最大41%オフのクーポンを撮影… NAVER「フードフェスタ」に参加"
         }
       ]
     }
