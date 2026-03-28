@@ -32,6 +32,8 @@ document.addEventListener('DOMContentLoaded', () => {
             articlesError: '아티클을 불러올 수 없습니다.',
             seeMore: '더보기 →',
             articlesMoreBtn: '더보기 →',
+            heroReadMore: '더보기 ▾',
+            heroReadLess: '접기 ▴',
         },
         en: {
             heroWelcome: `Welcome to FOOREND's Food Trend Archive ✨<br><br>This isn't just a news feed.<br>FOOREND began in 2022, when Alex — a former F&B buyer at a Korean department store — started clipping domestic and international F&B business news after leaving the industry, simply to stay sharp. That quiet habit grew into something bigger: a newsletter now shared with 3,500+ email subscribers, 4,900+ Instagram followers, and 1,000+ KakaoTalk Letter subscribers.<br><br>This archive is where that routine becomes visible. Which outlets. Which stories. What gets picked and why. Everything that goes into building over 200 issues of FOOREND is laid out here — and the sources update automatically every 3 hours, so what you're seeing is always current. It's built for the F&B professionals who need to move fast, the creators looking for their next angle, and anyone curious enough to want a real window into what's happening in this industry — not just locally, but globally.<br><br>Whether you're based in Korea and want to track global F&B trends, or you're somewhere in the world trying to understand what's happening in the Korean market, you'll find it here. Language buttons (KO/EN/JA) sit in the top right corner — use them freely. Hope this becomes a space you come back to 🙇🏻`,
@@ -51,6 +53,8 @@ document.addEventListener('DOMContentLoaded', () => {
             articlesError: 'Failed to load articles.',
             seeMore: 'More →',
             articlesMoreBtn: 'See More →',
+            heroReadMore: 'Read more ▾',
+            heroReadLess: 'Show less ▴',
         },
         ja: {
             heroWelcome: `FOOREND's Food Trend Archive へようこそ ✨<br><br>このページは、単なるニュースまとめではありません。<br>FOORENDは2022年、百貨店のF&Bチームバイヤーとして働いていたAlexが退職後も現場感覚を失わないよう、国内外のF&Bビジネスニュースのクリッピングを始めたことから生まれました。その記録が積み重なり、現在はメールニュースレター読者3,500+、Instagramフォロワー4,900+、KakaoTalkレター読者1,000+の方々とともにあるFOORENDとなりました。<br><br>このアーカイブページは、そのルーティンをそのまま公開した場所です。<br>毎週どのメディアから、どんなニュースを見て、その中から何をクリッピングするか。FOORENDが200件を超えるニュースレターを発行してきた情報探索のルーティンを詰め込んでいます。さらに、それらのメディアのニュースが3時間ごとに自動更新されるよう設定しています。<br><br>F&B業界のプロフェッショナルには素早くトレンドを把握するリファレンスとして、クリエイターにはコンテンツアイデアの出発点として、この業界に興味を持ち始めた方々には広く深い視野を開く場所となることを願って作りました。<br><br>韓国からもグローバルF&Bトレンドを、グローバルからも韓国のF&Bトレンドを自然に知ることができるよう、ページ右上に言語切り替えボタン（KO/EN/JA）を用意しています。ぜひご活用ください。ありがとうございます🙇🏻`,
@@ -70,6 +74,8 @@ document.addEventListener('DOMContentLoaded', () => {
             articlesError: '記事を読み込めませんでした。',
             seeMore: 'もっと見る →',
             articlesMoreBtn: 'もっと見る →',
+            heroReadMore: 'もっと見る ▾',
+            heroReadLess: '閉じる ▴',
         }
     };
 
@@ -123,9 +129,29 @@ document.addEventListener('DOMContentLoaded', () => {
         container.appendChild(grid);
     }
 
+    function renderHeroWelcome(lang) {
+        const t = translations[lang];
+        const heroEl = document.getElementById('hero-welcome');
+        const wasExpanded = document.getElementById('hero-welcome-rest')?.classList.contains('expanded') || false;
+        const sepIdx = t.heroWelcome.indexOf('<br><br>');
+        const firstPara = sepIdx !== -1 ? t.heroWelcome.slice(0, sepIdx) : t.heroWelcome;
+        const rest = sepIdx !== -1 ? t.heroWelcome.slice(sepIdx) : '';
+        heroEl.innerHTML = firstPara
+            + (rest ? `<span id="hero-welcome-rest"${wasExpanded ? ' class="expanded"' : ''}>${rest}</span>
+<button id="hero-welcome-toggle" class="hero-welcome-toggle">${wasExpanded ? t.heroReadLess : t.heroReadMore}</button>` : '');
+        const toggleBtn = document.getElementById('hero-welcome-toggle');
+        if (toggleBtn) {
+            toggleBtn.addEventListener('click', () => {
+                const restEl = document.getElementById('hero-welcome-rest');
+                const expanded = restEl.classList.toggle('expanded');
+                toggleBtn.textContent = expanded ? translations[currentLang].heroReadLess : translations[currentLang].heroReadMore;
+            });
+        }
+    }
+
     function applyLang(lang) {
         const t = translations[lang];
-        document.getElementById('hero-welcome').innerHTML = t.heroWelcome;
+        renderHeroWelcome(lang);
         document.getElementById('global-news-title').textContent = t.globalNewsTitle;
         document.getElementById('korean-news-title').textContent = t.koreanNewsTitle;
         document.getElementById('contact-title').textContent = t.contactTitle;

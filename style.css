@@ -326,6 +326,34 @@ button[type="submit"]:hover {
     text-align: left;
 }
 
+/* Mobile: collapse rest of hero text */
+#hero-welcome-rest {
+    display: none;
+}
+
+#hero-welcome-rest.expanded {
+    display: inline;
+}
+
+.hero-welcome-toggle {
+    display: block;
+    margin-top: 0.9rem;
+    background: none;
+    border: 1px solid var(--btn-border);
+    border-radius: 6px;
+    color: var(--subtitle);
+    font-size: 0.82rem;
+    font-weight: bold;
+    padding: 0.4rem 0.8rem;
+    cursor: pointer;
+    transition: color 0.2s, border-color 0.2s;
+}
+
+.hero-welcome-toggle:hover {
+    color: var(--fg);
+    border-color: var(--fg);
+}
+
 .articles-section {
     margin-top: 3rem;
     padding-top: 2rem;
@@ -574,6 +602,15 @@ button[type="submit"]:hover {
     .pc-page-1 .pc-right {
         align-items: flex-start;
         overflow-y: auto;
+    }
+
+    /* Desktop: always show full hero text, hide toggle button */
+    #hero-welcome-rest {
+        display: inline !important;
+    }
+
+    .hero-welcome-toggle {
+        display: none !important;
     }
 
     /* ── Pages 2 & 3: sections start from same top position ── */
