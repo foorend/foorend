@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T19:48:41Z",
+  "lastUpdated": "2026-03-29T22:02:27Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -143,18 +143,18 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "해마로푸드서비스, 매도잔량 343% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CRG5NbTdiTkhZdFZUa0lnODUtbDhnaDNhVUYxeElBS01fRXByTTVjbThKVFdXeHBrdUZDZE9scS1DMGZBVTV5SDJLb2VUVDV2WG9Z?oc=5",
+          "desc": "",
+          "title_en": "Hippopotamus Food Service Selling Remainder Surges 343%",
+          "title_ja": "カバのフードサービスの販売残高が343%急増"
+        },
+        {
           "title": "CJ씨푸드, 3.11% 오르며 체결강도 강세로 반전(199%)",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nM21oODVRQ2tLZXFQWkJULWxBWW9NT1pzQTBUczUtMWI0QUNMbDdLMHRheEpyQWVXNWg4SEJDbjA0clo2VnNRbHpHVnFGTXkzSEpB?oc=5",
           "desc": "",
           "title_en": "CJ Seafood reverses strong fastening strength with a rise of 3.11% (199%)",
           "title_ja": "CJシーフードは、3.11 ％ （ 199 ％ ）の上昇で強力な締結強度を逆転させます"
-        },
-        {
-          "title": "경기 음식쓰레기 관리위반업체 43곳 적발",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QU1dFX2txYWJjWUE0TnBzY2g0ZVN6LW9hVnFFSEs5SDBRcTd6ZHhMS0Vxay0wSjJrbnYwOGthc2VXUlF0bGJ2LVBnaWxpTFU4a2xJ?oc=5",
-          "desc": "",
-          "title_en": "43 Gyeonggi food waste management companies caught",
-          "title_ja": "43京畿道の食品廃棄物管理会社が捕まりました"
         },
         {
           "title": "배달 음식 이물 막는다…강동구, 159곳 특별 위생지도",
@@ -184,11 +184,11 @@
           "title_ja": "上記の食品成分は、2025年度の監査の完了に近づいています。ナスダックのコンプライアンスは回復すると予想されます"
         },
         {
-          "title": "칼마인 푸드, 크레이튼브라더스 1억2850만 달러 인수..인디애나 생산기지 확보",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4cFJfWklLYzE5U1BrZ3FtVTZPYWVUaldibExuYlk1SGdWMm9UYUtyMnZaX1FHZlhoMVB4dXRXRWxuZC1kQm9LQWdEUWJhblVEWVE?oc=5",
+          "title": "[이번주뭘살까] 유통가, 봄맞이 세일·제철 음식 할인 풍성",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKanJSMTExeHctNFc1X3FTeUQ3Q21aR1B0NDg0b1dpZ0lQMWJ5c21XSjQwMnpZUTctZXc3T0pDR0lidG5qUnhOOTB1Z2c1OG80d3c?oc=5",
           "desc": "",
-          "title_en": "Carmine Foods Acquires Creighton Brothers for $128.5 Million.. Secures Indiana Production Base",
-          "title_ja": "Carmine Foods、Creighton Brothersを1億850万ドルで買収インディアナ州の生産拠点を確保"
+          "title_en": "[What's on this week] Distribution price, spring sale · Seasonal food discount abundance",
+          "title_ja": "【今週のご案内】流通価格、春のセール・季節の食材割引豊富"
         }
       ]
     },
