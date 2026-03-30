@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://foorend.github.io/foorend/sitemap.xml
+Sitemap: https://foodtrend.pages.dev/sitemap.xml
