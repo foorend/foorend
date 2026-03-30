@@ -15,6 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // ── Language toggle ──────────────────────────────────────────
     const translations = {
         ko: {
+            pageTitle: 'FOOREND | 글로벌·한국 푸드 트렌드 아카이브 | Food & F&B Trend News',
+            pageDesc: 'FOOREND는 글로벌·한국 F&B 비즈니스 트렌드를 3시간마다 자동 업데이트하는 뉴스 아카이브입니다. 푸드 트렌드, 식품 트렌드, food trend, Korean food trend 최신 뉴스를 4개 언어로 확인하세요.',
             heroWelcome: `FOOREND's Food Trend Archive에 오신 것을 환영합니다✨<br><br>이 페이지는 단순한 뉴스 모음이 아닙니다.<br>FOOREND는 2022년, 백화점 F&B팀 바이어로 일하던 Alex가 퇴사 후에도 현업의 감각을 잃지 않기 위해 시작한 국내외 F&B 비즈니스 뉴스 클리핑에서 출발했습니다. 그 기록이 쌓이고 쌓여, 지금은 메일 뉴스레터 구독자 3,500+, 인스타그램 팔로워 4,900+, 카카오톡 레터 구독자 1,000+분들과 함께하는 FOOREND가 되었고요.<br><br>이 아카이브 페이지는 그 루틴을 그대로 공개한 공간입니다.<br>매주 어떤 매체에서, 어떤 뉴스를 보고, 그 안에서 무엇을 클리핑하는지. FOOREND가 200건이 넘는 뉴스레터를 발행해오며 쌓아온 정보 탐색의 루틴을 담았습니다. 여기에 더해, 그 매체들의 뉴스가 3시간마다 자동으로 업데이트되도록 구성해두었습니다.<br><br>F&B 현업에 계신 분들께는 빠르게 트렌드를 짚을 수 있는 레퍼런스로, 크리에이터분들께는 콘텐츠 아이디어의 출발점으로, 이 업계에 관심을 갖기 시작한 분들께는 넓고 깊은 시야를 열어주는 공간이 되길 바라는 마음으로 만들었습니다.<br><br>한국에서도 글로벌 F&B 트렌드를, 글로벌에서도 한국 현지 F&B 트렌드를 자연스럽게 접할 수 있도록, 페이지 우측 상단의 🇰🇷KR / 🇺🇸EN / 🇯🇵JP / 🇨🇳CN 버튼으로 자동번역 기능을 이용하실 수 있습니다. 많은 관심과 활용 부탁드립니다. 감사합니다🙇🏻`,
             globalNewsTitle: '글로벌 F&B 최신 뉴스 📰',
             koreanNewsTitle: '한국 F&B 최신 뉴스 📰',
@@ -36,6 +38,8 @@ document.addEventListener('DOMContentLoaded', () => {
             heroReadLess: '접기 ▴',
         },
         en: {
+            pageTitle: 'FOOREND | Global & Korean Food Trend Archive | F&B News',
+            pageDesc: 'FOOREND is a food trend news archive covering global and Korean F&B business, auto-updated every 3 hours. Explore food trends, restaurant news, and industry insights in 4 languages.',
             heroWelcome: `Welcome to FOOREND's Food Trend Archive ✨<br><br>This isn't just a news feed.<br>FOOREND began in 2022, when Alex — a former F&B buyer at a Korean department store — started clipping domestic and international F&B business news after leaving the industry, simply to stay sharp. That quiet habit grew into something bigger: a newsletter now shared with 3,500+ email subscribers, 4,900+ Instagram followers, and 1,000+ KakaoTalk Letter subscribers.<br><br>This archive is where that routine becomes visible. Which outlets. Which stories. What gets picked and why. Everything that goes into building over 200 issues of FOOREND is laid out here — and the sources update automatically every 3 hours, so what you're seeing is always current. It's built for the F&B professionals who need to move fast, the creators looking for their next angle, and anyone curious enough to want a real window into what's happening in this industry — not just locally, but globally.<br><br>Whether you're based in Korea and want to track global F&B trends, or you're somewhere in the world trying to understand what's happening in the Korean market, you'll find it here. Language buttons (🇰🇷KR / 🇺🇸EN / 🇯🇵JP / 🇨🇳CN) sit in the top right corner — use them freely. Hope this becomes a space you come back to 🙇🏻`,
             globalNewsTitle: 'Global F&B Latest News 📰',
             koreanNewsTitle: 'Korean F&B Latest News 📰',
@@ -57,6 +61,8 @@ document.addEventListener('DOMContentLoaded', () => {
             heroReadLess: 'Show less ▴',
         },
         ja: {
+            pageTitle: 'FOOREND | グローバル・韓国フードトレンドアーカイブ | F&Bニュース',
+            pageDesc: 'FOORENDは3時間ごとに自動更新されるグローバル・韓国F&Bビジネストレンドのニュースアーカイブです。フードトレンド、食品トレンドの最新ニュースを4言語で確認できます。',
             heroWelcome: `FOOREND's Food Trend Archive へようこそ ✨<br><br>このページは、単なるニュースまとめではありません。<br>FOORENDは2022年、百貨店のF&Bチームバイヤーとして働いていたAlexが退職後も現場感覚を失わないよう、国内外のF&Bビジネスニュースのクリッピングを始めたことから生まれました。その記録が積み重なり、現在はメールニュースレター読者3,500+、Instagramフォロワー4,900+、KakaoTalkレター読者1,000+の方々とともにあるFOORENDとなりました。<br><br>このアーカイブページは、そのルーティンをそのまま公開した場所です。<br>毎週どのメディアから、どんなニュースを見て、その中から何をクリッピングするか。FOORENDが200件を超えるニュースレターを発行してきた情報探索のルーティンを詰め込んでいます。さらに、それらのメディアのニュースが3時間ごとに自動更新されるよう設定しています。<br><br>F&B業界のプロフェッショナルには素早くトレンドを把握するリファレンスとして、クリエイターにはコンテンツアイデアの出発点として、この業界に興味を持ち始めた方々には広く深い視野を開く場所となることを願って作りました。<br><br>韓国からもグローバルF&Bトレンドを、グローバルからも韓国のF&Bトレンドを自然に知ることができるよう、ページ右上に言語切り替えボタン（🇰🇷KR / 🇺🇸EN / 🇯🇵JP / 🇨🇳CN）を用意しています。ぜひご活用ください。ありがとうございます🙇🏻`,
             globalNewsTitle: 'グローバル F&B 最新ニュース 📰',
             koreanNewsTitle: '韓国 F&B 最新ニュース 📰',
@@ -78,6 +84,8 @@ document.addEventListener('DOMContentLoaded', () => {
             heroReadLess: '閉じる ▴',
         },
         zh: {
+            pageTitle: 'FOOREND | 全球与韩国食品趋势档案 | F&B资讯',
+            pageDesc: 'FOOREND是每3小时自动更新的全球与韩国F&B商业趋势新闻档案。以4种语言获取最新食品趋势、餐饮新闻和行业动态。',
             heroWelcome: `欢迎来到 FOOREND's Food Trend Archive ✨<br><br>这里不只是新闻汇总。<br>FOOREND 诞生于 2022 年，当时 Alex——曾任韩国百货公司 F&B 部门采购员——离职后为了不与行业脱节，开始整理国内外 F&B 商业新闻剪报。那份积累逐渐成长，如今 FOOREND 已拥有电子报订阅者 3,500+、Instagram 粉丝 4,900+、KakaoTalk Letter 订阅者 1,000+。<br><br>这个档案页面，将那套信息收集的日常完整呈现：每周关注哪些媒体、看了哪些新闻、又从中选取了什么。FOOREND 发行逾 200 期电子报所积累的信息探索流程，都浓缩在这里。此外，所有媒体的最新动态每 3 小时自动更新一次。<br><br>希望这里能成为 F&B 从业者快速掌握趋势的参考资源、创作者发现内容灵感的起点，以及刚对这个行业产生兴趣的人打开视野的窗口。<br><br>无论您身处韩国想了解全球 F&B 趋势，还是在全球各地想掌握韩国本地动态，都可以在这里找到。右上角语言切换按钮（🇰🇷KR / 🇺🇸EN / 🇯🇵JP / 🇨🇳CN）随时可用，欢迎多加利用。感谢您的关注 🙇🏻`,
             globalNewsTitle: '全球 F&B 最新资讯 📰',
             koreanNewsTitle: '韩国 F&B 最新资讯 📰',
@@ -174,6 +182,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function applyLang(lang) {
         const t = translations[lang];
+        // Update document language and title for SEO
+        document.documentElement.lang = lang === 'zh' ? 'zh-Hans' : lang;
+        document.title = t.pageTitle;
+        const metaDesc = document.querySelector('meta[name="description"]');
+        if (metaDesc) metaDesc.setAttribute('content', t.pageDesc);
         renderHeroWelcome(lang);
         document.getElementById('global-news-title').textContent = t.globalNewsTitle;
         document.getElementById('korean-news-title').textContent = t.koreanNewsTitle;

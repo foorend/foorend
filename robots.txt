@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://foorend.github.io/foorend/sitemap.xml
