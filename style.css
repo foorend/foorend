@@ -29,8 +29,8 @@ body {
     display: flex;
     align-items: center;
     gap: 0.35rem;
-    background-color: var(--toggle-bg);
-    color: var(--toggle-fg);
+    background-color: var(--btn-bg);
+    color: var(--fg);
     border-radius: 20px;
     padding: 0 0.9rem;
     height: 2.8rem;
@@ -52,15 +52,15 @@ body {
 #lang-buttons {
     position: fixed;
     top: 1.2rem;
-    right: calc(1.2rem + 2.8rem + 0.5rem);
+    right: 1.2rem;
     display: flex;
     gap: 0.3rem;
     z-index: 100;
 }
 
 .lang-btn {
-    background-color: var(--toggle-bg);
-    color: var(--toggle-fg);
+    background-color: var(--btn-bg);
+    color: var(--fg);
     border: none;
     border-radius: 20px;
     padding: 0 0.7rem;
@@ -681,7 +681,7 @@ button[type="submit"]:hover {
 
     #lang-buttons {
         top: 1.5rem;
-        right: calc(2rem + 3rem + 0.5rem);
+        right: 2rem;
     }
 
     .lang-btn {
