@@ -259,50 +259,61 @@ with open('feeds.json', 'w', encoding='utf-8') as f:
 print('Saved feeds.json')
 
 # ── Generate rss.xml for Naver Webmaster ──────────────────────────
+# FOOREND 자체 뉴스레터 기사만 사용 (직접 URL, CDATA로 안전하게 처리)
+BEEHIIV_ARTICLES = [
+    ('🥤 Global Beverage Trends for 2026',
+     'https://foodtrend.beehiiv.com/p/global-beverage-trends-for-2026'),
+    ("🔥 Five Shifts Shaping Korea's Food Scene Right Now",
+     'https://foodtrend.beehiiv.com/p/five-shifts-shaping-korea-s-food-scene-right-now'),
+    ('☕ From Coffee Pizza to Chocolate Hotpot — Wildest Global Food Drops',
+     'https://foodtrend.beehiiv.com/p/from-coffee-pizza-to-chocolate-hotpot-wildest-global-food-drops'),
+    ('🐟 Salmon Corn Dog with Prebiotic Cola?',
+     'https://foodtrend.beehiiv.com/p/salmon-corn-dog-with-prebiotic-cola'),
+    ('🍄 From Truffle to Cognac to Strawberry Bombs — Korea\'s Year-End Cake Trends',
+     'https://foodtrend.beehiiv.com/p/from-truffle-to-cognac-to-strawberry-bombs-korea-s-year-end-cake-trends'),
+    ('📚 The Ultimate "Dujjonku" Trend Report — From Start to Now',
+     'https://foodtrend.beehiiv.com/p/the-ultimate-dujjonku-trend-report-from-start-to-now'),
+]
+
+def _item(title, link, pub_date):
+    return (
+        '    <item>\n'
+        f'      <title><![CDATA[{title}]]></title>\n'
+        f'      <link>{link}</link>\n'
+        f'      <description><![CDATA[{title}]]></description>\n'
+        f'      <pubDate>{pub_date}</pubDate>\n'
+        '    </item>'
+    )
+
 def generate_rss(result):
     pub_date = formatdate(usegmt=True)
     items = []
 
-    # 한국 뉴스 (한국어 제목 우선 — Naver 색인에 최적)
-    for src in result['korean_news'].values():
-        for item in src['items']:
-            title = item.get('title', '').replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
-            link  = item.get('link', '')
-            desc  = (item.get('desc') or title).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
-            items.append(f'    <item>\n'
-                         f'      <title>{title}</title>\n'
-                         f'      <link>{link}</link>\n'
-                         f'      <description>{desc}</description>\n'
-                         f'      <pubDate>{pub_date}</pubDate>\n'
-                         f'    </item>')
+    # 한국어 뉴스레터 (stibee) — 자동 수집
+    for article in result.get('korean_articles', []):
+        title = article.get('title', '')
+        link  = article.get('link', '')
+        if title and link:
+            items.append(_item(title, link, pub_date))
 
-    # 글로벌 뉴스 (한국어 번역 제목 사용)
-    for src in result['sources'].values():
-        for item in src['items']:
-            title = (item.get('title_ko') or item.get('title', '')).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
-            link  = item.get('link', '')
-            desc  = (item.get('desc') or title).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
-            items.append(f'    <item>\n'
-                         f'      <title>{title}</title>\n'
-                         f'      <link>{link}</link>\n'
-                         f'      <description>{desc}</description>\n'
-                         f'      <pubDate>{pub_date}</pubDate>\n'
-                         f'    </item>')
+    # 영어 뉴스레터 (beehiiv) — 고정 목록
+    for title, link in BEEHIIV_ARTICLES:
+        items.append(_item(title, link, pub_date))
 
-    rss = (
-        '<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
-        '  <channel>\n'
-        '    <title>FOOREND | 글로벌·한국 푸드 트렌드 아카이브</title>\n'
-        '    <link>https://foodtrend.news/</link>\n'
-        '    <description>글로벌·한국 F&amp;B 비즈니스 트렌드를 3시간마다 자동 업데이트하는 뉴스 아카이브. 푸드 트렌드, 식품 트렌드, food trend, Korean food trend 최신 뉴스.</description>\n'
-        '    <language>ko</language>\n'
-        f'    <lastBuildDate>{pub_date}</lastBuildDate>\n'
-        '    <atom:link href="https://foodtrend.news/rss.xml" rel="self" type="application/rss+xml"/>\n'
-        + '\n'.join(items) + '\n'
-        '  </channel>\n'
-        '</rss>'
-    )
+    rss = '\n'.join([
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+        '  <channel>',
+        '    <title><![CDATA[FOOREND | 글로벌·한국 푸드 트렌드 아카이브]]></title>',
+        '    <link>https://foodtrend.news/</link>',
+        '    <description><![CDATA[글로벌·한국 F&B 비즈니스 트렌드 뉴스 아카이브. 푸드 트렌드, 식품 트렌드, food trend, Korean food trend 최신 뉴스.]]></description>',
+        '    <language>ko</language>',
+        f'    <lastBuildDate>{pub_date}</lastBuildDate>',
+        '    <atom:link href="https://foodtrend.news/rss.xml" rel="self" type="application/rss+xml"/>',
+        '\n'.join(items),
+        '  </channel>',
+        '</rss>',
+    ])
 
     with open('rss.xml', 'w', encoding='utf-8') as f:
         f.write(rss)
