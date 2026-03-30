@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T22:02:27Z",
+  "lastUpdated": "2026-03-30T04:28:30Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -33,13 +33,6 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "How Italy's 'Wine Windows' Played a Part in the Plague and the Pandemic",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RNHBLWkVpc2xlTW1tT1VZQ081b19FU2NtTHZfYUN3Vk1pd0VkLWJPcXVKamdGWHBGWllRMFFXblRmSXFjZXM4bUZRdWozVXdpc0laNGhINkp5UTgybzMtX3M2N3A4SXNxVXc?oc=5",
-          "desc": "",
-          "title_ko": "이탈리아의 '와인 창문' 이 전염병과 전염병에 어떻게 영향을 미쳤는지",
-          "title_ja": "イタリアの「ワインの窓」が疫病とパンデミックでどのように役割を果たしたか"
-        },
-        {
           "title": "Food News & Trends",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
@@ -52,6 +45,13 @@
           "desc": "",
           "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
           "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "아침마다 먹었는데 '독'이었다니…의사들 절대 안 먹는 음식 3가지 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqNy1McU9rbmh0aVlTZ2cwOTlIM3RYbzlleUVSOHRsaThJWXpWcmJrZmwwcFNUdHJsYmRSLTVyYmduSXVVNnZfVWVUUnVjemNEbHF3VGhMY0lmd9IBVEFVX3lxTE9jZ2JVV014dFBBeEVYeVV2Mm5SS1c4dEVXd3F1Z2FTV2I2aXZieEJ5MklCRWRYY2FweGI3NmRJMHZ0SEtHdjRYN25nLWFRZW92eDhlZw?oc=5",
+          "desc": "",
+          "title_en": "I ate it every morning, but I couldn't believe it was' poison '... 3 foods doctors never eat [Health! Talk]",
+          "title_ja": "毎朝食べていましたが、「毒」だとは信じられませんでした…医者が絶対に食べない3つの食べ物【健康！話す】"
+        },
+        {
           "title": "[르포]\"여기 DDP야, 이태리야\"…K뷰티·푸드트럭만 붐볐다[코스모프로프 볼로냐 2026]",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRUd2ZXJaVTNZUkJ2ZlBUU1RLNl8zcjYxMzhtRzJEUGhDbVVBcHhwMkJkUU9VaWt6OVZVeWcxb21mczRUWFQ1NklxeDFvQkNINWJESUFLeVRsNENSRU9xWXFoa193SEJoa0ZETQ?oc=5",
           "desc": "",
@@ -128,13 +135,6 @@
           "desc": "",
           "title_en": "Meet Hyundai Green Food, H. Kitchen's new corner ‘Nature-Like Saban’ ~!",
           "title_ja": "ヒュンダイグリーンフード、H.キッチンの新しいコーナー「自然のようなサバン」〜！"
-        },
-        {
-          "title": "푸디스트, 케어푸드 브랜드 ‘케어포유’ 론칭, B2C 시장까지 확장하는 라이프케어 전략 본격화",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50enR1VmJXczNQaTY2ME1HNXR5ZEJUZDFfU0xRVGw2aUNncFdYYU9YTzliYXhiWWpGZ0gyNUhLYXNYYkJNLVBFaVZGRktfbDZOMk9FV0kyakNnRTlhSnhuYjVJd28yYU5aci1F?oc=5",
-          "desc": "",
-          "title_en": "Foodist launches carefood brand ‘CareFoyu', intensifies life care strategy to expand to B2C market",
-          "title_ja": "フーディスト、ケアフードブランド「CareFoyu」を立ち上げ、B 2 C市場に拡大するライフケア戦略を強化"
         }
       ]
     },
@@ -143,25 +143,25 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "해마로푸드서비스, 매도잔량 343% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CRG5NbTdiTkhZdFZUa0lnODUtbDhnaDNhVUYxeElBS01fRXByTTVjbThKVFdXeHBrdUZDZE9scS1DMGZBVTV5SDJLb2VUVDV2WG9Z?oc=5",
+          "title": "현대그린푸드, 소진공과 손잡고 지역 맛집 간편식 개발 지원",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xT24yTGhZWl9lSjRqeHJlVWNsZW9NeEZRb2RtSVNXY3dsV21jdVpSLU5wSjVsYThHMHMtSXkxbGtGZ1l6VjNOQzQ2cHhfcWdheWpj0gFTQVVfeXFMTjFPbjJMaFlaX2VKNGp4cmVVY2xlb014RlFvZG1JU1djd2xXbWN1WlItTnBKNWxhOEcwcy1JeTFsa0ZnWXpWM05DNDZweF9xZ2F5amM?oc=5",
           "desc": "",
-          "title_en": "Hippopotamus Food Service Selling Remainder Surges 343%",
-          "title_ja": "カバのフードサービスの販売残高が343%急増"
+          "title_en": "Hyundai Green Food, supporting the development of local eateries with small vacuums",
+          "title_ja": "現代グリーンフード、小さな掃除機を備えた地元の飲食店の開発を支援"
         },
         {
-          "title": "CJ씨푸드, 3.11% 오르며 체결강도 강세로 반전(199%)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nM21oODVRQ2tLZXFQWkJULWxBWW9NT1pzQTBUczUtMWI0QUNMbDdLMHRheEpyQWVXNWg4SEJDbjA0clo2VnNRbHpHVnFGTXkzSEpB?oc=5",
+          "title": "CJ씨푸드, 매수잔량 394% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GcmJGRzVBTXZhNUdBSlFqTTdhenFKOTBmcU5YUi1zdFg1TXJ5elJYQ2M3Y20ydENjZnNYVGVna28yVVd0eEVIaTE2Yk0zbmRfT3c?oc=5",
           "desc": "",
-          "title_en": "CJ Seafood reverses strong fastening strength with a rise of 3.11% (199%)",
-          "title_ja": "CJシーフードは、3.11 ％ （ 199 ％ ）の上昇で強力な締結強度を逆転させます"
+          "title_en": "CJ Seafood, 394% Purchase Remainder Surge",
+          "title_ja": "CJシーフード、394 ％の購入残高ピーク"
         },
         {
-          "title": "배달 음식 이물 막는다…강동구, 159곳 특별 위생지도",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jRXBQcVNwNk9zRFA0S2liMUNzcWExN01qTFBvX0pTdHBKazhNb0QtSWhSREY4b3M4Uzdub05QeDNwU1E4enBlWWcxbS1oa2V3N1pj0gFTQVVfeXFMTmNFcFBxU3A2T3NEUDRLaWIxQ3NxYTE3TWpMUG9fSlN0cEprOE1vRC1JaFJERjhvczhTN25vTlB4M3BTUTh6cGVZZzFtLWhrZXc3WmM?oc=5",
+          "title": "CJ씨푸드, 매도잔량 825% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1ODZMV1cyeFRlc2JaYlFIbl9lR0FvSDFvNEZ0VDZtd1JFNENibU5Id0VsT3FJM1FkS2lwUGw5VGkzc1VXTEpjeVZrWTFJWE5KelE?oc=5",
           "desc": "",
-          "title_en": "Block foreign bodies in food delivery… 159 special hygiene maps in Gangdong-gu",
-          "title_ja": "フードデリバリーで異物をブロック…江東区の159の特別な衛生マップ"
+          "title_en": "CJ Seafood Sell Residuals Surge 825%",
+          "title_ja": "CJシーフード販売残高825%急増"
         }
       ]
     },
@@ -177,18 +177,18 @@
           "title_ja": "K - Pet Foodsは、「輸出品」として、プレミアムな海外市場をターゲットにしています"
         },
         {
-          "title": "어보브 푸드 인그리디언츠, 2025회계연도 감사 완료 임박..나스닥 규정 준수 회복 전망",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oWHJLU3UwX3FXa1pkTm9NSFo0MUlhd2RFR3h0X2lBT3oxOHpyTVB3djVpWUN1U0x1bVBDRHYzZEYwUlRXNXA1dGNPd2J2cEcwT1E?oc=5",
+          "title": "“캠핑 갈때 이거 챙기면 끝”…대용량 음료·간편식·디저트까지 ‘피크닉 푸드’ 경쟁",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UU2ZKWGhUSlJwYW4zZ0tQcTcxR2J3NEpROVM5eVpfZFAwTXNsMUNvZXNXVThvbVY3MDVIb01WNFpwLUZCREZhbTRHNTNoNmpRWjMzTlV3?oc=5",
           "desc": "",
-          "title_en": "Above Food Ingredients nears completion of FY2025 audit.. Nasdaq compliance expected to recover",
-          "title_ja": "上記の食品成分は、2025年度の監査の完了に近づいています。ナスダックのコンプライアンスは回復すると予想されます"
+          "title_en": "“Grab this when you go camping” … ‘Picnic Food‘ competition for large drinks, convenience foods, and even desserts",
+          "title_ja": "「キャンプに行くときにこれを手に入れよう」…大きなドリンク、コンビニエンスフード、さらにはデザートのための「ピクニックフード」コンテスト"
         },
         {
-          "title": "[이번주뭘살까] 유통가, 봄맞이 세일·제철 음식 할인 풍성",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKanJSMTExeHctNFc1X3FTeUQ3Q21aR1B0NDg0b1dpZ0lQMWJ5c21XSjQwMnpZUTctZXc3T0pDR0lidG5qUnhOOTB1Z2c1OG80d3c?oc=5",
+          "title": "현대그린푸드, 냉동빵 인기에 온라인 베이커리 매출 ‘훈풍’",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JZS1mTFVVb3B1RFY3ckVjUXlnSFNKSFVJcV9oaXAyaGM3YnJWYmJMUjk1VGdOclhpdXNhMDJqemdTN1ZRTTBPQ2Y0dWNNNHhxUGRlVVJn?oc=5",
           "desc": "",
-          "title_en": "[What's on this week] Distribution price, spring sale · Seasonal food discount abundance",
-          "title_ja": "【今週のご案内】流通価格、春のセール・季節の食材割引豊富"
+          "title_en": "Hyundai Green Food, online bakery sales‘ Hoonpung ‘due to the popularity of frozen bread",
+          "title_ja": "現代グリーンフード、冷凍パンの人気によるオンラインベーカリーセール「Hoonpung」"
         }
       ]
     },
