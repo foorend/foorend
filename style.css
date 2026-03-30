@@ -427,6 +427,64 @@ button[type="submit"]:hover {
     color: var(--fg);
 }
 
+.instagram-section {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--btn-border);
+    text-align: left;
+}
+
+.instagram-section-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 0.3rem;
+}
+
+.instagram-section-desc {
+    font-size: 1rem;
+    color: var(--subtitle);
+    margin-bottom: 1.2rem;
+}
+
+.ig-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px;
+    min-height: 80px;
+}
+
+.ig-thumb {
+    display: block;
+    aspect-ratio: 1;
+    overflow: hidden;
+    border-radius: 6px;
+    background-color: var(--btn-bg);
+    border: 1px solid var(--btn-border);
+}
+
+.ig-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: opacity 0.2s, transform 0.25s;
+}
+
+.ig-thumb:hover img {
+    opacity: 0.82;
+    transform: scale(1.04);
+}
+
+.ig-empty {
+    color: var(--subtitle);
+    font-size: 0.9rem;
+    text-align: center;
+    padding: 2rem 1rem;
+    border: 1px dashed var(--btn-border);
+    border-radius: 8px;
+    grid-column: 1 / -1;
+}
+
 .contact-section {
     margin-top: 3rem;
     padding-top: 2rem;
@@ -535,7 +593,8 @@ button[type="submit"]:hover {
 
     /* Reset section top-borders and margins when inside a column */
     .pc-col .articles-section,
-    .pc-col .news-section {
+    .pc-col .news-section,
+    .pc-col .instagram-section {
         margin-top: 0;
         padding-top: 0;
         border-top: none;
@@ -613,15 +672,17 @@ button[type="submit"]:hover {
         display: none !important;
     }
 
-    /* ── Pages 2 & 3: sections start from same top position ── */
+    /* ── Pages 2, 3, 4: sections start from same top position ── */
     .pc-page-2 .pc-col,
-    .pc-page-3 .pc-col {
+    .pc-page-3 .pc-col,
+    .pc-page-4 .pc-col {
         justify-content: flex-start;
         padding-top: 8vh;
     }
 
     .pc-col .articles-section,
-    .pc-col .news-section {
+    .pc-col .news-section,
+    .pc-col .instagram-section {
         width: 100%;
     }
 
@@ -630,13 +691,13 @@ button[type="submit"]:hover {
         overflow-y: auto;
     }
 
-    /* ── Page 4: Contact — centered single column ── */
-    .pc-page-4 {
+    /* ── Page 5: Contact — centered single column ── */
+    .pc-page-5 {
         justify-content: center;
         align-items: center;
     }
 
-    .pc-page-4 .contact-section {
+    .pc-page-5 .contact-section {
         max-width: 600px;
         width: 100%;
     }

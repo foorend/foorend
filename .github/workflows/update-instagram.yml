@@ -1,0 +1,32 @@
+name: Update Instagram Feed
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 6시간마다 실행
+  workflow_dispatch:          # 수동 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  update-instagram:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch Instagram posts
+        env:
+          INSTAGRAM_ENG_TOKEN: ${{ secrets.INSTAGRAM_ENG_TOKEN }}
+          INSTAGRAM_ENG_IG_ID: ${{ secrets.INSTAGRAM_ENG_IG_ID }}
+          INSTAGRAM_KOR_TOKEN: ${{ secrets.INSTAGRAM_KOR_TOKEN }}
+          INSTAGRAM_KOR_IG_ID: ${{ secrets.INSTAGRAM_KOR_IG_ID }}
+        run: python3 .github/scripts/fetch_instagram.py
+
+      - name: Commit updated instagram.json
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add instagram.json
+          git diff --staged --quiet || git commit -m "chore: update Instagram feed [skip ci]"
+          git push

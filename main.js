@@ -34,6 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
             articlesError: '아티클을 불러올 수 없습니다.',
             seeMore: '더보기 →',
             articlesMoreBtn: '더보기 →',
+            igMoreBtn: 'Instagram 보러가기 →',
             heroReadMore: '더보기 ▾',
             heroReadLess: '접기 ▴',
         },
@@ -57,6 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
             articlesError: 'Failed to load articles.',
             seeMore: 'More →',
             articlesMoreBtn: 'See More →',
+            igMoreBtn: 'View on Instagram →',
             heroReadMore: 'Read more ▾',
             heroReadLess: 'Show less ▴',
         },
@@ -80,6 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
             articlesError: '記事を読み込めませんでした。',
             seeMore: 'もっと見る →',
             articlesMoreBtn: 'もっと見る →',
+            igMoreBtn: 'Instagramを見る →',
             heroReadMore: 'もっと見る ▾',
             heroReadLess: '閉じる ▴',
         },
@@ -103,6 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
             articlesError: '文章加载失败。',
             seeMore: '查看更多 →',
             articlesMoreBtn: '查看更多 →',
+            igMoreBtn: '查看 Instagram →',
             heroReadMore: '展开 ▾',
             heroReadLess: '收起 ▴',
         }
@@ -201,6 +205,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const koMore = document.getElementById('ko-articles-more');
         if (enMore) enMore.textContent = t.articlesMoreBtn;
         if (koMore) koMore.textContent = t.articlesMoreBtn;
+        const igEngMore = document.getElementById('ig-eng-more');
+        const igKorMore = document.getElementById('ig-kor-more');
+        if (igEngMore) igEngMore.textContent = t.igMoreBtn;
+        if (igKorMore) igKorMore.textContent = t.igMoreBtn;
         langBtns.forEach(btn => {
             btn.classList.toggle('active', btn.dataset.lang === lang);
         });
@@ -299,6 +307,36 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (newsContainer) newsContainer.innerHTML = `<p class="news-loading">${t.newsError}</p>`;
                 if (koreanNewsContainer) koreanNewsContainer.innerHTML = `<p class="news-loading">${t.newsError}</p>`;
                 if (koreanArticlesList) koreanArticlesList.innerHTML = `<li class="articles-loading">${t.articlesError}</li>`;
+            });
+    }
+
+    // ── Instagram feed ───────────────────────────────────────────
+    function renderInstagram(container, data) {
+        const posts = (data && data.posts) || [];
+        if (!posts.length) {
+            container.innerHTML = '<p class="ig-empty">준비 중입니다.</p>';
+            return;
+        }
+        container.innerHTML = posts.slice(0, 3).map(post => `
+            <a href="${post.permalink}" class="ig-thumb" target="_blank" rel="noopener" aria-label="Instagram post">
+                <img src="${post.media_url}" alt="Instagram post" loading="lazy">
+            </a>`).join('');
+    }
+
+    const igEngContainer = document.getElementById('ig-eng');
+    const igKorContainer = document.getElementById('ig-kor');
+
+    if (igEngContainer || igKorContainer) {
+        fetch('instagram.json')
+            .then(r => r.json())
+            .then(data => {
+                if (igEngContainer) renderInstagram(igEngContainer, data.eng);
+                if (igKorContainer) renderInstagram(igKorContainer, data.kor);
+            })
+            .catch(() => {
+                const msg = '<p class="ig-empty">불러올 수 없습니다.</p>';
+                if (igEngContainer) igEngContainer.innerHTML = msg;
+                if (igKorContainer) igKorContainer.innerHTML = msg;
             });
     }
 
