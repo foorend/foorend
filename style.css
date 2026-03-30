@@ -531,13 +531,20 @@ button[type="submit"]:hover {
 /* ── Mobile: compact lang buttons flush to right edge ────────── */
 @media (max-width: 899px) {
     #lang-buttons {
-        right: 0.6rem;
+        right: 0;
         gap: 0.15rem;
     }
     .lang-btn {
         padding: 0 0.45rem;
         height: 2.4rem;
         font-size: 0.68rem;
+        border-radius: 0;
+    }
+    .lang-btn:last-child {
+        border-radius: 0 20px 20px 0;
+    }
+    .lang-btn:first-child {
+        border-radius: 20px 0 0 20px;
     }
 }
 
