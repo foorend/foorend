@@ -206,12 +206,14 @@ for src in SOURCES:
             time.sleep(0.3)
             item['title_ja'] = translate(item['title'], 'en', 'ja')
             time.sleep(0.3)
+            item['title_zh'] = translate(item['title'], 'en', 'zh')
+            time.sleep(0.3)
         result['sources'][src['key']] = {
             'label': src['label'],
             'site': src['site'],
             'items': items,
         }
-        print(f"✓ {src['label']}: {len(items)} articles (translated to ko, ja)")
+        print(f"✓ {src['label']}: {len(items)} articles (translated to ko, ja, zh)")
     except Exception as e:
         print(f"✗ {src['label']}: {e}")
         result['sources'][src['key']] = {
@@ -230,12 +232,14 @@ for src in KOREAN_SOURCES:
             time.sleep(0.3)
             item['title_ja'] = translate(item['title'], 'ko', 'ja')
             time.sleep(0.3)
+            item['title_zh'] = translate(item['title'], 'ko', 'zh')
+            time.sleep(0.3)
         result['korean_news'][src['key']] = {
             'label': src['label'],
             'site': src['site'],
             'items': items,
         }
-        print(f"✓ {src['label']}: {len(items)} articles (translated to en, ja)")
+        print(f"✓ {src['label']}: {len(items)} articles (translated to en, ja, zh)")
     except Exception as e:
         print(f"✗ {src['label']}: {e}")
         result['korean_news'][src['key']] = {

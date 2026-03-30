@@ -76,6 +76,27 @@ document.addEventListener('DOMContentLoaded', () => {
             articlesMoreBtn: 'もっと見る →',
             heroReadMore: 'もっと見る ▾',
             heroReadLess: '閉じる ▴',
+        },
+        zh: {
+            heroWelcome: `欢迎来到 FOOREND's Food Trend Archive ✨<br><br>这里不只是新闻汇总。<br>FOOREND 诞生于 2022 年，当时 Alex——曾任韩国百货公司 F&B 部门采购员——离职后为了不与行业脱节，开始整理国内外 F&B 商业新闻剪报。那份积累逐渐成长，如今 FOOREND 已拥有电子报订阅者 3,500+、Instagram 粉丝 4,900+、KakaoTalk Letter 订阅者 1,000+。<br><br>这个档案页面，将那套信息收集的日常完整呈现：每周关注哪些媒体、看了哪些新闻、又从中选取了什么。FOOREND 发行逾 200 期电子报所积累的信息探索流程，都浓缩在这里。此外，所有媒体的最新动态每 3 小时自动更新一次。<br><br>希望这里能成为 F&B 从业者快速掌握趋势的参考资源、创作者发现内容灵感的起点，以及刚对这个行业产生兴趣的人打开视野的窗口。<br><br>无论您身处韩国想了解全球 F&B 趋势，还是在全球各地想掌握韩国本地动态，都可以在这里找到。右上角语言切换按钮（KO/EN/JA/ZH）随时可用，欢迎多加利用。感谢您的关注 🙇🏻`,
+            globalNewsTitle: '全球 F&B 最新资讯 📰',
+            koreanNewsTitle: '韩国 F&B 最新资讯 📰',
+            contactTitle: '合作洽谈',
+            contactDesc: '广告、联名、内容提案等，欢迎随时联系 🤝',
+            namePlaceholder: '姓名 / 公司名称',
+            emailPlaceholder: '电子邮件',
+            subjectPlaceholder: '咨询类型（广告、联名、其他）',
+            messagePlaceholder: '请输入咨询内容',
+            submitBtn: '发送消息',
+            newsLoading: '正在加载资讯...',
+            newsEmpty: '暂无资讯。',
+            newsError: '资讯加载失败。',
+            articlesEmpty: '暂无文章。',
+            articlesError: '文章加载失败。',
+            seeMore: '查看更多 →',
+            articlesMoreBtn: '查看更多 →',
+            heroReadMore: '展开 ▾',
+            heroReadLess: '收起 ▴',
         }
     };
 
@@ -111,7 +132,9 @@ document.addEventListener('DOMContentLoaded', () => {
                             ? (item.title_ko || item.title)
                             : lang === 'ja'
                                 ? (item.title_ja || item.title)
-                                : (item.title_en || item.title);
+                                : lang === 'zh'
+                                    ? (item.title_zh || item.title)
+                                    : (item.title_en || item.title);
                         return `
                         <li class="feed-item">
                             <a href="${item.link}" class="feed-item-title" target="_blank" rel="noopener">${title}</a>
@@ -185,6 +208,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function updateVisitorLabel(lang) {
         if (lang === 'en') visitorLabel.textContent = ' visitors';
         else if (lang === 'ja') visitorLabel.textContent = '人が訪問';
+        else if (lang === 'zh') visitorLabel.textContent = '人次访问';
         else visitorLabel.textContent = '명 방문';
     }
 
