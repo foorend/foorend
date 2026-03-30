@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T18:06:40Z",
+  "lastUpdated": "2026-03-30T23:01:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"봄이 보약이다\" 3월말 꼭 먹어야 할 제철음식 5가지 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wUFRRbXF4aTlmWmliSGpQXzZBRkJpLXI2bUV6UVJzYkRwVEdjaXNIenoyenJoYlk2eUlicDlBN0lFSWY1VHJac3BSVldxRHRKb1RsS0l2N19Od9IBVEFVX3lxTE9WVWd6WEEzRThFNU01dk4yck1SQzR0X1lDc0dLVTVVQnB3amRwWEdFbU1oaWFTaXVobDhMZG56YWFEcjN3UXdnR19ZMjVBQXg0STlyMg?oc=5",
+          "desc": "",
+          "title_en": "\"Spring is the cure\" 5 Seasonal Foods You Must Eat at the End of March [Healthy Talk]",
+          "title_ja": "3月末に食べるべき5つの季節の食べ物「春は癒し」【ヘルシートーク】",
+          "title_zh": "“春天是良药” 3月底必吃的5种时令美食【健康谈话】"
+        },
+        {
           "title": "현대그린푸드, 소상공인시장진흥공단과 지역 맛집 메뉴 HMR 개발 지원 나선다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hNTBhLXZ6RFlucjU3QVBTRnlpa1VoOUZ4VkFlZ1JMbFRjS2VpOWtoMm1tenJkSGcyczZPQ29TemxORXpOQkZGQzdSWnNNdVA3Tnd1MFJ1QjNTQdIBVEFVX3lxTE1hS2xPWm45Z1FuV3lRTWFUcElKWW5pbGRUWmhaQ3JQTzM5RHlZWGNDZllHc0liV3FZTG90VXFGMzdhclkyMzNnb2IyNndSQXJpbHVEeA?oc=5",
           "desc": "",
@@ -137,19 +145,11 @@
         },
         {
           "title": "현대그린푸드, 그리팅 냉동형 케어푸드 신제품 만나보세요~!",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SNk5DWHRwZFN0N1NZZjNncW4tRkhpQ0hTT0ppcWcyQVh5V3lnSjJQdXZ5WmdPYnZJWDNPb3oyWWR1cGN2bFpGakpfWXR1Q3AyVU1wa3hhWFB2d9IBVEFVX3lxTE5DTDAxNndIX1JfYThfYlBGdUtQcWh5aVhDejhNM3hHRkxmcll0cDB6ZTE2TS1SOUxZVnhkUXB6dHNFdlRKYzhYbWFaMXNfLWRwVDRRag?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DTDAxNndIX1JfYThfYlBGdUtQcWh5aVhDejhNM3hHRkxmcll0cDB6ZTE2TS1SOUxZVnhkUXB6dHNFdlRKYzhYbWFaMXNfLWRwVDRRatIBVEFVX3lxTE5DTDAxNndIX1JfYThfYlBGdUtQcWh5aVhDejhNM3hHRkxmcll0cDB6ZTE2TS1SOUxZVnhkUXB6dHNFdlRKYzhYbWFaMXNfLWRwVDRRag?oc=5",
           "desc": "",
           "title_en": "Discover Hyundai Green Food, Greeting Frozen Care Food ~!",
           "title_ja": "ヒュンダイグリーンフード、挨拶冷凍ケアフードを発見しよう〜！",
           "title_zh": "探索现代绿色食品，迎接冷冻护理食品~ ！"
-        },
-        {
-          "title": "현대그린푸드, 에이치키친 신규 코너 ‘자연닮은소반’ 만나보세요~!",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0WGhSdkE0SHB0ekJ4c1VmekZ5T0hPR1NWNVF0MUwwTWRiUWtkRUdTbkdxam5vZ0t0TjV3VTdRbEphX2lzOUYzWFZRUGdGLWRBZ1NwZzF2X0FrUdIBVEFVX3lxTE50ak03UXRfUTlZVjlCeVhfbzlIeVN6QUVzZGcwWk1OYnpfSUhXQUFJMWxUbnN5TG5tZTJmdzZNWktoVmNhNUYySGR5b0xCR0F1dzFmSg?oc=5",
-          "desc": "",
-          "title_en": "Meet Hyundai Green Food, H. Kitchen's new corner ‘Nature-Like Saban’ ~!",
-          "title_ja": "ヒュンダイグリーンフード、H.キッチンの新しいコーナー「自然のようなサバン」〜！",
-          "title_zh": "认识现代绿色食品， H.厨房的新角落“大自然般的萨班” ~ ！"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Wingip Food ， 1,359韩元- > 5437韩元股票合并决定"
         },
         {
-          "title": "선진 \"자회사 하림푸드 주식 600억원에 추가취득…지분율 100%\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsMkpVOVFBRkhSOEYyVG8yWjFJRW1nNDI1aGFyWEFIZmZMdEpURWhkcW04bW5HbkZTZmNDWVQ3dWQtY3pZUmlBelhZY1ExV29uMXc?oc=5",
-          "desc": "",
-          "title_en": "Advanced \"Additional acquisition of subsidiary Harim Foods stock at KRW 60 billion... Equity ratio 100%\"",
-          "title_ja": "アドバンスド「子会社ハリム・フーズ株式を600億ウォンで追加取得…出資比率100%」",
-          "title_zh": "高级“额外收购子公司Harim Foods股票600亿韩元...股权比例100%”"
-        },
-        {
           "title": "선진, (주)하림푸드 주식 취득 결정",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yTFdUOXJhbTJzY0VNVUJSMExWZkNxSnRMaS1TcWNsTE1UUEFqQUNkSnd1ZWxyQXY4STJTb1VPYWl6VzRpQ1VDbmFqdVlSSG14YVE?oc=5",
           "desc": "",
           "title_en": "Sunjin to Acquire Harim Foods Co., Ltd.",
           "title_ja": "Sunjin、Harim Foods Co., Ltd.を買収",
           "title_zh": "Sunjin将收购Harim Foods Co., Ltd."
+        },
+        {
+          "title": "선진 \"자회사 하림푸드 주식 600억원에 추가취득…지분율 100%\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsMkpVOVFBRkhSOEYyVG8yWjFJRW1nNDI1aGFyWEFIZmZMdEpURWhkcW04bW5HbkZTZmNDWVQ3dWQtY3pZUmlBelhZY1ExV29uMXc?oc=5",
+          "desc": "",
+          "title_en": "Advanced \"Additional acquisition of subsidiary Harim Foods stock at KRW 60 billion... Equity ratio 100%\"",
+          "title_ja": "アドバンスド「子会社ハリム・フーズ株式を600億ウォンで追加取得…出資比率100%」",
+          "title_zh": "高级“额外收购子公司Harim Foods股票600亿韩元...股权比例100%”"
         }
       ]
     },
