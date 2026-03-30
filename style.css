@@ -22,10 +22,21 @@ body {
     transition: background-color 0.3s, color 0.3s;
 }
 
-#visitor-counter {
+#top-bar {
     position: fixed;
-    top: 1.2rem;
-    left: 1.2rem;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1.2rem;
+    z-index: 100;
+    pointer-events: none;
+}
+
+#visitor-counter {
     display: flex;
     align-items: center;
     gap: 0.35rem;
@@ -37,8 +48,8 @@ body {
     font-size: 0.78rem;
     font-weight: bold;
     letter-spacing: 0.03em;
-    z-index: 100;
     white-space: nowrap;
+    pointer-events: auto;
 }
 
 #visitor-icon {
@@ -50,12 +61,9 @@ body {
 }
 
 #lang-buttons {
-    position: fixed;
-    top: 1.2rem;
-    right: 1.2rem;
     display: flex;
     gap: 0.3rem;
-    z-index: 100;
+    pointer-events: auto;
 }
 
 .lang-btn {
@@ -530,22 +538,23 @@ button[type="submit"]:hover {
 
 /* ── Mobile: compact lang buttons flush to right edge ────────── */
 @media (max-width: 899px) {
+    #top-bar {
+        padding: 0 0 0 0.8rem;
+    }
     #lang-buttons {
-        left: auto;
-        right: 0;
-        gap: 0.15rem;
+        gap: 0;
     }
     .lang-btn {
-        padding: 0 0.45rem;
-        height: 2.4rem;
-        font-size: 0.68rem;
+        padding: 0 0.5rem;
+        height: 2.8rem;
+        font-size: 0.7rem;
         border-radius: 0;
-    }
-    .lang-btn:last-child {
-        border-radius: 0 20px 20px 0;
     }
     .lang-btn:first-child {
         border-radius: 20px 0 0 20px;
+    }
+    .lang-btn:last-child {
+        border-radius: 0 0 0 0;
     }
 }
 
@@ -700,9 +709,8 @@ button[type="submit"]:hover {
     }
 
 
-    #lang-buttons {
-        top: 1.5rem;
-        right: 2rem;
+    #top-bar {
+        padding: 0 2rem;
     }
 
     .lang-btn {
