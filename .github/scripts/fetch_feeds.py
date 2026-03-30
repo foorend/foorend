@@ -276,11 +276,14 @@ BEEHIIV_ARTICLES = [
 ]
 
 def _item(title, link, pub_date):
+    # Naver requires all URLs to be on the verified domain (foodtrend.news).
+    # Use foodtrend.news as the <link>, and the original URL as a non-permalink guid.
     return (
         '    <item>\n'
         f'      <title><![CDATA[{title}]]></title>\n'
-        f'      <link>{link}</link>\n'
+        f'      <link>https://foodtrend.news/</link>\n'
         f'      <description><![CDATA[{title}]]></description>\n'
+        f'      <guid isPermaLink="false">{link}</guid>\n'
         f'      <pubDate>{pub_date}</pubDate>\n'
         '    </item>'
     )
