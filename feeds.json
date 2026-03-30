@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T12:05:06Z",
+  "lastUpdated": "2026-03-30T18:06:40Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -15,19 +15,19 @@
         },
         {
           "title": "Fast-growing Nothing Bundt Cakes is sold to KKR",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdU8zcFU2Z05Ic1o2VHZoRXpwa2d2elI4dkxELWpJYWxjT090MDZlMHM5QnRFdnVDM3I3Q3Z5M2FhRVJ2T21EYUh0VG1WbzU1WGdtdzRCVUJMNm8wMm9aNHFIWjRZcy1lYlJHcFpLb3ppYmN0RXcxQzNKMk54T3RabkZxM2RJaHpGdmx3Ml80NXNKYTRwRXVr?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObUpRMUxmckp5eDlWTFVjUTNOUGwwNWNqYjZYZHd0VTh3SUJzTlFMcWVUcERDX281d1FILTF5LXozUkxpLWNSNjF3MDVUZHgwdEstMk1NYU1USElPaE1iUFhaZkhGNkJkaHE2OFNiLWxXOVJ4V1hfZnhDeG5Pc0dxRnJOc0JDSWVvRDhlc2Q2VFZoUQ?oc=5",
           "desc": "",
           "title_ko": "빠르게 성장하는 번트 케이크는 KKR에 판매되지 않습니다",
           "title_ja": "急成長何もバンドケーキはKKRに販売されていません",
           "title_zh": "生长速度快没有外滩蛋糕卖给KKR"
         },
         {
-          "title": "Dickey's franchise registration expires in several states",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2htYTBFcktuRV9YaDBkeFE1dzNYMjU5bWJHVzRsM3cxQjEtM3VzZG1PLU1ua01RZkl0Mkl2M3BQSnNINlAxUXA1QjVia1V5TFRXUENNeEt2dHJ3T3d3MU1vZ1E2cWpGWnkxLU4tWWRpVnlxY2dpRlZfRHZxR3NtZEl2RlhhRnhXMmVoN3NEV0stX2FadUYzNU1zMl81S20tdEE?oc=5",
+          "title": "Utah-based Firehouse Subs franchisee files Chapter 11 bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkVDeTQyV2FSZTNmRHFudDVZMV9JaXRwZUs0RTNNdVhqV2JGYlYwbG5JQUctVy1VUTMzYWViRzdxV3BoQ0p1eGY3NmlkbTVPa0EwSHZheTJGa2k2WjQ1NGdKZld5NmZ0YWpUX0d2anVNMzRrd2E5ZmxqWGc0YnY4dWhJZkF0X0RERkxESEd4YW04Rm9xUG5NRkYwa1hKR2JwWXpDSlNTaVh6VmQtbU1tWUxR?oc=5",
           "desc": "",
-          "title_ko": "Dickey's 프랜차이즈 등록이 여러 주에서 만료됩니다",
-          "title_ja": "Dickeyのフランチャイズ登録はいくつかの州で期限切れになります",
-          "title_zh": "Dickey的特许经营注册在几个州过期"
+          "title_ko": "유타에 기반을 둔 Firehouse Subs 프랜차이즈 가맹점 파일 제 11 장 파산",
+          "title_ja": "ユタ州に拠点を置くFirehouse Subsフランチャイズ加盟店が第11章破産を申請",
+          "title_zh": "总部位于犹他州的Firehouse Subs特许经营商申请第11章破产"
         }
       ]
     },
@@ -35,14 +35,6 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
-        {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "This Robot Cat Waiter Delivers Your Food and Gets Fussy if You Pet it Too Long",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rODJuVFdHZUFzTkthRXpPT1h5WGJGRG1iQVJDSk5DTTVKTmRwckd6bzJCM2o1ZFNQQ0luTFlNeUh1X2duR0pyaUVyYjB3dEdQRm01bmhzVjlLMHVtX3o1RFo1NXJkdlc1T3BNeFNaTQ?oc=5",
+          "desc": "",
+          "title_ko": "이 로봇 고양이 웨이터는 음식을 배달하고 너무 오래 쓰다듬으면 소란스러워집니다",
+          "title_ja": "このロボットキャットウェイターはあなたの食べ物を届け、あなたがそれを長く撫でると大騒ぎになります",
+          "title_zh": "这款机器人猫服务员为您提供食物，如果您宠物时间过长，它会让您大惊小怪"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "现代绿色食品、小企业市场推广公司和当地餐厅菜单HMR开发支持"
         },
         {
-          "title": "현대그린푸드, 에이치키친 신규 코너 ‘자연닮은소반’ 만나보세요~!",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0WGhSdkE0SHB0ekJ4c1VmekZ5T0hPR1NWNVF0MUwwTWRiUWtkRUdTbkdxam5vZ0t0TjV3VTdRbEphX2lzOUYzWFZRUGdGLWRBZ1NwZzF2X0FrUdIBVEFVX3lxTE50ak03UXRfUTlZVjlCeVhfbzlIeVN6QUVzZGcwWk1OYnpfSUhXQUFJMWxUbnN5TG5tZTJmdzZNWktoVmNhNUYySGR5b0xCR0F1dzFmSg?oc=5",
-          "desc": "",
-          "title_en": "Meet Hyundai Green Food, H. Kitchen's new corner ‘Nature-Like Saban’ ~!",
-          "title_ja": "ヒュンダイグリーンフード、H.キッチンの新しいコーナー「自然のようなサバン」〜！",
-          "title_zh": "认识现代绿色食品， H.厨房的新角落“大自然般的萨班” ~ ！"
-        },
-        {
           "title": "현대그린푸드, 그리팅 냉동형 케어푸드 신제품 만나보세요~!",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SNk5DWHRwZFN0N1NZZjNncW4tRkhpQ0hTT0ppcWcyQVh5V3lnSjJQdXZ5WmdPYnZJWDNPb3oyWWR1cGN2bFpGakpfWXR1Q3AyVU1wa3hhWFB2d9IBVEFVX3lxTE5DTDAxNndIX1JfYThfYlBGdUtQcWh5aVhDejhNM3hHRkxmcll0cDB6ZTE2TS1SOUxZVnhkUXB6dHNFdlRKYzhYbWFaMXNfLWRwVDRRag?oc=5",
           "desc": "",
           "title_en": "Discover Hyundai Green Food, Greeting Frozen Care Food ~!",
           "title_ja": "ヒュンダイグリーンフード、挨拶冷凍ケアフードを発見しよう〜！",
           "title_zh": "探索现代绿色食品，迎接冷冻护理食品~ ！"
+        },
+        {
+          "title": "현대그린푸드, 에이치키친 신규 코너 ‘자연닮은소반’ 만나보세요~!",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0WGhSdkE0SHB0ekJ4c1VmekZ5T0hPR1NWNVF0MUwwTWRiUWtkRUdTbkdxam5vZ0t0TjV3VTdRbEphX2lzOUYzWFZRUGdGLWRBZ1NwZzF2X0FrUdIBVEFVX3lxTE50ak03UXRfUTlZVjlCeVhfbzlIeVN6QUVzZGcwWk1OYnpfSUhXQUFJMWxUbnN5TG5tZTJmdzZNWktoVmNhNUYySGR5b0xCR0F1dzFmSg?oc=5",
+          "desc": "",
+          "title_en": "Meet Hyundai Green Food, H. Kitchen's new corner ‘Nature-Like Saban’ ~!",
+          "title_ja": "ヒュンダイグリーンフード、H.キッチンの新しいコーナー「自然のようなサバン」〜！",
+          "title_zh": "认识现代绿色食品， H.厨房的新角落“大自然般的萨班” ~ ！"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "现代绿色食品，用小吸尘器支持当地餐馆的发展"
         },
         {
+          "title": "CJ씨푸드, 매수잔량 394% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GcmJGRzVBTXZhNUdBSlFqTTdhenFKOTBmcU5YUi1zdFg1TXJ5elJYQ2M3Y20ydENjZnNYVGVna28yVVd0eEVIaTE2Yk0zbmRfT3c?oc=5",
+          "desc": "",
+          "title_en": "CJ Seafood, 394% Purchase Remainder Surge",
+          "title_ja": "CJシーフード、394 ％の購入残高ピーク",
+          "title_zh": "CJ Seafood ， 394%剩余购买量激增"
+        },
+        {
           "title": "포장용기·비닐까지 웃돈 주고 구매…“당장 음식값 올릴 수밖에” [물가 연쇄 쇼크]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DV0hNN3pzNndYY1B1QjgzaEU1VjBlenVaOGEtc0JzSzY0YmVKVlpONlAzQW9RT0pfbDRiNUNQYVlIN1lfZGkwRHdoSTUyODJwc3fSAVNBVV95cUxQcklOZTRfNzJkRXFqWkI5N1ZlVTF4cU9DbHB5ajZPRnhKejlFREpreVk0enM3SlF5a2hMUE02VllWR2VRTnhNVWl4TGZBbW5OVC1lOA?oc=5",
           "desc": "",
           "title_en": "I even paid for packing containers and vinyl… “I have no choice but to raise the price of food right now” [price chain shock]",
           "title_ja": "容器とビニールの梱包にもお金を払った…「今は食べ物の価格を上げるしかない」【価格連鎖ショック】",
           "title_zh": "我甚至支付了包装容器和乙烯基的费用…… “我现在别无选择，只能提高食品价格” [price chain shock]"
-        },
-        {
-          "title": "비닐 대란에…음식·아이스크림 포장도 종이로",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HNW81LWdRekVobm1mUDdiVGkwX3RwTjBTbmZQN1QzSGthRG9Yc1l4MXZmTHJQZjd1WER0aTdOdl8tTko5Qko2ZjVBV1F6MERnVlHSAVNBVV95cUxOd29KNmRiMFZSM3czTzU0WGZ4VWJwNmY4TnlUNlVPeVEwUGZOUzJDNjlKUHBJZHRQSG1DMlpUQzB5YXJRd2o4QTY3ZkJIZWZEZXRDYw?oc=5",
-          "desc": "",
-          "title_en": "In the vinyl box… Food and ice cream packaging on paper",
-          "title_ja": "ビニール箱の中…紙に包装された食品とアイスクリーム",
-          "title_zh": "在乙烯基盒子里……纸上的食品和冰淇淋包装"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "高级“额外收购子公司Harim Foods股票600亿韩元...股权比例100%”"
         },
         {
-          "title": "K-펫푸드, 프리미엄 앞세워 해외시장 공략…'수출효자 품목'으로",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYUkd4R1dXQ19fZXhuUXJUWlJ6ZG9LZ0Z1a0xKeFpDOHg5VXhRdHlWRXNXOHp3eVAyZXQySlF6Z0RrcjNKQ0F5VG9RblRWcjd5R3c?oc=5",
+          "title": "선진, (주)하림푸드 주식 취득 결정",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yTFdUOXJhbTJzY0VNVUJSMExWZkNxSnRMaS1TcWNsTE1UUEFqQUNkSnd1ZWxyQXY4STJTb1VPYWl6VzRpQ1VDbmFqdVlSSG14YVE?oc=5",
           "desc": "",
-          "title_en": "K-Pet Foods Targets Overseas Markets with Premium Ahead… As an 'Export Hyoja Item'",
-          "title_ja": "K - Pet Foodsは、「輸出品」として、プレミアムな海外市場をターゲットにしています",
-          "title_zh": "K-Pet Foods提前瞄准海外市场......作为“出口Hyoja项目”"
+          "title_en": "Sunjin to Acquire Harim Foods Co., Ltd.",
+          "title_ja": "Sunjin、Harim Foods Co., Ltd.を買収",
+          "title_zh": "Sunjin将收购Harim Foods Co., Ltd."
         }
       ]
     },
