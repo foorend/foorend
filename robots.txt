@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://foodtrend.pages.dev/sitemap.xml
+Sitemap: https://foodtrend.news/sitemap.xml
