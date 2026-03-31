@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T23:01:37Z",
+  "lastUpdated": "2026-03-31T22:53:49Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "This Robot Cat Waiter Delivers Your Food and Gets Fussy if You Pet it Too Long",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rODJuVFdHZUFzTkthRXpPT1h5WGJGRG1iQVJDSk5DTTVKTmRwckd6bzJCM2o1ZFNQQ0luTFlNeUh1X2duR0pyaUVyYjB3dEdQRm01bmhzVjlLMHVtX3o1RFo1NXJkdlc1T3BNeFNaTQ?oc=5",
-          "desc": "",
-          "title_ko": "이 로봇 고양이 웨이터는 음식을 배달하고 너무 오래 쓰다듬으면 소란스러워집니다",
-          "title_ja": "このロボットキャットウェイターはあなたの食べ物を届け、あなたがそれを長く撫でると大騒ぎになります",
-          "title_zh": "这款机器人猫服务员为您提供食物，如果您宠物时间过长，它会让您大惊小怪"
         }
       ]
     },
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "A Food Lover’s Guide to Building a Wedding Registry",
+          "link": "https://www.eater.com/23699739/best-wedding-gifts-popular-registry-items-essentials-kitchenaid-le-creuset",
+          "desc": "Putting together a wedding registry is an overwhelming and uncomfortable task, right up there with making the guest list and keeping track of all the ",
+          "title_ko": "웨딩 레지스트리 구축을 위한 음식 애호가 가이드",
+          "title_ja": "結婚式のレジストリを構築するためのフード愛好家のガイド",
+          "title_zh": "美食爱好者指南：建立婚礼登记处"
+        },
+        {
+          "title": "Here Are the 2026 James Beard Awards Restaurant and Chef Finalists",
+          "link": "https://www.eater.com/dining-out/951811/2026-james-beard-awards-restaurant-chef-finalists",
+          "desc": "The James Beard Foundation has announced its list of chef and restaurant finalists for the 2026 James Beard Awards. The awards represent one of the hi",
+          "title_ko": "2026년 제임스 비어드 어워드 레스토랑 및 셰프 파이널리스트를 소개합니다.",
+          "title_ja": "2026年ジェームズ・ビアード・アワードのレストラン＆シェフファイナリストはこちら",
+          "title_zh": "以下是2026年詹姆斯·比尔德奖餐厅和厨师决赛入围者"
+        },
+        {
           "title": "The Best Housewarming Gifts (That You’ll Want for Yourself)",
           "link": "https://www.eater.com/24372860/best-housewarming-gifts",
           "desc": "Housewarming gifts are tricky. They are tricky by scale: larger than a host gift, smaller than a wedding gift. And they are tricky by kind: housewarmi",
           "title_ko": "최고의 하우스워밍 선물 (직접 원하는 선물)",
           "title_ja": "最高のハウスウォーミングギフト（自分にぴったりのもの）",
           "title_zh": "最好的温馨礼物（您自己想要的）"
-        },
-        {
-          "title": "The 38 Best Restaurants in Rome, According to a Best-Selling Local Cookbook Author",
-          "link": "https://www.eater.com/maps/best-restaurants-rome-italy",
-          "desc": "Roman cuisine is a reflection of the city itself — layered, deeply rooted in tradition, and full of contrasts. After years of eating my way through Ro",
-          "title_ko": "베스트셀러 요리책 저자에 따르면 로마 최고의 레스토랑 38곳",
-          "title_ja": "地元のベストセラー料理本作家によるローマのベストレストラン38選",
-          "title_zh": "畅销本地烹饪书作者评选的罗马38家最佳餐厅"
-        },
-        {
-          "title": "Where Your Favorite Chefs and Food Experts Eat When They’re Off the Clock",
-          "link": "https://www.eater.com/press-room/24434033/eater-app-list-sharing-chefs-creators",
-          "desc": "The Eater app just got a lot better. It’s still the same trusted place to find great restaurants, but now with a smarter, more personal way to explore",
-          "title_ko": "좋아하는 셰프와 음식 전문가가 언제 어디서나 식사를 즐길 수 있는 곳",
-          "title_ja": "お気に入りのシェフやフードエキスパートが時間外に食べる場所",
-          "title_zh": "您最喜爱的厨师和美食专家下班后在哪里用餐"
         }
       ]
     }
@@ -128,12 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"봄이 보약이다\" 3월말 꼭 먹어야 할 제철음식 5가지 [건강!톡]",
+          "title": "마곡에 모인 전 세계 바이어…\"K컬처로 뷰티·푸드 열풍\"",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OUzVKaEVCNEp2MWVPYy0tLXF1NXpmRS1TT0tvRE1UR0FoNndmX1p6RTNnYnY5VHAyLVBPR3d5OXpLanVMd0FCcVc1bGsyaFJVbTBlVmo5TUo3UdIBVEFVX3lxTFB1Y2hhMUIwWmNINjhrVXllMjdDc1hwSDJrWEtzWHQ1U2x3OXk2QUluU1o3U1NIV3VpLTdSbFJqelczYnRJa0Z4c0Q3eHVFVnpoekRJMw?oc=5",
+          "desc": "",
+          "title_en": "Buyers from all over the world gathered in Magok... \"Beauty and Food Craze with K Culture\"",
+          "title_ja": "世界中のバイヤーがMagokに集まりました…「Kカルチャーと美と食の熱狂」",
+          "title_zh": "来自世界各地的买家聚集在Magok…… “K文化的美食热潮”"
+        },
+        {
+          "title": "'직장인들 보약이 따로 없네'…3월말 꼭 먹어야 할 제철음식 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wUFRRbXF4aTlmWmliSGpQXzZBRkJpLXI2bUV6UVJzYkRwVEdjaXNIenoyenJoYlk2eUlicDlBN0lFSWY1VHJac3BSVldxRHRKb1RsS0l2N19Od9IBVEFVX3lxTE9WVWd6WEEzRThFNU01dk4yck1SQzR0X1lDc0dLVTVVQnB3amRwWEdFbU1oaWFTaXVobDhMZG56YWFEcjN3UXdnR19ZMjVBQXg0STlyMg?oc=5",
           "desc": "",
-          "title_en": "\"Spring is the cure\" 5 Seasonal Foods You Must Eat at the End of March [Healthy Talk]",
-          "title_ja": "3月末に食べるべき5つの季節の食べ物「春は癒し」【ヘルシートーク】",
-          "title_zh": "“春天是良药” 3月底必吃的5种时令美食【健康谈话】"
+          "title_en": "'There is no cure for office workers' … Seasonal food that must be eaten at the end of March [Health! Talk]",
+          "title_ja": "「オフィスワーカーに治療法はありません」… 3月末に食べなければならない季節の食べ物【健康！トーク】",
+          "title_zh": "“上班族无药可救” ……必须在3月底吃的季节性食物[健康！谈话]"
         },
         {
           "title": "현대그린푸드, 소상공인시장진흥공단과 지역 맛집 메뉴 HMR 개발 지원 나선다",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food, Small Business Market Promotion Corporation and Local Restaurant Menu HMR Development Support",
           "title_ja": "現代グリーンフード、中小企業市場振興法人、地元レストランメニューHMR開発支援",
           "title_zh": "现代绿色食品、小企业市场推广公司和当地餐厅菜单HMR开发支持"
-        },
-        {
-          "title": "현대그린푸드, 그리팅 냉동형 케어푸드 신제품 만나보세요~!",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DTDAxNndIX1JfYThfYlBGdUtQcWh5aVhDejhNM3hHRkxmcll0cDB6ZTE2TS1SOUxZVnhkUXB6dHNFdlRKYzhYbWFaMXNfLWRwVDRRatIBVEFVX3lxTE5DTDAxNndIX1JfYThfYlBGdUtQcWh5aVhDejhNM3hHRkxmcll0cDB6ZTE2TS1SOUxZVnhkUXB6dHNFdlRKYzhYbWFaMXNfLWRwVDRRag?oc=5",
-          "desc": "",
-          "title_en": "Discover Hyundai Green Food, Greeting Frozen Care Food ~!",
-          "title_ja": "ヒュンダイグリーンフード、挨拶冷凍ケアフードを発見しよう〜！",
-          "title_zh": "探索现代绿色食品，迎接冷冻护理食品~ ！"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "현대그린푸드, 소진공과 손잡고 지역 맛집 간편식 개발 지원",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xT24yTGhZWl9lSjRqeHJlVWNsZW9NeEZRb2RtSVNXY3dsV21jdVpSLU5wSjVsYThHMHMtSXkxbGtGZ1l6VjNOQzQ2cHhfcWdheWpj0gFTQVVfeXFMTjFPbjJMaFlaX2VKNGp4cmVVY2xlb014RlFvZG1JU1djd2xXbWN1WlItTnBKNWxhOEcwcy1JeTFsa0ZnWXpWM05DNDZweF9xZ2F5amM?oc=5",
+          "title": "발효 과학으로 본 K-푸드 [권대영의 한식 인문학]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JMUpQX3MtMDNjNG56MTN3N053ZGgyVjFaMkpRNW9Qbl9TZko0ZEhuYmtMSG9TWkJ6dFZjUHRWejk3U0daRGN6ZWRlcFl3NElXQXg40gFTQVVfeXFMTkkxSlBfcy0wM2M0bnoxM3c3TndkaDJWMVoySlE1b1BuX1NmSjRkSG5ia0xIb1NaQnp0VmNQdFZ6OTdTR1pEY3plZGVwWXc0SVdBeDg?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food, supporting the development of local eateries with small vacuums",
-          "title_ja": "現代グリーンフード、小さな掃除機を備えた地元の飲食店の開発を支援",
-          "title_zh": "现代绿色食品，用小吸尘器支持当地餐馆的发展"
+          "title_en": "K-Food through Fermentation Science [Kwon Dae-young's Korean Food Humanities]",
+          "title_ja": "発酵科学を通じたK - Food [クォン・デヨンの韓国料理人文科学]",
+          "title_zh": "通过发酵科学了解韩国食品[Kwon Dae-young's Korean Food Humanities]"
         },
         {
-          "title": "CJ씨푸드, 매수잔량 394% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GcmJGRzVBTXZhNUdBSlFqTTdhenFKOTBmcU5YUi1zdFg1TXJ5elJYQ2M3Y20ydENjZnNYVGVna28yVVd0eEVIaTE2Yk0zbmRfT3c?oc=5",
+          "title": "금감원, ‘신세계푸드, 이마트 완전자회사’ 추진 제동",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82VTc3aXFDVEZFNUJzeHEwaDFwS2dzekZvQ3VOb0VjWEJydmQ5QnJmemYyVGpRQUl3a1NvVXoxRG51RWxkcmw1N1hMakdNdUh5NGfSAVNBVV95cUxORlR4dE9mSF9iYVYwNkxiWTJDQXM3WXdlT2d2Q2dtZTNEWDl4bE9JSy1VMnRjZnZyeV9GM1Q5dFZGclhDUGJUSm5lTEk1Nm5jNFYwOA?oc=5",
           "desc": "",
-          "title_en": "CJ Seafood, 394% Purchase Remainder Surge",
-          "title_ja": "CJシーフード、394 ％の購入残高ピーク",
-          "title_zh": "CJ Seafood ， 394%剩余购买量激增"
+          "title_en": "Prison Service brakes promotion of ‘Shinsegae Food, E-Mart wholly-owned subsidiary’",
+          "title_ja": "刑務所サービスが「Shinsegae Food, E - Mart 100 ％子会社」のプロモーションをブレーキ",
+          "title_zh": "Prison Service遏制“Shinsegae Food, E-Mart全资子公司”的推广"
         },
         {
-          "title": "포장용기·비닐까지 웃돈 주고 구매…“당장 음식값 올릴 수밖에” [물가 연쇄 쇼크]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DV0hNN3pzNndYY1B1QjgzaEU1VjBlenVaOGEtc0JzSzY0YmVKVlpONlAzQW9RT0pfbDRiNUNQYVlIN1lfZGkwRHdoSTUyODJwc3fSAVNBVV95cUxQcklOZTRfNzJkRXFqWkI5N1ZlVTF4cU9DbHB5ajZPRnhKejlFREpreVk0enM3SlF5a2hMUE02VllWR2VRTnhNVWl4TGZBbW5OVC1lOA?oc=5",
+          "title": "롯데웰푸드, 간편 소스 브랜드 신제품 ‘요리킥 만능양념’ 출시",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JNXJLU2hweTkzclhfVmxuTEY1WnVjNTBVRGxibWZUT1ZseUdmTFpmcG5kUk9BanJOOTU4Z0tmWW0zeVluTkg2Zk5nY3RGZHZEWnA00gFTQVVfeXFMTkk1cktTaHB5OTNyWF9WbG5MRjVadWM1MFVEbGJtZlRPVmx5R2ZMWmZwbmRST0Fqck45NThnS2ZZbTN5WW5OSDZmTmdjdEZkdkRacDQ?oc=5",
           "desc": "",
-          "title_en": "I even paid for packing containers and vinyl… “I have no choice but to raise the price of food right now” [price chain shock]",
-          "title_ja": "容器とビニールの梱包にもお金を払った…「今は食べ物の価格を上げるしかない」【価格連鎖ショック】",
-          "title_zh": "我甚至支付了包装容器和乙烯基的费用…… “我现在别无选择，只能提高食品价格” [price chain shock]"
+          "title_en": "Lotte Well Food Launches New Simple Sauce Brand ‘Cooking Kick All-Seasoning’",
+          "title_ja": "ロッテウェルフード、新シンプルソースブランド「Cooking Kick All - Seasoning」を発売",
+          "title_zh": "乐天Well Food推出全新简单酱料品牌“Cooking Kick All-Seasoning”"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "윙입푸드, 1,359원 -> 5,437원 주식병합 결정",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LT2xvaEdaZG1mV1pwVlV0U0xaQldFd05ma3loMGRvU3luTzhyUmxQYkJMRDBQRFhxLThFZ0FrYWhYQzU0NDVwVUNPUkN4ZXYxV2c?oc=5",
+          "title": "바프레시 푸드 그룹, 4Q 매출 540만 달러..전년比 94%↑",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAycENBNm9yT3M5SG5LdmdfckRWbTFMUTZmNE8yNzhPZDhyWk1uN3FaZkFNVUFHbmlOUnFtZHpSb1B0S3FBYmV2cWJSSzN4a3BrZ2c?oc=5",
           "desc": "",
-          "title_en": "Wingip Food, 1,359 KRW - > 5437 KRW Stock Merger Decision",
-          "title_ja": "Wingip Food、1,359ウォン-> 5437ウォンの株式合併決定",
-          "title_zh": "Wingip Food ， 1,359韩元- > 5437韩元股票合并决定"
+          "title_en": "Barfresh Food Group, 4Q revenues of $5.4 million.. 94% YoY↑",
+          "title_ja": "Barfresh Food Group、4 Q売上高540万ドル..前年同期比94 ％↑",
+          "title_zh": "Barfresh Food Group ，第四季度收入540万美元..同比增长94%↑"
         },
         {
-          "title": "선진, (주)하림푸드 주식 취득 결정",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yTFdUOXJhbTJzY0VNVUJSMExWZkNxSnRMaS1TcWNsTE1UUEFqQUNkSnd1ZWxyQXY4STJTb1VPYWl6VzRpQ1VDbmFqdVlSSG14YVE?oc=5",
+          "title": "플라워 푸드, CGO 직책 폐지하고 조직 재편..운영효율화 추진",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xb1RUbXJ1V3dDanJ4TkwtOFB5REtLYnQ0dTBBUHcwZkVtUzhPN0tINlZYX3hibnNtb0w1UWhzem1LRDN5YWREZEZfbDF0Vy1VWnc?oc=5",
           "desc": "",
-          "title_en": "Sunjin to Acquire Harim Foods Co., Ltd.",
-          "title_ja": "Sunjin、Harim Foods Co., Ltd.を買収",
-          "title_zh": "Sunjin将收购Harim Foods Co., Ltd."
+          "title_en": "Flower Food abolishes CGO position, reorganizes organization, promotes operational efficiency",
+          "title_ja": "フラワーフードは、CGOのポジションを廃止し、組織を再編成し、業務効率を向上させます",
+          "title_zh": "花卉食品废除CGO岗位，重组组织，提升运营效率"
         },
         {
           "title": "선진 \"자회사 하림푸드 주식 600억원에 추가취득…지분율 100%\"",
@@ -226,12 +226,12 @@
           "title_zh": "「Veggie Meal」X「Another House」特别优惠……最多可优惠53%"
         },
         {
-          "title": "미국 스머커, 트레이더 조에 유사 제품 대상 법적 대응",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VeG5SaWRHSC00NFFKVGpGREhycUdNTVJaanFrWFN5MzR5TFhmUlJRM25yOE9yeXkzdTVpWFhJd3JyelI3SmlPV2hFcWVZWHlzY2V1c25iVQ?oc=5",
+          "title": "성수동 리틀바잇모어, 신세계·현대百 팝업 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVmp6ajdiRF95RzFYeHNsTnFaR2lOUG13NkJtZ0V5SDlyY2E4eEMxNHhDdUR6Yy1takdvMTJMS0FocWFxVmg1NlB0X3dmQkVZNXpLTF9obw?oc=5",
           "desc": "",
-          "title_en": "US Smucker Legal Response to Trader Zoe Similar Products",
-          "title_ja": "トレーダーZoe類似製品に対する米国Smuckerの法的対応",
-          "title_zh": "美国Smucker对交易员Zoe类似产品的法律回应"
+          "title_en": "Seongsu-dong Little Byte More Opens Shinsegae and Hyundai Hundred Pop-Up",
+          "title_ja": "Seongsu - dong Little Byte Moreが新世界と現代の100ポップアップを開く",
+          "title_zh": "Seongsu-dong Little Byte More打开Shinsegae和Hyundai Hundred弹出窗口"
         },
         {
           "title": "美 네슬레의 ‘코리안 BBQ’ 소스 …가정용 소스 공략",
