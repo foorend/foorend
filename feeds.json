@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T16:10:26Z",
+  "lastUpdated": "2026-04-01T23:04:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Sysco以$ 291亿收购Restaurant Depot"
         },
         {
-          "title": "Dickey's franchise registration expires in several states",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2htYTBFcktuRV9YaDBkeFE1dzNYMjU5bWJHVzRsM3cxQjEtM3VzZG1PLU1ua01RZkl0Mkl2M3BQSnNINlAxUXA1QjVia1V5TFRXUENNeEt2dHJ3T3d3MU1vZ1E2cWpGWnkxLU4tWWRpVnlxY2dpRlZfRHZxR3NtZEl2RlhhRnhXMmVoN3NEV0stX2FadUYzNU1zMl81S20tdEE?oc=5",
+          "title": "Starbucks wants to get rid of the long lines at its airport shops",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF8zaVNJT1hFWXhyYzA1TWZuS0Q3LUxUcWd1bmcwd0QxM0JnaVVMNTNyQ2R4VlYtbURNSGUxYzk0T2l6T3hISGpTQjhsUmZOcUdMOEJBMTQ3TjJqbmtoa3hhdGJ0NXZ0S0x2ZUdYSm13VVlkNkNaMnlrdGI1NGk0clZKam85UGIwTHdoaUFJalJnSy1sOGd1MElNWUhqRUF6?oc=5",
           "desc": "",
-          "title_ko": "Dickey's 프랜차이즈 등록이 여러 주에서 만료됩니다",
-          "title_ja": "Dickeyのフランチャイズ登録はいくつかの州で期限切れになります",
-          "title_zh": "Dickey的特许经营注册在几个州过期"
+          "title_ko": "스타벅스는 공항 상점에서 긴 줄을 없애고 싶어합니다.",
+          "title_ja": "スターバックスは、空港の店舗で長い行列をなくしたいと考えています",
+          "title_zh": "星巴克希望摆脱机场商店的排长队"
         }
       ]
     },
@@ -35,14 +35,6 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
-        {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "This Robot Cat Waiter Delivers Your Food and Gets Fussy if You Pet it Too Long",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rODJuVFdHZUFzTkthRXpPT1h5WGJGRG1iQVJDSk5DTTVKTmRwckd6bzJCM2o1ZFNQQ0luTFlNeUh1X2duR0pyaUVyYjB3dEdQRm01bmhzVjlLMHVtX3o1RFo1NXJkdlc1T3BNeFNaTQ?oc=5",
+          "desc": "",
+          "title_ko": "이 로봇 고양이 웨이터는 음식을 배달하고 너무 오래 쓰다듬으면 소란스러워집니다",
+          "title_ja": "このロボットキャットウェイターはあなたの食べ物を届け、あなたがそれを長く撫でると大騒ぎになります",
+          "title_zh": "这款机器人猫服务员为您提供食物，如果您宠物时间过长，它会让您大惊小怪"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "미들바이, 푸드프로세싱 사업부 CFO에 Amy Campbell 임명",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PdWdMTzd3TGthYS1JWWlvMW9ycTlhRDI5VWVzSEprY1JxT1J6ajR2dmNPR2FGNjQybjdWclRkTXVfU3pYYldTM01DUkZuWC0xbmc?oc=5",
-          "desc": "",
-          "title_en": "Middleby Appoints Amy Campbell as CFO of Food Processing",
-          "title_ja": "ミドルビー、エイミー・キャンベルを食品加工のCFOに任命",
-          "title_zh": "Middleby任命Amy Campbell为食品加工首席财务官"
-        },
-        {
           "title": "하나증권 “롯데웰푸드, 단기 실적 모멘텀 부재…해외 성장은 지속”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wX2pTT0pyNGFldGxvNVhkOXpMVHZjZGdUcktiSDRNYTNOVjQtNllSYTF5SW83NGY0OVVuN2MxVndJNkRkUjVWUzNxM0EzellaR0E?oc=5",
           "desc": "",
           "title_en": "Hana Securities “Lotte Well Food lacks momentum for short-term performance… Overseas growth continues”",
           "title_ja": "ハナ証券「ロッテウェルフードは短期的な業績の勢いを欠いています…海外の成長は続いています」",
           "title_zh": "韩亚证券“乐天健康食品缺乏短期业绩的动力……海外增长仍在继续”"
+        },
+        {
+          "title": "미들바이, 푸드프로세싱 사업부 CFO에 Amy Campbell 임명",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PdWdMTzd3TGthYS1JWWlvMW9ycTlhRDI5VWVzSEprY1JxT1J6ajR2dmNPR2FGNjQybjdWclRkTXVfU3pYYldTM01DUkZuWC0xbmc?oc=5",
+          "desc": "",
+          "title_en": "Middleby Appoints Amy Campbell as CFO of Food Processing",
+          "title_ja": "ミドルビー、エイミー・キャンベルを食品加工のCFOに任命",
+          "title_zh": "Middleby任命Amy Campbell为食品加工首席财务官"
         },
         {
           "title": "라이프웨이 푸드, 1분기 매출 32~35% 급증 예상..6080만~6230만 달러",
