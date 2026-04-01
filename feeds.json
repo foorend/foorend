@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T11:59:37Z",
+  "lastUpdated": "2026-04-01T16:10:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "미들바이, 푸드프로세싱 사업부 CFO에 Amy Campbell 임명",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PdWdMTzd3TGthYS1JWWlvMW9ycTlhRDI5VWVzSEprY1JxT1J6ajR2dmNPR2FGNjQybjdWclRkTXVfU3pYYldTM01DUkZuWC0xbmc?oc=5",
+          "desc": "",
+          "title_en": "Middleby Appoints Amy Campbell as CFO of Food Processing",
+          "title_ja": "ミドルビー、エイミー・キャンベルを食品加工のCFOに任命",
+          "title_zh": "Middleby任命Amy Campbell为食品加工首席财务官"
+        },
+        {
           "title": "하나증권 “롯데웰푸드, 단기 실적 모멘텀 부재…해외 성장은 지속”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wX2pTT0pyNGFldGxvNVhkOXpMVHZjZGdUcktiSDRNYTNOVjQtNllSYTF5SW83NGY0OVVuN2MxVndJNkRkUjVWUzNxM0EzellaR0E?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "韩亚证券“乐天健康食品缺乏短期业绩的动力……海外增长仍在继续”"
         },
         {
-          "title": "칼마인 푸드, 보험업계 베테랑 더들리 우울리 신임 이사 선임",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXZHlBSDhzUjlRVmxlbmFuYVZJMEtBMW4xanlJWGtDeTF1T1RMN1gzQnF1TjV1bUJQTlVab0NrbmJlUjdNdEhuMjRsS29GeDlDS0E?oc=5",
+          "title": "라이프웨이 푸드, 1분기 매출 32~35% 급증 예상..6080만~6230만 달러",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52VUhXV0VmcFlGRVQxbFF5eWtiQ09ScC1UU083Nk1zeVNaQlVVZE5MRmlZVk5ndjU0elNMdGNYUWtkMnRvcDJhd0I5VWZyTV8tNGc?oc=5",
           "desc": "",
-          "title_en": "Carmine Foods Appoints New Director of Insurance Industry Veteran Dudley Chulley",
-          "title_ja": "Carmine Foods、保険業界のベテランであるDudley Chulleyの新しいディレクターを任命",
-          "title_zh": "Carmine Foods任命保险业资深董事Dudley Chulley"
-        },
-        {
-          "title": "괴산 로컬푸드 유통센터 준공…유통 거점 시설 활용",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzWUFEa2NWM2VmVnBSVlJqdm9UTTNCeDk0VkhTQzJBWGk3MnRUVllVRnBBVFZFMTBaZFF3cFNqeGtHX0FwcTE4X1N0OS1UY2E2eVE?oc=5",
-          "desc": "",
-          "title_en": "Completion of the local food distribution center in Goesan… Utilization of distribution base facilities",
-          "title_ja": "五重山地元食料物流センター竣工…物流拠点施設の活用",
-          "title_zh": "Goesan当地食品配送中心竣工…配送基地设施的利用"
+          "title_en": "Lifeway Foods forecasts 32-35% surge in first-quarter sales.. $60.8 million - $62.3 million",
+          "title_ja": "Lifeway Foodsは、第1四半期の売上高が32〜35 ％急増すると予測しています。6,080万〜6,230万ドル",
+          "title_zh": "Lifeway Foods预测第一季度销售额将激增32-35%。6080万美元-6230万美元"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "정식품 ‘베지밀’ X ‘또간집’ 행사…최대 53% 할인",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05MGtub0VDRTlYYkxvT2dmbjBsOHQyTkN5U3VzUzZXR1BIVjFpbV91NlppMWVUVldvdTl1RXN3N3hQX0JRT0RRS1Y0MVZIN1YwamFPTnF2RQ?oc=5",
-          "desc": "",
-          "title_en": "Special ‘Veggie Meal’ X ‘Another House’ Offer… Up to 53% off",
-          "title_ja": "「Veggie Meal ’X‘ Another House '」特別オファー…最大53%オフ",
-          "title_zh": "「Veggie Meal」X「Another House」特别优惠……最多可优惠53%"
-        },
         {
           "title": "하겐다즈, 콘래드 서울과 ‘무화과 바닐라 치즈 케이크’ 선봬",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56MVdXTjE1TFp4YXo3bUtCTnA4MkE1TVc1SzJKNHJvWmJ5dnowSkl5TVQzMjR1V1R1TlRnWWhvSWhYc2w5b0otQks4RHVTSW1velF1QlVZRQ?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Borat ‘Ube’ drinks meet at Twosome Place",
           "title_ja": "Twosome PlaceでBorat ‘Ube’ドリンクを堪能しよう",
           "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
+        },
+        {
+          "title": "성수동 리틀바잇모어, 신세계·현대百 팝업 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVmp6ajdiRF95RzFYeHNsTnFaR2lOUG13NkJtZ0V5SDlyY2E4eEMxNHhDdUR6Yy1takdvMTJMS0FocWFxVmg1NlB0X3dmQkVZNXpLTF9obw?oc=5",
+          "desc": "",
+          "title_en": "Seongsu-dong Little Byte More Opens Shinsegae and Hyundai Hundred Pop-Up",
+          "title_ja": "Seongsu - dong Little Byte Moreが新世界と現代の100ポップアップを開く",
+          "title_zh": "Seongsu-dong Little Byte More打开Shinsegae和Hyundai Hundred弹出窗口"
         }
       ]
     }
