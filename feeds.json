@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T06:13:46Z",
+  "lastUpdated": "2026-04-01T11:59:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,6 +66,14 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
+          "title": "There's a major inflation risk lurking for the economy as the Iran war drags on, and it's not oil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmZIekZPZklQZ2JLLWljRmJiOUNvbmFwWjJ0clJYUXhnTVdmTG10Y0hDQ042SkpXaEZlajZtTm55Vzljei1Hb1h0TkhNV3JVVlAtNlRqUTBFUlhaQWtROElhQlAwTGJqbXZiQUxSYmhKQ2E2OUNDdWdYbUgwSktFSlhrdFlzdlgxSjBFZzRXcFJuYWJTM1Jma2xGNVRINXlac3R2Z3BUdWVzLU16?oc=5",
+          "desc": "",
+          "title_ko": "이란 전쟁이 지속됨에 따라 경제에 큰 인플레이션 위험이 숨어 있으며 이는 석유가 아닙니다.",
+          "title_ja": "イラン戦争が長引くにつれて経済には大きなインフレリスクが潜んでおり、それは石油ではありません",
+          "title_zh": "随着伊朗战争的拖延，经济潜伏着巨大的通货膨胀风险，这不是石油"
+        },
+        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -80,14 +88,6 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
-          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
-          "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "韩亚证券“乐天健康食品缺乏短期业绩的动力……海外增长仍在继续”"
         },
         {
-          "title": "바프레시 푸드 그룹, 4Q 매출 540만 달러..전년比 94%↑",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAycENBNm9yT3M5SG5LdmdfckRWbTFMUTZmNE8yNzhPZDhyWk1uN3FaZkFNVUFHbmlOUnFtZHpSb1B0S3FBYmV2cWJSSzN4a3BrZ2c?oc=5",
+          "title": "칼마인 푸드, 보험업계 베테랑 더들리 우울리 신임 이사 선임",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXZHlBSDhzUjlRVmxlbmFuYVZJMEtBMW4xanlJWGtDeTF1T1RMN1gzQnF1TjV1bUJQTlVab0NrbmJlUjdNdEhuMjRsS29GeDlDS0E?oc=5",
           "desc": "",
-          "title_en": "Barfresh Food Group, 4Q revenues of $5.4 million.. 94% YoY↑",
-          "title_ja": "Barfresh Food Group、4 Q売上高540万ドル..前年同期比94 ％↑",
-          "title_zh": "Barfresh Food Group ，第四季度收入540万美元..同比增长94%↑"
+          "title_en": "Carmine Foods Appoints New Director of Insurance Industry Veteran Dudley Chulley",
+          "title_ja": "Carmine Foods、保険業界のベテランであるDudley Chulleyの新しいディレクターを任命",
+          "title_zh": "Carmine Foods任命保险业资深董事Dudley Chulley"
         },
         {
-          "title": "플라워 푸드, CGO 직책 폐지하고 조직 재편..운영효율화 추진",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xb1RUbXJ1V3dDanJ4TkwtOFB5REtLYnQ0dTBBUHcwZkVtUzhPN0tINlZYX3hibnNtb0w1UWhzem1LRDN5YWREZEZfbDF0Vy1VWnc?oc=5",
+          "title": "괴산 로컬푸드 유통센터 준공…유통 거점 시설 활용",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzWUFEa2NWM2VmVnBSVlJqdm9UTTNCeDk0VkhTQzJBWGk3MnRUVllVRnBBVFZFMTBaZFF3cFNqeGtHX0FwcTE4X1N0OS1UY2E2eVE?oc=5",
           "desc": "",
-          "title_en": "Flower Food abolishes CGO position, reorganizes organization, promotes operational efficiency",
-          "title_ja": "フラワーフードは、CGOのポジションを廃止し、組織を再編成し、業務効率を向上させます",
-          "title_zh": "花卉食品废除CGO岗位，重组组织，提升运营效率"
+          "title_en": "Completion of the local food distribution center in Goesan… Utilization of distribution base facilities",
+          "title_ja": "五重山地元食料物流センター竣工…物流拠点施設の活用",
+          "title_zh": "Goesan当地食品配送中心竣工…配送基地设施的利用"
         }
       ]
     },
