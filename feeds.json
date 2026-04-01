@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-03-31T22:53:49Z",
+  "lastUpdated": "2026-04-01T06:13:46Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Krispy Kreme sells most of its stake in U.S. joint venture for $90M",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGo1SXY0dFFjZ0FIRC0yMjVHWHJuZHlaUzFLVkVUZ0ZWNGhNaG9rQjZFZ19MbDVKSmg2Mm9IdjNpMWFkdGJPNnpwZmRwRzc5dkJOb1hRNTJMbWkzWDl4dnc2SmVzTG9tb25EMFN6VVBkbGZvOWZNS3puVkRqYUZTdUhKRG1wMDkwTVpkY2FQZlBFbmt6c2tzdmdyX2trMnVDcjA4?oc=5",
-          "desc": "",
-          "title_ko": "크리스피 크림 (Krispy Kreme) 은 미국 합작 투자 지분 대부분을 $ 90M에 매각합니다.",
-          "title_ja": "クリスピー・クリーム、米国ジョイントベンチャーの株式の大部分を$ 9,000万で売却",
-          "title_zh": "Krispy Kreme以9000万美元的价格出售其在美国合资企业的大部分股份"
-        },
         {
           "title": "Fast-growing Nothing Bundt Cakes is sold to KKR",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObUpRMUxmckp5eDlWTFVjUTNOUGwwNWNqYjZYZHd0VTh3SUJzTlFMcWVUcERDX281d1FILTF5LXozUkxpLWNSNjF3MDVUZHgwdEstMk1NYU1USElPaE1iUFhaZkhGNkJkaHE2OFNiLWxXOVJ4V1hfZnhDeG5Pc0dxRnJOc0JDSWVvRDhlc2Q2VFZoUQ?oc=5",
@@ -22,12 +14,20 @@
           "title_zh": "生长速度快没有外滩蛋糕卖给KKR"
         },
         {
-          "title": "Utah-based Firehouse Subs franchisee files Chapter 11 bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkVDeTQyV2FSZTNmRHFudDVZMV9JaXRwZUs0RTNNdVhqV2JGYlYwbG5JQUctVy1VUTMzYWViRzdxV3BoQ0p1eGY3NmlkbTVPa0EwSHZheTJGa2k2WjQ1NGdKZld5NmZ0YWpUX0d2anVNMzRrd2E5ZmxqWGc0YnY4dWhJZkF0X0RERkxESEd4YW04Rm9xUG5NRkYwa1hKR2JwWXpDSlNTaVh6VmQtbU1tWUxR?oc=5",
+          "title": "Sysco to acquire Restaurant Depot for $29.1B",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0Q4MmJHSmw5dVRxXzZ5XzhiYzVsWG1odHdmOGRNM2hINHBVYUlkd0NVLWUwdGdWQWNUTDh0bU5qTi04UjF4dk1hT1BDUy1TVWhJRnpIdUk3UmJVMU90VVpQR1UyUkdRSE91alBaRkQ4RkhwMmNCQzA5V0tOWEtuaTQzaFpMS04zUVE?oc=5",
           "desc": "",
-          "title_ko": "유타에 기반을 둔 Firehouse Subs 프랜차이즈 가맹점 파일 제 11 장 파산",
-          "title_ja": "ユタ州に拠点を置くFirehouse Subsフランチャイズ加盟店が第11章破産を申請",
-          "title_zh": "总部位于犹他州的Firehouse Subs特许经营商申请第11章破产"
+          "title_ko": "Sysco, $ 29.1B에 Restaurant Depot 인수",
+          "title_ja": "シスコ、レストラン・デポを291億$で買収",
+          "title_zh": "Sysco以$ 291亿收购Restaurant Depot"
+        },
+        {
+          "title": "Dickey's franchise registration expires in several states",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2htYTBFcktuRV9YaDBkeFE1dzNYMjU5bWJHVzRsM3cxQjEtM3VzZG1PLU1ua01RZkl0Mkl2M3BQSnNINlAxUXA1QjVia1V5TFRXUENNeEt2dHJ3T3d3MU1vZ1E2cWpGWnkxLU4tWWRpVnlxY2dpRlZfRHZxR3NtZEl2RlhhRnhXMmVoN3NEV0stX2FadUYzNU1zMl81S20tdEE?oc=5",
+          "desc": "",
+          "title_ko": "Dickey's 프랜차이즈 등록이 여러 주에서 만료됩니다",
+          "title_ja": "Dickeyのフランチャイズ登録はいくつかの州で期限切れになります",
+          "title_zh": "Dickey的特许经营注册在几个州过期"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "전세계 식탁 점령한 K푸드…'세계주방일주'가 담은 성공 전략",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BbnF5OGtuV3l0eXNEdi1VWU5vQng0SFJUN0F3MnVvdVlveHpLcnBhUFctakFxTVVrZmlUWmhrbEQ5WW15UEo1d0RuNUNaUmlhLWg4OURUbEhHUdIBVEFVX3lxTE51QUtMazYwZGQ2VU5XT0pmVHlIclI4dnp4R2lCNzRnaC1MMENDZlFZR2dob2NVUnh4c3RpSVhZSmtJQ2NxRXpFcnF0d2lMYkNlNEp3aQ?oc=5",
+          "desc": "",
+          "title_en": "K-Foods Occupying Tables Around the World… Success Strategy from 'World Kitchen Week'",
+          "title_ja": "世界中のテーブルを占めるK - Foods…「ワールドキッチンウィーク」のサクセス戦略",
+          "title_zh": "K-Foods占据世界各地的餐桌…… “世界厨房周”的成功策略"
+        },
+        {
           "title": "마곡에 모인 전 세계 바이어…\"K컬처로 뷰티·푸드 열풍\"",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OUzVKaEVCNEp2MWVPYy0tLXF1NXpmRS1TT0tvRE1UR0FoNndmX1p6RTNnYnY5VHAyLVBPR3d5OXpLanVMd0FCcVc1bGsyaFJVbTBlVmo5TUo3UdIBVEFVX3lxTFB1Y2hhMUIwWmNINjhrVXllMjdDc1hwSDJrWEtzWHQ1U2x3OXk2QUluU1o3U1NIV3VpLTdSbFJqelczYnRJa0Z4c0Q3eHVFVnpoekRJMw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "'There is no cure for office workers' … Seasonal food that must be eaten at the end of March [Health! Talk]",
           "title_ja": "「オフィスワーカーに治療法はありません」… 3月末に食べなければならない季節の食べ物【健康！トーク】",
           "title_zh": "“上班族无药可救” ……必须在3月底吃的季节性食物[健康！谈话]"
-        },
-        {
-          "title": "현대그린푸드, 소상공인시장진흥공단과 지역 맛집 메뉴 HMR 개발 지원 나선다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hNTBhLXZ6RFlucjU3QVBTRnlpa1VoOUZ4VkFlZ1JMbFRjS2VpOWtoMm1tenJkSGcyczZPQ29TemxORXpOQkZGQzdSWnNNdVA3Tnd1MFJ1QjNTQdIBVEFVX3lxTE1hS2xPWm45Z1FuV3lRTWFUcElKWW5pbGRUWmhaQ3JQTzM5RHlZWGNDZllHc0liV3FZTG90VXFGMzdhclkyMzNnb2IyNndSQXJpbHVEeA?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, Small Business Market Promotion Corporation and Local Restaurant Menu HMR Development Support",
-          "title_ja": "現代グリーンフード、中小企業市場振興法人、地元レストランメニューHMR開発支援",
-          "title_zh": "现代绿色食品、小企业市场推广公司和当地餐厅菜单HMR开发支持"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "\"배달 왔어요\" 음식 가져간 배달기사…알고보니 '도둑'이었다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PSjYxZWxSMVZBZjZOSy1XMFdPVmVrSDMzLWNGeGdHNmZfZmxRNEJVdzl5THZmSkViNUhYSUJiYjhSTDFwdGNYLXhOY1lzVkpUQWfSAVNBVV95cUxQSDhJdWx3ZE1jcUlxMFJPVzM4RnZuS0dLVndtbWgyblR6eGpabkpPbEp0TWpFZlg5WHJBN19pZTVRR01xVElqNlB4cVNBZjdHdTUzNA?oc=5",
+          "desc": "",
+          "title_en": "\"Delivery is here\" The delivery driver who took the food... It turned out to be a 'thief'",
+          "title_ja": "「配達が到着しました」料理を受け取った配達ドライバー...「泥棒」であることが判明",
+          "title_zh": "“派送来了”取餐的派送司机……原来是“小偷”"
+        },
         {
           "title": "발효 과학으로 본 K-푸드 [권대영의 한식 인문학]",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JMUpQX3MtMDNjNG56MTN3N053ZGgyVjFaMkpRNW9Qbl9TZko0ZEhuYmtMSG9TWkJ6dFZjUHRWejk3U0daRGN6ZWRlcFl3NElXQXg40gFTQVVfeXFMTkkxSlBfcy0wM2M0bnoxM3c3TndkaDJWMVoySlE1b1BuX1NmSjRkSG5ia0xIb1NaQnp0VmNQdFZ6OTdTR1pEY3plZGVwWXc0SVdBeDg?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Prison Service brakes promotion of ‘Shinsegae Food, E-Mart wholly-owned subsidiary’",
           "title_ja": "刑務所サービスが「Shinsegae Food, E - Mart 100 ％子会社」のプロモーションをブレーキ",
           "title_zh": "Prison Service遏制“Shinsegae Food, E-Mart全资子公司”的推广"
-        },
-        {
-          "title": "롯데웰푸드, 간편 소스 브랜드 신제품 ‘요리킥 만능양념’ 출시",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JNXJLU2hweTkzclhfVmxuTEY1WnVjNTBVRGxibWZUT1ZseUdmTFpmcG5kUk9BanJOOTU4Z0tmWW0zeVluTkg2Zk5nY3RGZHZEWnA00gFTQVVfeXFMTkk1cktTaHB5OTNyWF9WbG5MRjVadWM1MFVEbGJtZlRPVmx5R2ZMWmZwbmRST0Fqck45NThnS2ZZbTN5WW5OSDZmTmdjdEZkdkRacDQ?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Launches New Simple Sauce Brand ‘Cooking Kick All-Seasoning’",
-          "title_ja": "ロッテウェルフード、新シンプルソースブランド「Cooking Kick All - Seasoning」を発売",
-          "title_zh": "乐天Well Food推出全新简单酱料品牌“Cooking Kick All-Seasoning”"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "하나증권 “롯데웰푸드, 단기 실적 모멘텀 부재…해외 성장은 지속”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wX2pTT0pyNGFldGxvNVhkOXpMVHZjZGdUcktiSDRNYTNOVjQtNllSYTF5SW83NGY0OVVuN2MxVndJNkRkUjVWUzNxM0EzellaR0E?oc=5",
+          "desc": "",
+          "title_en": "Hana Securities “Lotte Well Food lacks momentum for short-term performance… Overseas growth continues”",
+          "title_ja": "ハナ証券「ロッテウェルフードは短期的な業績の勢いを欠いています…海外の成長は続いています」",
+          "title_zh": "韩亚证券“乐天健康食品缺乏短期业绩的动力……海外增长仍在继续”"
+        },
         {
           "title": "바프레시 푸드 그룹, 4Q 매출 540만 달러..전년比 94%↑",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAycENBNm9yT3M5SG5LdmdfckRWbTFMUTZmNE8yNzhPZDhyWk1uN3FaZkFNVUFHbmlOUnFtZHpSb1B0S3FBYmV2cWJSSzN4a3BrZ2c?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Flower Food abolishes CGO position, reorganizes organization, promotes operational efficiency",
           "title_ja": "フラワーフードは、CGOのポジションを廃止し、組織を再編成し、業務効率を向上させます",
           "title_zh": "花卉食品废除CGO岗位，重组组织，提升运营效率"
-        },
-        {
-          "title": "선진 \"자회사 하림푸드 주식 600억원에 추가취득…지분율 100%\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsMkpVOVFBRkhSOEYyVG8yWjFJRW1nNDI1aGFyWEFIZmZMdEpURWhkcW04bW5HbkZTZmNDWVQ3dWQtY3pZUmlBelhZY1ExV29uMXc?oc=5",
-          "desc": "",
-          "title_en": "Advanced \"Additional acquisition of subsidiary Harim Foods stock at KRW 60 billion... Equity ratio 100%\"",
-          "title_ja": "アドバンスド「子会社ハリム・フーズ株式を600億ウォンで追加取得…出資比率100%」",
-          "title_zh": "高级“额外收购子公司Harim Foods股票600亿韩元...股权比例100%”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "「Veggie Meal」X「Another House」特别优惠……最多可优惠53%"
         },
         {
-          "title": "성수동 리틀바잇모어, 신세계·현대百 팝업 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVmp6ajdiRF95RzFYeHNsTnFaR2lOUG13NkJtZ0V5SDlyY2E4eEMxNHhDdUR6Yy1takdvMTJMS0FocWFxVmg1NlB0X3dmQkVZNXpLTF9obw?oc=5",
+          "title": "하겐다즈, 콘래드 서울과 ‘무화과 바닐라 치즈 케이크’ 선봬",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56MVdXTjE1TFp4YXo3bUtCTnA4MkE1TVc1SzJKNHJvWmJ5dnowSkl5TVQzMjR1V1R1TlRnWWhvSWhYc2w5b0otQks4RHVTSW1velF1QlVZRQ?oc=5",
           "desc": "",
-          "title_en": "Seongsu-dong Little Byte More Opens Shinsegae and Hyundai Hundred Pop-Up",
-          "title_ja": "Seongsu - dong Little Byte Moreが新世界と現代の100ポップアップを開く",
-          "title_zh": "Seongsu-dong Little Byte More打开Shinsegae和Hyundai Hundred弹出窗口"
+          "title_en": "Hagendaz, Conrad Seoul and ‘Fig Vanilla Cheesecake’",
+          "title_ja": "ハーゲンダズ、コンラッドソウル、「イチジクバニラチーズケーキ」",
+          "title_zh": "Hagendaz、首尔康莱德酒店和「无花果香草芝士蛋糕」"
         },
         {
-          "title": "美 네슬레의 ‘코리안 BBQ’ 소스 …가정용 소스 공략",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycVJOQ293eS1SQUZJbXhvRlB5WGtIVWE2dUlLZXBBakhLZElHaGVPaTNwdDFEWmVlTzZ5N244TVh5NE80a3ZZdEo2VVNwTFRxc3hxY3UyVQ?oc=5",
+          "title": "보랏빛 ‘우베’ 음료, 투썸플레이스에서 만난다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cHJGb1dscWlOa3I3bGZEeFBCRDhJalZVUGNkZmd4blNTcW9jd24wbkxhSzhNR1FXaUYxRnhzemtZY2ZnWlhONXBrT2FyQWl5SlFFOUJ5WQ?oc=5",
           "desc": "",
-          "title_en": "Nestlé's ‘Korean BBQ’ Sauce… Targeting Household Sauces",
-          "title_ja": "ネスレの「韓国BBQ」ソース…家庭用ソースをターゲットに",
-          "title_zh": "雀巢的“韩式烧烤”酱汁…瞄准家用酱汁"
+          "title_en": "Borat ‘Ube’ drinks meet at Twosome Place",
+          "title_ja": "Twosome PlaceでBorat ‘Ube’ドリンクを堪能しよう",
+          "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
         }
       ]
     }
