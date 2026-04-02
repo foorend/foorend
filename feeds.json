@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T20:01:36Z",
+  "lastUpdated": "2026-04-02T22:53:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "This Robot Cat Waiter Delivers Your Food and Gets Fussy if You Pet it Too Long",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rODJuVFdHZUFzTkthRXpPT1h5WGJGRG1iQVJDSk5DTTVKTmRwckd6bzJCM2o1ZFNQQ0luTFlNeUh1X2duR0pyaUVyYjB3dEdQRm01bmhzVjlLMHVtX3o1RFo1NXJkdlc1T3BNeFNaTQ?oc=5",
-          "desc": "",
-          "title_ko": "이 로봇 고양이 웨이터는 음식을 배달하고 너무 오래 쓰다듬으면 소란스러워집니다",
-          "title_ja": "このロボットキャットウェイターはあなたの食べ物を届け、あなたがそれを長く撫でると大騒ぎになります",
-          "title_zh": "这款机器人猫服务员为您提供食物，如果您宠物时间过长，它会让您大惊小怪"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "‘미슐랭 2스타’ 안성재, 배달 음식도 심사? “재주문 기준은…” - 스타투데이",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRZ2c2UE9kR2R4cVZVM2NBQXRTcWFKZm42UXdmMnJUMTh5cUJhQWU3SVZGbnIxN3MyalhldXlzTnA3dnZ5cmQzVW1lbnI5XzFQQjBucW5Dd3o?oc=5",
+          "desc": "",
+          "title_en": "‘Michelin 2-Star’ Ahn Seong-jae, is the food delivery screened? “The criteria for reordering is…” - Star Today",
+          "title_ja": "「ミシュラン2つ星」のAhn Seong - jaeさん、フードデリバリーは審査されていますか？「再注文の基準は…」- Star Today",
+          "title_zh": "“米其林二星”安成杰，送餐服务是否经过筛选？ “重新订餐的标准是……” - Star Today"
+        },
+        {
           "title": "미들바이, 푸드프로세싱 사업부 CFO에 Amy Campbell 임명",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PdWdMTzd3TGthYS1JWWlvMW9ycTlhRDI5VWVzSEprY1JxT1J6ajR2dmNPR2FGNjQybjdWclRkTXVfU3pYYldTM01DUkZuWC0xbmc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Lifeway Foods forecasts 32-35% surge in first-quarter sales.. $60.8 million - $62.3 million",
           "title_ja": "Lifeway Foodsは、第1四半期の売上高が32〜35 ％急増すると予測しています。6,080万〜6,230万ドル",
           "title_zh": "Lifeway Foods预测第一季度销售额将激增32-35%。6080万美元-6230万美元"
-        },
-        {
-          "title": "칼마인 푸드, 보험업계 베테랑 더들리 우울리 신임 이사 선임",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXZHlBSDhzUjlRVmxlbmFuYVZJMEtBMW4xanlJWGtDeTF1T1RMN1gzQnF1TjV1bUJQTlVab0NrbmJlUjdNdEhuMjRsS29GeDlDS0E?oc=5",
-          "desc": "",
-          "title_en": "Carmine Foods Appoints New Director of Insurance Industry Veteran Dudley Chulley",
-          "title_ja": "Carmine Foods、保険業界のベテランであるDudley Chulleyの新しいディレクターを任命",
-          "title_zh": "Carmine Foods任命保险业资深董事Dudley Chulley"
         }
       ]
     },
@@ -246,6 +246,11 @@
   },
   "korean_articles": [
     {
+      "title": "🍳26년 4월 한국 푸드 트렌드🥗💜",
+      "link": "https://foodtrend.stibee.com/p/202",
+      "desc": ""
+    },
+    {
       "title": "🍽️푸렌드의 3년치 노하우, 전부 공개합니다📂✨",
       "link": "https://foodtrend.stibee.com/p/201",
       "desc": ""
@@ -268,11 +273,6 @@
     {
       "title": "💪26년 2월 글로벌 푸드 트렌드🥗💵",
       "link": "https://foodtrend.stibee.com/p/197",
-      "desc": ""
-    },
-    {
-      "title": "✈️두바이 상륙한 두쫀쿠, 아프리카까지 간 K푸드🍫🍪",
-      "link": "https://foodtrend.stibee.com/p/196",
       "desc": ""
     }
   ]
