@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T23:04:33Z",
+  "lastUpdated": "2026-04-02T20:01:36Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Sysco以$ 291亿收购Restaurant Depot"
         },
         {
-          "title": "Starbucks wants to get rid of the long lines at its airport shops",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF8zaVNJT1hFWXhyYzA1TWZuS0Q3LUxUcWd1bmcwd0QxM0JnaVVMNTNyQ2R4VlYtbURNSGUxYzk0T2l6T3hISGpTQjhsUmZOcUdMOEJBMTQ3TjJqbmtoa3hhdGJ0NXZ0S0x2ZUdYSm13VVlkNkNaMnlrdGI1NGk0clZKam85UGIwTHdoaUFJalJnSy1sOGd1MElNWUhqRUF6?oc=5",
+          "title": "Krispy Kreme sells most of its stake in U.S. joint venture for $90M",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGo1SXY0dFFjZ0FIRC0yMjVHWHJuZHlaUzFLVkVUZ0ZWNGhNaG9rQjZFZ19MbDVKSmg2Mm9IdjNpMWFkdGJPNnpwZmRwRzc5dkJOb1hRNTJMbWkzWDl4dnc2SmVzTG9tb25EMFN6VVBkbGZvOWZNS3puVkRqYUZTdUhKRG1wMDkwTVpkY2FQZlBFbmt6c2tzdmdyX2trMnVDcjA4?oc=5",
           "desc": "",
-          "title_ko": "스타벅스는 공항 상점에서 긴 줄을 없애고 싶어합니다.",
-          "title_ja": "スターバックスは、空港の店舗で長い行列をなくしたいと考えています",
-          "title_zh": "星巴克希望摆脱机场商店的排长队"
+          "title_ko": "크리스피 크림 (Krispy Kreme) 은 미국 합작 투자 지분 대부분을 $ 90M에 매각합니다.",
+          "title_ja": "クリスピー・クリーム、米国ジョイントベンチャーの株式の大部分を$ 9,000万で売却",
+          "title_zh": "Krispy Kreme以9000万美元的价格出售其在美国合资企业的大部分股份"
         }
       ]
     },
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "There's a major inflation risk lurking for the economy as the Iran war drags on, and it's not oil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmZIekZPZklQZ2JLLWljRmJiOUNvbmFwWjJ0clJYUXhnTVdmTG10Y0hDQ042SkpXaEZlajZtTm55Vzljei1Hb1h0TkhNV3JVVlAtNlRqUTBFUlhaQWtROElhQlAwTGJqbXZiQUxSYmhKQ2E2OUNDdWdYbUgwSktFSlhrdFlzdlgxSjBFZzRXcFJuYWJTM1Jma2xGNVRINXlac3R2Z3BUdWVzLU16?oc=5",
-          "desc": "",
-          "title_ko": "이란 전쟁이 지속됨에 따라 경제에 큰 인플레이션 위험이 숨어 있으며 이는 석유가 아닙니다.",
-          "title_ja": "イラン戦争が長引くにつれて経済には大きなインフレリスクが潜んでおり、それは石油ではありません",
-          "title_zh": "随着伊朗战争的拖延，经济潜伏着巨大的通货膨胀风险，这不是石油"
-        },
-        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
+        },
+        {
+          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
+          "desc": "",
+          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
+          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
+          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "K-Foods占据世界各地的餐桌…… “世界厨房周”的成功策略"
         },
         {
-          "title": "마곡에 모인 전 세계 바이어…\"K컬처로 뷰티·푸드 열풍\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OUzVKaEVCNEp2MWVPYy0tLXF1NXpmRS1TT0tvRE1UR0FoNndmX1p6RTNnYnY5VHAyLVBPR3d5OXpLanVMd0FCcVc1bGsyaFJVbTBlVmo5TUo3UdIBVEFVX3lxTFB1Y2hhMUIwWmNINjhrVXllMjdDc1hwSDJrWEtzWHQ1U2x3OXk2QUluU1o3U1NIV3VpLTdSbFJqelczYnRJa0Z4c0Q3eHVFVnpoekRJMw?oc=5",
-          "desc": "",
-          "title_en": "Buyers from all over the world gathered in Magok... \"Beauty and Food Craze with K Culture\"",
-          "title_ja": "世界中のバイヤーがMagokに集まりました…「Kカルチャーと美と食の熱狂」",
-          "title_zh": "来自世界各地的买家聚集在Magok…… “K文化的美食热潮”"
-        },
-        {
           "title": "'직장인들 보약이 따로 없네'…3월말 꼭 먹어야 할 제철음식 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wUFRRbXF4aTlmWmliSGpQXzZBRkJpLXI2bUV6UVJzYkRwVEdjaXNIenoyenJoYlk2eUlicDlBN0lFSWY1VHJac3BSVldxRHRKb1RsS0l2N19Od9IBVEFVX3lxTE9WVWd6WEEzRThFNU01dk4yck1SQzR0X1lDc0dLVTVVQnB3amRwWEdFbU1oaWFTaXVobDhMZG56YWFEcjN3UXdnR19ZMjVBQXg0STlyMg?oc=5",
           "desc": "",
           "title_en": "'There is no cure for office workers' … Seasonal food that must be eaten at the end of March [Health! Talk]",
           "title_ja": "「オフィスワーカーに治療法はありません」… 3月末に食べなければならない季節の食べ物【健康！トーク】",
           "title_zh": "“上班族无药可救” ……必须在3月底吃的季节性食物[健康！谈话]"
+        },
+        {
+          "title": "마곡에 모인 전 세계 바이어…\"K컬처로 뷰티·푸드 열풍\"",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OUzVKaEVCNEp2MWVPYy0tLXF1NXpmRS1TT0tvRE1UR0FoNndmX1p6RTNnYnY5VHAyLVBPR3d5OXpLanVMd0FCcVc1bGsyaFJVbTBlVmo5TUo3UdIBVEFVX3lxTFB1Y2hhMUIwWmNINjhrVXllMjdDc1hwSDJrWEtzWHQ1U2x3OXk2QUluU1o3U1NIV3VpLTdSbFJqelczYnRJa0Z4c0Q3eHVFVnpoekRJMw?oc=5",
+          "desc": "",
+          "title_en": "Buyers from all over the world gathered in Magok... \"Beauty and Food Craze with K Culture\"",
+          "title_ja": "世界中のバイヤーがMagokに集まりました…「Kカルチャーと美と食の熱狂」",
+          "title_zh": "来自世界各地的买家聚集在Magok…… “K文化的美食热潮”"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "\"배달 왔어요\" 음식 가져간 배달기사…알고보니 '도둑'이었다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PSjYxZWxSMVZBZjZOSy1XMFdPVmVrSDMzLWNGeGdHNmZfZmxRNEJVdzl5THZmSkViNUhYSUJiYjhSTDFwdGNYLXhOY1lzVkpUQWfSAVNBVV95cUxQSDhJdWx3ZE1jcUlxMFJPVzM4RnZuS0dLVndtbWgyblR6eGpabkpPbEp0TWpFZlg5WHJBN19pZTVRR01xVElqNlB4cVNBZjdHdTUzNA?oc=5",
+          "title": "영산대, 전국 사찰음식 대회 대상·금상·동상 전원 석권",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yUU0zejVCaHpEb0E1RHdqdS1qUXBBRnZkOENWMHhhbHFzTU4wZEd0MEE4bFRUT1FOYlpuNEtTbTZrbHNDLVh6M19LWFI1RDRSQ1HSAVNBVV95cUxONUZHMlhQdW5jcUptSHZ1ak9KVnRoREJqS1NQVzN0bF8yR2g1TGhLdW5ucm0zOWpQREFSUDJjajF4VjZtVVJ4RDRyVjZubHVlRE1RZw?oc=5",
           "desc": "",
-          "title_en": "\"Delivery is here\" The delivery driver who took the food... It turned out to be a 'thief'",
-          "title_ja": "「配達が到着しました」料理を受け取った配達ドライバー...「泥棒」であることが判明",
-          "title_zh": "“派送来了”取餐的派送司机……原来是“小偷”"
+          "title_en": "Yeongsan University, National Temple Food Competition Grand Prize, Gold Statue, Bronze Statue All Seokwon",
+          "title_ja": "龍山大学国立寺食コンクール大賞金像銅像全石原",
+          "title_zh": "永山大学，全国寺庙美食比赛大奖，金像，铜像全石原"
         },
         {
-          "title": "발효 과학으로 본 K-푸드 [권대영의 한식 인문학]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JMUpQX3MtMDNjNG56MTN3N053ZGgyVjFaMkpRNW9Qbl9TZko0ZEhuYmtMSG9TWkJ6dFZjUHRWejk3U0daRGN6ZWRlcFl3NElXQXg40gFTQVVfeXFMTkkxSlBfcy0wM2M0bnoxM3c3TndkaDJWMVoySlE1b1BuX1NmSjRkSG5ia0xIb1NaQnp0VmNQdFZ6OTdTR1pEY3plZGVwWXc0SVdBeDg?oc=5",
+          "title": "CJ씨푸드, 3.01% 오르며 체결강도 강세로 반전(111%)",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxZGlPbUpqQVh3Y1hhSHUwVXV4c192aG5SQzVDMGRvdWxFelNlVldrY0xySWc0T182S2hvdzJhYUs1RFlKVXdubVU0VlA1b2JXVlE?oc=5",
           "desc": "",
-          "title_en": "K-Food through Fermentation Science [Kwon Dae-young's Korean Food Humanities]",
-          "title_ja": "発酵科学を通じたK - Food [クォン・デヨンの韓国料理人文科学]",
-          "title_zh": "通过发酵科学了解韩国食品[Kwon Dae-young's Korean Food Humanities]"
+          "title_en": "CJ Seafood reverses strong fastening strength with a rise of 3.01% (111%)",
+          "title_ja": "CJシーフードは、3.01 ％ （ 111 ％ ）の上昇で強固な締結強度を逆転させます",
+          "title_zh": "CJ Seafood扭转了强大的紧固强度，增长了3.01% （ 111% ）"
         },
         {
-          "title": "금감원, ‘신세계푸드, 이마트 완전자회사’ 추진 제동",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82VTc3aXFDVEZFNUJzeHEwaDFwS2dzekZvQ3VOb0VjWEJydmQ5QnJmemYyVGpRQUl3a1NvVXoxRG51RWxkcmw1N1hMakdNdUh5NGfSAVNBVV95cUxORlR4dE9mSF9iYVYwNkxiWTJDQXM3WXdlT2d2Q2dtZTNEWDl4bE9JSy1VMnRjZnZyeV9GM1Q5dFZGclhDUGJUSm5lTEk1Nm5jNFYwOA?oc=5",
+          "title": "“햄버거등 비만야기” 주범 美 패스트푸드社 피소위기",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nLUNlbnNJWUs3UC1vX2hMdnlfTUMwSUk3V1owTHBnRE93bE1Zc1kwYkVnSEQ0V1RKRnJ2TEkzS3g5U3VmRzRBZDF3X0RhWGQxQmN3?oc=5",
           "desc": "",
-          "title_en": "Prison Service brakes promotion of ‘Shinsegae Food, E-Mart wholly-owned subsidiary’",
-          "title_ja": "刑務所サービスが「Shinsegae Food, E - Mart 100 ％子会社」のプロモーションをブレーキ",
-          "title_zh": "Prison Service遏制“Shinsegae Food, E-Mart全资子公司”的推广"
+          "title_en": "The main culprit for “Obese yagi such as hamburgers” is Piso Crisis by Beauty Fast Food Co.",
+          "title_ja": "「ハンバーガーなどの肥満八木」の主な原因は、Beauty Fast Food Co.のPiso Crisisです。",
+          "title_zh": "“汉堡包等肥胖八木”的主要罪魁祸首是Beauty Fast Food Co.的Piso Crisis。"
         }
       ]
     },
@@ -187,14 +187,6 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
-        {
-          "title": "하나증권 “롯데웰푸드, 단기 실적 모멘텀 부재…해외 성장은 지속”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wX2pTT0pyNGFldGxvNVhkOXpMVHZjZGdUcktiSDRNYTNOVjQtNllSYTF5SW83NGY0OVVuN2MxVndJNkRkUjVWUzNxM0EzellaR0E?oc=5",
-          "desc": "",
-          "title_en": "Hana Securities “Lotte Well Food lacks momentum for short-term performance… Overseas growth continues”",
-          "title_ja": "ハナ証券「ロッテウェルフードは短期的な業績の勢いを欠いています…海外の成長は続いています」",
-          "title_zh": "韩亚证券“乐天健康食品缺乏短期业绩的动力……海外增长仍在继续”"
-        },
         {
           "title": "미들바이, 푸드프로세싱 사업부 CFO에 Amy Campbell 임명",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PdWdMTzd3TGthYS1JWWlvMW9ycTlhRDI5VWVzSEprY1JxT1J6ajR2dmNPR2FGNjQybjdWclRkTXVfU3pYYldTM01DUkZuWC0xbmc?oc=5",
@@ -210,6 +202,14 @@
           "title_en": "Lifeway Foods forecasts 32-35% surge in first-quarter sales.. $60.8 million - $62.3 million",
           "title_ja": "Lifeway Foodsは、第1四半期の売上高が32〜35 ％急増すると予測しています。6,080万〜6,230万ドル",
           "title_zh": "Lifeway Foods预测第一季度销售额将激增32-35%。6080万美元-6230万美元"
+        },
+        {
+          "title": "칼마인 푸드, 보험업계 베테랑 더들리 우울리 신임 이사 선임",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXZHlBSDhzUjlRVmxlbmFuYVZJMEtBMW4xanlJWGtDeTF1T1RMN1gzQnF1TjV1bUJQTlVab0NrbmJlUjdNdEhuMjRsS29GeDlDS0E?oc=5",
+          "desc": "",
+          "title_en": "Carmine Foods Appoints New Director of Insurance Industry Veteran Dudley Chulley",
+          "title_ja": "Carmine Foods、保険業界のベテランであるDudley Chulleyの新しいディレクターを任命",
+          "title_zh": "Carmine Foods任命保险业资深董事Dudley Chulley"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
         },
         {
-          "title": "성수동 리틀바잇모어, 신세계·현대百 팝업 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVmp6ajdiRF95RzFYeHNsTnFaR2lOUG13NkJtZ0V5SDlyY2E4eEMxNHhDdUR6Yy1takdvMTJMS0FocWFxVmg1NlB0X3dmQkVZNXpLTF9obw?oc=5",
+          "title": "美 네슬레의 ‘코리안 BBQ’ 소스 …가정용 소스 공략",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycVJOQ293eS1SQUZJbXhvRlB5WGtIVWE2dUlLZXBBakhLZElHaGVPaTNwdDFEWmVlTzZ5N244TVh5NE80a3ZZdEo2VVNwTFRxc3hxY3UyVQ?oc=5",
           "desc": "",
-          "title_en": "Seongsu-dong Little Byte More Opens Shinsegae and Hyundai Hundred Pop-Up",
-          "title_ja": "Seongsu - dong Little Byte Moreが新世界と現代の100ポップアップを開く",
-          "title_zh": "Seongsu-dong Little Byte More打开Shinsegae和Hyundai Hundred弹出窗口"
+          "title_en": "Nestlé's ‘Korean BBQ’ Sauce… Targeting Household Sauces",
+          "title_ja": "ネスレの「韓国BBQ」ソース…家庭用ソースをターゲットに",
+          "title_zh": "雀巢的“韩式烧烤”酱汁…瞄准家用酱汁"
         }
       ]
     }
