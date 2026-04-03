@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T11:25:42Z",
+  "lastUpdated": "2026-04-03T17:01:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Sysco以$ 291亿收购Restaurant Depot"
         },
         {
-          "title": "Krispy Kreme sells most of its stake in U.S. joint venture for $90M",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGo1SXY0dFFjZ0FIRC0yMjVHWHJuZHlaUzFLVkVUZ0ZWNGhNaG9rQjZFZ19MbDVKSmg2Mm9IdjNpMWFkdGJPNnpwZmRwRzc5dkJOb1hRNTJMbWkzWDl4dnc2SmVzTG9tb25EMFN6VVBkbGZvOWZNS3puVkRqYUZTdUhKRG1wMDkwTVpkY2FQZlBFbmt6c2tzdmdyX2trMnVDcjA4?oc=5",
+          "title": "McDonald's Under $3 Menu will make its debut later this month",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTN3dmFjLWVUd2EyeTVrSTV4bmZxN0xvb1d0V2xNVjhwOG9BbkhmOWlKcS1uT3pfeTlKNWpkczZMZmZQaTFheHZ0VmJncS1CRXQzbFR1SUZuT1FQdzF4V3otdVVIc0dDRTFic3lWamlMajFuNEdxVWdZVXlzcTZUTDhTendJYlFtV2ZrUnpQaWF1LU13cG9CZ2c1S0pyN1ltVk53?oc=5",
           "desc": "",
-          "title_ko": "크리스피 크림 (Krispy Kreme) 은 미국 합작 투자 지분 대부분을 $ 90M에 매각합니다.",
-          "title_ja": "クリスピー・クリーム、米国ジョイントベンチャーの株式の大部分を$ 9,000万で売却",
-          "title_zh": "Krispy Kreme以9000万美元的价格出售其在美国合资企业的大部分股份"
+          "title_ko": "맥도날드의 3달러 이하 메뉴 ($ 3 Menu) 가 이달 말 첫 선을 보일 예정입니다.",
+          "title_ja": "$ 3未満のマクドナルドメニューは今月後半にデビューします",
+          "title_zh": "McDonald's Under $ 3 Menu将于本月晚些时候推出"
         }
       ]
     },
@@ -64,32 +64,7 @@
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": [
-        {
-          "title": "Food",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
-          "desc": "",
-          "title_ko": "식료품비",
-          "title_ja": "食料",
-          "title_zh": "食物"
-        },
-        {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        }
-      ]
+      "items": []
     },
     "eater": {
       "label": "Eater",
@@ -144,12 +119,12 @@
           "title_zh": "“上班族无药可救” ……必须在3月底吃的季节性食物[健康！谈话]"
         },
         {
-          "title": "전세계 식탁 점령한 K푸드…'세계주방일주'가 담은 성공 전략",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BbnF5OGtuV3l0eXNEdi1VWU5vQng0SFJUN0F3MnVvdVlveHpLcnBhUFctakFxTVVrZmlUWmhrbEQ5WW15UEo1d0RuNUNaUmlhLWg4OURUbEhHUdIBVEFVX3lxTE51QUtMazYwZGQ2VU5XT0pmVHlIclI4dnp4R2lCNzRnaC1MMENDZlFZR2dob2NVUnh4c3RpSVhZSmtJQ2NxRXpFcnF0d2lMYkNlNEp3aQ?oc=5",
+          "title": "\"평일에 반차 내고 가도 웨이팅 실패\"…'쭈쫀쿠'가 뭐길래 [현장+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb1AxSUVjaEk0eHB0MEVuTWVzVElyMlZEN0NiUHpnOHJkUFJBY3otSzVsQUV6MG5lZzZRMlpPSUhhZUdzOHZ6azhOcjhjVHdNNWN2UUVNeHIwZ9IBVEFVX3lxTFBSNXBwaU5xZUYtOS1IWmloTlJ5MFg5UlhHal95SW15YU5hal9ublQtTVNtSE43ekFrZkp4SDc2RE5oemJsdjM4UUFfU0ZuRGI1eU5aOA?oc=5",
           "desc": "",
-          "title_en": "K-Foods Occupying Tables Around the World… Success Strategy from 'World Kitchen Week'",
-          "title_ja": "世界中のテーブルを占めるK - Foods…「ワールドキッチンウィーク」のサクセス戦略",
-          "title_zh": "K-Foods占据世界各地的餐桌…… “世界厨房周”的成功策略"
+          "title_en": "\"Failed to go even if you pay half a day on weekdays\"... What is' Jatsunku '? [Site +]",
+          "title_ja": "「平日半日払っても行けなかった」・・・「じゃつんく」とは？【サイト＋】",
+          "title_zh": "「即使您在工作日付了半天钱也去不了」……什么是「Jatsunku」？ [Site +]"
         }
       ]
     },
@@ -158,12 +133,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "영산대, 전국 사찰음식 대회 대상·금상·동상 전원 석권",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yUU0zejVCaHpEb0E1RHdqdS1qUXBBRnZkOENWMHhhbHFzTU4wZEd0MEE4bFRUT1FOYlpuNEtTbTZrbHNDLVh6M19LWFI1RDRSQ1HSAVNBVV95cUxONUZHMlhQdW5jcUptSHZ1ak9KVnRoREJqS1NQVzN0bF8yR2g1TGhLdW5ucm0zOWpQREFSUDJjajF4VjZtVVJ4RDRyVjZubHVlRE1RZw?oc=5",
+          "title": "현대그린푸드, 매도잔량 348% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HczFWMlVvOTU2WGswdFE1TnlPQ0NaYjlxVkhoc240U001RmtqZjhQOGx1bXhaYnYyZC1wODc0eEZIZXdWcnFlVTdXT0tBMHZ5cWZ3?oc=5",
           "desc": "",
-          "title_en": "Yeongsan University, National Temple Food Competition Grand Prize, Gold Statue, Bronze Statue All Seokwon",
-          "title_ja": "龍山大学国立寺食コンクール大賞金像銅像全石原",
-          "title_zh": "永山大学，全国寺庙美食比赛大奖，金像，铜像全石原"
+          "title_en": "Hyundai Green Food sells 348% more",
+          "title_ja": "Hyundai Green Foodの販売台数が348%増加",
+          "title_zh": "现代绿色食品销售额增长348%"
+        },
+        {
+          "title": "마지막 방송 ‘백종원의 푸드트럭’ ‘광주 그랜드오픈’, 첫 장사는 성공했을까?",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoWE5MWjNJR0czRE9LWmdTZjByc1lsVFE4QXpmUFNOakcwVllyX0FtSDZsZzdwNy1SZlRMdmJWdm5jY3FYRld2M3ZwY1VWNkVGcUHSAVNBVV95cUxNM1FZQ0xQOEVvY1NoVkFpX0M3VWxJLVZsSkhYWlEtaXBPRDAyVUxoU0EtbVpQdl9tZy1ISXVDd213dW1nYmhUOVRfR0NyUS1CVGNUWQ?oc=5",
+          "desc": "",
+          "title_en": "Did the first business of the last broadcast ‘Baek Jong-won's food truck’ ’Gwangju Grand Open' succeed?",
+          "title_ja": "最後の放送「ペク・ジョンウォンのフードトラック」「光州グランドオープン」の最初のビジネスは成功しましたか？",
+          "title_zh": "上一次播出的《白钟远的美食车》《光州公开赛》的第一笔生意成功了吗？"
         },
         {
           "title": "해마로푸드서비스, 매도잔량 343% 급증",
@@ -172,14 +155,6 @@
           "title_en": "Hippopotamus Food Service Selling Remainder Surges 343%",
           "title_ja": "カバのフードサービスの販売残高が343%急増",
           "title_zh": "河马餐饮服务销售剩余激增343%"
-        },
-        {
-          "title": "“햄버거등 비만야기” 주범 美 패스트푸드社 피소위기",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nLUNlbnNJWUs3UC1vX2hMdnlfTUMwSUk3V1owTHBnRE93bE1Zc1kwYkVnSEQ0V1RKRnJ2TEkzS3g5U3VmRzRBZDF3X0RhWGQxQmN3?oc=5",
-          "desc": "",
-          "title_en": "The main culprit for “Obese yagi such as hamburgers” is Piso Crisis by Beauty Fast Food Co.",
-          "title_ja": "「ハンバーガーなどの肥満八木」の主な原因は、Beauty Fast Food Co.のPiso Crisisです。",
-          "title_zh": "“汉堡包等肥胖八木”的主要罪魁祸首是Beauty Fast Food Co.的Piso Crisis。"
         }
       ]
     },
@@ -204,12 +179,12 @@
           "title_zh": "Food Bank在农历新年期间推出爱心食品存款运动"
         },
         {
-          "title": "라이프웨이 푸드, 1분기 매출 32~35% 급증 예상..6080만~6230만 달러",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52VUhXV0VmcFlGRVQxbFF5eWtiQ09ScC1UU083Nk1zeVNaQlVVZE5MRmlZVk5ndjU0elNMdGNYUWtkMnRvcDJhd0I5VWZyTV8tNGc?oc=5",
+          "title": "제철음식부터 궁중요리까지 집에서 즐기는 국물 간편식",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVSF8tTzFHemE2Vk56TFJyMDRpbFJLNXRoQ0t6aDNxYmVRMWFnd1V3ejJNd1NISkRJRDVoMmF2V3UwTUJEQU1kcXAtd0ctTWczZV9GbQ?oc=5",
           "desc": "",
-          "title_en": "Lifeway Foods forecasts 32-35% surge in first-quarter sales.. $60.8 million - $62.3 million",
-          "title_ja": "Lifeway Foodsは、第1四半期の売上高が32〜35 ％急増すると予測しています。6,080万〜6,230万ドル",
-          "title_zh": "Lifeway Foods预测第一季度销售额将激增32-35%。6080万美元-6230万美元"
+          "title_en": "Soup at home from seasonal to royal cuisine",
+          "title_ja": "季節の料理から王室の料理まで、自宅でスープをつくろう",
+          "title_zh": "从时令美食到皇家美食，在家品尝汤品"
         }
       ]
     },
