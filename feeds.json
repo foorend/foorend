@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T17:01:52Z",
+  "lastUpdated": "2026-04-03T22:02:40Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -64,7 +64,32 @@
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": []
+      "items": [
+        {
+          "title": "Food",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
+          "desc": "",
+          "title_ko": "식료품비",
+          "title_ja": "Food",
+          "title_zh": "食物"
+        },
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
+          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
+        }
+      ]
     },
     "eater": {
       "label": "Eater",
@@ -133,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "S-OIL, 청년 푸드트럭 유류비 1억 지원",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yNGZ0eVZBbkFzZ05NdmZhR1Z4UHExbEozeHhqLUhnem5oNG9lUThNd1ZQS3ZWLVJjbXd3WTRsTF9aNXpFbVFtRVk1YWhuYzZ1OEHSAVNBVV95cUxNSGxIOFk3SEFJX1RJVjZQa1AzY1paWlVGQ3NrTVdLRERkT0VtakprY2xiNzBRcHk2QTlEMUtnWUoxT2x4bGgzcE82YWg4UFpFOE9qOA?oc=5",
+          "desc": "",
+          "title_en": "S-OIL supports fuel costs for youth food trucks by 100 million",
+          "title_ja": "S - OILは、若者のフードトラックの燃料費を1億ドル支えています",
+          "title_zh": "S-OIL为青年食品卡车的燃料成本提供了1亿欧元的支持"
+        },
+        {
           "title": "현대그린푸드, 매도잔량 348% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HczFWMlVvOTU2WGswdFE1TnlPQ0NaYjlxVkhoc240U001RmtqZjhQOGx1bXhaYnYyZC1wODc0eEZIZXdWcnFlVTdXT0tBMHZ5cWZ3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iQjQ4VmRNY211dGIyeGZFM2tiM3Q5d0FrSmp2VzFiaHpzZjM0dHR5b2VaNldBeGE1YkZsUTJLZHpGQzNLRHJoSHlibFo4RjdXRGc?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Food sells 348% more",
           "title_ja": "Hyundai Green Foodの販売台数が348%増加",
           "title_zh": "现代绿色食品销售额增长348%"
-        },
-        {
-          "title": "마지막 방송 ‘백종원의 푸드트럭’ ‘광주 그랜드오픈’, 첫 장사는 성공했을까?",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoWE5MWjNJR0czRE9LWmdTZjByc1lsVFE4QXpmUFNOakcwVllyX0FtSDZsZzdwNy1SZlRMdmJWdm5jY3FYRld2M3ZwY1VWNkVGcUHSAVNBVV95cUxNM1FZQ0xQOEVvY1NoVkFpX0M3VWxJLVZsSkhYWlEtaXBPRDAyVUxoU0EtbVpQdl9tZy1ISXVDd213dW1nYmhUOVRfR0NyUS1CVGNUWQ?oc=5",
-          "desc": "",
-          "title_en": "Did the first business of the last broadcast ‘Baek Jong-won's food truck’ ’Gwangju Grand Open' succeed?",
-          "title_ja": "最後の放送「ペク・ジョンウォンのフードトラック」「光州グランドオープン」の最初のビジネスは成功しましたか？",
-          "title_zh": "上一次播出的《白钟远的美食车》《光州公开赛》的第一笔生意成功了吗？"
         },
         {
           "title": "해마로푸드서비스, 매도잔량 343% 급증",
