@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T22:53:23Z",
+  "lastUpdated": "2026-04-03T11:25:42Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,6 +66,14 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
+          "title": "Food",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
+          "desc": "",
+          "title_ko": "식료품비",
+          "title_ja": "食料",
+          "title_zh": "食物"
+        },
+        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -80,14 +88,6 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
-          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
-          "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "전세계 식탁 점령한 K푸드…'세계주방일주'가 담은 성공 전략",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BbnF5OGtuV3l0eXNEdi1VWU5vQng0SFJUN0F3MnVvdVlveHpLcnBhUFctakFxTVVrZmlUWmhrbEQ5WW15UEo1d0RuNUNaUmlhLWg4OURUbEhHUdIBVEFVX3lxTE51QUtMazYwZGQ2VU5XT0pmVHlIclI4dnp4R2lCNzRnaC1MMENDZlFZR2dob2NVUnh4c3RpSVhZSmtJQ2NxRXpFcnF0d2lMYkNlNEp3aQ?oc=5",
+          "title": "\"알고보니 설탕 덩어리\"…의사가 경고한 음식 3가지 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwRTI5YllDN1dlaGlQcTJTWWNMRHhBZEVrREx5aDBnVE5SaTFaV0dMTnd4Tm04cDdqZXFXSmdLNjFYY2Naek5RWlFadmpXWHZ4UVBId0luR0tZQdIBVEFVX3lxTE9UVkZjYTdDc0Z1V0k5QzRRT2Z3dlhITDJPdUZvYVdfWFQ3dXV0YkJJZXdpcVRVS2w2N0tlbGozZ2ktNXljS2RILTlhU3RPN056LWhrTg?oc=5",
           "desc": "",
-          "title_en": "K-Foods Occupying Tables Around the World… Success Strategy from 'World Kitchen Week'",
-          "title_ja": "世界中のテーブルを占めるK - Foods…「ワールドキッチンウィーク」のサクセス戦略",
-          "title_zh": "K-Foods占据世界各地的餐桌…… “世界厨房周”的成功策略"
+          "title_en": "“Turns out it's a lump of sugar” … 3 foods the doctor warned me about [Health! Talk]",
+          "title_ja": "「それは砂糖の塊であることが判明しました」…医者が私に警告した3つの食べ物[健康！トーク]",
+          "title_zh": "“原来这是一块糖” ……医生警告我的关于[健康！谈话]的3种食物"
         },
         {
           "title": "'직장인들 보약이 따로 없네'…3월말 꼭 먹어야 할 제철음식 [건강!톡]",
@@ -144,12 +144,12 @@
           "title_zh": "“上班族无药可救” ……必须在3月底吃的季节性食物[健康！谈话]"
         },
         {
-          "title": "마곡에 모인 전 세계 바이어…\"K컬처로 뷰티·푸드 열풍\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OUzVKaEVCNEp2MWVPYy0tLXF1NXpmRS1TT0tvRE1UR0FoNndmX1p6RTNnYnY5VHAyLVBPR3d5OXpLanVMd0FCcVc1bGsyaFJVbTBlVmo5TUo3UdIBVEFVX3lxTFB1Y2hhMUIwWmNINjhrVXllMjdDc1hwSDJrWEtzWHQ1U2x3OXk2QUluU1o3U1NIV3VpLTdSbFJqelczYnRJa0Z4c0Q3eHVFVnpoekRJMw?oc=5",
+          "title": "전세계 식탁 점령한 K푸드…'세계주방일주'가 담은 성공 전략",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BbnF5OGtuV3l0eXNEdi1VWU5vQng0SFJUN0F3MnVvdVlveHpLcnBhUFctakFxTVVrZmlUWmhrbEQ5WW15UEo1d0RuNUNaUmlhLWg4OURUbEhHUdIBVEFVX3lxTE51QUtMazYwZGQ2VU5XT0pmVHlIclI4dnp4R2lCNzRnaC1MMENDZlFZR2dob2NVUnh4c3RpSVhZSmtJQ2NxRXpFcnF0d2lMYkNlNEp3aQ?oc=5",
           "desc": "",
-          "title_en": "Buyers from all over the world gathered in Magok... \"Beauty and Food Craze with K Culture\"",
-          "title_ja": "世界中のバイヤーがMagokに集まりました…「Kカルチャーと美と食の熱狂」",
-          "title_zh": "来自世界各地的买家聚集在Magok…… “K文化的美食热潮”"
+          "title_en": "K-Foods Occupying Tables Around the World… Success Strategy from 'World Kitchen Week'",
+          "title_ja": "世界中のテーブルを占めるK - Foods…「ワールドキッチンウィーク」のサクセス戦略",
+          "title_zh": "K-Foods占据世界各地的餐桌…… “世界厨房周”的成功策略"
         }
       ]
     },
@@ -166,12 +166,12 @@
           "title_zh": "永山大学，全国寺庙美食比赛大奖，金像，铜像全石原"
         },
         {
-          "title": "CJ씨푸드, 3.01% 오르며 체결강도 강세로 반전(111%)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxZGlPbUpqQVh3Y1hhSHUwVXV4c192aG5SQzVDMGRvdWxFelNlVldrY0xySWc0T182S2hvdzJhYUs1RFlKVXdubVU0VlA1b2JXVlE?oc=5",
+          "title": "해마로푸드서비스, 매도잔량 343% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DRnRKbkthRUFFNHJxa0lpbDhUQ3NyTDlDNDYwbGxwYUxyMllkLUFqNXY5T0NYckxtU1E5OV96anpNU3Z6Mm5CYTlfdDJrbmRpa1E?oc=5",
           "desc": "",
-          "title_en": "CJ Seafood reverses strong fastening strength with a rise of 3.01% (111%)",
-          "title_ja": "CJシーフードは、3.01 ％ （ 111 ％ ）の上昇で強固な締結強度を逆転させます",
-          "title_zh": "CJ Seafood扭转了强大的紧固强度，增长了3.01% （ 111% ）"
+          "title_en": "Hippopotamus Food Service Selling Remainder Surges 343%",
+          "title_ja": "カバのフードサービスの販売残高が343%急増",
+          "title_zh": "河马餐饮服务销售剩余激增343%"
         },
         {
           "title": "“햄버거등 비만야기” 주범 美 패스트푸드社 피소위기",
@@ -196,12 +196,12 @@
           "title_zh": "“米其林二星”安成杰，送餐服务是否经过筛选？ “重新订餐的标准是……” - Star Today"
         },
         {
-          "title": "미들바이, 푸드프로세싱 사업부 CFO에 Amy Campbell 임명",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PdWdMTzd3TGthYS1JWWlvMW9ycTlhRDI5VWVzSEprY1JxT1J6ajR2dmNPR2FGNjQybjdWclRkTXVfU3pYYldTM01DUkZuWC0xbmc?oc=5",
+          "title": "푸드뱅크, 설기간중 사랑의 식품기탁운동 전개",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJa1cwRm5KRXhxUTJ4YzZzb2pLYXNVZ2hzUEtqN2xwZjZWMzZnQVhwbVplcnQzX2JZUWowaDNBMTZpT2dfQU8wbUtGQWFydw?oc=5",
           "desc": "",
-          "title_en": "Middleby Appoints Amy Campbell as CFO of Food Processing",
-          "title_ja": "ミドルビー、エイミー・キャンベルを食品加工のCFOに任命",
-          "title_zh": "Middleby任命Amy Campbell为食品加工首席财务官"
+          "title_en": "Food Bank Launches Food Deposit Movement for Love during Lunar New Year",
+          "title_ja": "フードバンク、旧正月に愛のためのフードデポジットムーブメントを開始",
+          "title_zh": "Food Bank在农历新年期间推出爱心食品存款运动"
         },
         {
           "title": "라이프웨이 푸드, 1분기 매출 32~35% 급증 예상..6080만~6230만 달러",
@@ -226,20 +226,20 @@
           "title_zh": "Hagendaz、首尔康莱德酒店和「无花果香草芝士蛋糕」"
         },
         {
+          "title": "생맥주에 담은 벚꽃 감성…백스비어, ‘꿀맥주’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHd3V3cXlfVkItQlFhcVZWY3V4RHQxTHBBMWhMWmV5Yjd3aE5jdG9SMVJUZ0J0WmtFd3h2eUdzemswREljNFdFclZwWkFHVEkzekpVeFRGdw?oc=5",
+          "desc": "",
+          "title_en": "Cherry blossom sensibility in draft beer… Backs Beer, ‘Honey Beer’",
+          "title_ja": "生ビールの中の桜の感性…ビール、「ハニービール」を味わおう",
+          "title_zh": "在生啤酒中感受樱花……支持啤酒、“蜂蜜啤酒”"
+        },
+        {
           "title": "보랏빛 ‘우베’ 음료, 투썸플레이스에서 만난다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cHJGb1dscWlOa3I3bGZEeFBCRDhJalZVUGNkZmd4blNTcW9jd24wbkxhSzhNR1FXaUYxRnhzemtZY2ZnWlhONXBrT2FyQWl5SlFFOUJ5WQ?oc=5",
           "desc": "",
           "title_en": "Borat ‘Ube’ drinks meet at Twosome Place",
           "title_ja": "Twosome PlaceでBorat ‘Ube’ドリンクを堪能しよう",
           "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
-        },
-        {
-          "title": "美 네슬레의 ‘코리안 BBQ’ 소스 …가정용 소스 공략",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycVJOQ293eS1SQUZJbXhvRlB5WGtIVWE2dUlLZXBBakhLZElHaGVPaTNwdDFEWmVlTzZ5N244TVh5NE80a3ZZdEo2VVNwTFRxc3hxY3UyVQ?oc=5",
-          "desc": "",
-          "title_en": "Nestlé's ‘Korean BBQ’ Sauce… Targeting Household Sauces",
-          "title_ja": "ネスレの「韓国BBQ」ソース…家庭用ソースをターゲットに",
-          "title_zh": "雀巢的“韩式烧烤”酱汁…瞄准家用酱汁"
         }
       ]
     }
