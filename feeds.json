@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T10:06:02Z",
+  "lastUpdated": "2026-04-04T15:59:35Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Sysco以$ 291亿收购Restaurant Depot"
         },
         {
-          "title": "McDonald's Under $3 Menu will make its debut later this month",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTN3dmFjLWVUd2EyeTVrSTV4bmZxN0xvb1d0V2xNVjhwOG9BbkhmOWlKcS1uT3pfeTlKNWpkczZMZmZQaTFheHZ0VmJncS1CRXQzbFR1SUZuT1FQdzF4V3otdVVIc0dDRTFic3lWamlMajFuNEdxVWdZVXlzcTZUTDhTendJYlFtV2ZrUnpQaWF1LU13cG9CZ2c1S0pyN1ltVk53?oc=5",
+          "title": "Why Sysco could ultimately regret the Restaurant Depot deal",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEkzT2pKcnprVS1ETUlMVjJPRVBXb3dVTkRFWkxERG5naGZnMHl0cVN5QWNwU3Z2Ql9jbnY3WTRVTEFoYS1NOXpqckZ2NkpqU2d4LU1URXl1X1Rad1N6M2VPYldGRi13bFR6ekRxNjB1MS1Ha3lyU2tLczVoWGV6NDNWMmpIWHRWR0IwUEVJUmxvRlU1eW9MTDJjaENBLXdaYnczaA?oc=5",
           "desc": "",
-          "title_ko": "맥도날드의 3달러 이하 메뉴 ($ 3 Menu) 가 이달 말 첫 선을 보일 예정입니다.",
-          "title_ja": "$ 3未満のマクドナルドメニューは今月後半にデビューします",
-          "title_zh": "McDonald's Under $ 3 Menu将于本月晚些时候推出"
+          "title_ko": "Sysco가 궁극적으로 레스토랑 디포 거래를 후회할 수 있는 이유",
+          "title_ja": "Syscoがレストランデポの取引を最終的に後悔する可能性がある理由",
+          "title_zh": "为什么Sysco最终会对Restaurant Depot交易感到遗憾"
         }
       ]
     },
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "Food",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
-          "desc": "",
-          "title_ko": "식료품비",
-          "title_ja": "食料",
-          "title_zh": "食物"
-        },
-        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
+        },
+        {
+          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
+          "desc": "",
+          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
+          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
+          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "“原来这是一块糖” ……医生警告我的关于[健康！谈话]的3种食物"
         },
         {
+          "title": "주윤발 \"한국음식 번데기 좋아한다\"",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1NaeE5oYmdlc1lfczMzYnBWUjZEYWxRNTBDMmd1QUFfbVcwa3JQRVcwQ1o1Z2F6c3V6ZzF3bXIyOEpUOE5wb1dUbFB3S1Jxdk9Ca2pTY3N3ZFN5OUtYTGY3aXNnLUNLd0s3SVo3dy11THkxVTl2Mk5Ibk81Yl9yTGNUVDhzMTA?oc=5",
+          "desc": "",
+          "title_en": "Ju Yoon-bal \"I like Korean food pupae\"",
+          "title_ja": "Ju Yoon - bal \"I like Korean food pupae\"",
+          "title_zh": "Ju Yoon-bal「我喜欢韩国食物蛹」"
+        },
+        {
           "title": "\"평일에 반차 내고 가도 웨이팅 실패\"…'쭈쫀쿠'가 뭐길래 [현장+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb1AxSUVjaEk0eHB0MEVuTWVzVElyMlZEN0NiUHpnOHJkUFJBY3otSzVsQUV6MG5lZzZRMlpPSUhhZUdzOHZ6azhOcjhjVHdNNWN2UUVNeHIwZ9IBVEFVX3lxTFBSNXBwaU5xZUYtOS1IWmloTlJ5MFg5UlhHal95SW15YU5hal9ublQtTVNtSE43ekFrZkp4SDc2RE5oemJsdjM4UUFfU0ZuRGI1eU5aOA?oc=5",
           "desc": "",
           "title_en": "\"Failed to go even if you pay half a day on weekdays\"... What is' Jatsunku '? [Site +]",
           "title_ja": "「平日半日払っても行けなかった」・・・「じゃつんく」とは？【サイト＋】",
           "title_zh": "「即使您在工作日付了半天钱也去不了」……什么是「Jatsunku」？ [Site +]"
-        },
-        {
-          "title": "'직장인들 보약이 따로 없네'…3월말 꼭 먹어야 할 제철음식 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wUFRRbXF4aTlmWmliSGpQXzZBRkJpLXI2bUV6UVJzYkRwVEdjaXNIenoyenJoYlk2eUlicDlBN0lFSWY1VHJac3BSVldxRHRKb1RsS0l2N19Od9IBVEFVX3lxTE9WVWd6WEEzRThFNU01dk4yck1SQzR0X1lDc0dLVTVVQnB3amRwWEdFbU1oaWFTaXVobDhMZG56YWFEcjN3UXdnR19ZMjVBQXg0STlyMg?oc=5",
-          "desc": "",
-          "title_en": "'There is no cure for office workers' … Seasonal food that must be eaten at the end of March [Health! Talk]",
-          "title_ja": "「オフィスワーカーに治療法はありません」… 3月末に食べなければならない季節の食べ物【健康！トーク】",
-          "title_zh": "“上班族无药可救” ……必须在3月底吃的季节性食物[健康！谈话]"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "S-OIL为青年食品卡车的燃料成本提供了1亿欧元的支持"
         },
         {
-          "title": "경기 음식쓰레기 관리위반업체 43곳 적발",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xdDFvRVNHNTNqOVQwZG5feURCWVJCTWdab0VBd0VxOUNkTlRoTmsyakwzTFp1NE8yX2JkWTRoNGNrRUNGVDg4NWdMazNMQnpxcVE?oc=5",
+          "title": "CJ씨푸드, 매수잔량 411% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NY0pBQnNwamp6NzkxaEIzZFRudGNJbTM0bXlJUXBfempyVm03Und2Z2JlME5aZ0ZWMzlMTlMxOWI1R0tSbk1RQlRnUnhFUWk1U1E?oc=5",
           "desc": "",
-          "title_en": "43 Gyeonggi food waste management companies caught",
-          "title_ja": "43京畿道の食品廃棄物管理会社が捕まりました",
-          "title_zh": "43京畿道食品垃圾管理公司被捕"
+          "title_en": "CJ Seafood, Buying Residual 411% Surge",
+          "title_ja": "CJシーフード、残余411 ％の急増を購入",
+          "title_zh": "CJ海鲜，购买剩余411%激增"
         },
         {
-          "title": "현대그린푸드, 매도잔량 348% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iQjQ4VmRNY211dGIyeGZFM2tiM3Q5d0FrSmp2VzFiaHpzZjM0dHR5b2VaNldBeGE1YkZsUTJLZHpGQzNLRHJoSHlibFo4RjdXRGc?oc=5",
+          "title": "동원홈푸드-예천군, 농특산물 유통망 협약",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CS09Ocld3WjhUU2VPVG1mRzVlQ29JWEFRZ1M1UHJ3RXYtN1hFNU90VWNFNDBobk1Vd2ZLSUdFbDVaS0RKVS1HZDVZWWhpZUtJT1HSAVNBVV95cUxNLTVHWU03S3N5bXZJR2dXNGFaeGxwRzI4NHFLcDlFaGZKNXhpN1JLTWVpWVZnd3Z2TG5rRmM2V1BBcE1iYnhmSVlkeFNnT0RCVEZicw?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food sells 348% more",
-          "title_ja": "Hyundai Green Foodの販売台数が348%増加",
-          "title_zh": "现代绿色食品销售额增长348%"
+          "title_en": "Dongwon Home Food-Yecheon-gun, Agricultural Specialty Products Distribution Network Agreement",
+          "title_ja": "Dongwon Home Food - Yecheon - gun、農業専門製品流通ネットワーク契約",
+          "title_zh": "Dongwon Home Food-Yecheon-gun ，农业特色产品分销网络协议"
         }
       ]
     },
