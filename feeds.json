@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-04-04T19:46:00Z",
+  "lastUpdated": "2026-04-04T21:57:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Fast-growing Nothing Bundt Cakes is sold to KKR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObUpRMUxmckp5eDlWTFVjUTNOUGwwNWNqYjZYZHd0VTh3SUJzTlFMcWVUcERDX281d1FILTF5LXozUkxpLWNSNjF3MDVUZHgwdEstMk1NYU1USElPaE1iUFhaZkhGNkJkaHE2OFNiLWxXOVJ4V1hfZnhDeG5Pc0dxRnJOc0JDSWVvRDhlc2Q2VFZoUQ?oc=5",
-          "desc": "",
-          "title_ko": "빠르게 성장하는 번트 케이크는 KKR에 판매되지 않습니다",
-          "title_ja": "急成長何もバンドケーキはKKRに販売されていません",
-          "title_zh": "生长速度快没有外滩蛋糕卖给KKR"
-        },
         {
           "title": "Sysco to acquire Restaurant Depot for $29.1B",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0Q4MmJHSmw5dVRxXzZ5XzhiYzVsWG1odHdmOGRNM2hINHBVYUlkd0NVLWUwdGdWQWNUTDh0bU5qTi04UjF4dk1hT1BDUy1TVWhJRnpIdUk3UmJVMU90VVpQR1UyUkdRSE91alBaRkQ4RkhwMmNCQzA5V0tOWEtuaTQzaFpMS04zUVE?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "Sysco가 궁극적으로 레스토랑 디포 거래를 후회할 수 있는 이유",
           "title_ja": "Syscoがレストランデポの取引を最終的に後悔する可能性がある理由",
           "title_zh": "为什么Sysco最终会对Restaurant Depot交易感到遗憾"
+        },
+        {
+          "title": "McDonald's Under $3 Menu will make its debut later this month",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTN3dmFjLWVUd2EyeTVrSTV4bmZxN0xvb1d0V2xNVjhwOG9BbkhmOWlKcS1uT3pfeTlKNWpkczZMZmZQaTFheHZ0VmJncS1CRXQzbFR1SUZuT1FQdzF4V3otdVVIc0dDRTFic3lWamlMajFuNEdxVWdZVXlzcTZUTDhTendJYlFtV2ZrUnpQaWF1LU13cG9CZ2c1S0pyN1ltVk53?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드의 3달러 이하 메뉴 ($ 3 Menu) 가 이달 말 첫 선을 보일 예정입니다.",
+          "title_ja": "$ 3未満のマクドナルドメニューは今月後半にデビューします",
+          "title_zh": "McDonald's Under $ 3 Menu将于本月晚些时候推出"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "\"고추장 더 넣어도 되나요?\"…LA서 재현된 '폭군의셰프' 속 한식",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TY2RaR1p0UUVYTVZzMjRLOE9WdFNfVUtGNGRJR3YzZ2tXYzNZSkM1aUhlRW52TXFZUDIzZW04X01FUGVCaVRFcFRCSGQzYmxjU3c?oc=5",
+          "desc": "",
+          "title_en": "\"Can I add more red pepper paste?\" … Korean cuisine in the 'Tyrant's Chef' reproduced in LA",
+          "title_ja": "「赤唐辛子のペーストを追加できますか？「…ロサンゼルスで再現された『暴君のシェフ』の韓国料理",
+          "title_zh": "“我可以添加更多的红辣椒酱吗？“ ……在洛杉矶复制的'暴君的厨师'中的韩国美食"
+        },
+        {
           "title": "푸드뱅크, 설기간중 사랑의 식품기탁운동 전개",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJa1cwRm5KRXhxUTJ4YzZzb2pLYXNVZ2hzUEtqN2xwZjZWMzZnQVhwbVplcnQzX2JZUWowaDNBMTZpT2dfQU8wbUtGQWFydw?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Avoid 'causal foods' and carry emergency medications",
           "title_ja": "「原因となる食品」を避け、緊急用の薬を運ぶ",
           "title_zh": "避免“因果食物”并携带紧急药物"
-        },
-        {
-          "title": "‘미슐랭 2스타’ 안성재, 배달 음식도 심사? “재주문 기준은…” - 스타투데이",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRZ2c2UE9kR2R4cVZVM2NBQXRTcWFKZm42UXdmMnJUMTh5cUJhQWU3SVZGbnIxN3MyalhldXlzTnA3dnZ5cmQzVW1lbnI5XzFQQjBucW5Dd3o?oc=5",
-          "desc": "",
-          "title_en": "‘Michelin 2-Star’ Ahn Seong-jae, is the food delivery screened? “The criteria for reordering is…” - Star Today",
-          "title_ja": "「ミシュラン2つ星」のAhn Seong - jaeさん、フードデリバリーは審査されていますか？「再注文の基準は…」- Star Today",
-          "title_zh": "“米其林二星”安成杰，送餐服务是否经过筛选？ “重新订餐的标准是……” - Star Today"
         }
       ]
     },
