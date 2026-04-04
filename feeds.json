@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T22:02:40Z",
+  "lastUpdated": "2026-04-04T03:09:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -70,7 +70,7 @@
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
           "desc": "",
           "title_ko": "식료품비",
-          "title_ja": "Food",
+          "title_ja": "食料",
           "title_zh": "食物"
         },
         {
@@ -136,20 +136,20 @@
           "title_zh": "“原来这是一块糖” ……医生警告我的关于[健康！谈话]的3种食物"
         },
         {
+          "title": "환경 전문가가 들려주는 음식 이야기",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2JMMl9QeURHY0p2dmR1WmpRbU1iSHc2Mmhld1NsV2RYb1ZIY1A0OXc5Si16dTMzTGJ5bDRSVmRKLV9TVWdrallqVnFjZGQxcFBDYmhjQ1BuVHVYN1JDS3Iyb2lWYlBQckRBYW5rVHNvLWcyMWN3dHBDYVhGZTc1N2w2VWZfS3c?oc=5",
+          "desc": "",
+          "title_en": "Talk about food with an environmentalist",
+          "title_ja": "環境保護主義者と食べ物について話そう",
+          "title_zh": "与环保人士谈论美食"
+        },
+        {
           "title": "'직장인들 보약이 따로 없네'…3월말 꼭 먹어야 할 제철음식 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wUFRRbXF4aTlmWmliSGpQXzZBRkJpLXI2bUV6UVJzYkRwVEdjaXNIenoyenJoYlk2eUlicDlBN0lFSWY1VHJac3BSVldxRHRKb1RsS0l2N19Od9IBVEFVX3lxTE9WVWd6WEEzRThFNU01dk4yck1SQzR0X1lDc0dLVTVVQnB3amRwWEdFbU1oaWFTaXVobDhMZG56YWFEcjN3UXdnR19ZMjVBQXg0STlyMg?oc=5",
           "desc": "",
           "title_en": "'There is no cure for office workers' … Seasonal food that must be eaten at the end of March [Health! Talk]",
           "title_ja": "「オフィスワーカーに治療法はありません」… 3月末に食べなければならない季節の食べ物【健康！トーク】",
           "title_zh": "“上班族无药可救” ……必须在3月底吃的季节性食物[健康！谈话]"
-        },
-        {
-          "title": "\"평일에 반차 내고 가도 웨이팅 실패\"…'쭈쫀쿠'가 뭐길래 [현장+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb1AxSUVjaEk0eHB0MEVuTWVzVElyMlZEN0NiUHpnOHJkUFJBY3otSzVsQUV6MG5lZzZRMlpPSUhhZUdzOHZ6azhOcjhjVHdNNWN2UUVNeHIwZ9IBVEFVX3lxTFBSNXBwaU5xZUYtOS1IWmloTlJ5MFg5UlhHal95SW15YU5hal9ublQtTVNtSE43ekFrZkp4SDc2RE5oemJsdjM4UUFfU0ZuRGI1eU5aOA?oc=5",
-          "desc": "",
-          "title_en": "\"Failed to go even if you pay half a day on weekdays\"... What is' Jatsunku '? [Site +]",
-          "title_ja": "「平日半日払っても行けなかった」・・・「じゃつんく」とは？【サイト＋】",
-          "title_zh": "「即使您在工作日付了半天钱也去不了」……什么是「Jatsunku」？ [Site +]"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "现代绿色食品销售额增长348%"
         },
         {
-          "title": "해마로푸드서비스, 매도잔량 343% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DRnRKbkthRUFFNHJxa0lpbDhUQ3NyTDlDNDYwbGxwYUxyMllkLUFqNXY5T0NYckxtU1E5OV96anpNU3Z6Mm5CYTlfdDJrbmRpa1E?oc=5",
+          "title": "현대그린푸드, 매도잔량 348% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HczFWMlVvOTU2WGswdFE1TnlPQ0NaYjlxVkhoc240U001RmtqZjhQOGx1bXhaYnYyZC1wODc0eEZIZXdWcnFlVTdXT0tBMHZ5cWZ3?oc=5",
           "desc": "",
-          "title_en": "Hippopotamus Food Service Selling Remainder Surges 343%",
-          "title_ja": "カバのフードサービスの販売残高が343%急増",
-          "title_zh": "河马餐饮服务销售剩余激增343%"
+          "title_en": "Hyundai Green Food sells 348% more",
+          "title_ja": "Hyundai Green Foodの販売台数が348%増加",
+          "title_zh": "现代绿色食品销售额增长348%"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "‘미슐랭 2스타’ 안성재, 배달 음식도 심사? “재주문 기준은…” - 스타투데이",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRZ2c2UE9kR2R4cVZVM2NBQXRTcWFKZm42UXdmMnJUMTh5cUJhQWU3SVZGbnIxN3MyalhldXlzTnA3dnZ5cmQzVW1lbnI5XzFQQjBucW5Dd3o?oc=5",
-          "desc": "",
-          "title_en": "‘Michelin 2-Star’ Ahn Seong-jae, is the food delivery screened? “The criteria for reordering is…” - Star Today",
-          "title_ja": "「ミシュラン2つ星」のAhn Seong - jaeさん、フードデリバリーは審査されていますか？「再注文の基準は…」- Star Today",
-          "title_zh": "“米其林二星”安成杰，送餐服务是否经过筛选？ “重新订餐的标准是……” - Star Today"
-        },
-        {
           "title": "푸드뱅크, 설기간중 사랑의 식품기탁운동 전개",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJa1cwRm5KRXhxUTJ4YzZzb2pLYXNVZ2hzUEtqN2xwZjZWMzZnQVhwbVplcnQzX2JZUWowaDNBMTZpT2dfQU8wbUtGQWFydw?oc=5",
           "desc": "",
           "title_en": "Food Bank Launches Food Deposit Movement for Love during Lunar New Year",
           "title_ja": "フードバンク、旧正月に愛のためのフードデポジットムーブメントを開始",
           "title_zh": "Food Bank在农历新年期间推出爱心食品存款运动"
+        },
+        {
+          "title": "칼마인 푸드, 보험업계 베테랑 더들리 우울리 신임 이사 선임",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXZHlBSDhzUjlRVmxlbmFuYVZJMEtBMW4xanlJWGtDeTF1T1RMN1gzQnF1TjV1bUJQTlVab0NrbmJlUjdNdEhuMjRsS29GeDlDS0E?oc=5",
+          "desc": "",
+          "title_en": "Carmine Foods Appoints New Director of Insurance Industry Veteran Dudley Chulley",
+          "title_ja": "Carmine Foods、保険業界のベテランであるDudley Chulleyの新しいディレクターを任命",
+          "title_zh": "Carmine Foods任命保险业资深董事Dudley Chulley"
         },
         {
           "title": "제철음식부터 궁중요리까지 집에서 즐기는 국물 간편식",
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "하겐다즈, 콘래드 서울과 ‘무화과 바닐라 치즈 케이크’ 선봬",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56MVdXTjE1TFp4YXo3bUtCTnA4MkE1TVc1SzJKNHJvWmJ5dnowSkl5TVQzMjR1V1R1TlRnWWhvSWhYc2w5b0otQks4RHVTSW1velF1QlVZRQ?oc=5",
-          "desc": "",
-          "title_en": "Hagendaz, Conrad Seoul and ‘Fig Vanilla Cheesecake’",
-          "title_ja": "ハーゲンダズ、コンラッドソウル、「イチジクバニラチーズケーキ」",
-          "title_zh": "Hagendaz、首尔康莱德酒店和「无花果香草芝士蛋糕」"
-        },
-        {
           "title": "생맥주에 담은 벚꽃 감성…백스비어, ‘꿀맥주’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHd3V3cXlfVkItQlFhcVZWY3V4RHQxTHBBMWhMWmV5Yjd3aE5jdG9SMVJUZ0J0WmtFd3h2eUdzemswREljNFdFclZwWkFHVEkzekpVeFRGdw?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "Borat ‘Ube’ drinks meet at Twosome Place",
           "title_ja": "Twosome PlaceでBorat ‘Ube’ドリンクを堪能しよう",
           "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
+        },
+        {
+          "title": "성수동 리틀바잇모어, 신세계·현대百 팝업 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVmp6ajdiRF95RzFYeHNsTnFaR2lOUG13NkJtZ0V5SDlyY2E4eEMxNHhDdUR6Yy1takdvMTJMS0FocWFxVmg1NlB0X3dmQkVZNXpLTF9obw?oc=5",
+          "desc": "",
+          "title_en": "Seongsu-dong Little Byte More Opens Shinsegae and Hyundai Hundred Pop-Up",
+          "title_ja": "Seongsu - dong Little Byte Moreが新世界と現代の100ポップアップを開く",
+          "title_zh": "Seongsu-dong Little Byte More打开Shinsegae和Hyundai Hundred弹出窗口"
         }
       ]
     }
