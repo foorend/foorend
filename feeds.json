@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T03:09:37Z",
+  "lastUpdated": "2026-04-04T08:00:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,12 +136,12 @@
           "title_zh": "“原来这是一块糖” ……医生警告我的关于[健康！谈话]的3种食物"
         },
         {
-          "title": "환경 전문가가 들려주는 음식 이야기",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2JMMl9QeURHY0p2dmR1WmpRbU1iSHc2Mmhld1NsV2RYb1ZIY1A0OXc5Si16dTMzTGJ5bDRSVmRKLV9TVWdrallqVnFjZGQxcFBDYmhjQ1BuVHVYN1JDS3Iyb2lWYlBQckRBYW5rVHNvLWcyMWN3dHBDYVhGZTc1N2w2VWZfS3c?oc=5",
+          "title": "\"평일에 반차 내고 가도 웨이팅 실패\"…'쭈쫀쿠'가 뭐길래 [현장+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb1AxSUVjaEk0eHB0MEVuTWVzVElyMlZEN0NiUHpnOHJkUFJBY3otSzVsQUV6MG5lZzZRMlpPSUhhZUdzOHZ6azhOcjhjVHdNNWN2UUVNeHIwZ9IBVEFVX3lxTFBSNXBwaU5xZUYtOS1IWmloTlJ5MFg5UlhHal95SW15YU5hal9ublQtTVNtSE43ekFrZkp4SDc2RE5oemJsdjM4UUFfU0ZuRGI1eU5aOA?oc=5",
           "desc": "",
-          "title_en": "Talk about food with an environmentalist",
-          "title_ja": "環境保護主義者と食べ物について話そう",
-          "title_zh": "与环保人士谈论美食"
+          "title_en": "\"Failed to go even if you pay half a day on weekdays\"... What is' Jatsunku '? [Site +]",
+          "title_ja": "「平日半日払っても行けなかった」・・・「じゃつんく」とは？【サイト＋】",
+          "title_zh": "「即使您在工作日付了半天钱也去不了」……什么是「Jatsunku」？ [Site +]"
         },
         {
           "title": "'직장인들 보약이 따로 없네'…3월말 꼭 먹어야 할 제철음식 [건강!톡]",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "강원 로컬푸드 농산물 안전성 매년 향상…부적합률 7.9%→0.7%",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DYnNBbmhrQ21oSWRvaFpLenVVdGUzaWxhbGxyaDNmU1IwUThKUjJZMllwcXZrWDloUFJfeHF6bWF0aC1qUWt3NF93SU8zTFht?oc=5",
+          "desc": "",
+          "title_en": "Gangwon local food agricultural product safety improved every year… Incompatibility rate 7.9%→ 0.7%",
+          "title_ja": "江原地方の食料農産物の安全性が年々向上…不適合率7.9%→ 0.7%",
+          "title_zh": "江原道本地食品农产品安全逐年提升…不相容率7.9%→ 0.7%"
+        },
+        {
           "title": "푸드뱅크, 설기간중 사랑의 식품기탁운동 전개",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJa1cwRm5KRXhxUTJ4YzZzb2pLYXNVZ2hzUEtqN2xwZjZWMzZnQVhwbVplcnQzX2JZUWowaDNBMTZpT2dfQU8wbUtGQWFydw?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "Food Bank在农历新年期间推出爱心食品存款运动"
         },
         {
-          "title": "칼마인 푸드, 보험업계 베테랑 더들리 우울리 신임 이사 선임",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXZHlBSDhzUjlRVmxlbmFuYVZJMEtBMW4xanlJWGtDeTF1T1RMN1gzQnF1TjV1bUJQTlVab0NrbmJlUjdNdEhuMjRsS29GeDlDS0E?oc=5",
+          "title": "‘미슐랭 2스타’ 안성재, 배달 음식도 심사? “재주문 기준은…” - 스타투데이",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRZ2c2UE9kR2R4cVZVM2NBQXRTcWFKZm42UXdmMnJUMTh5cUJhQWU3SVZGbnIxN3MyalhldXlzTnA3dnZ5cmQzVW1lbnI5XzFQQjBucW5Dd3o?oc=5",
           "desc": "",
-          "title_en": "Carmine Foods Appoints New Director of Insurance Industry Veteran Dudley Chulley",
-          "title_ja": "Carmine Foods、保険業界のベテランであるDudley Chulleyの新しいディレクターを任命",
-          "title_zh": "Carmine Foods任命保险业资深董事Dudley Chulley"
-        },
-        {
-          "title": "제철음식부터 궁중요리까지 집에서 즐기는 국물 간편식",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVSF8tTzFHemE2Vk56TFJyMDRpbFJLNXRoQ0t6aDNxYmVRMWFnd1V3ejJNd1NISkRJRDVoMmF2V3UwTUJEQU1kcXAtd0ctTWczZV9GbQ?oc=5",
-          "desc": "",
-          "title_en": "Soup at home from seasonal to royal cuisine",
-          "title_ja": "季節の料理から王室の料理まで、自宅でスープをつくろう",
-          "title_zh": "从时令美食到皇家美食，在家品尝汤品"
+          "title_en": "‘Michelin 2-Star’ Ahn Seong-jae, is the food delivery screened? “The criteria for reordering is…” - Star Today",
+          "title_ja": "「ミシュラン2つ星」のAhn Seong - jaeさん、フードデリバリーは審査されていますか？「再注文の基準は…」- Star Today",
+          "title_zh": "“米其林二星”安成杰，送餐服务是否经过筛选？ “重新订餐的标准是……” - Star Today"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
         },
         {
-          "title": "성수동 리틀바잇모어, 신세계·현대百 팝업 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVmp6ajdiRF95RzFYeHNsTnFaR2lOUG13NkJtZ0V5SDlyY2E4eEMxNHhDdUR6Yy1takdvMTJMS0FocWFxVmg1NlB0X3dmQkVZNXpLTF9obw?oc=5",
+          "title": "美 네슬레의 ‘코리안 BBQ’ 소스 …가정용 소스 공략",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycVJOQ293eS1SQUZJbXhvRlB5WGtIVWE2dUlLZXBBakhLZElHaGVPaTNwdDFEWmVlTzZ5N244TVh5NE80a3ZZdEo2VVNwTFRxc3hxY3UyVQ?oc=5",
           "desc": "",
-          "title_en": "Seongsu-dong Little Byte More Opens Shinsegae and Hyundai Hundred Pop-Up",
-          "title_ja": "Seongsu - dong Little Byte Moreが新世界と現代の100ポップアップを開く",
-          "title_zh": "Seongsu-dong Little Byte More打开Shinsegae和Hyundai Hundred弹出窗口"
+          "title_en": "Nestlé's ‘Korean BBQ’ Sauce… Targeting Household Sauces",
+          "title_ja": "ネスレの「韓国BBQ」ソース…家庭用ソースをターゲットに",
+          "title_zh": "雀巢的“韩式烧烤”酱汁…瞄准家用酱汁"
         }
       ]
     }
