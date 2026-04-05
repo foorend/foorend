@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-04-05T19:50:14Z",
+  "lastUpdated": "2026-04-05T21:59:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Sysco to acquire Restaurant Depot for $29.1B",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0Q4MmJHSmw5dVRxXzZ5XzhiYzVsWG1odHdmOGRNM2hINHBVYUlkd0NVLWUwdGdWQWNUTDh0bU5qTi04UjF4dk1hT1BDUy1TVWhJRnpIdUk3UmJVMU90VVpQR1UyUkdRSE91alBaRkQ4RkhwMmNCQzA5V0tOWEtuaTQzaFpMS04zUVE?oc=5",
-          "desc": "",
-          "title_ko": "Sysco, $ 29.1B에 Restaurant Depot 인수",
-          "title_ja": "シスコ、レストラン・デポを291億$で買収",
-          "title_zh": "Sysco以$ 291亿收购Restaurant Depot"
-        },
         {
           "title": "Why Sysco could ultimately regret the Restaurant Depot deal",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEkzT2pKcnprVS1ETUlMVjJPRVBXb3dVTkRFWkxERG5naGZnMHl0cVN5QWNwU3Z2Ql9jbnY3WTRVTEFoYS1NOXpqckZ2NkpqU2d4LU1URXl1X1Rad1N6M2VPYldGRi13bFR6ekRxNjB1MS1Ha3lyU2tLczVoWGV6NDNWMmpIWHRWR0IwUEVJUmxvRlU1eW9MTDJjaENBLXdaYnczaA?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "Sysco가 궁극적으로 레스토랑 디포 거래를 후회할 수 있는 이유",
           "title_ja": "Syscoがレストランデポの取引を最終的に後悔する可能性がある理由",
           "title_zh": "为什么Sysco最终会对Restaurant Depot交易感到遗憾"
+        },
+        {
+          "title": "Sysco to acquire Restaurant Depot for $29.1B",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0Q4MmJHSmw5dVRxXzZ5XzhiYzVsWG1odHdmOGRNM2hINHBVYUlkd0NVLWUwdGdWQWNUTDh0bU5qTi04UjF4dk1hT1BDUy1TVWhJRnpIdUk3UmJVMU90VVpQR1UyUkdRSE91alBaRkQ4RkhwMmNCQzA5V0tOWEtuaTQzaFpMS04zUVE?oc=5",
+          "desc": "",
+          "title_ko": "Sysco, $ 29.1B에 Restaurant Depot 인수",
+          "title_ja": "シスコ、レストラン・デポを291億$で買収",
+          "title_zh": "Sysco以$ 291亿收购Restaurant Depot"
         },
         {
           "title": "McDonald's Under $3 Menu will make its debut later this month",
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "성수동 리틀바잇모어, 신세계·현대百 팝업 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVmp6ajdiRF95RzFYeHNsTnFaR2lOUG13NkJtZ0V5SDlyY2E4eEMxNHhDdUR6Yy1takdvMTJMS0FocWFxVmg1NlB0X3dmQkVZNXpLTF9obw?oc=5",
+          "title": "보랏빛 ‘우베’ 음료, 투썸플레이스에서 만난다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cHJGb1dscWlOa3I3bGZEeFBCRDhJalZVUGNkZmd4blNTcW9jd24wbkxhSzhNR1FXaUYxRnhzemtZY2ZnWlhONXBrT2FyQWl5SlFFOUJ5WQ?oc=5",
           "desc": "",
-          "title_en": "Seongsu-dong Little Byte More Opens Shinsegae and Hyundai Hundred Pop-Up",
-          "title_ja": "Seongsu - dong Little Byte Moreが新世界と現代の100ポップアップを開く",
-          "title_zh": "Seongsu-dong Little Byte More打开Shinsegae和Hyundai Hundred弹出窗口"
+          "title_en": "Borat ‘Ube’ drinks meet at Twosome Place",
+          "title_ja": "Twosome PlaceでBorat ‘Ube’ドリンクを堪能しよう",
+          "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
         },
         {
           "title": "美 네슬레의 ‘코리안 BBQ’ 소스 …가정용 소스 공략",
@@ -234,12 +234,12 @@
           "title_zh": "雀巢的“韩式烧烤”酱汁…瞄准家用酱汁"
         },
         {
-          "title": "스프레드도 두바이 스타일…넛티랩, ‘아몬드 카다이프 스프레드’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXWUIyT0psTW5WTzhhdUJyN09CZWdsa05GVmRORDVxcE12bXZZNVBITGxvNEhfV1hiU0hyd0pfWWVMVGhJaW4tbjFGbHFHUHVIazFENWlxaw?oc=5",
+          "title": "노보텔 앰배서더 동대문, 2026 와인페어 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1naGVvdzViTmEwTUlMUHN4Z21aSkpZVUZXUTI4eU1NaElaXzA3M2xzdHEycDlYek5ibGp1WGlVNFUwU292aGdYdExpS2ZlXzhjRl9vamNSSQ?oc=5",
           "desc": "",
-          "title_en": "Dubai Style Spreads: Nutty Labs, Almond Cardife Spreads",
-          "title_ja": "ドバイスタイルのスプレッド： Nutty Labs、アーモンドカーディフスプレッド",
-          "title_zh": "迪拜风味点缀： Nutty Labs、Almond Cardife点缀"
+          "title_en": "Novotel Ambassador Dongdaemun Opens 2026 Wine Fair",
+          "title_ja": "ノボテルアンバサダー東大門が2026年ワインフェアを開く",
+          "title_zh": "诺富特大使东大门2026年葡萄酒展开幕"
         }
       ]
     }
