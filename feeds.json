@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T21:57:48Z",
+  "lastUpdated": "2026-04-05T10:57:46Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "S-OIL, 청년 푸드트럭 유류비 1억 지원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yNGZ0eVZBbkFzZ05NdmZhR1Z4UHExbEozeHhqLUhnem5oNG9lUThNd1ZQS3ZWLVJjbXd3WTRsTF9aNXpFbVFtRVk1YWhuYzZ1OEHSAVNBVV95cUxNSGxIOFk3SEFJX1RJVjZQa1AzY1paWlVGQ3NrTVdLRERkT0VtakprY2xiNzBRcHk2QTlEMUtnWUoxT2x4bGgzcE82YWg4UFpFOE9qOA?oc=5",
-          "desc": "",
-          "title_en": "S-OIL supports fuel costs for youth food trucks by 100 million",
-          "title_ja": "S - OILは、若者のフードトラックの燃料費を1億ドル支えています",
-          "title_zh": "S-OIL为青年食品卡车的燃料成本提供了1亿欧元的支持"
-        },
-        {
           "title": "현대H&S, 현대푸드시스템 흡수합병...7월1일부로",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByZThBOHl2eTB5RWNlUEd3ZXd6cUl0OE5ac2ZJT2RLd1YyVWtodVlic21hR21GRDlxZ182NkU5MHFERlNNNDR6OG8yT3hIQkhOOWdv?oc=5",
           "desc": "",
@@ -180,6 +172,14 @@
           "title_en": "Hyundai Green Food sells 348% more",
           "title_ja": "Hyundai Green Foodの販売台数が348%増加",
           "title_zh": "现代绿色食品销售额增长348%"
+        },
+        {
+          "title": "현대그린푸드, 매도잔량 348% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HczFWMlVvOTU2WGswdFE1TnlPQ0NaYjlxVkhoc240U001RmtqZjhQOGx1bXhaYnYyZC1wODc0eEZIZXdWcnFlVTdXT0tBMHZ5cWZ3?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food sells 348% more",
+          "title_ja": "Hyundai Green Foodの販売台数が348%増加",
+          "title_zh": "现代绿色食品销售额增长348%"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "농식품부·코트라, 우즈벡 식품전시회에 한국관…K푸드 수출지원",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gb2JDS0lsTmY3b3JmazJFanM5NEY5alloUExYSWkwU3V2WnNVbEM2b1NrTnRZQ202NG5zOVI0c0FvTmtYME4zSlFCTy1nOWp2eFE?oc=5",
+          "desc": "",
+          "title_en": "Ministry of Agriculture and Food · KOTRA, Korean Pavilion to Uzbek Food Exhibition… K-Food Export Support",
+          "title_ja": "農林水産省・KOTRA、ウズベキスタン料理展韓国館… K - Food輸出支援",
+          "title_zh": "农业和食品部· KOTRA ，韩国馆到乌兹别克斯坦食品展… K-Food出口支持"
+        },
         {
           "title": "\"고추장 더 넣어도 되나요?\"…LA서 재현된 '폭군의셰프' 속 한식",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TY2RaR1p0UUVYTVZzMjRLOE9WdFNfVUtGNGRJR3YzZ2tXYzNZSkM1aUhlRW52TXFZUDIzZW04X01FUGVCaVRFcFRCSGQzYmxjU3c?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Food Bank Launches Food Deposit Movement for Love during Lunar New Year",
           "title_ja": "フードバンク、旧正月に愛のためのフードデポジットムーブメントを開始",
           "title_zh": "Food Bank在农历新年期间推出爱心食品存款运动"
-        },
-        {
-          "title": "'원인음식' 피하고 비상약 휴대",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MSEZLYmZuOEZad0d5b1BfVWNZSkpEOVFfMVdoZ1JtUV9pZzJwdEZ2V2lhQVVrNFFPenZSaHY0SU1vd0VXcm1TZldoMVpTRDA?oc=5",
-          "desc": "",
-          "title_en": "Avoid 'causal foods' and carry emergency medications",
-          "title_ja": "「原因となる食品」を避け、緊急用の薬を運ぶ",
-          "title_zh": "避免“因果食物”并携带紧急药物"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "생맥주에 담은 벚꽃 감성…백스비어, ‘꿀맥주’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHd3V3cXlfVkItQlFhcVZWY3V4RHQxTHBBMWhMWmV5Yjd3aE5jdG9SMVJUZ0J0WmtFd3h2eUdzemswREljNFdFclZwWkFHVEkzekpVeFRGdw?oc=5",
-          "desc": "",
-          "title_en": "Cherry blossom sensibility in draft beer… Backs Beer, ‘Honey Beer’",
-          "title_ja": "生ビールの中の桜の感性…ビール、「ハニービール」を味わおう",
-          "title_zh": "在生啤酒中感受樱花……支持啤酒、“蜂蜜啤酒”"
-        },
         {
           "title": "보랏빛 ‘우베’ 음료, 투썸플레이스에서 만난다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cHJGb1dscWlOa3I3bGZEeFBCRDhJalZVUGNkZmd4blNTcW9jd24wbkxhSzhNR1FXaUYxRnhzemtZY2ZnWlhONXBrT2FyQWl5SlFFOUJ5WQ?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Seongsu-dong Little Byte More Opens Shinsegae and Hyundai Hundred Pop-Up",
           "title_ja": "Seongsu - dong Little Byte Moreが新世界と現代の100ポップアップを開く",
           "title_zh": "Seongsu-dong Little Byte More打开Shinsegae和Hyundai Hundred弹出窗口"
+        },
+        {
+          "title": "美 네슬레의 ‘코리안 BBQ’ 소스 …가정용 소스 공략",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycVJOQ293eS1SQUZJbXhvRlB5WGtIVWE2dUlLZXBBakhLZElHaGVPaTNwdDFEWmVlTzZ5N244TVh5NE80a3ZZdEo2VVNwTFRxc3hxY3UyVQ?oc=5",
+          "desc": "",
+          "title_en": "Nestlé's ‘Korean BBQ’ Sauce… Targeting Household Sauces",
+          "title_ja": "ネスレの「韓国BBQ」ソース…家庭用ソースをターゲットに",
+          "title_zh": "雀巢的“韩式烧烤”酱汁…瞄准家用酱汁"
         }
       ]
     }
