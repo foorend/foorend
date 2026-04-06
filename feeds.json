@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-04-06T17:32:39Z",
+  "lastUpdated": "2026-04-06T22:05:27Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "A big Carl's Jr. franchisee has filed for bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUJHcFBUaUdqeVd5UEhEcWl0dUtiUDJUUGZJb1lNVEQyWVh0amZCMVljNkIyem5jWlZ3bG5Wdkd4anBQS3MzWUczVVJ5aXZCTENGREtyQ3lTaUdlSmdNTDRqT3VxYVJraHRxNnJ6MWVSMzNhU3Z4R1J4a0hxd3BEODdXbVAyV21zeTE4RFJ0TXVIZEtRV3RYcDJHUQ?oc=5",
+          "desc": "",
+          "title_ko": "대형 Carl's Jr. 프랜차이즈 가맹점이 파산을 신청했습니다.",
+          "title_ja": "Carl's Jr.の大手フランチャイズ加盟店が破産を申請しました",
+          "title_zh": "一家大型Carl's Jr.特许经营商已申请破产"
+        },
         {
           "title": "Why Sysco could ultimately regret the Restaurant Depot deal",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEkzT2pKcnprVS1ETUlMVjJPRVBXb3dVTkRFWkxERG5naGZnMHl0cVN5QWNwU3Z2Ql9jbnY3WTRVTEFoYS1NOXpqckZ2NkpqU2d4LU1URXl1X1Rad1N6M2VPYldGRi13bFR6ekRxNjB1MS1Ha3lyU2tLczVoWGV6NDNWMmpIWHRWR0IwUEVJUmxvRlU1eW9MTDJjaENBLXdaYnczaA?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "레드 랍스터의 큰 문제점",
           "title_ja": "レッドロブスターの大きな問題",
           "title_zh": "红龙虾最大的问题"
-        },
-        {
-          "title": "McDonald's Under $3 Menu will make its debut later this month",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTN3dmFjLWVUd2EyeTVrSTV4bmZxN0xvb1d0V2xNVjhwOG9BbkhmOWlKcS1uT3pfeTlKNWpkczZMZmZQaTFheHZ0VmJncS1CRXQzbFR1SUZuT1FQdzF4V3otdVVIc0dDRTFic3lWamlMajFuNEdxVWdZVXlzcTZUTDhTendJYlFtV2ZrUnpQaWF1LU13cG9CZ2c1S0pyN1ltVk53?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드의 3달러 이하 메뉴 ($ 3 Menu) 가 이달 말 첫 선을 보일 예정입니다.",
-          "title_ja": "$ 3未満のマクドナルドメニューは今月後半にデビューします",
-          "title_zh": "McDonald's Under $ 3 Menu将于本月晚些时候推出"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "“原来这是一块糖” ……医生警告我的关于[健康！谈话]的3种食物"
         },
         {
-          "title": "\"평일에 반차 내고 가도 웨이팅 실패\"…'쭈쫀쿠'가 뭐길래 [현장+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb1AxSUVjaEk0eHB0MEVuTWVzVElyMlZEN0NiUHpnOHJkUFJBY3otSzVsQUV6MG5lZzZRMlpPSUhhZUdzOHZ6azhOcjhjVHdNNWN2UUVNeHIwZ9IBVEFVX3lxTFBSNXBwaU5xZUYtOS1IWmloTlJ5MFg5UlhHal95SW15YU5hal9ublQtTVNtSE43ekFrZkp4SDc2RE5oemJsdjM4UUFfU0ZuRGI1eU5aOA?oc=5",
+          "title": "'손흥민 마지막 무대'…불붙은 월드컵 마케팅",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wSlBRSzd4Wkc3N2xpRWdvMkJFU2FYMjZkazVPLVlnTDVqWURGa2ozZVlDVU1DNzczMHVER0YyZ2V6WTRWRGZtYk1iaTEyVjViQUNuT0YyY09OQdIBVEFVX3lxTE9Rd3BIYVZ0WloyZVBBQ1pWSkNzcW5rYl82T1dINjI5cVJWQ3ZRNWJtRDRPY0xqR29SWk9UeTNoaFdoa3Z5eWxYUk04cWdpTnpaOGo2LQ?oc=5",
           "desc": "",
-          "title_en": "\"Failed to go even if you pay half a day on weekdays\"... What is' Jatsunku '? [Site +]",
-          "title_ja": "「平日半日払っても行けなかった」・・・「じゃつんく」とは？【サイト＋】",
-          "title_zh": "「即使您在工作日付了半天钱也去不了」……什么是「Jatsunku」？ [Site +]"
+          "title_en": "'Son Heung-min's final stage' … World Cup marketing lit up",
+          "title_ja": "「ソン・フンミンの最終ステージ」…ワールドカップのマーケティングが活発化",
+          "title_zh": "“孙兴敏的最后阶段” ……世界杯营销亮相"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "충남 ‘펫푸드 사업화 지원센터’ 선정…국비 98억 확보",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12M0tyNFZJdmJsNUM0aU04OHN0QnB3NlA2dlA1ZjJ5Zk9sY2p1QmsxZ3ExYXBpSmtXQURpZ041bWpDZUpQYWVVbmx0V3ptZm10S2fSAVNBVV95cUxORWNkSHBhWnhVRy1NZHIyaHRvRUQwd1dWY01IUUxsNVNSeG9iTkhGek5PNi1FMkZjSjhYd0lQdjQzYXJSSzZzZTVDaFNHUi1abzVVRQ?oc=5",
+          "desc": "",
+          "title_en": "Selected as‘ Pet Food Commercialization Support Center ’in Chungcheongnam-do… Securing 9.8 billion won in national funds",
+          "title_ja": "忠清南道「ペットフード事業化支援センター」に選定…国の資金98億ウォン確保",
+          "title_zh": "入选忠清南道“宠物食品商业化支持中心” …获得国家基金98亿韩元"
+        },
         {
           "title": "“냄새 나고 끈적끈적한데”…중국인들 난리 난 ‘이 음식’, 수출 폭증한 사연",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VVkNkOF9vYVdaX1JzS0pyQThFNlN5azB0UjBfQTdyY3ItQUJnRHQ2UDVlTEU3R0FkSHZPRUgzdzk3VW1hY0kxdzhIR3lhUXAtWkHSAVNBVV95cUxNdDQwMWM4Y252dnpvM25UOUVkLWs2d2d0OTlQa2tlQ2lWRjFVbFJ3YUptREc4cUtjM3MzOGtXNXZsZjEtTldPOUhVaTNHWmxwUnJYOA?oc=5",
@@ -166,20 +174,12 @@
           "title_zh": "“味道和粘性” ……中国人正在肆虐的“这种食物”的故事，以及出口的爆炸式增长"
         },
         {
-          "title": "사조씨푸드, 매수잔량 336% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TejRhaThQWFNGd1l1YWR6ZFBVUmNUVElnZmhPcFFicWVLcFJGV0pHQUFQaklxMzF0R3JCanhNWm5MazVibXBvNV91QWZjbTB0ZFE?oc=5",
+          "title": "윙입푸드, 매수잔량 304% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSajJnOXctbmhwN1lkNFVkLU9ET0tGSkJEQlB3NkE2U21DbWUtcEMxcnJ4MWgxM0JScEhPZ0VBSnhMbUtfaUhQNEpTcjg4WndpenRJ?oc=5",
           "desc": "",
-          "title_en": "Sazo Seafood, 336% Purchase Remainder Surge",
-          "title_ja": "SAZOシーフード、336 ％の購入残高ピーク",
-          "title_zh": "Sazo海鲜， 336%剩余购买量激增"
-        },
-        {
-          "title": "“냄새 나고 끈적끈적한데”…중국인들 난리 난 ‘이 음식’, 수출 폭증한 사연",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NDAxYzhjbnZ2em8zblQ5RWQtazZ3Z3Q5OVBra2VDaVZGMVVsUndhSm1ERzhxS2MzczM4a1c1dmxmMS1OV085SFVpM0dabHBSclg40gFTQVVfeXFMTXQ0MDFjOGNudnZ6bzNuVDlFZC1rNndndDk5UGtrZUNpVkYxVWxSd2FKbURHOHFLYzNzMzhrVzV2bGYxLU5XTzlIVWkzR1pscFJyWDg?oc=5",
-          "desc": "",
-          "title_en": "“It smells and is sticky” … The story of ‘this food‘, which the Chinese are wreaking havoc on, and the explosion of exports",
-          "title_ja": "「匂いがして粘着性がある」…中国が大混乱を巻き起こしている「この食べ物」の話と、輸出の爆発的増加",
-          "title_zh": "“味道和粘性” ……中国人正在肆虐的“这种食物”的故事，以及出口的爆炸式增长"
+          "title_en": "Wing Yip Food, Purchase Residual 304% Surge",
+          "title_ja": "ウィングイップフード、購入残量304%サージ",
+          "title_zh": "永业食品，购买剩余304%飙升"
         }
       ]
     },
