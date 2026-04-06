@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T11:38:22Z",
+  "lastUpdated": "2026-04-06T17:32:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "为什么Sysco最终会对Restaurant Depot交易感到遗憾"
         },
         {
+          "title": "The big problem with Red Lobster",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5icllXT19pS0tpUTM5bmVVTzNhenJ0SWE2V0tRSFBiczNwUVYzck5zNWNaeHEtUkl1cWNydm1rSEpEbWpsb3pFbmswVXpLWXh4ZEZmaU9uNzF2NFRRUE5wcFl4UWE3akFWM3IwY2FOaUdlRmFqLTBPeHlB?oc=5",
+          "desc": "",
+          "title_ko": "레드 랍스터의 큰 문제점",
+          "title_ja": "レッドロブスターの大きな問題",
+          "title_zh": "红龙虾最大的问题"
+        },
+        {
           "title": "McDonald's Under $3 Menu will make its debut later this month",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTN3dmFjLWVUd2EyeTVrSTV4bmZxN0xvb1d0V2xNVjhwOG9BbkhmOWlKcS1uT3pfeTlKNWpkczZMZmZQaTFheHZ0VmJncS1CRXQzbFR1SUZuT1FQdzF4V3otdVVIc0dDRTFic3lWamlMajFuNEdxVWdZVXlzcTZUTDhTendJYlFtV2ZrUnpQaWF1LU13cG9CZ2c1S0pyN1ltVk53?oc=5",
           "desc": "",
           "title_ko": "맥도날드의 3달러 이하 메뉴 ($ 3 Menu) 가 이달 말 첫 선을 보일 예정입니다.",
           "title_ja": "$ 3未満のマクドナルドメニューは今月後半にデビューします",
           "title_zh": "McDonald's Under $ 3 Menu将于本月晚些时候推出"
-        },
-        {
-          "title": "A group of independent restaurants wants the FTC to block Sysco-Restaurant Depot deal",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUF3LWIydy0weFJzUTNEc3M0THBUeTV3N09vSnhXLWtHT3VvRG0tckx3djF2cDlKM0VGY2FuRzRTS1VLSjRrOXBXbDVOQjEydjhnUEdLTmNib1VIZy03dldtbTNrdWpGNFBpOFN5bDQ5VjRYU3puNW9tZGFkV0xRUTh5N0RfSUJCWHVtSVRHcWFqdWp6bXh0TU9BYTA5VkN2RnVFc01YYXZBTVF1eVNxSGdjZU5WMVR4SC0xVA?oc=5",
-          "desc": "",
-          "title_ko": "독립 레스토랑 그룹은 FTC가 Sysco-Restaurant Depot 거래를 차단하기를 원합니다.",
-          "title_ja": "独立したレストランのグループは、FTCがSysco - Restaurant Depotの取引をブロックすることを望んでいます",
-          "title_zh": "一群独立餐厅希望联邦贸易委员会阻止Sysco-Restaurant Depot交易"
         }
       ]
     },
@@ -35,14 +35,6 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
-        {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -65,6 +65,14 @@
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
       "items": [
+        {
+          "title": "Food",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
+          "desc": "",
+          "title_ko": "식료품비",
+          "title_ja": "食料",
+          "title_zh": "食物"
+        },
         {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
@@ -80,14 +88,6 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
-          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
-          "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "A Behind-the-Scenes Look at Chicago’s Most Exciting New Bar Program",
+          "link": "https://www.eater.com/pre-shift/952661/pre-shift-radicle-chicago-affordable-cocktails",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more interviews, advice, and first-pers",
+          "title_ko": "시카고에서 가장 흥미로운 새로운 바 프로그램을 살펴보는 비하인드 스토리",
+          "title_ja": "シカゴで最もエキサイティングな新しいバープログラムの舞台裏",
+          "title_zh": "芝加哥最令人兴奋的新酒吧项目幕后花絮"
+        },
+        {
+          "title": "This New Chicago Restaurant Has Something for Every Type of Night Out",
+          "link": "https://www.eater.com/video/953134/the-radicle-chicago-now-open",
+          "desc": "Chef Joe Frillman, known for his work at Michelin-recognized Daises, initially planned to open another restaurant in 2024, but opening a new business ",
+          "title_ko": "모든 종류의 나이트라이프를 즐길 수 있는 새로운 시카고 레스토랑입니다.",
+          "title_ja": "この新しいシカゴのレストランは、あらゆる種類の夜の外出に適しています",
+          "title_zh": "这家全新的芝加哥餐厅适合各种类型的夜生活"
+        },
+        {
           "title": "A Food Lover’s Guide to Building a Wedding Registry",
           "link": "https://www.eater.com/23699739/best-wedding-gifts-popular-registry-items-essentials-kitchenaid-le-creuset",
           "desc": "Putting together a wedding registry is an overwhelming and uncomfortable task, right up there with making the guest list and keeping track of all the ",
           "title_ko": "웨딩 레지스트리 구축을 위한 음식 애호가 가이드",
           "title_ja": "結婚式のレジストリを構築するためのフード愛好家のガイド",
           "title_zh": "美食爱好者指南：建立婚礼登记处"
-        },
-        {
-          "title": "Here Are the 2026 James Beard Awards Restaurant and Chef Finalists",
-          "link": "https://www.eater.com/dining-out/951811/2026-james-beard-awards-restaurant-chef-finalists",
-          "desc": "The James Beard Foundation has announced its list of chef and restaurant finalists for the 2026 James Beard Awards. The awards represent one of the hi",
-          "title_ko": "2026년 제임스 비어드 어워드 레스토랑 및 셰프 파이널리스트를 소개합니다.",
-          "title_ja": "2026年ジェームズ・ビアード・アワードのレストラン＆シェフファイナリストはこちら",
-          "title_zh": "以下是2026年詹姆斯·比尔德奖餐厅和厨师决赛入围者"
-        },
-        {
-          "title": "The Best Housewarming Gifts (That You’ll Want for Yourself)",
-          "link": "https://www.eater.com/24372860/best-housewarming-gifts",
-          "desc": "Housewarming gifts are tricky. They are tricky by scale: larger than a host gift, smaller than a wedding gift. And they are tricky by kind: housewarmi",
-          "title_ko": "최고의 하우스워밍 선물 (직접 원하는 선물)",
-          "title_ja": "最高のハウスウォーミングギフト（自分にぴったりのもの）",
-          "title_zh": "最好的温馨礼物（您自己想要的）"
         }
       ]
     }
@@ -158,24 +158,24 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "충남 ‘펫푸드 사업화 지원센터’ 선정…국비 98억 확보",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12M0tyNFZJdmJsNUM0aU04OHN0QnB3NlA2dlA1ZjJ5Zk9sY2p1QmsxZ3ExYXBpSmtXQURpZ041bWpDZUpQYWVVbmx0V3ptZm10S2fSAVNBVV95cUxORWNkSHBhWnhVRy1NZHIyaHRvRUQwd1dWY01IUUxsNVNSeG9iTkhGek5PNi1FMkZjSjhYd0lQdjQzYXJSSzZzZTVDaFNHUi1abzVVRQ?oc=5",
+          "title": "“냄새 나고 끈적끈적한데”…중국인들 난리 난 ‘이 음식’, 수출 폭증한 사연",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VVkNkOF9vYVdaX1JzS0pyQThFNlN5azB0UjBfQTdyY3ItQUJnRHQ2UDVlTEU3R0FkSHZPRUgzdzk3VW1hY0kxdzhIR3lhUXAtWkHSAVNBVV95cUxNdDQwMWM4Y252dnpvM25UOUVkLWs2d2d0OTlQa2tlQ2lWRjFVbFJ3YUptREc4cUtjM3MzOGtXNXZsZjEtTldPOUhVaTNHWmxwUnJYOA?oc=5",
           "desc": "",
-          "title_en": "Selected as‘ Pet Food Commercialization Support Center ’in Chungcheongnam-do… Securing 9.8 billion won in national funds",
-          "title_ja": "忠清南道「ペットフード事業化支援センター」に選定…国の資金98億ウォン確保",
-          "title_zh": "入选忠清南道“宠物食品商业化支持中心” …获得国家基金98亿韩元"
+          "title_en": "“It smells and is sticky” … The story of ‘this food‘, which the Chinese are wreaking havoc on, and the explosion of exports",
+          "title_ja": "「匂いがして粘着性がある」…中国が大混乱を巻き起こしている「この食べ物」の話と、輸出の爆発的増加",
+          "title_zh": "“味道和粘性” ……中国人正在肆虐的“这种食物”的故事，以及出口的爆炸式增长"
         },
         {
-          "title": "윙입푸드, 매수잔량 377% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VLXY1aDhwVTUzeXVxbGVfRk1PQTluV3hwYUV0bkhDWm1kRDNESVhDNjNMenlpY3Vmb0xIbmtVVWVHVmhVcGJTM1lCdExuZzFXZUE?oc=5",
+          "title": "사조씨푸드, 매수잔량 336% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TejRhaThQWFNGd1l1YWR6ZFBVUmNUVElnZmhPcFFicWVLcFJGV0pHQUFQaklxMzF0R3JCanhNWm5MazVibXBvNV91QWZjbTB0ZFE?oc=5",
           "desc": "",
-          "title_en": "Wing Yip Food, Buying Residual 377% Surge",
-          "title_ja": "ウィングイップフード、購入残高377%急増",
-          "title_zh": "永业食品，购买剩余377%激增"
+          "title_en": "Sazo Seafood, 336% Purchase Remainder Surge",
+          "title_ja": "SAZOシーフード、336 ％の購入残高ピーク",
+          "title_zh": "Sazo海鲜， 336%剩余购买量激增"
         },
         {
           "title": "“냄새 나고 끈적끈적한데”…중국인들 난리 난 ‘이 음식’, 수출 폭증한 사연",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VVkNkOF9vYVdaX1JzS0pyQThFNlN5azB0UjBfQTdyY3ItQUJnRHQ2UDVlTEU3R0FkSHZPRUgzdzk3VW1hY0kxdzhIR3lhUXAtWkHSAVNBVV95cUxNdDQwMWM4Y252dnpvM25UOUVkLWs2d2d0OTlQa2tlQ2lWRjFVbFJ3YUptREc4cUtjM3MzOGtXNXZsZjEtTldPOUhVaTNHWmxwUnJYOA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NDAxYzhjbnZ2em8zblQ5RWQtazZ3Z3Q5OVBra2VDaVZGMVVsUndhSm1ERzhxS2MzczM4a1c1dmxmMS1OV085SFVpM0dabHBSclg40gFTQVVfeXFMTXQ0MDFjOGNudnZ6bzNuVDlFZC1rNndndDk5UGtrZUNpVkYxVWxSd2FKbURHOHFLYzNzMzhrVzV2bGYxLU5XTzlIVWkzR1pscFJyWDg?oc=5",
           "desc": "",
           "title_en": "“It smells and is sticky” … The story of ‘this food‘, which the Chinese are wreaking havoc on, and the explosion of exports",
           "title_ja": "「匂いがして粘着性がある」…中国が大混乱を巻き起こしている「この食べ物」の話と、輸出の爆発的増加",
@@ -188,12 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "농식품부·코트라, 우즈벡 식품전시회에 한국관…K푸드 수출지원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gb2JDS0lsTmY3b3JmazJFanM5NEY5alloUExYSWkwU3V2WnNVbEM2b1NrTnRZQ202NG5zOVI0c0FvTmtYME4zSlFCTy1nOWp2eFE?oc=5",
+          "title": "바프레시 푸드 그룹, 제조·음료 전문가 2명 이사회 선임",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lams1V1RHMTZzeXRYWjBjNXlDY3hwUzBGSmJsTmc2Ym9NMTh1el81c1ZPamZfSEt3NTg5UU1lSnlPeVNES1ZzTjkxOXVwdGF6enc?oc=5",
           "desc": "",
-          "title_en": "Ministry of Agriculture and Food · KOTRA, Korean Pavilion to Uzbek Food Exhibition… K-Food Export Support",
-          "title_ja": "農林水産省・KOTRA、ウズベキスタン料理展韓国館… K - Food輸出支援",
-          "title_zh": "农业和食品部· KOTRA ，韩国馆到乌兹别克斯坦食品展… K-Food出口支持"
+          "title_en": "Barfresh Food Group appoints two manufacturing and beverage experts to its board of directors",
+          "title_ja": "Barfresh Food Group、2人の製造および飲料の専門家を取締役会に任命",
+          "title_zh": "Barfresh Food Group任命两名制造和饮料专家加入董事会"
         },
         {
           "title": "日시장 두드리는 韓백화점…패션이어 푸드·뷰티 팝업도",
@@ -204,12 +204,12 @@
           "title_zh": "Kook百货商店正在上市……时尚耳朵美食和美容弹出窗口"
         },
         {
-          "title": "\"고추장 더 넣어도 되나요?\"…LA서 재현된 '폭군의셰프' 속 한식",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TY2RaR1p0UUVYTVZzMjRLOE9WdFNfVUtGNGRJR3YzZ2tXYzNZSkM1aUhlRW52TXFZUDIzZW04X01FUGVCaVRFcFRCSGQzYmxjU3c?oc=5",
+          "title": "농식품부·코트라, 우즈벡 식품전시회에 한국관…K푸드 수출지원",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gb2JDS0lsTmY3b3JmazJFanM5NEY5alloUExYSWkwU3V2WnNVbEM2b1NrTnRZQ202NG5zOVI0c0FvTmtYME4zSlFCTy1nOWp2eFE?oc=5",
           "desc": "",
-          "title_en": "\"Can I add more red pepper paste?\" … Korean cuisine in the 'Tyrant's Chef' reproduced in LA",
-          "title_ja": "「赤唐辛子のペーストを追加できますか？「…ロサンゼルスで再現された『暴君のシェフ』の韓国料理",
-          "title_zh": "“我可以添加更多的红辣椒酱吗？“ ……在洛杉矶复制的'暴君的厨师'中的韩国美食"
+          "title_en": "Ministry of Agriculture and Food · KOTRA, Korean Pavilion to Uzbek Food Exhibition… K-Food Export Support",
+          "title_ja": "農林水産省・KOTRA、ウズベキスタン料理展韓国館… K - Food輸出支援",
+          "title_zh": "农业和食品部· KOTRA ，韩国馆到乌兹别克斯坦食品展… K-Food出口支持"
         }
       ]
     },
