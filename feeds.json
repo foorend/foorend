@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T06:19:20Z",
+  "lastUpdated": "2026-04-06T11:38:22Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "미스터리한 음식, 쩨(chè)를 아시나요 [신예희의 나홀로 한입여행]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTXlSVFh0d0ZmQkxiWElzNE5xSmRiNi1SM0FiWFZzUDNIYzcxMDcxbXkyTEktamlPc01qcXhNQ2tjbDVzd3doRnEwUDN6SW5uaWstYUFPVTlOUdIBVEFVX3lxTE8zcWVkZ04wRW56ZXhaMlVTdFNoVlhld0ZWU1UxOWM1SDg5X2FUZlJLT3Q1anc5UjQweU51V2tsQ1kzdkc2ellESWhHRWZaVmc2RDlXdQ?oc=5",
+          "desc": "",
+          "title_en": "You know the mystery food, chè [Shin Ye-hee's solo bite trip]",
+          "title_ja": "神秘的な食べ物を知っているCHE【シン・イェヒの一人旅】",
+          "title_zh": "你知道神秘的食物， chè [Shin Ye-hee's solo bite trip]"
+        },
+        {
           "title": "\"알고보니 설탕 덩어리\"…의사가 경고한 음식 3가지 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwRTI5YllDN1dlaGlQcTJTWWNMRHhBZEVrREx5aDBnVE5SaTFaV0dMTnd4Tm04cDdqZXFXSmdLNjFYY2Naek5RWlFadmpXWHZ4UVBId0luR0tZQdIBVEFVX3lxTE9UVkZjYTdDc0Z1V0k5QzRRT2Z3dlhITDJPdUZvYVdfWFQ3dXV0YkJJZXdpcVRVS2w2N0tlbGozZ2ktNXljS2RILTlhU3RPN056LWhrTg?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "“原来这是一块糖” ……医生警告我的关于[健康！谈话]的3种食物"
         },
         {
-          "title": "태평양, 건강식품 판매 .. '더 휴 뷰티푸드' 7월1일부터",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSTNaSGl2YnI5YmtNSG80TGUzZFI1UnlqMjM4RUtkcVBQcnM1eWNkLW9pUkFOOHVzZ2Z0bmdZRzlaMmVqS3djOUtNYnVxNEdvcEhwY0FyLXZCaWF3RzRSN1c3N19aSzZSU0F3MDdSTWVDNVE1YzhXd0pNSXVXT1RWNDFiNHFzRmc?oc=5",
+          "title": "\"평일에 반차 내고 가도 웨이팅 실패\"…'쭈쫀쿠'가 뭐길래 [현장+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb1AxSUVjaEk0eHB0MEVuTWVzVElyMlZEN0NiUHpnOHJkUFJBY3otSzVsQUV6MG5lZzZRMlpPSUhhZUdzOHZ6azhOcjhjVHdNNWN2UUVNeHIwZ9IBVEFVX3lxTFBSNXBwaU5xZUYtOS1IWmloTlJ5MFg5UlhHal95SW15YU5hal9ublQtTVNtSE43ekFrZkp4SDc2RE5oemJsdjM4UUFfU0ZuRGI1eU5aOA?oc=5",
           "desc": "",
-          "title_en": "Pacific, Health Food Sales.. 'The Hugh Beauty Food' from July 1st",
-          "title_ja": "パシフィック、健康食品販売。7月1日から「ヒュービューティーフード」",
-          "title_zh": "太平洋，健康食品销售.. “休美食”从7月1日开始"
-        },
-        {
-          "title": "환경 전문가가 들려주는 음식 이야기",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2JMMl9QeURHY0p2dmR1WmpRbU1iSHc2Mmhld1NsV2RYb1ZIY1A0OXc5Si16dTMzTGJ5bDRSVmRKLV9TVWdrallqVnFjZGQxcFBDYmhjQ1BuVHVYN1JDS3Iyb2lWYlBQckRBYW5rVHNvLWcyMWN3dHBDYVhGZTc1N2w2VWZfS3c?oc=5",
-          "desc": "",
-          "title_en": "Talk about food with an environmentalist",
-          "title_ja": "環境保護主義者と食べ物について話そう",
-          "title_zh": "与环保人士谈论美食"
+          "title_en": "\"Failed to go even if you pay half a day on weekdays\"... What is' Jatsunku '? [Site +]",
+          "title_ja": "「平日半日払っても行けなかった」・・・「じゃつんく」とは？【サイト＋】",
+          "title_zh": "「即使您在工作日付了半天钱也去不了」……什么是「Jatsunku」？ [Site +]"
         }
       ]
     },
@@ -158,24 +158,24 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "해마로푸드서비스, 매도잔량 437% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EcE5aNlRlSVdBTXFpaGpNckZEdUNvVFhfLWNzRkdHS1lCSFVMaWFla1VPRDkyMjVDYlc5bUp5QXFBU0llVEp1VW5TY2s0bTZxcGJj?oc=5",
+          "title": "충남 ‘펫푸드 사업화 지원센터’ 선정…국비 98억 확보",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12M0tyNFZJdmJsNUM0aU04OHN0QnB3NlA2dlA1ZjJ5Zk9sY2p1QmsxZ3ExYXBpSmtXQURpZ041bWpDZUpQYWVVbmx0V3ptZm10S2fSAVNBVV95cUxORWNkSHBhWnhVRy1NZHIyaHRvRUQwd1dWY01IUUxsNVNSeG9iTkhGek5PNi1FMkZjSjhYd0lQdjQzYXJSSzZzZTVDaFNHUi1abzVVRQ?oc=5",
           "desc": "",
-          "title_en": "Hippopotamus Food Service Selling Remainder Surges 437%",
-          "title_ja": "カバのフードサービスの販売残高が437%急増",
-          "title_zh": "河马餐饮服务销售剩余激增437%"
+          "title_en": "Selected as‘ Pet Food Commercialization Support Center ’in Chungcheongnam-do… Securing 9.8 billion won in national funds",
+          "title_ja": "忠清南道「ペットフード事業化支援センター」に選定…国の資金98億ウォン確保",
+          "title_zh": "入选忠清南道“宠物食品商业化支持中心” …获得国家基金98亿韩元"
+        },
+        {
+          "title": "윙입푸드, 매수잔량 377% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VLXY1aDhwVTUzeXVxbGVfRk1PQTluV3hwYUV0bkhDWm1kRDNESVhDNjNMenlpY3Vmb0xIbmtVVWVHVmhVcGJTM1lCdExuZzFXZUE?oc=5",
+          "desc": "",
+          "title_en": "Wing Yip Food, Buying Residual 377% Surge",
+          "title_ja": "ウィングイップフード、購入残高377%急増",
+          "title_zh": "永业食品，购买剩余377%激增"
         },
         {
           "title": "“냄새 나고 끈적끈적한데”…중국인들 난리 난 ‘이 음식’, 수출 폭증한 사연",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VVkNkOF9vYVdaX1JzS0pyQThFNlN5azB0UjBfQTdyY3ItQUJnRHQ2UDVlTEU3R0FkSHZPRUgzdzk3VW1hY0kxdzhIR3lhUXAtWkHSAVNBVV95cUxNdDQwMWM4Y252dnpvM25UOUVkLWs2d2d0OTlQa2tlQ2lWRjFVbFJ3YUptREc4cUtjM3MzOGtXNXZsZjEtTldPOUhVaTNHWmxwUnJYOA?oc=5",
-          "desc": "",
-          "title_en": "“It smells and is sticky” … The story of ‘this food‘, which the Chinese are wreaking havoc on, and the explosion of exports",
-          "title_ja": "「匂いがして粘着性がある」…中国が大混乱を巻き起こしている「この食べ物」の話と、輸出の爆発的増加",
-          "title_zh": "“味道和粘性” ……中国人正在肆虐的“这种食物”的故事，以及出口的爆炸式增长"
-        },
-        {
-          "title": "“냄새 나고 끈적끈적한데”…중국인들 난리 난 ‘이 음식’, 수출 폭증한 사연",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NDAxYzhjbnZ2em8zblQ5RWQtazZ3Z3Q5OVBra2VDaVZGMVVsUndhSm1ERzhxS2MzczM4a1c1dmxmMS1OV085SFVpM0dabHBSclg40gFTQVVfeXFMTXQ0MDFjOGNudnZ6bzNuVDlFZC1rNndndDk5UGtrZUNpVkYxVWxSd2FKbURHOHFLYzNzMzhrVzV2bGYxLU5XTzlIVWkzR1pscFJyWDg?oc=5",
           "desc": "",
           "title_en": "“It smells and is sticky” … The story of ‘this food‘, which the Chinese are wreaking havoc on, and the explosion of exports",
           "title_ja": "「匂いがして粘着性がある」…中国が大混乱を巻き起こしている「この食べ物」の話と、輸出の爆発的増加",
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "미국 스머커, 트레이더 조에 유사 제품 대상 법적 대응",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VeG5SaWRHSC00NFFKVGpGREhycUdNTVJaanFrWFN5MzR5TFhmUlJRM25yOE9yeXkzdTVpWFhJd3JyelI3SmlPV2hFcWVZWHlzY2V1c25iVQ?oc=5",
-          "desc": "",
-          "title_en": "US Smucker Legal Response to Trader Zoe Similar Products",
-          "title_ja": "トレーダーZoe類似製品に対する米国Smuckerの法的対応",
-          "title_zh": "美国Smucker对交易员Zoe类似产品的法律回应"
-        },
-        {
           "title": "보랏빛 ‘우베’ 음료, 투썸플레이스에서 만난다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cHJGb1dscWlOa3I3bGZEeFBCRDhJalZVUGNkZmd4blNTcW9jd24wbkxhSzhNR1FXaUYxRnhzemtZY2ZnWlhONXBrT2FyQWl5SlFFOUJ5WQ?oc=5",
           "desc": "",
@@ -234,12 +226,20 @@
           "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
         },
         {
-          "title": "美 네슬레의 ‘코리안 BBQ’ 소스 …가정용 소스 공략",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycVJOQ293eS1SQUZJbXhvRlB5WGtIVWE2dUlLZXBBakhLZElHaGVPaTNwdDFEWmVlTzZ5N244TVh5NE80a3ZZdEo2VVNwTFRxc3hxY3UyVQ?oc=5",
+          "title": "“배달 봉투까지 연기”…이수지와 함께한 투다리 캠페인",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhbVpfUmltY2I3U2p6U1pjR0g3Vk55bDdBY2Q1amxUUnRtdlZ6SDExTnlvR05aQlpoeTZFWm5qNUdPY3NleTR0bW9YSkNfMnY5aHp4UlJpOA?oc=5",
           "desc": "",
-          "title_en": "Nestlé's ‘Korean BBQ’ Sauce… Targeting Household Sauces",
-          "title_ja": "ネスレの「韓国BBQ」ソース…家庭用ソースをターゲットに",
-          "title_zh": "雀巢的“韩式烧烤”酱汁…瞄准家用酱汁"
+          "title_en": "“Delay the Delivery Envelope” … Tudari Campaign with Susie Lee",
+          "title_ja": "「配達用封筒を遅らせる」…スージー・リーとのTudariキャンペーン",
+          "title_zh": "“延迟派送信封” …与Susie Lee一起开展Tudari活动"
+        },
+        {
+          "title": "인도네시아, 전통 음료 ‘자무’의 재해석 확산",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WMzNPdzR4VVhzSVgybDYwdkhUaHRlaDk5eEFGWVd6WGNrTGhOc1dCN0dLU2VLd1RPWXRhX2o1LUg5cE1vNGJ5ZmFaUnY1YU9tWEEwdVBTRQ?oc=5",
+          "desc": "",
+          "title_en": "Indonesia reinterprets traditional drink Jamu",
+          "title_ja": "インドネシアで伝統的な飲み物ジャムを再解釈しよう",
+          "title_zh": "印度尼西亚重新诠释传统饮料Jamu"
         }
       ]
     }
