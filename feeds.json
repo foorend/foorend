@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T20:05:48Z",
+  "lastUpdated": "2026-04-07T23:07:40Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "济州Yangdon Nonghyup将全球健康济州猪作为“清洁K食品”"
         },
         {
-          "title": "미스터리한 음식, 쩨(chè)를 아시나요 [신예희의 나홀로 한입여행]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTXlSVFh0d0ZmQkxiWElzNE5xSmRiNi1SM0FiWFZzUDNIYzcxMDcxbXkyTEktamlPc01qcXhNQ2tjbDVzd3doRnEwUDN6SW5uaWstYUFPVTlOUdIBVEFVX3lxTE8zcWVkZ04wRW56ZXhaMlVTdFNoVlhld0ZWU1UxOWM1SDg5X2FUZlJLT3Q1anc5UjQweU51V2tsQ1kzdkc2ellESWhHRWZaVmc2RDlXdQ?oc=5",
-          "desc": "",
-          "title_en": "You know the mystery food, chè [Shin Ye-hee's solo bite trip]",
-          "title_ja": "神秘的な食べ物を知っているCHE【シン・イェヒの一人旅】",
-          "title_zh": "你知道神秘的食物， chè [Shin Ye-hee's solo bite trip]"
-        },
-        {
           "title": "\"알고보니 설탕 덩어리\"…의사가 경고한 음식 3가지 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwRTI5YllDN1dlaGlQcTJTWWNMRHhBZEVrREx5aDBnVE5SaTFaV0dMTnd4Tm04cDdqZXFXSmdLNjFYY2Naek5RWlFadmpXWHZ4UVBId0luR0tZQdIBVEFVX3lxTE9UVkZjYTdDc0Z1V0k5QzRRT2Z3dlhITDJPdUZvYVdfWFQ3dXV0YkJJZXdpcVRVS2w2N0tlbGozZ2ktNXljS2RILTlhU3RPN056LWhrTg?oc=5",
           "desc": "",
           "title_en": "“Turns out it's a lump of sugar” … 3 foods the doctor warned me about [Health! Talk]",
           "title_ja": "「それは砂糖の塊であることが判明しました」…医者が私に警告した3つの食べ物[健康！トーク]",
           "title_zh": "“原来这是一块糖” ……医生警告我的关于[健康！谈话]的3种食物"
+        },
+        {
+          "title": "미스터리한 음식, 쩨(chè)를 아시나요 [신예희의 나홀로 한입여행]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTXlSVFh0d0ZmQkxiWElzNE5xSmRiNi1SM0FiWFZzUDNIYzcxMDcxbXkyTEktamlPc01qcXhNQ2tjbDVzd3doRnEwUDN6SW5uaWstYUFPVTlOUdIBVEFVX3lxTE8zcWVkZ04wRW56ZXhaMlVTdFNoVlhld0ZWU1UxOWM1SDg5X2FUZlJLT3Q1anc5UjQweU51V2tsQ1kzdkc2ellESWhHRWZaVmc2RDlXdQ?oc=5",
+          "desc": "",
+          "title_en": "You know the mystery food, chè [Shin Ye-hee's solo bite trip]",
+          "title_ja": "神秘的な食べ物を知っているCHE【シン・イェヒの一人旅】",
+          "title_zh": "你知道神秘的食物， chè [Shin Ye-hee's solo bite trip]"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "Food Tree建立新的联合代表系统…加速鸡肉平台的排名提升"
         },
         {
-          "title": "한국인이라면 K-푸드와 K-문화 못참지 우예참노! SEXY FOOD~｜골썰",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GajB3NFJ3YzZOMU1BV0d4ZmxzeS1KYi1WSFFpU2xfcnlTMUdyZEI1M0ZETzBMZDBJUW45RkJRLWtQZjJ0RHRieQ?oc=5",
+          "title": "CJ씨푸드, 3.82% 오르며 체결강도 강세 지속(110%)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vbTBscjJyM0h1OTlVb29aN2lET1pfUTJmb3FaWDlfMmZkQ0gtajZteFd2VVVvaWFhQWdyWjdzbEFKZm45Y1dmOHM0MGNNdzdHS25R?oc=5",
           "desc": "",
-          "title_en": "If you are Korean, you can't tolerate K-food and K-culture! Sexy food ~ ｜ Sledding",
-          "title_ja": "あなたが韓国人であれば、K - foodとK - cultureを容認することはできません！セクシーフード～｜そり体験",
-          "title_zh": "如果您是韩国人，您不能容忍K-food和K-culture ！性感美食~ ｜雪橇"
+          "title_en": "CJ Seafood, 3.82% and strong fastening strength (110%)",
+          "title_ja": "CJシーフード、3.82 ％、強固な締結強度（ 110 ％ ）",
+          "title_zh": "CJ海鲜， 3.82 ％和强大的紧固强度（ 110 ％ ）"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "\"멍플루언서 잡아라\"…펫푸드업계, SNS 마케팅 사활",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmZGxLMUFxTHl5YlkwSVZ1ZUx3aGJBbFJrS1A1OUdSNG1xR3U2RUwwUURKdkRab1RBdUttTDlXUVFyTXNlajR4cHN5Z212NDRWbHc?oc=5",
+          "desc": "",
+          "title_en": "\"Catch the Bruiser\" … Pet Food Industry, Social Media Marketing Activities",
+          "title_ja": "「キャッチ・ザ・ブルーザー」…ペットフード業界、ソーシャルメディアマーケティング活動",
+          "title_zh": "“赶上布鲁斯” …宠物食品行业、社交媒体营销活动"
+        },
         {
           "title": "바프레시 푸드 그룹, 제조·음료 전문가 2명 이사회 선임",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lams1V1RHMTZzeXRYWjBjNXlDY3hwUzBGSmJsTmc2Ym9NMTh1el81c1ZPamZfSEt3NTg5UU1lSnlPeVNES1ZzTjkxOXVwdGF6enc?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Kook Department Store knocking on the market… Fashion Ears Food and Beauty Pop-ups",
           "title_ja": "Kookデパートが市場に出回っています…ファッション耳フード＆ビューティーポップアップ",
           "title_zh": "Kook百货商店正在上市……时尚耳朵美食和美容弹出窗口"
-        },
-        {
-          "title": "농식품부·코트라, 우즈벡 식품전시회에 한국관…K푸드 수출지원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gb2JDS0lsTmY3b3JmazJFanM5NEY5alloUExYSWkwU3V2WnNVbEM2b1NrTnRZQ202NG5zOVI0c0FvTmtYME4zSlFCTy1nOWp2eFE?oc=5",
-          "desc": "",
-          "title_en": "Ministry of Agriculture and Food · KOTRA, Korean Pavilion to Uzbek Food Exhibition… K-Food Export Support",
-          "title_ja": "農林水産省・KOTRA、ウズベキスタン料理展韓国館… K - Food輸出支援",
-          "title_zh": "农业和食品部· KOTRA ，韩国馆到乌兹别克斯坦食品展… K-Food出口支持"
         }
       ]
     },
