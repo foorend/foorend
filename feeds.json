@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-04-08T12:01:12Z",
+  "lastUpdated": "2026-04-08T18:55:56Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "A bankrupt Carl's Jr. franchisee blames its financial problems on California's $20 wage",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZuOTVRckc5YllwMFZrUUV3Vm1wS01MSExWOWJ1VTVlMEMxZnVLZ3Q2MU9FQ1I1cTFwRXN0YXVTMW5peE9qNkFVWXVrTm1HZkR5eVU3WTN6alhiY0l3RmhTWTRCR2xCcF9XRnNoNXJzRVozVi1oeTNvWk1ERXRXWmZLMmw2d1BEMkRwNGYtZTZRRUFNZWstMl85d211RnA5QWlaQ3VTU2M5TTIwNEQtVGozT3d2OUZqS3JTeUlLUU9oaEE?oc=5",
+          "desc": "",
+          "title_ko": "파산한 Carl's Jr. 프랜차이즈 가맹점은 캘리포니아의 $ 20 임금에 대한 재정적 문제를 비난합니다.",
+          "title_ja": "破産したカールズジュニアのフランチャイズ加盟店は、カリフォルニア州の$ 20の賃金に財政問題を非難しています",
+          "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
+        },
         {
           "title": "A big Carl's Jr. franchisee has filed for bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWI5b2NzMFhUcW40NV85OF8wSDJmOEJzMk5NbjA1c0trMmhFX1hmMVdFR1BBeXRlWDdlSmUxeTJmUWExX0NsZFZVSEdkTUVzdmN2LTNwa0hCaVRaZmhNNzBOclNfRFNXMHpjWHJPZUxTeHpyRHZlenh1ZldQSnJWLWNCUE5SU1RMQXp6V2hFVWJ1d1JiUGc?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "Chick-fil-A의 유닛 볼륨이 천장에 부딪힘",
           "title_ja": "Chick - fil - Aのユニットボリュームが天井に当たった",
           "title_zh": "Chick-fil-A的单位体积触及天花板"
-        },
-        {
-          "title": "Why Sysco could ultimately regret the Restaurant Depot deal",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEkzT2pKcnprVS1ETUlMVjJPRVBXb3dVTkRFWkxERG5naGZnMHl0cVN5QWNwU3Z2Ql9jbnY3WTRVTEFoYS1NOXpqckZ2NkpqU2d4LU1URXl1X1Rad1N6M2VPYldGRi13bFR6ekRxNjB1MS1Ha3lyU2tLczVoWGV6NDNWMmpIWHRWR0IwUEVJUmxvRlU1eW9MTDJjaENBLXdaYnczaA?oc=5",
-          "desc": "",
-          "title_ko": "Sysco가 궁극적으로 레스토랑 디포 거래를 후회할 수 있는 이유",
-          "title_ja": "Syscoがレストランデポの取引を最終的に後悔する可能性がある理由",
-          "title_zh": "为什么Sysco最终会对Restaurant Depot交易感到遗憾"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Michelin Guide Is Heading to More of the Midwest",
+          "link": "https://www.eater.com/dining-out/954223/michelin-guide-expanding-to-great-lakes-detroit-pittsburgh-minneapolis",
+          "desc": "The Michelin Guide announced today that it will be releasing a Great Lakes edition, which will cover Cleveland, Detroit, Indianapolis, Milwaukee, Minn",
+          "title_ko": "미쉐린 가이드가 중서부 더 많은 지역으로 안내합니다",
+          "title_ja": "ミシュランガイドは中西部のより多くの地域に向かっています",
+          "title_zh": "《米其林指南》正走向中西部更多地区"
+        },
+        {
           "title": "Let Gimbap Reintroduce Itself",
           "link": "https://www.eater.com/trends/953869/gimbap-kimbap-korean-dish-explained",
           "desc": "On a personal level, gimbap came first for chef Jihan Lee, with his mom’s gimbap setting the standard. On a professional level, though, gimbap took a ",
@@ -110,14 +118,6 @@
           "title_ko": "시카고에서 가장 흥미로운 새로운 바 프로그램을 살펴보는 비하인드 스토리",
           "title_ja": "シカゴで最もエキサイティングな新しいバープログラムの舞台裏",
           "title_zh": "芝加哥最令人兴奋的新酒吧项目幕后花絮"
-        },
-        {
-          "title": "This New Chicago Restaurant Has Something for Every Type of Night Out",
-          "link": "https://www.eater.com/video/953134/the-radicle-chicago-now-open",
-          "desc": "Chef Joe Frillman, known for his work at Michelin-recognized Daises, initially planned to open another restaurant in 2024, but opening a new business ",
-          "title_ko": "모든 종류의 나이트라이프를 즐길 수 있는 새로운 시카고 레스토랑입니다.",
-          "title_ja": "この新しいシカゴのレストランは、あらゆる種類の夜の外出に適しています",
-          "title_zh": "这家全新的芝加哥餐厅适合各种类型的夜生活"
         }
       ]
     }
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“한국음식 세계화에 모든 역량 쏟을 것”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54dGVKSGZxcmhRSVpJbUI0eTdSQTVqc3lYSnJYazlqRzZla1puRzlMcEZ2OGdPUklyNnNwSFdwVjloNzdiUzFGODZ5bTZza3Nsc0HSAVNBVV95cUxQd0N3LU13V0gyNTlhSHNocG4yUmlnUURUWEYxRzFydWkteWJDTkRaa3dQVXNwSXpLZnczN09OSGE5c2gzQ3phLThmLVhWYml1LVlCRQ?oc=5",
-          "desc": "",
-          "title_en": "“We will devote all our capabilities to globalizing Korean food”",
-          "title_ja": "「韓国料理のグローバル化に全力を尽くします」",
-          "title_zh": "“我们将竭尽全力实现韩国食品的全球化”"
-        },
-        {
           "title": "서울국제음식영화제 조직위 홍보대사에 홍석천씨 위촉",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qQ3FZckU2U0hNWVhrQllITlN2dG1jbklFSDdjdV9LYmpaaGZubjM0djFRVHVBZTJ1MW1UUThNWTh2YWp6cTF0THkxalBiYmZ5WG5J0gFTQVVfeXFMT2pDcVlyRTZTSE1ZWGtCWUhOU3Z0bWNuSUVIN2N1X0tialpoZm5uMzR2MVFUdUFlMnUxbVRROE1ZOHZhanpxMXRMeTFqUGJiZnlYbkk?oc=5",
           "desc": "",
@@ -174,12 +166,20 @@
           "title_zh": "洪石川被任命为首尔国际美食电影节组委会大使"
         },
         {
-          "title": "푸드나무, 새 공동대표 체제 구축…랭킹닭컴 플랫폼 고도화 가속",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ybXY1elFObEhiUmhINW5IcmNVMFdrdFVROHBaR3lKWmtrd2Fya1ZRd01iQXhPVVBSYXRWOWZCeHdqdkltX1FJRzc1Z2FhemJ6UDhZ0gFTQVVfeXFMTjJtdjV6UU5sSGJSaEg1bkhyY1UwV2t0VVE4cFpHeUpaa2t3YXJrVlF3TWJBeE9VUFJhdFY5ZkJ4d2p2SW1fUUlHNzVnYWF6YnpQOFk?oc=5",
+          "title": "“한국음식 세계화에 모든 역량 쏟을 것”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54dGVKSGZxcmhRSVpJbUI0eTdSQTVqc3lYSnJYazlqRzZla1puRzlMcEZ2OGdPUklyNnNwSFdwVjloNzdiUzFGODZ5bTZza3Nsc0HSAVNBVV95cUxQd0N3LU13V0gyNTlhSHNocG4yUmlnUURUWEYxRzFydWkteWJDTkRaa3dQVXNwSXpLZnczN09OSGE5c2gzQ3phLThmLVhWYml1LVlCRQ?oc=5",
           "desc": "",
-          "title_en": "Food Tree Establishes New Joint Representative System… Accelerates Ranking Chicken Com Platform Advancement",
-          "title_ja": "Food Treeが新しい共同代表システムを確立…チキンコムプラットフォームのランキング向上を加速",
-          "title_zh": "Food Tree建立新的联合代表系统…加速鸡肉平台的排名提升"
+          "title_en": "“We will devote all our capabilities to globalizing Korean food”",
+          "title_ja": "「韓国料理のグローバル化に全力を尽くします」",
+          "title_zh": "“我们将竭尽全力实现韩国食品的全球化”"
+        },
+        {
+          "title": "“아무거나 2만원에 맞춰줘” 주문해도…취향 딱 맞는 음식 추천",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IWGdBejlwYUVrWDczWV9hMHZycEp1U0k0ZFhQSlZ0QmtGbjNBbVgzcmtseUJEa0ZydzlQWDlVRW5NWS10UGlJWUwtNzlkdEwtcXfSAVNBVV95cUxNa0ZST0pRU0tkVFJoczhSbW5KWHFlczhsZ3dmdjhURmZiQUhQcHVYX0VMTW9oOU8ycGFZU1RNa0w2cGtiX0FmZGpSSEpoSllmR09OZw?oc=5",
+          "desc": "",
+          "title_en": "Even if you order “Please adjust anything to 20,000 won”... Recommend the perfect food for your taste",
+          "title_ja": "「何でも20,000ウォンに調整してください」を注文しても...あなたの好みにぴったりの料理をお勧めします",
+          "title_zh": "即使您订购「请将任何东西调整到20000韩元」……为您的口味推荐完美的食物"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“赶上布鲁斯” …宠物食品行业、社交媒体营销活动"
         },
         {
-          "title": "日시장 두드리는 韓백화점 … 패션이어 푸드·뷰티 팝업도",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tQ0VETTZhXzhlcVI2NDhpQklRNm01TVdsdVlld2I2eXV1QnhocjlSSFEzX0F4QV9HNzVFcUJXdnZOZ3lVaVpMZW9haF9MU0UyTXF2UTJB?oc=5",
+          "title": "스타벅스, `우유사랑라떼 캠페인` 적립금 푸드뱅크에 전달",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wZ3hUQk1xNkViWldNLUZhM2xmT0Z0UzhxRVh0YTZhUXFXd0YyN2VYOXRFNEVQNmJqQ19ubFJPcHhDd2dOYkR4X1hMOS1rS05hQkJCcVNUcUVSN25YZXNlRmtZcw?oc=5",
           "desc": "",
-          "title_en": "Kook Department Store knocking on the market… Fashion Ears Food and Beauty Pop-ups",
-          "title_ja": "Kookデパートが市場に出回っています…ファッション耳フード＆ビューティーポップアップ",
-          "title_zh": "Kook百货商店正在上市……时尚耳朵美食和美容弹出窗口"
+          "title_en": "Starbucks Delivers` Milk Love Latte Campaign `to Food Bank",
+          "title_ja": "スターバックス、フードバンクに「ミルクラブラテキャンペーン」を提供",
+          "title_zh": "星巴克向食物银行推出“牛奶爱好拿铁运动”"
         },
         {
-          "title": "농식품부·코트라, 우즈벡 식품전시회에 한국관…K푸드 수출지원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gb2JDS0lsTmY3b3JmazJFanM5NEY5alloUExYSWkwU3V2WnNVbEM2b1NrTnRZQ202NG5zOVI0c0FvTmtYME4zSlFCTy1nOWp2eFE?oc=5",
+          "title": "패스트푸드업계 '타임마케팅'경쟁 돌입",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mMHhWanY1VUFGMnRIQlRBUE9BQVNSM3d0bzhmOXhIZUxra2J5WjZIOER2aTJtbGw5V1liSzRnV3ZzZkFqQnl3V0NTekMyQQ?oc=5",
           "desc": "",
-          "title_en": "Ministry of Agriculture and Food · KOTRA, Korean Pavilion to Uzbek Food Exhibition… K-Food Export Support",
-          "title_ja": "農林水産省・KOTRA、ウズベキスタン料理展韓国館… K - Food輸出支援",
-          "title_zh": "农业和食品部· KOTRA ，韩国馆到乌兹别克斯坦食品展… K-Food出口支持"
+          "title_en": "The Fast Food Industry's 'Time Marketing' Competition Launches",
+          "title_ja": "ファストフード業界の「タイムマーケティング」コンペティション開始",
+          "title_zh": "快餐行业的“时间营销”竞赛启动"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "미국 스머커, 트레이더 조에 유사 제품 대상 법적 대응",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VeG5SaWRHSC00NFFKVGpGREhycUdNTVJaanFrWFN5MzR5TFhmUlJRM25yOE9yeXkzdTVpWFhJd3JyelI3SmlPV2hFcWVZWHlzY2V1c25iVQ?oc=5",
-          "desc": "",
-          "title_en": "US Smucker Legal Response to Trader Zoe Similar Products",
-          "title_ja": "トレーダーZoe類似製品に対する米国Smuckerの法的対応",
-          "title_zh": "美国Smucker对交易员Zoe类似产品的法律回应"
-        },
         {
           "title": "보랏빛 ‘우베’ 음료, 투썸플레이스에서 만난다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cHJGb1dscWlOa3I3bGZEeFBCRDhJalZVUGNkZmd4blNTcW9jd24wbkxhSzhNR1FXaUYxRnhzemtZY2ZnWlhONXBrT2FyQWl5SlFFOUJ5WQ?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "“Delay the Delivery Envelope” … Tudari Campaign with Susie Lee",
           "title_ja": "「配達用封筒を遅らせる」…スージー・リーとのTudariキャンペーン",
           "title_zh": "“延迟派送信封” …与Susie Lee一起开展Tudari活动"
+        },
+        {
+          "title": "주말 되면 치솟는 혈당, 이 습관이 문제입니다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wM24zN0EwRDRQMnNlMW1WSjlkZVJ6cElOaGJWUGJtYlZCZVZfckdEMXl5VTM2QkVDRmp3Y3o3MzBtYlI1Mm5nSHBuYmp3MnA1X3k4c0k5Yw?oc=5",
+          "desc": "",
+          "title_en": "Soaring blood glucose at the end of the week, this habit is a problem",
+          "title_ja": "週末に血糖値が急上昇する、この習慣は問題です",
+          "title_zh": "周末血糖飙升，这个习惯是个问题"
         }
       ]
     }
