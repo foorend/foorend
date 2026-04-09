@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-04-08T23:09:58Z",
+  "lastUpdated": "2026-04-09T06:06:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "A bankrupt Carl's Jr. franchisee blames its financial problems on California's $20 wage",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZuOTVRckc5YllwMFZrUUV3Vm1wS01MSExWOWJ1VTVlMEMxZnVLZ3Q2MU9FQ1I1cTFwRXN0YXVTMW5peE9qNkFVWXVrTm1HZkR5eVU3WTN6alhiY0l3RmhTWTRCR2xCcF9XRnNoNXJzRVozVi1oeTNvWk1ERXRXWmZLMmw2d1BEMkRwNGYtZTZRRUFNZWstMl85d211RnA5QWlaQ3VTU2M5TTIwNEQtVGozT3d2OUZqS3JTeUlLUU9oaEE?oc=5",
+          "desc": "",
+          "title_ko": "파산한 Carl's Jr. 프랜차이즈 가맹점은 캘리포니아의 $ 20 임금에 대한 재정적 문제를 비난합니다.",
+          "title_ja": "破産したカールズジュニアのフランチャイズ加盟店は、カリフォルニア州の$ 20の賃金に財政問題を非難しています",
+          "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
+        },
         {
           "title": "A big Carl's Jr. franchisee has filed for bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWI5b2NzMFhUcW40NV85OF8wSDJmOEJzMk5NbjA1c0trMmhFX1hmMVdFR1BBeXRlWDdlSmUxeTJmUWExX0NsZFZVSEdkTUVzdmN2LTNwa0hCaVRaZmhNNzBOclNfRFNXMHpjWHJPZUxTeHpyRHZlenh1ZldQSnJWLWNCUE5SU1RMQXp6V2hFVWJ1d1JiUGc?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "Chick-fil-A의 유닛 볼륨이 천장에 부딪힘",
           "title_ja": "Chick - fil - Aのユニットボリュームが天井に当たった",
           "title_zh": "Chick-fil-A的单位体积触及天花板"
-        },
-        {
-          "title": "Why Sysco could ultimately regret the Restaurant Depot deal",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEkzT2pKcnprVS1ETUlMVjJPRVBXb3dVTkRFWkxERG5naGZnMHl0cVN5QWNwU3Z2Ql9jbnY3WTRVTEFoYS1NOXpqckZ2NkpqU2d4LU1URXl1X1Rad1N6M2VPYldGRi13bFR6ekRxNjB1MS1Ha3lyU2tLczVoWGV6NDNWMmpIWHRWR0IwUEVJUmxvRlU1eW9MTDJjaENBLXdaYnczaA?oc=5",
-          "desc": "",
-          "title_ko": "Sysco가 궁극적으로 레스토랑 디포 거래를 후회할 수 있는 이유",
-          "title_ja": "Syscoがレストランデポの取引を最終的に後悔する可能性がある理由",
-          "title_zh": "为什么Sysco最终会对Restaurant Depot交易感到遗憾"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "这一次， K-feeding…三星Well Story举办B2B食品和饮料博览会'2026 Food Festa'"
         },
         {
-          "title": "\"알고보니 설탕 덩어리\"…의사가 경고한 음식 3가지 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwRTI5YllDN1dlaGlQcTJTWWNMRHhBZEVrREx5aDBnVE5SaTFaV0dMTnd4Tm04cDdqZXFXSmdLNjFYY2Naek5RWlFadmpXWHZ4UVBId0luR0tZQdIBVEFVX3lxTE9UVkZjYTdDc0Z1V0k5QzRRT2Z3dlhITDJPdUZvYVdfWFQ3dXV0YkJJZXdpcVRVS2w2N0tlbGozZ2ktNXljS2RILTlhU3RPN056LWhrTg?oc=5",
-          "desc": "",
-          "title_en": "“Turns out it's a lump of sugar” … 3 foods the doctor warned me about [Health! Talk]",
-          "title_ja": "「それは砂糖の塊であることが判明しました」…医者が私に警告した3つの食べ物[健康！トーク]",
-          "title_zh": "“原来这是一块糖” ……医生警告我的关于[健康！谈话]的3种食物"
-        },
-        {
           "title": "제주양돈농협, 건강한 제주 돼지 '청정 K푸드'로 글로벌 공략",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YS29xbWZfQ2puVHd4WHZ0aDdlTHNqSVNBR1dmVUdvU1VjNFJYdHM1aXg3T0Jqb1NtSnVFMU0xZnRycWg3M0IwZlY1YlpXZmtJYm9TcllzS1NWd9IBVEFVX3lxTE52UEt2YUNEYVQ0YWFWLW1BNTh5TGZWdkdUYzV6ckRwWDgxdHRza21sWUtnRVFLUVdGZEJoVWw2S2JROUI2akt6Z05LcEswY2VFYk9OaQ?oc=5",
           "desc": "",
           "title_en": "Jeju Yangdon Nonghyup Targets Global Healthy Jeju Pigs as' Clean K Food '",
           "title_ja": "済州ヤンドンノンヒュップ、「クリーンKフード」として世界の健康な済州豚をターゲットに",
           "title_zh": "济州Yangdon Nonghyup将全球健康济州猪作为“清洁K食品”"
+        },
+        {
+          "title": "\"알고보니 설탕 덩어리\"…의사가 경고한 음식 3가지 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwRTI5YllDN1dlaGlQcTJTWWNMRHhBZEVrREx5aDBnVE5SaTFaV0dMTnd4Tm04cDdqZXFXSmdLNjFYY2Naek5RWlFadmpXWHZ4UVBId0luR0tZQdIBVEFVX3lxTE9UVkZjYTdDc0Z1V0k5QzRRT2Z3dlhITDJPdUZvYVdfWFQ3dXV0YkJJZXdpcVRVS2w2N0tlbGozZ2ktNXljS2RILTlhU3RPN056LWhrTg?oc=5",
+          "desc": "",
+          "title_en": "“Turns out it's a lump of sugar” … 3 foods the doctor warned me about [Health! Talk]",
+          "title_ja": "「それは砂糖の塊であることが判明しました」…医者が私に警告した3つの食べ物[健康！トーク]",
+          "title_zh": "“原来这是一块糖” ……医生警告我的关于[健康！谈话]的3种食物"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "洪石川被任命为首尔国际美食电影节组委会大使"
         },
         {
-          "title": "푸드나무, 매도잔량 314% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zeFR2MFZNZkhVcWxpSE5rYkpkVEwyZDhkX2htejBibGN3NGp5MlFYbm9sWVl6MFNGaU00WjZDVDhtQWpNaGhQc0JmaXF1QUhmZjJr?oc=5",
-          "desc": "",
-          "title_en": "Food trees sell 314% more",
-          "title_ja": "食料の木の売り上げが314%増加",
-          "title_zh": "食用树销量提高314%"
-        },
-        {
           "title": "“아무거나 2만원에 맞춰줘” 주문해도…취향 딱 맞는 음식 추천",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IWGdBejlwYUVrWDczWV9hMHZycEp1U0k0ZFhQSlZ0QmtGbjNBbVgzcmtseUJEa0ZydzlQWDlVRW5NWS10UGlJWUwtNzlkdEwtcXfSAVNBVV95cUxNa0ZST0pRU0tkVFJoczhSbW5KWHFlczhsZ3dmdjhURmZiQUhQcHVYX0VMTW9oOU8ycGFZU1RNa0w2cGtiX0FmZGpSSEpoSllmR09OZw?oc=5",
           "desc": "",
           "title_en": "Even if you order “Please adjust anything to 20,000 won”... Recommend the perfect food for your taste",
           "title_ja": "「何でも20,000ウォンに調整してください」を注文しても...あなたの好みにぴったりの料理をお勧めします",
           "title_zh": "即使您订购「请将任何东西调整到20000韩元」……为您的口味推荐完美的食物"
+        },
+        {
+          "title": "신세계푸드, 2분기 영업익 129억 전년비 26% ↑",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15eGVIMUFibldJUEtHTGdLRXV0b1BMcVkyTEkzemZON0pTSjRnOGlrZFJBTUxUbkpoWTFFN3cxejVTdVJsRlp4ZkNIUFVmRnYzazM4?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Foods Operating Profit of 12.9 Billion YoY 26% Q2 ↑",
+          "title_ja": "新世界食品の営業利益は前年同期比129億円、第2四半期は26 ％ ↑",
+          "title_zh": "新世界食品第二季度营业利润同比增长129亿26% ↑"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "농식품부, '넥스트 K푸드' 프로젝트 가동…수출기업 145곳 선정",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MeXZXUWwzUDdqdWNlYktWNFllSnc0ZDdMSzVUNHl1LU80ZkhRLU03TmpXd3BhSUUxb0NhRHVOSGdSM1lOX3BTbTNxbzd4cVBhMlE?oc=5",
+          "desc": "",
+          "title_en": "Ministry of Agriculture and Food launches' Next K Food 'project… Selected as 145 export companies",
+          "title_ja": "農林水産省、「Next K Food」プロジェクトを開始…輸出企業145社に選定",
+          "title_zh": "农业和食品部启动“Next K Food”项目…入选145家出口公司"
+        },
         {
           "title": "\"멍플루언서 잡아라\"…펫푸드업계, SNS 마케팅 사활",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmZGxLMUFxTHl5YlkwSVZ1ZUx3aGJBbFJrS1A1OUdSNG1xR3U2RUwwUURKdkRab1RBdUttTDlXUVFyTXNlajR4cHN5Z212NDRWbHc?oc=5",
@@ -196,20 +204,12 @@
           "title_zh": "“赶上布鲁斯” …宠物食品行业、社交媒体营销活动"
         },
         {
-          "title": "日시장 두드리는 韓백화점 … 패션이어 푸드·뷰티 팝업도",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tQ0VETTZhXzhlcVI2NDhpQklRNm01TVdsdVlld2I2eXV1QnhocjlSSFEzX0F4QV9HNzVFcUJXdnZOZ3lVaVpMZW9haF9MU0UyTXF2UTJB?oc=5",
+          "title": "“AI가 추천하고 라이브로 먹는다”… 유통가, ‘푸드 테크’ 결합한 커머스 강화",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yM2Q5ZngzbTFOQWk1Ymk4Z1FpRjNabnUzdGJoeTR1RWNBcWl5U1VmeERfc0owMm5NU0ZXaVVMb0NKWXJuQ283M19faHd2M0NVbU9RM2t3?oc=5",
           "desc": "",
-          "title_en": "Kook Department Store knocking on the market… Fashion Ears Food and Beauty Pop-ups",
-          "title_ja": "Kookデパートが市場に出回っています…ファッション耳フード＆ビューティーポップアップ",
-          "title_zh": "Kook百货商店正在上市……时尚耳朵美食和美容弹出窗口"
-        },
-        {
-          "title": "농식품부·코트라, 우즈벡 식품전시회에 한국관…K푸드 수출지원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gb2JDS0lsTmY3b3JmazJFanM5NEY5alloUExYSWkwU3V2WnNVbEM2b1NrTnRZQ202NG5zOVI0c0FvTmtYME4zSlFCTy1nOWp2eFE?oc=5",
-          "desc": "",
-          "title_en": "Ministry of Agriculture and Food · KOTRA, Korean Pavilion to Uzbek Food Exhibition… K-Food Export Support",
-          "title_ja": "農林水産省・KOTRA、ウズベキスタン料理展韓国館… K - Food輸出支援",
-          "title_zh": "农业和食品部· KOTRA ，韩国馆到乌兹别克斯坦食品展… K-Food出口支持"
+          "title_en": "“AI recommended and eaten live” … Retailer strengthens commerce combined with ‘Food Tech’",
+          "title_ja": "「AIが推奨し、ライブで食べた」…小売業者は「フードテック」と組み合わせて商取引を強化",
+          "title_zh": "“人工智能推荐和现场直播” ……零售商加强与“食品技术”相结合的商业"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“延迟派送信封” …与Susie Lee一起开展Tudari活动"
         },
         {
-          "title": "주말 되면 치솟는 혈당, 이 습관이 문제입니다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wM24zN0EwRDRQMnNlMW1WSjlkZVJ6cElOaGJWUGJtYlZCZVZfckdEMXl5VTM2QkVDRmp3Y3o3MzBtYlI1Mm5nSHBuYmp3MnA1X3k4c0k5Yw?oc=5",
+          "title": "현대그린푸드 에이치키친 신규 코너…“자연닮은소반’ 만나세요”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnUmpWTndmWkpGRlJuN29haHctVGN5SV9zOVpEXzN4eEh4RXQ0aW5yNm41OWEwUmppTWxHd0FmdmxXQ2pHbmF4bThYUDB3cHZmamtnYVNOYw?oc=5",
           "desc": "",
-          "title_en": "Soaring blood glucose at the end of the week, this habit is a problem",
-          "title_ja": "週末に血糖値が急上昇する、この習慣は問題です",
-          "title_zh": "周末血糖飙升，这个习惯是个问题"
+          "title_en": "Hyundai Green Food H. Kitchen New Corner… “Meet the Nature-Like Class”",
+          "title_ja": "ヒュンダイグリーンフードH.キッチンの新しいコーナー…「自然のようなクラスに出会う」",
+          "title_zh": "现代绿色食品H.厨房新角落… “与大自然相遇”"
         }
       ]
     }
