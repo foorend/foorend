@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T03:47:26Z",
+  "lastUpdated": "2026-04-10T06:20:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "K푸드 기업들, 돈 몰리는 진짜 이유!",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NY2oxMnJ5TFhleF9RREFhNkk1R09GX2NGS2NWZTVuT2tHZUt2NjFjMG9KUzh5a3NobFUzeURMdDlmb1dxajg4?oc=5",
+          "desc": "",
+          "title_en": "K-Food Companies, the Real Reason to Drive Money!",
+          "title_ja": "K - Food Companies、お金を稼ぐ本当の理由！",
+          "title_zh": "K-Food公司，赚钱的真正原因！"
+        },
+        {
           "title": "\"학생들 푸드트럭서 아침 먹게\" 서울시, 초중고교 확대 허용",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4THJweFpwV3p4ZmV5bU5jYlZZeTZ2NXozQjZxZHI1bWJNYmZDcHc1VElVTU9KV2RGNFdTRkpZSE16Z1F4SUFhX0RpbWJWc1NZeFBj?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Food put ⚠️ in the freezer and regretted?! Check 7 things!",
           "title_ja": "⚠️ 冷凍庫に入れられて後悔している食べ物？ ！ 7つのことをチェック！",
           "title_zh": "食物放在⚠️冰箱里后悔了？ ！检查7件事！"
-        },
-        {
-          "title": "하노이 로컬 푸드.zip｜쌀국수 외에도 꼭 먹어야 할 4가지 음식",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGSTE4OFh2YndfQkc3aGs4WVlLdEt0eXFCdVhQQUMzR2lVMDhkeFhYdEptaHEwdEJhZEJMTVB3bFVaMG9mdVpZ?oc=5",
-          "desc": "",
-          "title_en": "Hanoi local food.zip ｜ 4 must-eat foods besides rice noodles",
-          "title_ja": "ハノイの郷土料理.zip ｜米麺以外に絶対食べたい4つの食べ物",
-          "title_zh": "河内当地美食.zip ｜除了米线，还有4种必吃美食"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
         },
         {
-          "title": "“아침 사진 올리면 영양 코멘트”…켈로그 ‘전지적 아침 참견 시점’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fM29JaWs3SVZrX01DdFBvaktzd3ZkcGpvazFIM003Zk1BT09VQ01QaTRSV3RmVzdSQnQ2aG5pazV4QmFweWJiV0VCOG1zT1k2OXNWdXFPTQ?oc=5",
-          "desc": "",
-          "title_en": "“Nutrition comment when morning photo is uploaded” … Kellogg ‘Point of omniscient morning intervention’",
-          "title_ja": "「朝の写真がアップロードされたときの栄養コメント」…ケロッグ「全知の朝の介入のポイント」",
-          "title_zh": "“上传晨间照片时的营养评论” ……家乐氏“无所不知的晨间干预要点”"
-        },
-        {
           "title": "호떡이 단백질 셰이크로…티젠 ‘요밀 씨앗호떡맛’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85VDRuSXFPQW5uV0VZc0xHN1dhamxpcjdoWWNVTTJFVHBUOFJJdlZaZE9FalFRdEhlNUNoaHE4d29zSFlkaFVVZHd3cFFlSlRIYVlPUjBTMA?oc=5",
           "desc": "",
           "title_en": "Ho-tteok is a protein shake... Tizen ‘Yomil Seed Ho-tteok Taste’",
           "title_ja": "Ho - tteokはプロテインシェイク… Tizen「Yomil Seed Ho - tteok Taste」",
           "title_zh": "Ho-tteok是一款蛋白质奶昔…… Tizen “Yomil Seed Ho-tteok Taste”"
+        },
+        {
+          "title": "현대그린푸드 에이치키친 신규 코너…“자연닮은소반’ 만나세요”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnUmpWTndmWkpGRlJuN29haHctVGN5SV9zOVpEXzN4eEh4RXQ0aW5yNm41OWEwUmppTWxHd0FmdmxXQ2pHbmF4bThYUDB3cHZmamtnYVNOYw?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food H. Kitchen New Corner… “Meet the Nature-Like Class”",
+          "title_ja": "ヒュンダイグリーンフードH.キッチンの新しいコーナー…「自然のようなクラスに出会う」",
+          "title_zh": "现代绿色食品H.厨房新角落… “与大自然相遇”"
         }
       ]
     }
