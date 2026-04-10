@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T11:37:08Z",
+  "lastUpdated": "2026-04-10T14:43:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,12 +136,12 @@
           "title_zh": "“喂养癌细胞” ……医生要求您从餐桌上取出的5种食物[健康！谈话]"
         },
         {
-          "title": "이번엔 K급식…삼성웰스토리, B2B 식음박람회 '2026 푸드페스타' 개최",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdWpYMzR5aHdaa094ZGlsdmNtdXAteEQ1d1k0MVljYlhqSENGVU04Y3BMR1A1TGdSeHBwQ1hQZ2xrc0h5T1BvczZhSFliUkxUcGN2aFVfQ1RCb2pWY1pSVHdBeFdxUnlTYnVRRERjdjJfbTVKTlN0NXNZVXZ5T2M?oc=5",
+          "title": "버거킹 중국 진출.. 패스트푸드경쟁 가열",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aY2dIT0RZN3Y3VjZJN20xeUJlTmd5eUhfWGZscjZpYzFJOHFuT2x3RUg1cVdBWlRaV3FMa3hyN09XUFJfdzBRSHlGX2FrcjBfY1pOSnZ0dXZ1a01jNmlyLVNuOGJFRjB6R0daNlRfeUdTeWY3Y3BjdG9NYWpqaDA?oc=5",
           "desc": "",
-          "title_en": "This time, K-feeding… Samsung Well Story hosts B2B Food & Beverage Fair '2026 Food Festa'",
-          "title_ja": "今回は、K - feeding… Samsung Well StoryがB 2 Bフード＆ドリンクフェア「2026フードフェスタ」を開催",
-          "title_zh": "这一次， K-feeding…三星Well Story举办B2B食品和饮料博览会'2026 Food Festa'"
+          "title_en": "Burger King enters China.. Heats up fast food competition",
+          "title_ja": "バーガーキングが中国に参入ファーストフードの競争が激化",
+          "title_zh": "汉堡王进入中国..加剧快餐竞争"
         },
         {
           "title": "이번엔 K급식…삼성웰스토리, B2B 식음박람회 '2026 푸드페스타' 개최",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "강원 춘천, 푸드테크 기업 쏘이마루 유치",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yRDJvYUZPZ2RwaXdNRXRzZjNaMl8xR1lUekMzWVNpMkFyM2dCbXVzTW45MXA4WFNBQTZCamhseGd3VWxuTlE?oc=5",
+          "desc": "",
+          "title_en": "Gangwon Chuncheon attracts Soimaru, a food tech company",
+          "title_ja": "江原春川がフードテック企業のソイマルを魅了",
+          "title_zh": "江原春川吸引了食品科技公司Soimaru"
+        },
+        {
           "title": "삼성웰스토리 푸드박람회 관람객 30% 증가",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoVDV0WEplSzRRTTBtY2pSVE5ydjBDTUg1TWs2WW9tQ2hwVmhlZ2JXcXI1UkRsMnB5cVhhYWhKaG5aOXppQnNUMjh5STBPZHk5QUhvVlRR?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Ministry of Agriculture and Food launches' Next K Food 'project… Selected as 145 export companies",
           "title_ja": "農林水産省、「Next K Food」プロジェクトを開始…輸出企業145社に選定",
           "title_zh": "农业和食品部启动“Next K Food”项目…入选145家出口公司"
-        },
-        {
-          "title": "\"멍플루언서 잡아라\"…펫푸드업계, SNS 마케팅 사활",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmZGxLMUFxTHl5YlkwSVZ1ZUx3aGJBbFJrS1A1OUdSNG1xR3U2RUwwUURKdkRab1RBdUttTDlXUVFyTXNlajR4cHN5Z212NDRWbHc?oc=5",
-          "desc": "",
-          "title_en": "\"Catch the Bruiser\" … Pet Food Industry, Social Media Marketing Activities",
-          "title_ja": "「キャッチ・ザ・ブルーザー」…ペットフード業界、ソーシャルメディアマーケティング活動",
-          "title_zh": "“赶上布鲁斯” …宠物食品行业、社交媒体营销活动"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "보랏빛 ‘우베’ 음료, 투썸플레이스에서 만난다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cHJGb1dscWlOa3I3bGZEeFBCRDhJalZVUGNkZmd4blNTcW9jd24wbkxhSzhNR1FXaUYxRnhzemtZY2ZnWlhONXBrT2FyQWl5SlFFOUJ5WQ?oc=5",
+          "desc": "",
+          "title_en": "Borat ‘Ube’ drinks meet at Twosome Place",
+          "title_ja": "Twosome PlaceでBorat ‘Ube’ドリンクを堪能しよう",
+          "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
+        },
         {
           "title": "“배달 봉투까지 연기”…이수지와 함께한 투다리 캠페인",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhbVpfUmltY2I3U2p6U1pjR0g3Vk55bDdBY2Q1amxUUnRtdlZ6SDExTnlvR05aQlpoeTZFWm5qNUdPY3NleTR0bW9YSkNfMnY5aHp4UlJpOA?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "Ho-tteok is a protein shake... Tizen ‘Yomil Seed Ho-tteok Taste’",
           "title_ja": "Ho - tteokはプロテインシェイク… Tizen「Yomil Seed Ho - tteok Taste」",
           "title_zh": "Ho-tteok是一款蛋白质奶昔…… Tizen “Yomil Seed Ho-tteok Taste”"
-        },
-        {
-          "title": "현대그린푸드 에이치키친 신규 코너…“자연닮은소반’ 만나세요”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnUmpWTndmWkpGRlJuN29haHctVGN5SV9zOVpEXzN4eEh4RXQ0aW5yNm41OWEwUmppTWxHd0FmdmxXQ2pHbmF4bThYUDB3cHZmamtnYVNOYw?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food H. Kitchen New Corner… “Meet the Nature-Like Class”",
-          "title_ja": "ヒュンダイグリーンフードH.キッチンの新しいコーナー…「自然のようなクラスに出会う」",
-          "title_zh": "现代绿色食品H.厨房新角落… “与大自然相遇”"
         }
       ]
     }
