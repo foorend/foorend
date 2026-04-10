@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-04-10T06:20:23Z",
+  "lastUpdated": "2026-04-10T11:37:08Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "A bankrupt Carl's Jr. franchisee blames its financial problems on California's $20 wage",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZuOTVRckc5YllwMFZrUUV3Vm1wS01MSExWOWJ1VTVlMEMxZnVLZ3Q2MU9FQ1I1cTFwRXN0YXVTMW5peE9qNkFVWXVrTm1HZkR5eVU3WTN6alhiY0l3RmhTWTRCR2xCcF9XRnNoNXJzRVozVi1oeTNvWk1ERXRXWmZLMmw2d1BEMkRwNGYtZTZRRUFNZWstMl85d211RnA5QWlaQ3VTU2M5TTIwNEQtVGozT3d2OUZqS3JTeUlLUU9oaEE?oc=5",
-          "desc": "",
-          "title_ko": "파산한 Carl's Jr. 프랜차이즈 가맹점은 캘리포니아의 $ 20 임금에 대한 재정적 문제를 비난합니다.",
-          "title_ja": "破産したカールズジュニアのフランチャイズ加盟店は、カリフォルニア州の$ 20の賃金に財政問題を非難しています",
-          "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
-        },
         {
           "title": "A big Carl's Jr. franchisee has filed for bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWI5b2NzMFhUcW40NV85OF8wSDJmOEJzMk5NbjA1c0trMmhFX1hmMVdFR1BBeXRlWDdlSmUxeTJmUWExX0NsZFZVSEdkTUVzdmN2LTNwa0hCaVRaZmhNNzBOclNfRFNXMHpjWHJPZUxTeHpyRHZlenh1ZldQSnJWLWNCUE5SU1RMQXp6V2hFVWJ1d1JiUGc?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "대형 Carl's Jr. 프랜차이즈 가맹점이 파산을 신청했습니다.",
           "title_ja": "Carl's Jr.の大手フランチャイズ加盟店が破産を申請しました",
           "title_zh": "一家大型Carl's Jr.特许经营商已申请破产"
+        },
+        {
+          "title": "A bankrupt Carl's Jr. franchisee blames its financial problems on California's $20 wage",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZuOTVRckc5YllwMFZrUUV3Vm1wS01MSExWOWJ1VTVlMEMxZnVLZ3Q2MU9FQ1I1cTFwRXN0YXVTMW5peE9qNkFVWXVrTm1HZkR5eVU3WTN6alhiY0l3RmhTWTRCR2xCcF9XRnNoNXJzRVozVi1oeTNvWk1ERXRXWmZLMmw2d1BEMkRwNGYtZTZRRUFNZWstMl85d211RnA5QWlaQ3VTU2M5TTIwNEQtVGozT3d2OUZqS3JTeUlLUU9oaEE?oc=5",
+          "desc": "",
+          "title_ko": "파산한 Carl's Jr. 프랜차이즈 가맹점은 캘리포니아의 $ 20 임금에 대한 재정적 문제를 비난합니다.",
+          "title_ja": "破産したカールズジュニアのフランチャイズ加盟店は、カリフォルニア州の$ 20の賃金に財政問題を非難しています",
+          "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
         },
         {
           "title": "Why consumers don’t think their restaurant visits are worth it",
@@ -137,19 +137,19 @@
         },
         {
           "title": "이번엔 K급식…삼성웰스토리, B2B 식음박람회 '2026 푸드페스타' 개최",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4c0d2U3FHSjZFaFBkcjlIenhCMjNEbnJJc1gwMGQ0Q2xxWEo5c0NPc0N4S05HNDFXeks2YWdpU0w2ZHBnNHNJWlZXVTQ1YlFCN3JVYzVuQ3A3Z9IBVEFVX3lxTE5OY3NZcmRReWJkTFNYa0QxV1F2ZmtGcmR1TnduU1FTQmxDbmJHMWhqdm1pN3B2SjhrZ2NVMWZoSm9FdV9uN0QyU3U2bzlKZU00QXFlZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdWpYMzR5aHdaa094ZGlsdmNtdXAteEQ1d1k0MVljYlhqSENGVU04Y3BMR1A1TGdSeHBwQ1hQZ2xrc0h5T1BvczZhSFliUkxUcGN2aFVfQ1RCb2pWY1pSVHdBeFdxUnlTYnVRRERjdjJfbTVKTlN0NXNZVXZ5T2M?oc=5",
           "desc": "",
           "title_en": "This time, K-feeding… Samsung Well Story hosts B2B Food & Beverage Fair '2026 Food Festa'",
           "title_ja": "今回は、K - feeding… Samsung Well StoryがB 2 Bフード＆ドリンクフェア「2026フードフェスタ」を開催",
           "title_zh": "这一次， K-feeding…三星Well Story举办B2B食品和饮料博览会'2026 Food Festa'"
         },
         {
-          "title": "\"알고보니 설탕 덩어리\"…의사가 경고한 음식 3가지 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwRTI5YllDN1dlaGlQcTJTWWNMRHhBZEVrREx5aDBnVE5SaTFaV0dMTnd4Tm04cDdqZXFXSmdLNjFYY2Naek5RWlFadmpXWHZ4UVBId0luR0tZQdIBVEFVX3lxTE9UVkZjYTdDc0Z1V0k5QzRRT2Z3dlhITDJPdUZvYVdfWFQ3dXV0YkJJZXdpcVRVS2w2N0tlbGozZ2ktNXljS2RILTlhU3RPN056LWhrTg?oc=5",
+          "title": "이번엔 K급식…삼성웰스토리, B2B 식음박람회 '2026 푸드페스타' 개최",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4c0d2U3FHSjZFaFBkcjlIenhCMjNEbnJJc1gwMGQ0Q2xxWEo5c0NPc0N4S05HNDFXeks2YWdpU0w2ZHBnNHNJWlZXVTQ1YlFCN3JVYzVuQ3A3Z9IBVEFVX3lxTE5OY3NZcmRReWJkTFNYa0QxV1F2ZmtGcmR1TnduU1FTQmxDbmJHMWhqdm1pN3B2SjhrZ2NVMWZoSm9FdV9uN0QyU3U2bzlKZU00QXFlZw?oc=5",
           "desc": "",
-          "title_en": "“Turns out it's a lump of sugar” … 3 foods the doctor warned me about [Health! Talk]",
-          "title_ja": "「それは砂糖の塊であることが判明しました」…医者が私に警告した3つの食べ物[健康！トーク]",
-          "title_zh": "“原来这是一块糖” ……医生警告我的关于[健康！谈话]的3种食物"
+          "title_en": "This time, K-feeding… Samsung Well Story hosts B2B Food & Beverage Fair '2026 Food Festa'",
+          "title_ja": "今回は、K - feeding… Samsung Well StoryがB 2 Bフード＆ドリンクフェア「2026フードフェスタ」を開催",
+          "title_zh": "这一次， K-feeding…三星Well Story举办B2B食品和饮料博览会'2026 Food Festa'"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "해외 길거리 음식, 식중독 피하는 법!",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtYnRYalhCMThScVdkTGZDUjFXVi1VV3RaU1BpRmJmVzhmU2tCZHlPZnpEamNpcm1YWU1DUFFtektOZDI0NGo4?oc=5",
+          "desc": "",
+          "title_en": "Overseas street food, how to avoid food poisoning!",
+          "title_ja": "海外のストリートフード、食中毒を回避する方法！",
+          "title_zh": "海外街头美食，如何避免食物中毒！"
+        },
         {
           "title": "K푸드 기업들, 돈 몰리는 진짜 이유!",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NY2oxMnJ5TFhleF9RREFhNkk1R09GX2NGS2NWZTVuT2tHZUt2NjFjMG9KUzh5a3NobFUzeURMdDlmb1dxajg4?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "\"Students Eat Breakfast in Food Truck\" Seoul to Expand K-12 School",
           "title_ja": "「学生はフードトラックで朝食を食べる」K -12学校を拡張するソウル",
           "title_zh": "“学生乘快餐车吃早餐”首尔扩建K-12学校"
-        },
-        {
-          "title": "⚠️ 냉동실에 넣었다가 후회한 음식?! 7가지 확인!",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1sb0MwVWl6VzUwR2VaMFlrSHl2VjlQczNFNjU0QXFZcjIwRjJzWFRzV1l0d3NSbkxmbXY2cUw4RFhPRlEtdkVz?oc=5",
-          "desc": "",
-          "title_en": "Food put ⚠️ in the freezer and regretted?! Check 7 things!",
-          "title_ja": "⚠️ 冷凍庫に入れられて後悔している食べ物？ ！ 7つのことをチェック！",
-          "title_zh": "食物放在⚠️冰箱里后悔了？ ！检查7件事！"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "농식품부, '넥스트 K푸드' 프로젝트 가동…수출기업 145곳 선정",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MeXZXUWwzUDdqdWNlYktWNFllSnc0ZDdMSzVUNHl1LU80ZkhRLU03TmpXd3BhSUUxb0NhRHVOSGdSM1lOX3BTbTNxbzd4cVBhMlE?oc=5",
-          "desc": "",
-          "title_en": "Ministry of Agriculture and Food launches' Next K Food 'project… Selected as 145 export companies",
-          "title_ja": "農林水産省、「Next K Food」プロジェクトを開始…輸出企業145社に選定",
-          "title_zh": "农业和食品部启动“Next K Food”项目…入选145家出口公司"
-        },
-        {
           "title": "삼성웰스토리 푸드박람회 관람객 30% 증가",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoVDV0WEplSzRRTTBtY2pSVE5ydjBDTUg1TWs2WW9tQ2hwVmhlZ2JXcXI1UkRsMnB5cVhhYWhKaG5aOXppQnNUMjh5STBPZHk5QUhvVlRR?oc=5",
           "desc": "",
           "title_en": "30% increase in visitors to Samsung Well Story Food Fair",
           "title_ja": "サムスンウェルストーリーフードフェアへの訪問者が30 ％増加",
           "title_zh": "三星Well Story美食博览会参观人数增加30%"
+        },
+        {
+          "title": "농식품부, '넥스트 K푸드' 프로젝트 가동…수출기업 145곳 선정",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MeXZXUWwzUDdqdWNlYktWNFllSnc0ZDdMSzVUNHl1LU80ZkhRLU03TmpXd3BhSUUxb0NhRHVOSGdSM1lOX3BTbTNxbzd4cVBhMlE?oc=5",
+          "desc": "",
+          "title_en": "Ministry of Agriculture and Food launches' Next K Food 'project… Selected as 145 export companies",
+          "title_ja": "農林水産省、「Next K Food」プロジェクトを開始…輸出企業145社に選定",
+          "title_zh": "农业和食品部启动“Next K Food”项目…入选145家出口公司"
         },
         {
           "title": "\"멍플루언서 잡아라\"…펫푸드업계, SNS 마케팅 사활",
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "보랏빛 ‘우베’ 음료, 투썸플레이스에서 만난다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cHJGb1dscWlOa3I3bGZEeFBCRDhJalZVUGNkZmd4blNTcW9jd24wbkxhSzhNR1FXaUYxRnhzemtZY2ZnWlhONXBrT2FyQWl5SlFFOUJ5WQ?oc=5",
+          "title": "“배달 봉투까지 연기”…이수지와 함께한 투다리 캠페인",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhbVpfUmltY2I3U2p6U1pjR0g3Vk55bDdBY2Q1amxUUnRtdlZ6SDExTnlvR05aQlpoeTZFWm5qNUdPY3NleTR0bW9YSkNfMnY5aHp4UlJpOA?oc=5",
           "desc": "",
-          "title_en": "Borat ‘Ube’ drinks meet at Twosome Place",
-          "title_ja": "Twosome PlaceでBorat ‘Ube’ドリンクを堪能しよう",
-          "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
+          "title_en": "“Delay the Delivery Envelope” … Tudari Campaign with Susie Lee",
+          "title_ja": "「配達用封筒を遅らせる」…スージー・リーとのTudariキャンペーン",
+          "title_zh": "“延迟派送信封” …与Susie Lee一起开展Tudari活动"
         },
         {
           "title": "호떡이 단백질 셰이크로…티젠 ‘요밀 씨앗호떡맛’",
