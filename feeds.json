@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T12:12:06Z",
+  "lastUpdated": "2026-04-13T18:54:07Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "Food",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
-          "desc": "",
-          "title_ko": "식료품비",
-          "title_ja": "食料",
-          "title_zh": "食物"
-        },
-        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
+        },
+        {
+          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
+          "desc": "",
+          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
+          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
+          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "월드옥타 세계대표자대회 성료…K-푸드 수출 전략 집중 논의",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52bzNCLWM0bkprYnBmN2VKZUg0UGFaSUJyLVNFRTA3TGk0RC02WFNFRnFUS096endkc3hZV2RYM0VLQS1KMXVfNkVJXzdRNFhzcDB6X01EMGpKUdIBVEFVX3lxTFBzak0zY0lBUmtGQWhOQVg3U2ZBSy0tV0gxRVNhQ3lRbzBudDVwYlR1R1BXclloaGFoQURERm5wNXlVYzFwSmNyX0VFenFPQ3Q5TTdrMQ?oc=5",
-          "desc": "",
-          "title_en": "World Octa World Representative Congress completion… K-Food export strategy focus discussion",
-          "title_ja": "世界OCTA世界代表会議完了… K - Food輸出戦略フォーカスディスカッション",
-          "title_zh": "世界八大世界代表大会圆满结束… K-Food出口战略焦点讨论"
-        },
-        {
           "title": "\"게장+감 같이 먹지 마세요\"…뷔페 '경고문' 붙은 이유 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvU0RnNmFvZWNHTl8wZzY5UXRDRms0a18xbUQzdlJMWm5kTWtHZkJtUFJSMk1mSWtVa2l6SkZIU0xQeGNqR05idjBYZGc0ZjRna0stV1M4V19kUdIBVEFVX3lxTE00VW5HaWlTVVF0NDZvVmFGSE5PU3NKWkZWVTVJbWE2ZTJBYzhhcWI1UGc3OTUzWDhmVXl2eS1KRlZmMVl5c08wMVl5dmR2WEhTUDJtTg?oc=5",
           "desc": "",
           "title_en": "\"Don't eat with crab + persimmon\" … The reason for the buffet 'warning letter' [Health! Talk]",
           "title_ja": "「カニ＋柿と一緒に食べてはいけない」…ビュッフェ「警告レター」の理由【健康！トーク】",
           "title_zh": "“不要和螃蟹+柿子一起吃” ……自助餐“警告信”的原因[健康！谈话]"
+        },
+        {
+          "title": "월드옥타 세계대표자대회 성료…K-푸드 수출 전략 집중 논의",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52bzNCLWM0bkprYnBmN2VKZUg0UGFaSUJyLVNFRTA3TGk0RC02WFNFRnFUS096endkc3hZV2RYM0VLQS1KMXVfNkVJXzdRNFhzcDB6X01EMGpKUdIBVEFVX3lxTFBzak0zY0lBUmtGQWhOQVg3U2ZBSy0tV0gxRVNhQ3lRbzBudDVwYlR1R1BXclloaGFoQURERm5wNXlVYzFwSmNyX0VFenFPQ3Q5TTdrMQ?oc=5",
+          "desc": "",
+          "title_en": "World Octa World Representative Congress completion… K-Food export strategy focus discussion",
+          "title_ja": "世界OCTA世界代表会議完了… K - Food輸出戦略フォーカスディスカッション",
+          "title_zh": "世界八大世界代表大会圆满结束… K-Food出口战略焦点讨论"
         },
         {
           "title": "\"이젠 돼지바빵\"…롯데웰푸드, '돼지바 유니버스' 확장 나서",
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "에쓰오일, 청년 푸드트럭 유류비 1억 2000만 원 후원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTVkxBZ043dU4tOHRNS2NkcHVrWUxBbEtXQXRrTnc5dmdSSjEyQWVySmUzLW5BY3JLaDdJWjZFWVhNenY4NEZlY0ZqZkVjN1Q2a2fSAVNBVV95cUxQdkhxLUZFVmU1Mkg5eHVkS3R5RU95bG0wZE5xbUlDSnRWZFBmWHM5VkhSemxLaU82TksxaWV1Q3pJcXhGRF9lOU43RE9Yd0tsNnhvQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2SHEtRkVWZTUySDl4dWRLdHlFT3lsbTBkTnFtSUNKdFZkUGZYczlWSFJ6bEtpTzZOSzFpZXVDeklxeEZEX2U5TjdET1h3S2w2eG9B0gFTQVVfeXFMUHZIcS1GRVZlNTJIOXh1ZEt0eUVPeWxtMGROcW1JQ0p0VmRQZlhzOVZIUnpsS2lPNk5LMWlldUN6SXF4RkRfZTlON0RPWHdLbDZ4b0E?oc=5",
           "desc": "",
           "title_en": "S-Oil donates KRW 120 million for fuel for youth food trucks",
           "title_ja": "S - Oil、若者のフードトラックの燃料に1億2000万ウォンを寄付",
@@ -226,20 +226,20 @@
           "title_zh": "日本发展小型超市"
         },
         {
-          "title": "보랏빛 ‘우베’ 음료, 투썸플레이스에서 만난다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cHJGb1dscWlOa3I3bGZEeFBCRDhJalZVUGNkZmd4blNTcW9jd24wbkxhSzhNR1FXaUYxRnhzemtZY2ZnWlhONXBrT2FyQWl5SlFFOUJ5WQ?oc=5",
-          "desc": "",
-          "title_en": "Borat ‘Ube’ drinks meet at Twosome Place",
-          "title_ja": "Twosome PlaceでBorat ‘Ube’ドリンクを堪能しよう",
-          "title_zh": "在Twosome Place品尝Borat ‘Ube’饮料"
-        },
-        {
           "title": "중미 최대 프랜차이즈 시장으로 성장한 과테말라",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ydWJGVmwzN3ZDenNYMjZLa2NsdDFZOXctTlhkQzJaa0VGNkYyYXVORVIzdDJvSHNzSVE1SzQxTGRDaTNGVXpQOG9qcDdBbkRtbjVub29mRQ?oc=5",
           "desc": "",
           "title_en": "Guatemala grows into the largest franchise market in Central America",
           "title_ja": "グアテマラが中央アメリカ最大のフランチャイズ市場に成長",
           "title_zh": "危地马拉成长为中美洲最大的特许经营市场"
+        },
+        {
+          "title": "“배달 봉투까지 연기”…이수지와 함께한 투다리 캠페인",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhbVpfUmltY2I3U2p6U1pjR0g3Vk55bDdBY2Q1amxUUnRtdlZ6SDExTnlvR05aQlpoeTZFWm5qNUdPY3NleTR0bW9YSkNfMnY5aHp4UlJpOA?oc=5",
+          "desc": "",
+          "title_en": "“Delay the Delivery Envelope” … Tudari Campaign with Susie Lee",
+          "title_ja": "「配達用封筒を遅らせる」…スージー・リーとのTudariキャンペーン",
+          "title_zh": "“延迟派送信封” …与Susie Lee一起开展Tudari活动"
         }
       ]
     }
