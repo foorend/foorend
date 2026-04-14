@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-04-14T12:08:39Z",
+  "lastUpdated": "2026-04-14T18:48:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "A bankrupt Carl's Jr. franchisee blames its financial problems on California's $20 wage",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZuOTVRckc5YllwMFZrUUV3Vm1wS01MSExWOWJ1VTVlMEMxZnVLZ3Q2MU9FQ1I1cTFwRXN0YXVTMW5peE9qNkFVWXVrTm1HZkR5eVU3WTN6alhiY0l3RmhTWTRCR2xCcF9XRnNoNXJzRVozVi1oeTNvWk1ERXRXWmZLMmw2d1BEMkRwNGYtZTZRRUFNZWstMl85d211RnA5QWlaQ3VTU2M5TTIwNEQtVGozT3d2OUZqS3JTeUlLUU9oaEE?oc=5",
+          "desc": "",
+          "title_ko": "파산한 Carl's Jr. 프랜차이즈 가맹점은 캘리포니아의 $ 20 임금에 대한 재정적 문제를 비난합니다.",
+          "title_ja": "破産したカールズジュニアのフランチャイズ加盟店は、カリフォルニア州の$ 20の賃金に財政問題を非難しています",
+          "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
+        },
         {
           "title": "A Farmer Boys franchisee declares bankruptcy and blames cash advance financing",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjFwemRNeVBGUEdiTVB2RG53T3FZVHRBQlVFanprNVBYdUFXdzFWOU1WcjFlUzhsTzBqLVdFeTRFR0hsNXNGZUpyQ1RKLUN1UDQtRDFUdE91dmlmMGZLeW14RDNTUE5SdHFwdHdPLTU2WVZUR0ZBSUpzWWFwRXdXTmdhUVNFZTQxNGdXSm16bkkzRmtCOW15V2cxTWk4d1hCaDJRendseC1uR2lPdmRDUHFMb0pRNXd5TVpn?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "대형 Carl's Jr. 프랜차이즈 가맹점이 파산을 신청했습니다.",
           "title_ja": "Carl's Jr.の大手フランチャイズ加盟店が破産を申請しました",
           "title_zh": "一家大型Carl's Jr.特许经营商已申请破产"
-        },
-        {
-          "title": "Another franchisee files for bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTC1vWXY0MFR4aEVpREFlYzN6cWFWWUlidTN1Smp1clhHelB5TDlVc2pzTjNVbWhrVDVESEFhb1FOc1NGTlRCT0VwSUcwN01Rb2RrX045aWt0ZE9rcVV6LURlY01PVTdmTWJ3X084Rl9yRDN6M0I2Rl9fcC1NRnJNdEFVdjBiTHZxdkE?oc=5",
-          "desc": "",
-          "title_ko": "다른 프랜차이즈 가맹점의 파산 신청",
-          "title_ja": "別のフランチャイズ加盟店が破産を申請",
-          "title_zh": "另一位加盟商申请破产"
         }
       ]
     },
