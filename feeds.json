@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T06:21:04Z",
+  "lastUpdated": "2026-04-15T12:05:24Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "롯데삼강 “롯데푸드로 새 출발”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkaTBOdHZOVHN4YlVLM0RVRW1HLVhXb1UwVjRuZVNMcnpKQjdwcWJMUWI0UThyTk1jZl9OU1NKYWxlbTZZbmx6aFI1Zl9hWWVVR2c?oc=5",
+          "desc": "",
+          "title_en": "Lotte Samgang “A Fresh Start for Lotte Food”",
+          "title_ja": "ロッテサムガン「ロッテフードの新たなスタート」",
+          "title_zh": "乐天Samgang “乐天美食的新起点”"
+        },
+        {
           "title": "롯데웰푸드, 챗GPT에 전용 앱 출시 “AI 커머스 진출”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOFI1MGZrUDVVZzltNlhSWXNyYjdEYlNxRENRQk9jMGo4NmhoUWFGNWE4UmM4Z1M3XzI0Wl80VDQ5TjV5Njk2NDdBcEZnMnZkaGfSAVNBVV95cUxNaWphV2kyUHJ6UWhSUDBMTEp2Yzd4MmZUc1pUcDVGaTNtUk8tUzE2STIwUHM2Y1ZXQ01FSjAxN2tMWWc1dG4wYUo4ZVdhR0pnUDJ4aw?oc=5",
           "desc": "",
@@ -166,20 +174,12 @@
           "title_zh": "乐天Well Food在ChatGPT上推出专用应用程序“Goes AI Commerce”"
         },
         {
-          "title": "쿠팡이츠, 4월부터 포장 수수료 ‘유료’…음식값의 6.8% 부과",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xRTZ0b0tjLVh5WFdCdElIM1I4MVlsZVFreWVvMzgzcmlseTVad3BaQW1VVDBtWE5EYXIwV2FOMVpWeEVpdV9mTF9rN3pZY2FhaGfSAVNBVV95cUxQc1lZWWRJWkFCTTVJMk9jWXEwbkpTUDhSVXpHY0ltWWk4Ymc4NHJnTFA2OHJlMUZyM0VTa3hVaTZJTVFWZzNNelhPYWEtVzZWaXhFTQ?oc=5",
+          "title": "에쓰오일, 청년 푸드트럭 유류비 1억 2000만 원 후원",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTVkxBZ043dU4tOHRNS2NkcHVrWUxBbEtXQXRrTnc5dmdSSjEyQWVySmUzLW5BY3JLaDdJWjZFWVhNenY4NEZlY0ZqZkVjN1Q2a2fSAVNBVV95cUxQdkhxLUZFVmU1Mkg5eHVkS3R5RU95bG0wZE5xbUlDSnRWZFBmWHM5VkhSemxLaU82TksxaWV1Q3pJcXhGRF9lOU43RE9Yd0tsNnhvQQ?oc=5",
           "desc": "",
-          "title_en": "Coupangites to charge ‘paid‘ packaging fee from April… 6.8% of food value",
-          "title_ja": "4月から「有料」パッケージ料金を請求するCoupangites…食品価格の6.8 ％",
-          "title_zh": "从4月起， Coupangites将收取“已支付”的包装费……食品价值的6.8%"
-        },
-        {
-          "title": "CJ씨푸드, 3.20% 오르며 체결강도 강세 지속(223%)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qS0xRZFFVdjJLV1pYNzdsa0xuR2s0aERKM19DSVNGc3BDMFAwdVJBYktKbndxZG94U2ttY1paZjUxRm80UDdhMjFfcmcySE5SZWtn?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood continues strong in fastening strength with a rise of 3.20% (223%)",
-          "title_ja": "CJシーフードは3.20 ％ （ 223 ％ ）の上昇で引き続き強固な締結強度を維持",
-          "title_zh": "CJ Seafood的紧固强度持续强劲，增长了3.20% （ 223% ）"
+          "title_en": "S-Oil donates KRW 120 million for fuel for youth food trucks",
+          "title_ja": "S - Oil、若者のフードトラックの燃料に1億2000万ウォンを寄付",
+          "title_zh": "S-Oil捐赠1.2亿韩元用于青年食品卡车的燃料"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Wingip Food Holdings Group ， 2025财年销售额1922亿韩元，营业利润大幅下降37.9%"
         },
         {
+          "title": "윙입푸드홀딩스, 영업이익 37.9% 급감…수익성 악화에 투자자 이탈",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbWl5bnRTVV9LTy1ZY3B3ckxscjZUME9DaDNrbmxBS25DSjI1N3pQNFNZXzdXNUI0ZnJVRHY1ZldEVVMzTDMwTGk1LWdONWM5UlE?oc=5",
+          "desc": "",
+          "title_en": "Wing Yip Food Holdings' operating profit fell sharply by 37.9% … Investors churned due to worsening profitability",
+          "title_ja": "ウィンイップフードホールディングスの営業利益は37.9 ％大幅減益…収益性の悪化により投資家を解約",
+          "title_zh": "永利的营业利润大幅下降37.9% ……投资者因盈利能力恶化而流失"
+        },
+        {
           "title": "“챗GPT 안에서 과자 산다”…롯데웰푸드, AI 커머스 실험 본격화",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSRWJHeWlNTUNER3BReDRSTTQySElhQ2xacEgzZTMyQXpwNm9PbHlmZjdvSmV6dGZsZHpCOXAwbEFPdzZneTAtX3V3YkNOSWU3dUtlMV9R?oc=5",
           "desc": "",
           "title_en": "“Buy cookies in ChatGPT” … Lotte Well Food intensifies AI commerce experiment",
           "title_ja": "「ChatGPTでクッキーを購入」…ロッテウェルフードがAIコマース実験を強化",
           "title_zh": "“在ChatGPT中购买cookie” ……乐天健康食品加强了人工智能商务实验"
-        },
-        {
-          "title": "골고루 먹는 게 오히려 독?…한 음식만 계속 먹었더니 다이어트 ‘효과’",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZSzdiRldsLXVNSDZ4M0dpSjRFcWVPSHBORFhCU3ZMMl9mb2pjUDZpNE5idVd0WlU2MWNCVmF4ODZIeG1FNmNGaHBFWXhEUQ?oc=5",
-          "desc": "",
-          "title_en": "Rather poisonous to eat evenly? … I continued to eat only one food, and the diet ‘worked’",
-          "title_ja": "均等に食べるのはかなり有毒ですか？ …私は1つの食べ物だけを食べ続け、ダイエットは「うまくいった」",
-          "title_zh": "吃均匀比较有毒？ ……我继续只吃一种食物，节食“奏效”了"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "티젠 “2030 여성, 야구장에서도 가볍게 콤부차·젠하이”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BVTlTSzB0ZFJFckQza1ZDV2pxV2VVWk9vNzI0RTVmWVJrVGlpX1RObVdZbGZxdUJScVR2OTl6ZzFFQmJEVUtRUjBBMU8xSGZNSWxXRzRISQ?oc=5",
-          "desc": "",
-          "title_en": "Tizen “2030 Women, Kombucha and Zenhai Lightly at the Baseball Stadium”",
-          "title_ja": "TIZEN「2030 Women, Kombucha and Zenhai Lightly at the Baseball Stadium」",
-          "title_zh": "Tizen “2030年女性，康普茶和善海轻松在棒球场”"
-        },
         {
           "title": "일본, 소형 슈퍼마켓 늘어난다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1md2RzWVRid3JyV043Ui16MTI2ZnM0cEZ5RENDal9UZnl3UERsemptMXhLMm1pdTRrcG9QcFpDampEN2V6dng4VWpnLTZ0OVBMODFHTkszZw?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Samsung Well Story Collaborates with ’Chef Fudukjuk' … Opening Special Lecture",
           "title_ja": "Samsung Well Storyが「Chef Fudukjuk」とコラボ…スペシャルレクチャーを開始",
           "title_zh": "三星Well Story与“大厨Fudukjuk”合作……开启特别讲座"
+        },
+        {
+          "title": "주말 되면 치솟는 혈당, 이 습관이 문제입니다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wM24zN0EwRDRQMnNlMW1WSjlkZVJ6cElOaGJWUGJtYlZCZVZfckdEMXl5VTM2QkVDRmp3Y3o3MzBtYlI1Mm5nSHBuYmp3MnA1X3k4c0k5Yw?oc=5",
+          "desc": "",
+          "title_en": "Soaring blood glucose at the end of the week, this habit is a problem",
+          "title_ja": "週末に血糖値が急上昇する、この習慣は問題です",
+          "title_zh": "周末血糖飙升，这个习惯是个问题"
         }
       ]
     }
