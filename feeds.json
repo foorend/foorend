@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T18:49:43Z",
+  "lastUpdated": "2026-04-15T23:28:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Farmer Boys特许经营商宣布破产并指责现金预支融资"
         },
         {
-          "title": "7-Eleven's IPO is delayed until next year",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGNUbzVrRlhNbXVzVy13Qk1VMTNJU09XcjFVQldWTVZrODB6ajY4dHE3dEtrVTk3WVBUS01EZEFleHNEMWE4V0lka3NkQUt6V0U5Q1hTa0NwQVR1Mk85VEREM2pVZVJvek5LTDBXbXowUzNPZ0pkME5PdjU3bmhoWDlueU44ZXdQU0dpbg?oc=5",
+          "title": "Bojangles continues to lean into snacking with launch of Bo's Chicken Rippers",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1prckNIeEFWY1puWlBzeGNPeUFYNkZ6WklnbHRSeHlrbnU1RGczYTlGNTI5a2YtY1pGRGZJVTM4QjV3RVFEQm5lSmJtLUR0N0xnTmk4STdWNW9pWXpQXzEteFpnYl8tZ19UMzByQzYzSW9tOG1nX0kxQnJobWIxellqc0JoRzFPSjc0dW13ck9ZZV9jM3FKVzIzdVA0VlA4RGVuZg?oc=5",
           "desc": "",
-          "title_ko": "세븐일레븐의 IPO는 내년으로 연기된다.",
-          "title_ja": "セブンイレブンのIPOは来年に延期",
-          "title_zh": "7-Eleven的IPO推迟到明年"
+          "title_ko": "Bojangles는 Bo's Chicken Rippers를 출시하면서 계속해서 스낵에 기대고 있습니다.",
+          "title_ja": "Bo's Chicken Rippersの発売により、Bojanglesはスナックに傾き続けています",
+          "title_zh": "Bojangles继续倾向于零食，推出了Bo's Chicken Rippers"
         }
       ]
     },
@@ -35,6 +35,14 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
+        {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The 38 Best Restaurants in Lisbon, Portugal, According to a Local Expert",
+          "link": "https://www.eater.com/maps/best-lisbon-portugal-restaurants",
+          "desc": "A food-loving visitor will quickly learn that sardines, cod, and the iconic pastel de nata are great, but the Lisbon restaurant scene can offer much m",
+          "title_ko": "현지 전문가가 선정한 포르투갈 리스본 최고의 레스토랑 38곳",
+          "title_ja": "現地エキスパートによるポルトガル、リスボンの人気レストラン38選",
+          "title_zh": "当地达人评选的葡萄牙里斯本38家最佳餐厅"
+        },
+        {
+          "title": "The 38 Best Restaurants in Mexico City, According to a Local Culinary Guide",
+          "link": "https://www.eater.com/maps/best-mexico-city-restaurants-38",
+          "desc": "The largest city in North America, Mexico City is a unique, elastic, ever-changing patchwork of food traditions. As a native of the city and a food wr",
+          "title_ko": "현지 요리 가이드가 선정한 멕시코시티 최고의 레스토랑 38곳",
+          "title_ja": "地元の料理ガイドが選ぶメキシコシティの人気レストラン38選",
+          "title_zh": "当地烹饪向导推荐的墨西哥城38家最佳餐厅"
+        },
+        {
           "title": "Breakfast Burritos, Galbi Patty Melts, and More Dishes Chef Nyesha Arrington Tried in San Francisco",
           "link": "https://www.eater.com/dining-out/953692/plw-x-visit-ca-ep1-san-francisco",
           "desc": "In this episode of Plateworthy, host Nyesha Arrington makes her way through some of the best bites in San Francisco. First stop on the eating tour: Br",
           "title_ko": "샌프란시스코에서 즐기는 아침 식사 - 부리토, 갈비 패티 멜트 등, 셰프 Nyesha Arrington",
           "title_ja": "ブレックファーストブリトー、ガルビパティ、その他の料理シェフNyesha Arringtonによるサンフランシスコでの体験",
           "title_zh": "在旧金山品尝大厨Nyesha Arrington制作的墨西哥卷饼、Galbi Patty融化美食和其他美味佳肴"
-        },
-        {
-          "title": "The Michelin Guide Is Heading to More of the Midwest",
-          "link": "https://www.eater.com/dining-out/954223/michelin-guide-expanding-to-great-lakes-detroit-pittsburgh-minneapolis",
-          "desc": "The Michelin Guide announced today that it will be releasing a Great Lakes edition, which will cover Cleveland, Detroit, Indianapolis, Milwaukee, Minn",
-          "title_ko": "미쉐린 가이드가 중서부 더 많은 지역으로 안내합니다",
-          "title_ja": "ミシュランガイドは中西部のより多くの地域に向かっています",
-          "title_zh": "《米其林指南》正走向中西部更多地区"
-        },
-        {
-          "title": "Let Gimbap Reintroduce Itself",
-          "link": "https://www.eater.com/trends/953869/gimbap-kimbap-korean-dish-explained",
-          "desc": "On a personal level, gimbap came first for chef Jihan Lee, with his mom’s gimbap setting the standard. On a professional level, though, gimbap took a ",
-          "title_ko": "김밥을 직접 재도입해 보세요",
-          "title_ja": "Gimbapに自己紹介させよう",
-          "title_zh": "让Gimbap重新自我介绍"
         }
       ]
     }
@@ -127,14 +127,6 @@
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
       "items": [
-        {
-          "title": "\"이젠 매일 먹는 디저트\"…신세계푸드, 1만원 이하 '떠먹는 케이크' 확대",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GRGhOT3NBbERsN2ZaT3NVQnA5TVhDeG1jTFhfMnV0QWl2UThpMS00OXVBUGlfU2JUaXZrWms5Ynd6NGZCbDRBSVg3THlsOEppQ1Z1ZVU2d0JXdE1tRFp1akNyRmZJemxmcmZuZFJYNHJoZWJlUFJWbW00T19BUUE?oc=5",
-          "desc": "",
-          "title_en": "\"Dessert Now Everyday\" … Shinsegae Food Expands' Eating Cake 'Below 10,000 KRW",
-          "title_ja": "「Dessert Now Everyday」…新世界フードが「Eating Cake」を10,000ウォン以下に拡大",
-          "title_zh": "“Dessert Now Everyday” … Shinsegae Food扩展了10,000韩元以下的“Eating Cake”"
-        },
         {
           "title": "\"음식 중독성, 담배와 같아…일상 속 활동량 늘려야\"",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LX0kxYzFTeGtSWkJjOXdOQWlWNHhHM2ZqLXowR3hDQlR6TUtYZFprMkxVRHBvNy00NE5OTlJTcG9fUTZjNXBmbVZKaC1QbGl6UjJ3Q2RpWi13Z9IBVEFVX3lxTE1BSWZVYzBEUFZPLTB4SlFUVVU0OEt1Mm1zWjNMTkI2NU02SnBVQ2JFSDlNSWtUMHBCMGxHT0lMSVNOTlZiRmRSVVVtUXVpWWJGcGg4VA?oc=5",
@@ -150,6 +142,14 @@
           "title_en": "World Octa World Representative Congress completion… K-Food export strategy focus discussion",
           "title_ja": "世界OCTA世界代表会議完了… K - Food輸出戦略フォーカスディスカッション",
           "title_zh": "世界八大世界代表大会圆满结束… K-Food出口战略焦点讨论"
+        },
+        {
+          "title": "S-OIL, 청년 푸드트럭 유류비 1억 2천만원 후원",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xTFUxYXZJd2F3cS14S0dKQk5OYjBPU0NjeDdlNFFCQW5PREozS3ZWZEVPWm1OVWF3eldON3U2Z1F6N1JCTzFzaUZVVHAxUk91bzdNZ1FDc3pTQdIBVEFVX3lxTE05VUdKYnJVMkE5OVRzR01FVUFvMXZZUG9CZy00N0dUalNkbHpEamQwdlV2cVNSSy1fWkhLN21mdG85RDVhVk10c3Fka3ppVm03cFIwdQ?oc=5",
+          "desc": "",
+          "title_en": "S-OIL donates 120 million won for fuel for youth food trucks",
+          "title_ja": "S - OIL、若者向けフードトラックの燃料として1億2000万ウォンを寄付",
+          "title_zh": "S-OIL捐赠1.2亿韩元用于青年食品卡车的燃料"
         }
       ]
     },
@@ -157,14 +157,6 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
-        {
-          "title": "야쿠르트, 브이푸드 키즈 멀티비타민 미네랄",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZTNZTDJmN056ZWtKbjNpNnRVWkY5ODRhYnNuUEMtRjdrUmxIQUVuRVcwRkY5OHo5Z0tPVnNvZnFabVB0bVBKd3B3NkVkcU1UaVNR0gFTQVVfeXFMTThlM1lMMmY3Tnpla0puM2k2dFVaRjk4NGFic25QQy1GN2tSbEhBRW5FVzBGRjk4ejlnS09Wc29mcVptUHRtUEp3cHc2RWRxTVRpU1E?oc=5",
-          "desc": "",
-          "title_en": "Yakult, V-Food Kids Multivitamin Mineral",
-          "title_ja": "Yakult、V - Foodキッズマルチビタミンミネラル",
-          "title_zh": "Yakult ， V-Food儿童多种维生素矿物质"
-        },
         {
           "title": "잠실야구장 16개 음식매장 추가 입점",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnMEZWVzVPeWJhY3VzODRtajFKUFdqVk5lWmlPXzlSQUEwOUpqN0JFTllTN3ZXeFpETFVpeFZKTWdkWEdWSlEycVlfa3Y5RjlBTVE?oc=5",
@@ -180,6 +172,14 @@
           "title_en": "Lotte Well Food Launches Dedicated App on ChatGPT “Goes AI Commerce”",
           "title_ja": "ロッテウェルフード、ChatGPTで専用アプリ「Goes AI Commerce」をリリース",
           "title_zh": "乐天Well Food在ChatGPT上推出专用应用程序“Goes AI Commerce”"
+        },
+        {
+          "title": "롯데삼강 “롯데푸드로 새 출발”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkaTBOdHZOVHN4YlVLM0RVRW1HLVhXb1UwVjRuZVNMcnpKQjdwcWJMUWI0UThyTk1jZl9OU1NKYWxlbTZZbmx6aFI1Zl9hWWVVR2c?oc=5",
+          "desc": "",
+          "title_en": "Lotte Samgang “A Fresh Start for Lotte Food”",
+          "title_ja": "ロッテサムガン「ロッテフードの新たなスタート」",
+          "title_zh": "乐天Samgang “乐天美食的新起点”"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "피너클 푸드 그룹, 메탄올 무배제 피키아 발효법으로 인간 락토페린 생산 성공",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RRG1PUE1xTmhTajIxNzZqSU9weTZuNVBFdTdkVmpBV3ZqdGRKWXdMOXItTzdNVEpzak5CSTA5T09HeFBGY1ZjMGRmNzJ3OWlvY2c?oc=5",
+          "desc": "",
+          "title_en": "Pinnacle Foods Group Successfully Produces Human Lactoferrin with Methanol-Free Pikia Fermentation",
+          "title_ja": "ピナクルフーズグループ、メタノールフリーのピキア発酵によるヒトラクトフェリンの生産に成功",
+          "title_zh": "Pinnacle Foods Group使用不含甲醇的Pikia发酵技术成功生产人乳铁蛋白"
+        },
         {
           "title": "윙입푸드홀딩스 그룹, 2025 회계연도 매출 1,922억원..영업이익 37.9% 급감",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mT3g5ZjFBeUpiV0FLRWZ3b2VrdklQemtHckRpb2o5STNMbjJIc1RodmZsUUxYVE9acFZsV0FoV1NSeUdNRTRHR0V1WVVCd0Q3Y2c?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Wing Yip Food Holdings' operating profit fell sharply by 37.9% … Investors churned due to worsening profitability",
           "title_ja": "ウィンイップフードホールディングスの営業利益は37.9 ％大幅減益…収益性の悪化により投資家を解約",
           "title_zh": "永利的营业利润大幅下降37.9% ……投资者因盈利能力恶化而流失"
-        },
-        {
-          "title": "“챗GPT 안에서 과자 산다”…롯데웰푸드, AI 커머스 실험 본격화",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSRWJHeWlNTUNER3BReDRSTTQySElhQ2xacEgzZTMyQXpwNm9PbHlmZjdvSmV6dGZsZHpCOXAwbEFPdzZneTAtX3V3YkNOSWU3dUtlMV9R?oc=5",
-          "desc": "",
-          "title_en": "“Buy cookies in ChatGPT” … Lotte Well Food intensifies AI commerce experiment",
-          "title_ja": "「ChatGPTでクッキーを購入」…ロッテウェルフードがAIコマース実験を強化",
-          "title_zh": "“在ChatGPT中购买cookie” ……乐天健康食品加强了人工智能商务实验"
         }
       ]
     },
