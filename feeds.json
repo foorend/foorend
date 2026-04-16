@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T23:28:45Z",
+  "lastUpdated": "2026-04-16T12:10:47Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
         },
         {
+          "title": "Restaurant Business Magazine - Trends, Ideas and News",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
+          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
+          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
+        },
+        {
           "title": "A Farmer Boys franchisee declares bankruptcy and blames cash advance financing",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjFwemRNeVBGUEdiTVB2RG53T3FZVHRBQlVFanprNVBYdUFXdzFWOU1WcjFlUzhsTzBqLVdFeTRFR0hsNXNGZUpyQ1RKLUN1UDQtRDFUdE91dmlmMGZLeW14RDNTUE5SdHFwdHdPLTU2WVZUR0ZBSUpzWWFwRXdXTmdhUVNFZTQxNGdXSm16bkkzRmtCOW15V2cxTWk4d1hCaDJRendseC1uR2lPdmRDUHFMb0pRNXd5TVpn?oc=5",
           "desc": "",
           "title_ko": "Farmer Boys 프랜차이즈 가맹점은 파산을 선언하고 현금 선지급 자금 조달을 비난합니다.",
           "title_ja": "ファーマーボーイズのフランチャイズ加盟店が破産を宣言し、キャッシュアドバンスファイナンスを非難",
           "title_zh": "Farmer Boys特许经营商宣布破产并指责现金预支融资"
-        },
-        {
-          "title": "Bojangles continues to lean into snacking with launch of Bo's Chicken Rippers",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1prckNIeEFWY1puWlBzeGNPeUFYNkZ6WklnbHRSeHlrbnU1RGczYTlGNTI5a2YtY1pGRGZJVTM4QjV3RVFEQm5lSmJtLUR0N0xnTmk4STdWNW9pWXpQXzEteFpnYl8tZ19UMzByQzYzSW9tOG1nX0kxQnJobWIxellqc0JoRzFPSjc0dW13ck9ZZV9jM3FKVzIzdVA0VlA4RGVuZg?oc=5",
-          "desc": "",
-          "title_ko": "Bojangles는 Bo's Chicken Rippers를 출시하면서 계속해서 스낵에 기대고 있습니다.",
-          "title_ja": "Bo's Chicken Rippersの発売により、Bojanglesはスナックに傾き続けています",
-          "title_zh": "Bojangles继续倾向于零食，推出了Bo's Chicken Rippers"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "슈퍼포우, 미군 교환소 AAFES 입점...K-펫푸드 해외 진출 확대",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82cEh2NWZXWE5mdl9RVEtsVHFJSmk2cmtPcERWci02TWM4WXdteXZ0WURJVTRyWXoxbEptakVTMVRjSncydWpkQUtxZURBRW02N2YtYjktNzFYaURCblFVLWNSdmdfYlhG?oc=5",
+          "desc": "",
+          "title_en": "Superpow Launches AAFES at US Military Exchange... Expands Overseas Expansion of K-Pet Foods",
+          "title_ja": "Superpow、米軍取引所でAAFESを開始... K - Pet Foodsの海外展開を拡大",
+          "title_zh": "Superpow在美国军事交易所推出AAFES...扩大K-Pet Foods的海外扩张"
+        },
+        {
           "title": "\"음식 중독성, 담배와 같아…일상 속 활동량 늘려야\"",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LX0kxYzFTeGtSWkJjOXdOQWlWNHhHM2ZqLXowR3hDQlR6TUtYZFprMkxVRHBvNy00NE5OTlJTcG9fUTZjNXBmbVZKaC1QbGl6UjJ3Q2RpWi13Z9IBVEFVX3lxTE1BSWZVYzBEUFZPLTB4SlFUVVU0OEt1Mm1zWjNMTkI2NU02SnBVQ2JFSDlNSWtUMHBCMGxHT0lMSVNOTlZiRmRSVVVtUXVpWWJGcGg4VA?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "“食物成瘾，比如烟草……我们需要增加日常活动”"
         },
         {
-          "title": "월드옥타 세계대표자대회 성료…K-푸드 수출 전략 집중 논의",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52bzNCLWM0bkprYnBmN2VKZUg0UGFaSUJyLVNFRTA3TGk0RC02WFNFRnFUS096endkc3hZV2RYM0VLQS1KMXVfNkVJXzdRNFhzcDB6X01EMGpKUdIBVEFVX3lxTFBzak0zY0lBUmtGQWhOQVg3U2ZBSy0tV0gxRVNhQ3lRbzBudDVwYlR1R1BXclloaGFoQURERm5wNXlVYzFwSmNyX0VFenFPQ3Q5TTdrMQ?oc=5",
+          "title": "\"이젠 매일 먹는 디저트\"…신세계푸드, 1만원 이하 '떠먹는 케이크' 확대",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jWE5Dc0lVeFZXUWZoWUVWMWZGc3dQM3pjODhNbXRuQm9xVk9DUWNPLU1fV1lCZWRqV0YtX2tIYlRkd2F3MndSeXBIYXRzWEZBUlIyUU1tOGxMUdIBVEFVX3lxTE9OTE9IOHV4MlYwNDhYSGEtVEd6dmsxczVrc01HaXZfR3cwTVBtblRJcjlCMjlwOXpoWEw2cjNKMmZBUkxqZm9nWFlMTnFPZzFJay1IWA?oc=5",
           "desc": "",
-          "title_en": "World Octa World Representative Congress completion… K-Food export strategy focus discussion",
-          "title_ja": "世界OCTA世界代表会議完了… K - Food輸出戦略フォーカスディスカッション",
-          "title_zh": "世界八大世界代表大会圆满结束… K-Food出口战略焦点讨论"
-        },
-        {
-          "title": "S-OIL, 청년 푸드트럭 유류비 1억 2천만원 후원",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xTFUxYXZJd2F3cS14S0dKQk5OYjBPU0NjeDdlNFFCQW5PREozS3ZWZEVPWm1OVWF3eldON3U2Z1F6N1JCTzFzaUZVVHAxUk91bzdNZ1FDc3pTQdIBVEFVX3lxTE05VUdKYnJVMkE5OVRzR01FVUFvMXZZUG9CZy00N0dUalNkbHpEamQwdlV2cVNSSy1fWkhLN21mdG85RDVhVk10c3Fka3ppVm03cFIwdQ?oc=5",
-          "desc": "",
-          "title_en": "S-OIL donates 120 million won for fuel for youth food trucks",
-          "title_ja": "S - OIL、若者向けフードトラックの燃料として1億2000万ウォンを寄付",
-          "title_zh": "S-OIL捐赠1.2亿韩元用于青年食品卡车的燃料"
+          "title_en": "\"Dessert Now Everyday\" … Shinsegae Food Expands' Eating Cake 'Below 10,000 KRW",
+          "title_ja": "「Dessert Now Everyday」…新世界フードが「Eating Cake」を10,000ウォン以下に拡大",
+          "title_zh": "“Dessert Now Everyday” … Shinsegae Food扩展了10,000韩元以下的“Eating Cake”"
         }
       ]
     },
@@ -158,20 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "잠실야구장 16개 음식매장 추가 입점",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnMEZWVzVPeWJhY3VzODRtajFKUFdqVk5lWmlPXzlSQUEwOUpqN0JFTllTN3ZXeFpETFVpeFZKTWdkWEdWSlEycVlfa3Y5RjlBTVE?oc=5",
+          "title": "야쿠르트, 브이푸드 키즈 멀티비타민 미네랄",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZTNZTDJmN056ZWtKbjNpNnRVWkY5ODRhYnNuUEMtRjdrUmxIQUVuRVcwRkY5OHo5Z0tPVnNvZnFabVB0bVBKd3B3NkVkcU1UaVNR0gFTQVVfeXFMTThlM1lMMmY3Tnpla0puM2k2dFVaRjk4NGFic25QQy1GN2tSbEhBRW5FVzBGRjk4ejlnS09Wc29mcVptUHRtUEp3cHc2RWRxTVRpU1E?oc=5",
           "desc": "",
-          "title_en": "16 additional food stores in Jamsil Baseball Stadium",
-          "title_ja": "ジャムシル野球場に追加された食料品店16軒",
-          "title_zh": "蚕室棒球场（ Jamsil Baseball Stadium ）还有16家食品店"
-        },
-        {
-          "title": "롯데웰푸드, 챗GPT에 전용 앱 출시 “AI 커머스 진출”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOFI1MGZrUDVVZzltNlhSWXNyYjdEYlNxRENRQk9jMGo4NmhoUWFGNWE4UmM4Z1M3XzI0Wl80VDQ5TjV5Njk2NDdBcEZnMnZkaGfSAVNBVV95cUxNaWphV2kyUHJ6UWhSUDBMTEp2Yzd4MmZUc1pUcDVGaTNtUk8tUzE2STIwUHM2Y1ZXQ01FSjAxN2tMWWc1dG4wYUo4ZVdhR0pnUDJ4aw?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Launches Dedicated App on ChatGPT “Goes AI Commerce”",
-          "title_ja": "ロッテウェルフード、ChatGPTで専用アプリ「Goes AI Commerce」をリリース",
-          "title_zh": "乐天Well Food在ChatGPT上推出专用应用程序“Goes AI Commerce”"
+          "title_en": "Yakult, V-Food Kids Multivitamin Mineral",
+          "title_ja": "Yakult、V - Foodキッズマルチビタミンミネラル",
+          "title_zh": "Yakult ， V-Food儿童多种维生素矿物质"
         },
         {
           "title": "롯데삼강 “롯데푸드로 새 출발”",
@@ -180,6 +172,14 @@
           "title_en": "Lotte Samgang “A Fresh Start for Lotte Food”",
           "title_ja": "ロッテサムガン「ロッテフードの新たなスタート」",
           "title_zh": "乐天Samgang “乐天美食的新起点”"
+        },
+        {
+          "title": "잠실야구장 16개 음식매장 추가 입점",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnMEZWVzVPeWJhY3VzODRtajFKUFdqVk5lWmlPXzlSQUEwOUpqN0JFTllTN3ZXeFpETFVpeFZKTWdkWEdWSlEycVlfa3Y5RjlBTVE?oc=5",
+          "desc": "",
+          "title_en": "16 additional food stores in Jamsil Baseball Stadium",
+          "title_ja": "ジャムシル野球場に追加された食料品店16軒",
+          "title_zh": "蚕室棒球场（ Jamsil Baseball Stadium ）还有16家食品店"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Pinnacle Foods Group使用不含甲醇的Pikia发酵技术成功生产人乳铁蛋白"
         },
         {
-          "title": "윙입푸드홀딩스 그룹, 2025 회계연도 매출 1,922억원..영업이익 37.9% 급감",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mT3g5ZjFBeUpiV0FLRWZ3b2VrdklQemtHckRpb2o5STNMbjJIc1RodmZsUUxYVE9acFZsV0FoV1NSeUdNRTRHR0V1WVVCd0Q3Y2c?oc=5",
+          "title": "“엄마, 음식 타는데 몰랐어?” 치매 위험 크다는데…DGIST, 후각손상 원인 규명",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fVDN6cDZLVWxPQjhCYy12Y0JGMnExSU5OVTVVNUJ3a1VyUVY3WHdSVDN6SDEyNzg5MjJ6ZEFJSml5d3JtTUFmRlYwTEk4dw?oc=5",
           "desc": "",
-          "title_en": "Wingip Food Holdings Group, FY2025 sales KRW 192.2 billion.. Operating profit sharply decreased by 37.9%",
-          "title_ja": "ウィンギップフードホールディングスグループ2025年度売上高1,922億ウォン営業利益は37.9 ％大幅減益",
-          "title_zh": "Wingip Food Holdings Group ， 2025财年销售额1922亿韩元，营业利润大幅下降37.9%"
+          "title_en": "\"Mom, didn't you know about the food?” The risk of dementia is high… DGIST identifies the cause of olfactory injury",
+          "title_ja": "「お母さん、食べ物のこと知らなかったの？「認知症のリスクは高いです... DGISTは嗅覚損傷の原因を特定します",
+          "title_zh": "“妈，你不知道食物的事吗？“痴呆症的风险很高…… DGIST确定了嗅觉损伤的原因"
         },
         {
-          "title": "윙입푸드홀딩스, 영업이익 37.9% 급감…수익성 악화에 투자자 이탈",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbWl5bnRTVV9LTy1ZY3B3ckxscjZUME9DaDNrbmxBS25DSjI1N3pQNFNZXzdXNUI0ZnJVRHY1ZldEVVMzTDMwTGk1LWdONWM5UlE?oc=5",
+          "title": "“챗GPT 안에서 과자 산다”…롯데웰푸드, AI 커머스 실험 본격화",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSRWJHeWlNTUNER3BReDRSTTQySElhQ2xacEgzZTMyQXpwNm9PbHlmZjdvSmV6dGZsZHpCOXAwbEFPdzZneTAtX3V3YkNOSWU3dUtlMV9R?oc=5",
           "desc": "",
-          "title_en": "Wing Yip Food Holdings' operating profit fell sharply by 37.9% … Investors churned due to worsening profitability",
-          "title_ja": "ウィンイップフードホールディングスの営業利益は37.9 ％大幅減益…収益性の悪化により投資家を解約",
-          "title_zh": "永利的营业利润大幅下降37.9% ……投资者因盈利能力恶化而流失"
+          "title_en": "“Buy cookies in ChatGPT” … Lotte Well Food intensifies AI commerce experiment",
+          "title_ja": "「ChatGPTでクッキーを購入」…ロッテウェルフードがAIコマース実験を強化",
+          "title_zh": "“在ChatGPT中购买cookie” ……乐天健康食品加强了人工智能商务实验"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "일본, 소형 슈퍼마켓 늘어난다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1md2RzWVRid3JyV043Ui16MTI2ZnM0cEZ5RENDal9UZnl3UERsemptMXhLMm1pdTRrcG9QcFpDampEN2V6dng4VWpnLTZ0OVBMODFHTkszZw?oc=5",
+          "title": "티젠 “2030 여성, 야구장에서도 가볍게 콤부차·젠하이볼향”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BVTlTSzB0ZFJFckQza1ZDV2pxV2VVWk9vNzI0RTVmWVJrVGlpX1RObVdZbGZxdUJScVR2OTl6ZzFFQmJEVUtRUjBBMU8xSGZNSWxXRzRISQ?oc=5",
           "desc": "",
-          "title_en": "Japan grows small supermarkets",
-          "title_ja": "日本は小さなスーパーマーケットを育てている",
-          "title_zh": "日本发展小型超市"
+          "title_en": "Tizen “2030 Women, Light Kombucha and Zen High Ball Incense at the Baseball Stadium”",
+          "title_ja": "TIZEN「2030女子、ライトコンブチャと野球場での禅ハイボールのお香」",
+          "title_zh": "Tizen “2030年女子，轻康普茶和棒球场禅宗高球香”"
         },
         {
-          "title": "삼성웰스토리, ‘후덕죽 셰프’와 협업…특강도 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtQVFhVUNnOFRmVHNLWWFEbGxXQnB4UXlRcU1wY1BXTUV6SXRYZDVQQ05iWWFQcTdoOVM1UUFCQVg3NGU5eXRVRW0yajE0ZGl3S1JrZkpHdw?oc=5",
+          "title": "캐나다 별장에서 커피 한잔…팀홀튼, 삼성동 매장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40QVZCamNIbDVxUWVvSUV6OWRtamFnNkw0Qmg5cnNyMWNCV3BBRzlYMl8xZG9yQXNWemljeUMxZ0RPYnhVSmNyeHR2d0tlN3ZlOXBzWlFEcw?oc=5",
           "desc": "",
-          "title_en": "Samsung Well Story Collaborates with ’Chef Fudukjuk' … Opening Special Lecture",
-          "title_ja": "Samsung Well Storyが「Chef Fudukjuk」とコラボ…スペシャルレクチャーを開始",
-          "title_zh": "三星Well Story与“大厨Fudukjuk”合作……开启特别讲座"
+          "title_en": "A cup of coffee at a Canadian villa… Tim Houlton, Samseong-dong store",
+          "title_ja": "カナダのヴィラでコーヒーを飲もう…ティム・ホールトン、三成洞店",
+          "title_zh": "在加拿大别墅喝杯咖啡… Tim Houlton ， Samseong-dong商店"
         },
         {
-          "title": "주말 되면 치솟는 혈당, 이 습관이 문제입니다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wM24zN0EwRDRQMnNlMW1WSjlkZVJ6cElOaGJWUGJtYlZCZVZfckdEMXl5VTM2QkVDRmp3Y3o3MzBtYlI1Mm5nSHBuYmp3MnA1X3k4c0k5Yw?oc=5",
+          "title": "붕어빵에 담은 칼슘…오리온, ‘참붕어빵 우유슈크림맛’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81OWhqMFFHWXB4UnJFRzl4MmxrMVU1RWh3RDhDNDhjN1ZTUzdsUFB4WE1Za0h4MFY0cVZGX1pMbmNsQWlBN3U0Z2Z5RFZ2VjlfcnlnU2V0RQ?oc=5",
           "desc": "",
-          "title_en": "Soaring blood glucose at the end of the week, this habit is a problem",
-          "title_ja": "週末に血糖値が急上昇する、この習慣は問題です",
-          "title_zh": "周末血糖飙升，这个习惯是个问题"
+          "title_en": "Calcium in Crustacean Bread… Orion, ‘Charmfish Bread Milk Shoe Cream Flavor’",
+          "title_ja": "甲殻類のパンのカルシウム…オリオン、「チャームフィッシュブレッドミルクシュークリームフレーバー」",
+          "title_zh": "甲壳类动物面包中的钙……猎户座， “魅力鱼面包牛奶鞋霜口味”"
         }
       ]
     }
