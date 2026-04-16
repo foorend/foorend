@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T18:49:04Z",
+  "lastUpdated": "2026-04-16T23:25:30Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "올가홀푸드, 팥·검정콩 넣은 '검정콩 간식빵' 선보여",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hNjl3YzB5elRFeS0yVTk4QWg4WlVJX3FtbHVRTVo2RV80UVkzZEtoX0RJVkxGZ3VxcnNxSUJINTJuTFFHRzY0U0JwWWpGaEY4WUZ1TVZFQWttd9IBVEFVX3lxTE14WFRRN3VSa2JBdnl6SGxrcFp3aklMR0l6UnJFd2pCUnk4Slhwc1lCSGRyUkFvaEdQMmRkNWRuQk04SnNOZXJBWnBlcklMUVFXVGkxSQ?oc=5",
+          "desc": "",
+          "title_en": "Olga Holfood Introduces' Black Bean Snack Bread 'with Red Beans and Black Beans",
+          "title_ja": "Olga Holfoodが赤豆と黒豆を使った「黒豆スナックブレッド」を紹介",
+          "title_zh": "Olga Holfood推出带有红豆和黑豆的“黑豆零食面包”"
+        },
+        {
           "title": "슈퍼포우, 미군 교환소 AAFES 입점...K-펫푸드 해외 진출 확대",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82cEh2NWZXWE5mdl9RVEtsVHFJSmk2cmtPcERWci02TWM4WXdteXZ0WURJVTRyWXoxbEptakVTMVRjSncydWpkQUtxZURBRW02N2YtYjktNzFYaURCblFVLWNSdmdfYlhG?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "No-brand burger surpassed 700,000 app members... 'Smart Consumption with Value for Money'",
           "title_ja": "ノーブランドのハンバーガーが70万人のアプリメンバーを突破…「お金に見合ったスマートな消費」",
           "title_zh": "无品牌汉堡超过70万应用程序会员...... “物有所值的智能消费”"
-        },
-        {
-          "title": "\"음식 중독성, 담배와 같아…일상 속 활동량 늘려야\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LX0kxYzFTeGtSWkJjOXdOQWlWNHhHM2ZqLXowR3hDQlR6TUtYZFprMkxVRHBvNy00NE5OTlJTcG9fUTZjNXBmbVZKaC1QbGl6UjJ3Q2RpWi13Z9IBVEFVX3lxTE1BSWZVYzBEUFZPLTB4SlFUVVU0OEt1Mm1zWjNMTkI2NU02SnBVQ2JFSDlNSWtUMHBCMGxHT0lMSVNOTlZiRmRSVVVtUXVpWWJGcGg4VA?oc=5",
-          "desc": "",
-          "title_en": "\"Food addiction, like tobacco... we need to increase our daily activity\"",
-          "title_ja": "「タバコのような食物中毒...私たちは毎日の活動を増やす必要があります」",
-          "title_zh": "“食物成瘾，比如烟草……我们需要增加日常活动”"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "乐天Samgang “乐天美食的新起点”"
         },
         {
-          "title": "야쿠르트, 브이푸드 키즈 멀티비타민 미네랄",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZTNZTDJmN056ZWtKbjNpNnRVWkY5ODRhYnNuUEMtRjdrUmxIQUVuRVcwRkY5OHo5Z0tPVnNvZnFabVB0bVBKd3B3NkVkcU1UaVNR0gFTQVVfeXFMTThlM1lMMmY3Tnpla0puM2k2dFVaRjk4NGFic25QQy1GN2tSbEhBRW5FVzBGRjk4ejlnS09Wc29mcVptUHRtUEp3cHc2RWRxTVRpU1E?oc=5",
-          "desc": "",
-          "title_en": "Yakult, V-Food Kids Multivitamin Mineral",
-          "title_ja": "Yakult、V - Foodキッズマルチビタミンミネラル",
-          "title_zh": "Yakult ， V-Food儿童多种维生素矿物质"
-        },
-        {
           "title": "잠실야구장 16개 음식매장 추가 입점",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnMEZWVzVPeWJhY3VzODRtajFKUFdqVk5lWmlPXzlSQUEwOUpqN0JFTllTN3ZXeFpETFVpeFZKTWdkWEdWSlEycVlfa3Y5RjlBTVE?oc=5",
           "desc": "",
           "title_en": "16 additional food stores in Jamsil Baseball Stadium",
           "title_ja": "ジャムシル野球場に追加された食料品店16軒",
           "title_zh": "蚕室棒球场（ Jamsil Baseball Stadium ）还有16家食品店"
+        },
+        {
+          "title": "야쿠르트, 브이푸드 키즈 멀티비타민 미네랄",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZTNZTDJmN056ZWtKbjNpNnRVWkY5ODRhYnNuUEMtRjdrUmxIQUVuRVcwRkY5OHo5Z0tPVnNvZnFabVB0bVBKd3B3NkVkcU1UaVNR0gFTQVVfeXFMTThlM1lMMmY3Tnpla0puM2k2dFVaRjk4NGFic25QQy1GN2tSbEhBRW5FVzBGRjk4ejlnS09Wc29mcVptUHRtUEp3cHc2RWRxTVRpU1E?oc=5",
+          "desc": "",
+          "title_en": "Yakult, V-Food Kids Multivitamin Mineral",
+          "title_ja": "Yakult、V - Foodキッズマルチビタミンミネラル",
+          "title_zh": "Yakult ， V-Food儿童多种维生素矿物质"
         }
       ]
     },
@@ -226,25 +226,30 @@
           "title_zh": "Tizen “2030年女子，轻康普茶和棒球场禅宗高球香”"
         },
         {
-          "title": "성수동 리틀바잇모어, 신세계·현대百 팝업 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVmp6ajdiRF95RzFYeHNsTnFaR2lOUG13NkJtZ0V5SDlyY2E4eEMxNHhDdUR6Yy1takdvMTJMS0FocWFxVmg1NlB0X3dmQkVZNXpLTF9obw?oc=5",
-          "desc": "",
-          "title_en": "Seongsu-dong Little Byte More Opens Shinsegae and Hyundai Hundred Pop-Up",
-          "title_ja": "Seongsu - dong Little Byte Moreが新世界と現代の100ポップアップを開く",
-          "title_zh": "Seongsu-dong Little Byte More打开Shinsegae和Hyundai Hundred弹出窗口"
-        },
-        {
           "title": "캐나다 별장에서 커피 한잔…팀홀튼, 삼성동 매장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40QVZCamNIbDVxUWVvSUV6OWRtamFnNkw0Qmg5cnNyMWNCV3BBRzlYMl8xZG9yQXNWemljeUMxZ0RPYnhVSmNyeHR2d0tlN3ZlOXBzWlFEcw?oc=5",
           "desc": "",
           "title_en": "A cup of coffee at a Canadian villa… Tim Houlton, Samseong-dong store",
           "title_ja": "カナダのヴィラでコーヒーを飲もう…ティム・ホールトン、三成洞店",
           "title_zh": "在加拿大别墅喝杯咖啡… Tim Houlton ， Samseong-dong商店"
+        },
+        {
+          "title": "주말 되면 치솟는 혈당, 이 습관이 문제입니다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wM24zN0EwRDRQMnNlMW1WSjlkZVJ6cElOaGJWUGJtYlZCZVZfckdEMXl5VTM2QkVDRmp3Y3o3MzBtYlI1Mm5nSHBuYmp3MnA1X3k4c0k5Yw?oc=5",
+          "desc": "",
+          "title_en": "Soaring blood glucose at the end of the week, this habit is a problem",
+          "title_ja": "週末に血糖値が急上昇する、この習慣は問題です",
+          "title_zh": "周末血糖飙升，这个习惯是个问题"
         }
       ]
     }
   },
   "korean_articles": [
+    {
+      "title": "🤖26년 4월 글로벌 푸드 트렌드🥞🍔",
+      "link": "https://foodtrend.stibee.com/p/204",
+      "desc": ""
+    },
     {
       "title": "🍽️FOOREND's Friends! 푸렌드 에디터의 이야기✨",
       "link": "https://foodtrend.stibee.com/p/203",
@@ -268,11 +273,6 @@
     {
       "title": "🔥26년 1분기 해외에서 공유 1만 이상 바이럴 된 메뉴들🍽✨",
       "link": "https://foodtrend.stibee.com/p/199",
-      "desc": ""
-    },
-    {
-      "title": "📍26년 3월 한국 푸드 트렌드🥬🥩",
-      "link": "https://foodtrend.stibee.com/p/198",
       "desc": ""
     }
   ]
