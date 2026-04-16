@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T12:10:47Z",
+  "lastUpdated": "2026-04-16T18:49:04Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -74,20 +74,20 @@
           "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
         },
         {
+          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
+          "desc": "",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
           "title": "The True Energy Price Exposure Of Everything You Eat",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
           "desc": "",
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
-          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
-          "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -95,6 +95,14 @@
       "label": "Eater",
       "site": "https://www.eater.com/trends",
       "items": [
+        {
+          "title": "6 Restaurants Explain the Stories Behind Their Beloved Artworks",
+          "link": "https://www.eater.com/dining-out/955765/restaurants-bars-cool-art-famous-restaurant-artworks",
+          "desc": "Dining out in Big Sur, California, requires intentionality. There’s nothing casual about visiting a restaurant off the cliff-hugging stretch of Highwa",
+          "title_ko": "6곳의 레스토랑이 사랑하는 예술 작품의 뒷이야기를 설명합니다",
+          "title_ja": "6つのレストランが愛するアートワークの背景にあるストーリーを説明",
+          "title_zh": "6家餐厅讲解他们心爱的艺术品背后的故事"
+        },
         {
           "title": "The 38 Best Restaurants in Lisbon, Portugal, According to a Local Expert",
           "link": "https://www.eater.com/maps/best-lisbon-portugal-restaurants",
@@ -110,14 +118,6 @@
           "title_ko": "현지 요리 가이드가 선정한 멕시코시티 최고의 레스토랑 38곳",
           "title_ja": "地元の料理ガイドが選ぶメキシコシティの人気レストラン38選",
           "title_zh": "当地烹饪向导推荐的墨西哥城38家最佳餐厅"
-        },
-        {
-          "title": "Breakfast Burritos, Galbi Patty Melts, and More Dishes Chef Nyesha Arrington Tried in San Francisco",
-          "link": "https://www.eater.com/dining-out/953692/plw-x-visit-ca-ep1-san-francisco",
-          "desc": "In this episode of Plateworthy, host Nyesha Arrington makes her way through some of the best bites in San Francisco. First stop on the eating tour: Br",
-          "title_ko": "샌프란시스코에서 즐기는 아침 식사 - 부리토, 갈비 패티 멜트 등, 셰프 Nyesha Arrington",
-          "title_ja": "ブレックファーストブリトー、ガルビパティ、その他の料理シェフNyesha Arringtonによるサンフランシスコでの体験",
-          "title_zh": "在旧金山品尝大厨Nyesha Arrington制作的墨西哥卷饼、Galbi Patty融化美食和其他美味佳肴"
         }
       ]
     }
@@ -136,20 +136,20 @@
           "title_zh": "Superpow在美国军事交易所推出AAFES...扩大K-Pet Foods的海外扩张"
         },
         {
+          "title": "노브랜드 버거, 앱 회원 70만명 돌파…'가성비 스마트 소비' 통했다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBydlVndVphd25zVjY5ZXgyYzZjUEFiXzVBMVFpQXlub0V6ZlJpclNzRXhERHhhNjdxY1ZYWi1LR2EwYXppZjA5MjR5NDh5dzBZV2lIMGxBTGtUd9IBVEFVX3lxTE4wNWM0Q0twMW40S3p3YWxienI5UGYzNUlvMFd4TlNvVWlDVTJOaFlHTlJMT2lLM2xjRXVwdF9UV0Q0UEFqNWlzSDdZWVoteUhleVdYcw?oc=5",
+          "desc": "",
+          "title_en": "No-brand burger surpassed 700,000 app members... 'Smart Consumption with Value for Money'",
+          "title_ja": "ノーブランドのハンバーガーが70万人のアプリメンバーを突破…「お金に見合ったスマートな消費」",
+          "title_zh": "无品牌汉堡超过70万应用程序会员...... “物有所值的智能消费”"
+        },
+        {
           "title": "\"음식 중독성, 담배와 같아…일상 속 활동량 늘려야\"",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LX0kxYzFTeGtSWkJjOXdOQWlWNHhHM2ZqLXowR3hDQlR6TUtYZFprMkxVRHBvNy00NE5OTlJTcG9fUTZjNXBmbVZKaC1QbGl6UjJ3Q2RpWi13Z9IBVEFVX3lxTE1BSWZVYzBEUFZPLTB4SlFUVVU0OEt1Mm1zWjNMTkI2NU02SnBVQ2JFSDlNSWtUMHBCMGxHT0lMSVNOTlZiRmRSVVVtUXVpWWJGcGg4VA?oc=5",
           "desc": "",
           "title_en": "\"Food addiction, like tobacco... we need to increase our daily activity\"",
           "title_ja": "「タバコのような食物中毒...私たちは毎日の活動を増やす必要があります」",
           "title_zh": "“食物成瘾，比如烟草……我们需要增加日常活动”"
-        },
-        {
-          "title": "\"이젠 매일 먹는 디저트\"…신세계푸드, 1만원 이하 '떠먹는 케이크' 확대",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jWE5Dc0lVeFZXUWZoWUVWMWZGc3dQM3pjODhNbXRuQm9xVk9DUWNPLU1fV1lCZWRqV0YtX2tIYlRkd2F3MndSeXBIYXRzWEZBUlIyUU1tOGxMUdIBVEFVX3lxTE9OTE9IOHV4MlYwNDhYSGEtVEd6dmsxczVrc01HaXZfR3cwTVBtblRJcjlCMjlwOXpoWEw2cjNKMmZBUkxqZm9nWFlMTnFPZzFJay1IWA?oc=5",
-          "desc": "",
-          "title_en": "\"Dessert Now Everyday\" … Shinsegae Food Expands' Eating Cake 'Below 10,000 KRW",
-          "title_ja": "「Dessert Now Everyday」…新世界フードが「Eating Cake」を10,000ウォン以下に拡大",
-          "title_zh": "“Dessert Now Everyday” … Shinsegae Food扩展了10,000韩元以下的“Eating Cake”"
         }
       ]
     },
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "야쿠르트, 브이푸드 키즈 멀티비타민 미네랄",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZTNZTDJmN056ZWtKbjNpNnRVWkY5ODRhYnNuUEMtRjdrUmxIQUVuRVcwRkY5OHo5Z0tPVnNvZnFabVB0bVBKd3B3NkVkcU1UaVNR0gFTQVVfeXFMTThlM1lMMmY3Tnpla0puM2k2dFVaRjk4NGFic25QQy1GN2tSbEhBRW5FVzBGRjk4ejlnS09Wc29mcVptUHRtUEp3cHc2RWRxTVRpU1E?oc=5",
-          "desc": "",
-          "title_en": "Yakult, V-Food Kids Multivitamin Mineral",
-          "title_ja": "Yakult、V - Foodキッズマルチビタミンミネラル",
-          "title_zh": "Yakult ， V-Food儿童多种维生素矿物质"
-        },
-        {
           "title": "롯데삼강 “롯데푸드로 새 출발”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkaTBOdHZOVHN4YlVLM0RVRW1HLVhXb1UwVjRuZVNMcnpKQjdwcWJMUWI0UThyTk1jZl9OU1NKYWxlbTZZbmx6aFI1Zl9hWWVVR2c?oc=5",
           "desc": "",
           "title_en": "Lotte Samgang “A Fresh Start for Lotte Food”",
           "title_ja": "ロッテサムガン「ロッテフードの新たなスタート」",
           "title_zh": "乐天Samgang “乐天美食的新起点”"
+        },
+        {
+          "title": "야쿠르트, 브이푸드 키즈 멀티비타민 미네랄",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZTNZTDJmN056ZWtKbjNpNnRVWkY5ODRhYnNuUEMtRjdrUmxIQUVuRVcwRkY5OHo5Z0tPVnNvZnFabVB0bVBKd3B3NkVkcU1UaVNR0gFTQVVfeXFMTThlM1lMMmY3Tnpla0puM2k2dFVaRjk4NGFic25QQy1GN2tSbEhBRW5FVzBGRjk4ejlnS09Wc29mcVptUHRtUEp3cHc2RWRxTVRpU1E?oc=5",
+          "desc": "",
+          "title_en": "Yakult, V-Food Kids Multivitamin Mineral",
+          "title_ja": "Yakult、V - Foodキッズマルチビタミンミネラル",
+          "title_zh": "Yakult ， V-Food儿童多种维生素矿物质"
         },
         {
           "title": "잠실야구장 16개 음식매장 추가 입점",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "\"청년 식품기업 매년 100개 육성\"…K푸드 창업사관학교 출범",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSVduaC1acjZYWExzOUNFNFFoRng5N0syVjFFeTdtTXJnVFhyWXE5X0hnVXZLNFMybGpuRUtLa1EzV2ExeTJXOU9WOGE4ajRsSHc?oc=5",
+          "desc": "",
+          "title_en": "“Cultivate 100 young food companies every year” … K-Food Start-up Academy launched",
+          "title_ja": "「毎年100社の若手食品企業を育成」… K - Foodスタートアップ・アカデミー発足",
+          "title_zh": "“每年培育100家年轻食品公司” … K-Food创业学院启动"
+        },
+        {
           "title": "피너클 푸드 그룹, 메탄올 무배제 피키아 발효법으로 인간 락토페린 생산 성공",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RRG1PUE1xTmhTajIxNzZqSU9weTZuNVBFdTdkVmpBV3ZqdGRKWXdMOXItTzdNVEpzak5CSTA5T09HeFBGY1ZjMGRmNzJ3OWlvY2c?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "\"Mom, didn't you know about the food?” The risk of dementia is high… DGIST identifies the cause of olfactory injury",
           "title_ja": "「お母さん、食べ物のこと知らなかったの？「認知症のリスクは高いです... DGISTは嗅覚損傷の原因を特定します",
           "title_zh": "“妈，你不知道食物的事吗？“痴呆症的风险很高…… DGIST确定了嗅觉损伤的原因"
-        },
-        {
-          "title": "“챗GPT 안에서 과자 산다”…롯데웰푸드, AI 커머스 실험 본격화",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSRWJHeWlNTUNER3BReDRSTTQySElhQ2xacEgzZTMyQXpwNm9PbHlmZjdvSmV6dGZsZHpCOXAwbEFPdzZneTAtX3V3YkNOSWU3dUtlMV9R?oc=5",
-          "desc": "",
-          "title_en": "“Buy cookies in ChatGPT” … Lotte Well Food intensifies AI commerce experiment",
-          "title_ja": "「ChatGPTでクッキーを購入」…ロッテウェルフードがAIコマース実験を強化",
-          "title_zh": "“在ChatGPT中购买cookie” ……乐天健康食品加强了人工智能商务实验"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "Tizen “2030年女子，轻康普茶和棒球场禅宗高球香”"
         },
         {
+          "title": "성수동 리틀바잇모어, 신세계·현대百 팝업 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVmp6ajdiRF95RzFYeHNsTnFaR2lOUG13NkJtZ0V5SDlyY2E4eEMxNHhDdUR6Yy1takdvMTJMS0FocWFxVmg1NlB0X3dmQkVZNXpLTF9obw?oc=5",
+          "desc": "",
+          "title_en": "Seongsu-dong Little Byte More Opens Shinsegae and Hyundai Hundred Pop-Up",
+          "title_ja": "Seongsu - dong Little Byte Moreが新世界と現代の100ポップアップを開く",
+          "title_zh": "Seongsu-dong Little Byte More打开Shinsegae和Hyundai Hundred弹出窗口"
+        },
+        {
           "title": "캐나다 별장에서 커피 한잔…팀홀튼, 삼성동 매장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40QVZCamNIbDVxUWVvSUV6OWRtamFnNkw0Qmg5cnNyMWNCV3BBRzlYMl8xZG9yQXNWemljeUMxZ0RPYnhVSmNyeHR2d0tlN3ZlOXBzWlFEcw?oc=5",
           "desc": "",
           "title_en": "A cup of coffee at a Canadian villa… Tim Houlton, Samseong-dong store",
           "title_ja": "カナダのヴィラでコーヒーを飲もう…ティム・ホールトン、三成洞店",
           "title_zh": "在加拿大别墅喝杯咖啡… Tim Houlton ， Samseong-dong商店"
-        },
-        {
-          "title": "붕어빵에 담은 칼슘…오리온, ‘참붕어빵 우유슈크림맛’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81OWhqMFFHWXB4UnJFRzl4MmxrMVU1RWh3RDhDNDhjN1ZTUzdsUFB4WE1Za0h4MFY0cVZGX1pMbmNsQWlBN3U0Z2Z5RFZ2VjlfcnlnU2V0RQ?oc=5",
-          "desc": "",
-          "title_en": "Calcium in Crustacean Bread… Orion, ‘Charmfish Bread Milk Shoe Cream Flavor’",
-          "title_ja": "甲殻類のパンのカルシウム…オリオン、「チャームフィッシュブレッドミルクシュークリームフレーバー」",
-          "title_zh": "甲壳类动物面包中的钙……猎户座， “魅力鱼面包牛奶鞋霜口味”"
         }
       ]
     }
