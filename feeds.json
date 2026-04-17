@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T23:25:30Z",
+  "lastUpdated": "2026-04-17T12:02:14Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
         },
         {
+          "title": "Consumers are spending more on restaurants than ever. Where are the profits?",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzUtZFpDNURxRGJ6WHJzbXoyZzdzMWtIRDhhV2hTUFVHZTc2aVRmS0FnbkdSUE1tYThfaDFJdUh6NVFIdS1qbTUtRXk4b3BzaEpHSGxkOHNNNFdDeXJXZDJWbllIaVJqVk1JNE85YUx1a2NYRG93UWMzb1d0bnU5d0lsUkNvLVpaRDEyVGRJd0RlTDdUUjYtR2xMS1BUakFCRm55VGp5NUlCeU5SREE?oc=5",
+          "desc": "",
+          "title_ko": "소비자들은 그 어느 때보다 레스토랑에 더 많은 비용을 지출하고 있습니다. 수익은 어디에 있나요?",
+          "title_ja": "消費者はこれまで以上にレストランへの支出を増やしています。利益はどこにありますか？",
+          "title_zh": "消费者在餐厅的消费比以往任何时候都多。利润在哪里？"
+        },
+        {
           "title": "Restaurant Business Magazine - Trends, Ideas and News",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
           "desc": "",
           "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
           "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
           "title_zh": "餐厅商业杂志-趋势、创意和新闻"
-        },
-        {
-          "title": "A Farmer Boys franchisee declares bankruptcy and blames cash advance financing",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjFwemRNeVBGUEdiTVB2RG53T3FZVHRBQlVFanprNVBYdUFXdzFWOU1WcjFlUzhsTzBqLVdFeTRFR0hsNXNGZUpyQ1RKLUN1UDQtRDFUdE91dmlmMGZLeW14RDNTUE5SdHFwdHdPLTU2WVZUR0ZBSUpzWWFwRXdXTmdhUVNFZTQxNGdXSm16bkkzRmtCOW15V2cxTWk4d1hCaDJRendseC1uR2lPdmRDUHFMb0pRNXd5TVpn?oc=5",
-          "desc": "",
-          "title_ko": "Farmer Boys 프랜차이즈 가맹점은 파산을 선언하고 현금 선지급 자금 조달을 비난합니다.",
-          "title_ja": "ファーマーボーイズのフランチャイズ加盟店が破産を宣言し、キャッシュアドバンスファイナンスを非難",
-          "title_zh": "Farmer Boys特许经营商宣布破产并指责现金预支融资"
         }
       ]
     },
@@ -35,14 +35,6 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
-        {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "Superpow在美国军事交易所推出AAFES...扩大K-Pet Foods的海外扩张"
         },
         {
-          "title": "노브랜드 버거, 앱 회원 70만명 돌파…'가성비 스마트 소비' 통했다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBydlVndVphd25zVjY5ZXgyYzZjUEFiXzVBMVFpQXlub0V6ZlJpclNzRXhERHhhNjdxY1ZYWi1LR2EwYXppZjA5MjR5NDh5dzBZV2lIMGxBTGtUd9IBVEFVX3lxTE4wNWM0Q0twMW40S3p3YWxienI5UGYzNUlvMFd4TlNvVWlDVTJOaFlHTlJMT2lLM2xjRXVwdF9UV0Q0UEFqNWlzSDdZWVoteUhleVdYcw?oc=5",
+          "title": "'K-푸드' 찾아 한국으로…'BKF+' 44개국 참가",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWLUtQY1hNSHNOTkc1ekktZEVyWWhyd2FjYWFUZkUyT284OHlzR3Q2eW5yUDdJX3JkdlM2WW80ejhudDlid3pOLWYwNVptUU1mclNxTzdOYnoxcVkwMnpRVnJnNUJOQUxYVWEzSVZOV3gtQ0RZalZhUF82ZTRIS2s?oc=5",
           "desc": "",
-          "title_en": "No-brand burger surpassed 700,000 app members... 'Smart Consumption with Value for Money'",
-          "title_ja": "ノーブランドのハンバーガーが70万人のアプリメンバーを突破…「お金に見合ったスマートな消費」",
-          "title_zh": "无品牌汉堡超过70万应用程序会员...... “物有所值的智能消费”"
+          "title_en": "Go to Korea in search of 'K-Food' … 'BKF +' 44 countries participated",
+          "title_ja": "「K - Food」を求めて韓国に行く…「BKF +」44カ国が参加",
+          "title_zh": "前往韩国寻找'K-Food' … 'BKF +' 44个国家参与"
         }
       ]
     },
@@ -157,14 +157,6 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
-        {
-          "title": "롯데삼강 “롯데푸드로 새 출발”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkaTBOdHZOVHN4YlVLM0RVRW1HLVhXb1UwVjRuZVNMcnpKQjdwcWJMUWI0UThyTk1jZl9OU1NKYWxlbTZZbmx6aFI1Zl9hWWVVR2c?oc=5",
-          "desc": "",
-          "title_en": "Lotte Samgang “A Fresh Start for Lotte Food”",
-          "title_ja": "ロッテサムガン「ロッテフードの新たなスタート」",
-          "title_zh": "乐天Samgang “乐天美食的新起点”"
-        },
         {
           "title": "잠실야구장 16개 음식매장 추가 입점",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnMEZWVzVPeWJhY3VzODRtajFKUFdqVk5lWmlPXzlSQUEwOUpqN0JFTllTN3ZXeFpETFVpeFZKTWdkWEdWSlEycVlfa3Y5RjlBTVE?oc=5",
@@ -180,6 +172,14 @@
           "title_en": "Yakult, V-Food Kids Multivitamin Mineral",
           "title_ja": "Yakult、V - Foodキッズマルチビタミンミネラル",
           "title_zh": "Yakult ， V-Food儿童多种维生素矿物质"
+        },
+        {
+          "title": "롯데웰푸드, 챗GPT에 전용 앱 출시 “AI 커머스 진출”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOFI1MGZrUDVVZzltNlhSWXNyYjdEYlNxRENRQk9jMGo4NmhoUWFGNWE4UmM4Z1M3XzI0Wl80VDQ5TjV5Njk2NDdBcEZnMnZkaGfSAVNBVV95cUxNaWphV2kyUHJ6UWhSUDBMTEp2Yzd4MmZUc1pUcDVGaTNtUk8tUzE2STIwUHM2Y1ZXQ01FSjAxN2tMWWc1dG4wYUo4ZVdhR0pnUDJ4aw?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Launches Dedicated App on ChatGPT “Goes AI Commerce”",
+          "title_ja": "ロッテウェルフード、ChatGPTで専用アプリ「Goes AI Commerce」をリリース",
+          "title_zh": "乐天Well Food在ChatGPT上推出专用应用程序“Goes AI Commerce”"
         }
       ]
     },
@@ -188,20 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "\"청년 식품기업 매년 100개 육성\"…K푸드 창업사관학교 출범",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSVduaC1acjZYWExzOUNFNFFoRng5N0syVjFFeTdtTXJnVFhyWXE5X0hnVXZLNFMybGpuRUtLa1EzV2ExeTJXOU9WOGE4ajRsSHc?oc=5",
+          "title": "설렁탕·냉면 밀어내고 대전의 맛으로 떠오른 음식 3대장 정체",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhQURIQUtuc0RSZTEzLUdKdFNGNG9MSV9Edm85ejIwSHp5QmlmU2FheHBYYVpLQXFPbVpHOWpVUjJkaWVWMzJRc1NZYktBc0plWWVTbw?oc=5",
           "desc": "",
-          "title_en": "“Cultivate 100 young food companies every year” … K-Food Start-up Academy launched",
-          "title_ja": "「毎年100社の若手食品企業を育成」… K - Foodスタートアップ・アカデミー発足",
-          "title_zh": "“每年培育100家年轻食品公司” … K-Food创业学院启动"
-        },
-        {
-          "title": "피너클 푸드 그룹, 메탄올 무배제 피키아 발효법으로 인간 락토페린 생산 성공",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RRG1PUE1xTmhTajIxNzZqSU9weTZuNVBFdTdkVmpBV3ZqdGRKWXdMOXItTzdNVEpzak5CSTA5T09HeFBGY1ZjMGRmNzJ3OWlvY2c?oc=5",
-          "desc": "",
-          "title_en": "Pinnacle Foods Group Successfully Produces Human Lactoferrin with Methanol-Free Pikia Fermentation",
-          "title_ja": "ピナクルフーズグループ、メタノールフリーのピキア発酵によるヒトラクトフェリンの生産に成功",
-          "title_zh": "Pinnacle Foods Group使用不含甲醇的Pikia发酵技术成功生产人乳铁蛋白"
+          "title_en": "Seolleongtang · Cold noodles are pushed away and the third leader of food emerged with the taste of Daejeon",
+          "title_ja": "Seolleongtang・冷たい麺を押しのけて、大田の味と共に食品の第三のリーダーが現れました",
+          "title_zh": "Seolleongtang ·冷面被推开，带着大田的味道出现了第三位美食领袖"
         },
         {
           "title": "“엄마, 음식 타는데 몰랐어?” 치매 위험 크다는데…DGIST, 후각손상 원인 규명",
@@ -210,6 +202,14 @@
           "title_en": "\"Mom, didn't you know about the food?” The risk of dementia is high… DGIST identifies the cause of olfactory injury",
           "title_ja": "「お母さん、食べ物のこと知らなかったの？「認知症のリスクは高いです... DGISTは嗅覚損傷の原因を特定します",
           "title_zh": "“妈，你不知道食物的事吗？“痴呆症的风险很高…… DGIST确定了嗅觉损伤的原因"
+        },
+        {
+          "title": "“챗GPT 안에서 과자 산다”…롯데웰푸드, AI 커머스 실험 본격화",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSRWJHeWlNTUNER3BReDRSTTQySElhQ2xacEgzZTMyQXpwNm9PbHlmZjdvSmV6dGZsZHpCOXAwbEFPdzZneTAtX3V3YkNOSWU3dUtlMV9R?oc=5",
+          "desc": "",
+          "title_en": "“Buy cookies in ChatGPT” … Lotte Well Food intensifies AI commerce experiment",
+          "title_ja": "「ChatGPTでクッキーを購入」…ロッテウェルフードがAIコマース実験を強化",
+          "title_zh": "“在ChatGPT中购买cookie” ……乐天健康食品加强了人工智能商务实验"
         }
       ]
     },
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "티젠 “2030 여성, 야구장에서도 가볍게 콤부차·젠하이볼향”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BVTlTSzB0ZFJFckQza1ZDV2pxV2VVWk9vNzI0RTVmWVJrVGlpX1RObVdZbGZxdUJScVR2OTl6ZzFFQmJEVUtRUjBBMU8xSGZNSWxXRzRISQ?oc=5",
+          "title": "‘마시는 건강’에서 ‘채우는 영양’으로…미국 음료 트렌드",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yVkFxQkRNWjk4QUhZSG5ibWI0bXlGOFBWR1hrZFA4NWJDaXRmSWVLZ1lORG9uOE1oRUxqSDdRMUs3dkU4U2NNTTU3VExiYUtoY1k0aENJMA?oc=5",
           "desc": "",
-          "title_en": "Tizen “2030 Women, Light Kombucha and Zen High Ball Incense at the Baseball Stadium”",
-          "title_ja": "TIZEN「2030女子、ライトコンブチャと野球場での禅ハイボールのお香」",
-          "title_zh": "Tizen “2030年女子，轻康普茶和棒球场禅宗高球香”"
+          "title_en": "From ‘Drinking Health’ to ‘Filling Nutrition’ … US Beverage Trends",
+          "title_ja": "「飲酒による健康」から「栄養補給」まで…米国の飲料トレンド",
+          "title_zh": "从“饮酒健康”到“充实营养” ……美国饮料趋势"
         },
         {
           "title": "캐나다 별장에서 커피 한잔…팀홀튼, 삼성동 매장",
@@ -234,12 +234,12 @@
           "title_zh": "在加拿大别墅喝杯咖啡… Tim Houlton ， Samseong-dong商店"
         },
         {
-          "title": "주말 되면 치솟는 혈당, 이 습관이 문제입니다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wM24zN0EwRDRQMnNlMW1WSjlkZVJ6cElOaGJWUGJtYlZCZVZfckdEMXl5VTM2QkVDRmp3Y3o3MzBtYlI1Mm5nSHBuYmp3MnA1X3k4c0k5Yw?oc=5",
+          "title": "전지현 모델 발탁…대상웰라이프 뉴케어광고 공개",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RMGNoa2hYQjI0d1FyeTF0RW9KMmdubUo3RGtKYmx2c2RXakZncUxRejZVX25WMlROaVJtZlBiNDBaRkF0UlBxUUFScXBRUklBbUhDU3N5WQ?oc=5",
           "desc": "",
-          "title_en": "Soaring blood glucose at the end of the week, this habit is a problem",
-          "title_ja": "週末に血糖値が急上昇する、この習慣は問題です",
-          "title_zh": "周末血糖飙升，这个习惯是个问题"
+          "title_en": "Jeon Hyun Model Released… Target Well Life New Care Advertisement Released",
+          "title_ja": "全賢モデル発売…ターゲットウェルライフ新ケア広告発売",
+          "title_zh": "全贤车型发布… Target Well Life New Care广告发布"
         }
       ]
     }
