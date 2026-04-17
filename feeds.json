@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T12:02:14Z",
+  "lastUpdated": "2026-04-17T17:36:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Gwyneth Paltrow Wants to Bring Delicious, Healthy Food to New York",
+          "link": "https://www.eater.com/pop-culture/955847/gwyneth-paltrow-interview-goop-kitchen-expansion",
+          "desc": "If you’ve never tried Goop Kitchen, Gwyneth Paltrow’s takeout-only, nutritious food operation, you’re missing out. No matter what you think of the Hol",
+          "title_ko": "귀네스 팰트로 (Gwyneth Paltrow) 는 뉴욕에 맛있고 건강한 음식을 가져 오기를 원합니다.",
+          "title_ja": "グウィネス・パルトロウ、美味しくてヘルシーな食べ物をニューヨークに届けたい",
+          "title_zh": "格温妮丝·帕特洛（ Gwyneth Paltrow ）希望为纽约带来美味、健康的食物"
+        },
+        {
           "title": "6 Restaurants Explain the Stories Behind Their Beloved Artworks",
           "link": "https://www.eater.com/dining-out/955765/restaurants-bars-cool-art-famous-restaurant-artworks",
           "desc": "Dining out in Big Sur, California, requires intentionality. There’s nothing casual about visiting a restaurant off the cliff-hugging stretch of Highwa",
@@ -110,14 +118,6 @@
           "title_ko": "현지 전문가가 선정한 포르투갈 리스본 최고의 레스토랑 38곳",
           "title_ja": "現地エキスパートによるポルトガル、リスボンの人気レストラン38選",
           "title_zh": "当地达人评选的葡萄牙里斯本38家最佳餐厅"
-        },
-        {
-          "title": "The 38 Best Restaurants in Mexico City, According to a Local Culinary Guide",
-          "link": "https://www.eater.com/maps/best-mexico-city-restaurants-38",
-          "desc": "The largest city in North America, Mexico City is a unique, elastic, ever-changing patchwork of food traditions. As a native of the city and a food wr",
-          "title_ko": "현지 요리 가이드가 선정한 멕시코시티 최고의 레스토랑 38곳",
-          "title_ja": "地元の料理ガイドが選ぶメキシコシティの人気レストラン38選",
-          "title_zh": "当地烹饪向导推荐的墨西哥城38家最佳餐厅"
         }
       ]
     }
@@ -144,12 +144,12 @@
           "title_zh": "Superpow在美国军事交易所推出AAFES...扩大K-Pet Foods的海外扩张"
         },
         {
-          "title": "'K-푸드' 찾아 한국으로…'BKF+' 44개국 참가",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWLUtQY1hNSHNOTkc1ekktZEVyWWhyd2FjYWFUZkUyT284OHlzR3Q2eW5yUDdJX3JkdlM2WW80ejhudDlid3pOLWYwNVptUU1mclNxTzdOYnoxcVkwMnpRVnJnNUJOQUxYVWEzSVZOV3gtQ0RZalZhUF82ZTRIS2s?oc=5",
+          "title": "'푸드나무' 52주 신고가 경신, 최근 5일간 외국인 대량 순매수",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGRvQW16NVVkZXBDUUVHaTZIMGVXNk1fRHhaT2dYYmdiNnk3WE4xMW9zUThybWZRUkFiWEtHYlJQTjFRaG51dDdPc1ZRQ0VsYmFOREMza1ZtVDI3MS13WHJtZW9tVG1KQ3dIWjZzUVVZZV9LVFhMeHR4Q3haa293R1FhbHRtSWc?oc=5",
           "desc": "",
-          "title_en": "Go to Korea in search of 'K-Food' … 'BKF +' 44 countries participated",
-          "title_ja": "「K - Food」を求めて韓国に行く…「BKF +」44カ国が参加",
-          "title_zh": "前往韩国寻找'K-Food' … 'BKF +' 44个国家参与"
+          "title_en": "'Food Tree' 52-week report renewed, bulk foreign net purchases in the last 5 days",
+          "title_ja": "「フードツリー」52週間レポートが更新され、過去5日間の一括外国純購入",
+          "title_zh": "“Food Tree” 52周报告已更新，过去5天大量海外净购买"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Seolleongtang ·冷面被推开，带着大田的味道出现了第三位美食领袖"
         },
         {
-          "title": "“엄마, 음식 타는데 몰랐어?” 치매 위험 크다는데…DGIST, 후각손상 원인 규명",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fVDN6cDZLVWxPQjhCYy12Y0JGMnExSU5OVTVVNUJ3a1VyUVY3WHdSVDN6SDEyNzg5MjJ6ZEFJSml5d3JtTUFmRlYwTEk4dw?oc=5",
+          "title": "K-푸드의 세계화…대상, 현지화 전략으로 일본 시장 공략 강화",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGWHNueHN2clVFYkV6YW1SQ1NncDNMMS16d19TbGdFMEd0VU9ONm42REd1WTRXUUxEVzlscmU5NGh6R1BaOUQ2Sk5zN01QTWxvQldRUFdQYXBzYkJZZTA3LUphaw?oc=5",
           "desc": "",
-          "title_en": "\"Mom, didn't you know about the food?” The risk of dementia is high… DGIST identifies the cause of olfactory injury",
-          "title_ja": "「お母さん、食べ物のこと知らなかったの？「認知症のリスクは高いです... DGISTは嗅覚損傷の原因を特定します",
-          "title_zh": "“妈，你不知道食物的事吗？“痴呆症的风险很高…… DGIST确定了嗅觉损伤的原因"
+          "title_en": "Globalization of K-Food… Targets Strengthen Japanese Market Targets with Localization Strategy",
+          "title_ja": "K - Foodのグローバル化…ターゲットはローカライゼーション戦略で日本市場のターゲットを強化",
+          "title_zh": "K-Food的全球化…目标通过本地化战略加强日本市场目标"
         },
         {
-          "title": "“챗GPT 안에서 과자 산다”…롯데웰푸드, AI 커머스 실험 본격화",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSRWJHeWlNTUNER3BReDRSTTQySElhQ2xacEgzZTMyQXpwNm9PbHlmZjdvSmV6dGZsZHpCOXAwbEFPdzZneTAtX3V3YkNOSWU3dUtlMV9R?oc=5",
+          "title": "\"청년 식품기업 매년 100개 육성\"…K푸드 창업사관학교 출범",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSVduaC1acjZYWExzOUNFNFFoRng5N0syVjFFeTdtTXJnVFhyWXE5X0hnVXZLNFMybGpuRUtLa1EzV2ExeTJXOU9WOGE4ajRsSHc?oc=5",
           "desc": "",
-          "title_en": "“Buy cookies in ChatGPT” … Lotte Well Food intensifies AI commerce experiment",
-          "title_ja": "「ChatGPTでクッキーを購入」…ロッテウェルフードがAIコマース実験を強化",
-          "title_zh": "“在ChatGPT中购买cookie” ……乐天健康食品加强了人工智能商务实验"
+          "title_en": "“Cultivate 100 young food companies every year” … K-Food Start-up Academy launched",
+          "title_ja": "「毎年100社の若手食品企業を育成」… K - Foodスタートアップ・アカデミー発足",
+          "title_zh": "“每年培育100家年轻食品公司” … K-Food创业学院启动"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "从“饮酒健康”到“充实营养” ……美国饮料趋势"
         },
         {
+          "title": "티젠 “2030 여성, 야구장에서도 가볍게 콤부차·젠하이볼향”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BVTlTSzB0ZFJFckQza1ZDV2pxV2VVWk9vNzI0RTVmWVJrVGlpX1RObVdZbGZxdUJScVR2OTl6ZzFFQmJEVUtRUjBBMU8xSGZNSWxXRzRISQ?oc=5",
+          "desc": "",
+          "title_en": "Tizen “2030 Women, Light Kombucha and Zen High Ball Incense at the Baseball Stadium”",
+          "title_ja": "TIZEN「2030女子、ライトコンブチャと野球場での禅ハイボールのお香」",
+          "title_zh": "Tizen “2030年女子，轻康普茶和棒球场禅宗高球香”"
+        },
+        {
           "title": "캐나다 별장에서 커피 한잔…팀홀튼, 삼성동 매장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40QVZCamNIbDVxUWVvSUV6OWRtamFnNkw0Qmg5cnNyMWNCV3BBRzlYMl8xZG9yQXNWemljeUMxZ0RPYnhVSmNyeHR2d0tlN3ZlOXBzWlFEcw?oc=5",
           "desc": "",
           "title_en": "A cup of coffee at a Canadian villa… Tim Houlton, Samseong-dong store",
           "title_ja": "カナダのヴィラでコーヒーを飲もう…ティム・ホールトン、三成洞店",
           "title_zh": "在加拿大别墅喝杯咖啡… Tim Houlton ， Samseong-dong商店"
-        },
-        {
-          "title": "전지현 모델 발탁…대상웰라이프 뉴케어광고 공개",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RMGNoa2hYQjI0d1FyeTF0RW9KMmdubUo3RGtKYmx2c2RXakZncUxRejZVX25WMlROaVJtZlBiNDBaRkF0UlBxUUFScXBRUklBbUhDU3N5WQ?oc=5",
-          "desc": "",
-          "title_en": "Jeon Hyun Model Released… Target Well Life New Care Advertisement Released",
-          "title_ja": "全賢モデル発売…ターゲットウェルライフ新ケア広告発売",
-          "title_zh": "全贤车型发布… Target Well Life New Care广告发布"
         }
       ]
     }
