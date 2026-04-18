@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-04-17T23:09:48Z",
+  "lastUpdated": "2026-04-18T05:52:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Third-party delivery is hurting restaurant economics",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEp0ZUk2X2J0Uk5VY1d0LU9YVGQta3dDZEJzZnFGOTZOUlpOQ3hfem5NVWs3X3dGSTZMU2tvb3dsNDRYd1dzUmJ2UmVmZHV4N0NFTXdkN1pocFU0QjlTNld6dHdVLTBYR3lPYUljWHFrSWNYaDdGS0lSMUduUDc5VHB5SDVCenJKQzhfZTh1X1l6dFBDeEJjVGhNRjE?oc=5",
+          "desc": "",
+          "title_ko": "제3자 배달은 레스토랑 경제를 해치고 있습니다",
+          "title_ja": "第三者による配達がレストランの経済に悪影響を及ぼしている",
+          "title_zh": "第三方派送正在损害餐厅的经济效益"
+        },
         {
           "title": "A bankrupt Carl's Jr. franchisee blames its financial problems on California's $20 wage",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZuOTVRckc5YllwMFZrUUV3Vm1wS01MSExWOWJ1VTVlMEMxZnVLZ3Q2MU9FQ1I1cTFwRXN0YXVTMW5peE9qNkFVWXVrTm1HZkR5eVU3WTN6alhiY0l3RmhTWTRCR2xCcF9XRnNoNXJzRVozVi1oeTNvWk1ERXRXWmZLMmw2d1BEMkRwNGYtZTZRRUFNZWstMl85d211RnA5QWlaQ3VTU2M5TTIwNEQtVGozT3d2OUZqS3JTeUlLUU9oaEE?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "소비자들은 그 어느 때보다 레스토랑에 더 많은 비용을 지출하고 있습니다. 수익은 어디에 있나요?",
           "title_ja": "消費者はこれまで以上にレストランへの支出を増やしています。利益はどこにありますか？",
           "title_zh": "消费者在餐厅的消费比以往任何时候都多。利润在哪里？"
-        },
-        {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
-          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "“군대·골프장까지 먹는다”…본푸드서비스 3년 만에 2배 성장 비결 [권 기자의 장바구니]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENFZESUMyUUhiMEpMWXUtb1RtTzBiRUo2QW1TNzZjODZxcWdyc2xiTmdOeXRic3FmakdYdldYdlRFS1h6YUk0TmdLUnMxY2t5Q1o2MkVDbm5kQdIBVEFVX3lxTFBMcnFKOFM1aHhyVFdSTGplUWl2a0xRRjdEV0tzTXI3YjloQ0FoRWMzRnRoeTlQZzFFZ1YwSF9DSkJYQ1lfVXRleVB5U0pzdkVwSnVzbA?oc=5",
+          "desc": "",
+          "title_en": "“We even eat military and golf courses” … The secret to double the growth of our food service in three years [Kwon reporter's shopping cart]",
+          "title_ja": "「私たちは軍事コースやゴルフコースも食べています」… 3年間でフードサービスの成長を2倍にする秘訣[Kwon記者のショッピングカート]",
+          "title_zh": "“我们甚至吃军事和高尔夫球场” ……在三年内将餐饮服务增长一倍的秘诀[Kwon记者的购物车]"
+        },
+        {
           "title": "올가홀푸드, 팥·검정콩 넣은 '검정콩 간식빵' 선보여",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hNjl3YzB5elRFeS0yVTk4QWg4WlVJX3FtbHVRTVo2RV80UVkzZEtoX0RJVkxGZ3VxcnNxSUJINTJuTFFHRzY0U0JwWWpGaEY4WUZ1TVZFQWttd9IBVEFVX3lxTE14WFRRN3VSa2JBdnl6SGxrcFp3aklMR0l6UnJFd2pCUnk4Slhwc1lCSGRyUkFvaEdQMmRkNWRuQk04SnNOZXJBWnBlcklMUVFXVGkxSQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "No-brand burger surpassed 700,000 app members... 'Smart Consumption with Value for Money'",
           "title_ja": "ノーブランドのハンバーガーが70万人のアプリメンバーを突破…「お金に見合ったスマートな消費」",
           "title_zh": "无品牌汉堡超过70万应用程序会员...... “物有所值的智能消费”"
-        },
-        {
-          "title": "\"이젠 돼지바빵\"…롯데웰푸드, '돼지바 유니버스' 확장 나서",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmNNNDJYNU5EWk1TQzE3bWJRUk1kYWNVWWpUVHRwd1pHSWFvMDVaOWFXaVQyWl9QRjdkcGU5cWlQNHdmTEJFb1paOE1FYXFIWk9MRXZfYXlfYV9YdDMybDNITU82eU9FTkhYNmJuSnVzQVYwZmMzSGlGc2tCTTJSZTRydE5xSU0?oc=5",
-          "desc": "",
-          "title_en": "\"Now Pork Bar Bread\" … Lotte Well Food Expands' Pig Bar Universe '",
-          "title_ja": "「Now Pork Bar Bread」…ロッテウェルフードが「Pig Bar Universe」を拡大",
-          "title_zh": "“Now Pork Bar Bread” … Lotte Well Food拓展“Pig Bar Universe”"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "Yakult ， V-Food儿童多种维生素矿物质"
         },
         {
-          "title": "CJ제일제당, 푸드테크 스타트업 발굴 ‘프론티어랩스’ 6기 모집",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zV09qZmZIWHhrQXh5MVFmM0pKc3NrY2puakxJRkozRkNEemV0YVU5YWlKZGJJQ20wWW4wSTJNV1RHT0J4Tkg0cGU5cmIxWjhPUkHSAVNBVV95cUxOeS14T0FUWW1GOUM2MnMzTVVNODRDRURjbU9WUlA5ejFOeDROQk1ZRmRZU2FMaVlQM3hvZlpfelpnUlpmWW4tWU5EZWpyaWVwV19MWQ?oc=5",
+          "title": "현대그린푸드, 매도잔량 355% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Sm5KX0pndUpqSHNkc0FQVDlocDBwelhHN1pNYlVEYy1oOWVFUE1ocW1yc0NpMzA1dnZLd2RWeGlfOXBOa3dQeDZ4NTExT3I2TkE?oc=5",
           "desc": "",
-          "title_en": "CJ CheilJedang, Food Tech Startup Discovery ‘Frontier Labs’ 6th Recruitment",
-          "title_ja": "CJ CheilJedang、Food Tech Startup Discovery ‘Frontier Labs’ 6 th Recruitment",
-          "title_zh": "CJ CheilJedang ，食品科技创业公司Discovery “Frontier Labs”第六次招聘"
+          "title_en": "Hyundai Green Food sells 355% more",
+          "title_ja": "Hyundai Green Foodの売り上げが355%増加",
+          "title_zh": "现代绿色食品销售额增长355%"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Seolleongtang ·冷面被推开，带着大田的味道出现了第三位美食领袖"
         },
         {
-          "title": "“소주도 음식…오직 맛으로 승부합니다”",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42ZlZrdFM4MGdid0NKNTd4Ui1tcnZIQ0hYU0lDenpWOWR6TVpLeVdWZEk3UU1lbkpxMGZjSThmY2E2MlNyV1JaWXQxQTNlcFloNFdYQg?oc=5",
+          "title": "“또 음식 갖고 장난질?”…스테이크 원산지 ‘한우’라고 속인 업주",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43LUNnSFBHLTdKcTBEX3pMOVlBQ1Itb3VNQ1JKRm55cnZ3NkNXUXVzaTVhWEQ1ODFpRXRHcnBNNEd5SjZlbzlEZUhpVWpXZDd4QkJJdA?oc=5",
           "desc": "",
-          "title_en": "“Shochu is also food… it only battles with taste”",
-          "title_ja": "「焼酎も食…味との戦い」",
-          "title_zh": "「烧酒也是一种美食……它只与味道作斗争」"
+          "title_en": "“Are you messing around with food again?” … A business owner who cheated by saying that the steak origin is‘ Hanwoo ’",
+          "title_ja": "「またごちゃごちゃしてるの？「…ステーキの原産地が『ハンウ』だとズルをした経営者",
+          "title_zh": "“你是不是又在捣乱吃东西了？“ ……一位企业主欺骗说牛排的来源是‘Hanwoo’"
         },
         {
-          "title": "“엄마, 음식 타는데 몰랐어?” 치매 위험 크다는데…DGIST, 후각손상 원인 규명",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fVDN6cDZLVWxPQjhCYy12Y0JGMnExSU5OVTVVNUJ3a1VyUVY3WHdSVDN6SDEyNzg5MjJ6ZEFJSml5d3JtTUFmRlYwTEk4dw?oc=5",
+          "title": "K-푸드의 세계화…대상, 현지화 전략으로 일본 시장 공략 강화",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGWHNueHN2clVFYkV6YW1SQ1NncDNMMS16d19TbGdFMEd0VU9ONm42REd1WTRXUUxEVzlscmU5NGh6R1BaOUQ2Sk5zN01QTWxvQldRUFdQYXBzYkJZZTA3LUphaw?oc=5",
           "desc": "",
-          "title_en": "\"Mom, didn't you know about the food?” The risk of dementia is high… DGIST identifies the cause of olfactory injury",
-          "title_ja": "「お母さん、食べ物のこと知らなかったの？「認知症のリスクは高いです... DGISTは嗅覚損傷の原因を特定します",
-          "title_zh": "“妈，你不知道食物的事吗？“痴呆症的风险很高…… DGIST确定了嗅觉损伤的原因"
+          "title_en": "Globalization of K-Food… Targets Strengthen Japanese Market Targets with Localization Strategy",
+          "title_ja": "K - Foodのグローバル化…ターゲットはローカライゼーション戦略で日本市場のターゲットを強化",
+          "title_zh": "K-Food的全球化…目标通过本地化战略加强日本市场目标"
         }
       ]
     },
