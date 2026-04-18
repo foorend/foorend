@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T11:09:35Z",
+  "lastUpdated": "2026-04-18T17:04:09Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,6 +66,14 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
+          "title": "Food",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
+          "desc": "",
+          "title_ko": "식료품비",
+          "title_ja": "食料",
+          "title_zh": "食物"
+        },
+        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -80,14 +88,6 @@
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -166,12 +166,12 @@
           "title_zh": "Hwang Gyo-ik “Boeun问候”争议...... “问候农民” “美食专业人士”"
         },
         {
-          "title": "잠실야구장 16개 음식매장 추가 입점",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnMEZWVzVPeWJhY3VzODRtajFKUFdqVk5lWmlPXzlSQUEwOUpqN0JFTllTN3ZXeFpETFVpeFZKTWdkWEdWSlEycVlfa3Y5RjlBTVE?oc=5",
+          "title": "[레저단신]향토음식품평회,초등학생 수목원무료견학 등",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3TGk0b0pCSmdkcXFIMEtXVEN5QUxIX3NCRWRwV29GeGhNdnV0bndPeWZsNVJMenpPYkJiSDhqSjBndkcxY0xqdTEwYWZZUlh1TEt3?oc=5",
           "desc": "",
-          "title_en": "16 additional food stores in Jamsil Baseball Stadium",
-          "title_ja": "ジャムシル野球場に追加された食料品店16軒",
-          "title_zh": "蚕室棒球场（ Jamsil Baseball Stadium ）还有16家食品店"
+          "title_en": "[Leisure Single] Local food fair, free visit to elementary school arboretum, etc.",
+          "title_ja": "【レジャーシングル】郷土料理フェア、小学校樹木園無料見学など",
+          "title_zh": "【休闲单人房】当地美食博览会，免费参观小学植物园等。"
         },
         {
           "title": "야쿠르트, 브이푸드 키즈 멀티비타민 미네랄",
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "설렁탕·냉면 밀어내고 대전의 맛으로 떠오른 음식 3대장 정체",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhQURIQUtuc0RSZTEzLUdKdFNGNG9MSV9Edm85ejIwSHp5QmlmU2FheHBYYVpLQXFPbVpHOWpVUjJkaWVWMzJRc1NZYktBc0plWWVTbw?oc=5",
-          "desc": "",
-          "title_en": "Seolleongtang · Cold noodles are pushed away and the third leader of food emerged with the taste of Daejeon",
-          "title_ja": "Seolleongtang・冷たい麺を押しのけて、大田の味と共に食品の第三のリーダーが現れました",
-          "title_zh": "Seolleongtang ·冷面被推开，带着大田的味道出现了第三位美食领袖"
-        },
-        {
           "title": "“또 음식 갖고 장난질?”…스테이크 원산지 ‘한우’라고 속인 업주",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43LUNnSFBHLTdKcTBEX3pMOVlBQ1Itb3VNQ1JKRm55cnZ3NkNXUXVzaTVhWEQ1ODFpRXRHcnBNNEd5SjZlbzlEZUhpVWpXZDd4QkJJdA?oc=5",
           "desc": "",
           "title_en": "“Are you messing around with food again?” … A business owner who cheated by saying that the steak origin is‘ Hanwoo ’",
           "title_ja": "「またごちゃごちゃしてるの？「…ステーキの原産地が『ハンウ』だとズルをした経営者",
           "title_zh": "“你是不是又在捣乱吃东西了？“ ……一位企业主欺骗说牛排的来源是‘Hanwoo’"
+        },
+        {
+          "title": "설렁탕·냉면 밀어내고 대전의 맛으로 떠오른 음식 3대장 정체",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhQURIQUtuc0RSZTEzLUdKdFNGNG9MSV9Edm85ejIwSHp5QmlmU2FheHBYYVpLQXFPbVpHOWpVUjJkaWVWMzJRc1NZYktBc0plWWVTbw?oc=5",
+          "desc": "",
+          "title_en": "Seolleongtang · Cold noodles are pushed away and the third leader of food emerged with the taste of Daejeon",
+          "title_ja": "Seolleongtang・冷たい麺を押しのけて、大田の味と共に食品の第三のリーダーが現れました",
+          "title_zh": "Seolleongtang ·冷面被推开，带着大田的味道出现了第三位美食领袖"
         },
         {
           "title": "“엄마, 음식 타는데 몰랐어?” 치매 위험 크다는데…DGIST, 후각손상 원인 규명",
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "‘마시는 건강’에서 ‘채우는 영양’으로…미국 음료 트렌드",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yVkFxQkRNWjk4QUhZSG5ibWI0bXlGOFBWR1hrZFA4NWJDaXRmSWVLZ1lORG9uOE1oRUxqSDdRMUs3dkU4U2NNTTU3VExiYUtoY1k0aENJMA?oc=5",
-          "desc": "",
-          "title_en": "From ‘Drinking Health’ to ‘Filling Nutrition’ … US Beverage Trends",
-          "title_ja": "「飲酒による健康」から「栄養補給」まで…米国の飲料トレンド",
-          "title_zh": "从“饮酒健康”到“充实营养” ……美国饮料趋势"
-        },
-        {
-          "title": "티젠 “2030 여성, 야구장에서도 가볍게 콤부차·젠하이볼향”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BVTlTSzB0ZFJFckQza1ZDV2pxV2VVWk9vNzI0RTVmWVJrVGlpX1RObVdZbGZxdUJScVR2OTl6ZzFFQmJEVUtRUjBBMU8xSGZNSWxXRzRISQ?oc=5",
-          "desc": "",
-          "title_en": "Tizen “2030 Women, Light Kombucha and Zen High Ball Incense at the Baseball Stadium”",
-          "title_ja": "TIZEN「2030女子、ライトコンブチャと野球場での禅ハイボールのお香」",
-          "title_zh": "Tizen “2030年女子，轻康普茶和棒球场禅宗高球香”"
-        },
-        {
           "title": "캐나다 별장에서 커피 한잔…팀홀튼, 삼성동 매장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40QVZCamNIbDVxUWVvSUV6OWRtamFnNkw0Qmg5cnNyMWNCV3BBRzlYMl8xZG9yQXNWemljeUMxZ0RPYnhVSmNyeHR2d0tlN3ZlOXBzWlFEcw?oc=5",
           "desc": "",
           "title_en": "A cup of coffee at a Canadian villa… Tim Houlton, Samseong-dong store",
           "title_ja": "カナダのヴィラでコーヒーを飲もう…ティム・ホールトン、三成洞店",
           "title_zh": "在加拿大别墅喝杯咖啡… Tim Houlton ， Samseong-dong商店"
+        },
+        {
+          "title": "전지현 모델 발탁…대상웰라이프 뉴케어광고 공개",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RMGNoa2hYQjI0d1FyeTF0RW9KMmdubUo3RGtKYmx2c2RXakZncUxRejZVX25WMlROaVJtZlBiNDBaRkF0UlBxUUFScXBRUklBbUhDU3N5WQ?oc=5",
+          "desc": "",
+          "title_en": "Jeon Hyun Model Released… Target Well Life New Care Advertisement Released",
+          "title_ja": "全賢モデル発売…ターゲットウェルライフ新ケア広告発売",
+          "title_zh": "全贤车型发布… Target Well Life New Care广告发布"
+        },
+        {
+          "title": "동서식품, 장애인의 날 맞아 봉사활동",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LOFBjNk9Bb0NhOUtfQmhnci1hbEY4LS1VNWEwcWRVR3NFcVJ4dTJkY0pGQ3A0dm5WWFVUUnJqMDBhZkpQNVNCSDFsSDhLYXJvV1BtZjZFdw?oc=5",
+          "desc": "",
+          "title_en": "East and West Foods, Volunteer Activities for Disabled People's Day",
+          "title_ja": "東洋と西洋の食べ物、障害者のためのボランティア活動の日",
+          "title_zh": "东西方美食，残疾人志愿者活动日"
         }
       ]
     }
