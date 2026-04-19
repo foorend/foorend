@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T22:03:48Z",
+  "lastUpdated": "2026-04-19T06:17:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
+          "desc": "",
+          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
+          "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
+          "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "Olga Holfood推出带有红豆和黑豆的“黑豆零食面包”"
         },
         {
-          "title": "노브랜드 버거, 앱 회원 70만명 돌파…'가성비 스마트 소비' 통했다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBydlVndVphd25zVjY5ZXgyYzZjUEFiXzVBMVFpQXlub0V6ZlJpclNzRXhERHhhNjdxY1ZYWi1LR2EwYXppZjA5MjR5NDh5dzBZV2lIMGxBTGtUd9IBVEFVX3lxTE4wNWM0Q0twMW40S3p3YWxienI5UGYzNUlvMFd4TlNvVWlDVTJOaFlHTlJMT2lLM2xjRXVwdF9UV0Q0UEFqNWlzSDdZWVoteUhleVdYcw?oc=5",
+          "title": "슈퍼포우, 미군 교환소 AAFES 입점...K-펫푸드 해외 진출 확대",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82cEh2NWZXWE5mdl9RVEtsVHFJSmk2cmtPcERWci02TWM4WXdteXZ0WURJVTRyWXoxbEptakVTMVRjSncydWpkQUtxZURBRW02N2YtYjktNzFYaURCblFVLWNSdmdfYlhG?oc=5",
           "desc": "",
-          "title_en": "No-brand burger surpassed 700,000 app members... 'Smart Consumption with Value for Money'",
-          "title_ja": "ノーブランドのハンバーガーが70万人のアプリメンバーを突破…「お金に見合ったスマートな消費」",
-          "title_zh": "无品牌汉堡超过70万应用程序会员...... “物有所值的智能消费”"
+          "title_en": "Superpow Launches AAFES at US Military Exchange... Expands Overseas Expansion of K-Pet Foods",
+          "title_ja": "Superpow、米軍取引所でAAFESを開始... K - Pet Foodsの海外展開を拡大",
+          "title_zh": "Superpow在美国军事交易所推出AAFES...扩大K-Pet Foods的海外扩张"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“K푸드, 진정성 지키며 현지화 나서야…카피캣과 확실한 차별화 필수”[인터뷰]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82N1ZSVmxJdDJLXzJTaGlfMDV2c2E5SU81RlFfVHo0NmRyV1dZZDhfUy1DTE10dzVaZFRFTjJkOEZ3U3dVMnNwYU1LWGRlNWRjMVHSAVNBVV95cUxNVzB6Ujd5TmhWdHFRd1ZZcWpLRFF4QV9NWG1aZk9aeEl2MlI0eTA1Uy1oem5fa1VLYXctak9VVHdwM0RwY1ZSQ3lJUUpQZWNOSUdHZw?oc=5",
+          "desc": "",
+          "title_en": "“K-foods must be localized with authenticity… to make a definite difference from copycats” [Interview]",
+          "title_ja": "「模倣犯と明確な違いを生み出すために、K - foodは信頼性を持ってローカライズされなければなりません」[インタビュー]",
+          "title_zh": "“K-foods必须以真实性进行本地化......才能与模仿者区别开来” [采访]"
+        },
+        {
+          "title": "배민, AI가 음식 사진 설명한다…시각장애인 지원 기능 개발",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZMFZWdTdzenlOYjdvVU9ZMXZmSjZEblg2RjI0RXkyTGRyWERIVE5HVEswUG9ES0pKZWRTOFZ6c1ZJc0RYclgwUmRpZW1YR1AzWmfSAVNBVV95cUxPSm5uMlhzM0hsNFNQcElKVE04QVl2OHpoMk9WeHZtVWsydUptVnhsaENLQmJjYmRDeWZjNkdtOXdlTDZUN3BHSVNSYWlHQ05JdHNtZw?oc=5",
+          "desc": "",
+          "title_en": "Bae Min, AI Explains Food Photography… Development of Support for the Blind",
+          "title_ja": "Bae Min、AIが食品写真を説明…盲人支援の開発",
+          "title_zh": "AI的Bae Min解释了食品摄影......为盲人提供支持的发展"
+        },
+        {
           "title": "황교익 ‘보은인사’ 논란…野 “인사 농단” 與 “음식 전문가”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FM05INzQzRDJmZ1N3TWdDQ3Mwb1IwZWFkek9Jc24wV090U0pQYVF6dmRWRUt5elFOX3FNdEpOWi1GVnlESmFUd1RJUUFoYUFpQnfSAVNBVV95cUxPX0ljSTF4cTZJUG1tVV8xYUhGLXhEY3RPVGgxLVRhb2ttcmtnT0VpYTZhNmhMTTc2YzViTzItYmRLa1BrVFlqREM2SFEtMXZLV2RJaw?oc=5",
           "desc": "",
           "title_en": "Hwang Gyo-ik ‘Boeun Greeting’ Controversy… “Greeting Farmers” “Food Professionals”",
           "title_ja": "ファン・ギョイク「ブーン挨拶」論争…「ファーマーズ挨拶」「フードプロフェッショナル」",
           "title_zh": "Hwang Gyo-ik “Boeun问候”争议...... “问候农民” “美食专业人士”"
-        },
-        {
-          "title": "야쿠르트, 브이푸드 키즈 멀티비타민 미네랄",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZTNZTDJmN056ZWtKbjNpNnRVWkY5ODRhYnNuUEMtRjdrUmxIQUVuRVcwRkY5OHo5Z0tPVnNvZnFabVB0bVBKd3B3NkVkcU1UaVNR0gFTQVVfeXFMTThlM1lMMmY3Tnpla0puM2k2dFVaRjk4NGFic25QQy1GN2tSbEhBRW5FVzBGRjk4ejlnS09Wc29mcVptUHRtUEp3cHc2RWRxTVRpU1E?oc=5",
-          "desc": "",
-          "title_en": "Yakult, V-Food Kids Multivitamin Mineral",
-          "title_ja": "Yakult、V - Foodキッズマルチビタミンミネラル",
-          "title_zh": "Yakult ， V-Food儿童多种维生素矿物质"
-        },
-        {
-          "title": "현대그린푸드, 매도잔량 355% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Sm5KX0pndUpqSHNkc0FQVDlocDBwelhHN1pNYlVEYy1oOWVFUE1ocW1yc0NpMzA1dnZLd2RWeGlfOXBOa3dQeDZ4NTExT3I2TkE?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food sells 355% more",
-          "title_ja": "Hyundai Green Foodの売り上げが355%増加",
-          "title_zh": "现代绿色食品销售额增长355%"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "배민, 음식 사진 음성으로 설명…\"시각장애인 접근성 높여\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00NEs3Z2JZYWlQYl9UTUxQb3hSY1pTbmNpeGpmbTByUHY1YVd0OUNfdDJRUnFReTJjaXhtOG8wc1ZLVm5CaTY2S2NlNmMzUVlHbEE?oc=5",
+          "desc": "",
+          "title_en": "Bae Min explains food photos with voice... \"Increase accessibility for the blind\"",
+          "title_ja": "Bae Minさんが食べ物の写真を声で説明してくれます…「視覚障害者のアクセシビリティを向上させる」",
+          "title_zh": "Bae Min用声音解释食物照片...... “增加盲人的可达性”"
+        },
+        {
           "title": "“또 음식 갖고 장난질?”…스테이크 원산지 ‘한우’라고 속인 업주",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43LUNnSFBHLTdKcTBEX3pMOVlBQ1Itb3VNQ1JKRm55cnZ3NkNXUXVzaTVhWEQ1ODFpRXRHcnBNNEd5SjZlbzlEZUhpVWpXZDd4QkJJdA?oc=5",
           "desc": "",
           "title_en": "“Are you messing around with food again?” … A business owner who cheated by saying that the steak origin is‘ Hanwoo ’",
           "title_ja": "「またごちゃごちゃしてるの？「…ステーキの原産地が『ハンウ』だとズルをした経営者",
           "title_zh": "“你是不是又在捣乱吃东西了？“ ……一位企业主欺骗说牛排的来源是‘Hanwoo’"
-        },
-        {
-          "title": "설렁탕·냉면 밀어내고 대전의 맛으로 떠오른 음식 3대장 정체",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhQURIQUtuc0RSZTEzLUdKdFNGNG9MSV9Edm85ejIwSHp5QmlmU2FheHBYYVpLQXFPbVpHOWpVUjJkaWVWMzJRc1NZYktBc0plWWVTbw?oc=5",
-          "desc": "",
-          "title_en": "Seolleongtang · Cold noodles are pushed away and the third leader of food emerged with the taste of Daejeon",
-          "title_ja": "Seolleongtang・冷たい麺を押しのけて、大田の味と共に食品の第三のリーダーが現れました",
-          "title_zh": "Seolleongtang ·冷面被推开，带着大田的味道出现了第三位美食领袖"
         },
         {
           "title": "K-푸드의 세계화…대상, 현지화 전략으로 일본 시장 공략 강화",
@@ -234,12 +234,12 @@
           "title_zh": "全贤车型发布… Target Well Life New Care广告发布"
         },
         {
-          "title": "고소한 감자에 치즈 가득, ‘감자 치즈 그라탕’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c01mYkF5cU56NkxWNktoT09HSE1PYlN3RFhiaWtLbWlpdjdMdGNXWTZ0OGdFSHA0LS1ma0lfWWQyX1MwYk9yVmFiRlFzT2UyVUlZTUtjNA?oc=5",
+          "title": "동서식품, 장애인의 날 맞아 봉사활동",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LOFBjNk9Bb0NhOUtfQmhnci1hbEY4LS1VNWEwcWRVR3NFcVJ4dTJkY0pGQ3A0dm5WWFVUUnJqMDBhZkpQNVNCSDFsSDhLYXJvV1BtZjZFdw?oc=5",
           "desc": "",
-          "title_en": "Savory potatoes full of cheese, ‘potato cheese gratin’",
-          "title_ja": "チーズたっぷりの美味しいじゃがいも、「じゃがいもチーズグラタン」",
-          "title_zh": "充满奶酪的咸味土豆， “马铃薯奶酪烤肉”"
+          "title_en": "East and West Foods, Volunteer Activities for Disabled People's Day",
+          "title_ja": "東洋と西洋の食べ物、障害者のためのボランティア活動の日",
+          "title_zh": "东西方美食，残疾人志愿者活动日"
         }
       ]
     }
