@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T06:17:54Z",
+  "lastUpdated": "2026-04-19T11:09:27Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -39,7 +39,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -132,16 +132,8 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENFZESUMyUUhiMEpMWXUtb1RtTzBiRUo2QW1TNzZjODZxcWdyc2xiTmdOeXRic3FmakdYdldYdlRFS1h6YUk0TmdLUnMxY2t5Q1o2MkVDbm5kQdIBVEFVX3lxTFBMcnFKOFM1aHhyVFdSTGplUWl2a0xRRjdEV0tzTXI3YjloQ0FoRWMzRnRoeTlQZzFFZ1YwSF9DSkJYQ1lfVXRleVB5U0pzdkVwSnVzbA?oc=5",
           "desc": "",
           "title_en": "From golf courses to the military, 'sweeping' … 200 billion 'mega-nights' as a bob shop [Kwon, reporter's shopping cart]",
-          "title_ja": "ゴルフコースから軍隊まで、ボブショップとして2,000億の「メガナイト」を「掃除」する[Kwon、レポーターのショッピングカート]",
+          "title_ja": "ゴルフコースから軍隊まで、ボブショップとして2000億の「メガナイト」を「掃除」する[Kwon、レポーターのショッピングカート]",
           "title_zh": "从高尔夫球场到军队， “扫荡”...... 2000亿个“超级夜晚”作为鲍勃商店[Kwon ，记者的购物车]"
-        },
-        {
-          "title": "올가홀푸드, 팥·검정콩 넣은 '검정콩 간식빵' 선보여",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hNjl3YzB5elRFeS0yVTk4QWg4WlVJX3FtbHVRTVo2RV80UVkzZEtoX0RJVkxGZ3VxcnNxSUJINTJuTFFHRzY0U0JwWWpGaEY4WUZ1TVZFQWttd9IBVEFVX3lxTE14WFRRN3VSa2JBdnl6SGxrcFp3aklMR0l6UnJFd2pCUnk4Slhwc1lCSGRyUkFvaEdQMmRkNWRuQk04SnNOZXJBWnBlcklMUVFXVGkxSQ?oc=5",
-          "desc": "",
-          "title_en": "Olga Holfood Introduces' Black Bean Snack Bread 'with Red Beans and Black Beans",
-          "title_ja": "Olga Holfoodが赤豆と黒豆を使った「黒豆スナックブレッド」を紹介",
-          "title_zh": "Olga Holfood推出带有红豆和黑豆的“黑豆零食面包”"
         },
         {
           "title": "슈퍼포우, 미군 교환소 AAFES 입점...K-펫푸드 해외 진출 확대",
@@ -150,6 +142,14 @@
           "title_en": "Superpow Launches AAFES at US Military Exchange... Expands Overseas Expansion of K-Pet Foods",
           "title_ja": "Superpow、米軍取引所でAAFESを開始... K - Pet Foodsの海外展開を拡大",
           "title_zh": "Superpow在美国军事交易所推出AAFES...扩大K-Pet Foods的海外扩张"
+        },
+        {
+          "title": "노브랜드 버거, 앱 회원 70만명 돌파…'가성비 스마트 소비' 통했다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBydlVndVphd25zVjY5ZXgyYzZjUEFiXzVBMVFpQXlub0V6ZlJpclNzRXhERHhhNjdxY1ZYWi1LR2EwYXppZjA5MjR5NDh5dzBZV2lIMGxBTGtUd9IBVEFVX3lxTE4wNWM0Q0twMW40S3p3YWxienI5UGYzNUlvMFd4TlNvVWlDVTJOaFlHTlJMT2lLM2xjRXVwdF9UV0Q0UEFqNWlzSDdZWVoteUhleVdYcw?oc=5",
+          "desc": "",
+          "title_en": "No-brand burger surpassed 700,000 app members... 'Smart Consumption with Value for Money'",
+          "title_ja": "ノーブランドのハンバーガーが70万人のアプリメンバーを突破…「お金に見合ったスマートな消費」",
+          "title_zh": "无品牌汉堡超过70万应用程序会员...... “物有所值的智能消费”"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "“你是不是又在捣乱吃东西了？“ ……一位企业主欺骗说牛排的来源是‘Hanwoo’"
         },
         {
-          "title": "K-푸드의 세계화…대상, 현지화 전략으로 일본 시장 공략 강화",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGWHNueHN2clVFYkV6YW1SQ1NncDNMMS16d19TbGdFMEd0VU9ONm42REd1WTRXUUxEVzlscmU5NGh6R1BaOUQ2Sk5zN01QTWxvQldRUFdQYXBzYkJZZTA3LUphaw?oc=5",
+          "title": "배민 'AI음성으로 음식사진 설명' 개발",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qZHlvR3dBaDBZeDNwcGZrZHRNY2hxTEdEenZPRnJ0ZXY4OU1UVmhKMEhpNDE0MHNoemdNcnRiRU1pVDRqQ3YxblA5YVNhN2NnU0FBUUln?oc=5",
           "desc": "",
-          "title_en": "Globalization of K-Food… Targets Strengthen Japanese Market Targets with Localization Strategy",
-          "title_ja": "K - Foodのグローバル化…ターゲットはローカライゼーション戦略で日本市場のターゲットを強化",
-          "title_zh": "K-Food的全球化…目标通过本地化战略加强日本市场目标"
+          "title_en": "Developed Baemin 'Food Photo Explanation with AI Voice'",
+          "title_ja": "Baemin 'Food Photo Explanation with AI Voice'を開発",
+          "title_zh": "开发Baemin “用AI语音解释美食照片”"
         }
       ]
     },
