@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T07:28:19Z",
+  "lastUpdated": "2026-04-20T12:15:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Bluestone Lane联合创始人推出新的烤鸡概念"
         },
         {
-          "title": "Third-party delivery is hurting restaurant economics",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEp0ZUk2X2J0Uk5VY1d0LU9YVGQta3dDZEJzZnFGOTZOUlpOQ3hfem5NVWs3X3dGSTZMU2tvb3dsNDRYd1dzUmJ2UmVmZHV4N0NFTXdkN1pocFU0QjlTNld6dHdVLTBYR3lPYUljWHFrSWNYaDdGS0lSMUduUDc5VHB5SDVCenJKQzhfZTh1X1l6dFBDeEJjVGhNRjE?oc=5",
-          "desc": "",
-          "title_ko": "제3자 배달은 레스토랑 경제를 해치고 있습니다",
-          "title_ja": "第三者による配達がレストランの経済に悪影響を及ぼしている",
-          "title_zh": "第三方派送正在损害餐厅的经济效益"
-        },
-        {
           "title": "Consumers are spending more on restaurants than ever. Where are the profits?",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzUtZFpDNURxRGJ6WHJzbXoyZzdzMWtIRDhhV2hTUFVHZTc2aVRmS0FnbkdSUE1tYThfaDFJdUh6NVFIdS1qbTUtRXk4b3BzaEpHSGxkOHNNNFdDeXJXZDJWbllIaVJqVk1JNE85YUx1a2NYRG93UWMzb1d0bnU5d0lsUkNvLVpaRDEyVGRJd0RlTDdUUjYtR2xMS1BUakFCRm55VGp5NUlCeU5SREE?oc=5",
           "desc": "",
           "title_ko": "소비자들은 그 어느 때보다 레스토랑에 더 많은 비용을 지출하고 있습니다. 수익은 어디에 있나요?",
           "title_ja": "消費者はこれまで以上にレストランへの支出を増やしています。利益はどこにありますか？",
           "title_zh": "消费者在餐厅的消费比以往任何时候都多。利润在哪里？"
+        },
+        {
+          "title": "A bankrupt Carl's Jr. franchisee blames its financial problems on California's $20 wage",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZuOTVRckc5YllwMFZrUUV3Vm1wS01MSExWOWJ1VTVlMEMxZnVLZ3Q2MU9FQ1I1cTFwRXN0YXVTMW5peE9qNkFVWXVrTm1HZkR5eVU3WTN6alhiY0l3RmhTWTRCR2xCcF9XRnNoNXJzRVozVi1oeTNvWk1ERXRXWmZLMmw2d1BEMkRwNGYtZTZRRUFNZWstMl85d211RnA5QWlaQ3VTU2M5TTIwNEQtVGozT3d2OUZqS3JTeUlLUU9oaEE?oc=5",
+          "desc": "",
+          "title_ko": "파산한 Carl's Jr. 프랜차이즈 가맹점은 캘리포니아의 $ 20 임금에 대한 재정적 문제를 비난합니다.",
+          "title_ja": "破産したカールズジュニアのフランチャイズ加盟店は、カリフォルニア州の$ 20の賃金に財政問題を非難しています",
+          "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
         }
       ]
     },
@@ -109,7 +109,7 @@
           "desc": "Dining out in Big Sur, California, requires intentionality. There’s nothing casual about visiting a restaurant off the cliff-hugging stretch of Highwa",
           "title_ko": "6곳의 레스토랑이 사랑하는 예술 작품의 뒷이야기를 설명합니다",
           "title_ja": "6つのレストランが愛するアートワークの背景にあるストーリーを説明",
-          "title_zh": "6家餐厅讲述他们心爱的艺术品背后的故事"
+          "title_zh": "6家餐厅讲解他们心爱的艺术品背后的故事"
         },
         {
           "title": "The 38 Best Restaurants in Lisbon, Portugal, According to a Local Expert",
@@ -136,12 +136,12 @@
           "title_zh": "从高尔夫球场到军队， “扫荡”...... 2000亿个“超级夜晚”作为鲍勃商店[Kwon ，记者的购物车]"
         },
         {
-          "title": "슈퍼포우, 미군 교환소 AAFES 입점...K-펫푸드 해외 진출 확대",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82cEh2NWZXWE5mdl9RVEtsVHFJSmk2cmtPcERWci02TWM4WXdteXZ0WURJVTRyWXoxbEptakVTMVRjSncydWpkQUtxZURBRW02N2YtYjktNzFYaURCblFVLWNSdmdfYlhG?oc=5",
+          "title": "필리핀 졸리비푸드, 샤브올데이 품었다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pWk1iOHNjMFpZOWotV1QyS1dEQ0VVeGowaEUxTVNTVzFmekp5TUNpV1R1XzV2VE5PYVo4Uk1vTlptQ0huQ2t5WEVaZkFGdGhWWGZCeW5yWnlBd9IBVEFVX3lxTE05bnZsWDI4dFZuR0dUTlg2clFfSjN6TkhWOEZzRmU3NkplQlhvd3NiZ0FwdmhadTVvMWg1OVNtQU9LSzUzN0E0OHhQcjRBZU8tUmZWcw?oc=5",
           "desc": "",
-          "title_en": "Superpow Launches AAFES at US Military Exchange... Expands Overseas Expansion of K-Pet Foods",
-          "title_ja": "Superpow、米軍取引所でAAFESを開始... K - Pet Foodsの海外展開を拡大",
-          "title_zh": "Superpow在美国军事交易所推出AAFES...扩大K-Pet Foods的海外扩张"
+          "title_en": "Philippine Jollibee Food, Shabu All Day",
+          "title_ja": "フィリピン・ジョリビー料理としゃぶしゃぶ体験（終日）",
+          "title_zh": "菲律宾Jollibee美食，一日游"
         },
         {
           "title": "노브랜드 버거, 앱 회원 70만명 돌파…'가성비 스마트 소비' 통했다",
@@ -174,12 +174,12 @@
           "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
         },
         {
-          "title": "“K푸드, 유행 넘어 장기 트렌드로…카피캣 위협은 대비해야”[인터뷰]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOaFNxN1RJZHJTdnZmd2pWRWhraEN4cmYwRXRnQXJLbGJtVl9UYzQ3TENWSFNXWGNOU3NndmM5elkxLThCVkEwR045Z1VTNUt4a0HSAVNBVV95cUxNdmpFNmdFTWZIYXZWX1ZRR251Umt2VEF1WHRDZkJ1OWtCWi1vTGN5T0RkRm9fRnB1bTJSQ1pscTRQY3BaMWVHcG81YjlCSHJxbmxFaw?oc=5",
+          "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zVXdsTVRoT1AtT3E5dm5jUk1RcFE5Y05JV0FOTm0wbklSUWMzajFmbnBoWkhqd2ZCUEtLUV9MNkYxR0h2WWJtNWFub0EyeC1Xd0HSAVNBVV95cUxQM016cHBwalFxWWRwdkU0MWpaZldUeU03alRrTUtGSkNEQmt0S1d5WmZ5d0Z1RGZmbnBpVUxTTnBFN0Q4RVFpLS1wX3ZPdjk3QTVYVQ?oc=5",
           "desc": "",
-          "title_en": "“K-Foods Goes Beyond Trends to Long-Term Trends… Copy Cat Threats Must Be Prepared” [Interview]",
-          "title_ja": "「K - Foodsはトレンドを超えて長期的なトレンドに向かっています…猫の脅威をコピーする必要があります」[インタビュー]",
-          "title_zh": "“K-Foods超越趋势走向长期趋势……必须准备好抄袭猫咪的威胁” [采访]"
+          "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
+          "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
+          "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "菲律宾Jolibee Food以1300亿韩元全天收购Shabu"
         },
         {
+          "title": "현대그린푸드, 애프터마켓서 11%대 급등",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iSUxvTElLYjB2eE1nMEtBMnBxT21VNXZBSndNRnNFaTFYbERXLVJfU3N1amxGN0lZOUhWZ19VUzRqUzZVQmxmQ202R3YxMkdfX3c?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, aftermarket surge of 11%",
+          "title_ja": "Hyundai Green Food、アフターマーケットが11%急増",
+          "title_zh": "现代绿色食品，售后市场激增11%"
+        },
+        {
           "title": "배민, 음식 사진 음성으로 설명…\"시각장애인 접근성 높여\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00NEs3Z2JZYWlQYl9UTUxQb3hSY1pTbmNpeGpmbTByUHY1YVd0OUNfdDJRUnFReTJjaXhtOG8wc1ZLVm5CaTY2S2NlNmMzUVlHbEE?oc=5",
           "desc": "",
           "title_en": "Bae Min explains food photos with voice... \"Increase accessibility for the blind\"",
           "title_ja": "Bae Minさんが食べ物の写真を声で説明してくれます…「視覚障害者のアクセシビリティを向上させる」",
           "title_zh": "Bae Min用声音解释食物照片...... “增加盲人的可达性”"
-        },
-        {
-          "title": "“또 음식 갖고 장난질?”…스테이크 원산지 ‘한우’라고 속인 업주",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43LUNnSFBHLTdKcTBEX3pMOVlBQ1Itb3VNQ1JKRm55cnZ3NkNXUXVzaTVhWEQ1ODFpRXRHcnBNNEd5SjZlbzlEZUhpVWpXZDd4QkJJdA?oc=5",
-          "desc": "",
-          "title_en": "“Are you messing around with food again?” … A business owner who cheated by saying that the steak origin is‘ Hanwoo ’",
-          "title_ja": "「またごちゃごちゃしてるの？「…ステーキの原産地が『ハンウ』だとズルをした経営者",
-          "title_zh": "“你是不是又在捣乱吃东西了？“ ……一位企业主欺骗说牛排的来源是‘Hanwoo’"
         }
       ]
     },
