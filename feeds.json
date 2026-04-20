@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T12:15:26Z",
+  "lastUpdated": "2026-04-20T18:10:35Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -44,20 +44,20 @@
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
         {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
           "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
           "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
           "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "A Local Pizzaiolo’s Tour of the Best Restaurants in NYC",
+          "link": "https://www.eater.com/video/956396/chefs-day-off-anthony-angieri",
+          "desc": "Chef Anthony Mangieri from Una Pizza Napoletana, whose pizza was crowned the best in the U.S. in 2025, takes Eater on a tour of his favorite restauran",
+          "title_ko": "뉴욕 최고의 레스토랑을 찾아가는 현지 피자이올로 투어",
+          "title_ja": "ニューヨークの地元ピッツァイオーロのベストレストランツアー",
+          "title_zh": "当地披萨店之旅：探索纽约最棒的餐厅"
+        },
+        {
+          "title": "The New American Steakhouse",
+          "link": "https://www.eater.com/dining-out/956087/global-steakhouse-trend-fusion-international-cuisines",
+          "desc": "By and large, most diners at Cote, the sleek and club-like New York City steakhouse, order the Butcher’s Feast. For $82 per person, diners get four cu",
+          "title_ko": "뉴아메리칸 스테이크하우스",
+          "title_ja": "ニューアメリカン・ステーキハウス",
+          "title_zh": "The New American Steakhouse"
+        },
+        {
           "title": "Gwyneth Paltrow Wants to Bring Delicious, Healthy Food to New York",
           "link": "https://www.eater.com/pop-culture/955847/gwyneth-paltrow-interview-goop-kitchen-expansion",
           "desc": "If you’ve never tried Goop Kitchen, Gwyneth Paltrow’s takeout-only, nutritious food operation, you’re missing out. No matter what you think of the Hol",
           "title_ko": "귀네스 팰트로 (Gwyneth Paltrow) 는 뉴욕에 맛있고 건강한 음식을 가져 오기를 원합니다.",
           "title_ja": "グウィネス・パルトロウ、美味しくてヘルシーな食べ物をニューヨークに届けたい",
           "title_zh": "格温妮丝·帕特洛（ Gwyneth Paltrow ）希望为纽约带来美味、健康的食物"
-        },
-        {
-          "title": "6 Restaurants Explain the Stories Behind Their Beloved Artworks",
-          "link": "https://www.eater.com/dining-out/955765/restaurants-bars-cool-art-famous-restaurant-artworks",
-          "desc": "Dining out in Big Sur, California, requires intentionality. There’s nothing casual about visiting a restaurant off the cliff-hugging stretch of Highwa",
-          "title_ko": "6곳의 레스토랑이 사랑하는 예술 작품의 뒷이야기를 설명합니다",
-          "title_ja": "6つのレストランが愛するアートワークの背景にあるストーリーを説明",
-          "title_zh": "6家餐厅讲解他们心爱的艺术品背后的故事"
-        },
-        {
-          "title": "The 38 Best Restaurants in Lisbon, Portugal, According to a Local Expert",
-          "link": "https://www.eater.com/maps/best-lisbon-portugal-restaurants",
-          "desc": "A food-loving visitor will quickly learn that sardines, cod, and the iconic pastel de nata are great, but the Lisbon restaurant scene can offer much m",
-          "title_ko": "현지 전문가가 선정한 포르투갈 리스본 최고의 레스토랑 38곳",
-          "title_ja": "現地エキスパートによるポルトガル、リスボンの人気レストラン38選",
-          "title_zh": "当地达人评选的葡萄牙里斯本38家最佳餐厅"
         }
       ]
     }
@@ -144,12 +144,12 @@
           "title_zh": "菲律宾Jollibee美食，一日游"
         },
         {
-          "title": "노브랜드 버거, 앱 회원 70만명 돌파…'가성비 스마트 소비' 통했다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBydlVndVphd25zVjY5ZXgyYzZjUEFiXzVBMVFpQXlub0V6ZlJpclNzRXhERHhhNjdxY1ZYWi1LR2EwYXppZjA5MjR5NDh5dzBZV2lIMGxBTGtUd9IBVEFVX3lxTE4wNWM0Q0twMW40S3p3YWxienI5UGYzNUlvMFd4TlNvVWlDVTJOaFlHTlJMT2lLM2xjRXVwdF9UV0Q0UEFqNWlzSDdZWVoteUhleVdYcw?oc=5",
+          "title": "올가홀푸드, 팥·검정콩 넣은 '검정콩 간식빵' 선보여",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hNjl3YzB5elRFeS0yVTk4QWg4WlVJX3FtbHVRTVo2RV80UVkzZEtoX0RJVkxGZ3VxcnNxSUJINTJuTFFHRzY0U0JwWWpGaEY4WUZ1TVZFQWttd9IBVEFVX3lxTE14WFRRN3VSa2JBdnl6SGxrcFp3aklMR0l6UnJFd2pCUnk4Slhwc1lCSGRyUkFvaEdQMmRkNWRuQk04SnNOZXJBWnBlcklMUVFXVGkxSQ?oc=5",
           "desc": "",
-          "title_en": "No-brand burger surpassed 700,000 app members... 'Smart Consumption with Value for Money'",
-          "title_ja": "ノーブランドのハンバーガーが70万人のアプリメンバーを突破…「お金に見合ったスマートな消費」",
-          "title_zh": "无品牌汉堡超过70万应用程序会员...... “物有所值的智能消费”"
+          "title_en": "Olga Holfood Introduces' Black Bean Snack Bread 'with Red Beans and Black Beans",
+          "title_ja": "Olga Holfoodが赤豆と黒豆を使った「黒豆スナックブレッド」を紹介",
+          "title_zh": "Olga Holfood推出带有红豆和黑豆的“黑豆零食面包”"
         }
       ]
     },
@@ -158,19 +158,11 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“K푸드, 유행 넘어 장기 트렌드로…카피캣 위협은 대비해야”[인터뷰]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12akU2Z0VNZkhhdlZfVlFHbnVSa3ZUQXVYdENmQnU5a0JaLW9MY3lPRGRGb19GcHVtMlJDWmxxNFBjcFoxZUdwbzViOUJIcnFubEVr0gFTQVVfeXFMTXZqRTZnRU1mSGF2Vl9WUUdudVJrdlRBdVh0Q2ZCdTlrQlotb0xjeU9EZEZvX0ZwdW0yUkNabHE0UGNwWjFlR3BvNWI5QkhycW5sRWs?oc=5",
-          "desc": "",
-          "title_en": "“K-Foods Goes Beyond Trends to Long-Term Trends… Copy Cat Threats Must Be Prepared” [Interview]",
-          "title_ja": "「K - Foodsはトレンドを超えて長期的なトレンドに向かっています…猫の脅威をコピーする必要があります」[インタビュー]",
-          "title_zh": "“K-Foods超越趋势走向长期趋势……必须准备好抄袭猫咪的威胁” [采访]"
-        },
-        {
           "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzTXpwcHBqUXFZZHB2RTQxalpmV1R5TTdqVGtNS0ZKQ0RCa3RLV3laZnl3RnVEZmZucGlVTFNOcEU3RDhFUWktLXBfdk92OTdBNVhV0gFTQVVfeXFMUDNNenBwcGpRcVlkcHZFNDFqWmZXVHlNN2pUa01LRkpDREJrdEtXeVpmeXdGdURmZm5waVVMU05wRTdEOEVRaS0tcF92T3Y5N0E1WFU?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
-          "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
+          "title_ja": "ロッテウェルフード、KBOコラボ商品「スイーツオールスター展」開幕",
           "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
         },
         {
@@ -180,6 +172,14 @@
           "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
           "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
           "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
+        },
+        {
+          "title": "“K푸드, 유행 넘어 장기 트렌드로…카피캣 위협은 대비해야”[인터뷰]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOaFNxN1RJZHJTdnZmd2pWRWhraEN4cmYwRXRnQXJLbGJtVl9UYzQ3TENWSFNXWGNOU3NndmM5elkxLThCVkEwR045Z1VTNUt4a0HSAVNBVV95cUxNdmpFNmdFTWZIYXZWX1ZRR251Umt2VEF1WHRDZkJ1OWtCWi1vTGN5T0RkRm9fRnB1bTJSQ1pscTRQY3BaMWVHcG81YjlCSHJxbmxFaw?oc=5",
+          "desc": "",
+          "title_en": "“K-Foods Goes Beyond Trends to Long-Term Trends… Copy Cat Threats Must Be Prepared” [Interview]",
+          "title_ja": "「K - Foodsはトレンドを超えて長期的なトレンドに向かっています…猫の脅威をコピーする必要があります」[インタビュー]",
+          "title_zh": "“K-Foods超越趋势走向长期趋势……必须准备好抄袭猫咪的威胁” [采访]"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "现代绿色食品，售后市场激增11%"
         },
         {
-          "title": "배민, 음식 사진 음성으로 설명…\"시각장애인 접근성 높여\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00NEs3Z2JZYWlQYl9UTUxQb3hSY1pTbmNpeGpmbTByUHY1YVd0OUNfdDJRUnFReTJjaXhtOG8wc1ZLVm5CaTY2S2NlNmMzUVlHbEE?oc=5",
+          "title": "피너클 푸드 그룹, 홍콩-선전 단지 오픈 이스트 플랫폼 허브 설립 추진",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xY21NOXhNYTlFem5SWVc0b002UTA2Y0I0R0dOcGJYSzZWajRHUzhfc1ZOQ19NNURVakp5Yl9rNnV5djg0SlpwWFVNU1U0TE9QZFE?oc=5",
           "desc": "",
-          "title_en": "Bae Min explains food photos with voice... \"Increase accessibility for the blind\"",
-          "title_ja": "Bae Minさんが食べ物の写真を声で説明してくれます…「視覚障害者のアクセシビリティを向上させる」",
-          "title_zh": "Bae Min用声音解释食物照片...... “增加盲人的可达性”"
+          "title_en": "Pinnacle Food Group Promotes Open East Platform Hub at Hong Kong-Shenzhen Complex",
+          "title_ja": "ピナクルフードグループ、香港-深圳複合施設でオープンイーストプラットフォームハブを推進",
+          "title_zh": "Pinnacle Food Group在香港-深圳综合体推广开放式东部平台枢纽"
         }
       ]
     },
