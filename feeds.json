@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T18:10:35Z",
+  "lastUpdated": "2026-04-20T23:28:22Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Bluestone Lane联合创始人推出新的烤鸡概念"
         },
         {
-          "title": "Consumers are spending more on restaurants than ever. Where are the profits?",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzUtZFpDNURxRGJ6WHJzbXoyZzdzMWtIRDhhV2hTUFVHZTc2aVRmS0FnbkdSUE1tYThfaDFJdUh6NVFIdS1qbTUtRXk4b3BzaEpHSGxkOHNNNFdDeXJXZDJWbllIaVJqVk1JNE85YUx1a2NYRG93UWMzb1d0bnU5d0lsUkNvLVpaRDEyVGRJd0RlTDdUUjYtR2xMS1BUakFCRm55VGp5NUlCeU5SREE?oc=5",
-          "desc": "",
-          "title_ko": "소비자들은 그 어느 때보다 레스토랑에 더 많은 비용을 지출하고 있습니다. 수익은 어디에 있나요?",
-          "title_ja": "消費者はこれまで以上にレストランへの支出を増やしています。利益はどこにありますか？",
-          "title_zh": "消费者在餐厅的消费比以往任何时候都多。利润在哪里？"
-        },
-        {
           "title": "A bankrupt Carl's Jr. franchisee blames its financial problems on California's $20 wage",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZuOTVRckc5YllwMFZrUUV3Vm1wS01MSExWOWJ1VTVlMEMxZnVLZ3Q2MU9FQ1I1cTFwRXN0YXVTMW5peE9qNkFVWXVrTm1HZkR5eVU3WTN6alhiY0l3RmhTWTRCR2xCcF9XRnNoNXJzRVozVi1oeTNvWk1ERXRXWmZLMmw2d1BEMkRwNGYtZTZRRUFNZWstMl85d211RnA5QWlaQ3VTU2M5TTIwNEQtVGozT3d2OUZqS3JTeUlLUU9oaEE?oc=5",
           "desc": "",
           "title_ko": "파산한 Carl's Jr. 프랜차이즈 가맹점은 캘리포니아의 $ 20 임금에 대한 재정적 문제를 비난합니다.",
           "title_ja": "破産したカールズジュニアのフランチャイズ加盟店は、カリフォルニア州の$ 20の賃金に財政問題を非難しています",
           "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
+        },
+        {
+          "title": "Consumers are spending more on restaurants than ever. Where are the profits?",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzUtZFpDNURxRGJ6WHJzbXoyZzdzMWtIRDhhV2hTUFVHZTc2aVRmS0FnbkdSUE1tYThfaDFJdUh6NVFIdS1qbTUtRXk4b3BzaEpHSGxkOHNNNFdDeXJXZDJWbllIaVJqVk1JNE85YUx1a2NYRG93UWMzb1d0bnU5d0lsUkNvLVpaRDEyVGRJd0RlTDdUUjYtR2xMS1BUakFCRm55VGp5NUlCeU5SREE?oc=5",
+          "desc": "",
+          "title_ko": "소비자들은 그 어느 때보다 레스토랑에 더 많은 비용을 지출하고 있습니다. 수익은 어디에 있나요?",
+          "title_ja": "消費者はこれまで以上にレストランへの支出を増やしています。利益はどこにありますか？",
+          "title_zh": "消费者在餐厅的消费比以往任何时候都多。利润在哪里？"
         }
       ]
     },
@@ -39,7 +39,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -208,7 +208,7 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xY21NOXhNYTlFem5SWVc0b002UTA2Y0I0R0dOcGJYSzZWajRHUzhfc1ZOQ19NNURVakp5Yl9rNnV5djg0SlpwWFVNU1U0TE9QZFE?oc=5",
           "desc": "",
           "title_en": "Pinnacle Food Group Promotes Open East Platform Hub at Hong Kong-Shenzhen Complex",
-          "title_ja": "ピナクルフードグループ、香港-深圳複合施設でオープンイーストプラットフォームハブを推進",
+          "title_ja": "ピナクルフードグループ、香港・深圳複合施設でオープンイーストプラットフォームハブを推進",
           "title_zh": "Pinnacle Food Group在香港-深圳综合体推广开放式东部平台枢纽"
         }
       ]
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "중미 최대 프랜차이즈 시장으로 성장한 과테말라",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ydWJGVmwzN3ZDenNYMjZLa2NsdDFZOXctTlhkQzJaa0VGNkYyYXVORVIzdDJvSHNzSVE1SzQxTGRDaTNGVXpQOG9qcDdBbkRtbjVub29mRQ?oc=5",
+          "desc": "",
+          "title_en": "Guatemala grows into the largest franchise market in Central America",
+          "title_ja": "グアテマラが中央アメリカ最大のフランチャイズ市場に成長",
+          "title_zh": "危地马拉成长为中美洲最大的特许经营市场"
+        },
         {
           "title": "캐나다 별장에서 커피 한잔…팀홀튼, 삼성동 매장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40QVZCamNIbDVxUWVvSUV6OWRtamFnNkw0Qmg5cnNyMWNCV3BBRzlYMl8xZG9yQXNWemljeUMxZ0RPYnhVSmNyeHR2d0tlN3ZlOXBzWlFEcw?oc=5",
@@ -230,16 +238,8 @@
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RMGNoa2hYQjI0d1FyeTF0RW9KMmdubUo3RGtKYmx2c2RXakZncUxRejZVX25WMlROaVJtZlBiNDBaRkF0UlBxUUFScXBRUklBbUhDU3N5WQ?oc=5",
           "desc": "",
           "title_en": "Jeon Hyun Model Released… Target Well Life New Care Advertisement Released",
-          "title_ja": "全賢モデル発売…ターゲットウェルライフ新ケア広告発売",
+          "title_ja": "チョンヒョンモデル発売…ターゲットウェルライフ新ケア広告発売",
           "title_zh": "全贤车型发布… Target Well Life New Care广告发布"
-        },
-        {
-          "title": "고소한 감자에 치즈 가득, ‘감자 치즈 그라탕’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c01mYkF5cU56NkxWNktoT09HSE1PYlN3RFhiaWtLbWlpdjdMdGNXWTZ0OGdFSHA0LS1ma0lfWWQyX1MwYk9yVmFiRlFzT2UyVUlZTUtjNA?oc=5",
-          "desc": "",
-          "title_en": "Savory potatoes full of cheese, ‘potato cheese gratin’",
-          "title_ja": "チーズたっぷりの美味しいじゃがいも、「じゃがいもチーズグラタン」",
-          "title_zh": "充满奶酪的咸味土豆， “马铃薯奶酪烤肉”"
         }
       ]
     }
