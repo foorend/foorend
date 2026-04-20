@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-04-19T22:04:49Z",
+  "lastUpdated": "2026-04-20T07:28:19Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Bluestone Lane co-founder launches new rotisserie chicken concept with a wood-fired twist",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVRuLW9JN0wtSkxKaFF5clZGZDZMRzl2cEhuZ0E0Yl9zdXIzek5QQ2s2WGlnd0xia3VGM2ZuV3NvU3lpbFNPc3JPckpkVGoweEdVWnF4bjJyYlNtbDJDRl9WczBfcFdZSmljMkIwNlI4enFnMmFXNkJqM0piRFlKZmUwbmRPOEs0OVZZb1Fma2lkQnpsZmNVeUFfX0gtU1FpUjdQcUM2cE9SZTNDLVhON2s0bkNFUWp0WG9JMnpTUTFIdlo4Q1N6YQ?oc=5",
+          "desc": "",
+          "title_ko": "블루스톤 레인 (Bluestone Lane) 의 공동 창업자가 화덕을 연상시키는 새로운 로티세리 치킨 콘셉트를 선보입니다.",
+          "title_ja": "Bluestone Laneの共同創業者が、木製のひねりを加えた新しいロティサリーチキンのコンセプトを発表",
+          "title_zh": "Bluestone Lane联合创始人推出新的烤鸡概念"
+        },
         {
           "title": "Third-party delivery is hurting restaurant economics",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEp0ZUk2X2J0Uk5VY1d0LU9YVGQta3dDZEJzZnFGOTZOUlpOQ3hfem5NVWs3X3dGSTZMU2tvb3dsNDRYd1dzUmJ2UmVmZHV4N0NFTXdkN1pocFU0QjlTNld6dHdVLTBYR3lPYUljWHFrSWNYaDdGS0lSMUduUDc5VHB5SDVCenJKQzhfZTh1X1l6dFBDeEJjVGhNRjE?oc=5",
@@ -14,20 +22,12 @@
           "title_zh": "第三方派送正在损害餐厅的经济效益"
         },
         {
-          "title": "Steakhouse group 801 Restaurants files for Chapter 11 bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejNVUUNmWjM5RE5OZGh3WmY2Ql9BZEwxSzVZSGVDTlRXaGx0QjFGYlNFMVhWR3N3bXpMQ0hrRFcyd1Zjb0VlLUVtQTM3RVdsQURiZkxCd3dnZGJRWkxIVVdYek9TcHNZbks5R0tHV1FXeHFWLVUweUVlcDM3emd5ZmZoVkZqbWpkd05SRjFkb2JPbFFRSC1zN2MwOXpoSnB1YUJseWVsMnhEMTQ?oc=5",
+          "title": "Consumers are spending more on restaurants than ever. Where are the profits?",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzUtZFpDNURxRGJ6WHJzbXoyZzdzMWtIRDhhV2hTUFVHZTc2aVRmS0FnbkdSUE1tYThfaDFJdUh6NVFIdS1qbTUtRXk4b3BzaEpHSGxkOHNNNFdDeXJXZDJWbllIaVJqVk1JNE85YUx1a2NYRG93UWMzb1d0bnU5d0lsUkNvLVpaRDEyVGRJd0RlTDdUUjYtR2xMS1BUakFCRm55VGp5NUlCeU5SREE?oc=5",
           "desc": "",
-          "title_ko": "스테이크하우스 그룹 801 레스토랑 파일 챕터 11 파산",
-          "title_ja": "ステーキハウスグループ801レストランは、第11章の破産を申請します",
-          "title_zh": "STEAKHOUSE GROUP 801餐厅申请第11章破产"
-        },
-        {
-          "title": "A bankrupt Carl's Jr. franchisee blames its financial problems on California's $20 wage",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZuOTVRckc5YllwMFZrUUV3Vm1wS01MSExWOWJ1VTVlMEMxZnVLZ3Q2MU9FQ1I1cTFwRXN0YXVTMW5peE9qNkFVWXVrTm1HZkR5eVU3WTN6alhiY0l3RmhTWTRCR2xCcF9XRnNoNXJzRVozVi1oeTNvWk1ERXRXWmZLMmw2d1BEMkRwNGYtZTZRRUFNZWstMl85d211RnA5QWlaQ3VTU2M5TTIwNEQtVGozT3d2OUZqS3JTeUlLUU9oaEE?oc=5",
-          "desc": "",
-          "title_ko": "파산한 Carl's Jr. 프랜차이즈 가맹점은 캘리포니아의 $ 20 임금에 대한 재정적 문제를 비난합니다.",
-          "title_ja": "破産したカールズジュニアのフランチャイズ加盟店は、カリフォルニア州の$ 20の賃金に財政問題を非難しています",
-          "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
+          "title_ko": "소비자들은 그 어느 때보다 레스토랑에 더 많은 비용을 지출하고 있습니다. 수익은 어디에 있나요?",
+          "title_ja": "消費者はこれまで以上にレストランへの支出を増やしています。利益はどこにありますか？",
+          "title_zh": "消费者在餐厅的消费比以往任何时候都多。利润在哪里？"
         }
       ]
     },
@@ -109,7 +109,7 @@
           "desc": "Dining out in Big Sur, California, requires intentionality. There’s nothing casual about visiting a restaurant off the cliff-hugging stretch of Highwa",
           "title_ko": "6곳의 레스토랑이 사랑하는 예술 작품의 뒷이야기를 설명합니다",
           "title_ja": "6つのレストランが愛するアートワークの背景にあるストーリーを説明",
-          "title_zh": "6家餐厅讲解他们心爱的艺术品背后的故事"
+          "title_zh": "6家餐厅讲述他们心爱的艺术品背后的故事"
         },
         {
           "title": "The 38 Best Restaurants in Lisbon, Portugal, According to a Local Expert",
@@ -166,20 +166,20 @@
           "title_zh": "“K-Foods超越趋势走向长期趋势……必须准备好抄袭猫咪的威胁” [采访]"
         },
         {
-          "title": "“K푸드, 진정성 지키며 현지화 나서야…카피캣과 확실한 차별화 필수”[인터뷰]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XMHpSN3lOaFZ0cVF3VllxaktEUXhBX01YbVpmT1p4SXYyUjR5MDVTLWh6bl9rVUthdy1qT1VUd3AzRHBjVlJDeUlRSlBlY05JR0dn0gFTQVVfeXFMTVcwelI3eU5oVnRxUXdWWXFqS0RReEFfTVhtWmZPWnhJdjJSNHkwNVMtaHpuX2tVS2F3LWpPVVR3cDNEcGNWUkN5SVFKUGVjTklHR2c?oc=5",
+          "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzTXpwcHBqUXFZZHB2RTQxalpmV1R5TTdqVGtNS0ZKQ0RCa3RLV3laZnl3RnVEZmZucGlVTFNOcEU3RDhFUWktLXBfdk92OTdBNVhV0gFTQVVfeXFMUDNNenBwcGpRcVlkcHZFNDFqWmZXVHlNN2pUa01LRkpDREJrdEtXeVpmeXdGdURmZm5waVVMU05wRTdEOEVRaS0tcF92T3Y5N0E1WFU?oc=5",
           "desc": "",
-          "title_en": "“K-foods must be localized with authenticity… to make a definite difference from copycats” [Interview]",
-          "title_ja": "「模倣犯と明確な違いを生み出すために、K - foodは信頼性を持ってローカライズされなければなりません」[インタビュー]",
-          "title_zh": "“K-foods必须以真实性进行本地化......才能与模仿者区别开来” [采访]"
+          "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
+          "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
+          "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
         },
         {
-          "title": "“K푸드, 진정성 지키며 현지화 나서야…카피캣과 확실한 차별화 필수”[인터뷰]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82N1ZSVmxJdDJLXzJTaGlfMDV2c2E5SU81RlFfVHo0NmRyV1dZZDhfUy1DTE10dzVaZFRFTjJkOEZ3U3dVMnNwYU1LWGRlNWRjMVHSAVNBVV95cUxNVzB6Ujd5TmhWdHFRd1ZZcWpLRFF4QV9NWG1aZk9aeEl2MlI0eTA1Uy1oem5fa1VLYXctak9VVHdwM0RwY1ZSQ3lJUUpQZWNOSUdHZw?oc=5",
+          "title": "“K푸드, 유행 넘어 장기 트렌드로…카피캣 위협은 대비해야”[인터뷰]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOaFNxN1RJZHJTdnZmd2pWRWhraEN4cmYwRXRnQXJLbGJtVl9UYzQ3TENWSFNXWGNOU3NndmM5elkxLThCVkEwR045Z1VTNUt4a0HSAVNBVV95cUxNdmpFNmdFTWZIYXZWX1ZRR251Umt2VEF1WHRDZkJ1OWtCWi1vTGN5T0RkRm9fRnB1bTJSQ1pscTRQY3BaMWVHcG81YjlCSHJxbmxFaw?oc=5",
           "desc": "",
-          "title_en": "“K-foods must be localized with authenticity… to make a definite difference from copycats” [Interview]",
-          "title_ja": "「模倣犯と明確な違いを生み出すために、K - foodは信頼性を持ってローカライズされなければなりません」[インタビュー]",
-          "title_zh": "“K-foods必须以真实性进行本地化......才能与模仿者区别开来” [采访]"
+          "title_en": "“K-Foods Goes Beyond Trends to Long-Term Trends… Copy Cat Threats Must Be Prepared” [Interview]",
+          "title_ja": "「K - Foodsはトレンドを超えて長期的なトレンドに向かっています…猫の脅威をコピーする必要があります」[インタビュー]",
+          "title_zh": "“K-Foods超越趋势走向长期趋势……必须准备好抄袭猫咪的威胁” [采访]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "필리핀 졸리비푸드, 샤브올데이 1천300억원에 인수",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WMzZWMDZYSjFPcGV4RkVaU0lRREczYXpnUnA2VlFXVzhIX1FKbzU1cmRITndVbGp1Nms1VDJIZjJpbHNlOV9vSUpfZjQxLVM1Ync?oc=5",
+          "desc": "",
+          "title_en": "Philippine Jolibee Food Acquires Shabu All-Day for 130 Billion KRW",
+          "title_ja": "フィリピン・ジョリビー・フード、しゃぶしゃぶを終日1,300億ウォンで買収",
+          "title_zh": "菲律宾Jolibee Food以1300亿韩元全天收购Shabu"
+        },
         {
           "title": "배민, 음식 사진 음성으로 설명…\"시각장애인 접근성 높여\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00NEs3Z2JZYWlQYl9UTUxQb3hSY1pTbmNpeGpmbTByUHY1YVd0OUNfdDJRUnFReTJjaXhtOG8wc1ZLVm5CaTY2S2NlNmMzUVlHbEE?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "“Are you messing around with food again?” … A business owner who cheated by saying that the steak origin is‘ Hanwoo ’",
           "title_ja": "「またごちゃごちゃしてるの？「…ステーキの原産地が『ハンウ』だとズルをした経営者",
           "title_zh": "“你是不是又在捣乱吃东西了？“ ……一位企业主欺骗说牛排的来源是‘Hanwoo’"
-        },
-        {
-          "title": "배민 'AI음성으로 음식사진 설명' 개발",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qZHlvR3dBaDBZeDNwcGZrZHRNY2hxTEdEenZPRnJ0ZXY4OU1UVmhKMEhpNDE0MHNoemdNcnRiRU1pVDRqQ3YxblA5YVNhN2NnU0FBUUln?oc=5",
-          "desc": "",
-          "title_en": "Developed Baemin 'Food Photo Explanation with AI Voice'",
-          "title_ja": "Baemin 'Food Photo Explanation with AI Voice'を開発",
-          "title_zh": "开发Baemin “用AI语音解释美食照片”"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "全贤车型发布… Target Well Life New Care广告发布"
         },
         {
-          "title": "동서식품, 장애인의 날 맞아 봉사활동",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LOFBjNk9Bb0NhOUtfQmhnci1hbEY4LS1VNWEwcWRVR3NFcVJ4dTJkY0pGQ3A0dm5WWFVUUnJqMDBhZkpQNVNCSDFsSDhLYXJvV1BtZjZFdw?oc=5",
+          "title": "고소한 감자에 치즈 가득, ‘감자 치즈 그라탕’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c01mYkF5cU56NkxWNktoT09HSE1PYlN3RFhiaWtLbWlpdjdMdGNXWTZ0OGdFSHA0LS1ma0lfWWQyX1MwYk9yVmFiRlFzT2UyVUlZTUtjNA?oc=5",
           "desc": "",
-          "title_en": "East and West Foods, Volunteer Activities for Disabled People's Day",
-          "title_ja": "東洋と西洋の食べ物、障害者のためのボランティア活動の日",
-          "title_zh": "东西方美食，残疾人志愿者活动日"
+          "title_en": "Savory potatoes full of cheese, ‘potato cheese gratin’",
+          "title_ja": "チーズたっぷりの美味しいじゃがいも、「じゃがいもチーズグラタン」",
+          "title_zh": "充满奶酪的咸味土豆， “马铃薯奶酪烤肉”"
         }
       ]
     }
