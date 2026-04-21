@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T23:28:22Z",
+  "lastUpdated": "2026-04-21T12:09:59Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
         },
         {
-          "title": "Consumers are spending more on restaurants than ever. Where are the profits?",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzUtZFpDNURxRGJ6WHJzbXoyZzdzMWtIRDhhV2hTUFVHZTc2aVRmS0FnbkdSUE1tYThfaDFJdUh6NVFIdS1qbTUtRXk4b3BzaEpHSGxkOHNNNFdDeXJXZDJWbllIaVJqVk1JNE85YUx1a2NYRG93UWMzb1d0bnU5d0lsUkNvLVpaRDEyVGRJd0RlTDdUUjYtR2xMS1BUakFCRm55VGp5NUlCeU5SREE?oc=5",
+          "title": "The Technomic Top 500: Chain restaurant sales slowed again in 2025",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUNtMFlXR2pnV2w0VDcxNU5HTVZ0S3h0bnhIdXZtcGtpTEprVkxNNERHblVkWXNCaUktTW5QSVh0VVNyc3pQVnJBaTg4RGV0VWJpVmN2WWc4ZlVxVml2V0JISWtIUnZKNjY1Q0R3aThwS0tlTmU1Nm9MU1hISVV0V1dZU0x5cTdGSFBJN3pVT0FDYnlIRHBzSEZBWDV4MDdyemFrN1BPU0U?oc=5",
           "desc": "",
-          "title_ko": "소비자들은 그 어느 때보다 레스토랑에 더 많은 비용을 지출하고 있습니다. 수익은 어디에 있나요?",
-          "title_ja": "消費者はこれまで以上にレストランへの支出を増やしています。利益はどこにありますか？",
-          "title_zh": "消费者在餐厅的消费比以往任何时候都多。利润在哪里？"
+          "title_ko": "Technomic Top 500: 2025년 체인 레스토랑 매출이 다시 감소했습니다.",
+          "title_ja": "テクノミックトップ500 ：チェーンレストランの売上高は2025年に再び減速",
+          "title_zh": "Technomic 500强： 2025年连锁餐厅销售再次放缓"
         }
       ]
     },
@@ -39,7 +39,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "동원홈푸드 비비드키친, 해외 공략 가속",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pOEsyR2NoWFd5SlBEdENqUWc1ajZRcHhCV0MwaWFQYUx0VVRTdk81VGJjVm5BMmxXd0FGVHBaMHM0N1lUVUpuYzc1RDVOdlprRm8zN1c4MDVmd9IBVEFVX3lxTE1sWkJKQ3ZKVE5SMkNRMmJEQXlycHlrZUpsUE1BQUhsVmxhRG1mNDF0Q2FETnhvWG41bFItWEJvMXdxeGVHLXdORzV2NGU1dVpPeDdXNw?oc=5",
+          "desc": "",
+          "title_en": "Dongwon Home Food Vivid Kitchen Accelerates Overseas Attack",
+          "title_ja": "Dongwon Home Food Vivid Kitchenが海外からの攻撃を加速",
+          "title_zh": "东原家居美食栩栩如生的厨房加速海外攻击"
+        },
+        {
           "title": "골프장부터 군대까지 '싹쓸이'…밥장사로 2000억 '초대박' [권 기자의 장바구니]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENFZESUMyUUhiMEpMWXUtb1RtTzBiRUo2QW1TNzZjODZxcWdyc2xiTmdOeXRic3FmakdYdldYdlRFS1h6YUk0TmdLUnMxY2t5Q1o2MkVDbm5kQdIBVEFVX3lxTFBMcnFKOFM1aHhyVFdSTGplUWl2a0xRRjdEV0tzTXI3YjloQ0FoRWMzRnRoeTlQZzFFZ1YwSF9DSkJYQ1lfVXRleVB5U0pzdkVwSnVzbA?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "从高尔夫球场到军队， “扫荡”...... 2000亿个“超级夜晚”作为鲍勃商店[Kwon ，记者的购物车]"
         },
         {
-          "title": "필리핀 졸리비푸드, 샤브올데이 품었다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pWk1iOHNjMFpZOWotV1QyS1dEQ0VVeGowaEUxTVNTVzFmekp5TUNpV1R1XzV2VE5PYVo4Uk1vTlptQ0huQ2t5WEVaZkFGdGhWWGZCeW5yWnlBd9IBVEFVX3lxTE05bnZsWDI4dFZuR0dUTlg2clFfSjN6TkhWOEZzRmU3NkplQlhvd3NiZ0FwdmhadTVvMWg1OVNtQU9LSzUzN0E0OHhQcjRBZU8tUmZWcw?oc=5",
+          "title": "KB금융, 'KB착한푸드트럭 시즌2' 장애인 사업주 특별 모집 실시",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mb0ZWSXJXUGxrejZiam95T2xLQXQtS190UnRhb0VlSkVIdFZGaUtrSmJRRTJINUJzZWNUdUhDY3IybDdrZXZQZXJnN2huZmI4T1VLQzBTVm1LZ9IBVEFVX3lxTE1maS14NU5QWk52X1JZZEREU1VuNHg1MnltN2Ywbk1rTDdVM0dZeWw1VlRmdUJCTW8yVTRWM3hDVy1WSHVxNjhoWTByWUJDTXkwdmJWZQ?oc=5",
           "desc": "",
-          "title_en": "Philippine Jollibee Food, Shabu All Day",
-          "title_ja": "フィリピン・ジョリビー料理としゃぶしゃぶ体験（終日）",
-          "title_zh": "菲律宾Jollibee美食，一日游"
-        },
-        {
-          "title": "올가홀푸드, 팥·검정콩 넣은 '검정콩 간식빵' 선보여",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hNjl3YzB5elRFeS0yVTk4QWg4WlVJX3FtbHVRTVo2RV80UVkzZEtoX0RJVkxGZ3VxcnNxSUJINTJuTFFHRzY0U0JwWWpGaEY4WUZ1TVZFQWttd9IBVEFVX3lxTE14WFRRN3VSa2JBdnl6SGxrcFp3aklMR0l6UnJFd2pCUnk4Slhwc1lCSGRyUkFvaEdQMmRkNWRuQk04SnNOZXJBWnBlcklMUVFXVGkxSQ?oc=5",
-          "desc": "",
-          "title_en": "Olga Holfood Introduces' Black Bean Snack Bread 'with Red Beans and Black Beans",
-          "title_ja": "Olga Holfoodが赤豆と黒豆を使った「黒豆スナックブレッド」を紹介",
-          "title_zh": "Olga Holfood推出带有红豆和黑豆的“黑豆零食面包”"
+          "title_en": "KB Finance conducts special recruitment of business owners with disabilities for 'KB Food Truck Season 2'",
+          "title_ja": "KBファイナンスが「KBフードトラックシーズン2」のために障害のあるビジネスオーナーの特別採用を実施",
+          "title_zh": "KB Finance为“KB Food Truck Season 2”特别招募残疾企业主"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzTXpwcHBqUXFZZHB2RTQxalpmV1R5TTdqVGtNS0ZKQ0RCa3RLV3laZnl3RnVEZmZucGlVTFNOcEU3RDhFUWktLXBfdk92OTdBNVhV0gFTQVVfeXFMUDNNenBwcGpRcVlkcHZFNDFqWmZXVHlNN2pUa01LRkpDREJrdEtXeVpmeXdGdURmZm5waVVMU05wRTdEOEVRaS0tcF92T3Y5N0E1WFU?oc=5",
+          "title": "KB금융, 장애인 사장님에 ‘배리어프리 푸드트럭’ 개조 지원",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oYWtCYTB6SFBteTMzVGw5aWxrWFo5QXNzc3NkcjVhTlRncjRiWHBQVU1mN19sd1N3TFh4c29GS0tBSG5FSHkxQ2xCSHg2bktPcVHSAVNBVV95cUxOaDl6X0pLNlVCY0djWDBuNnd4dmRrNDZHSFVWSmx2SHlSc1FKOEpnTGc4Q25mWFUyd3lJWmhNUlNneXJvQ2tnTjRHYlUwY3ZIMEl5bw?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
-          "title_ja": "ロッテウェルフード、KBOコラボ商品「スイーツオールスター展」開幕",
-          "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
+          "title_en": "KB Finance Supports‘ Barrier-Free Food Truck ‘Modification to President of the Disabled",
+          "title_ja": "KBファイナンス、障害者会長への「バリアフリーフードトラック」変更を支援",
+          "title_zh": "KB Finance支持将“无障碍食品卡车”改装为残障人士总裁"
         },
         {
-          "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zVXdsTVRoT1AtT3E5dm5jUk1RcFE5Y05JV0FOTm0wbklSUWMzajFmbnBoWkhqd2ZCUEtLUV9MNkYxR0h2WWJtNWFub0EyeC1Xd0HSAVNBVV95cUxQM016cHBwalFxWWRwdkU0MWpaZldUeU03alRrTUtGSkNEQmt0S1d5WmZ5d0Z1RGZmbnBpVUxTTnBFN0Q4RVFpLS1wX3ZPdjk3QTVYVQ?oc=5",
+          "title": "배민, ‘60계 치킨’ 장스푸드와 ‘맞손’···광고·마케팅 협력 확대",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rdzV3RmdNc3dlZXFDOVRCVGlVZ3BYRGFPdHJ3S0t5c1duQzBWMmJHNXNTdWlReHdyODJOY2tUZlUwNnZJRmJpNWNBY2t1VWJUaWfSAVNBVV95cUxQREhfY0RIQlNXaXF6YUFHQzJRMFNhS2FTVzUzZmJkR0pKLXR2a0MzUmtoU21SOWpYYXlxUGpLa0pLWVZFV3ZIaHJhaUd6Sy1ZRjhkcw?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
-          "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
-          "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
+          "title_en": "Barmin Expands‘ 60 Cigarettes Chicken ’Jangsan Food and‘ Jongsan ’· · · · Advertising · Marketing Cooperation",
+          "title_ja": "Barmin、「60カウントチキン」のJangsan Foodと「Jongsan」を拡大・・・広告・マーケティング協力",
+          "title_zh": "Barmin扩大“60只鸡”长山食品和“长山” · · · ·广告·营销合作"
         },
         {
-          "title": "“K푸드, 유행 넘어 장기 트렌드로…카피캣 위협은 대비해야”[인터뷰]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOaFNxN1RJZHJTdnZmd2pWRWhraEN4cmYwRXRnQXJLbGJtVl9UYzQ3TENWSFNXWGNOU3NndmM5elkxLThCVkEwR045Z1VTNUt4a0HSAVNBVV95cUxNdmpFNmdFTWZIYXZWX1ZRR251Umt2VEF1WHRDZkJ1OWtCWi1vTGN5T0RkRm9fRnB1bTJSQ1pscTRQY3BaMWVHcG81YjlCSHJxbmxFaw?oc=5",
+          "title": "CJ씨푸드1우, 매수잔량 364% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjVWI5Y251M2lnUWNDLUNQdEJKekk5SU9lRzZDXzdFMElraURfX1JDYjB1U3FrNW42R2FmbWpNck92d2dDVTV0dnU0VW5GbG9HOFE?oc=5",
           "desc": "",
-          "title_en": "“K-Foods Goes Beyond Trends to Long-Term Trends… Copy Cat Threats Must Be Prepared” [Interview]",
-          "title_ja": "「K - Foodsはトレンドを超えて長期的なトレンドに向かっています…猫の脅威をコピーする必要があります」[インタビュー]",
-          "title_zh": "“K-Foods超越趋势走向长期趋势……必须准备好抄袭猫咪的威胁” [采访]"
+          "title_en": "CJC Food 1W, Purchase Residual 364% Surge",
+          "title_ja": "CJCフード1 W、購入残量364%サージ",
+          "title_zh": "CJC Food 1W ，采购剩余364%激增"
         }
       ]
     },
@@ -188,12 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "필리핀 졸리비푸드, 샤브올데이 1천300억원에 인수",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WMzZWMDZYSjFPcGV4RkVaU0lRREczYXpnUnA2VlFXVzhIX1FKbzU1cmRITndVbGp1Nms1VDJIZjJpbHNlOV9vSUpfZjQxLVM1Ync?oc=5",
+          "title": "한화푸드테크, '더 플라자 다이닝' 개장…\"미식 거점 될 것\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FRHpRZnZYUnRKTFNnV3dnX0cwZWRuS3pjVXZhdnpVODAyZEtUY2hhVm4wWHczc2VmVmRnYmZDLUE3LTRmZXh5a3NiXzNaWjhtUWc?oc=5",
           "desc": "",
-          "title_en": "Philippine Jolibee Food Acquires Shabu All-Day for 130 Billion KRW",
-          "title_ja": "フィリピン・ジョリビー・フード、しゃぶしゃぶを終日1,300億ウォンで買収",
-          "title_zh": "菲律宾Jolibee Food以1300亿韩元全天收购Shabu"
+          "title_en": "Hanwha Foodtech Opens' The Plaza Dining '... \"Becoming a Gourmet Base\"",
+          "title_ja": "ハンファフードテック「ザ・プラザ・ダイニング」オープン…「グルメ拠点になる」",
+          "title_zh": "韩华食品科技开设“The Plaza Dining”... “成为美食基地”"
+        },
+        {
+          "title": "뉴욕찾은 홍문표 aT사장 “K푸드 3년내 한계, 맞춤형수출로 돌파”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BQXM3Wm1JcnVSM1d6d1d3OTNGV2Y3cUxyaU56Tkd5dEowVzlUQUIzQ1lfZE9vbzlLbWRadlNpMXhlZG5XYnVCWVNtNG5Fbkw1bFE?oc=5",
+          "desc": "",
+          "title_en": "Hong Munpyo, aT President who visited New York “K Foods' Limitations Within 3 Years, Exceeded by Customized Export”",
+          "title_ja": "ニューヨークを訪問したaT社長ホン・ムンピョ「3年以内のKフーズの限界、カスタマイズされた輸出を超えて」",
+          "title_zh": "aT总裁Hong Munpyo访问纽约“3年内K Foods的局限性，超越定制出口”"
         },
         {
           "title": "현대그린푸드, 애프터마켓서 11%대 급등",
@@ -202,14 +210,6 @@
           "title_en": "Hyundai Green Food, aftermarket surge of 11%",
           "title_ja": "Hyundai Green Food、アフターマーケットが11%急増",
           "title_zh": "现代绿色食品，售后市场激增11%"
-        },
-        {
-          "title": "피너클 푸드 그룹, 홍콩-선전 단지 오픈 이스트 플랫폼 허브 설립 추진",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xY21NOXhNYTlFem5SWVc0b002UTA2Y0I0R0dOcGJYSzZWajRHUzhfc1ZOQ19NNURVakp5Yl9rNnV5djg0SlpwWFVNU1U0TE9QZFE?oc=5",
-          "desc": "",
-          "title_en": "Pinnacle Food Group Promotes Open East Platform Hub at Hong Kong-Shenzhen Complex",
-          "title_ja": "ピナクルフードグループ、香港・深圳複合施設でオープンイーストプラットフォームハブを推進",
-          "title_zh": "Pinnacle Food Group在香港-深圳综合体推广开放式东部平台枢纽"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "중미 최대 프랜차이즈 시장으로 성장한 과테말라",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ydWJGVmwzN3ZDenNYMjZLa2NsdDFZOXctTlhkQzJaa0VGNkYyYXVORVIzdDJvSHNzSVE1SzQxTGRDaTNGVXpQOG9qcDdBbkRtbjVub29mRQ?oc=5",
+          "title": "일본, 소형 슈퍼마켓 늘어난다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1md2RzWVRid3JyV043Ui16MTI2ZnM0cEZ5RENDal9UZnl3UERsemptMXhLMm1pdTRrcG9QcFpDampEN2V6dng4VWpnLTZ0OVBMODFHTkszZw?oc=5",
           "desc": "",
-          "title_en": "Guatemala grows into the largest franchise market in Central America",
-          "title_ja": "グアテマラが中央アメリカ最大のフランチャイズ市場に成長",
-          "title_zh": "危地马拉成长为中美洲最大的特许经营市场"
+          "title_en": "Japan grows small supermarkets",
+          "title_ja": "日本は小さなスーパーマーケットを育てている",
+          "title_zh": "日本发展小型超市"
         },
         {
-          "title": "캐나다 별장에서 커피 한잔…팀홀튼, 삼성동 매장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40QVZCamNIbDVxUWVvSUV6OWRtamFnNkw0Qmg5cnNyMWNCV3BBRzlYMl8xZG9yQXNWemljeUMxZ0RPYnhVSmNyeHR2d0tlN3ZlOXBzWlFEcw?oc=5",
+          "title": "유용욱 바비큐 담았다…오리온 ‘바베큐 한정판’ 4종",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SRDhOaWx2b0hrS0ZsZkFkTXNkRHJRVk1pbWhlZmVqU2ZDYllVYXZJNEU1NldlWWNBVEtqUzBPQTktbVZ5RngxRXNXS2VKR1k4OHRyT2ZFOA?oc=5",
           "desc": "",
-          "title_en": "A cup of coffee at a Canadian villa… Tim Houlton, Samseong-dong store",
-          "title_ja": "カナダのヴィラでコーヒーを飲もう…ティム・ホールトン、三成洞店",
-          "title_zh": "在加拿大别墅喝杯咖啡… Tim Houlton ， Samseong-dong商店"
+          "title_en": "Useful Barbecue Included... Orion ‘Barbecue Limited Edition’ 4 Types",
+          "title_ja": "便利なバーベキュー付き…オリオン「バーベキュー限定版」4種",
+          "title_zh": "包含实用烧烤…… Orion「烧烤限量版」4种类型"
         },
         {
-          "title": "전지현 모델 발탁…대상웰라이프 뉴케어광고 공개",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RMGNoa2hYQjI0d1FyeTF0RW9KMmdubUo3RGtKYmx2c2RXakZncUxRejZVX25WMlROaVJtZlBiNDBaRkF0UlBxUUFScXBRUklBbUhDU3N5WQ?oc=5",
+          "title": "고소한 감자에 치즈 가득, ‘감자 치즈 그라탕’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c01mYkF5cU56NkxWNktoT09HSE1PYlN3RFhiaWtLbWlpdjdMdGNXWTZ0OGdFSHA0LS1ma0lfWWQyX1MwYk9yVmFiRlFzT2UyVUlZTUtjNA?oc=5",
           "desc": "",
-          "title_en": "Jeon Hyun Model Released… Target Well Life New Care Advertisement Released",
-          "title_ja": "チョンヒョンモデル発売…ターゲットウェルライフ新ケア広告発売",
-          "title_zh": "全贤车型发布… Target Well Life New Care广告发布"
+          "title_en": "Savory potatoes full of cheese, ‘potato cheese gratin’",
+          "title_ja": "チーズたっぷりの美味しいじゃがいも、「じゃがいもチーズグラタン」",
+          "title_zh": "充满奶酪的咸味土豆， “马铃薯奶酪烤肉”"
         }
       ]
     }
