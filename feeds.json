@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-04-21T18:15:24Z",
+  "lastUpdated": "2026-04-21T23:08:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Bluestone Lane co-founder launches new rotisserie chicken concept with a wood-fired twist",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVRuLW9JN0wtSkxKaFF5clZGZDZMRzl2cEhuZ0E0Yl9zdXIzek5QQ2s2WGlnd0xia3VGM2ZuV3NvU3lpbFNPc3JPckpkVGoweEdVWnF4bjJyYlNtbDJDRl9WczBfcFdZSmljMkIwNlI4enFnMmFXNkJqM0piRFlKZmUwbmRPOEs0OVZZb1Fma2lkQnpsZmNVeUFfX0gtU1FpUjdQcUM2cE9SZTNDLVhON2s0bkNFUWp0WG9JMnpTUTFIdlo4Q1N6YQ?oc=5",
-          "desc": "",
-          "title_ko": "블루스톤 레인 (Bluestone Lane) 의 공동 창업자가 화덕을 연상시키는 새로운 로티세리 치킨 콘셉트를 선보입니다.",
-          "title_ja": "Bluestone Laneの共同創業者が、木製のひねりを加えた新しいロティサリーチキンのコンセプトを発表",
-          "title_zh": "Bluestone Lane联合创始人推出新的烤鸡概念"
-        },
         {
           "title": "The Technomic Top 500: Chain restaurant sales slowed again in 2025",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUNtMFlXR2pnV2w0VDcxNU5HTVZ0S3h0bnhIdXZtcGtpTEprVkxNNERHblVkWXNCaUktTW5QSVh0VVNyc3pQVnJBaTg4RGV0VWJpVmN2WWc4ZlVxVml2V0JISWtIUnZKNjY1Q0R3aThwS0tlTmU1Nm9MU1hISVV0V1dZU0x5cTdGSFBJN3pVT0FDYnlIRHBzSEZBWDV4MDdyemFrN1BPU0U?oc=5",
@@ -22,12 +14,20 @@
           "title_zh": "Technomic 500强： 2025年连锁餐厅销售再次放缓"
         },
         {
-          "title": "A bankrupt Carl's Jr. franchisee blames its financial problems on California's $20 wage",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZuOTVRckc5YllwMFZrUUV3Vm1wS01MSExWOWJ1VTVlMEMxZnVLZ3Q2MU9FQ1I1cTFwRXN0YXVTMW5peE9qNkFVWXVrTm1HZkR5eVU3WTN6alhiY0l3RmhTWTRCR2xCcF9XRnNoNXJzRVozVi1oeTNvWk1ERXRXWmZLMmw2d1BEMkRwNGYtZTZRRUFNZWstMl85d211RnA5QWlaQ3VTU2M5TTIwNEQtVGozT3d2OUZqS3JTeUlLUU9oaEE?oc=5",
+          "title": "Starbucks will invest $100M in its new Nashville office",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTd1SEV5VkdYS0cwZDFuNU9lZzA2bHBoSU1XUC1aUHUxajUxN2xGdXFMRXFrOVR2eGVNWUgzeDR3YnU4a0xxWG54V3NvMkgyUFA4LUVQS3JYSWFFSEZSSVZXbVp6UFU3dWdFWUx1SGsxX2tvT1VwRThuc2VOQzhUbHdQUDlGUE90Mk1nalY4NGo4NTFYQUVHZF9MTnBrNWs?oc=5",
           "desc": "",
-          "title_ko": "파산한 Carl's Jr. 프랜차이즈 가맹점은 캘리포니아의 $ 20 임금에 대한 재정적 문제를 비난합니다.",
-          "title_ja": "破産したカールズジュニアのフランチャイズ加盟店は、カリフォルニア州の$ 20の賃金に財政問題を非難しています",
-          "title_zh": "破产的Carl's Jr.加盟商将其财务问题归咎于加州20 $的工资"
+          "title_ko": "스타벅스는 새로운 내슈빌 사무소에 1억 달러 ($) 를 투자할 예정입니다.",
+          "title_ja": "スターバックス、ナッシュビルの新オフィスに1億$を投資",
+          "title_zh": "星巴克将在纳什维尔新办事处投资1亿美元$"
+        },
+        {
+          "title": "2 of the country's 4 largest pizza chains are reportedly closing in on a sale",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXQ3cmNUNlRCQ3NfMWU1dlRpMkNWdTVybFVyS25DSXNzZXUyZUhNc1JQUDF5bm9TbGNRUi1tVlU3QmhkTGJLWWk2Z2VMTlBuMWNnWjBjU2d5NlJnTmZ3U2dldlBVTnowS0t0U3MxanF6eUo0ZXRkWjQ4RkltV21HdmdTdDg0eUVZeHJQdHlnU25HQU9LcERXVjFMaTlsZFNMeDkxck1UUEFwUnZn?oc=5",
+          "desc": "",
+          "title_ko": "국내 4대 피자 체인점 중 2곳이 매장에서 문을 닫고 있는 것으로 알려졌다.",
+          "title_ja": "国内最大の4つのピザチェーンのうち2つがセールに近づいていると報じられています",
+          "title_zh": "据报道，该国4家最大的披萨连锁店中有2家即将完成销售"
         }
       ]
     },
@@ -47,7 +47,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -99,7 +99,7 @@
           "title": "America’s Glitziest, Wildest, and Quirkiest Steakhouses",
           "link": "https://www.eater.com/dining-out/956144/steakhouses-most-iconic-america",
           "desc": "It’s easy to identify a great steakhouse. It’s that instantly comforting place serving big hunks of meat, shrimp cocktails, cold martinis, and so on. ",
-          "title_ko": "미국에서 가장 화려하고 거칠며 특이한 스테이크하우스",
+          "title_ko": "미국에서 가장 화려하고 거칠며 독특한 스테이크하우스",
           "title_ja": "アメリカで最も華やかで、最もワイルドで、最も風変わりなステーキハウス",
           "title_zh": "美国最闪亮、最狂野、最奇特的牛排馆"
         },
@@ -148,7 +148,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mb0ZWSXJXUGxrejZiam95T2xLQXQtS190UnRhb0VlSkVIdFZGaUtrSmJRRTJINUJzZWNUdUhDY3IybDdrZXZQZXJnN2huZmI4T1VLQzBTVm1LZ9IBVEFVX3lxTE1maS14NU5QWk52X1JZZEREU1VuNHg1MnltN2Ywbk1rTDdVM0dZeWw1VlRmdUJCTW8yVTRWM3hDVy1WSHVxNjhoWTByWUJDTXkwdmJWZQ?oc=5",
           "desc": "",
           "title_en": "KB Finance conducts special recruitment of business owners with disabilities for 'KB Food Truck Season 2'",
-          "title_ja": "KBファイナンスが「KBフードトラックシーズン2」で障がいのあるビジネスオーナーの特別採用を実施",
+          "title_ja": "KBファイナンスが「KBフードトラックシーズン2」のために障害のあるビジネスオーナーの特別採用を実施",
           "title_zh": "KB Finance为“KB Food Truck Season 2”特别招募残疾企业主"
         }
       ]
@@ -170,16 +170,16 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rdzV3RmdNc3dlZXFDOVRCVGlVZ3BYRGFPdHJ3S0t5c1duQzBWMmJHNXNTdWlReHdyODJOY2tUZlUwNnZJRmJpNWNBY2t1VWJUaWfSAVNBVV95cUxQREhfY0RIQlNXaXF6YUFHQzJRMFNhS2FTVzUzZmJkR0pKLXR2a0MzUmtoU21SOWpYYXlxUGpLa0pLWVZFV3ZIaHJhaUd6Sy1ZRjhkcw?oc=5",
           "desc": "",
           "title_en": "Barmin Expands‘ 60 Cigarettes Chicken ’Jangsan Food and‘ Jongsan ’· · · · Advertising · Marketing Cooperation",
-          "title_ja": "Barmin、「60カウントチキン」のJangsan Foodと「Jongsan」を拡大・・・広告・マーケティング協力",
-          "title_zh": "Barmin扩大“60只鸡”长山食品和“长山” · · · ·广告·营销合作"
+          "title_ja": "バーミン、「60たばこチキン」チャンサンフードと「ジョンサン」を拡大・・・広告・マーケティング協力",
+          "title_zh": "Barmin扩大‘60香烟鸡’长山食品和‘长山’ · · · ·广告·营销合作"
         },
         {
-          "title": "CJ씨푸드1우, 매수잔량 364% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjVWI5Y251M2lnUWNDLUNQdEJKekk5SU9lRzZDXzdFMElraURfX1JDYjB1U3FrNW42R2FmbWpNck92d2dDVTV0dnU0VW5GbG9HOFE?oc=5",
+          "title": "윙입푸드, 전일 대비 10.04% 상승.. 일일회전율은 5.02% 기록",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PSkF0Tzl3UVREX2MxWlZ5YmJrRWhyS2kyeExZa2h4eUNQTnhwT1NkMzZTMENLS1VXdTJtWm1XUWlVZ0xFQ296ejZ6WDcyMUlNSEE?oc=5",
           "desc": "",
-          "title_en": "CJC Food 1W, Purchase Residual 364% Surge",
-          "title_ja": "CJCフード1 W、購入残量364%サージ",
-          "title_zh": "CJC Food 1W ，采购剩余364%激增"
+          "title_en": "Wing Yip Food, up 10.04% compared to the previous day.. Daily turnover recorded 5.02%",
+          "title_ja": "ウィングイップフード、前日比10.04 ％増…日々の売上高は5.02 ％を記録",
+          "title_zh": "永业食品，同比增长10.04% ，日营业额5.02%"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "레어드 슈퍼푸드, 테라솔 슈퍼푸드 4,800만 달러 인수 완료",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CV1g1NU84Y0ZyZjlJMWZEcU00MElqQ1NXd3NQbVpzbUczZzRDWGlpUG9femhPQ0YtRWRlRVUyamdKMXpmMGZtRURzU1VMMUdKUWc?oc=5",
+          "desc": "",
+          "title_en": "Laird Superfoods Completes $48 Million Acquisition of Terasol Superfoods",
+          "title_ja": "Laird Superfoods、Terasol Superfoodsの4800万ドルの買収を完了",
+          "title_zh": "Laird Superfoods以4800万美元收购Terasol Superfoods"
+        },
+        {
+          "title": "어보브 푸드 인그리디언츠, 자회사 수탁자 관리로 회계감사 지연",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nc2g0Znh5NHhGdjFrMGlqb1pYT3Y3YTdwMHRqTWZDdHRFSGllZU5EWklaQTVmYW1oWC0xaDVab2d0bFJCR1lMMWNMelN1VHNuSXc?oc=5",
+          "desc": "",
+          "title_en": "Above Foods Ingredients Delays Audit with Subsidiary Trustee Management",
+          "title_ja": "上記の食品成分は、子会社の受託者管理による監査を遅らせる",
+          "title_zh": "上述食品成分延迟与子公司受托人管理层的审计"
+        },
+        {
           "title": "한화푸드테크, '더 플라자 다이닝' 개장…\"미식 거점 될 것\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FRHpRZnZYUnRKTFNnV3dnX0cwZWRuS3pjVXZhdnpVODAyZEtUY2hhVm4wWHczc2VmVmRnYmZDLUE3LTRmZXh5a3NiXzNaWjhtUWc?oc=5",
           "desc": "",
           "title_en": "Hanwha Foodtech Opens' The Plaza Dining '... \"Becoming a Gourmet Base\"",
           "title_ja": "ハンファフードテック「ザ・プラザ・ダイニング」オープン…「グルメ拠点になる」",
           "title_zh": "韩华食品科技开设“The Plaza Dining”... “成为美食基地”"
-        },
-        {
-          "title": "뉴욕찾은 홍문표 aT사장 “K푸드 3년내 한계, 맞춤형수출로 돌파”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BQXM3Wm1JcnVSM1d6d1d3OTNGV2Y3cUxyaU56Tkd5dEowVzlUQUIzQ1lfZE9vbzlLbWRadlNpMXhlZG5XYnVCWVNtNG5Fbkw1bFE?oc=5",
-          "desc": "",
-          "title_en": "Hong Munpyo, aT President who visited New York “K Foods' Limitations Within 3 Years, Exceeded by Customized Export”",
-          "title_ja": "ニューヨークを訪問したaT社長ホン・ムンピョ「3年以内のKフーズの限界、カスタマイズされた輸出を超えて」",
-          "title_zh": "aT总裁Hong Munpyo访问纽约“3年内K Foods的局限性，超越定制出口”"
-        },
-        {
-          "title": "현대그린푸드, 애프터마켓서 11%대 급등",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iSUxvTElLYjB2eE1nMEtBMnBxT21VNXZBSndNRnNFaTFYbERXLVJfU3N1amxGN0lZOUhWZ19VUzRqUzZVQmxmQ202R3YxMkdfX3c?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, aftermarket surge of 11%",
-          "title_ja": "Hyundai Green Food、アフターマーケットが11%急増",
-          "title_zh": "现代绿色食品，售后市场激增11%"
         }
       ]
     },
