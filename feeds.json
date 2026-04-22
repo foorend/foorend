@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T18:16:05Z",
+  "lastUpdated": "2026-04-22T23:34:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,10 +96,18 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Hottest New Steakhouses in the U.S.",
+          "link": "https://www.eater.com/dining-out/955855/new-steakhouse-openings-national-list",
+          "desc": "Steakhouses have main character energy. Coming across them in movies or television, it’s easy to picture yourself seated next to Don Draper and Roger ",
+          "title_ko": "미국에서 가장 인기 있는 새로운 스테이크하우스",
+          "title_ja": "米国で最もホットな新しいステーキハウス",
+          "title_zh": "美国最热门的新牛排馆"
+        },
+        {
           "title": "America’s Glitziest, Wildest, and Quirkiest Steakhouses",
           "link": "https://www.eater.com/dining-out/956144/steakhouses-most-iconic-america",
           "desc": "It’s easy to identify a great steakhouse. It’s that instantly comforting place serving big hunks of meat, shrimp cocktails, cold martinis, and so on. ",
-          "title_ko": "미국에서 가장 화려하고 거칠며 특이한 스테이크하우스",
+          "title_ko": "미국에서 가장 화려하고 거칠며 독특한 스테이크하우스",
           "title_ja": "アメリカで最も華やかで、最もワイルドで、最も風変わりなステーキハウス",
           "title_zh": "美国最闪亮、最狂野、最奇特的牛排馆"
         },
@@ -110,14 +118,6 @@
           "title_ko": "뉴욕 최고의 레스토랑을 찾아가는 현지 피자이올로 투어",
           "title_ja": "ニューヨークの地元ピッツァイオーロのベストレストランツアー",
           "title_zh": "当地披萨店之旅：探索纽约最棒的餐厅"
-        },
-        {
-          "title": "The New American Steakhouse",
-          "link": "https://www.eater.com/dining-out/956087/global-steakhouse-trend-fusion-international-cuisines",
-          "desc": "By and large, most diners at Cote, the sleek and club-like New York City steakhouse, order the Butcher’s Feast. For $82 per person, diners get four cu",
-          "title_ko": "뉴아메리칸 스테이크하우스",
-          "title_ja": "ニューアメリカン・ステーキハウス",
-          "title_zh": "The New American Steakhouse"
         }
       ]
     }
