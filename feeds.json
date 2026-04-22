@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-04-22T06:23:41Z",
+  "lastUpdated": "2026-04-22T12:10:04Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Bluestone Lane co-founder launches new rotisserie chicken concept with a wood-fired twist",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVRuLW9JN0wtSkxKaFF5clZGZDZMRzl2cEhuZ0E0Yl9zdXIzek5QQ2s2WGlnd0xia3VGM2ZuV3NvU3lpbFNPc3JPckpkVGoweEdVWnF4bjJyYlNtbDJDRl9WczBfcFdZSmljMkIwNlI4enFnMmFXNkJqM0piRFlKZmUwbmRPOEs0OVZZb1Fma2lkQnpsZmNVeUFfX0gtU1FpUjdQcUM2cE9SZTNDLVhON2s0bkNFUWp0WG9JMnpTUTFIdlo4Q1N6YQ?oc=5",
+          "desc": "",
+          "title_ko": "블루스톤 레인 (Bluestone Lane) 의 공동 창업자가 화덕을 연상시키는 새로운 로티세리 치킨 콘셉트를 선보입니다.",
+          "title_ja": "Bluestone Laneの共同創業者が、木製のひねりを加えた新しいロティサリーチキンのコンセプトを発表",
+          "title_zh": "Bluestone Lane联合创始人推出新的烤鸡概念"
+        },
         {
           "title": "The Technomic Top 500: Chain restaurant sales slowed again in 2025",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUNtMFlXR2pnV2w0VDcxNU5HTVZ0S3h0bnhIdXZtcGtpTEprVkxNNERHblVkWXNCaUktTW5QSVh0VVNyc3pQVnJBaTg4RGV0VWJpVmN2WWc4ZlVxVml2V0JISWtIUnZKNjY1Q0R3aThwS0tlTmU1Nm9MU1hISVV0V1dZU0x5cTdGSFBJN3pVT0FDYnlIRHBzSEZBWDV4MDdyemFrN1BPU0U?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "스타벅스는 새로운 내슈빌 사무소에 1억 달러 ($) 를 투자할 예정입니다.",
           "title_ja": "スターバックス、ナッシュビルの新オフィスに1億$を投資",
           "title_zh": "星巴克将在纳什维尔新办事处投资1亿美元$"
-        },
-        {
-          "title": "2 of the country's 4 largest pizza chains are reportedly closing in on a sale",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXQ3cmNUNlRCQ3NfMWU1dlRpMkNWdTVybFVyS25DSXNzZXUyZUhNc1JQUDF5bm9TbGNRUi1tVlU3QmhkTGJLWWk2Z2VMTlBuMWNnWjBjU2d5NlJnTmZ3U2dldlBVTnowS0t0U3MxanF6eUo0ZXRkWjQ4RkltV21HdmdTdDg0eUVZeHJQdHlnU25HQU9LcERXVjFMaTlsZFNMeDkxck1UUEFwUnZn?oc=5",
-          "desc": "",
-          "title_ko": "국내 4대 피자 체인점 중 2곳이 매장에서 문을 닫고 있는 것으로 알려졌다.",
-          "title_ja": "国内最大の4つのピザチェーンのうち2つがセールに近づいていると報じられています",
-          "title_zh": "据报道，该国4家最大的披萨连锁店中有2家即将完成销售"
         }
       ]
     },
@@ -178,7 +178,7 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rdzV3RmdNc3dlZXFDOVRCVGlVZ3BYRGFPdHJ3S0t5c1duQzBWMmJHNXNTdWlReHdyODJOY2tUZlUwNnZJRmJpNWNBY2t1VWJUaWfSAVNBVV95cUxQREhfY0RIQlNXaXF6YUFHQzJRMFNhS2FTVzUzZmJkR0pKLXR2a0MzUmtoU21SOWpYYXlxUGpLa0pLWVZFV3ZIaHJhaUd6Sy1ZRjhkcw?oc=5",
           "desc": "",
           "title_en": "Barmin Expands‘ 60 Cigarettes Chicken ’Jangsan Food and‘ Jongsan ’· · · · Advertising · Marketing Cooperation",
-          "title_ja": "Barmin、「60カウントチキン」のJangsan Foodと「Jongsan」を拡大・・・広告・マーケティング協力",
+          "title_ja": "バーミン、「60たばこチキン」チャンサンフードと「ジョンサン」を拡大・・・広告・マーケティング協力",
           "title_zh": "Barmin扩大‘60香烟鸡’长山食品和‘长山’ · · · ·广告·营销合作"
         }
       ]
@@ -204,12 +204,12 @@
           "title_zh": "Laird Superfoods以4800万美元收购Terasol Superfoods"
         },
         {
-          "title": "한화푸드테크, '더 플라자 다이닝' 개장…\"미식 거점 될 것\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FRHpRZnZYUnRKTFNnV3dnX0cwZWRuS3pjVXZhdnpVODAyZEtUY2hhVm4wWHczc2VmVmRnYmZDLUE3LTRmZXh5a3NiXzNaWjhtUWc?oc=5",
+          "title": "세스코, K-푸드 수출지원 컨설팅 출시…미국 규제 대응",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1haDBWczFjSHQ4bWY2T0wzUlFIR1dmd3JRWnNvaGNxQkxjdlJqbUZOVm5qRnJHVmJfek9SU0pZX3UtbUwyM2NzTGZITHFVTmxyOVE?oc=5",
           "desc": "",
-          "title_en": "Hanwha Foodtech Opens' The Plaza Dining '... \"Becoming a Gourmet Base\"",
-          "title_ja": "ハンファフードテック「ザ・プラザ・ダイニング」オープン…「グルメ拠点になる」",
-          "title_zh": "韩华食品科技开设“The Plaza Dining”... “成为美食基地”"
+          "title_en": "Cesco Launches K-Food Export Support Consulting… US Regulatory Response",
+          "title_ja": "Cesco、K - Food輸出サポートコンサルティングを開始…米国の規制対応",
+          "title_zh": "Cesco推出K-Food出口支持咨询…美国监管响应"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "블루보틀 커피 “지구의 날, 귀리음료 변경 무료”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wUVpYc25wWUFZZXFZdWhTZ1FzOEkxOVctc1FPTExjaXF1WUZFOUxGU0hhcGxhTWU5bV9kMUhBeEVRbGJMNGNqcUo4eTg5Uk5LSGhITjZmMA?oc=5",
+          "desc": "",
+          "title_en": "Blue Bottle Coffee “Earth Day, Free Oat Drink Change”",
+          "title_ja": "ブルーボトルコーヒー「アースデイ・オートドリンクチェンジ無料」",
+          "title_zh": "蓝瓶咖啡“地球日，免费更换燕麦饮料”"
+        },
         {
           "title": "유용욱 바비큐 담았다…오리온 ‘바베큐 한정판’ 4종",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SRDhOaWx2b0hrS0ZsZkFkTXNkRHJRVk1pbWhlZmVqU2ZDYllVYXZJNEU1NldlWWNBVEtqUzBPQTktbVZ5RngxRXNXS2VKR1k4OHRyT2ZFOA?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "Ediya Coffee Expands to North America, # 1 in Toronto",
           "title_ja": "Ediya Coffeeが北米に進出、トロントでNo.1",
           "title_zh": "Ediya Coffee扩展到北美，在多伦多排名第一"
-        },
-        {
-          "title": "하이트진로, 소방서 돌며 1800인분 간식 제공",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01aHc4enVtZ3FZT3RBN21IYWpPeUtjc0dBNlNubjVWSDlOU0gtaEZQalV4Z3pKeTNqM3I5dEt1dnotYVk0WEphdDB0VVdSQW03NnJlbGgtNA?oc=5",
-          "desc": "",
-          "title_en": "HITEJINRO, 1800-serving snack around the fire station",
-          "title_ja": "HITEJINRO、1800 -消防署周辺の軽食",
-          "title_zh": "HITEJINRO ， 1800-消防站周围的小吃"
         }
       ]
     }
