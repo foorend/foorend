@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T12:09:13Z",
+  "lastUpdated": "2026-04-23T18:44:24Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -132,16 +132,8 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
-          "title_ja": "ロッテウェルフード、「ファインドマイネーム」シーズン2をカンチョウで550名に拡大",
+          "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
           "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
-        },
-        {
-          "title": "필리핀 졸리비푸드, 샤브올데이 품었다",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSFF0MzloT1ZieUZOR3lPaXdaSzFpYnU3dVZXZGlpRk5aUWFBUG9iN1Vsa1JfME5KaGQ5aG5yNVlKTXJCelZwSU1XVU1KZ2tGcENEOHNSdmE0V3B5Z3h4TVN3ZkJXTFVnQ005YVRfb3JRWC14WVhjVnYzZUVXU3lnQ0tYTUl2NVNBbU5veUVOSXFIZjBDSFluM3FYVzNVS2szOEdHRDFzSzJiUzZCR0E?oc=5",
-          "desc": "",
-          "title_en": "Philippine Jollibee Food, Shabu All Day",
-          "title_ja": "フィリピン・ジョリビー料理としゃぶしゃぶ体験（終日）",
-          "title_zh": "菲律宾Jollibee美食，一日游"
         },
         {
           "title": "골프장부터 군대까지 '싹쓸이'…밥장사로 2000억 '초대박' [권 기자의 장바구니]",
@@ -150,6 +142,14 @@
           "title_en": "From golf courses to the military, 'sweeping' … 200 billion 'mega-nights' as a bob shop [Kwon, reporter's shopping cart]",
           "title_ja": "ゴルフコースから軍隊まで、ボブショップとして2000億の「メガナイト」を「掃除」する[Kwon、レポーターのショッピングカート]",
           "title_zh": "从高尔夫球场到军队， “扫荡”...... 2000亿个“超级夜晚”作为鲍勃商店[Kwon ，记者的购物车]"
+        },
+        {
+          "title": "\"청와대 보이는 식당\" 입소문에…오픈 전부터 VIP 문의 폭주",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84V2tod08xTUdaQkZpa0k0ekZYVDh6cnhpRHdoSlF4eXJWNG9fRUZiam9yNFdYWjBjTUhmT0xicnVGYmxnU2FhSmhIamF0d3pwZFp1Q0FUT24yUdIBVEFVX3lxTE1KLU4waDkxMmtrbDA0VzBmMFNUQlplYndmQmw4akNkVWxQaFAzS2l0TGRNU0RLOGdwam53UkZUZmE4aDJDbHNMTzJMNFgzUEhILU83OA?oc=5",
+          "desc": "",
+          "title_en": "\"Cheongwadae Seen Restaurant\" word of mouth... VIP inquiries rampant before opening",
+          "title_ja": "「清和台見たレストラン」口コミ・・・VIP開店前のお問い合わせ盛りだくさん",
+          "title_zh": "「清和台看见餐厅」口碑…开业前VIP查询猖獗"
         }
       ]
     },
@@ -169,17 +169,17 @@
           "title": "검찰, ‘돈육 가격 담합 혐의’ 도드람푸드 등 9곳 압수수색",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOGVRY0xqOU9BSHdRV0dDeG9RSW1KbWtTYTU4dkN5MkdSY0FvN1pjVWRHLWtfZnpFcGVpa0VLSXBJQl9rNU10TFB4ZXFYcmhrV3c?oc=5",
           "desc": "",
-          "title_en": "Prosecutors Seize Nine Places for Alleged ’Fixed Meat Price' Dodram Foods",
+          "title_en": "Prosecutors Seize Nine Places for Alleged Fixing Money Meat Prices, Dodram Foods, and More",
           "title_ja": "検察は、金銭肉価格、ドドラムフーズなどを固定したとされる9つの場所を押収",
           "title_zh": "检察官以涉嫌操纵金钱肉类价格、Dodram食品等罪名扣押了九个地点"
         },
         {
-          "title": "세스코, ‘K-푸드’ 해외 진출 컨설팅 서비스 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tOE81U0hRUWMwVFZ6b0lFb0NKVnd3aWxKQm1yei0xWEN3Rmt6RW1BLWlHMzFaQ1BCaFZPSl95RG84bVJXazdVZVRBcjNYbndydmfSAVNBVV95cUxNSlFmT050VzJ4Q3R1cXkzYUpUNmY4dDB5VVNrQTA3S1VHWjhhQlc3U0NPeUdxMUZxV2tuUW5tbGNWZzJhOEZ3dVduc0IxSUtwWHRJTQ?oc=5",
+          "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yV1FtNE9CamVSR1FLa05HSFF3dzdWcFQ4dVlSRmMtZzFvRFRFczNKT3FxeExlTFZ0UU1qcmE3anJHdlV6SmFXOVBwN3ZDRmlPVnfSAVNBVV95cUxOTEhBWlpCbk5udjk0OVlhZy03YWRaLU0td2ZadHFoWWlUNkFpaHRfWVBSVzN3dllOZ1dURXNzRVBHNWJtdWlDdS1EcjRDN1REc3lZdw?oc=5",
           "desc": "",
-          "title_en": "Cesco Launches‘ K-Food ’Overseas Consulting Service",
-          "title_ja": "Cesco、海外コンサルティングサービス「K - Food」を開始",
-          "title_zh": "Cesco推出“K-Food”海外咨询服务"
+          "title_en": "“If you bring your courage, I'll cut your food” … Japan caught in an ‘emergency‘ disposable item in the Middle East war",
+          "title_ja": "「勇気を出せば食べ物を切る」…中東戦争で「緊急」の使い捨てアイテムに巻き込まれた日本",
+          "title_zh": "“如果你鼓起勇气，我会削减你的食物” ……日本在中东战争中陷入了“紧急”一次性用品"
         }
       ]
     },
