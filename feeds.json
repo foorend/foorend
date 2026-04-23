@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T18:44:24Z",
+  "lastUpdated": "2026-04-23T23:31:46Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -47,7 +47,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "추성훈도 헛구역질했는데 '반전'…소고기급 단백질 음식 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SUi1YZUszbEJabjJIdFRvbndpc195UklWejRSUEVSbFAycEdfdkpIczVLU0ozLS1mb250cUoxUjVmbUFoN1ZKVDBXSWp5dGhiYXhfcng0NldUQdIBVEFVX3lxTE13cWJSbkE1Y19VUEtFSnhQNWdpMTNOZVNMWENzMHYyWVdFQkxiVl9Ib0lxZndYQnAyODJoT19mQV9qeG1WeXB2cmFnemNpbFVyQXdiRg?oc=5",
+          "desc": "",
+          "title_en": "Chu Seong-hoon was also stumped, but 'inverted' … Beef-grade protein food [Healthy! Talk]",
+          "title_ja": "Chu Seong - hoonもつまずいていましたが、「逆」…牛肉グレードのタンパク質食品【ヘルシー！トーク】",
+          "title_zh": "楚成勋也愣住了，却“倒”了……牛肉级蛋白食品【健康！说话】"
+        },
+        {
           "title": "롯데웰푸드, 칸쵸 '내 이름을 찾아라' 시즌2…이름 550개로 확대",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "From golf courses to the military, 'sweeping' … 200 billion 'mega-nights' as a bob shop [Kwon, reporter's shopping cart]",
           "title_ja": "ゴルフコースから軍隊まで、ボブショップとして2000億の「メガナイト」を「掃除」する[Kwon、レポーターのショッピングカート]",
           "title_zh": "从高尔夫球场到军队， “扫荡”...... 2000亿个“超级夜晚”作为鲍勃商店[Kwon ，记者的购物车]"
-        },
-        {
-          "title": "\"청와대 보이는 식당\" 입소문에…오픈 전부터 VIP 문의 폭주",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84V2tod08xTUdaQkZpa0k0ekZYVDh6cnhpRHdoSlF4eXJWNG9fRUZiam9yNFdYWjBjTUhmT0xicnVGYmxnU2FhSmhIamF0d3pwZFp1Q0FUT24yUdIBVEFVX3lxTE1KLU4waDkxMmtrbDA0VzBmMFNUQlplYndmQmw4akNkVWxQaFAzS2l0TGRNU0RLOGdwam53UkZUZmE4aDJDbHNMTzJMNFgzUEhILU83OA?oc=5",
-          "desc": "",
-          "title_en": "\"Cheongwadae Seen Restaurant\" word of mouth... VIP inquiries rampant before opening",
-          "title_ja": "「清和台見たレストラン」口コミ・・・VIP開店前のお問い合わせ盛りだくさん",
-          "title_zh": "「清和台看见餐厅」口碑…开业前VIP查询猖獗"
         }
       ]
     },
@@ -170,8 +170,8 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOGVRY0xqOU9BSHdRV0dDeG9RSW1KbWtTYTU4dkN5MkdSY0FvN1pjVWRHLWtfZnpFcGVpa0VLSXBJQl9rNU10TFB4ZXFYcmhrV3c?oc=5",
           "desc": "",
           "title_en": "Prosecutors Seize Nine Places for Alleged Fixing Money Meat Prices, Dodram Foods, and More",
-          "title_ja": "検察は、金銭肉価格、ドドラムフーズなどを固定したとされる9つの場所を押収",
-          "title_zh": "检察官以涉嫌操纵金钱肉类价格、Dodram食品等罪名扣押了九个地点"
+          "title_ja": "検察官が「肉の固定価格」とされるドドラム食品で9箇所を押収",
+          "title_zh": "检察官以涉嫌“固定肉类价格”的Dodram食品扣押了九个地方"
         },
         {
           "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
@@ -204,12 +204,12 @@
           "title_zh": "【公告栏】Natural Core在首尔春节期间经营宠物食品卡车"
         },
         {
-          "title": "경남도·밀양시, 농식품부 '푸드테크 연구지원센터' 유치 추진",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vLUFEczVNbEpMVkRwSzNWMDNWZVowRlM5MzNIRTE4bHF3M2VZYlVJMFUwQjVBTnVTWHVEWUpOWWFmVVlUTEtwWkktZGJMX2g4Snc?oc=5",
+          "title": "세스코 ‘K-푸드 수출지원컨설팅’…강화되는 해외수출 검증 기준에 선제 대응",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pLW9wTVJwV3k5NTZNTmdZa0NldkZjemxaRHduaGdJWjl4eVhZN1VvZC00RGs2N3o0X1hRejJ4UGtJUHZHMjFSZ3F0NGxiVnJaMVpNY2Rn?oc=5",
           "desc": "",
-          "title_en": "Gyeongnam-do, Milyang-si, the Ministry of Agriculture and Food 'Food Tech Research Support Center'",
-          "title_ja": "慶南道、密陽市、農林水産省「食品技術研究支援センター」",
-          "title_zh": "庆南道、密阳市、农业和食品部“食品技术研究支持中心”"
+          "title_en": "Cesco ‘K-Food Export Support Consulting’ … Preemptive Response to Enhanced Overseas Export Verification Standards",
+          "title_ja": "Cesco「K - Food輸出支援コンサルティング」…海外輸出検証基準強化への先制対応",
+          "title_zh": "Cesco “K-Food出口支持咨询” …对增强的海外出口验证标准的先发制人响应"
         }
       ]
     },
