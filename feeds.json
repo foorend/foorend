@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T06:28:09Z",
+  "lastUpdated": "2026-04-23T12:09:13Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -47,7 +47,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -132,8 +132,8 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
-          "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
-          "title_zh": "乐天Well Food将Kancho的“查找我的名字”第二季扩展到550个名字"
+          "title_ja": "ロッテウェルフード、「ファインドマイネーム」シーズン2をカンチョウで550名に拡大",
+          "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
         },
         {
           "title": "필리핀 졸리비푸드, 샤브올데이 품었다",
@@ -144,12 +144,12 @@
           "title_zh": "菲律宾Jollibee美食，一日游"
         },
         {
-          "title": "\"한국 첫인상 바꾼다\"…방문위, 'K푸드' 앞세운 환영주간 개최",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaDZUMl85VDdpTEE0QlVqMlZfOXR6STJPcGVobGZleDhwbzZnc00wb3lMRk5fNHdxWnFMaEhEWS1qRGlxbl9kamk3Z003dG9UZF9VZDh5QW44QdIBVEFVX3lxTE1GT0J4SFN5cTVBeTVUT3VqWElNbkk2Tlk2cFR4THB6eHl4WktsRnY5M255cGFmUGVkdGVsbXN1bEktellsTHJZaVRpWlBDdzFEem85eQ?oc=5",
+          "title": "골프장부터 군대까지 '싹쓸이'…밥장사로 2000억 '초대박' [권 기자의 장바구니]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENFZESUMyUUhiMEpMWXUtb1RtTzBiRUo2QW1TNzZjODZxcWdyc2xiTmdOeXRic3FmakdYdldYdlRFS1h6YUk0TmdLUnMxY2t5Q1o2MkVDbm5kQdIBVEFVX3lxTFBMcnFKOFM1aHhyVFdSTGplUWl2a0xRRjdEV0tzTXI3YjloQ0FoRWMzRnRoeTlQZzFFZ1YwSF9DSkJYQ1lfVXRleVB5U0pzdkVwSnVzbA?oc=5",
           "desc": "",
-          "title_en": "\"Changing the first impression of Korea\" … Visiting We held a welcome week in front of 'K Food'",
-          "title_ja": "「韓国の第一印象を変える」…訪問「Kフード」の前でウェルカムウィークを開催",
-          "title_zh": "「改变韩国的第一印象」……参观我们在「K Food」前举办了欢迎周"
+          "title_en": "From golf courses to the military, 'sweeping' … 200 billion 'mega-nights' as a bob shop [Kwon, reporter's shopping cart]",
+          "title_ja": "ゴルフコースから軍隊まで、ボブショップとして2000億の「メガナイト」を「掃除」する[Kwon、レポーターのショッピングカート]",
+          "title_zh": "从高尔夫球场到军队， “扫荡”...... 2000亿个“超级夜晚”作为鲍勃商店[Kwon ，记者的购物车]"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "궁집에서 열린 ‘K푸드 페스타’…남양주시, 전통 식문화 재조명",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRWd1NXJFRU12aDVaekZsbVZXdUx2dk9DSEt2NTI3R0VQTGxBRDhXYi0wYTJCdlJ5UjJRdHR5aDRLWkhjdm14U3B4WHdNa1FtQlHSAVNBVV95cUxNcnlfSTN4eXBYN09PVzJvakE3NW5YX0RwanlGQU1KX2lxRlk5RU5PUVBZZkhVWjlkNXp0WHBUQkdZYk4yMjl1bHBrb1FhNkhtVU8xSQ?oc=5",
+          "desc": "",
+          "title_en": "'K-Food Festa‘ held at the Palace House… Namyangju City reimagines traditional food culture",
+          "title_ja": "宮殿で開催される「Kフードフェスタ」…南楊州市は伝統的な食文化を再考",
+          "title_zh": "在宫殿举行的“K-Food Festa” ……南杨州市重塑传统美食文化"
+        },
+        {
+          "title": "검찰, ‘돈육 가격 담합 혐의’ 도드람푸드 등 9곳 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOGVRY0xqOU9BSHdRV0dDeG9RSW1KbWtTYTU4dkN5MkdSY0FvN1pjVWRHLWtfZnpFcGVpa0VLSXBJQl9rNU10TFB4ZXFYcmhrV3c?oc=5",
+          "desc": "",
+          "title_en": "Prosecutors Seize Nine Places for Alleged ’Fixed Meat Price' Dodram Foods",
+          "title_ja": "検察は、金銭肉価格、ドドラムフーズなどを固定したとされる9つの場所を押収",
+          "title_zh": "检察官以涉嫌操纵金钱肉类价格、Dodram食品等罪名扣押了九个地点"
+        },
+        {
           "title": "세스코, ‘K-푸드’ 해외 진출 컨설팅 서비스 출시",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tOE81U0hRUWMwVFZ6b0lFb0NKVnd3aWxKQm1yei0xWEN3Rmt6RW1BLWlHMzFaQ1BCaFZPSl95RG84bVJXazdVZVRBcjNYbndydmfSAVNBVV95cUxNSlFmT050VzJ4Q3R1cXkzYUpUNmY4dDB5VVNrQTA3S1VHWjhhQlc3U0NPeUdxMUZxV2tuUW5tbGNWZzJhOEZ3dVduc0IxSUtwWHRJTQ?oc=5",
           "desc": "",
           "title_en": "Cesco Launches‘ K-Food ’Overseas Consulting Service",
           "title_ja": "Cesco、海外コンサルティングサービス「K - Food」を開始",
           "title_zh": "Cesco推出“K-Food”海外咨询服务"
-        },
-        {
-          "title": "한국인들 즐겨 먹는 건데…의사들은 “절대 안 먹는다”는 음식들, 뭐길래?",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBndl9pSV9oY1NzN1pkdXpsbGlOYmg0TVNKTGEyVnp6MzVUY1dWODc2OXBQX3kxcGdZT0MydUVnbnBHakIxZ3NCWFEtWWVWTDRnT0HSAVNBVV95cUxQRUNMaTdpNDhXWmstUDdtSUVHNU5mVWhNeVpmM0xmOGhBaTZ4ZG5hSExueVFMU2xBYjRGWFRjWGUwLTdrckctcTNVWEljVHNHOERMSQ?oc=5",
-          "desc": "",
-          "title_en": "It's something that Koreans enjoy... Doctors say, \"Never eat\" foods, what is it?",
-          "title_ja": "韓国人が楽しむもの・・・医者が食べ物を「絶対に食べてはいけない」と言う、それは何ですか？",
-          "title_zh": "这是韩国人喜欢的东西……医生说， “从不吃”食物，是什么？"
-        },
-        {
-          "title": "KB금융, 장애인 사장님에 ‘배리어프리 푸드트럭’ 개조 지원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oYWtCYTB6SFBteTMzVGw5aWxrWFo5QXNzc3NkcjVhTlRncjRiWHBQVU1mN19sd1N3TFh4c29GS0tBSG5FSHkxQ2xCSHg2bktPcVHSAVNBVV95cUxOaDl6X0pLNlVCY0djWDBuNnd4dmRrNDZHSFVWSmx2SHlSc1FKOEpnTGc4Q25mWFUyd3lJWmhNUlNneXJvQ2tnTjRHYlUwY3ZIMEl5bw?oc=5",
-          "desc": "",
-          "title_en": "KB Finance Supports‘ Barrier-Free Food Truck ‘Modification to President of the Disabled",
-          "title_ja": "KBファイナンス、障害者会長への「バリアフリーフードトラック」変更を支援",
-          "title_zh": "KB Finance支持将“无障碍食品卡车”改装为残障人士总裁"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "농식품부, 해외 K-외식·급식 연계해 K-푸드 수출 판로 넓힌다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNUZTTVA3OHJweVJ4YjlzMm11Rk8tVVZTNTJodms4STg4aHVaY29hdnRoTmxnTnl4T0xGeGZvUjhxTExjWWR0OXlDREhsZlYwdWc?oc=5",
+          "desc": "",
+          "title_en": "Ministry of Agriculture and Food expands K-food export market by linking overseas K-dining and feeding",
+          "title_ja": "農林水産省、海外のK -ダイニングと飼料を結びつけることでK - food輸出市場を拡大",
+          "title_zh": "农业和食品部通过连接海外K-餐饮和饲料扩大K-食品出口市场"
+        },
+        {
+          "title": "[게시판] 네츄럴코어, 서울스프링페스티벌서 펫푸드 트럭 운영",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtQWZ1ZHdQTnh6SW1memZGeUhTcjlONFd5VjBkVkVCNEZnV29vcUdQZlNxamRzNUltOHJ6bGFZTkRrd2ducmwxWXVUcFhyRmpoWWc?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] Natural Core Operates Pet Food Truck at Seoul Spring Festival",
+          "title_ja": "【掲示板】ナチュラルコアがソウル春祭りでペットフードトラックを運行",
+          "title_zh": "【公告栏】Natural Core在首尔春节期间经营宠物食品卡车"
+        },
+        {
           "title": "경남도·밀양시, 농식품부 '푸드테크 연구지원센터' 유치 추진",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vLUFEczVNbEpMVkRwSzNWMDNWZVowRlM5MzNIRTE4bHF3M2VZYlVJMFUwQjVBTnVTWHVEWUpOWWFmVVlUTEtwWkktZGJMX2g4Snc?oc=5",
           "desc": "",
           "title_en": "Gyeongnam-do, Milyang-si, the Ministry of Agriculture and Food 'Food Tech Research Support Center'",
           "title_ja": "慶南道、密陽市、農林水産省「食品技術研究支援センター」",
           "title_zh": "庆南道、密阳市、农业和食品部“食品技术研究支持中心”"
-        },
-        {
-          "title": "세스코, K-푸드 수출지원 컨설팅 출시…미국 규제 대응",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1haDBWczFjSHQ4bWY2T0wzUlFIR1dmd3JRWnNvaGNxQkxjdlJqbUZOVm5qRnJHVmJfek9SU0pZX3UtbUwyM2NzTGZITHFVTmxyOVE?oc=5",
-          "desc": "",
-          "title_en": "Cesco Launches K-Food Export Support Consulting… US Regulatory Response",
-          "title_ja": "Cesco、K - Food輸出サポートコンサルティングを開始…米国の規制対応",
-          "title_zh": "Cesco推出K-Food出口支持咨询…美国监管响应"
-        },
-        {
-          "title": "레어드 슈퍼푸드, 테라솔 슈퍼푸드 4,800만 달러 인수 완료",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CV1g1NU84Y0ZyZjlJMWZEcU00MElqQ1NXd3NQbVpzbUczZzRDWGlpUG9femhPQ0YtRWRlRVUyamdKMXpmMGZtRURzU1VMMUdKUWc?oc=5",
-          "desc": "",
-          "title_en": "Laird Superfoods Completes $48 Million Acquisition of Terasol Superfoods",
-          "title_ja": "Laird Superfoods、Terasol Superfoodsの4800万ドルの買収を完了",
-          "title_zh": "Laird Superfoods以4800万美元收购Terasol Superfoods"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "包含实用烧烤…… Orion「烧烤限量版」4种类型"
         },
         {
-          "title": "북미로 확장하는 이디야커피, 토론토에 1호점",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56X19DSFVmOXdiRzQzTGgwbWM5RlBycHlvYnJLcFRVV0QyOGt4dWlEbThXREs4MHlsZXN6X3lIQXRET1JGejYyVHBRbmZ6M1ZEcUpuTUd5UQ?oc=5",
+          "title": "고소한 감자에 치즈 가득, ‘감자 치즈 그라탕’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c01mYkF5cU56NkxWNktoT09HSE1PYlN3RFhiaWtLbWlpdjdMdGNXWTZ0OGdFSHA0LS1ma0lfWWQyX1MwYk9yVmFiRlFzT2UyVUlZTUtjNA?oc=5",
           "desc": "",
-          "title_en": "Ediya Coffee Expands to North America, # 1 in Toronto",
-          "title_ja": "Ediya Coffeeが北米に進出、トロントでNo.1",
-          "title_zh": "Ediya Coffee扩展到北美，在多伦多排名第一"
+          "title_en": "Savory potatoes full of cheese, ‘potato cheese gratin’",
+          "title_ja": "チーズたっぷりの美味しいじゃがいも、「じゃがいもチーズグラタン」",
+          "title_zh": "充满奶酪的咸味土豆， “马铃薯奶酪烤肉”"
         }
       ]
     }
