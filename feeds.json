@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T13:25:52Z",
+  "lastUpdated": "2026-04-24T16:04:59Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -39,7 +39,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "How to Hit a Steakhouse Like a Pro",
+          "link": "https://www.eater.com/explainer/957435/steakhouse-tips-best-orders-advice",
+          "desc": "I live for a great steakhouse. Growing up, my late father, a lover of steak, took me to Cask ’n Cleaver in LA’s Inland Empire at the ripe age of 6, wh",
+          "title_ko": "전문가처럼 스테이크 전문점을 방문하는 방법",
+          "title_ja": "プロのようにステーキハウスを叩く方法",
+          "title_zh": "如何像专业人士一样品尝牛排餐厅美食"
+        },
+        {
           "title": "The Hottest New Steakhouses in the U.S.",
           "link": "https://www.eater.com/dining-out/955855/new-steakhouse-openings-national-list",
           "desc": "Steakhouses have main character energy. Coming across them in movies or television, it’s easy to picture yourself seated next to Don Draper and Roger ",
@@ -107,17 +115,9 @@
           "title": "America’s Glitziest, Wildest, and Quirkiest Steakhouses",
           "link": "https://www.eater.com/dining-out/956144/steakhouses-most-iconic-america",
           "desc": "It’s easy to identify a great steakhouse. It’s that instantly comforting place serving big hunks of meat, shrimp cocktails, cold martinis, and so on. ",
-          "title_ko": "미국에서 가장 화려하고 거칠며 특이한 스테이크하우스",
+          "title_ko": "미국에서 가장 화려하고 거칠며 독특한 스테이크하우스",
           "title_ja": "アメリカで最も華やかで、最もワイルドで、最も風変わりなステーキハウス",
           "title_zh": "美国最闪亮、最狂野、最奇特的牛排馆"
-        },
-        {
-          "title": "A Local Pizzaiolo’s Tour of the Best Restaurants in NYC",
-          "link": "https://www.eater.com/video/956396/chefs-day-off-anthony-angieri",
-          "desc": "Chef Anthony Mangieri from Una Pizza Napoletana, whose pizza was crowned the best in the U.S. in 2025, takes Eater on a tour of his favorite restauran",
-          "title_ko": "뉴욕 최고의 레스토랑을 찾아가는 현지 피자이올로 투어",
-          "title_ja": "ニューヨークの地元ピッツァイオーロのベストレストランツアー",
-          "title_zh": "当地披萨店之旅：探索纽约最棒的餐厅"
         }
       ]
     }
@@ -132,16 +132,8 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
-          "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
+          "title_ja": "ロッテウェルフード、「ファインドマイネーム」シーズン2をカンチョウで550名に拡大",
           "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
-        },
-        {
-          "title": "엑스브릿지, AI 기반 K-푸드 수출 규제 해소 서비스 출시",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oMmZiZDd2U21yY3ZNcWhjVGlBenNHbWRMNHZaTGo2Z0hGSjdGSkFPeDkxVnZOMnZSTHVHZlpFemRadHdXeUxRMmVwZUg3WGFsX2NHWk16SWMwUdIBVEFVX3lxTE9qU1V0VV90cktKXzYzMWtDVU5mVFVWSHRvM0ZCQzNia1VxU2ltb3V0RnZGUFU1dTNOVXR0TVQzWThBWWJ2UlNTaXZoZFVTMUJkR2lYVA?oc=5",
-          "desc": "",
-          "title_en": "XBridge Launches AI-Powered K-Food Export Control Service",
-          "title_ja": "XBridge、AI搭載のK - Food輸出管理サービスを開始",
-          "title_zh": "XBridge推出人工智能驱动的K-Food出口管制服务"
         },
         {
           "title": "골프장부터 군대까지 '싹쓸이'…밥장사로 2000억 '초대박' [권 기자의 장바구니]",
@@ -150,6 +142,14 @@
           "title_en": "From golf courses to the military, 'sweeping' … 200 billion 'mega-nights' as a bob shop [Kwon, reporter's shopping cart]",
           "title_ja": "ゴルフコースから軍隊まで、ボブショップとして2000億の「メガナイト」を「掃除」する[Kwon、レポーターのショッピングカート]",
           "title_zh": "从高尔夫球场到军队， “扫荡”...... 2000亿个“超级夜晚”作为鲍勃商店[Kwon ，记者的购物车]"
+        },
+        {
+          "title": "엑스브릿지, AI 기반 K-푸드 수출 규제 해소 서비스 출시",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oMmZiZDd2U21yY3ZNcWhjVGlBenNHbWRMNHZaTGo2Z0hGSjdGSkFPeDkxVnZOMnZSTHVHZlpFemRadHdXeUxRMmVwZUg3WGFsX2NHWk16SWMwUdIBVEFVX3lxTE9qU1V0VV90cktKXzYzMWtDVU5mVFVWSHRvM0ZCQzNia1VxU2ltb3V0RnZGUFU1dTNOVXR0TVQzWThBWWJ2UlNTaXZoZFVTMUJkR2lYVA?oc=5",
+          "desc": "",
+          "title_en": "XBridge Launches AI-Powered K-Food Export Control Service",
+          "title_ja": "XBridge、AI搭載のK - Food輸出管理サービスを開始",
+          "title_zh": "XBridge推出人工智能驱动的K-Food出口管制服务"
         }
       ]
     },
@@ -162,7 +162,7 @@
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01amN0TkhMM1ZwT1NCOFNpcEpoeFRnZzZPbTVlN203T0p4cEY2bWFfWTZUTzBOVlc5OWQxNFNHTWdtY2hEcG1GVDlXbzFzcHlzYUlZ0gFTQVVfeXFMTTVqY3ROSEwzVnBPU0I4U2lwSmh4VGdnNk9tNWU3bTdPSnhwRjZtYV9ZNlRPME5WVzk5ZDE0U0dNZ21jaERwbUZUOVdvMXNweXNhSVk?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
-          "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
+          "title_ja": "ロッテウェルフード、KBOコラボ商品「スイーツオールスター展」開幕",
           "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
         },
         {
@@ -204,12 +204,12 @@
           "title_zh": "【公告栏】Natural Core在首尔春节期间经营宠物食品卡车"
         },
         {
-          "title": "세스코 ‘K-푸드 수출지원컨설팅’…강화되는 해외수출 검증 기준에 선제 대응",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pLW9wTVJwV3k5NTZNTmdZa0NldkZjemxaRHduaGdJWjl4eVhZN1VvZC00RGs2N3o0X1hRejJ4UGtJUHZHMjFSZ3F0NGxiVnJaMVpNY2Rn?oc=5",
+          "title": "롯데웰푸드(주) 감사보고서 제출",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05WEN0ZzBSakhsWnd0MUZYQjZicnBhbENfdzBEZ1pFVDFiNEd0RHFzbjBaVVhyYUVFSENrUGJzQzExYnUyQ3ZIdTlSRl85WnNjRU5XeUZqRzVKUQ?oc=5",
           "desc": "",
-          "title_en": "Cesco ‘K-Food Export Support Consulting’ … Preemptive Response to Enhanced Overseas Export Verification Standards",
-          "title_ja": "Cesco「K - Food輸出支援コンサルティング」…海外輸出検証基準強化への先制対応",
-          "title_zh": "Cesco “K-Food出口支持咨询” …对增强的海外出口验证标准的先发制人响应"
+          "title_en": "Submit audit report for Lotte Well Food Co., Ltd.",
+          "title_ja": "ロッテウェルフード株式会社監査報告書提出",
+          "title_zh": "提交乐天威尔食品有限公司审核报告"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "중미 최대 프랜차이즈 시장으로 성장한 과테말라",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ydWJGVmwzN3ZDenNYMjZLa2NsdDFZOXctTlhkQzJaa0VGNkYyYXVORVIzdDJvSHNzSVE1SzQxTGRDaTNGVXpQOG9qcDdBbkRtbjVub29mRQ?oc=5",
+          "desc": "",
+          "title_en": "Guatemala grows into the largest franchise market in Central America",
+          "title_ja": "グアテマラが中央アメリカ最大のフランチャイズ市場に成長",
+          "title_zh": "危地马拉成长为中美洲最大的特许经营市场"
+        },
         {
           "title": "블루보틀 커피 “지구의 날, 귀리음료 변경 무료”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wUVpYc25wWUFZZXFZdWhTZ1FzOEkxOVctc1FPTExjaXF1WUZFOUxGU0hhcGxhTWU5bV9kMUhBeEVRbGJMNGNqcUo4eTg5Uk5LSGhITjZmMA?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "“Decaffeinated coffee, dementia prevention effects unclear”",
           "title_ja": "「カフェイン抜きコーヒー、認知症予防効果不明」",
           "title_zh": "“不含咖啡因的咖啡，预防痴呆的效果尚不清楚”"
-        },
-        {
-          "title": "고소한 감자에 치즈 가득, ‘감자 치즈 그라탕’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c01mYkF5cU56NkxWNktoT09HSE1PYlN3RFhiaWtLbWlpdjdMdGNXWTZ0OGdFSHA0LS1ma0lfWWQyX1MwYk9yVmFiRlFzT2UyVUlZTUtjNA?oc=5",
-          "desc": "",
-          "title_en": "Savory potatoes full of cheese, ‘potato cheese gratin’",
-          "title_ja": "チーズたっぷりの美味しいじゃがいも、「じゃがいもチーズグラタン」",
-          "title_zh": "充满奶酪的咸味土豆， “马铃薯奶酪烤肉”"
         }
       ]
     }
