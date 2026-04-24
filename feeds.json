@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-04-24T18:54:18Z",
+  "lastUpdated": "2026-04-24T21:49:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Bluestone Lane co-founder launches new rotisserie chicken concept with a wood-fired twist",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVRuLW9JN0wtSkxKaFF5clZGZDZMRzl2cEhuZ0E0Yl9zdXIzek5QQ2s2WGlnd0xia3VGM2ZuV3NvU3lpbFNPc3JPckpkVGoweEdVWnF4bjJyYlNtbDJDRl9WczBfcFdZSmljMkIwNlI4enFnMmFXNkJqM0piRFlKZmUwbmRPOEs0OVZZb1Fma2lkQnpsZmNVeUFfX0gtU1FpUjdQcUM2cE9SZTNDLVhON2s0bkNFUWp0WG9JMnpTUTFIdlo4Q1N6YQ?oc=5",
-          "desc": "",
-          "title_ko": "블루스톤 레인 (Bluestone Lane) 의 공동 창업자가 화덕을 연상시키는 새로운 로티세리 치킨 콘셉트를 선보입니다.",
-          "title_ja": "Bluestone Laneの共同創業者が、木製のひねりを加えた新しいロティサリーチキンのコンセプトを発表",
-          "title_zh": "Bluestone Lane联合创始人推出新的烤鸡概念"
-        },
         {
           "title": "The Technomic Top 500: Chain restaurant sales slowed again in 2025",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUNtMFlXR2pnV2w0VDcxNU5HTVZ0S3h0bnhIdXZtcGtpTEprVkxNNERHblVkWXNCaUktTW5QSVh0VVNyc3pQVnJBaTg4RGV0VWJpVmN2WWc4ZlVxVml2V0JISWtIUnZKNjY1Q0R3aThwS0tlTmU1Nm9MU1hISVV0V1dZU0x5cTdGSFBJN3pVT0FDYnlIRHBzSEZBWDV4MDdyemFrN1BPU0U?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "스타벅스는 새로운 내슈빌 사무소에 1억 달러 ($) 를 투자할 예정입니다.",
           "title_ja": "スターバックス、ナッシュビルの新オフィスに1億$を投資",
           "title_zh": "星巴克将在纳什维尔新办事处投资1亿美元$"
+        },
+        {
+          "title": "A large Hardee's franchisee declares Chapter 7 bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU9kamVWTkxxcDhnTmxESk1icV9FMlVObXE0dy1BUE9yTFRJZHNPYkhuRGEyM1lyLWtKUjhGb0V0bWlKMXhvc1hWd0tRVXdCdG43M3I5WkFvTjZPdkRpcl9zSWp3ektkYzNsLUIwY1J5T3VoR0ZnbXh1bXpqOXVldFZqczRsNW5iSW80a3FoeUFIUVV1MENFWWJuNFZNSXE1ckRB?oc=5",
+          "desc": "",
+          "title_ko": "대규모 하디스 프랜차이즈 가맹점, 챕터 7 파산 선언",
+          "title_ja": "大規模なハーディーのフランチャイズ加盟店が第7章の破産を宣言",
+          "title_zh": "一家大型Hardee的加盟商宣布第7章破产"
         }
       ]
     },
@@ -39,7 +39,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Am I a Bad Person for Loving Steakhouses?",
+          "link": "https://www.eater.com/food-culture/957523/moral-dilemmas-of-steakhouses",
+          "desc": "A version of this post originally appeared on April 22 in our newsletter Eater Today. Sign up here to receive stories like this in your inbox. I recen",
+          "title_ko": "나는 스테이크하우스를 사랑하기에 나쁜 사람인가?",
+          "title_ja": "私はステーキハウスが大好きな人ですか？",
+          "title_zh": "我是一个喜欢牛排馆的坏人吗？"
+        },
+        {
           "title": "How to Hit a Steakhouse Like a Pro",
           "link": "https://www.eater.com/explainer/957435/steakhouse-tips-best-orders-advice",
           "desc": "I live for a great steakhouse. Growing up, my late father, a lover of steak, took me to Cask ’n Cleaver in LA’s Inland Empire at the ripe age of 6, wh",
@@ -110,14 +118,6 @@
           "title_ko": "미국에서 가장 인기 있는 새로운 스테이크하우스",
           "title_ja": "米国で最もホットな新しいステーキハウス",
           "title_zh": "美国最热门的新牛排馆"
-        },
-        {
-          "title": "America’s Glitziest, Wildest, and Quirkiest Steakhouses",
-          "link": "https://www.eater.com/dining-out/956144/steakhouses-most-iconic-america",
-          "desc": "It’s easy to identify a great steakhouse. It’s that instantly comforting place serving big hunks of meat, shrimp cocktails, cold martinis, and so on. ",
-          "title_ko": "미국에서 가장 화려하고 거칠며 독특한 스테이크하우스",
-          "title_ja": "アメリカで最も華やかで、最もワイルドで、最も風変わりなステーキハウス",
-          "title_zh": "美国最闪亮、最狂野、最奇特的牛排馆"
         }
       ]
     }
@@ -162,7 +162,7 @@
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01amN0TkhMM1ZwT1NCOFNpcEpoeFRnZzZPbTVlN203T0p4cEY2bWFfWTZUTzBOVlc5OWQxNFNHTWdtY2hEcG1GVDlXbzFzcHlzYUlZ0gFTQVVfeXFMTTVqY3ROSEwzVnBPU0I4U2lwSmh4VGdnNk9tNWU3bTdPSnhwRjZtYV9ZNlRPME5WVzk5ZDE0U0dNZ21jaERwbUZUOVdvMXNweXNhSVk?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
-          "title_ja": "ロッテウェルフード、KBOコラボ商品「スイーツオールスター展」開幕",
+          "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
           "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
         },
         {
