@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-04-24T10:22:29Z",
+  "lastUpdated": "2026-04-24T13:25:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Bluestone Lane co-founder launches new rotisserie chicken concept with a wood-fired twist",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVRuLW9JN0wtSkxKaFF5clZGZDZMRzl2cEhuZ0E0Yl9zdXIzek5QQ2s2WGlnd0xia3VGM2ZuV3NvU3lpbFNPc3JPckpkVGoweEdVWnF4bjJyYlNtbDJDRl9WczBfcFdZSmljMkIwNlI4enFnMmFXNkJqM0piRFlKZmUwbmRPOEs0OVZZb1Fma2lkQnpsZmNVeUFfX0gtU1FpUjdQcUM2cE9SZTNDLVhON2s0bkNFUWp0WG9JMnpTUTFIdlo4Q1N6YQ?oc=5",
+          "desc": "",
+          "title_ko": "블루스톤 레인 (Bluestone Lane) 의 공동 창업자가 화덕을 연상시키는 새로운 로티세리 치킨 콘셉트를 선보입니다.",
+          "title_ja": "Bluestone Laneの共同創業者が、木製のひねりを加えた新しいロティサリーチキンのコンセプトを発表",
+          "title_zh": "Bluestone Lane联合创始人推出新的烤鸡概念"
+        },
         {
           "title": "The Technomic Top 500: Chain restaurant sales slowed again in 2025",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUNtMFlXR2pnV2w0VDcxNU5HTVZ0S3h0bnhIdXZtcGtpTEprVkxNNERHblVkWXNCaUktTW5QSVh0VVNyc3pQVnJBaTg4RGV0VWJpVmN2WWc4ZlVxVml2V0JISWtIUnZKNjY1Q0R3aThwS0tlTmU1Nm9MU1hISVV0V1dZU0x5cTdGSFBJN3pVT0FDYnlIRHBzSEZBWDV4MDdyemFrN1BPU0U?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "스타벅스는 새로운 내슈빌 사무소에 1억 달러 ($) 를 투자할 예정입니다.",
           "title_ja": "スターバックス、ナッシュビルの新オフィスに1億$を投資",
           "title_zh": "星巴克将在纳什维尔新办事处投资1亿美元$"
-        },
-        {
-          "title": "A large Hardee's franchisee declares Chapter 7 bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU9kamVWTkxxcDhnTmxESk1icV9FMlVObXE0dy1BUE9yTFRJZHNPYkhuRGEyM1lyLWtKUjhGb0V0bWlKMXhvc1hWd0tRVXdCdG43M3I5WkFvTjZPdkRpcl9zSWp3ektkYzNsLUIwY1J5T3VoR0ZnbXh1bXpqOXVldFZqczRsNW5iSW80a3FoeUFIUVV1MENFWWJuNFZNSXE1ckRB?oc=5",
-          "desc": "",
-          "title_ko": "대규모 하디스 프랜차이즈 가맹점, 챕터 7 파산 선언",
-          "title_ja": "大規模なハーディーのフランチャイズ加盟店が第7章の破産を宣言",
-          "title_zh": "一家大型Hardee的加盟商宣布第7章破产"
         }
       ]
     },
@@ -131,7 +131,7 @@
           "title": "롯데웰푸드, 칸쵸 '내 이름을 찾아라' 시즌2…이름 550개로 확대",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Expands' Find My Name 'Season 2 in Kancho… to 550 Names",
+          "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
           "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
           "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
         },
@@ -159,19 +159,11 @@
       "items": [
         {
           "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFVzYzRlU2lQTEowcWRZaWFLcXdvRUpvaEgyTjEzdHVteTdPVzdQcElDOE1Qd3lRRXpMVzFqWWx6UmktOTQxcmE4cFpwTEtkMnfSAVNBVV95cUxNNWpjdE5ITDNWcE9TQjhTaXBKaHhUZ2c2T201ZTdtN09KeHBGNm1hX1k2VE8wTlZXOTlkMTRTR01nbWNoRHBtRlQ5V28xc3B5c2FJWQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01amN0TkhMM1ZwT1NCOFNpcEpoeFRnZzZPbTVlN203T0p4cEY2bWFfWTZUTzBOVlc5OWQxNFNHTWdtY2hEcG1GVDlXbzFzcHlzYUlZ0gFTQVVfeXFMTTVqY3ROSEwzVnBPU0I4U2lwSmh4VGdnNk9tNWU3bTdPSnhwRjZtYV9ZNlRPME5WVzk5ZDE0U0dNZ21jaERwbUZUOVdvMXNweXNhSVk?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
-          "title_ja": "ロッテウェルフード、KBOコラボ商品「スイーツオールスター展」開幕",
+          "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
           "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
-        },
-        {
-          "title": "궁집에서 열린 ‘K푸드 페스타’…남양주시, 전통 식문화 재조명",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRWd1NXJFRU12aDVaekZsbVZXdUx2dk9DSEt2NTI3R0VQTGxBRDhXYi0wYTJCdlJ5UjJRdHR5aDRLWkhjdm14U3B4WHdNa1FtQlHSAVNBVV95cUxNcnlfSTN4eXBYN09PVzJvakE3NW5YX0RwanlGQU1KX2lxRlk5RU5PUVBZZkhVWjlkNXp0WHBUQkdZYk4yMjl1bHBrb1FhNkhtVU8xSQ?oc=5",
-          "desc": "",
-          "title_en": "'K-Food Festa‘ held at the Palace House… Namyangju City reimagines traditional food culture",
-          "title_ja": "宮殿で開催される「Kフードフェスタ」…南楊州市は伝統的な食文化を再考",
-          "title_zh": "在宫殿举行的“K-Food Festa” ……南杨州市重塑传统美食文化"
         },
         {
           "title": "아워홈, 베트남서 ‘K푸드 데이’ 개최...단체급식으로 농식품 수출 확대",
@@ -180,6 +172,14 @@
           "title_en": "Our Home Holds' K Food Day ’in Vietnam... Expanding Agri-Food Exports with Group Feed",
           "title_ja": "私たちの家はベトナムで「Kフードデー」を開催します...グループフィードで農産物の輸出を拡大",
           "title_zh": "我们的家在越南举办“K食品日”......通过集团饲料扩大农业食品出口"
+        },
+        {
+          "title": "궁집에서 열린 ‘K푸드 페스타’…남양주시, 전통 식문화 재조명",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRWd1NXJFRU12aDVaekZsbVZXdUx2dk9DSEt2NTI3R0VQTGxBRDhXYi0wYTJCdlJ5UjJRdHR5aDRLWkhjdm14U3B4WHdNa1FtQlHSAVNBVV95cUxNcnlfSTN4eXBYN09PVzJvakE3NW5YX0RwanlGQU1KX2lxRlk5RU5PUVBZZkhVWjlkNXp0WHBUQkdZYk4yMjl1bHBrb1FhNkhtVU8xSQ?oc=5",
+          "desc": "",
+          "title_en": "'K-Food Festa‘ held at the Palace House… Namyangju City reimagines traditional food culture",
+          "title_ja": "宮殿で開催される「Kフードフェスタ」…南楊州市は伝統的な食文化を再考",
+          "title_zh": "在宫殿举行的“K-Food Festa” ……南杨州市重塑传统美食文化"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“不含咖啡因的咖啡，预防痴呆的效果尚不清楚”"
         },
         {
-          "title": "북미로 확장하는 이디야커피, 토론토에 1호점",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56X19DSFVmOXdiRzQzTGgwbWM5RlBycHlvYnJLcFRVV0QyOGt4dWlEbThXREs4MHlsZXN6X3lIQXRET1JGejYyVHBRbmZ6M1ZEcUpuTUd5UQ?oc=5",
+          "title": "고소한 감자에 치즈 가득, ‘감자 치즈 그라탕’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c01mYkF5cU56NkxWNktoT09HSE1PYlN3RFhiaWtLbWlpdjdMdGNXWTZ0OGdFSHA0LS1ma0lfWWQyX1MwYk9yVmFiRlFzT2UyVUlZTUtjNA?oc=5",
           "desc": "",
-          "title_en": "Ediya Coffee Expands to North America, # 1 in Toronto",
-          "title_ja": "Ediya Coffeeが北米に進出、トロントでNo.1",
-          "title_zh": "Ediya Coffee扩展到北美，在多伦多排名第一"
+          "title_en": "Savory potatoes full of cheese, ‘potato cheese gratin’",
+          "title_ja": "チーズたっぷりの美味しいじゃがいも、「じゃがいもチーズグラタン」",
+          "title_zh": "充满奶酪的咸味土豆， “马铃薯奶酪烤肉”"
         }
       ]
     }
