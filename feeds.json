@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-04-23T23:31:46Z",
+  "lastUpdated": "2026-04-24T10:22:29Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Bluestone Lane co-founder launches new rotisserie chicken concept with a wood-fired twist",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVRuLW9JN0wtSkxKaFF5clZGZDZMRzl2cEhuZ0E0Yl9zdXIzek5QQ2s2WGlnd0xia3VGM2ZuV3NvU3lpbFNPc3JPckpkVGoweEdVWnF4bjJyYlNtbDJDRl9WczBfcFdZSmljMkIwNlI4enFnMmFXNkJqM0piRFlKZmUwbmRPOEs0OVZZb1Fma2lkQnpsZmNVeUFfX0gtU1FpUjdQcUM2cE9SZTNDLVhON2s0bkNFUWp0WG9JMnpTUTFIdlo4Q1N6YQ?oc=5",
-          "desc": "",
-          "title_ko": "블루스톤 레인 (Bluestone Lane) 의 공동 창업자가 화덕을 연상시키는 새로운 로티세리 치킨 콘셉트를 선보입니다.",
-          "title_ja": "Bluestone Laneの共同創業者が、木製のひねりを加えた新しいロティサリーチキンのコンセプトを発表",
-          "title_zh": "Bluestone Lane联合创始人推出新的烤鸡概念"
-        },
         {
           "title": "The Technomic Top 500: Chain restaurant sales slowed again in 2025",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUNtMFlXR2pnV2w0VDcxNU5HTVZ0S3h0bnhIdXZtcGtpTEprVkxNNERHblVkWXNCaUktTW5QSVh0VVNyc3pQVnJBaTg4RGV0VWJpVmN2WWc4ZlVxVml2V0JISWtIUnZKNjY1Q0R3aThwS0tlTmU1Nm9MU1hISVV0V1dZU0x5cTdGSFBJN3pVT0FDYnlIRHBzSEZBWDV4MDdyemFrN1BPU0U?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "스타벅스는 새로운 내슈빌 사무소에 1억 달러 ($) 를 투자할 예정입니다.",
           "title_ja": "スターバックス、ナッシュビルの新オフィスに1億$を投資",
           "title_zh": "星巴克将在纳什维尔新办事处投资1亿美元$"
+        },
+        {
+          "title": "A large Hardee's franchisee declares Chapter 7 bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU9kamVWTkxxcDhnTmxESk1icV9FMlVObXE0dy1BUE9yTFRJZHNPYkhuRGEyM1lyLWtKUjhGb0V0bWlKMXhvc1hWd0tRVXdCdG43M3I5WkFvTjZPdkRpcl9zSWp3ektkYzNsLUIwY1J5T3VoR0ZnbXh1bXpqOXVldFZqczRsNW5iSW80a3FoeUFIUVV1MENFWWJuNFZNSXE1ckRB?oc=5",
+          "desc": "",
+          "title_ko": "대규모 하디스 프랜차이즈 가맹점, 챕터 7 파산 선언",
+          "title_ja": "大規模なハーディーのフランチャイズ加盟店が第7章の破産を宣言",
+          "title_zh": "一家大型Hardee的加盟商宣布第7章破产"
         }
       ]
     },
@@ -36,18 +36,10 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "Butterfinger Changed Its Recipe — Here's How It Tastes",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mZUY3YUVJcGI2SzB0N3Y3RXZuaEVnY204bzBrNzBHS0JtcjhIZjBiZDdYOTlOOXJOa0lreUc3eDVGbkdZRTdmQ0lmMU14N1dzeW5veWZYSF9vMkNCQ1NHWVBGR2x6aXFfVFNSancwUGhrUDRTSHc?oc=5",
-          "desc": "",
-          "title_ko": "버터핑거가 레시피를 바꿨습니다 — 맛은 이렇습니다",
-          "title_ja": "Butterfingerがレシピを変えました—その味をご紹介します",
-          "title_zh": "Butterfinger改变了食谱—味道如下"
-        },
-        {
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -58,6 +50,14 @@
           "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
           "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
           "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
+          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "추성훈도 헛구역질했는데 '반전'…소고기급 단백질 음식 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SUi1YZUszbEJabjJIdFRvbndpc195UklWejRSUEVSbFAycEdfdkpIczVLU0ozLS1mb250cUoxUjVmbUFoN1ZKVDBXSWp5dGhiYXhfcng0NldUQdIBVEFVX3lxTE13cWJSbkE1Y19VUEtFSnhQNWdpMTNOZVNMWENzMHYyWVdFQkxiVl9Ib0lxZndYQnAyODJoT19mQV9qeG1WeXB2cmFnemNpbFVyQXdiRg?oc=5",
-          "desc": "",
-          "title_en": "Chu Seong-hoon was also stumped, but 'inverted' … Beef-grade protein food [Healthy! Talk]",
-          "title_ja": "Chu Seong - hoonもつまずいていましたが、「逆」…牛肉グレードのタンパク質食品【ヘルシー！トーク】",
-          "title_zh": "楚成勋也愣住了，却“倒”了……牛肉级蛋白食品【健康！说话】"
-        },
-        {
           "title": "롯데웰푸드, 칸쵸 '내 이름을 찾아라' 시즌2…이름 550개로 확대",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
+          "title_en": "Lotte Well Food Expands' Find My Name 'Season 2 in Kancho… to 550 Names",
           "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
           "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
+        },
+        {
+          "title": "엑스브릿지, AI 기반 K-푸드 수출 규제 해소 서비스 출시",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oMmZiZDd2U21yY3ZNcWhjVGlBenNHbWRMNHZaTGo2Z0hGSjdGSkFPeDkxVnZOMnZSTHVHZlpFemRadHdXeUxRMmVwZUg3WGFsX2NHWk16SWMwUdIBVEFVX3lxTE9qU1V0VV90cktKXzYzMWtDVU5mVFVWSHRvM0ZCQzNia1VxU2ltb3V0RnZGUFU1dTNOVXR0TVQzWThBWWJ2UlNTaXZoZFVTMUJkR2lYVA?oc=5",
+          "desc": "",
+          "title_en": "XBridge Launches AI-Powered K-Food Export Control Service",
+          "title_ja": "XBridge、AI搭載のK - Food輸出管理サービスを開始",
+          "title_zh": "XBridge推出人工智能驱动的K-Food出口管制服务"
         },
         {
           "title": "골프장부터 군대까지 '싹쓸이'…밥장사로 2000억 '초대박' [권 기자의 장바구니]",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFVzYzRlU2lQTEowcWRZaWFLcXdvRUpvaEgyTjEzdHVteTdPVzdQcElDOE1Qd3lRRXpMVzFqWWx6UmktOTQxcmE4cFpwTEtkMnfSAVNBVV95cUxNNWpjdE5ITDNWcE9TQjhTaXBKaHhUZ2c2T201ZTdtN09KeHBGNm1hX1k2VE8wTlZXOTlkMTRTR01nbWNoRHBtRlQ5V28xc3B5c2FJWQ?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
+          "title_ja": "ロッテウェルフード、KBOコラボ商品「スイーツオールスター展」開幕",
+          "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
+        },
+        {
           "title": "궁집에서 열린 ‘K푸드 페스타’…남양주시, 전통 식문화 재조명",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRWd1NXJFRU12aDVaekZsbVZXdUx2dk9DSEt2NTI3R0VQTGxBRDhXYi0wYTJCdlJ5UjJRdHR5aDRLWkhjdm14U3B4WHdNa1FtQlHSAVNBVV95cUxNcnlfSTN4eXBYN09PVzJvakE3NW5YX0RwanlGQU1KX2lxRlk5RU5PUVBZZkhVWjlkNXp0WHBUQkdZYk4yMjl1bHBrb1FhNkhtVU8xSQ?oc=5",
           "desc": "",
@@ -166,20 +174,12 @@
           "title_zh": "在宫殿举行的“K-Food Festa” ……南杨州市重塑传统美食文化"
         },
         {
-          "title": "검찰, ‘돈육 가격 담합 혐의’ 도드람푸드 등 9곳 압수수색",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOGVRY0xqOU9BSHdRV0dDeG9RSW1KbWtTYTU4dkN5MkdSY0FvN1pjVWRHLWtfZnpFcGVpa0VLSXBJQl9rNU10TFB4ZXFYcmhrV3c?oc=5",
+          "title": "아워홈, 베트남서 ‘K푸드 데이’ 개최...단체급식으로 농식품 수출 확대",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83OGlBLTVkOUNVUU9WemdUSDBYaDV0Q3dRZ24wbllCQlZOczR6dkw4M0pWQno1eUZYTVgySnVNYV90T1FQLVlaTUNPZHpZS09kNkHSAVNBVV95cUxPS2ZvN19CbFJHNUFIbE1jUXZIVUM3dmJZZ2x1U18yNnhXR1VUZGVfZUdyc0ZtcnByUTM2bktZdXpoQ2FCWEFVOGVPdkxleGdfZlhMUQ?oc=5",
           "desc": "",
-          "title_en": "Prosecutors Seize Nine Places for Alleged Fixing Money Meat Prices, Dodram Foods, and More",
-          "title_ja": "検察官が「肉の固定価格」とされるドドラム食品で9箇所を押収",
-          "title_zh": "检察官以涉嫌“固定肉类价格”的Dodram食品扣押了九个地方"
-        },
-        {
-          "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yV1FtNE9CamVSR1FLa05HSFF3dzdWcFQ4dVlSRmMtZzFvRFRFczNKT3FxeExlTFZ0UU1qcmE3anJHdlV6SmFXOVBwN3ZDRmlPVnfSAVNBVV95cUxOTEhBWlpCbk5udjk0OVlhZy03YWRaLU0td2ZadHFoWWlUNkFpaHRfWVBSVzN3dllOZ1dURXNzRVBHNWJtdWlDdS1EcjRDN1REc3lZdw?oc=5",
-          "desc": "",
-          "title_en": "“If you bring your courage, I'll cut your food” … Japan caught in an ‘emergency‘ disposable item in the Middle East war",
-          "title_ja": "「勇気を出せば食べ物を切る」…中東戦争で「緊急」の使い捨てアイテムに巻き込まれた日本",
-          "title_zh": "“如果你鼓起勇气，我会削减你的食物” ……日本在中东战争中陷入了“紧急”一次性用品"
+          "title_en": "Our Home Holds' K Food Day ’in Vietnam... Expanding Agri-Food Exports with Group Feed",
+          "title_ja": "私たちの家はベトナムで「Kフードデー」を開催します...グループフィードで農産物の輸出を拡大",
+          "title_zh": "我们的家在越南举办“K食品日”......通过集团饲料扩大农业食品出口"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "蓝瓶咖啡“地球日，免费更换燕麦饮料”"
         },
         {
-          "title": "유용욱 바비큐 담았다…오리온 ‘바베큐 한정판’ 4종",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SRDhOaWx2b0hrS0ZsZkFkTXNkRHJRVk1pbWhlZmVqU2ZDYllVYXZJNEU1NldlWWNBVEtqUzBPQTktbVZ5RngxRXNXS2VKR1k4OHRyT2ZFOA?oc=5",
+          "title": "“디카페인 커피, 치매 예방 효과 불분명”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyM2NCbE9DOGhMb2hUZnFNZWdoelQ2d2JUMlNjaFJEY1dsX3pNYXBqU055OGNya0dvMk5Ock5mNm1YR3diREItYmdTWEEzdFAzRDc1NTVQOA?oc=5",
           "desc": "",
-          "title_en": "Useful Barbecue Included... Orion ‘Barbecue Limited Edition’ 4 Types",
-          "title_ja": "便利なバーベキュー付き…オリオン「バーベキュー限定版」4種",
-          "title_zh": "包含实用烧烤…… Orion「烧烤限量版」4种类型"
+          "title_en": "“Decaffeinated coffee, dementia prevention effects unclear”",
+          "title_ja": "「カフェイン抜きコーヒー、認知症予防効果不明」",
+          "title_zh": "“不含咖啡因的咖啡，预防痴呆的效果尚不清楚”"
         },
         {
-          "title": "고소한 감자에 치즈 가득, ‘감자 치즈 그라탕’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c01mYkF5cU56NkxWNktoT09HSE1PYlN3RFhiaWtLbWlpdjdMdGNXWTZ0OGdFSHA0LS1ma0lfWWQyX1MwYk9yVmFiRlFzT2UyVUlZTUtjNA?oc=5",
+          "title": "북미로 확장하는 이디야커피, 토론토에 1호점",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56X19DSFVmOXdiRzQzTGgwbWM5RlBycHlvYnJLcFRVV0QyOGt4dWlEbThXREs4MHlsZXN6X3lIQXRET1JGejYyVHBRbmZ6M1ZEcUpuTUd5UQ?oc=5",
           "desc": "",
-          "title_en": "Savory potatoes full of cheese, ‘potato cheese gratin’",
-          "title_ja": "チーズたっぷりの美味しいじゃがいも、「じゃがいもチーズグラタン」",
-          "title_zh": "充满奶酪的咸味土豆， “马铃薯奶酪烤肉”"
+          "title_en": "Ediya Coffee Expands to North America, # 1 in Toronto",
+          "title_ja": "Ediya Coffeeが北米に進出、トロントでNo.1",
+          "title_zh": "Ediya Coffee扩展到北美，在多伦多排名第一"
         }
       ]
     }
