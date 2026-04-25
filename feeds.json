@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T07:18:49Z",
+  "lastUpdated": "2026-04-25T09:53:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -149,7 +149,7 @@
           "desc": "",
           "title_en": "Lotte Well Food Expands' Find My Name 'Season 2 in Kancho… to 550 Names",
           "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
-          "title_zh": "乐天Well Food将Kancho的“查找我的名字”第二季扩展到550个名字"
+          "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "대한항공에서 주문한다…아이긴, 대한항공 스카이숍 주류관 입점",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DMHVDcjJ3S3RadC1XRWkwWHBkS25wcUdqTmlkYm5DYmt6aWRfenBFM0Q0Zzg1RUhUM3BCeU1nQ2JZangtcHkwY3NpcVJ3SjkzU25HM0NXMA?oc=5",
+          "desc": "",
+          "title_en": "I order from Korean Air… Aigin enters Korean Air Sky Shop Liquor House",
+          "title_ja": "私は大韓航空に注文します… Aiginは大韓航空スカイショップの酒屋に入ります",
+          "title_zh": "我从大韩航空订购…… Aigin进入大韩航空天空商店Liquor House"
+        },
+        {
+          "title": "블루보틀 커피 “지구의 날, 귀리음료 변경 무료”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wUVpYc25wWUFZZXFZdWhTZ1FzOEkxOVctc1FPTExjaXF1WUZFOUxGU0hhcGxhTWU5bV9kMUhBeEVRbGJMNGNqcUo4eTg5Uk5LSGhITjZmMA?oc=5",
+          "desc": "",
+          "title_en": "Blue Bottle Coffee “Earth Day, Free Oat Drink Change”",
+          "title_ja": "ブルーボトルコーヒー「アースデイ・オートドリンクチェンジ無料」",
+          "title_zh": "蓝瓶咖啡“地球日，免费更换燕麦饮料”"
+        },
+        {
           "title": "“디카페인 커피, 치매 예방 효과 불분명”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyM2NCbE9DOGhMb2hUZnFNZWdoelQ2d2JUMlNjaFJEY1dsX3pNYXBqU055OGNya0dvMk5Ock5mNm1YR3diREItYmdTWEEzdFAzRDc1NTVQOA?oc=5",
           "desc": "",
           "title_en": "“Decaffeinated coffee, dementia prevention effects unclear”",
           "title_ja": "「カフェイン抜きコーヒー、認知症予防効果不明」",
           "title_zh": "“不含咖啡因的咖啡，预防痴呆的效果尚不清楚”"
-        },
-        {
-          "title": "유용욱 바비큐 담았다…오리온 ‘바베큐 한정판’ 4종",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SRDhOaWx2b0hrS0ZsZkFkTXNkRHJRVk1pbWhlZmVqU2ZDYllVYXZJNEU1NldlWWNBVEtqUzBPQTktbVZ5RngxRXNXS2VKR1k4OHRyT2ZFOA?oc=5",
-          "desc": "",
-          "title_en": "Useful Barbecue Included... Orion ‘Barbecue Limited Edition’ 4 Types",
-          "title_ja": "便利なバーベキュー付き…オリオン「バーベキュー限定版」4種",
-          "title_zh": "包含实用烧烤…… Orion「烧烤限量版」4种类型"
-        },
-        {
-          "title": "고소한 감자에 치즈 가득, ‘감자 치즈 그라탕’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c01mYkF5cU56NkxWNktoT09HSE1PYlN3RFhiaWtLbWlpdjdMdGNXWTZ0OGdFSHA0LS1ma0lfWWQyX1MwYk9yVmFiRlFzT2UyVUlZTUtjNA?oc=5",
-          "desc": "",
-          "title_en": "Savory potatoes full of cheese, ‘potato cheese gratin’",
-          "title_ja": "チーズたっぷりの美味しいじゃがいも、「じゃがいもチーズグラタン」",
-          "title_zh": "充满奶酪的咸味土豆， “马铃薯奶酪烤肉”"
         }
       ]
     }
