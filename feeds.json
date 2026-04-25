@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T05:12:34Z",
+  "lastUpdated": "2026-04-25T07:18:49Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Am I a Bad Person for Loving Steakhouses?",
+          "link": "https://www.eater.com/food-culture/957523/moral-dilemmas-of-steakhouses",
+          "desc": "A version of this post originally appeared on April 22 in our newsletter Eater Today. Sign up here to receive stories like this in your inbox. I recen",
+          "title_ko": "나는 스테이크하우스를 사랑하기에 나쁜 사람인가?",
+          "title_ja": "私はステーキハウスが大好きな人ですか？",
+          "title_zh": "我是一个喜欢牛排馆的坏人吗？"
+        },
+        {
           "title": "How to Hit a Steakhouse Like a Pro",
           "link": "https://www.eater.com/explainer/957435/steakhouse-tips-best-orders-advice",
           "desc": "I live for a great steakhouse. Growing up, my late father, a lover of steak, took me to Cask ’n Cleaver in LA’s Inland Empire at the ripe age of 6, wh",
@@ -110,14 +118,6 @@
           "title_ko": "미국에서 가장 인기 있는 새로운 스테이크하우스",
           "title_ja": "米国で最もホットな新しいステーキハウス",
           "title_zh": "美国最热门的新牛排馆"
-        },
-        {
-          "title": "America’s Glitziest, Wildest, and Quirkiest Steakhouses",
-          "link": "https://www.eater.com/dining-out/956144/steakhouses-most-iconic-america",
-          "desc": "It’s easy to identify a great steakhouse. It’s that instantly comforting place serving big hunks of meat, shrimp cocktails, cold martinis, and so on. ",
-          "title_ko": "미국에서 가장 화려하고 거칠며 특이한 스테이크하우스",
-          "title_ja": "アメリカで最も華やかで、最もワイルドで、最も風変わりなステーキハウス",
-          "title_zh": "美国最闪亮、最狂野、最奇特的牛排馆"
         }
       ]
     }
@@ -147,9 +147,9 @@
           "title": "롯데웰푸드, 칸쵸 '내 이름을 찾아라' 시즌2…이름 550개로 확대",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
+          "title_en": "Lotte Well Food Expands' Find My Name 'Season 2 in Kancho… to 550 Names",
           "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
-          "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
+          "title_zh": "乐天Well Food将Kancho的“查找我的名字”第二季扩展到550个名字"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“用陶瓷与世界交流，让食物和空间闪耀。”"
         },
         {
-          "title": "농식품부, 해외 K-외식·급식 연계해 K-푸드 수출 판로 넓힌다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNUZTTVA3OHJweVJ4YjlzMm11Rk8tVVZTNTJodms4STg4aHVaY29hdnRoTmxnTnl4T0xGeGZvUjhxTExjWWR0OXlDREhsZlYwdWc?oc=5",
-          "desc": "",
-          "title_en": "Ministry of Agriculture and Food expands K-food export market by linking overseas K-dining and feeding",
-          "title_ja": "農林水産省、海外のK -ダイニングと飼料を結びつけることでK - food輸出市場を拡大",
-          "title_zh": "农业和食品部通过连接海外K-餐饮和饲料扩大K-食品出口市场"
-        },
-        {
           "title": "롯데웰푸드(주) 감사보고서 제출",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05WEN0ZzBSakhsWnd0MUZYQjZicnBhbENfdzBEZ1pFVDFiNEd0RHFzbjBaVVhyYUVFSENrUGJzQzExYnUyQ3ZIdTlSRl85WnNjRU5XeUZqRzVKUQ?oc=5",
           "desc": "",
           "title_en": "Submit audit report for Lotte Well Food Co., Ltd.",
           "title_ja": "ロッテウェルフード株式会社監査報告書提出",
           "title_zh": "提交乐天威尔食品有限公司审核报告"
+        },
+        {
+          "title": "농식품부, 해외 K-외식·급식 연계해 K-푸드 수출 판로 넓힌다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNUZTTVA3OHJweVJ4YjlzMm11Rk8tVVZTNTJodms4STg4aHVaY29hdnRoTmxnTnl4T0xGeGZvUjhxTExjWWR0OXlDREhsZlYwdWc?oc=5",
+          "desc": "",
+          "title_en": "Ministry of Agriculture and Food expands K-food export market by linking overseas K-dining and feeding",
+          "title_ja": "農林水産省、海外のK -ダイニングと飼料を結びつけることでK - food輸出市場を拡大",
+          "title_zh": "农业和食品部通过连接海外K-餐饮和饲料扩大K-食品出口市场"
         }
       ]
     },
