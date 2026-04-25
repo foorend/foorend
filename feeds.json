@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T02:32:33Z",
+  "lastUpdated": "2026-04-25T05:12:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,14 +96,6 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "Am I a Bad Person for Loving Steakhouses?",
-          "link": "https://www.eater.com/food-culture/957523/moral-dilemmas-of-steakhouses",
-          "desc": "A version of this post originally appeared on April 22 in our newsletter Eater Today. Sign up here to receive stories like this in your inbox. I recen",
-          "title_ko": "나는 스테이크하우스를 사랑하기에 나쁜 사람인가?",
-          "title_ja": "私はステーキハウスが大好きな人ですか？",
-          "title_zh": "我是一个喜欢牛排馆的坏人吗？"
-        },
-        {
           "title": "How to Hit a Steakhouse Like a Pro",
           "link": "https://www.eater.com/explainer/957435/steakhouse-tips-best-orders-advice",
           "desc": "I live for a great steakhouse. Growing up, my late father, a lover of steak, took me to Cask ’n Cleaver in LA’s Inland Empire at the ripe age of 6, wh",
@@ -118,6 +110,14 @@
           "title_ko": "미국에서 가장 인기 있는 새로운 스테이크하우스",
           "title_ja": "米国で最もホットな新しいステーキハウス",
           "title_zh": "美国最热门的新牛排馆"
+        },
+        {
+          "title": "America’s Glitziest, Wildest, and Quirkiest Steakhouses",
+          "link": "https://www.eater.com/dining-out/956144/steakhouses-most-iconic-america",
+          "desc": "It’s easy to identify a great steakhouse. It’s that instantly comforting place serving big hunks of meat, shrimp cocktails, cold martinis, and so on. ",
+          "title_ko": "미국에서 가장 화려하고 거칠며 특이한 스테이크하우스",
+          "title_ja": "アメリカで最も華やかで、最もワイルドで、最も風変わりなステーキハウス",
+          "title_zh": "美国最闪亮、最狂野、最奇特的牛排馆"
         }
       ]
     }
@@ -136,20 +136,20 @@
           "title_zh": "从高尔夫球场到军队， “扫荡”...... 2000亿个“超级夜晚”作为鲍勃商店[Kwon ，记者的购物车]"
         },
         {
-          "title": "엑스브릿지, AI 기반 K-푸드 수출 규제 해소 서비스 출시",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oMmZiZDd2U21yY3ZNcWhjVGlBenNHbWRMNHZaTGo2Z0hGSjdGSkFPeDkxVnZOMnZSTHVHZlpFemRadHdXeUxRMmVwZUg3WGFsX2NHWk16SWMwUdIBVEFVX3lxTE9qU1V0VV90cktKXzYzMWtDVU5mVFVWSHRvM0ZCQzNia1VxU2ltb3V0RnZGUFU1dTNOVXR0TVQzWThBWWJ2UlNTaXZoZFVTMUJkR2lYVA?oc=5",
-          "desc": "",
-          "title_en": "XBridge Launches AI-Powered K-Food Export Control Service",
-          "title_ja": "XBridge、AI搭載のK - Food輸出管理サービスを開始",
-          "title_zh": "XBridge推出人工智能驱动的K-Food出口管制服务"
-        },
-        {
           "title": "\"청와대 보이는 식당\" 입소문에…오픈 전부터 VIP 문의 폭주",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84V2tod08xTUdaQkZpa0k0ekZYVDh6cnhpRHdoSlF4eXJWNG9fRUZiam9yNFdYWjBjTUhmT0xicnVGYmxnU2FhSmhIamF0d3pwZFp1Q0FUT24yUdIBVEFVX3lxTE1KLU4waDkxMmtrbDA0VzBmMFNUQlplYndmQmw4akNkVWxQaFAzS2l0TGRNU0RLOGdwam53UkZUZmE4aDJDbHNMTzJMNFgzUEhILU83OA?oc=5",
           "desc": "",
           "title_en": "\"Cheongwadae Seen Restaurant\" word of mouth... VIP inquiries rampant before opening",
           "title_ja": "「清和台見たレストラン」口コミ・・・VIP開店前のお問い合わせ盛りだくさん",
           "title_zh": "「清和台看见餐厅」口碑…开业前VIP查询猖獗"
+        },
+        {
+          "title": "롯데웰푸드, 칸쵸 '내 이름을 찾아라' 시즌2…이름 550개로 확대",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
+          "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
+          "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "블루보틀 커피 “지구의 날, 귀리음료 변경 무료”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wUVpYc25wWUFZZXFZdWhTZ1FzOEkxOVctc1FPTExjaXF1WUZFOUxGU0hhcGxhTWU5bV9kMUhBeEVRbGJMNGNqcUo4eTg5Uk5LSGhITjZmMA?oc=5",
-          "desc": "",
-          "title_en": "Blue Bottle Coffee “Earth Day, Free Oat Drink Change”",
-          "title_ja": "ブルーボトルコーヒー「アースデイ・オートドリンクチェンジ無料」",
-          "title_zh": "蓝瓶咖啡“地球日，免费更换燕麦饮料”"
-        },
-        {
           "title": "“디카페인 커피, 치매 예방 효과 불분명”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyM2NCbE9DOGhMb2hUZnFNZWdoelQ2d2JUMlNjaFJEY1dsX3pNYXBqU055OGNya0dvMk5Ock5mNm1YR3diREItYmdTWEEzdFAzRDc1NTVQOA?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "Useful Barbecue Included... Orion ‘Barbecue Limited Edition’ 4 Types",
           "title_ja": "便利なバーベキュー付き…オリオン「バーベキュー限定版」4種",
           "title_zh": "包含实用烧烤…… Orion「烧烤限量版」4种类型"
+        },
+        {
+          "title": "고소한 감자에 치즈 가득, ‘감자 치즈 그라탕’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c01mYkF5cU56NkxWNktoT09HSE1PYlN3RFhiaWtLbWlpdjdMdGNXWTZ0OGdFSHA0LS1ma0lfWWQyX1MwYk9yVmFiRlFzT2UyVUlZTUtjNA?oc=5",
+          "desc": "",
+          "title_en": "Savory potatoes full of cheese, ‘potato cheese gratin’",
+          "title_ja": "チーズたっぷりの美味しいじゃがいも、「じゃがいもチーズグラタン」",
+          "title_zh": "充满奶酪的咸味土豆， “马铃薯奶酪烤肉”"
         }
       ]
     }
