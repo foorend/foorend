@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T21:49:44Z",
+  "lastUpdated": "2026-04-25T02:32:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Technomic 500强： 2025年连锁餐厅销售再次放缓"
         },
         {
-          "title": "Starbucks will invest $100M in its new Nashville office",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTd1SEV5VkdYS0cwZDFuNU9lZzA2bHBoSU1XUC1aUHUxajUxN2xGdXFMRXFrOVR2eGVNWUgzeDR3YnU4a0xxWG54V3NvMkgyUFA4LUVQS3JYSWFFSEZSSVZXbVp6UFU3dWdFWUx1SGsxX2tvT1VwRThuc2VOQzhUbHdQUDlGUE90Mk1nalY4NGo4NTFYQUVHZF9MTnBrNWs?oc=5",
-          "desc": "",
-          "title_ko": "스타벅스는 새로운 내슈빌 사무소에 1억 달러 ($) 를 투자할 예정입니다.",
-          "title_ja": "スターバックス、ナッシュビルの新オフィスに1億$を投資",
-          "title_zh": "星巴克将在纳什维尔新办事处投资1亿美元$"
-        },
-        {
           "title": "A large Hardee's franchisee declares Chapter 7 bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU9kamVWTkxxcDhnTmxESk1icV9FMlVObXE0dy1BUE9yTFRJZHNPYkhuRGEyM1lyLWtKUjhGb0V0bWlKMXhvc1hWd0tRVXdCdG43M3I5WkFvTjZPdkRpcl9zSWp3ektkYzNsLUIwY1J5T3VoR0ZnbXh1bXpqOXVldFZqczRsNW5iSW80a3FoeUFIUVV1MENFWWJuNFZNSXE1ckRB?oc=5",
           "desc": "",
           "title_ko": "대규모 하디스 프랜차이즈 가맹점, 챕터 7 파산 선언",
           "title_ja": "大規模なハーディーのフランチャイズ加盟店が第7章の破産を宣言",
           "title_zh": "一家大型Hardee的加盟商宣布第7章破产"
+        },
+        {
+          "title": "Starbucks will invest $100M in its new Nashville office",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTd1SEV5VkdYS0cwZDFuNU9lZzA2bHBoSU1XUC1aUHUxajUxN2xGdXFMRXFrOVR2eGVNWUgzeDR3YnU4a0xxWG54V3NvMkgyUFA4LUVQS3JYSWFFSEZSSVZXbVp6UFU3dWdFWUx1SGsxX2tvT1VwRThuc2VOQzhUbHdQUDlGUE90Mk1nalY4NGo4NTFYQUVHZF9MTnBrNWs?oc=5",
+          "desc": "",
+          "title_ko": "스타벅스는 새로운 내슈빌 사무소에 1억 달러 ($) 를 투자할 예정입니다.",
+          "title_ja": "スターバックス、ナッシュビルの新オフィスに1億$を投資",
+          "title_zh": "星巴克将在纳什维尔新办事处投资1亿美元$"
         }
       ]
     },
@@ -39,7 +39,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -144,12 +144,12 @@
           "title_zh": "XBridge推出人工智能驱动的K-Food出口管制服务"
         },
         {
-          "title": "롯데웰푸드, 칸쵸 '내 이름을 찾아라' 시즌2…이름 550개로 확대",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
+          "title": "\"청와대 보이는 식당\" 입소문에…오픈 전부터 VIP 문의 폭주",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84V2tod08xTUdaQkZpa0k0ekZYVDh6cnhpRHdoSlF4eXJWNG9fRUZiam9yNFdYWjBjTUhmT0xicnVGYmxnU2FhSmhIamF0d3pwZFp1Q0FUT24yUdIBVEFVX3lxTE1KLU4waDkxMmtrbDA0VzBmMFNUQlplYndmQmw4akNkVWxQaFAzS2l0TGRNU0RLOGdwam53UkZUZmE4aDJDbHNMTzJMNFgzUEhILU83OA?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
-          "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
-          "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
+          "title_en": "\"Cheongwadae Seen Restaurant\" word of mouth... VIP inquiries rampant before opening",
+          "title_ja": "「清和台見たレストラン」口コミ・・・VIP開店前のお問い合わせ盛りだくさん",
+          "title_zh": "「清和台看见餐厅」口碑…开业前VIP查询猖獗"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "我们的家在越南举办“K食品日”......通过集团饲料扩大农业食品出口"
         },
         {
-          "title": "궁집에서 열린 ‘K푸드 페스타’…남양주시, 전통 식문화 재조명",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRWd1NXJFRU12aDVaekZsbVZXdUx2dk9DSEt2NTI3R0VQTGxBRDhXYi0wYTJCdlJ5UjJRdHR5aDRLWkhjdm14U3B4WHdNa1FtQlHSAVNBVV95cUxNcnlfSTN4eXBYN09PVzJvakE3NW5YX0RwanlGQU1KX2lxRlk5RU5PUVBZZkhVWjlkNXp0WHBUQkdZYk4yMjl1bHBrb1FhNkhtVU8xSQ?oc=5",
+          "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yV1FtNE9CamVSR1FLa05HSFF3dzdWcFQ4dVlSRmMtZzFvRFRFczNKT3FxeExlTFZ0UU1qcmE3anJHdlV6SmFXOVBwN3ZDRmlPVnfSAVNBVV95cUxOTEhBWlpCbk5udjk0OVlhZy03YWRaLU0td2ZadHFoWWlUNkFpaHRfWVBSVzN3dllOZ1dURXNzRVBHNWJtdWlDdS1EcjRDN1REc3lZdw?oc=5",
           "desc": "",
-          "title_en": "'K-Food Festa‘ held at the Palace House… Namyangju City reimagines traditional food culture",
-          "title_ja": "宮殿で開催される「Kフードフェスタ」…南楊州市は伝統的な食文化を再考",
-          "title_zh": "在宫殿举行的“K-Food Festa” ……南杨州市重塑传统美食文化"
+          "title_en": "“If you bring your courage, I'll cut your food” … Japan caught in an ‘emergency‘ disposable item in the Middle East war",
+          "title_ja": "「勇気を出せば食べ物を切る」…中東戦争で「緊急」の使い捨てアイテムに巻き込まれた日本",
+          "title_zh": "“如果你鼓起勇气，我会削减你的食物” ……日本在中东战争中陷入了“紧急”一次性用品"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“음식·공간 빛나게 하는 도자기로 세계와 소통할 것”",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xa2gtYUdTcDdObjA4Sm5EU1VlUV9TZWFvdUphSlpqU2hVY3ZjTXI2RFNLWDlMVFpfNU82RlBpdDNPMHdCLWZKYUgySllobS1wLWNsVg?oc=5",
+          "desc": "",
+          "title_en": "“Communicate with the world with ceramics that make food and space shine.”",
+          "title_ja": "「食と空間を輝かせるセラミックで世界とコミュニケーションをとりましょう。」",
+          "title_zh": "“用陶瓷与世界交流，让食物和空间闪耀。”"
+        },
+        {
           "title": "농식품부, 해외 K-외식·급식 연계해 K-푸드 수출 판로 넓힌다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNUZTTVA3OHJweVJ4YjlzMm11Rk8tVVZTNTJodms4STg4aHVaY29hdnRoTmxnTnl4T0xGeGZvUjhxTExjWWR0OXlDREhsZlYwdWc?oc=5",
           "desc": "",
           "title_en": "Ministry of Agriculture and Food expands K-food export market by linking overseas K-dining and feeding",
           "title_ja": "農林水産省、海外のK -ダイニングと飼料を結びつけることでK - food輸出市場を拡大",
           "title_zh": "农业和食品部通过连接海外K-餐饮和饲料扩大K-食品出口市场"
-        },
-        {
-          "title": "[게시판] 네츄럴코어, 서울스프링페스티벌서 펫푸드 트럭 운영",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtQWZ1ZHdQTnh6SW1memZGeUhTcjlONFd5VjBkVkVCNEZnV29vcUdQZlNxamRzNUltOHJ6bGFZTkRrd2ducmwxWXVUcFhyRmpoWWc?oc=5",
-          "desc": "",
-          "title_en": "[Bulletin Board] Natural Core Operates Pet Food Truck at Seoul Spring Festival",
-          "title_ja": "【掲示板】ナチュラルコアがソウル春祭りでペットフードトラックを運行",
-          "title_zh": "【公告栏】Natural Core在首尔春节期间经营宠物食品卡车"
         },
         {
           "title": "롯데웰푸드(주) 감사보고서 제출",
