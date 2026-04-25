@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T13:06:49Z",
+  "lastUpdated": "2026-04-25T15:39:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "골프장부터 군대까지 '싹쓸이'…밥장사로 2000억 '초대박' [권 기자의 장바구니]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENFZESUMyUUhiMEpMWXUtb1RtTzBiRUo2QW1TNzZjODZxcWdyc2xiTmdOeXRic3FmakdYdldYdlRFS1h6YUk0TmdLUnMxY2t5Q1o2MkVDbm5kQdIBVEFVX3lxTFBMcnFKOFM1aHhyVFdSTGplUWl2a0xRRjdEV0tzTXI3YjloQ0FoRWMzRnRoeTlQZzFFZ1YwSF9DSkJYQ1lfVXRleVB5U0pzdkVwSnVzbA?oc=5",
-          "desc": "",
-          "title_en": "From golf courses to the military, 'sweeping' … 200 billion 'mega-nights' as a bob shop [Kwon, reporter's shopping cart]",
-          "title_ja": "ゴルフコースから軍隊まで、ボブショップとして2000億の「メガナイト」を「掃除」する[Kwon、レポーターのショッピングカート]",
-          "title_zh": "从高尔夫球场到军队， “扫荡”...... 2000亿个“超级夜晚”作为鲍勃商店[Kwon ，记者的购物车]"
-        },
-        {
           "title": "\"청와대 보이는 식당\" 입소문에…오픈 전부터 VIP 문의 폭주",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84V2tod08xTUdaQkZpa0k0ekZYVDh6cnhpRHdoSlF4eXJWNG9fRUZiam9yNFdYWjBjTUhmT0xicnVGYmxnU2FhSmhIamF0d3pwZFp1Q0FUT24yUdIBVEFVX3lxTE1KLU4waDkxMmtrbDA0VzBmMFNUQlplYndmQmw4akNkVWxQaFAzS2l0TGRNU0RLOGdwam53UkZUZmE4aDJDbHNMTzJMNFgzUEhILU83OA?oc=5",
           "desc": "",
@@ -149,7 +141,15 @@
           "desc": "",
           "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
           "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
-          "title_zh": "乐天Well Food将Kancho的“查找我的名字”第二季扩展到550个名字"
+          "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
+        },
+        {
+          "title": "현대그린푸드, 텍사스 로드하우스와 함께 색다른 '치크닉' 어떠세요?",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiek1EdUpjQlVEaGFnQXUzS1Z2RklDVmRCUVlYVDllYWJyYlM3eTRfZ2EtRmNMY0tkdWxSYTJpNkJIdFFfdWJWb3NtamxkcTZ6THdhblhuOTN6d9IBVEFVX3lxTE0wZnZPd0N6M3h0Q1FhQ1IyWXZHSjhNaEczNW5LLUN1cmJURFdycFRFaU1hQXluNnU3VG8zYUdLOXI0QlpjVG9Ga1pwdmtWeUgxa3E4OA?oc=5",
+          "desc": "",
+          "title_en": "Cheeknik with Hyundai Green Food and Texas Roadhouse",
+          "title_ja": "ヒュンダイグリーンフードとテキサスロードハウスのチークニック",
+          "title_zh": "Cheeknik与现代绿色食品和德克萨斯Roadhouse"
         }
       ]
     },
@@ -158,11 +158,19 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "CJ씨푸드, 전일 대비 7.17% 상승.. 일일회전율은 3.47% 기록",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qQ1o4aDFONDE0eDBBLUNkanBtRlBUbEZRUVY0TUxIM0swMUplWmhlM1pTZHRNdDV5ZG1TcUJfRGRJNF82cnR6T2RlU0ZndWNVMU9n?oc=5",
+          "desc": "",
+          "title_en": "CJ Seafood, up 7.17% from the previous day.. Daily turnover recorded 3.47%",
+          "title_ja": "CJシーフードは前日比7.17 ％増…日々の売上高は3.47 ％",
+          "title_zh": "CJ海鲜，同比增长7.17% ，日营业额3.47%"
+        },
+        {
           "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01amN0TkhMM1ZwT1NCOFNpcEpoeFRnZzZPbTVlN203T0p4cEY2bWFfWTZUTzBOVlc5OWQxNFNHTWdtY2hEcG1GVDlXbzFzcHlzYUlZ0gFTQVVfeXFMTTVqY3ROSEwzVnBPU0I4U2lwSmh4VGdnNk9tNWU3bTdPSnhwRjZtYV9ZNlRPME5WVzk5ZDE0U0dNZ21jaERwbUZUOVdvMXNweXNhSVk?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
-          "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
+          "title_ja": "ロッテウェルフード、KBOコラボ商品「スイーツオールスター展」開幕",
           "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
         },
         {
@@ -172,14 +180,6 @@
           "title_en": "Our Home Holds' K Food Day ’in Vietnam... Expanding Agri-Food Exports with Group Feed",
           "title_ja": "私たちの家はベトナムで「Kフードデー」を開催します...グループフィードで農産物の輸出を拡大",
           "title_zh": "我们的家在越南举办“K食品日”......通过集团饲料扩大农业食品出口"
-        },
-        {
-          "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yV1FtNE9CamVSR1FLa05HSFF3dzdWcFQ4dVlSRmMtZzFvRFRFczNKT3FxeExlTFZ0UU1qcmE3anJHdlV6SmFXOVBwN3ZDRmlPVnfSAVNBVV95cUxOTEhBWlpCbk5udjk0OVlhZy03YWRaLU0td2ZadHFoWWlUNkFpaHRfWVBSVzN3dllOZ1dURXNzRVBHNWJtdWlDdS1EcjRDN1REc3lZdw?oc=5",
-          "desc": "",
-          "title_en": "“If you bring your courage, I'll cut your food” … Japan caught in an ‘emergency‘ disposable item in the Middle East war",
-          "title_ja": "「勇気を出せば食べ物を切る」…中東戦争で「緊急」の使い捨てアイテムに巻き込まれた日本",
-          "title_zh": "“如果你鼓起勇气，我会削减你的食物” ……日本在中东战争中陷入了“紧急”一次性用品"
         }
       ]
     },
