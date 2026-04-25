@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T15:39:44Z",
+  "lastUpdated": "2026-04-25T18:55:11Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,19 +158,11 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "CJ씨푸드, 전일 대비 7.17% 상승.. 일일회전율은 3.47% 기록",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qQ1o4aDFONDE0eDBBLUNkanBtRlBUbEZRUVY0TUxIM0swMUplWmhlM1pTZHRNdDV5ZG1TcUJfRGRJNF82cnR6T2RlU0ZndWNVMU9n?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood, up 7.17% from the previous day.. Daily turnover recorded 3.47%",
-          "title_ja": "CJシーフードは前日比7.17 ％増…日々の売上高は3.47 ％",
-          "title_zh": "CJ海鲜，同比增长7.17% ，日营业额3.47%"
-        },
-        {
           "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01amN0TkhMM1ZwT1NCOFNpcEpoeFRnZzZPbTVlN203T0p4cEY2bWFfWTZUTzBOVlc5OWQxNFNHTWdtY2hEcG1GVDlXbzFzcHlzYUlZ0gFTQVVfeXFMTTVqY3ROSEwzVnBPU0I4U2lwSmh4VGdnNk9tNWU3bTdPSnhwRjZtYV9ZNlRPME5WVzk5ZDE0U0dNZ21jaERwbUZUOVdvMXNweXNhSVk?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
-          "title_ja": "ロッテウェルフード、KBOコラボ商品「スイーツオールスター展」開幕",
+          "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
           "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
         },
         {
@@ -180,6 +172,14 @@
           "title_en": "Our Home Holds' K Food Day ’in Vietnam... Expanding Agri-Food Exports with Group Feed",
           "title_ja": "私たちの家はベトナムで「Kフードデー」を開催します...グループフィードで農産物の輸出を拡大",
           "title_zh": "我们的家在越南举办“K食品日”......通过集团饲料扩大农业食品出口"
+        },
+        {
+          "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yV1FtNE9CamVSR1FLa05HSFF3dzdWcFQ4dVlSRmMtZzFvRFRFczNKT3FxeExlTFZ0UU1qcmE3anJHdlV6SmFXOVBwN3ZDRmlPVnfSAVNBVV95cUxOTEhBWlpCbk5udjk0OVlhZy03YWRaLU0td2ZadHFoWWlUNkFpaHRfWVBSVzN3dllOZ1dURXNzRVBHNWJtdWlDdS1EcjRDN1REc3lZdw?oc=5",
+          "desc": "",
+          "title_en": "“If you bring your courage, I'll cut your food” … Japan caught in an ‘emergency‘ disposable item in the Middle East war",
+          "title_ja": "「勇気を出せば食べ物を切る」…中東戦争で「緊急」の使い捨てアイテムに巻き込まれた日本",
+          "title_zh": "“如果你鼓起勇气，我会削减你的食物” ……日本在中东战争中陷入了“紧急”一次性用品"
         }
       ]
     },
