@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T21:37:26Z",
+  "lastUpdated": "2026-04-26T02:49:22Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -39,7 +39,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드, 美 스테이크 전문점 '텍사스 로드하우스' 서울서 첫 오픈",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Hb18wN2tpU0RLV3gyVk5LX19ZQnJmYXVhdFg1VmVVQkMzT01BOVl4MFVaZ2hCQzNnMFB3S2wxOXAxNmlRazFmcktGTUlVRjlPZEFtUmZ0SHBjd9IBVEFVX3lxTFByQjF2dDNYR0lZVlZzc211eGxmSXVYeFJaTkNVN0NINHFkOHlSVDZVXzgwX0s2Z2VJc0VReGRQdVB0SXJtWVFuSWZmV2o2QTJQS1VRNg?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food opens its first steakhouse 'Texas Roadhouse' in Seoul",
+          "title_ja": "Hyundai Green Food、ソウルに初のステーキハウス「Texas Roadhouse」をオープン",
+          "title_zh": "现代绿色食品在首尔开设首家牛排馆“德州路屋”"
+        },
+        {
           "title": "\"청와대 보이는 식당\" 입소문에…오픈 전부터 VIP 문의 폭주",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84V2tod08xTUdaQkZpa0k0ekZYVDh6cnhpRHdoSlF4eXJWNG9fRUZiam9yNFdYWjBjTUhmT0xicnVGYmxnU2FhSmhIamF0d3pwZFp1Q0FUT24yUdIBVEFVX3lxTE1KLU4waDkxMmtrbDA0VzBmMFNUQlplYndmQmw4akNkVWxQaFAzS2l0TGRNU0RLOGdwam53UkZUZmE4aDJDbHNMTzJMNFgzUEhILU83OA?oc=5",
           "desc": "",
@@ -136,19 +144,11 @@
           "title_zh": "「清和台看见餐厅」口碑…开业前VIP查询猖獗"
         },
         {
-          "title": "엑스브릿지, AI 기반 K-푸드 수출 규제 해소 서비스 출시",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qU1V0VV90cktKXzYzMWtDVU5mVFVWSHRvM0ZCQzNia1VxU2ltb3V0RnZGUFU1dTNOVXR0TVQzWThBWWJ2UlNTaXZoZFVTMUJkR2lYVNIBVEFVX3lxTE9qU1V0VV90cktKXzYzMWtDVU5mVFVWSHRvM0ZCQzNia1VxU2ltb3V0RnZGUFU1dTNOVXR0TVQzWThBWWJ2UlNTaXZoZFVTMUJkR2lYVA?oc=5",
-          "desc": "",
-          "title_en": "XBridge Launches AI-Powered K-Food Export Control Service",
-          "title_ja": "XBridge、AI搭載のK - Food輸出管理サービスを開始",
-          "title_zh": "XBridge推出人工智能驱动的K-Food出口管制服务"
-        },
-        {
           "title": "롯데웰푸드, 칸쵸 '내 이름을 찾아라' 시즌2…이름 550개로 확대",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
-          "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
+          "title_ja": "ロッテウェルフード、「ファインドマイネーム」シーズン2をカンチョウで550名に拡大",
           "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
         }
       ]
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01amN0TkhMM1ZwT1NCOFNpcEpoeFRnZzZPbTVlN203T0p4cEY2bWFfWTZUTzBOVlc5OWQxNFNHTWdtY2hEcG1GVDlXbzFzcHlzYUlZ0gFTQVVfeXFMTTVqY3ROSEwzVnBPU0I4U2lwSmh4VGdnNk9tNWU3bTdPSnhwRjZtYV9ZNlRPME5WVzk5ZDE0U0dNZ21jaERwbUZUOVdvMXNweXNhSVk?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFVzYzRlU2lQTEowcWRZaWFLcXdvRUpvaEgyTjEzdHVteTdPVzdQcElDOE1Qd3lRRXpMVzFqWWx6UmktOTQxcmE4cFpwTEtkMnfSAVNBVV95cUxNNWpjdE5ITDNWcE9TQjhTaXBKaHhUZ2c2T201ZTdtN09KeHBGNm1hX1k2VE8wTlZXOTlkMTRTR01nbWNoRHBtRlQ5V28xc3B5c2FJWQ?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
           "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
@@ -174,12 +174,12 @@
           "title_zh": "我们的家在越南举办“K食品日”......通过集团饲料扩大农业食品出口"
         },
         {
-          "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yV1FtNE9CamVSR1FLa05HSFF3dzdWcFQ4dVlSRmMtZzFvRFRFczNKT3FxeExlTFZ0UU1qcmE3anJHdlV6SmFXOVBwN3ZDRmlPVnfSAVNBVV95cUxOTEhBWlpCbk5udjk0OVlhZy03YWRaLU0td2ZadHFoWWlUNkFpaHRfWVBSVzN3dllOZ1dURXNzRVBHNWJtdWlDdS1EcjRDN1REc3lZdw?oc=5",
+          "title": "궁집에서 열린 ‘K푸드 페스타’…남양주시, 전통 식문화 재조명",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yeV9JM3h5cFg3T09XMm9qQTc1blhfRHBqeUZBTUpfaXFGWTlFTk9RUFlmSFVaOWQ1enRYcFRCR1liTjIyOXVscGtvUWE2SG1VTzFJ0gFTQVVfeXFMTXJ5X0kzeHlwWDdPT1cyb2pBNzVuWF9EcGp5RkFNSl9pcUZZOUVOT1FQWWZIVVo5ZDV6dFhwVEJHWWJOMjI5dWxwa29RYTZIbVVPMUk?oc=5",
           "desc": "",
-          "title_en": "“If you bring your courage, I'll cut your food” … Japan caught in an ‘emergency‘ disposable item in the Middle East war",
-          "title_ja": "「勇気を出せば食べ物を切る」…中東戦争で「緊急」の使い捨てアイテムに巻き込まれた日本",
-          "title_zh": "“如果你鼓起勇气，我会削减你的食物” ……日本在中东战争中陷入了“紧急”一次性用品"
+          "title_en": "'K-Food Festa‘ held at the Palace House… Namyangju City reimagines traditional food culture",
+          "title_ja": "宮殿で開催される「Kフードフェスタ」…南楊州市は伝統的な食文化を再考",
+          "title_zh": "在宫殿举行的“K-Food Festa” ……南杨州市重塑传统美食文化"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "현대그린푸드, 서울에 '텍사스 로드하우스' 첫 매장",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14aXRfcHVPbGNBcFNjU1YtVEVSVXRYWF83WTdfQnBaTk9UZUFNWVp3MVhiYVEzOFd5U19lWVpDWTU5VC0yZHhrMjhTajJSbVI5Tnc?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, first store of 'Texas Roadhouse' in Seoul",
+          "title_ja": "Hyundai Green Food、ソウルの「Texas Roadhouse」の最初の店舗",
+          "title_zh": "现代绿色食品，首尔“德州路屋”的第一家商店"
+        },
+        {
+          "title": "“영국 음식은 맛없다? 우리 기내식 맛보면 생각이 달라질 것” [여행人사이트]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wS29MSlUxeEZUU2R6dUY1VVZwUG82LVFldVppZlAtbHdLSWpULXdUa3NUU05nSWdKT09GRzU5QlZwOVBHZ3ZRbV9iWm9nLVFhSFEzaEVB?oc=5",
+          "desc": "",
+          "title_en": "“British food is not good? If you taste our in-flight food, you will change your mind” [Traveler site]",
+          "title_ja": "「イギリス料理はおいしくありませんか？機内食を味わえば気が変わります」[ Traveler site]",
+          "title_zh": "「英式美食不好吃？如果您品尝我们的机上美食，您会改变主意」[旅行者网站]"
+        },
+        {
           "title": "“음식·공간 빛나게 하는 도자기로 세계와 소통할 것”",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xa2gtYUdTcDdObjA4Sm5EU1VlUV9TZWFvdUphSlpqU2hVY3ZjTXI2RFNLWDlMVFpfNU82RlBpdDNPMHdCLWZKYUgySllobS1wLWNsVg?oc=5",
           "desc": "",
           "title_en": "“Communicate with the world with ceramics that make food and space shine.”",
           "title_ja": "「食と空間を輝かせるセラミックで世界とコミュニケーションをとりましょう。」",
           "title_zh": "“用陶瓷与世界交流，让食物和空间闪耀。”"
-        },
-        {
-          "title": "롯데웰푸드(주) 감사보고서 제출",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05WEN0ZzBSakhsWnd0MUZYQjZicnBhbENfdzBEZ1pFVDFiNEd0RHFzbjBaVVhyYUVFSENrUGJzQzExYnUyQ3ZIdTlSRl85WnNjRU5XeUZqRzVKUQ?oc=5",
-          "desc": "",
-          "title_en": "Submit audit report for Lotte Well Food Co., Ltd.",
-          "title_ja": "ロッテウェルフード株式会社監査報告書提出",
-          "title_zh": "提交乐天威尔食品有限公司审核报告"
-        },
-        {
-          "title": "농식품부, 해외 K-외식·급식 연계해 K-푸드 수출 판로 넓힌다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNUZTTVA3OHJweVJ4YjlzMm11Rk8tVVZTNTJodms4STg4aHVaY29hdnRoTmxnTnl4T0xGeGZvUjhxTExjWWR0OXlDREhsZlYwdWc?oc=5",
-          "desc": "",
-          "title_en": "Ministry of Agriculture and Food expands K-food export market by linking overseas K-dining and feeding",
-          "title_ja": "農林水産省、海外のK -ダイニングと飼料を結びつけることでK - food輸出市場を拡大",
-          "title_zh": "农业和食品部通过连接海外K-餐饮和饲料扩大K-食品出口市场"
         }
       ]
     },
@@ -226,12 +226,12 @@
           "title_zh": "我从大韩航空订购…… Aigin进入大韩航空天空商店Liquor House"
         },
         {
-          "title": "블루보틀 커피 “지구의 날, 귀리음료 변경 무료”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wUVpYc25wWUFZZXFZdWhTZ1FzOEkxOVctc1FPTExjaXF1WUZFOUxGU0hhcGxhTWU5bV9kMUhBeEVRbGJMNGNqcUo4eTg5Uk5LSGhITjZmMA?oc=5",
+          "title": "베트남 음식배달 시장, 온디맨드 확산",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53VHAxMTlsU1FKcmpHSWJmYUs5b1VVZ2tka0RtTWlVRWRvVUhqOUFLQ2tJbFBDMUQzcjAxNjVEa1dyTHQxVno5XzNERzdlNHRmeFpRVWc1OA?oc=5",
           "desc": "",
-          "title_en": "Blue Bottle Coffee “Earth Day, Free Oat Drink Change”",
-          "title_ja": "ブルーボトルコーヒー「アースデイ・オートドリンクチェンジ無料」",
-          "title_zh": "蓝瓶咖啡“地球日，免费更换燕麦饮料”"
+          "title_en": "Vietnamese food delivery market spreads on-demand",
+          "title_ja": "ベトナムのフードデリバリー市場がオンデマンドで拡大",
+          "title_zh": "越南送餐市场按需扩张"
         },
         {
           "title": "“디카페인 커피, 치매 예방 효과 불분명”",
@@ -239,7 +239,7 @@
           "desc": "",
           "title_en": "“Decaffeinated coffee, dementia prevention effects unclear”",
           "title_ja": "「カフェイン抜きコーヒー、認知症予防効果不明」",
-          "title_zh": "“不含咖啡因的咖啡，预防痴呆的效果尚不清楚”"
+          "title_zh": "“不含咖啡因的咖啡，预防痴呆症的效果尚不清楚”"
         }
       ]
     }
