@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T13:08:48Z",
+  "lastUpdated": "2026-04-26T15:42:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "윙입푸드, 현재가 5.61% 급등",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wUV9Benp0aEJtYTZxbkJIUDJaeXFBV0g0SEJRbDBPZGRfa1dUeFNJVkZfSXRDSkhwOVhoajJQMnZzb2s1RFl2QVJQU3J0eWxSMFE?oc=5",
-          "desc": "",
-          "title_en": "Wing Yip Food, Current Price Surged 5.61%",
-          "title_ja": "ウィングイップフード、現在の価格は5.61 ％上昇",
-          "title_zh": "永业食品，现价飙升5.61%"
-        },
-        {
           "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFVzYzRlU2lQTEowcWRZaWFLcXdvRUpvaEgyTjEzdHVteTdPVzdQcElDOE1Qd3lRRXpMVzFqWWx6UmktOTQxcmE4cFpwTEtkMnfSAVNBVV95cUxNNWpjdE5ITDNWcE9TQjhTaXBKaHhUZ2c2T201ZTdtN09KeHBGNm1hX1k2VE8wTlZXOTlkMTRTR01nbWNoRHBtRlQ5V28xc3B5c2FJWQ?oc=5",
           "desc": "",
@@ -180,6 +172,14 @@
           "title_en": "Our Home Holds' K Food Day ’in Vietnam... Expanding Agri-Food Exports with Group Feed",
           "title_ja": "私たちの家はベトナムで「Kフードデー」を開催します...グループフィードで農産物の輸出を拡大",
           "title_zh": "我们的家在越南举办“K食品日”......通过集团饲料扩大农业食品出口"
+        },
+        {
+          "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yV1FtNE9CamVSR1FLa05HSFF3dzdWcFQ4dVlSRmMtZzFvRFRFczNKT3FxeExlTFZ0UU1qcmE3anJHdlV6SmFXOVBwN3ZDRmlPVnfSAVNBVV95cUxOTEhBWlpCbk5udjk0OVlhZy03YWRaLU0td2ZadHFoWWlUNkFpaHRfWVBSVzN3dllOZ1dURXNzRVBHNWJtdWlDdS1EcjRDN1REc3lZdw?oc=5",
+          "desc": "",
+          "title_en": "“If you bring your courage, I'll cut your food” … Japan caught in an ‘emergency‘ disposable item in the Middle East war",
+          "title_ja": "「勇気を出せば食べ物を切る」…中東戦争で「緊急」の使い捨てアイテムに巻き込まれた日本",
+          "title_zh": "“如果你鼓起勇气，我会削减你的食物” ……日本在中东战争中陷入了“紧急”一次性用品"
         }
       ]
     },
