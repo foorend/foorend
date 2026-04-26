@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T09:54:12Z",
+  "lastUpdated": "2026-04-26T13:08:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -39,7 +39,7 @@
           "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
           "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프스탄트: 그들은 지금 어디에 있는가?",
+          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
           "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
           "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
         },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "'불닭면' 못지않네…해외서 5800억 쓸어 담은 'K푸드' 정체",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BcjFYOEZNaUJuOWR4VzJrOGtZRmVIV0k1NEpzeG81YXdFOXluWkNKRWZONkszNllxd1lpMnZDN014eTJsRFZpWmhSMzlYZkFaN2dZV2pEcm8tQdIBVEFVX3lxTE1ES3VSeGNrVl9EYS1GLUdmdTRJemlrYktOajl3NHFHQ3drN1J4bl9WSFZjTXl2SmhHTlVBSnpWUFAxM0FxdUQyLThLbFBTSk1tWVdiYw?oc=5",
+          "desc": "",
+          "title_en": "It's no better than 'Bulgyeok-myeon'... 'K Food' that swept 5800 billion overseas",
+          "title_ja": "「Bulgyeok - myeon」に勝るものはありません...海外で5800億を席巻した「K Food」",
+          "title_zh": "它不比“Bulgyeok-myeon”好...... “K Food”在海外席卷了5800亿美元"
+        },
+        {
           "title": "현대그린푸드, 美 스테이크 전문점 '텍사스 로드하우스' 서울서 첫 오픈",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Hb18wN2tpU0RLV3gyVk5LX19ZQnJmYXVhdFg1VmVVQkMzT01BOVl4MFVaZ2hCQzNnMFB3S2wxOXAxNmlRazFmcktGTUlVRjlPZEFtUmZ0SHBjd9IBVEFVX3lxTFByQjF2dDNYR0lZVlZzc211eGxmSXVYeFJaTkNVN0NINHFkOHlSVDZVXzgwX0s2Z2VJc0VReGRQdVB0SXJtWVFuSWZmV2o2QTJQS1VRNg?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "XBridge Launches AI-Powered K-Food Export Control Service",
           "title_ja": "XBridge、AI搭載のK - Food輸出管理サービスを開始",
           "title_zh": "XBridge推出人工智能驱动的K-Food出口管制服务"
-        },
-        {
-          "title": "롯데웰푸드, 칸쵸 '내 이름을 찾아라' 시즌2…이름 550개로 확대",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbEVEQVk2VHY1Ml83aE00THdBZlhPX1JmTl9PWUNicG9fUXdtWGJXcVRIOENfUnZZRlJlNUVMN1BZNVl4aW0wdUNlaHFTTDljR1BNcU9reENSUQ?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Expands Kancho 'Find My Name' to 550 Names in Season 2…",
-          "title_ja": "ロッテウェルフード、シーズン2でKanchoの「Find My Name」を550名に拡大…",
-          "title_zh": "乐天Well Food在第2季将Kancho的“查找我的名字”扩展到550个名字……"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "윙입푸드, 현재가 5.61% 급등",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wUV9Benp0aEJtYTZxbkJIUDJaeXFBV0g0SEJRbDBPZGRfa1dUeFNJVkZfSXRDSkhwOVhoajJQMnZzb2s1RFl2QVJQU3J0eWxSMFE?oc=5",
+          "desc": "",
+          "title_en": "Wing Yip Food, Current Price Surged 5.61%",
+          "title_ja": "ウィングイップフード、現在の価格は5.61 ％上昇",
+          "title_zh": "永业食品，现价飙升5.61%"
+        },
         {
           "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFVzYzRlU2lQTEowcWRZaWFLcXdvRUpvaEgyTjEzdHVteTdPVzdQcElDOE1Qd3lRRXpMVzFqWWx6UmktOTQxcmE4cFpwTEtkMnfSAVNBVV95cUxNNWpjdE5ITDNWcE9TQjhTaXBKaHhUZ2c2T201ZTdtN09KeHBGNm1hX1k2VE8wTlZXOTlkMTRTR01nbWNoRHBtRlQ5V28xc3B5c2FJWQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Our Home Holds' K Food Day ’in Vietnam... Expanding Agri-Food Exports with Group Feed",
           "title_ja": "私たちの家はベトナムで「Kフードデー」を開催します...グループフィードで農産物の輸出を拡大",
           "title_zh": "我们的家在越南举办“K食品日”......通过集团饲料扩大农业食品出口"
-        },
-        {
-          "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yV1FtNE9CamVSR1FLa05HSFF3dzdWcFQ4dVlSRmMtZzFvRFRFczNKT3FxeExlTFZ0UU1qcmE3anJHdlV6SmFXOVBwN3ZDRmlPVnfSAVNBVV95cUxOTEhBWlpCbk5udjk0OVlhZy03YWRaLU0td2ZadHFoWWlUNkFpaHRfWVBSVzN3dllOZ1dURXNzRVBHNWJtdWlDdS1EcjRDN1REc3lZdw?oc=5",
-          "desc": "",
-          "title_en": "“If you bring your courage, I'll cut your food” … Japan caught in an ‘emergency‘ disposable item in the Middle East war",
-          "title_ja": "「勇気を出せば食べ物を切る」…中東戦争で「緊急」の使い捨てアイテムに巻き込まれた日本",
-          "title_zh": "“如果你鼓起勇气，我会削减你的食物” ……日本在中东战争中陷入了“紧急”一次性用品"
         }
       ]
     },
