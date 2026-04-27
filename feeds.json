@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T11:05:03Z",
+  "lastUpdated": "2026-04-27T13:56:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -141,7 +141,7 @@
           "desc": "",
           "title_en": "How about Children's Day… Shinsegae Foods No Brand Burger Holds' NBB Family Day '",
           "title_ja": "こどもの日はいかがですか？新世界フーズ・ノー・ブランド・バーガーが開催する「NBBファミリー・デー」",
-          "title_zh": "儿童节怎么样…… Shinsegae Foods No Brand Burger举办“NBB Family Day”"
+          "title_zh": "儿童节怎么样…… Shinsegae Foods No Brand Burger举办“NBB家庭日”"
         },
         {
           "title": "현대그린푸드, 美 스테이크 전문점 '텍사스 로드하우스' 서울서 첫 오픈",
@@ -234,12 +234,12 @@
           "title_zh": "酸奶固有的轻盈…… “Super 100 Grigdrink”"
         },
         {
-          "title": "반려동물 고령화, 프랑스 건강 사료의 성장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JMlpyNHJmSTUxRk40SUdNamxSNzROWVVhZ2NLZTFBM2RkS1k3aHVCWVZ6bDhKeDNGeEJ0VUlqU1k3V0RaWHdGbW1KZUpQekZwRS1wVlVBZw?oc=5",
+          "title": "베트남 음식배달 시장, 온디맨드 확산",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53VHAxMTlsU1FKcmpHSWJmYUs5b1VVZ2tka0RtTWlVRWRvVUhqOUFLQ2tJbFBDMUQzcjAxNjVEa1dyTHQxVno5XzNERzdlNHRmeFpRVWc1OA?oc=5",
           "desc": "",
-          "title_en": "Ageing pets, growing French health feed",
-          "title_ja": "高齢化するペット、成長するフランスのヘルスフィード",
-          "title_zh": "老龄化的宠物，不断增长的法国健康饲料"
+          "title_en": "Vietnamese food delivery market spreads on-demand",
+          "title_ja": "ベトナムのフードデリバリー市場がオンデマンドで拡大",
+          "title_zh": "越南送餐市场按需扩张"
         }
       ]
     }
