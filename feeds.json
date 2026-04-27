@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T21:39:01Z",
+  "lastUpdated": "2026-04-27T02:52:14Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,14 +36,6 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "'Top Chef' Season 16 Cheftestants: Where Are They Now?",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VVWFVDbUxSTWdZM0dwWEptV0t2TFpNNGUweTRqS1hMOXpLSWVJRHBhamk1emEta2ZQUjdRMFRKT0RzM3JxVTA2OHAydm1EWUIxYkRRWU5tNmpvVk9oTXgxd3d3MU1WSm9GMER2YVZLUGpaMmo5NlltM1JQNTRhQUR3?oc=5",
-          "desc": "",
-          "title_ko": "'최고의 셰프' 시즌 16 체프턴츠: 그들은 지금 어디에 있는가?",
-          "title_ja": "「トップシェフ」シーズン16チェフテスタント：彼らは今どこにいるのか？",
-          "title_zh": "“顶级厨师”第16季的厨师长：他们现在在哪里？"
-        },
-        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "어린이날 여기 어때… 신세계푸드 노브랜드 버거, 'NBB 패밀리 데이' 개최",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WcUF6LXNMbHExcWlGcllRLWg3SWp0TVo3Zy1UMlJTSjVHUGhTeGVzOUF0TloxNlItcVZ1dkxxYV9NdV9OSmFhNklkdi1oZEE0SHpKd2xLSU9wd9IBVEFVX3lxTE93Nk9EYlFKOFUyUHZzd1NSS2laUzRvNVU5U0UzVzNDMlNVSF9oR0RKVmt1Q2tBT1p1MFZ0WEpaOE1ONHVEazZVcXV2VUZUVWVEZUI5eg?oc=5",
+          "desc": "",
+          "title_en": "How about Children's Day… Shinsegae Foods No Brand Burger Holds' NBB Family Day '",
+          "title_ja": "こどもの日はいかがですか？新世界フーズ・ノー・ブランド・バーガーが開催する「NBBファミリー・デー」",
+          "title_zh": "儿童节怎么样…… Shinsegae Foods No Brand Burger举办“NBB家庭日”"
+        },
+        {
           "title": "'불닭면' 못지않네…해외서 5800억 쓸어 담은 'K푸드' 정체",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BcjFYOEZNaUJuOWR4VzJrOGtZRmVIV0k1NEpzeG81YXdFOXluWkNKRWZONkszNllxd1lpMnZDN014eTJsRFZpWmhSMzlYZkFaN2dZV2pEcm8tQdIBVEFVX3lxTE1ES3VSeGNrVl9EYS1GLUdmdTRJemlrYktOajl3NHFHQ3drN1J4bl9WSFZjTXl2SmhHTlVBSnpWUFAxM0FxdUQyLThLbFBTSk1tWVdiYw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food opens its first steakhouse 'Texas Roadhouse' in Seoul",
           "title_ja": "Hyundai Green Food、ソウルに初のステーキハウス「Texas Roadhouse」をオープン",
           "title_zh": "现代绿色食品在首尔开设首家牛排馆“德州路屋”"
-        },
-        {
-          "title": "엑스브릿지, AI 기반 K-푸드 수출 규제 해소 서비스 출시",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oMmZiZDd2U21yY3ZNcWhjVGlBenNHbWRMNHZaTGo2Z0hGSjdGSkFPeDkxVnZOMnZSTHVHZlpFemRadHdXeUxRMmVwZUg3WGFsX2NHWk16SWMwUdIBVEFVX3lxTE9qU1V0VV90cktKXzYzMWtDVU5mVFVWSHRvM0ZCQzNia1VxU2ltb3V0RnZGUFU1dTNOVXR0TVQzWThBWWJ2UlNTaXZoZFVTMUJkR2lYVA?oc=5",
-          "desc": "",
-          "title_en": "XBridge Launches AI-Powered K-Food Export Control Service",
-          "title_ja": "XBridge、AI搭載のK - Food輸出管理サービスを開始",
-          "title_zh": "XBridge推出人工智能驱动的K-Food出口管制服务"
         }
       ]
     },
@@ -157,14 +157,6 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
-        {
-          "title": "\"고객 음식-물건값 최고 10만원 대납\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aRVMxN2ZPTmlBRDVST1JBaGZydnBMRkVWRWxFUUF6MXJZNzI4bHhOVzdtemMyZ1dWSnN3SVlfV0l6OGk5bVZuczNaRDhaQTEydVE?oc=5",
-          "desc": "",
-          "title_en": "\"Customer's food-Up to 100,000 KRW paid for items\"",
-          "title_ja": "「お客様の料理-商品代金として最大100,000ウォンが支払われました」",
-          "title_zh": "\"顾客的餐点-为餐点支付了高达100,000韩元的费用\""
-        },
         {
           "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFVzYzRlU2lQTEowcWRZaWFLcXdvRUpvaEgyTjEzdHVteTdPVzdQcElDOE1Qd3lRRXpMVzFqWWx6UmktOTQxcmE4cFpwTEtkMnfSAVNBVV95cUxNNWpjdE5ITDNWcE9TQjhTaXBKaHhUZ2c2T201ZTdtN09KeHBGNm1hX1k2VE8wTlZXOTlkMTRTR01nbWNoRHBtRlQ5V28xc3B5c2FJWQ?oc=5",
@@ -180,6 +172,14 @@
           "title_en": "Our Home Holds' K Food Day ’in Vietnam... Expanding Agri-Food Exports with Group Feed",
           "title_ja": "私たちの家はベトナムで「Kフードデー」を開催します...グループフィードで農産物の輸出を拡大",
           "title_zh": "我们的家在越南举办“K食品日”......通过集团饲料扩大农业食品出口"
+        },
+        {
+          "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yV1FtNE9CamVSR1FLa05HSFF3dzdWcFQ4dVlSRmMtZzFvRFRFczNKT3FxeExlTFZ0UU1qcmE3anJHdlV6SmFXOVBwN3ZDRmlPVnfSAVNBVV95cUxOTEhBWlpCbk5udjk0OVlhZy03YWRaLU0td2ZadHFoWWlUNkFpaHRfWVBSVzN3dllOZ1dURXNzRVBHNWJtdWlDdS1EcjRDN1REc3lZdw?oc=5",
+          "desc": "",
+          "title_en": "“If you bring your courage, I'll cut your food” … Japan caught in an ‘emergency‘ disposable item in the Middle East war",
+          "title_ja": "「勇気を出せば食べ物を切る」…中東戦争で「緊急」の使い捨てアイテムに巻き込まれた日本",
+          "title_zh": "“如果你鼓起勇气，我会削减你的食物” ……日本在中东战争中陷入了“紧急”一次性用品"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "现代绿色食品，首尔“德州路屋”的第一家商店"
         },
         {
-          "title": "“영국 음식은 맛없다? 우리 기내식 맛보면 생각이 달라질 것” [여행人사이트]",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wS29MSlUxeEZUU2R6dUY1VVZwUG82LVFldVppZlAtbHdLSWpULXdUa3NUU05nSWdKT09GRzU5QlZwOVBHZ3ZRbV9iWm9nLVFhSFEzaEVB?oc=5",
-          "desc": "",
-          "title_en": "“British food is not good? If you taste our in-flight food, you will change your mind” [Traveler site]",
-          "title_ja": "「イギリス料理はおいしくありませんか？機内食を味わえば気が変わります」[ Traveler site]",
-          "title_zh": "「英式美食不好吃？如果您品尝我们的机上美食，您会改变主意」[旅行者网站]"
-        },
-        {
           "title": "K뷰티·푸드 모으니 매출 '쑥'… 편의점 특화점포 경쟁",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10OFRIS2x3V3NtRlMwNlJzR1NpSWdtMjZvVnZ4U1d2NFVwQW4zcEdlejlHWkNkekZWQWx6X09kSUZFUDNPNlAxcmYxaXFiMmFwb3hvaUJR?oc=5",
           "desc": "",
           "title_en": "K-beauty · food collector sales' wormwood '… Competition for convenience store specialty stores",
           "title_ja": "Kビューティー・フードコレクターセール「ワームウッド」…コンビニエンスストア専門店競争",
           "title_zh": "K-beauty ·食品收藏家销售“艾草” ……便利店专卖店竞争"
+        },
+        {
+          "title": "“영국 음식은 맛없다? 우리 기내식 맛보면 생각이 달라질 것” [여행人사이트]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wS29MSlUxeEZUU2R6dUY1VVZwUG82LVFldVppZlAtbHdLSWpULXdUa3NUU05nSWdKT09GRzU5QlZwOVBHZ3ZRbV9iWm9nLVFhSFEzaEVB?oc=5",
+          "desc": "",
+          "title_en": "“British food is not good? If you taste our in-flight food, you will change your mind” [Traveler site]",
+          "title_ja": "「イギリス料理はおいしくありませんか？機内食を味わえば気が変わります」[ Traveler site]",
+          "title_zh": "「英式美食不好吃？如果您品尝我们的机上美食，您会改变主意」[旅行者网站]"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "요거트 본연의 담백함…hy ‘슈퍼100 그릭드링크’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02WUJwYmd6aGJTMHJsWXc1R0c4ZUhKU0haM3FUUEQ1bDV5N3RRdGFrWmxFajJmemxQdmpueXdfY3ZnV3pzZzVnMkNRaFhrMjdFUkc3U1doRQ?oc=5",
+          "desc": "",
+          "title_en": "Yogurt's inherent lightness... hy ‘Super 100 Grigdrink’",
+          "title_ja": "ヨーグルト本来の軽さ…「スーパー100グリグドリンク」",
+          "title_zh": "酸奶固有的轻盈…… “Super 100 Grigdrink”"
+        },
         {
           "title": "반려동물 고령화, 프랑스 건강 사료의 성장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JMlpyNHJmSTUxRk40SUdNamxSNzROWVVhZ2NLZTFBM2RkS1k3aHVCWVZ6bDhKeDNGeEJ0VUlqU1k3V0RaWHdGbW1KZUpQekZwRS1wVlVBZw?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "Vietnamese food delivery market spreads on-demand",
           "title_ja": "ベトナムのフードデリバリー市場がオンデマンドで拡大",
           "title_zh": "越南送餐市场按需扩张"
-        },
-        {
-          "title": "음료까지 넘어온 콜라겐…뷰티 재료로 부상",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MU0RhOXY2VEtMUlRIMGtRUkk2d1lrV1JDMnRwLW5leEV1Qlc0YTVISGdyTDFvTkNrdEJaZzhlakIzWENfaDZ3YnNCemR4Uk5LNkxfWDJpdw?oc=5",
-          "desc": "",
-          "title_en": "Collagen over drinks… Injured as a beauty ingredient",
-          "title_ja": "飲み物の上のコラーゲン…美容成分として傷ついた",
-          "title_zh": "胶原蛋白超过饮料…受伤作为美容成分"
         }
       ]
     }
