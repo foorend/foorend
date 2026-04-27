@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T05:55:54Z",
+  "lastUpdated": "2026-04-27T08:31:08Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "어린이날 여기 어때… 신세계푸드 노브랜드 버거, 'NBB 패밀리 데이' 개최",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WcUF6LXNMbHExcWlGcllRLWg3SWp0TVo3Zy1UMlJTSjVHUGhTeGVzOUF0TloxNlItcVZ1dkxxYV9NdV9OSmFhNklkdi1oZEE0SHpKd2xLSU9wd9IBVEFVX3lxTE93Nk9EYlFKOFUyUHZzd1NSS2laUzRvNVU5U0UzVzNDMlNVSF9oR0RKVmt1Q2tBT1p1MFZ0WEpaOE1ONHVEazZVcXV2VUZUVWVEZUI5eg?oc=5",
-          "desc": "",
-          "title_en": "How about Children's Day… Shinsegae Foods No Brand Burger Holds' NBB Family Day '",
-          "title_ja": "こどもの日はいかがですか？新世界フーズ・ノー・ブランド・バーガーが開催する「NBBファミリー・デー」",
-          "title_zh": "儿童节怎么样…… Shinsegae Foods No Brand Burger举办“NBB Family Day”"
-        },
-        {
           "title": "'불닭면' 못지않네…해외서 5800억 쓸어 담은 'K푸드' 정체",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BcjFYOEZNaUJuOWR4VzJrOGtZRmVIV0k1NEpzeG81YXdFOXluWkNKRWZONkszNllxd1lpMnZDN014eTJsRFZpWmhSMzlYZkFaN2dZV2pEcm8tQdIBVEFVX3lxTE1ES3VSeGNrVl9EYS1GLUdmdTRJemlrYktOajl3NHFHQ3drN1J4bl9WSFZjTXl2SmhHTlVBSnpWUFAxM0FxdUQyLThLbFBTSk1tWVdiYw?oc=5",
           "desc": "",
           "title_en": "It's no better than 'Bulgyeok-myeon'... 'K Food' that swept 5800 billion overseas",
           "title_ja": "「Bulgyeok - myeon」に勝るものはありません...海外で5800億を席巻した「K Food」",
           "title_zh": "它不比“Bulgyeok-myeon”好...... “K Food”在海外席卷了5800亿美元"
+        },
+        {
+          "title": "어린이날 여기 어때… 신세계푸드 노브랜드 버거, 'NBB 패밀리 데이' 개최",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WcUF6LXNMbHExcWlGcllRLWg3SWp0TVo3Zy1UMlJTSjVHUGhTeGVzOUF0TloxNlItcVZ1dkxxYV9NdV9OSmFhNklkdi1oZEE0SHpKd2xLSU9wd9IBVEFVX3lxTE93Nk9EYlFKOFUyUHZzd1NSS2laUzRvNVU5U0UzVzNDMlNVSF9oR0RKVmt1Q2tBT1p1MFZ0WEpaOE1ONHVEazZVcXV2VUZUVWVEZUI5eg?oc=5",
+          "desc": "",
+          "title_en": "How about Children's Day… Shinsegae Foods No Brand Burger Holds' NBB Family Day '",
+          "title_ja": "こどもの日はいかがですか？新世界フーズ・ノー・ブランド・バーガーが開催する「NBBファミリー・デー」",
+          "title_zh": "儿童节怎么样…… Shinsegae Foods No Brand Burger举办“NBB Family Day”"
         },
         {
           "title": "현대그린푸드, 美 스테이크 전문점 '텍사스 로드하우스' 서울서 첫 오픈",
@@ -163,14 +163,14 @@
           "desc": "",
           "title_en": "\"Customer's food-Up to 100,000 KRW paid for items\"",
           "title_ja": "「お客様の料理-商品代金として最大100,000ウォンが支払われました」",
-          "title_zh": "“顾客的餐点-为餐点支付了高达10万韩元的费用”"
+          "title_zh": "\"顾客的餐点-为餐点支付了高达100,000韩元的费用\""
         },
         {
           "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFVzYzRlU2lQTEowcWRZaWFLcXdvRUpvaEgyTjEzdHVteTdPVzdQcElDOE1Qd3lRRXpMVzFqWWx6UmktOTQxcmE4cFpwTEtkMnfSAVNBVV95cUxNNWpjdE5ITDNWcE9TQjhTaXBKaHhUZ2c2T201ZTdtN09KeHBGNm1hX1k2VE8wTlZXOTlkMTRTR01nbWNoRHBtRlQ5V28xc3B5c2FJWQ?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Launches KBO Collaborative Product... Opens‘ Sweets All-Star Exhibition ’",
-          "title_ja": "ロッテウェルフード、KBOとのコラボ商品を発表…「スイーツオールスター展」開幕",
+          "title_ja": "ロッテウェルフード、KBOコラボ商品「スイーツオールスター展」開幕",
           "title_zh": "乐天Well Food推出KBO合作产品...开启“糖果全明星展”"
         },
         {
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "“바삭 식감 살렸다”…엘런바허 ‘애플 크럼블 케이크’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EWTBXT0RVZ01XNVZ2SVpJeDdjVFRlTkplQ1dtTUt6TlRta09BOFVMTTRzX1ZFY1dxc0hBREcyMzJJQl9PTDJXMjU0SmtSSkc4UXYwWS1jbw?oc=5",
+          "desc": "",
+          "title_en": "“Crispy texture saved” … Ellen Bacher ‘Apple Crumble Cake’",
+          "title_ja": "「サクサクの食感を保存」…エレン・バッカー「アップルクランブルケーキ」",
+          "title_zh": "“保存了酥脆的质地” …… Ellen Bacher ‘Apple Crumble Cake’"
+        },
+        {
           "title": "요거트 본연의 담백함…hy ‘슈퍼100 그릭드링크’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02WUJwYmd6aGJTMHJsWXc1R0c4ZUhKU0haM3FUUEQ1bDV5N3RRdGFrWmxFajJmemxQdmpueXdfY3ZnV3pzZzVnMkNRaFhrMjdFUkc3U1doRQ?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "Ageing pets, growing French health feed",
           "title_ja": "高齢化するペット、成長するフランスのヘルスフィード",
           "title_zh": "老龄化的宠物，不断增长的法国健康饲料"
-        },
-        {
-          "title": "베트남 음식배달 시장, 온디맨드 확산",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53VHAxMTlsU1FKcmpHSWJmYUs5b1VVZ2tka0RtTWlVRWRvVUhqOUFLQ2tJbFBDMUQzcjAxNjVEa1dyTHQxVno5XzNERzdlNHRmeFpRVWc1OA?oc=5",
-          "desc": "",
-          "title_en": "Vietnamese food delivery market spreads on-demand",
-          "title_ja": "ベトナムのフードデリバリー市場がオンデマンドで拡大",
-          "title_zh": "越南送餐市场按需扩张"
         }
       ]
     }
