@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-04-27T13:56:10Z",
+  "lastUpdated": "2026-04-27T16:27:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "The Technomic Top 500: Chain restaurant sales slowed again in 2025",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUNtMFlXR2pnV2w0VDcxNU5HTVZ0S3h0bnhIdXZtcGtpTEprVkxNNERHblVkWXNCaUktTW5QSVh0VVNyc3pQVnJBaTg4RGV0VWJpVmN2WWc4ZlVxVml2V0JISWtIUnZKNjY1Q0R3aThwS0tlTmU1Nm9MU1hISVV0V1dZU0x5cTdGSFBJN3pVT0FDYnlIRHBzSEZBWDV4MDdyemFrN1BPU0U?oc=5",
-          "desc": "",
-          "title_ko": "Technomic Top 500: 2025년 체인 레스토랑 매출이 다시 감소했습니다.",
-          "title_ja": "テクノミックトップ500 ：チェーンレストランの売上高は2025年に再び減速",
-          "title_zh": "Technomic 500强： 2025年连锁餐厅销售再次放缓"
-        },
         {
           "title": "A large Hardee's franchisee declares Chapter 7 bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU9kamVWTkxxcDhnTmxESk1icV9FMlVObXE0dy1BUE9yTFRJZHNPYkhuRGEyM1lyLWtKUjhGb0V0bWlKMXhvc1hWd0tRVXdCdG43M3I5WkFvTjZPdkRpcl9zSWp3ektkYzNsLUIwY1J5T3VoR0ZnbXh1bXpqOXVldFZqczRsNW5iSW80a3FoeUFIUVV1MENFWWJuNFZNSXE1ckRB?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "스타벅스는 새로운 내슈빌 사무소에 1억 달러 ($) 를 투자할 예정입니다.",
           "title_ja": "スターバックス、ナッシュビルの新オフィスに1億$を投資",
           "title_zh": "星巴克将在纳什维尔新办事处投资1亿美元$"
+        },
+        {
+          "title": "The Technomic Top 500: Chain restaurant sales slowed again in 2025",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUNtMFlXR2pnV2w0VDcxNU5HTVZ0S3h0bnhIdXZtcGtpTEprVkxNNERHblVkWXNCaUktTW5QSVh0VVNyc3pQVnJBaTg4RGV0VWJpVmN2WWc4ZlVxVml2V0JISWtIUnZKNjY1Q0R3aThwS0tlTmU1Nm9MU1hISVV0V1dZU0x5cTdGSFBJN3pVT0FDYnlIRHBzSEZBWDV4MDdyemFrN1BPU0U?oc=5",
+          "desc": "",
+          "title_ko": "Technomic Top 500: 2025년 체인 레스토랑 매출이 다시 감소했습니다.",
+          "title_ja": "テクノミックトップ500 ：チェーンレストランの売上高は2025年に再び減速",
+          "title_zh": "Technomic 500强： 2025年连锁餐厅销售再次放缓"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Where Chef Nyesha Arrington Eats Tacos and Pizza in Sacramento",
+          "link": "https://www.eater.com/video/957544/plw-x-visit-ca-ep2-sacramento",
+          "desc": "In this episode of Plateworthy, host Nyesha Arrington tastes the best pizza and tacos in Sacramento. First, Arrington heads to the Midtown Farmers Mar",
+          "title_ko": "셰프 Nyesha Arrington이 새크라멘토에서 타코와 피자를 먹는 곳",
+          "title_ja": "サクラメントのシェフNyesha Arringtonがタコスとピザを食べる場所",
+          "title_zh": "大厨Nyesha Arrington在萨克拉门托品尝玉米饼和披萨"
+        },
+        {
           "title": "Am I a Bad Person for Loving Steakhouses?",
           "link": "https://www.eater.com/food-culture/957523/moral-dilemmas-of-steakhouses",
           "desc": "A version of this post originally appeared on April 22 in our newsletter Eater Today. Sign up here to receive stories like this in your inbox. I recen",
@@ -110,14 +118,6 @@
           "title_ko": "전문가처럼 스테이크 전문점을 방문하는 방법",
           "title_ja": "プロのようにステーキハウスを叩く方法",
           "title_zh": "如何像专业人士一样品尝牛排餐厅美食"
-        },
-        {
-          "title": "The Hottest New Steakhouses in the U.S.",
-          "link": "https://www.eater.com/dining-out/955855/new-steakhouse-openings-national-list",
-          "desc": "Steakhouses have main character energy. Coming across them in movies or television, it’s easy to picture yourself seated next to Don Draper and Roger ",
-          "title_ko": "미국에서 가장 인기 있는 새로운 스테이크하우스",
-          "title_ja": "米国で最もホットな新しいステーキハウス",
-          "title_zh": "美国最热门的新牛排馆"
         }
       ]
     }
@@ -163,13 +163,13 @@
           "desc": "",
           "title_en": "\"Customer's food-Up to 100,000 KRW paid for items\"",
           "title_ja": "「お客様の料理-商品代金として最大100,000ウォンが支払われました」",
-          "title_zh": "\"顾客的餐点-为餐点支付了高达100,000韩元的费用\""
+          "title_zh": "“顾客的餐点-为餐点支付了高达10万韩元的费用”"
         },
         {
           "title": "K푸드 기획력·노하우로 몸값 껑충…해외 자본도 눈독",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTWGNwMENJYkxGY0xyLWozelhNRy1IMFJ3NWJPOUtKNnZOUy1RaEVFdXFYeFhMVXd6VFkzVGwtYnk1NG1ad3NRNm9CV0lLUmFEM3fSAVNBVV95cUxOd3E1MmZvMFlmSGUxWnJxYmhPZHAwRUdpZ01tNTNJSzFjNnctcXFfWnU1U2I0WDlZRE5lVzMxbU9CUDlXWTZVSWNNYzE3bU9LdEdISQ?oc=5",
           "desc": "",
-          "title_en": "K-food planning skills and know-how to pay the ransom… Overseas capital is also an eye-opener",
+          "title_en": "K-food planning and know-how to pay the ransom… Overseas capital is also an eye-opener",
           "title_ja": "身代金を支払うためのK - foodプランニングスキルとノウハウ…海外資本も目を見張るものです",
           "title_zh": "K-food的规划技巧和支付赎金的诀窍……海外资本也让人大开眼界"
         },
