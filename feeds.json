@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T02:52:14Z",
+  "lastUpdated": "2026-04-27T05:55:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "This Whiskey Is Made From Crabs",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSlJ0TjhtZ1ZOVDlVUU9uNG9BS0I3dkIweHIxSlFQX1JqNXAxS0FFU3hmVUUxTUg1cFVLN08yYWZxZ0pJVkNESW1JY3BRZ3p5SDNGUFNZNl9CZ2ZmOW5kaGFsTndlb3cxQzF3dE54TzNscHZmaVphdjNmS1BpakQ4amhHcEJGUQ?oc=5",
+          "desc": "",
+          "title_ko": "게로 만든 위스키입니다",
+          "title_ja": "このウイスキーはカニから作られています",
+          "title_zh": "这款威士忌由螃蟹制成"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -133,7 +133,7 @@
           "desc": "",
           "title_en": "How about Children's Day… Shinsegae Foods No Brand Burger Holds' NBB Family Day '",
           "title_ja": "こどもの日はいかがですか？新世界フーズ・ノー・ブランド・バーガーが開催する「NBBファミリー・デー」",
-          "title_zh": "儿童节怎么样…… Shinsegae Foods No Brand Burger举办“NBB家庭日”"
+          "title_zh": "儿童节怎么样…… Shinsegae Foods No Brand Burger举办“NBB Family Day”"
         },
         {
           "title": "'불닭면' 못지않네…해외서 5800억 쓸어 담은 'K푸드' 정체",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "\"고객 음식-물건값 최고 10만원 대납\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aRVMxN2ZPTmlBRDVST1JBaGZydnBMRkVWRWxFUUF6MXJZNzI4bHhOVzdtemMyZ1dWSnN3SVlfV0l6OGk5bVZuczNaRDhaQTEydVE?oc=5",
+          "desc": "",
+          "title_en": "\"Customer's food-Up to 100,000 KRW paid for items\"",
+          "title_ja": "「お客様の料理-商品代金として最大100,000ウォンが支払われました」",
+          "title_zh": "“顾客的餐点-为餐点支付了高达10万韩元的费用”"
+        },
+        {
           "title": "롯데웰푸드, KBO 협업 제품 출시...‘과자 올스타전’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFVzYzRlU2lQTEowcWRZaWFLcXdvRUpvaEgyTjEzdHVteTdPVzdQcElDOE1Qd3lRRXpMVzFqWWx6UmktOTQxcmE4cFpwTEtkMnfSAVNBVV95cUxNNWpjdE5ITDNWcE9TQjhTaXBKaHhUZ2c2T201ZTdtN09KeHBGNm1hX1k2VE8wTlZXOTlkMTRTR01nbWNoRHBtRlQ5V28xc3B5c2FJWQ?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Our Home Holds' K Food Day ’in Vietnam... Expanding Agri-Food Exports with Group Feed",
           "title_ja": "私たちの家はベトナムで「Kフードデー」を開催します...グループフィードで農産物の輸出を拡大",
           "title_zh": "我们的家在越南举办“K食品日”......通过集团饲料扩大农业食品出口"
-        },
-        {
-          "title": "“용기 챙겨오면 음식값 깎아드려요”…중동 전쟁에 일회용품 ‘비상’ 걸린 일본",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yV1FtNE9CamVSR1FLa05HSFF3dzdWcFQ4dVlSRmMtZzFvRFRFczNKT3FxeExlTFZ0UU1qcmE3anJHdlV6SmFXOVBwN3ZDRmlPVnfSAVNBVV95cUxOTEhBWlpCbk5udjk0OVlhZy03YWRaLU0td2ZadHFoWWlUNkFpaHRfWVBSVzN3dllOZ1dURXNzRVBHNWJtdWlDdS1EcjRDN1REc3lZdw?oc=5",
-          "desc": "",
-          "title_en": "“If you bring your courage, I'll cut your food” … Japan caught in an ‘emergency‘ disposable item in the Middle East war",
-          "title_ja": "「勇気を出せば食べ物を切る」…中東戦争で「緊急」の使い捨てアイテムに巻き込まれた日本",
-          "title_zh": "“如果你鼓起勇气，我会削减你的食物” ……日本在中东战争中陷入了“紧急”一次性用品"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "한밤 맛있는 음식·흥겨운 공연…남원 월광포차 내달 1일 개시",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fck9LTS0zeDl4M3hEMmdlRGRMbTVMR2lZS0JHY1NVSXczYjNCMXVpV0ZOdFlleUM0VHRaX0tMYi0tWjcyUFJjTmpTTmhtSU1wUkE?oc=5",
+          "desc": "",
+          "title_en": "Midnight delicious food and exciting performances… Namwon Moonlight Pot Tea starts on the 1st of next month",
+          "title_ja": "真夜中の美味しい食べ物とエキサイティングなパフォーマンス…ナムウォンムーンライトポットティーは来月1日から始まります",
+          "title_zh": "午夜美食和精彩表演…南原月光壶茶将于下月1日开始"
+        },
+        {
+          "title": "[게시판] '한-아프리카 비즈니스 포럼' K뷰티·K푸드 기업 모집",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gd19MdUFiR3Q4b0YwOE5lbU9vcDdpcnRYZVYyYmNuc194WXRqWEd0TURqVGxDNWVwcXdaWUVjTkh6UzFOaTBLZ0tqS2Y0SXdkd0E?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] 'Korea-Africa Business Forum' K-beauty and K-food company recruitment",
+          "title_ja": "【掲示板】「韓国・アフリカビジネスフォーラム」K - beautyとK - food企業募集",
+          "title_zh": "[公告栏] “韩非商业论坛” K-beauty和K-food公司招聘"
+        },
+        {
           "title": "현대그린푸드, 서울에 '텍사스 로드하우스' 첫 매장",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14aXRfcHVPbGNBcFNjU1YtVEVSVXRYWF83WTdfQnBaTk9UZUFNWVp3MVhiYVEzOFd5U19lWVpDWTU5VC0yZHhrMjhTajJSbVI5Tnc?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Food, first store of 'Texas Roadhouse' in Seoul",
           "title_ja": "Hyundai Green Food、ソウルの「Texas Roadhouse」の最初の店舗",
           "title_zh": "现代绿色食品，首尔“德州路屋”的第一家商店"
-        },
-        {
-          "title": "K뷰티·푸드 모으니 매출 '쑥'… 편의점 특화점포 경쟁",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10OFRIS2x3V3NtRlMwNlJzR1NpSWdtMjZvVnZ4U1d2NFVwQW4zcEdlejlHWkNkekZWQWx6X09kSUZFUDNPNlAxcmYxaXFiMmFwb3hvaUJR?oc=5",
-          "desc": "",
-          "title_en": "K-beauty · food collector sales' wormwood '… Competition for convenience store specialty stores",
-          "title_ja": "Kビューティー・フードコレクターセール「ワームウッド」…コンビニエンスストア専門店競争",
-          "title_zh": "K-beauty ·食品收藏家销售“艾草” ……便利店专卖店竞争"
-        },
-        {
-          "title": "“영국 음식은 맛없다? 우리 기내식 맛보면 생각이 달라질 것” [여행人사이트]",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wS29MSlUxeEZUU2R6dUY1VVZwUG82LVFldVppZlAtbHdLSWpULXdUa3NUU05nSWdKT09GRzU5QlZwOVBHZ3ZRbV9iWm9nLVFhSFEzaEVB?oc=5",
-          "desc": "",
-          "title_en": "“British food is not good? If you taste our in-flight food, you will change your mind” [Traveler site]",
-          "title_ja": "「イギリス料理はおいしくありませんか？機内食を味わえば気が変わります」[ Traveler site]",
-          "title_zh": "「英式美食不好吃？如果您品尝我们的机上美食，您会改变主意」[旅行者网站]"
         }
       ]
     },
