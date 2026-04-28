@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T03:20:53Z",
+  "lastUpdated": "2026-04-28T08:26:36Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "Food",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
-          "desc": "",
-          "title_ko": "식료품비",
-          "title_ja": "食料",
-          "title_zh": "食物"
-        },
-        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -163,7 +163,15 @@
           "desc": "",
           "title_en": "K-food planning skills and know-how to pay the ransom… Overseas capital is also an eye-opener",
           "title_ja": "身代金を支払うためのK - foodプランニングスキルとノウハウ…海外資本も目を見張るものです",
-          "title_zh": "K-food的规划技巧和支付赎金的诀窍……海外资本也让人大开眼界"
+          "title_zh": "K-food计划和支付赎金的专业知识……海外资本也让人大开眼界"
+        },
+        {
+          "title": "사조씨푸드, 매수잔량 586% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1LVdzcXNjd0NjUW44aXpGMERPWG11NHl4eTR0dUtFblgwRHJuM2ZySVFzNkV4UmFWOEd5a0Z4YXRpRVBpUTl0ZlhwMGNaVG5tRHM0?oc=5",
+          "desc": "",
+          "title_en": "Sazo Seafood, Buying Residual 586% Surge",
+          "title_ja": "SAZOシーフード、残余586 ％の急増を購入",
+          "title_zh": "Sazo海鲜，购买剩余586%激增"
         },
         {
           "title": "\"고객 음식-물건값 최고 10만원 대납\"",
@@ -172,14 +180,6 @@
           "title_en": "\"Customer's food-Up to 100,000 KRW paid for items\"",
           "title_ja": "「お客様の料理-商品代金として最大100,000ウォンが支払われました」",
           "title_zh": "\"顾客的餐点-为餐点支付了高达100,000韩元的费用\""
-        },
-        {
-          "title": "CJ씨푸드, 9.38% 오르며 체결강도 강세로 반전(149%)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2ZzRhQWVuWFB1OHJzOFhobllLN0dxdDlmX1RmQ0lYLTRYVnJEejBybTRpcUNFYWxEZVl5clhOY0dkSkM4SE05bFBhNjZKWjlpdXc?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood reverses strong fastening strength by 9.38% (149%)",
-          "title_ja": "CJシーフードは、9.38 ％ （ 149 ％ ）強力な締結強度を逆転させます",
-          "title_zh": "CJ Seafood逆转强力紧固强度9.38% （ 149% ）"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "“바삭 식감 살렸다”…엘런바허 ‘애플 크럼블 케이크’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EWTBXT0RVZ01XNVZ2SVpJeDdjVFRlTkplQ1dtTUt6TlRta09BOFVMTTRzX1ZFY1dxc0hBREcyMzJJQl9PTDJXMjU0SmtSSkc4UXYwWS1jbw?oc=5",
-          "desc": "",
-          "title_en": "“Crispy texture saved” … Ellen Bacher ‘Apple Crumble Cake’",
-          "title_ja": "「サクサクの食感を保存」…エレン・バッカー「アップルクランブルケーキ」",
-          "title_zh": "“保存了酥脆的质地” …… Ellen Bacher ‘Apple Crumble Cake’"
-        },
-        {
           "title": "요거트 본연의 담백함…hy ‘슈퍼100 그릭드링크’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02WUJwYmd6aGJTMHJsWXc1R0c4ZUhKU0haM3FUUEQ1bDV5N3RRdGFrWmxFajJmemxQdmpueXdfY3ZnV3pzZzVnMkNRaFhrMjdFUkc3U1doRQ?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "Vietnamese food delivery market spreads on-demand",
           "title_ja": "ベトナムのフードデリバリー市場がオンデマンドで拡大",
           "title_zh": "越南送餐市场按需扩张"
+        },
+        {
+          "title": "트레이더 조 ‘비빔국수’, 제2의 냉동 김밥 될까?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAydFhpSGMwSjF2SUx4OG9VRWNhWmMxTFB3Sl9Ud2pSM0VJMXQ5RTRXczNLNV9tZG5sYTg3UjVDajM2ekFBb3pNUlBWYWhDX1A5YUtwNWtWWQ?oc=5",
+          "desc": "",
+          "title_en": "Will Trader Joe ‘Bibim Noodles’ become the second frozen gimbap?",
+          "title_ja": "トレーダージョー「ビビムヌードル」は2番目の冷凍ジンバップになりますか？",
+          "title_zh": "Trader Joe ‘Bibim Noodles‘会不会成为第二个冷冻gimbap ？"
         }
       ]
     }
