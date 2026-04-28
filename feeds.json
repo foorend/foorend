@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T19:42:39Z",
+  "lastUpdated": "2026-04-28T21:58:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "加盟商起诉Jack in the Box ，要求赔偿“数百万”的损失"
         },
         {
-          "title": "Starbucks will invest $100M in its new Nashville office",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTd1SEV5VkdYS0cwZDFuNU9lZzA2bHBoSU1XUC1aUHUxajUxN2xGdXFMRXFrOVR2eGVNWUgzeDR3YnU4a0xxWG54V3NvMkgyUFA4LUVQS3JYSWFFSEZSSVZXbVp6UFU3dWdFWUx1SGsxX2tvT1VwRThuc2VOQzhUbHdQUDlGUE90Mk1nalY4NGo4NTFYQUVHZF9MTnBrNWs?oc=5",
-          "desc": "",
-          "title_ko": "스타벅스는 새로운 내슈빌 사무소에 1억 달러 ($) 를 투자할 예정입니다.",
-          "title_ja": "スターバックス、ナッシュビルの新オフィスに1億$を投資",
-          "title_zh": "星巴克将在纳什维尔新办事处投资1亿美元$"
-        },
-        {
           "title": "The Technomic Top 500: Chain restaurant sales slowed again in 2025",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUNtMFlXR2pnV2w0VDcxNU5HTVZ0S3h0bnhIdXZtcGtpTEprVkxNNERHblVkWXNCaUktTW5QSVh0VVNyc3pQVnJBaTg4RGV0VWJpVmN2WWc4ZlVxVml2V0JISWtIUnZKNjY1Q0R3aThwS0tlTmU1Nm9MU1hISVV0V1dZU0x5cTdGSFBJN3pVT0FDYnlIRHBzSEZBWDV4MDdyemFrN1BPU0U?oc=5",
           "desc": "",
           "title_ko": "Technomic Top 500: 2025년 체인 레스토랑 매출이 다시 감소했습니다.",
           "title_ja": "テクノミックトップ500 ：チェーンレストランの売上高は2025年に再び減速",
           "title_zh": "Technomic 500强： 2025年连锁餐厅销售再次放缓"
+        },
+        {
+          "title": "Applebee’s is sued by a franchisee over co-branded restaurants",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzE4WUxRLWZ1ZENuTEU2bmEyaFQxS0x0aWRoU3VjMzFhNkcwczZQUm1wWVVDWDlzU2RRRFhxczd4R2U5MWZWenpULTFjT3VXUDczSGlpenlpTXMwa0E0ZWVkREZ5WGpsMDdMb2ZhX0xYcGhNNzFuUXI0RDVfS3NWNVpTenNsVk16bHFWZ2ZYdTJBcTZncXEyT2hhejM5Y1dEa0gw?oc=5",
+          "desc": "",
+          "title_ko": "Applebee 's는 공동 브랜드 레스토랑에 대한 프랜차이즈 업체의 소송을 제기합니다.",
+          "title_ja": "Applebee'sは、共同ブランドのレストランをめぐってフランチャイズ加盟店によって訴えられている",
+          "title_zh": "Applebee's因联合品牌餐厅被加盟商起诉"
         }
       ]
     },
@@ -149,7 +149,7 @@
           "desc": "",
           "title_en": "How about Children's Day… Shinsegae Foods No Brand Burger Holds' NBB Family Day '",
           "title_ja": "こどもの日はいかがですか？新世界フーズ・ノー・ブランド・バーガーが開催する「NBBファミリー・デー」",
-          "title_zh": "儿童节怎么样…… Shinsegae Foods No Brand Burger举办“NBB Family Day”"
+          "title_zh": "儿童节怎么样…… Shinsegae Foods No Brand Burger举办“NBB家庭日”"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "CJ海鲜，同比增长7.73% ，日营业额6.36%"
         },
         {
-          "title": "해마로푸드서비스, 3.03% 오르며 체결강도 강세 지속(130%)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yQm5HTjZvRG45NE8wREYzT1NIRGxpUE13cVkzcmpsc1FTM2ZZMFVoWW1yVktCcTB1aWhZaVlLM2h2dm9UMFN2eFVGOWhxRXdSenc?oc=5",
+          "title": "CJ씨푸드, 9.38% 오르며 체결강도 강세로 반전(149%)",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2ZzRhQWVuWFB1OHJzOFhobllLN0dxdDlmX1RmQ0lYLTRYVnJEejBybTRpcUNFYWxEZVl5clhOY0dkSkM4SE05bFBhNjZKWjlpdXc?oc=5",
           "desc": "",
-          "title_en": "Hippopotamus food service continues strong (130%) with a 3.03% increase in fastening strength",
-          "title_ja": "カバのフードサービスは引き続き力強く（ 130 ％ ）、締結強度が3.03 ％増加",
-          "title_zh": "河马餐饮服务持续强劲（ 130% ） ，紧固强度提高3.03%"
+          "title_en": "CJ Seafood reverses strong fastening strength by 9.38% (149%)",
+          "title_ja": "CJシーフードは、9.38 ％ （ 149 ％ ）の上昇で強力な締結強度を逆転させます",
+          "title_zh": "CJ Seafood逆转强力紧固强度9.38% （ 149% ）"
         }
       ]
     },
@@ -188,20 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "‘한입만’ 뺏어먹는 음식이 진짜 더 맛있는 이유는?",
+          "title": "“툭하면 내 음식 손대는 친구, 결국 싸웠네요”...‘한 입만’ 과학적 근거 있다?",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fWTZNaHZnVVctRnNJRGZZQ3FodUhEbm5QVHFNcXZ2eGtXRllkZ0VUZk9EaFM1V05lVEI4VDQxbTlYTThQLW5PZHJvLU02dw?oc=5",
           "desc": "",
-          "title_en": "Why is the food you take away ’just one bite’ really tastier?",
-          "title_ja": "「一口食べるだけ」の食べ物が本当においしいのはなぜですか？",
-          "title_zh": "为什么您“只吃一口”带走的食物真的更美味？"
-        },
-        {
-          "title": "한밤 맛있는 음식·흥겨운 공연…남원 월광포차 내달 1일 개시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fck9LTS0zeDl4M3hEMmdlRGRMbTVMR2lZS0JHY1NVSXczYjNCMXVpV0ZOdFlleUM0VHRaX0tMYi0tWjcyUFJjTmpTTmhtSU1wUkE?oc=5",
-          "desc": "",
-          "title_en": "Midnight delicious food and exciting performances… Namwon Moonlight Pot Tea starts on the 1st of next month",
-          "title_ja": "真夜中の美味しい食べ物とエキサイティングなパフォーマンス…ナムウォンムーンライトポットティーは来月1日から始まります",
-          "title_zh": "午夜美食和精彩表演…南原月光壶茶将于下月1日开始"
+          "title_en": "“My friend who touches my food, I fought in the end.”... ‘Just one bite.’ Is there a scientific basis?",
+          "title_ja": "「私の食べ物に触れる友人、私は最後に戦いました。」...「一口だけ。」科学的根拠はありますか？",
+          "title_zh": "“我的朋友碰了我的食物，我最后还是打架了。” …… “就一口。”有科学依据吗？"
         },
         {
           "title": "\"바가지요금 없어요\"… 울산옹기축제 음식값 상한제",
@@ -210,6 +202,14 @@
           "title_en": "\"There is no charge for a bargain\" … Ulsan Onggi Festival upper limit on food prices",
           "title_ja": "「お買い得品は無料」…ウルサン・オンギ祭りの食料価格上限",
           "title_zh": "“讨价还价不收费” ……蔚山Onggi节食品价格上限"
+        },
+        {
+          "title": "한밤 맛있는 음식·흥겨운 공연…남원 월광포차 내달 1일 개시",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fck9LTS0zeDl4M3hEMmdlRGRMbTVMR2lZS0JHY1NVSXczYjNCMXVpV0ZOdFlleUM0VHRaX0tMYi0tWjcyUFJjTmpTTmhtSU1wUkE?oc=5",
+          "desc": "",
+          "title_en": "Midnight delicious food and exciting performances… Namwon Moonlight Pot Tea starts on the 1st of next month",
+          "title_ja": "真夜中の美味しい食べ物とエキサイティングなパフォーマンス…ナムウォンムーンライトポットティーは来月1日から始まります",
+          "title_zh": "午夜美食和精彩表演…南原月光壶茶将于下月1日开始"
         }
       ]
     },
