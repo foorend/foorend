@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-04-29T19:27:12Z",
+  "lastUpdated": "2026-04-29T21:59:01Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Multiple buyers emerge for Fat Brands, as Smokey Bones shuts down",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWdrNjV5RVVjcERrRUdyeC1wUTZobnNnX1VlOVJGNWQ3cHdqRExNU2hmdkFaOEJMLVdqWTRVZzljcmlyNzZNcGdIMlpxVHZmTjJFdXFSN1JpUnZFWFlmUFd6MVZobDhFMzd6NVQzMzRUSlZFN1NBZmlKSDdZcFVjeVBQUmhIQkFybDZSUVcxbnlKaXZNS2hGTUhoNzY1dHF0TW5zQlczNA?oc=5",
+          "desc": "",
+          "title_ko": "Smokey Bones가 종료됨에 따라 지방 브랜드에 대한 여러 구매자가 등장합니다.",
+          "title_ja": "Smokey Bonesがシャットダウンすると、Fat Brandsに複数のバイヤーが登場します",
+          "title_zh": "随着Smokey Bones的关闭， Fat Brands出现了多个买家"
+        },
         {
           "title": "Maybe a sale really would be the best thing for Pizza Hut",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "Applebee 's는 공동 브랜드 레스토랑에 대한 프랜차이즈 업체의 소송을 제기합니다.",
           "title_ja": "Applebee'sは、共同ブランドのレストランをめぐってフランチャイズ加盟店によって訴えられている",
           "title_zh": "Applebee's因联合品牌餐厅被加盟商起诉"
-        },
-        {
-          "title": "A large Hardee's franchisee declares Chapter 7 bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU9kamVWTkxxcDhnTmxESk1icV9FMlVObXE0dy1BUE9yTFRJZHNPYkhuRGEyM1lyLWtKUjhGb0V0bWlKMXhvc1hWd0tRVXdCdG43M3I5WkFvTjZPdkRpcl9zSWp3ektkYzNsLUIwY1J5T3VoR0ZnbXh1bXpqOXVldFZqczRsNW5iSW80a3FoeUFIUVV1MENFWWJuNFZNSXE1ckRB?oc=5",
-          "desc": "",
-          "title_ko": "대규모 하디스 프랜차이즈 가맹점, 챕터 7 파산 선언",
-          "title_ja": "大規模なハーディーのフランチャイズ加盟店が第7章の破産を宣言",
-          "title_zh": "一家大型Hardee的加盟商宣布第7章破产"
         }
       ]
     },
@@ -162,7 +162,7 @@
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ONWZNYTRnSWQ3czdJajU3RUpwOS1wTHJYbGNXRVNaUUMyLTB3elhFRmZsYlRrM3dQLWFhVjZ1QUc3Vnh2ajVrejJQMXR6anNpc2xR0gFTQVVfeXFMTU41Zk1hNGdJZDdzN0lqNTdFSnA5LXBMclhsY1dFU1pRQzItMHd6WEVGZmxiVGszd1AtYWFWNnVBRzdWeHZqNWt6MlAxdHpqc2lzbFE?oc=5",
           "desc": "",
           "title_en": "Beyond K-beauty, K-food is also embraced... Silicone Two Acquires Middle Eastern Dining Brand ‘88 Seoul’",
-          "title_ja": "Kビューティーを超えて、Kフードも受け入れています...シリコンツーが中東ダイニングブランド「88ソウル」を買収",
+          "title_ja": "Kビューティーを超えて、Kフードも受け入れています...シリコーンツーが中東ダイニングブランド「88ソウル」を買収",
           "title_zh": "除了K-beauty ， K-food也受到欢迎…… Silicone Two收购中东餐饮品牌“88 Seoul”"
         },
         {
@@ -174,12 +174,12 @@
           "title_zh": "在「西海日落餐厅」欣赏日落的同时享用美味佳肴"
         },
         {
-          "title": "CJ씨푸드, 9.94% 오르며 체결강도 강세 지속(101%)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JdEVLVk1CeC1JYTRhVm04WDJsTlRXMWNfQ0haNnV1SHUtelcxaDI2czJQblQtTlp5bGhqWktiNDFZa2RwcF9KQjA2YkZob0RRR0E?oc=5",
+          "title": "영세 수공예품의 재발견…K팝·K푸드 입고 글로벌 소비자 홀린다 [스타트업 스트리트]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90NVNXd2VQY3U1SlpKMzlYUC1lZUZPbzdQNjhUcUNsLTZkekw2R05FVjhFQzFHNk9jLWdLd05wdG53LS04YWdpQk5ITUZYcjY3ZkHSAVNBVV95cUxPd2xDNFJzclQybXNxbjVLdGk1VkVBLTlkN1d4WFcxZjJMOUdxSkNMeDc1VnFIU0owMEtGVXdLaHduazBKOTg3MFFDQ3NGckhPUzNxNA?oc=5",
           "desc": "",
-          "title_en": "CJ Seafood continues strong in fastening strength with a rise of 9.94% (101%)",
-          "title_ja": "CJシーフードは9.94 ％ （ 101 ％ ）の上昇で引き続き強固な締結強度を維持",
-          "title_zh": "CJ Seafood的紧固强度持续强劲，增长了9.94% （ 101% ）"
+          "title_en": "Rediscovering small-scale handicrafts… Global consumers wearing K-pop and K-food [Startup Street]",
+          "title_ja": "小規模な手工芸品の再発見… K - POPとK - FOODを身に着けている世界中の消費者[Startup Street]",
+          "title_zh": "重新发现小规模手工艺品……穿着K-pop和K-food的全球消费者[Startup Street]"
         }
       ]
     },
@@ -200,7 +200,7 @@
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qbENFMFdhYmpPT2Y3ZG1qZnlpaTViak9HUldKbzhlYTBmWWlMVjVoTXBhY0ZPcThralIxdFRRcEFBeUlLOVdIcUd0OXVuZjdBSXBCc213?oc=5",
           "desc": "",
           "title_en": "Exhibit, eat, eat… The Art-Food Gourmet Experience at the Museum",
-          "title_ja": "展示品を見たり、グルメを食べたり…美術館で「アートフード」のグルメ体験",
+          "title_ja": "展示、食べる、食べる…美術館でアートとグルメのグルメ体験",
           "title_zh": "展览、美食、美食……博物馆的艺术美食体验"
         },
         {
