@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T06:05:13Z",
+  "lastUpdated": "2026-04-29T10:57:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -86,7 +86,7 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
           "desc": "",
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "食べるものすべての真のエネルギー価格への露出",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "낡은 대기업집단 규제로 K뷰티·푸드까지 발목잡나",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5reWQtM3pQVENYeEhNZ0VZMlRXcVFwM0Y1WXJCdGVhejNfR1d0T01rQWIxbV9EUXZZTjBqSFlueDRtMEtPUjJ0QzFZMEtSWVViMXB3Y3pIbWtXUdIBVEFVX3lxTE9leDllTERlUDRaT3JuR05JRXJKMHl3TG9BWG9mVlFvTzVUenJyengzNDNzeTdfNFNGYjg0OHJBS0hzcDY0UGFKdWtaMGJHcTZmZVFzYw?oc=5",
+          "desc": "",
+          "title_en": "I even caught up with K-beauty and food due to the regulation of the old large corporate group",
+          "title_ja": "古い大企業グループの規制により、Kビューティーや食べ物にも追いついた",
+          "title_zh": "由于旧的大公司集团的监管，我甚至赶上了韩国美容和美食"
+        },
+        {
           "title": "아워홈, 뷔페 브랜드 '테이크' 첫 선…글로벌 푸드 마켓 콘셉트",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZm12MHQ5eVByWjhiUXhLYmFJamt5MFNXT2pNYkFzSzBTWTRHWURQZDFIWjNWRzFyU3hSUThJN0xRdk9VVllTY2ZSTXpTTUVoTURlUG9GOXVMd9IBVEFVX3lxTFBfSVZwLTI5ZUItV0t2dEY1aXBkdC13YlJhNWNGRXljNjlhUUxUUDNJbnF6WVVRdVh2YTlaaDBRQjFDS3l4OVdRci1ERXloOHFqZTVHbg?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "It's no better than 'Bulgyeok-myeon'... 'K Food' that swept 5800 billion overseas",
           "title_ja": "「Bulgyeok - myeon」に勝るものはありません...海外で5800億を席巻した「K Food」",
           "title_zh": "它不比“Bulgyeok-myeon”好...... “K Food”在海外席卷了5800亿美元"
-        },
-        {
-          "title": "현대그린푸드, 서울 첫 매장 '텍사스 로드하우스' 그랜드 오픈",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03ZXV0b0xRSFFLTnZzTUhVbkVTaEh2clN3elRxZnR1VzJjU1Z3WVctSlI5RXk5dnUtSkczRmg5VnFuSkhTblcwUmNQaEFaMEUyZXpBVHJFc01UUdIBVEFVX3lxTE1LUTdSRTJMR3pRRkN2WUJUVzBxR2l3aVBTNUJLRXFzLU9rcVZPcklObTBhN3JVU3NIN01MMVhPNkZycjlXX0RpQnI3TG12a0RlYnI1dQ?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food Grand Opening of Texas Roadhouse, Seoul's First Store",
-          "title_ja": "Hyundai Green Food、ソウル初の店舗であるTexas Roadhouseをグランドオープン",
-          "title_zh": "现代绿色食品首尔首家店德州Roadhouse盛大开业"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "在「西海日落餐厅」欣赏日落的同时享用美味佳肴"
         },
         {
+          "title": "K뷰티 넘어 K푸드도 품는다...실리콘투, 중동 외식 브랜드 ‘88서울’ 인수",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tZ1ZuLVRPS2Z4WGhNWHRNOEpMMGRlODlpWmIzTm5sX2l6anRyX2wxMzQ2T1MxZUYybEwybVA4WmpxQmZkNnpkRWpmMkNCeFR4YXfSAVNBVV95cUxNTjVmTWE0Z0lkN3M3SWo1N0VKcDktcExyWGxjV0VTWlFDMi0wd3pYRUZmbGJUazN3UC1hYVY2dUFHN1Z4dmo1a3oyUDF0empzaXNsUQ?oc=5",
+          "desc": "",
+          "title_en": "Beyond K-beauty, K-food is also embraced... Silicone Two Acquires Middle Eastern Dining Brand ‘88 Seoul’",
+          "title_ja": "Kビューティーを超えて、Kフードも受け入れています...シリコンツーが中東ダイニングブランド「88ソウル」を買収",
+          "title_zh": "除了K-beauty ， K-food也受到欢迎…… Silicone Two收购中东餐饮品牌“88 Seoul”"
+        },
+        {
           "title": "K푸드 기획력·노하우로 몸값 껑충…해외 자본도 눈독",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTWGNwMENJYkxGY0xyLWozelhNRy1IMFJ3NWJPOUtKNnZOUy1RaEVFdXFYeFhMVXd6VFkzVGwtYnk1NG1ad3NRNm9CV0lLUmFEM3fSAVNBVV95cUxOd3E1MmZvMFlmSGUxWnJxYmhPZHAwRUdpZ01tNTNJSzFjNnctcXFfWnU1U2I0WDlZRE5lVzMxbU9CUDlXWTZVSWNNYzE3bU9LdEdISQ?oc=5",
           "desc": "",
           "title_en": "K-food planning skills and know-how to pay the ransom… Overseas capital is also an eye-opener",
-          "title_ja": "身代金を支払うためのK - foodプランニングスキルとノウハウ…海外資本も目を見張るものです",
-          "title_zh": "K-food的规划技巧和支付赎金的诀窍……海外资本也让人大开眼界"
-        },
-        {
-          "title": "'코코샤브S' 운영 박규성 오리엔탈푸드코리아 대표, \"부산서 성공 발판으로 이젠 서울 정복해야죠\"",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtZEM1eDZBdmowdVZUVGkwUHE1SWJyUDM3czR2eUxmVlZnVmF0MDkweHBmMkIxNVV5NUYzNWUwTVNnQmthLW1jVTFyNWFIYkVvcG130gFTQVVfeXFMUG1kQzV4NkF2ajB1VlRUaTBQcTVJYnJQMzdzNHZ5TGZWVmdWYXQwOTB4cGYyQjE1VXk1RjM1ZTBNU2dCa2EtbWNVMXI1YUhiRW9wbXc?oc=5",
-          "desc": "",
-          "title_en": "Park Gyusung, CEO of Oriental Food Korea, operating 'Coco Shabu S', said, \"We should conquer Seoul now with the success platform of Busan Station.\"",
-          "title_ja": "「Coco Shabu S」を運営するOriental Food Koreaの最高経営責任者（ CEO ）であるPark Gyusung氏は、「今こそ釜山駅の成功プラットフォームでソウルを征服すべきだ」と述べた。",
-          "title_zh": "东方食品韩国首席执行官Park Gyusung经营“Coco Shabu S” ，他说： “我们现在应该以釜山站的成功平台征服首尔。”"
+          "title_ja": "身代金を支払うためのK - foodの計画とノウハウ…海外資本も目を見張るものです",
+          "title_zh": "K-food计划和支付赎金的专业知识……海外资本也让人大开眼界"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "5성급 호텔서 맛보는 K푸드...롯데관광개발, 제주 드림타워 푸드코트 리뉴얼",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZTlqMFhiRjVjVVEySXJOOUlCcDE4RExMME9nd0doVGJONUR2UkhXNHBKVlNkWmszUDJGcWVaTnFDNXZpZmFjMUJRSzlUTlJTTlhtc2Vn?oc=5",
+          "desc": "",
+          "title_en": "Taste K food in a 5-star hotel... Lotte Tourism Development, Jeju Dream Tower Food Court Renewal",
+          "title_ja": "5つ星ホテルでKフードを味わおう…ロッテツーリズム開発、済州ドリームタワーフードコートリニューアル",
+          "title_zh": "在五星级酒店品尝K美食...乐天旅游开发、济州梦幻塔美食广场翻新"
+        },
+        {
           "title": "전시 보고 맛집 가고… 박물관으로 들어온 ‘아트-푸드’ 미식 경험",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qbENFMFdhYmpPT2Y3ZG1qZnlpaTViak9HUldKbzhlYTBmWWlMVjVoTXBhY0ZPcThralIxdFRRcEFBeUlLOVdIcUd0OXVuZjdBSXBCc213?oc=5",
           "desc": "",
           "title_en": "Exhibit, eat, eat… The Art-Food Gourmet Experience at the Museum",
           "title_ja": "展示、食べる、食べる…美術館でアートとグルメのグルメ体験",
-          "title_zh": "参观展览，品尝美食……在博物馆体验「艺术美食」"
-        },
-        {
-          "title": "\"바가지요금 없어요\"… 울산옹기축제 음식값 상한제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hSE84VVN4a1dyLTNuT3ZpeGxGZ0JpaVVvaUtvbkF1eS02bkpzVnZhbHFwaXpXSkstWDRYQnExbENCRF9Fd3hDRE01UmpSbVZONHVDdg?oc=5",
-          "desc": "",
-          "title_en": "\"There is no charge for a bargain\" … Ulsan Onggi Festival upper limit on food prices",
-          "title_ja": "「お買い得品は無料」…ウルサン・オンギ祭りの食料価格上限",
-          "title_zh": "“讨价还价不收费” ……蔚山Onggi节食品价格上限"
+          "title_zh": "展览、美食、美食……博物馆的艺术美食体验"
         },
         {
           "title": "“툭하면 내 음식 손대는 친구, 결국 싸웠네요”...‘한 입만’ 과학적 근거 있다?",
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "반려동물 고령화, 프랑스 건강 사료의 성장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JMlpyNHJmSTUxRk40SUdNamxSNzROWVVhZ2NLZTFBM2RkS1k3aHVCWVZ6bDhKeDNGeEJ0VUlqU1k3V0RaWHdGbW1KZUpQekZwRS1wVlVBZw?oc=5",
+          "title": "“평일 2만원 뷔페”…아워홈 ‘테이크’, 종로서 개장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yWmpCWlEwZ3RkdE9RUW5CWjlGWFlLOXotZnFmZEhjVDUwdnE3aERLMkwtNE42clZnNGlUcllHa21KT1kxTFp4YVVUbGg3VjVoTmhDUVY1OA?oc=5",
           "desc": "",
-          "title_en": "Ageing pets, growing French health feed",
-          "title_ja": "高齢化するペット、成長するフランスのヘルスフィード",
-          "title_zh": "老龄化的宠物，不断增长的法国健康饲料"
+          "title_en": "“20,000 KRW Buffet on Weekdays” … Our Home ‘Take’ Opens as Jongno",
+          "title_ja": "「平日2万ウォンのビュッフェ」…我が家「テイク」が鍾路としてオープン",
+          "title_zh": "「工作日2万韩元自助餐」……我们的房源「Take」以钟路（ Jongno ）开业"
         },
         {
           "title": "베트남 음식배달 시장, 온디맨드 확산",
