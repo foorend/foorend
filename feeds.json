@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-04-29T16:27:45Z",
+  "lastUpdated": "2026-04-29T19:27:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Franchisee sues Jack in the Box, claiming 'millions' in damages",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdktodUZPQjYwV3RCc0pXOWswcUI0VGx3ZTZHQXJEVFd4QkhwdGR6Y1V2b3JGT3I3UGM4aTQ3LXlKN3ZWdkMtS2I5ZTRzUllNS05pWkNiR2JsQUM5NV9vR3o4QlJTRmhwbUcxZ1hqMmlMSExUa21yWXhaZXRkZmhfWksxOFhSNHhlTUIxMEF3OW5YdS1TXzhMYlJjSGY5Zw?oc=5",
-          "desc": "",
-          "title_ko": "프랜차이즈 가맹점주가 잭 인 더 박스 (Jack in the Box) 를 고소하여 '수백만 달러' 의 손해배상을 청구",
-          "title_ja": "フランチャイズ加盟店は、「数百万」の損害賠償を請求して、箱の中のジャックを訴えます",
-          "title_zh": "加盟商起诉Jack in the Box ，要求赔偿“数百万”的损失"
-        },
         {
           "title": "Maybe a sale really would be the best thing for Pizza Hut",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5",
@@ -22,12 +14,20 @@
           "title_zh": "也许销售真的是必胜客的最佳选择"
         },
         {
-          "title": "The Technomic Top 500: Chain restaurant sales slowed again in 2025",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUNtMFlXR2pnV2w0VDcxNU5HTVZ0S3h0bnhIdXZtcGtpTEprVkxNNERHblVkWXNCaUktTW5QSVh0VVNyc3pQVnJBaTg4RGV0VWJpVmN2WWc4ZlVxVml2V0JISWtIUnZKNjY1Q0R3aThwS0tlTmU1Nm9MU1hISVV0V1dZU0x5cTdGSFBJN3pVT0FDYnlIRHBzSEZBWDV4MDdyemFrN1BPU0U?oc=5",
+          "title": "Applebee’s is sued by a franchisee over co-branded restaurants",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzE4WUxRLWZ1ZENuTEU2bmEyaFQxS0x0aWRoU3VjMzFhNkcwczZQUm1wWVVDWDlzU2RRRFhxczd4R2U5MWZWenpULTFjT3VXUDczSGlpenlpTXMwa0E0ZWVkREZ5WGpsMDdMb2ZhX0xYcGhNNzFuUXI0RDVfS3NWNVpTenNsVk16bHFWZ2ZYdTJBcTZncXEyT2hhejM5Y1dEa0gw?oc=5",
           "desc": "",
-          "title_ko": "Technomic Top 500: 2025년 체인 레스토랑 매출이 다시 감소했습니다.",
-          "title_ja": "テクノミックトップ500 ：チェーンレストランの売上高は2025年に再び減速",
-          "title_zh": "Technomic 500强： 2025年连锁餐厅销售再次放缓"
+          "title_ko": "Applebee 's는 공동 브랜드 레스토랑에 대한 프랜차이즈 업체의 소송을 제기합니다.",
+          "title_ja": "Applebee'sは、共同ブランドのレストランをめぐってフランチャイズ加盟店によって訴えられている",
+          "title_zh": "Applebee's因联合品牌餐厅被加盟商起诉"
+        },
+        {
+          "title": "A large Hardee's franchisee declares Chapter 7 bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU9kamVWTkxxcDhnTmxESk1icV9FMlVObXE0dy1BUE9yTFRJZHNPYkhuRGEyM1lyLWtKUjhGb0V0bWlKMXhvc1hWd0tRVXdCdG43M3I5WkFvTjZPdkRpcl9zSWp3ektkYzNsLUIwY1J5T3VoR0ZnbXh1bXpqOXVldFZqczRsNW5iSW80a3FoeUFIUVV1MENFWWJuNFZNSXE1ckRB?oc=5",
+          "desc": "",
+          "title_ko": "대규모 하디스 프랜차이즈 가맹점, 챕터 7 파산 선언",
+          "title_ja": "大規模なハーディーのフランチャイズ加盟店が第7章の破産を宣言",
+          "title_zh": "一家大型Hardee的加盟商宣布第7章破产"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "在「西海日落餐厅」欣赏日落的同时享用美味佳肴"
         },
         {
-          "title": "K푸드 기획력·노하우로 몸값 껑충…해외 자본도 눈독",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTWGNwMENJYkxGY0xyLWozelhNRy1IMFJ3NWJPOUtKNnZOUy1RaEVFdXFYeFhMVXd6VFkzVGwtYnk1NG1ad3NRNm9CV0lLUmFEM3fSAVNBVV95cUxOd3E1MmZvMFlmSGUxWnJxYmhPZHAwRUdpZ01tNTNJSzFjNnctcXFfWnU1U2I0WDlZRE5lVzMxbU9CUDlXWTZVSWNNYzE3bU9LdEdISQ?oc=5",
+          "title": "CJ씨푸드, 9.94% 오르며 체결강도 강세 지속(101%)",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JdEVLVk1CeC1JYTRhVm04WDJsTlRXMWNfQ0haNnV1SHUtelcxaDI2czJQblQtTlp5bGhqWktiNDFZa2RwcF9KQjA2YkZob0RRR0E?oc=5",
           "desc": "",
-          "title_en": "K-food planning skills and know-how to pay the ransom… Overseas capital is also an eye-opener",
-          "title_ja": "身代金を支払うためのK - foodプランニングスキルとノウハウ…海外資本も目を見張るものです",
-          "title_zh": "K-food的规划技巧和支付赎金的诀窍……海外资本也让人大开眼界"
+          "title_en": "CJ Seafood continues strong in fastening strength with a rise of 9.94% (101%)",
+          "title_ja": "CJシーフードは9.94 ％ （ 101 ％ ）の上昇で引き続き強固な締結強度を維持",
+          "title_zh": "CJ Seafood的紧固强度持续强劲，增长了9.94% （ 101% ）"
         }
       ]
     },
@@ -200,7 +200,7 @@
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qbENFMFdhYmpPT2Y3ZG1qZnlpaTViak9HUldKbzhlYTBmWWlMVjVoTXBhY0ZPcThralIxdFRRcEFBeUlLOVdIcUd0OXVuZjdBSXBCc213?oc=5",
           "desc": "",
           "title_en": "Exhibit, eat, eat… The Art-Food Gourmet Experience at the Museum",
-          "title_ja": "展示、食べる、食べる…美術館でアートとグルメのグルメ体験",
+          "title_ja": "展示品を見たり、グルメを食べたり…美術館で「アートフード」のグルメ体験",
           "title_zh": "展览、美食、美食……博物馆的艺术美食体验"
         },
         {
