@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T21:59:01Z",
+  "lastUpdated": "2026-04-30T02:58:18Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "也许销售真的是必胜客的最佳选择"
         },
         {
-          "title": "Applebee’s is sued by a franchisee over co-branded restaurants",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzE4WUxRLWZ1ZENuTEU2bmEyaFQxS0x0aWRoU3VjMzFhNkcwczZQUm1wWVVDWDlzU2RRRFhxczd4R2U5MWZWenpULTFjT3VXUDczSGlpenlpTXMwa0E0ZWVkREZ5WGpsMDdMb2ZhX0xYcGhNNzFuUXI0RDVfS3NWNVpTenNsVk16bHFWZ2ZYdTJBcTZncXEyT2hhejM5Y1dEa0gw?oc=5",
+          "title": "Franchisee sues Jack in the Box, claiming 'millions' in damages",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdktodUZPQjYwV3RCc0pXOWswcUI0VGx3ZTZHQXJEVFd4QkhwdGR6Y1V2b3JGT3I3UGM4aTQ3LXlKN3ZWdkMtS2I5ZTRzUllNS05pWkNiR2JsQUM5NV9vR3o4QlJTRmhwbUcxZ1hqMmlMSExUa21yWXhaZXRkZmhfWksxOFhSNHhlTUIxMEF3OW5YdS1TXzhMYlJjSGY5Zw?oc=5",
           "desc": "",
-          "title_ko": "Applebee 's는 공동 브랜드 레스토랑에 대한 프랜차이즈 업체의 소송을 제기합니다.",
-          "title_ja": "Applebee'sは、共同ブランドのレストランをめぐってフランチャイズ加盟店によって訴えられている",
-          "title_zh": "Applebee's因联合品牌餐厅被加盟商起诉"
+          "title_ko": "프랜차이즈 가맹점주가 잭 인 더 박스 (Jack in the Box) 를 고소하여 '수백만 달러' 의 손해배상을 청구",
+          "title_ja": "フランチャイズ加盟店は、「数百万」の損害賠償を請求して、箱の中のジャックを訴えます",
+          "title_zh": "加盟商起诉Jack in the Box ，要求赔偿“数百万”的损失"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "낡은 대기업집단 규제로 K뷰티·푸드까지 발목잡나",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5reWQtM3pQVENYeEhNZ0VZMlRXcVFwM0Y1WXJCdGVhejNfR1d0T01rQWIxbV9EUXZZTjBqSFlueDRtMEtPUjJ0QzFZMEtSWVViMXB3Y3pIbWtXUdIBVEFVX3lxTE9leDllTERlUDRaT3JuR05JRXJKMHl3TG9BWG9mVlFvTzVUenJyengzNDNzeTdfNFNGYjg0OHJBS0hzcDY0UGFKdWtaMGJHcTZmZVFzYw?oc=5",
+          "desc": "",
+          "title_en": "I even caught up with K-beauty and food due to the regulation of the old large corporate group",
+          "title_ja": "古い大企業グループの規制により、Kビューティーや食べ物にも追いついた",
+          "title_zh": "由于旧集团集团的监管，我甚至赶上了韩国美容和美食"
+        },
+        {
           "title": "아워홈, 뷔페 브랜드 '테이크' 첫 선…글로벌 푸드 마켓 콘셉트",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZm12MHQ5eVByWjhiUXhLYmFJamt5MFNXT2pNYkFzSzBTWTRHWURQZDFIWjNWRzFyU3hSUThJN0xRdk9VVllTY2ZSTXpTTUVoTURlUG9GOXVMd9IBVEFVX3lxTFBfSVZwLTI5ZUItV0t2dEY1aXBkdC13YlJhNWNGRXljNjlhUUxUUDNJbnF6WVVRdVh2YTlaaDBRQjFDS3l4OVdRci1ERXloOHFqZTVHbg?oc=5",
           "desc": "",
           "title_en": "Our Home Selects First Buffet Brand 'Take' … Global Food Market Concept",
           "title_ja": "私たちのホームは、最初のビュッフェブランド「Take」を選択します…グローバル食品市場のコンセプト",
           "title_zh": "我们的家选择了第一个自助餐品牌“Take” ……全球食品市场概念"
-        },
-        {
-          "title": "낡은 대기업집단 규제로 K뷰티·푸드까지 발목잡나",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5reWQtM3pQVENYeEhNZ0VZMlRXcVFwM0Y1WXJCdGVhejNfR1d0T01rQWIxbV9EUXZZTjBqSFlueDRtMEtPUjJ0QzFZMEtSWVViMXB3Y3pIbWtXUdIBVEFVX3lxTE9leDllTERlUDRaT3JuR05JRXJKMHl3TG9BWG9mVlFvTzVUenJyengzNDNzeTdfNFNGYjg0OHJBS0hzcDY0UGFKdWtaMGJHcTZmZVFzYw?oc=5",
-          "desc": "",
-          "title_en": "I even caught up with K-beauty and food due to the regulation of the old large corporate group",
-          "title_ja": "古い大企業グループの規制により、Kビューティーや食べ物にも追いついた",
-          "title_zh": "由于旧的大公司集团的监管，我甚至赶上了韩国美容和美食"
         },
         {
           "title": "'불닭면' 못지않네…해외서 5800억 쓸어 담은 'K푸드' 정체",
@@ -159,10 +159,10 @@
       "items": [
         {
           "title": "K뷰티 넘어 K푸드도 품는다...실리콘투, 중동 외식 브랜드 ‘88서울’ 인수",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ONWZNYTRnSWQ3czdJajU3RUpwOS1wTHJYbGNXRVNaUUMyLTB3elhFRmZsYlRrM3dQLWFhVjZ1QUc3Vnh2ajVrejJQMXR6anNpc2xR0gFTQVVfeXFMTU41Zk1hNGdJZDdzN0lqNTdFSnA5LXBMclhsY1dFU1pRQzItMHd6WEVGZmxiVGszd1AtYWFWNnVBRzdWeHZqNWt6MlAxdHpqc2lzbFE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tZ1ZuLVRPS2Z4WGhNWHRNOEpMMGRlODlpWmIzTm5sX2l6anRyX2wxMzQ2T1MxZUYybEwybVA4WmpxQmZkNnpkRWpmMkNCeFR4YXfSAVNBVV95cUxNTjVmTWE0Z0lkN3M3SWo1N0VKcDktcExyWGxjV0VTWlFDMi0wd3pYRUZmbGJUazN3UC1hYVY2dUFHN1Z4dmo1a3oyUDF0empzaXNsUQ?oc=5",
           "desc": "",
           "title_en": "Beyond K-beauty, K-food is also embraced... Silicone Two Acquires Middle Eastern Dining Brand ‘88 Seoul’",
-          "title_ja": "Kビューティーを超えて、Kフードも受け入れています...シリコーンツーが中東ダイニングブランド「88ソウル」を買収",
+          "title_ja": "Kビューティーを超えて、Kフードも受け入れています...シリコンツーが中東ダイニングブランド「88ソウル」を買収",
           "title_zh": "除了K-beauty ， K-food也受到欢迎…… Silicone Two收购中东餐饮品牌“88 Seoul”"
         },
         {
@@ -174,12 +174,12 @@
           "title_zh": "在「西海日落餐厅」欣赏日落的同时享用美味佳肴"
         },
         {
-          "title": "영세 수공예품의 재발견…K팝·K푸드 입고 글로벌 소비자 홀린다 [스타트업 스트리트]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90NVNXd2VQY3U1SlpKMzlYUC1lZUZPbzdQNjhUcUNsLTZkekw2R05FVjhFQzFHNk9jLWdLd05wdG53LS04YWdpQk5ITUZYcjY3ZkHSAVNBVV95cUxPd2xDNFJzclQybXNxbjVLdGk1VkVBLTlkN1d4WFcxZjJMOUdxSkNMeDc1VnFIU0owMEtGVXdLaHduazBKOTg3MFFDQ3NGckhPUzNxNA?oc=5",
+          "title": "아워홈, 디톡스 푸드 캠페인",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OVE42TlhiVWxNN3ZfZFA0WHJCMjRDcHNNQ1AydHBUOWZiODAtNGpjeEZIcXVGbFpUSnhBcjBpMlpRSDQ1LWpwcEVYZmVxVm9zUmFV?oc=5",
           "desc": "",
-          "title_en": "Rediscovering small-scale handicrafts… Global consumers wearing K-pop and K-food [Startup Street]",
-          "title_ja": "小規模な手工芸品の再発見… K - POPとK - FOODを身に着けている世界中の消費者[Startup Street]",
-          "title_zh": "重新发现小规模手工艺品……穿着K-pop和K-food的全球消费者[Startup Street]"
+          "title_en": "Hourhome, Detox Food Campaign",
+          "title_ja": "アワーホーム、デトックスフードキャンペーン",
+          "title_zh": "Hourhome ，排毒美食活动"
         }
       ]
     },
@@ -196,12 +196,12 @@
           "title_zh": "在五星级酒店品尝K美食...乐天旅游开发、济州梦幻塔美食广场翻新"
         },
         {
-          "title": "전시 보고 맛집 가고… 박물관으로 들어온 ‘아트-푸드’ 미식 경험",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qbENFMFdhYmpPT2Y3ZG1qZnlpaTViak9HUldKbzhlYTBmWWlMVjVoTXBhY0ZPcThralIxdFRRcEFBeUlLOVdIcUd0OXVuZjdBSXBCc213?oc=5",
+          "title": "\"바가지요금 없어요\"… 울산옹기축제 음식값 상한제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hSE84VVN4a1dyLTNuT3ZpeGxGZ0JpaVVvaUtvbkF1eS02bkpzVnZhbHFwaXpXSkstWDRYQnExbENCRF9Fd3hDRE01UmpSbVZONHVDdg?oc=5",
           "desc": "",
-          "title_en": "Exhibit, eat, eat… The Art-Food Gourmet Experience at the Museum",
-          "title_ja": "展示、食べる、食べる…美術館でアートとグルメのグルメ体験",
-          "title_zh": "展览、美食、美食……博物馆的艺术美食体验"
+          "title_en": "\"There is no charge for a bargain\" … Ulsan Onggi Festival upper limit on food prices",
+          "title_ja": "「お買い得品は無料」…ウルサン・オンギ祭りの食料価格上限",
+          "title_zh": "“讨价还价不收费” ……蔚山Onggi节食品价格上限"
         },
         {
           "title": "“툭하면 내 음식 손대는 친구, 결국 싸웠네요”...‘한 입만’ 과학적 근거 있다?",
