@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T02:58:18Z",
+  "lastUpdated": "2026-04-30T06:09:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -131,9 +131,9 @@
           "title": "낡은 대기업집단 규제로 K뷰티·푸드까지 발목잡나",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5reWQtM3pQVENYeEhNZ0VZMlRXcVFwM0Y1WXJCdGVhejNfR1d0T01rQWIxbV9EUXZZTjBqSFlueDRtMEtPUjJ0QzFZMEtSWVViMXB3Y3pIbWtXUdIBVEFVX3lxTE9leDllTERlUDRaT3JuR05JRXJKMHl3TG9BWG9mVlFvTzVUenJyengzNDNzeTdfNFNGYjg0OHJBS0hzcDY0UGFKdWtaMGJHcTZmZVFzYw?oc=5",
           "desc": "",
-          "title_en": "I even caught up with K-beauty and food due to the regulation of the old large corporate group",
+          "title_en": "I even caught up with K-beauty and food due to the regulation of the old conglomerate group",
           "title_ja": "古い大企業グループの規制により、Kビューティーや食べ物にも追いついた",
-          "title_zh": "由于旧集团集团的监管，我甚至赶上了韩国美容和美食"
+          "title_zh": "由于旧的大公司集团的监管，我甚至赶上了韩国美容和美食"
         },
         {
           "title": "아워홈, 뷔페 브랜드 '테이크' 첫 선…글로벌 푸드 마켓 콘셉트",
@@ -226,20 +226,20 @@
           "title_zh": "「工作日2万韩元自助餐」……我们的房源「Take」以钟路（ Jongno ）开业"
         },
         {
+          "title": "베트남 음식배달 시장, 온디맨드 확산",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53VHAxMTlsU1FKcmpHSWJmYUs5b1VVZ2tka0RtTWlVRWRvVUhqOUFLQ2tJbFBDMUQzcjAxNjVEa1dyTHQxVno5XzNERzdlNHRmeFpRVWc1OA?oc=5",
+          "desc": "",
+          "title_en": "Vietnamese food delivery market spreads on-demand",
+          "title_ja": "ベトナムのフードデリバリー市場がオンデマンドで拡大",
+          "title_zh": "越南送餐市场按需扩张"
+        },
+        {
           "title": "트레이더 조 ‘비빔국수’, 제2의 냉동 김밥 될까?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAydFhpSGMwSjF2SUx4OG9VRWNhWmMxTFB3Sl9Ud2pSM0VJMXQ5RTRXczNLNV9tZG5sYTg3UjVDajM2ekFBb3pNUlBWYWhDX1A5YUtwNWtWWQ?oc=5",
           "desc": "",
           "title_en": "Will Trader Joe ‘Bibim Noodles’ become the second frozen gimbap?",
           "title_ja": "トレーダージョー「ビビムヌードル」は2番目の冷凍ジンバップになりますか？",
           "title_zh": "Trader Joe ‘Bibim Noodles‘会不会成为第二个冷冻gimbap ？"
-        },
-        {
-          "title": "“디카페인 커피, 치매 예방 효과 불분명”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyM2NCbE9DOGhMb2hUZnFNZWdoelQ2d2JUMlNjaFJEY1dsX3pNYXBqU055OGNya0dvMk5Ock5mNm1YR3diREItYmdTWEEzdFAzRDc1NTVQOA?oc=5",
-          "desc": "",
-          "title_en": "“Decaffeinated coffee, dementia prevention effects unclear”",
-          "title_ja": "「カフェイン抜きコーヒー、認知症予防効果不明」",
-          "title_zh": "“不含咖啡因的咖啡，预防痴呆的效果尚不清楚”"
         }
       ]
     }
