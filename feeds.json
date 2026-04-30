@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T13:57:41Z",
+  "lastUpdated": "2026-04-30T16:19:55Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Get an Insider’s Look at ‘Eaterland,’ Eater’s Newest Cookbook",
+          "link": "https://www.eater.com/eater-at-home/954712/get-an-insiders-look-at-eaterland-eaters-newest-cookbook",
+          "desc": "Eater has a new cookbook. Eaterland, Recipes and Stories from Across the United States, debuting April 28. To celebrate launch week, we’re sharing a s",
+          "title_ko": "인사이더스 룩 (Insider‘s Look) - 이터랜드 (Eaterland), 이터랜드의 최신 요리책",
+          "title_ja": "食通の最新クックブック「Eaterland」をインサイダー向けにチェックしよう",
+          "title_zh": "深入了解顾客的最新烹饪书《Eaterland》"
+        },
+        {
           "title": "Why This Famous Philly Bakery Is Lowering Its Prices",
           "link": "https://www.eater.com/dining-out/958924/philadelphia-bakery-termini-bros-lowering-prices",
           "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
@@ -110,14 +118,6 @@
           "title_ko": "현지 전문가가 선정한 도쿄 최고의 레스토랑 38곳",
           "title_ja": "現地エキスパートによる東京のおすすめレストラン38選",
           "title_zh": "据当地专家介绍，东京最好的38家餐厅"
-        },
-        {
-          "title": "The 38 Best Restaurants in Barcelona, According to a Local Food Guide",
-          "link": "https://www.eater.com/maps/best-restaurants-barcelona-spain",
-          "desc": "From Barcelona’s towering churches and bustling avenues to the sun-drenched beaches and idyllic plazas, it’s obvious why this city captures visitors’ ",
-          "title_ko": "현지 음식 가이드가 선정한 바르셀로나 최고의 레스토랑 38곳",
-          "title_ja": "地元のグルメガイドがおすすめするバルセロナのレストラン38選",
-          "title_zh": "当地美食向导评选的巴塞罗那38家最佳餐厅"
         }
       ]
     }
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "푸드케어클레, ' 2026 브랜드 고객충성도 대상' 이유식 부문 수상",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zdHNPUGh2UjNXM2NiSTBjRGlQbVVTb3ZvWGlwYkZISmJqbndjM052a3oxZjBKZXpTYXM1bGNZdGFoODZlTDl5VlJySHBTY3N6YWM5NDg5NlR2QdIBVEFVX3lxTFAzVVdzYUREQ0VmVlJTV3FUc0kxNVU1TE5nTHlfZ2Z5OWJfajlvX182LXMtZng3Y1lLVnYwU1REX2pwUWxRSkhkaEp6MDdKcXpJbXItaQ?oc=5",
+          "desc": "",
+          "title_en": "Food Care Claire Wins' 2026 Brand Loyalty Award 'for Baby Food",
+          "title_ja": "Food Care Claireがベビーフードで「2026 Brand Loyalty Award」を受賞",
+          "title_zh": "Food Care Claire荣获婴儿食品“2026年品牌忠诚度奖”"
+        },
+        {
+          "title": "캐츠랑, ' 2026 브랜드 고객충성도 대상' 펫푸드(반려묘건식사료) 부문 수상",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRXBRckY0Yi13dFNia205YmhyQm1xSGgyLUw3SGMzaEZjNkFYR1VVbXBMSzd1T1lKMEF3SWpENEV6N2ZSSFJRdmJhR3FWcll4X2l3QU1MYlNWZ9IBVEFVX3lxTE9XbkszM0RqTllsS09qSVktUUc4ZTNIY1VYaGI4Z2xBLVFNRF9CTG5KVnlFM2J1UXRFVkxuWHdtLW53d3Q1TXk0T0Vwa3Aza3Rmejdscg?oc=5",
+          "desc": "",
+          "title_en": "Katz Lang Wins' 2026 Brand Loyalty Award 'for Pet Food (Dry Food for Cats)",
+          "title_ja": "Katz Langがペットフード（猫用ドライフード）の「2026 Brand Loyalty Award」を受賞",
+          "title_zh": "Katz Lang荣获宠物食品（猫用干粮） “2026年品牌忠诚度奖”"
+        },
+        {
           "title": "낡은 대기업집단 규제로 K뷰티·푸드까지 발목잡나",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5reWQtM3pQVENYeEhNZ0VZMlRXcVFwM0Y1WXJCdGVhejNfR1d0T01rQWIxbV9EUXZZTjBqSFlueDRtMEtPUjJ0QzFZMEtSWVViMXB3Y3pIbWtXUdIBVEFVX3lxTE9leDllTERlUDRaT3JuR05JRXJKMHl3TG9BWG9mVlFvTzVUenJyengzNDNzeTdfNFNGYjg0OHJBS0hzcDY0UGFKdWtaMGJHcTZmZVFzYw?oc=5",
           "desc": "",
-          "title_en": "I even caught up with K-beauty and food due to the regulation of the old large corporate group",
+          "title_en": "I even caught up with K-beauty and food due to the regulation of the old conglomerate group",
           "title_ja": "古い大企業グループの規制により、Kビューティーや食べ物にも追いついた",
           "title_zh": "由于旧的大公司集团的监管，我甚至赶上了韩国美容和美食"
-        },
-        {
-          "title": "아워홈, 뷔페 브랜드 '테이크' 첫 선…글로벌 푸드 마켓 콘셉트",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZm12MHQ5eVByWjhiUXhLYmFJamt5MFNXT2pNYkFzSzBTWTRHWURQZDFIWjNWRzFyU3hSUThJN0xRdk9VVllTY2ZSTXpTTUVoTURlUG9GOXVMd9IBVEFVX3lxTFBfSVZwLTI5ZUItV0t2dEY1aXBkdC13YlJhNWNGRXljNjlhUUxUUDNJbnF6WVVRdVh2YTlaaDBRQjFDS3l4OVdRci1ERXloOHFqZTVHbg?oc=5",
-          "desc": "",
-          "title_en": "Our Home Selects First Buffet Brand 'Take' … Global Food Market Concept",
-          "title_ja": "私たちのホームは、最初のビュッフェブランド「Take」を選択します…グローバル食品市場のコンセプト",
-          "title_zh": "我们的家选择了第一个自助餐品牌“Take” ……全球食品市场概念"
-        },
-        {
-          "title": "'불닭면' 못지않네…해외서 5800억 쓸어 담은 'K푸드' 정체",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BcjFYOEZNaUJuOWR4VzJrOGtZRmVIV0k1NEpzeG81YXdFOXluWkNKRWZONkszNllxd1lpMnZDN014eTJsRFZpWmhSMzlYZkFaN2dZV2pEcm8tQdIBVEFVX3lxTE1ES3VSeGNrVl9EYS1GLUdmdTRJemlrYktOajl3NHFHQ3drN1J4bl9WSFZjTXl2SmhHTlVBSnpWUFAxM0FxdUQyLThLbFBTSk1tWVdiYw?oc=5",
-          "desc": "",
-          "title_en": "It's no better than 'Bulgyeok-myeon'... 'K Food' that swept 5800 billion overseas",
-          "title_ja": "「Bulgyeok - myeon」に勝るものはありません...海外で5800億を席巻した「K Food」",
-          "title_zh": "它不比“Bulgyeok-myeon”好...... “K Food”在海外席卷了5800亿美元"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84TzdBS29oMFg2YzNHYnhrUUNkZTByYXFtQ2xUQnNiemN2bkpPM0RpdmY3TlNHRDU0RG5wUWI1bjItdi0zbXBuWklVVE1PTGF5Mzg40gFTQVVfeXFMTzhPN0FLb2gwWDZjM0dieGtRQ2RlMHJhcW1DbFRCc2J6Y3ZuSk8zRGl2ZjdOU0dENTREbnBRYjVuMi12LTNtcG5aSVVUTU9MYXkzODg?oc=5",
+          "title": "K뷰티 넘어 K푸드도 품는다...실리콘투, 중동 외식 브랜드 ‘88서울’ 인수",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tZ1ZuLVRPS2Z4WGhNWHRNOEpMMGRlODlpWmIzTm5sX2l6anRyX2wxMzQ2T1MxZUYybEwybVA4WmpxQmZkNnpkRWpmMkNCeFR4YXfSAVNBVV95cUxNTjVmTWE0Z0lkN3M3SWo1N0VKcDktcExyWGxjV0VTWlFDMi0wd3pYRUZmbGJUazN3UC1hYVY2dUFHN1Z4dmo1a3oyUDF0empzaXNsUQ?oc=5",
           "desc": "",
-          "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
-          "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
-          "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
+          "title_en": "Beyond K-beauty, K-food is also embraced... Silicone Two Acquires Middle Eastern Dining Brand ‘88 Seoul’",
+          "title_ja": "Kビューティーを超えて、Kフードも受け入れています...シリコンツーが中東ダイニングブランド「88ソウル」を買収",
+          "title_zh": "除了K-beauty ， K-food也受到欢迎…… Silicone Two收购中东餐饮品牌“88 Seoul”"
         },
         {
-          "title": "윙입푸드, 매도잔량 454% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHcFc5cGpYeXBZbERCYV9mSFZuc0Z2V0l5bzQwcUloTE9ReDFPSlBPMGRDYU16RlQ1XzhYQzdsOXQ3d3dsbjlhSkwyS0N2WXlaZUpv?oc=5",
+          "title": "‘서해선셋다이닝’서 노을보며 맛있는 음식도 즐겨보세요",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FTmRnUFNNZ0MxM0NWbk9EY2tkSGNYcGFUdUlKS21xQ3hMOThQanJMSmhiNGF6SGNfRE9qa2VoNFk5Q0Y3OHVEWS1jRWJyV3ZjWEI00gFTQVVfeXFMTkVOZGdQU01nQzEzQ1ZuT0Rja2RIY1hwYVR1SUpLbXFDeEw5OFBqckxKaGI0YXpIY19ET2prZWg0WTlDRjc4dURZLWNFYnJXdmNYQjQ?oc=5",
           "desc": "",
-          "title_en": "Wing Yip Food sells 454% more",
-          "title_ja": "ウィングイップフードの売り上げが454%アップ",
-          "title_zh": "永业食品销量提升454%"
+          "title_en": "Enjoy delicious food while watching the sunset from ’Seohae Sunset Dining'",
+          "title_ja": "「西海夕焼けダイニング」から夕日を眺めながら美味しい料理を楽しもう",
+          "title_zh": "在「西海日落餐厅」欣赏日落的同时享用美味佳肴"
         },
         {
-          "title": "윙입푸드, 전일 대비 7.72% 상승.. 일일회전율은 8.70% 기록",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WR19RZ2pnallVUV9jYzFZVkwxYjEtWTZuamFycEY5N3dSVVkwRGp5b3o2b0w0c01MemItc2JBeERTTFFfNHNJdnZFTkRLVjQyWGZr?oc=5",
+          "title": "아워홈, 디톡스 푸드 캠페인",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OVE42TlhiVWxNN3ZfZFA0WHJCMjRDcHNNQ1AydHBUOWZiODAtNGpjeEZIcXVGbFpUSnhBcjBpMlpRSDQ1LWpwcEVYZmVxVm9zUmFV?oc=5",
           "desc": "",
-          "title_en": "Wing Yip Food, up 7.72% from the previous day.. Daily turnover recorded 8.70%",
-          "title_ja": "ウィングイップフード、前日比7.72 ％増…日々の売上高は8.70 ％",
-          "title_zh": "永业食品，同比增长7.72% ，日营业额8.70%"
+          "title_en": "Hourhome, Detox Food Campaign",
+          "title_ja": "アワーホーム、デトックスフードキャンペーン",
+          "title_zh": "Hourhome ，排毒美食活动"
         }
       ]
     },
@@ -230,8 +230,8 @@
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
           "desc": "",
           "title_en": "Watermelon season returning… Dung Dabang, 100% Domestic ‘Woori Watermelon Juice’",
-          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
-          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%韩国「Woori西瓜汁」"
+          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、韓国の100 ％「ウーリスイカジュース」",
+          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
         },
         {
           "title": "베트남 음식배달 시장, 온디맨드 확산",
