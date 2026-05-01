@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-05-01T03:30:33Z",
+  "lastUpdated": "2026-05-01T08:12:28Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Sysco CEO: 'We will absolutely not be raising prices at Restaurant Depot'",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUk5DeDN6c2Z6cnRlZm5ReHBSQnBjRjhkOEp3aWhsYk9ZdXg2Qi1pTnVEb2lQb1JTZUlUbnJDaVV1Wlk5OVF3aGxUaTVLZG56a3kwVzd3SUpQZDFWQjVxTS1LRlhzQkE3M1I2SHJLcGJuNXowUnNKUGJmdzRYVkFxVUlxMDFkSEtoZGx3SDEtS2NhUWRJQTZObjhGcW9XWk5BYXFwNzZ3Y1JCUkE5WlozWnI3OGI?oc=5",
+          "desc": "",
+          "title_ko": "Sysco CEO: '우리는 Restaurant Depot에서 가격을 인상하지 않을 것입니다'",
+          "title_ja": "シスコ最高経営責任者（ CEO ） ：「レストラン・デポでの価格引き上げは絶対に行わない」",
+          "title_zh": "Sysco首席执行官： “我们绝对不会提高Restaurant Depot的价格”"
+        },
         {
           "title": "Multiple buyers emerge for Fat Brands, as Smokey Bones shuts down",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWdrNjV5RVVjcERrRUdyeC1wUTZobnNnX1VlOVJGNWQ3cHdqRExNU2hmdkFaOEJMLVdqWTRVZzljcmlyNzZNcGdIMlpxVHZmTjJFdXFSN1JpUnZFWFlmUFd6MVZobDhFMzd6NVQzMzRUSlZFN1NBZmlKSDdZcFVjeVBQUmhIQkFybDZSUVcxbnlKaXZNS2hGTUhoNzY1dHF0TW5zQlczNA?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "KFC 미국 동일 매장 매출이 Yum Brands의 수익 보고서에서 사라짐",
           "title_ja": "KFC米国店舗売上高がYum Brandsの収益報告書から消える",
           "title_zh": "肯德基美国同店销售额从百胜品牌收益报告中消失"
-        },
-        {
-          "title": "Domino’s CEO: ‘Bring it on’ to competitors’ promotional activity",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDhKQnUtci1hOExZVWcxTGJOQ0VJdjdIMG1UVVJLREV3MTNvZmp3YzdpOEZkbFl4S3hxTHB4aGhvZ3dFOC1JcXQ4MHgyaGNnTk5ZQTlnQU1BcGZONF90dWRpV2J6SjRGblZGaWhPb1JCNTd0NDRsaU01MjZBbFA1RE13T1JJMWtJamZNRmxLWENtaUJOd20xcDVvMXNMcHJzV0E?oc=5",
-          "desc": "",
-          "title_ko": "Domino의 CEO: 경쟁사의 홍보 활동에 ’적극 참여’",
-          "title_ja": "ドミノのCEO ：競合他社のプロモーション活動に「それをもたらす」",
-          "title_zh": "多米诺首席执行官： “将其带入”竞争对手的促销活动"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
         },
         {
+          "title": "현대그린푸드, 매도잔량 345% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ta3hJMEM5cUkxT25uZEFZRmpmN2pZb3lJNWZVRmpQSk9oVnFDYVFlUXFieF9BV3g2emxUel9fNnFheGdvZHBTakdwb29SV0M4UHBZ?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food sells 345% more",
+          "title_ja": "Hyundai Green Foodの販売台数が345%増加",
+          "title_zh": "现代绿色食品销售额增长345%"
+        },
+        {
           "title": "[뉴스터치]내달 7~9일 '인천음식문화박람회'",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14clIyU3VQS0dnMk1OeEt3NnRreWlfV2o3VGdScDhIdW1CUWpLMTZRYlRFWmhzQzM0cnBNTU95NnpORUw2YmJkN2RvdllON3dWMHU0?oc=5",
           "desc": "",
           "title_en": "[NewsTouch] Next Month 7th ~ 9th 'Incheon Food Culture Fair'",
           "title_ja": "【NewsTouch】来月7日～ 9日「仁川食文化フェア」",
           "title_zh": "[NewsTouch]下个月第7 ~ 9届“仁川美食文化博览会”"
-        },
-        {
-          "title": "K뷰티 넘어 K푸드도 품는다...실리콘투, 중동 외식 브랜드 ‘88서울’ 인수",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tZ1ZuLVRPS2Z4WGhNWHRNOEpMMGRlODlpWmIzTm5sX2l6anRyX2wxMzQ2T1MxZUYybEwybVA4WmpxQmZkNnpkRWpmMkNCeFR4YXfSAVNBVV95cUxNTjVmTWE0Z0lkN3M3SWo1N0VKcDktcExyWGxjV0VTWlFDMi0wd3pYRUZmbGJUazN3UC1hYVY2dUFHN1Z4dmo1a3oyUDF0empzaXNsUQ?oc=5",
-          "desc": "",
-          "title_en": "Beyond K-beauty, K-food is also embraced... Silicone Two Acquires Middle Eastern Dining Brand ‘88 Seoul’",
-          "title_ja": "Kビューティーを超えて、Kフードも受け入れています...シリコンツーが中東ダイニングブランド「88ソウル」を買収",
-          "title_zh": "除了K-beauty ， K-food也受到欢迎…… Silicone Two收购中东餐饮品牌“88 Seoul”"
         }
       ]
     },
@@ -196,12 +196,12 @@
           "title_zh": "在五星级酒店品尝K美食...乐天旅游开发、济州梦幻塔美食广场翻新"
         },
         {
-          "title": "\"바가지요금 없어요\"… 울산옹기축제 음식값 상한제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hSE84VVN4a1dyLTNuT3ZpeGxGZ0JpaVVvaUtvbkF1eS02bkpzVnZhbHFwaXpXSkstWDRYQnExbENCRF9Fd3hDRE01UmpSbVZONHVDdg?oc=5",
+          "title": "‘그래놀라 열풍 선도자’ 인크레더블, ESG 푸드테크로 ‘건강·환경’ 정조준",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBITGVRWnpzS3M1MHVDMnZfMlNnR3N1QXlSZnVGc19qT05LSTE3QWtPN1VnS0RaWEJmdUxHbmNQTUs5SVlCZGxZTUFneUFHN242VEtkMG1n?oc=5",
           "desc": "",
-          "title_en": "\"There is no charge for a bargain\" … Ulsan Onggi Festival upper limit on food prices",
-          "title_ja": "「お買い得品は無料」…ウルサン・オンギ祭りの食料価格上限",
-          "title_zh": "“讨价还价不收费” ……蔚山Onggi节食品价格上限"
+          "title_en": "‘Granola Craze Leader’ Incredible Aimed at ‘Health and Environment‘ with ESG Food Tech",
+          "title_ja": "ESGフードテックで「健康と環境」を目指す「グラノーラ・クレイズ・リーダー」",
+          "title_zh": "ESG Food Tech的“Granola Craze Leader”令人难以置信地瞄准“健康与环境”"
         },
         {
           "title": "화장품 회사가 떡볶이·치킨을?...실리콘투의 수상한 외식업 사냥",
