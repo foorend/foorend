@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T13:20:45Z",
+  "lastUpdated": "2026-05-01T15:58:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "随着Smokey Bones的关闭， Fat Brands出现了多个买家"
         },
         {
-          "title": "KFC U.S. same-store sales disappear from Yum Brands’ earnings report",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEphdGFKYWZybEpWMGZDdXpRcUhWUUgyUDByRXB0MUpoYkdwV2tWWnNGTnNPZ3BRbTZFclpaQk9MdC12ODJSbFFKSVVuTFJnNGJPNTkzWWlvdnUyMHN0VjlNcGp4ei1qWnFHeHE3cklTSjBLT2pkSGJTZmR3a25NdkxCUlN2LUlUeDhlZUR1RFBXd1RZSFljdzAzQWFsdEpFT1JwZ25LR1Z4SGc?oc=5",
+          "title": "Maybe a sale really would be the best thing for Pizza Hut",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5",
           "desc": "",
-          "title_ko": "KFC 미국 동일 매장 매출이 Yum Brands의 수익 보고서에서 사라짐",
-          "title_ja": "KFC米国店舗売上高がYum Brandsの収益報告書から消える",
-          "title_zh": "肯德基美国同店销售额从百胜品牌收益报告中消失"
+          "title_ko": "어쩌면 세일은 정말 피자헛에게 가장 좋은 것일지도 모릅니다.",
+          "title_ja": "たぶん、セールは本当にピザハットにとって最高のものになるでしょう",
+          "title_zh": "也许销售真的是必胜客的最佳选择"
         }
       ]
     },
@@ -86,7 +86,7 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
           "desc": "",
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "食べるものすべての真のエネルギー価格への露出",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
@@ -166,20 +166,20 @@
           "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
         },
         {
-          "title": "CJ씨푸드, 4.91% 오르며 체결강도 강세로 반전(130%)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56WnhTRjhaU195clpWVVJtQ0hSdm5haGRraHBVQ0ZRVzhhcWk1UnZmTXoxdm1RaUoyN1VoWDhPY21La0MwN1BjMVd2TFl2OGV6anFB?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood reverses strong fastening strength with a rise of 4.91% (130%)",
-          "title_ja": "CJシーフードは4.91 ％ （ 130 ％ ）の上昇で強固な締結強度を逆転",
-          "title_zh": "CJ Seafood扭转了强大的紧固强度，上升了4.91% （ 130% ）"
-        },
-        {
           "title": "[뉴스터치]내달 7~9일 '인천음식문화박람회'",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14clIyU3VQS0dnMk1OeEt3NnRreWlfV2o3VGdScDhIdW1CUWpLMTZRYlRFWmhzQzM0cnBNTU95NnpORUw2YmJkN2RvdllON3dWMHU0?oc=5",
           "desc": "",
           "title_en": "[NewsTouch] Next Month 7th ~ 9th 'Incheon Food Culture Fair'",
           "title_ja": "【NewsTouch】来月7日～ 9日「仁川食文化フェア」",
           "title_zh": "[NewsTouch]下个月第7 ~ 9届“仁川美食文化博览会”"
+        },
+        {
+          "title": "아워홈, 디톡스 푸드 캠페인",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OVE42TlhiVWxNN3ZfZFA0WHJCMjRDcHNNQ1AydHBUOWZiODAtNGpjeEZIcXVGbFpUSnhBcjBpMlpRSDQ1LWpwcEVYZmVxVm9zUmFV?oc=5",
+          "desc": "",
+          "title_en": "Hourhome, Detox Food Campaign",
+          "title_ja": "アワーホーム、デトックスフードキャンペーン",
+          "title_zh": "Hourhome ，排毒美食活动"
         }
       ]
     },
