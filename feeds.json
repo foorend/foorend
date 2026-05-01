@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T10:23:22Z",
+  "lastUpdated": "2026-05-01T13:20:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "한화충청지역봉사단, 다문화가정 설날음식 경연대회 개최",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fWURtV2E0S3hWbkg0MzB5cXJ3YlJ4R29mQjNZckFHR1VEaG13ODZvbHNlTjNNcEw0bVBzTHVRSThybkt1aTVnY25ZRTVFQmpnbDI00gFTQVVfeXFMTl9ZRG1XYTRLeFZuSDQzMHlxcndiUnhHb2ZCM1lyQUdHVURobXc4Nm9sc2VOM01wTDRtUHNMdVFJOHJuS3VpNWdjbllFNUVCamdsMjQ?oc=5",
-          "desc": "",
-          "title_en": "Hanwha Chungcheong Area Volunteers Held Multicultural Family Lunar New Year Food Contest",
-          "title_ja": "ハンファ忠清地区のボランティアが多文化家族の旧正月の食べ物コンテストを開催",
-          "title_zh": "韩华忠清地区志愿者举办多元文化家庭农历新年美食大赛"
-        },
-        {
-          "title": "해마로푸드서비스, 3.19% 오르며 체결강도 강세 지속(298%)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91UGJ4bkp0NnpYWmRmeDIyYlFqdWZmUHZHWkVBTVNVdWZfTVktSll5enJKbm02Qk9Qd052LWloOHZRSGtUamgwVWM0bjFuR2tzWTBB?oc=5",
-          "desc": "",
-          "title_en": "Hippopotamus Food Service Gains 3.19% and Strong Clamping Strength Continues (298%)",
-          "title_ja": "カバのフードサービスが3.19 ％増加し、強力なクランプ力が継続（ 298 ％ ）",
-          "title_zh": "河马餐饮服务增长3.19% ，强劲的夹紧力持续（ 298% ）"
-        },
-        {
           "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84TzdBS29oMFg2YzNHYnhrUUNkZTByYXFtQ2xUQnNiemN2bkpPM0RpdmY3TlNHRDU0RG5wUWI1bjItdi0zbXBuWklVVE1PTGF5Mzg40gFTQVVfeXFMTzhPN0FLb2gwWDZjM0dieGtRQ2RlMHJhcW1DbFRCc2J6Y3ZuSk8zRGl2ZjdOU0dENTREbnBRYjVuMi12LTNtcG5aSVVUTU9MYXkzODg?oc=5",
           "desc": "",
           "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
           "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
           "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
+        },
+        {
+          "title": "CJ씨푸드, 4.91% 오르며 체결강도 강세로 반전(130%)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56WnhTRjhaU195clpWVVJtQ0hSdm5haGRraHBVQ0ZRVzhhcWk1UnZmTXoxdm1RaUoyN1VoWDhPY21La0MwN1BjMVd2TFl2OGV6anFB?oc=5",
+          "desc": "",
+          "title_en": "CJ Seafood reverses strong fastening strength with a rise of 4.91% (130%)",
+          "title_ja": "CJシーフードは4.91 ％ （ 130 ％ ）の上昇で強固な締結強度を逆転",
+          "title_zh": "CJ Seafood扭转了强大的紧固强度，上升了4.91% （ 130% ）"
+        },
+        {
+          "title": "[뉴스터치]내달 7~9일 '인천음식문화박람회'",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14clIyU3VQS0dnMk1OeEt3NnRreWlfV2o3VGdScDhIdW1CUWpLMTZRYlRFWmhzQzM0cnBNTU95NnpORUw2YmJkN2RvdllON3dWMHU0?oc=5",
+          "desc": "",
+          "title_en": "[NewsTouch] Next Month 7th ~ 9th 'Incheon Food Culture Fair'",
+          "title_ja": "【NewsTouch】来月7日～ 9日「仁川食文化フェア」",
+          "title_zh": "[NewsTouch]下个月第7 ~ 9届“仁川美食文化博览会”"
         }
       ]
     },
