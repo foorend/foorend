@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T15:47:46Z",
+  "lastUpdated": "2026-05-02T19:01:13Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -132,7 +132,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sb1I2YkxQSnFHVElpaWt6Q09jSGNDM3dZM3NOS19vVUtsMGpEQ1RLRlJ5TGVMY2xULWJSR2c2RmZZSUVHMXFaVnBBOGJabVBJTlM2NkdxVlRCQdIBVEFVX3lxTE1YbklJMy10akxoMmowdUE5UnVHSFlCaWlpaWRIXzFzZlhIcHFYek41Y1VNSWNyV1hVQzRJeXQ0UHhWR0ptekMzdUpQYnY0bldWcjBKMA?oc=5",
           "desc": "",
           "title_en": "The Bonn Korea joins the social welfare facility ‘Eunpyeongi Village’ bazaar… 100% of the proceeds from the food trucks are donated",
-          "title_ja": "ボン韓国が社会福祉施設「恩平城村」のバザールに参加…フードトラックの収益の100 ％が寄付されます",
+          "title_ja": "ボン韓国は社会福祉施設「恩平城村」のバザールに参加…フードトラックの収益の100 ％が寄付されます",
           "title_zh": "Bonn Korea加入社会福利设施“Eunpyeongi Village”集市……美食车的收益将全部捐赠"
         },
         {
@@ -174,12 +174,12 @@
           "title_zh": "[NewsTouch]下个月第7 ~ 9届“仁川美食文化博览会”"
         },
         {
-          "title": "현대그린푸드, 장중 신저가 기록.. 9,650→9,570(▼80)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5MGlVd2hWYTZlWmFXMzkyeDJxc2R0d3JOcnM3bjF4ZjBvTWRDU2lpZGhZRk13UFZGX2szbTR5YmF4QWJYYXc0TW9maDhfbTd6MVl3?oc=5",
+          "title": "CJ씨푸드, 3.03% 오르며 체결강도 강세 지속(188%)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5WjV6RWlJYVpsQjJibFE1SWZjQWJHSHU4SFFjb2Z6RU5jY1plMXhFQVFEblZ0eTFSTTNTRFdBd01BZmw2MDNteWhuOFhTbWVJMndV?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food records new low prices in Jangjung..→ 9,650 9,570 (▼80)",
-          "title_ja": "ヒュンダイ・グリーンフード、ジャンジュンで新たな低価格を記録→9,650 9,570 (▼80)",
-          "title_zh": "现代绿色食品在Jangjung创下新低价格..→ 9,650 9,570 (▼80)"
+          "title_en": "CJ Seafood continues strong in fastening strength with a 3.03% increase (188%)",
+          "title_ja": "CJシーフードは引き続き強固な締結強度を維持し、3.03 ％増加（ 188 ％ ）",
+          "title_zh": "CJ Seafood的紧固强度持续强劲，增长3.03% （ 188% ）"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "롯데웰푸드(주) (정정)감자결정",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpa3F6TUVVa3FiS0U4RjI5QW52cnpSWXJSWnplQS1wOTJkZy1BQzZGTUo3X3ZldE9rYUp3cHFhSmtfQUJYU2gtWmE3XzZiUVpaNkIyRUVuRFZIdWc?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Co., Ltd. (Correction) Potato Crystals",
+          "title_ja": "ロッテウェルフード（訂正）ジャガイモクリスタル",
+          "title_zh": "乐天威尔食品有限公司（修正）马铃薯水晶"
+        },
         {
           "title": "5성급 호텔서 맛보는 K푸드...롯데관광개발, 제주 드림타워 푸드코트 리뉴얼",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZTlqMFhiRjVjVVEySXJOOUlCcDE4RExMME9nd0doVGJONUR2UkhXNHBKVlNkWmszUDJGcWVaTnFDNXZpZmFjMUJRSzlUTlJTTlhtc2Vn?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "‘Granola Craze Leader’ Incredible Aimed at ‘Health and Environment‘ with ESG Food Tech",
           "title_ja": "ESGフードテックで「健康と環境」を目指す「グラノーラ・クレイズ・リーダー」",
           "title_zh": "ESG Food Tech的“Granola Craze Leader”令人难以置信地瞄准“健康与环境”"
-        },
-        {
-          "title": "\"바가지요금 없어요\"… 울산옹기축제 음식값 상한제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hSE84VVN4a1dyLTNuT3ZpeGxGZ0JpaVVvaUtvbkF1eS02bkpzVnZhbHFwaXpXSkstWDRYQnExbENCRF9Fd3hDRE01UmpSbVZONHVDdg?oc=5",
-          "desc": "",
-          "title_en": "\"There is no charge for a bargain\" … Ulsan Onggi Festival upper limit on food prices",
-          "title_ja": "「お買い得品は無料」…ウルサン・オンギ祭りの食料価格上限",
-          "title_zh": "“讨价还价不收费” ……蔚山Onggi节食品价格上限"
         }
       ]
     },
