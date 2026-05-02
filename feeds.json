@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T19:01:13Z",
+  "lastUpdated": "2026-05-02T21:41:18Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "'비♥' 김태희, '전참시' 출연 확정…\"스태프 음식 늘 세심하게 챙겨\" 얼굴값 하는 미담 ('전참시')",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGg1YWZ3djhyNnhyd053QXJ4ZW9HMXNTNGJpSzlOeUdwS0FyRjRBYUxibWVfOUYzQVBlWGZ4TDFPNzVBR25XbDdIZnVPQ0NmQjlLbUZOZk9PcGhXbHUteGlXeGw2cDY2ZnlDV25VeHZZVlVycVhYS0tTVFYwSzZhSWNDb3k1RkU?oc=5",
+          "desc": "",
+          "title_en": "'Kim Tae-hee♥' and 'Jeon Cham-si' confirmed to appear... \"Always take care of the staff food carefully\" Meadam making a face value ('Jeon Cham-si')",
+          "title_ja": "「キム・テヒ」と「チョン・チャンプシ♥」の出演が確認されました…「スタッフの食事はいつも大事にしてください」ミーダムが額面通りに作っています（「チョン・チャンプシ」）",
+          "title_zh": "「Kim Tae-hee♥」和「Jeon Cham-si」已确认出现……「始终小心照顾员工的食物」Meadam （「Jeon Cham-si」）"
+        },
+        {
           "title": "더본코리아, 사회복지시설 ‘은평의마을’ 바자회 동참…푸드트럭 수익금 전액 기부",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sb1I2YkxQSnFHVElpaWt6Q09jSGNDM3dZM3NOS19vVUtsMGpEQ1RLRlJ5TGVMY2xULWJSR2c2RmZZSUVHMXFaVnBBOGJabVBJTlM2NkdxVlRCQdIBVEFVX3lxTE1YbklJMy10akxoMmowdUE5UnVHSFlCaWlpaWRIXzFzZlhIcHFYek41Y1VNSWNyV1hVQzRJeXQ0UHhWR0ptekMzdUpQYnY0bldWcjBKMA?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Katz Lang Wins' 2026 Brand Loyalty Award 'for Pet Food (Dry Food for Cats)",
           "title_ja": "Katz Langがペットフード（猫用ドライフード）の「2026 Brand Loyalty Award」を受賞",
           "title_zh": "Katz Lang荣获宠物食品（猫用干粮） “2026年品牌忠诚度奖”"
-        },
-        {
-          "title": "푸드케어클레, ' 2026 브랜드 고객충성도 대상' 이유식 부문 수상",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zdHNPUGh2UjNXM2NiSTBjRGlQbVVTb3ZvWGlwYkZISmJqbndjM052a3oxZjBKZXpTYXM1bGNZdGFoODZlTDl5VlJySHBTY3N6YWM5NDg5NlR2QdIBVEFVX3lxTFAzVVdzYUREQ0VmVlJTV3FUc0kxNVU1TE5nTHlfZ2Z5OWJfajlvX182LXMtZng3Y1lLVnYwU1REX2pwUWxRSkhkaEp6MDdKcXpJbXItaQ?oc=5",
-          "desc": "",
-          "title_en": "Food Care Claire Wins' 2026 Brand Loyalty Award 'for Baby Food",
-          "title_ja": "Food Care Claireがベビーフードで「2026 Brand Loyalty Award」を受賞",
-          "title_zh": "Food Care Claire荣获婴儿食品“2026年品牌忠诚度奖”"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "CJ씨푸드, 전일 대비 7.17% 상승.. 일일회전율은 3.47% 기록",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0dnRqME96VzNyY0syZzQtVnlwZldpRTdwdEliU09MQlVMdGtJVXZlV25GRjk4VFZJbTJWeDl2ajg1VklSdzM0SnBkaVFLdWRnS0E?oc=5",
+          "desc": "",
+          "title_en": "CJ Seafood, up 7.17% from the previous day.. Daily turnover recorded 3.47%",
+          "title_ja": "CJシーフードは前日比7.17 ％増…日々の売上高は3.47 ％",
+          "title_zh": "CJ海鲜，同比增长7.17% ，日营业额3.47%"
+        },
         {
           "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
@@ -166,20 +174,12 @@
           "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
         },
         {
-          "title": "[뉴스터치]내달 7~9일 '인천음식문화박람회'",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14clIyU3VQS0dnMk1OeEt3NnRreWlfV2o3VGdScDhIdW1CUWpLMTZRYlRFWmhzQzM0cnBNTU95NnpORUw2YmJkN2RvdllON3dWMHU0?oc=5",
+          "title": "해마로푸드서비스, 매수잔량 447% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9abmVPel96QkttNTRvbnBzTl9WMm95NDM0SHFoQUNxelZCUEh5bElFZnpJSkdRaXJVUXdKRE44bHNETDROQnI3X0RUS1UtU2VPY2Nj?oc=5",
           "desc": "",
-          "title_en": "[NewsTouch] Next Month 7th ~ 9th 'Incheon Food Culture Fair'",
-          "title_ja": "【NewsTouch】来月7日～ 9日「仁川食文化フェア」",
-          "title_zh": "[NewsTouch]下个月第7 ~ 9届“仁川美食文化博览会”"
-        },
-        {
-          "title": "CJ씨푸드, 3.03% 오르며 체결강도 강세 지속(188%)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5WjV6RWlJYVpsQjJibFE1SWZjQWJHSHU4SFFjb2Z6RU5jY1plMXhFQVFEblZ0eTFSTTNTRFdBd01BZmw2MDNteWhuOFhTbWVJMndV?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood continues strong in fastening strength with a 3.03% increase (188%)",
-          "title_ja": "CJシーフードは引き続き強固な締結強度を維持し、3.03 ％増加（ 188 ％ ）",
-          "title_zh": "CJ Seafood的紧固强度持续强劲，增长3.03% （ 188% ）"
+          "title_en": "Hippopotamus Food Service Buying Residue Surges by 447%",
+          "title_ja": "カバのフードサービス購入残渣が447 ％急増",
+          "title_zh": "河马食品服务购买残留量激增447%"
         }
       ]
     },
@@ -187,14 +187,6 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
-        {
-          "title": "롯데웰푸드(주) (정정)감자결정",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpa3F6TUVVa3FiS0U4RjI5QW52cnpSWXJSWnplQS1wOTJkZy1BQzZGTUo3X3ZldE9rYUp3cHFhSmtfQUJYU2gtWmE3XzZiUVpaNkIyRUVuRFZIdWc?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Co., Ltd. (Correction) Potato Crystals",
-          "title_ja": "ロッテウェルフード（訂正）ジャガイモクリスタル",
-          "title_zh": "乐天威尔食品有限公司（修正）马铃薯水晶"
-        },
         {
           "title": "5성급 호텔서 맛보는 K푸드...롯데관광개발, 제주 드림타워 푸드코트 리뉴얼",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZTlqMFhiRjVjVVEySXJOOUlCcDE4RExMME9nd0doVGJONUR2UkhXNHBKVlNkWmszUDJGcWVaTnFDNXZpZmFjMUJRSzlUTlJTTlhtc2Vn?oc=5",
@@ -210,6 +202,14 @@
           "title_en": "‘Granola Craze Leader’ Incredible Aimed at ‘Health and Environment‘ with ESG Food Tech",
           "title_ja": "ESGフードテックで「健康と環境」を目指す「グラノーラ・クレイズ・リーダー」",
           "title_zh": "ESG Food Tech的“Granola Craze Leader”令人难以置信地瞄准“健康与环境”"
+        },
+        {
+          "title": "\"바가지요금 없어요\"… 울산옹기축제 음식값 상한제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hSE84VVN4a1dyLTNuT3ZpeGxGZ0JpaVVvaUtvbkF1eS02bkpzVnZhbHFwaXpXSkstWDRYQnExbENCRF9Fd3hDRE01UmpSbVZONHVDdg?oc=5",
+          "desc": "",
+          "title_en": "\"There is no charge for a bargain\" … Ulsan Onggi Festival upper limit on food prices",
+          "title_ja": "「お買い得品は無料」…ウルサン・オンギ祭りの食料価格上限",
+          "title_zh": "“讨价还价不收费” ……蔚山Onggi节食品价格上限"
         }
       ]
     },
@@ -229,7 +229,7 @@
           "title": "돌아온 수박 시즌…빽다방, 100% 국내산 ‘우리수박주스’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
           "desc": "",
-          "title_en": "Watermelon season returning… Dung Dabang, 100% Korean ‘Woori Watermelon Juice’",
+          "title_en": "Watermelon season returning… Dung Dabang, 100% Domestic ‘Woori Watermelon Juice’",
           "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
           "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
         },
