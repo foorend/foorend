@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T03:21:19Z",
+  "lastUpdated": "2026-05-03T08:02:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "现代绿色食品将开始销售为员工提供一站式营养管理的B2B医疗保健服务"
         },
         {
-          "title": "더본코리아, 사회복지시설 ‘은평의마을’ 바자회 동참…푸드트럭 수익금 전액 기부",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sb1I2YkxQSnFHVElpaWt6Q09jSGNDM3dZM3NOS19vVUtsMGpEQ1RLRlJ5TGVMY2xULWJSR2c2RmZZSUVHMXFaVnBBOGJabVBJTlM2NkdxVlRCQdIBVEFVX3lxTE1YbklJMy10akxoMmowdUE5UnVHSFlCaWlpaWRIXzFzZlhIcHFYek41Y1VNSWNyV1hVQzRJeXQ0UHhWR0ptekMzdUpQYnY0bldWcjBKMA?oc=5",
-          "desc": "",
-          "title_en": "The Bonn Korea joins the social welfare facility ‘Eunpyeongi Village’ bazaar… 100% of the proceeds from the food trucks are donated",
-          "title_ja": "ボン韓国は社会福祉施設「恩平城村」のバザールに参加…フードトラックの収益の100 ％が寄付されます",
-          "title_zh": "Bonn Korea加入社会福利设施“Eunpyeongi Village”集市……美食车的收益将全部捐赠"
-        },
-        {
           "title": "초코파이·참치·김치, K푸드 新성장판으로 뜬다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BcjFYOEZNaUJuOWR4VzJrOGtZRmVIV0k1NEpzeG81YXdFOXluWkNKRWZONkszNllxd1lpMnZDN014eTJsRFZpWmhSMzlYZkFaN2dZV2pEcm8tQdIBVEFVX3lxTE1ES3VSeGNrVl9EYS1GLUdmdTRJemlrYktOajl3NHFHQ3drN1J4bl9WSFZjTXl2SmhHTlVBSnpWUFAxM0FxdUQyLThLbFBTSk1tWVdiYw?oc=5",
           "desc": "",
           "title_en": "Choco Pie · Tuna · Kimchi, K-Food New Growth Edition",
           "title_ja": "チョコパイ・マグロ・キムチ、K - Food New Growth Edition",
           "title_zh": "啾可派·金枪鱼·泡菜， K-Food全新生长版"
+        },
+        {
+          "title": "더본코리아, 사회복지시설 ‘은평의마을’ 바자회 동참…푸드트럭 수익금 전액 기부",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sb1I2YkxQSnFHVElpaWt6Q09jSGNDM3dZM3NOS19vVUtsMGpEQ1RLRlJ5TGVMY2xULWJSR2c2RmZZSUVHMXFaVnBBOGJabVBJTlM2NkdxVlRCQdIBVEFVX3lxTE1YbklJMy10akxoMmowdUE5UnVHSFlCaWlpaWRIXzFzZlhIcHFYek41Y1VNSWNyV1hVQzRJeXQ0UHhWR0ptekMzdUpQYnY0bldWcjBKMA?oc=5",
+          "desc": "",
+          "title_en": "The Bonn Korea joins the social welfare facility ‘Eunpyeongi Village’ bazaar… 100% of the proceeds from the food trucks are donated",
+          "title_ja": "ボン韓国は社会福祉施設「恩平城村」のバザールに参加…フードトラックの収益の100 ％が寄付されます",
+          "title_zh": "Bonn Korea加入社会福利设施“Eunpyeongi Village”集市……美食车的收益将全部捐赠"
         }
       ]
     },
@@ -157,14 +157,6 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
-        {
-          "title": "CJ씨푸드, 전일 대비 7.17% 상승.. 일일회전율은 3.47% 기록",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0dnRqME96VzNyY0syZzQtVnlwZldpRTdwdEliU09MQlVMdGtJVXZlV25GRjk4VFZJbTJWeDl2ajg1VklSdzM0SnBkaVFLdWRnS0E?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood, up 7.17% from the previous day.. Daily turnover recorded 3.47%",
-          "title_ja": "CJシーフードは前日比7.17 ％増…日々の売上高は3.47 ％",
-          "title_zh": "CJ海鲜，同比增长7.17% ，日营业额3.47%"
-        },
         {
           "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
@@ -174,12 +166,20 @@
           "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
         },
         {
-          "title": "해마로푸드서비스, 매수잔량 447% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9abmVPel96QkttNTRvbnBzTl9WMm95NDM0SHFoQUNxelZCUEh5bElFZnpJSkdRaXJVUXdKRE44bHNETDROQnI3X0RUS1UtU2VPY2Nj?oc=5",
+          "title": "[뉴스터치]내달 7~9일 '인천음식문화박람회'",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14clIyU3VQS0dnMk1OeEt3NnRreWlfV2o3VGdScDhIdW1CUWpLMTZRYlRFWmhzQzM0cnBNTU95NnpORUw2YmJkN2RvdllON3dWMHU0?oc=5",
           "desc": "",
-          "title_en": "Hippopotamus Food Service Buying Residue Surges by 447%",
-          "title_ja": "カバのフードサービス購入残渣が447 ％急増",
-          "title_zh": "河马食品服务购买残留量激增447%"
+          "title_en": "[NewsTouch] Next Month 7th ~ 9th 'Incheon Food Culture Fair'",
+          "title_ja": "【NewsTouch】来月7日～ 9日「仁川食文化フェア」",
+          "title_zh": "[NewsTouch]下个月第7 ~ 9届“仁川美食文化博览会”"
+        },
+        {
+          "title": "현대그린푸드, 4.96% 오르며 체결강도 강세 지속(202%)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94SkFPdnpvVjlPVFo3aFJYZ25mN3dIUm1NSFVfZ3R4TVFLQ2hSWU1fRkxPZkxMOFg5OHBPV0FmSkhLWkloV2FCc05ZaHF4ajVoTVBn?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Foods continues strong fastening strength with a rise of 4.96% (202%)",
+          "title_ja": "ヒュンダイグリーンフーズは引き続き4.96 ％ （ 202 ％ ）の上昇で強固な締結強度を維持",
+          "title_zh": "现代绿色食品继续保持强劲的紧固强度，增长4.96% （ 202% ）"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "现代绿色食品加大对企业“问候营养关怀”服务的销售力度"
         },
         {
+          "title": "신세계사이먼, 파주 프리미엄 아울렛서 '비어 페스타' 개최",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IU2tLMW1NUUhQdTNuZjA0MmoySUhjSFZxcmZiM0YtNGpVR3JpdC1SUXl5QTFXMW5JY2lNclNmemttYWdZRm5sUk92VTh5R2pxc2c?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Simon hosts' Beer Festa 'at Paju Premium Outlet",
+          "title_ja": "新世界サイモンがパジュプレミアムアウトレットで「ビールフェスタ」を開催",
+          "title_zh": "Shinsegae Simon在Paju Premium Outlet举办「啤酒节」"
+        },
+        {
           "title": "5성급 호텔서 맛보는 K푸드...롯데관광개발, 제주 드림타워 푸드코트 리뉴얼",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZTlqMFhiRjVjVVEySXJOOUlCcDE4RExMME9nd0doVGJONUR2UkhXNHBKVlNkWmszUDJGcWVaTnFDNXZpZmFjMUJRSzlUTlJTTlhtc2Vn?oc=5",
           "desc": "",
           "title_en": "Taste K food in a 5-star hotel... Lotte Tourism Development, Jeju Dream Tower Food Court Renewal",
           "title_ja": "5つ星ホテルでKフードを味わおう…ロッテツーリズム開発、済州ドリームタワーフードコートリニューアル",
           "title_zh": "在五星级酒店品尝K美食...乐天旅游开发、济州梦幻塔美食广场翻新"
-        },
-        {
-          "title": "‘그래놀라 열풍 선도자’ 인크레더블, ESG 푸드테크로 ‘건강·환경’ 정조준",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBITGVRWnpzS3M1MHVDMnZfMlNnR3N1QXlSZnVGc19qT05LSTE3QWtPN1VnS0RaWEJmdUxHbmNQTUs5SVlCZGxZTUFneUFHN242VEtkMG1n?oc=5",
-          "desc": "",
-          "title_en": "‘Granola Craze Leader’ Incredible Aimed at ‘Health and Environment‘ with ESG Food Tech",
-          "title_ja": "ESGフードテックで「健康と環境」を目指す「グラノーラ・クレイズ・リーダー」",
-          "title_zh": "ESG Food Tech的“Granola Craze Leader”令人难以置信地瞄准“健康与环境”"
         }
       ]
     },
