@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T21:41:18Z",
+  "lastUpdated": "2026-05-03T03:21:19Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Sysco首席执行官： “我们绝对不会提高Restaurant Depot的价格”"
         },
         {
-          "title": "Maybe a sale really would be the best thing for Pizza Hut",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNIQ1BZeUdEWDBadWl0M0txaF9OWmdOM1VDYzZTUkh5U2ZuUlBnUldxLVp0eGhBQjcxaEhTTXlpMTR6YjlJM1RscEQtRXY0ckhQVUQ4QzlMM0pRNHhfTVlCSnhEejB4S0tBT2huMmwzLXZJRVhUM0FfNjZWdm5sZzVjOXF6X3ZaYTQ3bXVzd0xZWEJEbFBXMEx3?oc=5",
-          "desc": "",
-          "title_ko": "어쩌면 세일은 정말 피자헛에게 가장 좋은 것일지도 모릅니다.",
-          "title_ja": "たぶん、セールは本当にピザハットにとって最高のものになるでしょう",
-          "title_zh": "也许销售真的是必胜客的最佳选择"
-        },
-        {
           "title": "KFC U.S. same-store sales disappear from Yum Brands’ earnings report",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEphdGFKYWZybEpWMGZDdXpRcUhWUUgyUDByRXB0MUpoYkdwV2tWWnNGTnNPZ3BRbTZFclpaQk9MdC12ODJSbFFKSVVuTFJnNGJPNTkzWWlvdnUyMHN0VjlNcGp4ei1qWnFHeHE3cklTSjBLT2pkSGJTZmR3a25NdkxCUlN2LUlUeDhlZUR1RFBXd1RZSFljdzAzQWFsdEpFT1JwZ25LR1Z4SGc?oc=5",
           "desc": "",
           "title_ko": "KFC 미국 동일 매장 매출이 Yum Brands의 수익 보고서에서 사라짐",
           "title_ja": "KFC米国店舗売上高がYum Brandsの収益報告書から消える",
           "title_zh": "肯德基美国同店销售额从百胜品牌收益报告中消失"
+        },
+        {
+          "title": "Multiple buyers emerge for Fat Brands, as Smokey Bones shuts down",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWdrNjV5RVVjcERrRUdyeC1wUTZobnNnX1VlOVJGNWQ3cHdqRExNU2hmdkFaOEJMLVdqWTRVZzljcmlyNzZNcGdIMlpxVHZmTjJFdXFSN1JpUnZFWFlmUFd6MVZobDhFMzd6NVQzMzRUSlZFN1NBZmlKSDdZcFVjeVBQUmhIQkFybDZSUVcxbnlKaXZNS2hGTUhoNzY1dHF0TW5zQlczNA?oc=5",
+          "desc": "",
+          "title_ko": "Smokey Bones가 종료됨에 따라 지방 브랜드에 대한 여러 구매자가 등장합니다.",
+          "title_ja": "Smokey Bonesがシャットダウンすると、Fat Brandsに複数のバイヤーが登場します",
+          "title_zh": "随着Smokey Bones的关闭， Fat Brands出现了多个买家"
         }
       ]
     },
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "'비♥' 김태희, '전참시' 출연 확정…\"스태프 음식 늘 세심하게 챙겨\" 얼굴값 하는 미담 ('전참시')",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGg1YWZ3djhyNnhyd053QXJ4ZW9HMXNTNGJpSzlOeUdwS0FyRjRBYUxibWVfOUYzQVBlWGZ4TDFPNzVBR25XbDdIZnVPQ0NmQjlLbUZOZk9PcGhXbHUteGlXeGw2cDY2ZnlDV25VeHZZVlVycVhYS0tTVFYwSzZhSWNDb3k1RkU?oc=5",
+          "title": "현대그린푸드, 임직원 원스톱 영양관리 제공하는 B2B 헬스케어 서비스 영업 나선다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pTkVIQjhZM2V4ZTB2QUxtQWJvcFlaa1Nfc3Z2eExVd3NWWld2WW1fUklickNKeF9HbXBUZVNrOXVGVVNhTFdmZnJxQ29jS0p5dHdCT3A4N1loUdIBVEFVX3lxTFBIbnhuMlF5TFZUX1Jld0VLN3FRVUlYQjE2U3lyMDRVcWxHMmtCclRNbDI1bk44OEpGSFhzQ0VyQV9nWWtWMzI4QWotZnktSzZ5SVlqMA?oc=5",
           "desc": "",
-          "title_en": "'Kim Tae-hee♥' and 'Jeon Cham-si' confirmed to appear... \"Always take care of the staff food carefully\" Meadam making a face value ('Jeon Cham-si')",
-          "title_ja": "「キム・テヒ」と「チョン・チャンプシ♥」の出演が確認されました…「スタッフの食事はいつも大事にしてください」ミーダムが額面通りに作っています（「チョン・チャンプシ」）",
-          "title_zh": "「Kim Tae-hee♥」和「Jeon Cham-si」已确认出现……「始终小心照顾员工的食物」Meadam （「Jeon Cham-si」）"
+          "title_en": "Hyundai Green Food will start sales of B2B healthcare services that provide one-stop nutrition management for employees",
+          "title_ja": "現代グリーンフードは、従業員にワンストップの栄養管理を提供するB 2 Bヘルスケアサービスの販売を開始します",
+          "title_zh": "现代绿色食品将开始销售为员工提供一站式营养管理的B2B医疗保健服务"
         },
         {
           "title": "더본코리아, 사회복지시설 ‘은평의마을’ 바자회 동참…푸드트럭 수익금 전액 기부",
@@ -144,12 +144,12 @@
           "title_zh": "Bonn Korea加入社会福利设施“Eunpyeongi Village”集市……美食车的收益将全部捐赠"
         },
         {
-          "title": "캐츠랑, ' 2026 브랜드 고객충성도 대상' 펫푸드(반려묘건식사료) 부문 수상",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRXBRckY0Yi13dFNia205YmhyQm1xSGgyLUw3SGMzaEZjNkFYR1VVbXBMSzd1T1lKMEF3SWpENEV6N2ZSSFJRdmJhR3FWcll4X2l3QU1MYlNWZ9IBVEFVX3lxTE9XbkszM0RqTllsS09qSVktUUc4ZTNIY1VYaGI4Z2xBLVFNRF9CTG5KVnlFM2J1UXRFVkxuWHdtLW53d3Q1TXk0T0Vwa3Aza3Rmejdscg?oc=5",
+          "title": "초코파이·참치·김치, K푸드 新성장판으로 뜬다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BcjFYOEZNaUJuOWR4VzJrOGtZRmVIV0k1NEpzeG81YXdFOXluWkNKRWZONkszNllxd1lpMnZDN014eTJsRFZpWmhSMzlYZkFaN2dZV2pEcm8tQdIBVEFVX3lxTE1ES3VSeGNrVl9EYS1GLUdmdTRJemlrYktOajl3NHFHQ3drN1J4bl9WSFZjTXl2SmhHTlVBSnpWUFAxM0FxdUQyLThLbFBTSk1tWVdiYw?oc=5",
           "desc": "",
-          "title_en": "Katz Lang Wins' 2026 Brand Loyalty Award 'for Pet Food (Dry Food for Cats)",
-          "title_ja": "Katz Langがペットフード（猫用ドライフード）の「2026 Brand Loyalty Award」を受賞",
-          "title_zh": "Katz Lang荣获宠物食品（猫用干粮） “2026年品牌忠诚度奖”"
+          "title_en": "Choco Pie · Tuna · Kimchi, K-Food New Growth Edition",
+          "title_ja": "チョコパイ・マグロ・キムチ、K - Food New Growth Edition",
+          "title_zh": "啾可派·金枪鱼·泡菜， K-Food全新生长版"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "현대그린푸드, 기업용 '그리팅 영양 케어' 서비스 영업 본격화",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10TjJSb2toWmxsaVVQQUxobnFNMWdoR3lOREJ2cWdxU3Y2YmY3aldodkdiUldfdGVMTWtXX1VJdFo0U0hFV2huZlRWczdCUU1relE?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food intensifies sales of 'Greeting Nutrition Care' services for enterprises",
+          "title_ja": "現代グリーンフード、企業向け「グリーティング・ニュートリション・ケア」サービスの販売を強化",
+          "title_zh": "现代绿色食品加大对企业“问候营养关怀”服务的销售力度"
+        },
+        {
           "title": "5성급 호텔서 맛보는 K푸드...롯데관광개발, 제주 드림타워 푸드코트 리뉴얼",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZTlqMFhiRjVjVVEySXJOOUlCcDE4RExMME9nd0doVGJONUR2UkhXNHBKVlNkWmszUDJGcWVaTnFDNXZpZmFjMUJRSzlUTlJTTlhtc2Vn?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "‘Granola Craze Leader’ Incredible Aimed at ‘Health and Environment‘ with ESG Food Tech",
           "title_ja": "ESGフードテックで「健康と環境」を目指す「グラノーラ・クレイズ・リーダー」",
           "title_zh": "ESG Food Tech的“Granola Craze Leader”令人难以置信地瞄准“健康与环境”"
-        },
-        {
-          "title": "\"바가지요금 없어요\"… 울산옹기축제 음식값 상한제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hSE84VVN4a1dyLTNuT3ZpeGxGZ0JpaVVvaUtvbkF1eS02bkpzVnZhbHFwaXpXSkstWDRYQnExbENCRF9Fd3hDRE01UmpSbVZONHVDdg?oc=5",
-          "desc": "",
-          "title_en": "\"There is no charge for a bargain\" … Ulsan Onggi Festival upper limit on food prices",
-          "title_ja": "「お買い得品は無料」…ウルサン・オンギ祭りの食料価格上限",
-          "title_zh": "“讨价还价不收费” ……蔚山Onggi节食品价格上限"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "“평일 2만원 뷔페”…아워홈 ‘테이크’, 종로서 개장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yWmpCWlEwZ3RkdE9RUW5CWjlGWFlLOXotZnFmZEhjVDUwdnE3aERLMkwtNE42clZnNGlUcllHa21KT1kxTFp4YVVUbGg3VjVoTmhDUVY1OA?oc=5",
-          "desc": "",
-          "title_en": "“20,000 KRW Buffet on Weekdays” … Our Home ‘Take’ Opens as Jongno",
-          "title_ja": "「平日2万ウォンのビュッフェ」…我が家「テイク」が鍾路としてオープン",
-          "title_zh": "「工作日2万韩元自助餐」……我们的房源「Take」以钟路（ Jongno ）开业"
-        },
         {
           "title": "돌아온 수박 시즌…빽다방, 100% 국내산 ‘우리수박주스’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Will Trader Joe ‘Bibim Noodles’ become the second frozen gimbap?",
           "title_ja": "トレーダージョー「ビビムヌードル」は2番目の冷凍ジンバップになりますか？",
           "title_zh": "Trader Joe ‘Bibim Noodles‘会不会成为第二个冷冻gimbap ？"
+        },
+        {
+          "title": "이번엔 ‘냉장유통’ …매일유업, 허쉬초콜릿드링크 2종",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUk54ZUpmR1dDUHgxMmdBSFV1cUhBcGVFaHlpZkJaSTBZRjFOdFoxUEhhcW56WlNzS1JGNzVVajN0ZG5IT1pPTXdCQ3paR3d0Z2k0RkN5Zw?oc=5",
+          "desc": "",
+          "title_en": "This time, ‘refrigeration distribution’ … Daily sales, 2 types of Hush chocolate drinks",
+          "title_ja": "今回は「冷蔵流通」…毎日の販売、2種類のHushチョコレートドリンク",
+          "title_zh": "这一次， “冷藏配送” ……日常销售， 2种Hush巧克力饮料"
         }
       ]
     }
