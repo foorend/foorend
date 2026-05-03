@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T15:49:33Z",
+  "lastUpdated": "2026-05-03T19:01:19Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Sysco首席执行官： “我们绝对不会提高Restaurant Depot的价格”"
         },
         {
-          "title": "KFC U.S. same-store sales disappear from Yum Brands’ earnings report",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEphdGFKYWZybEpWMGZDdXpRcUhWUUgyUDByRXB0MUpoYkdwV2tWWnNGTnNPZ3BRbTZFclpaQk9MdC12ODJSbFFKSVVuTFJnNGJPNTkzWWlvdnUyMHN0VjlNcGp4ei1qWnFHeHE3cklTSjBLT2pkSGJTZmR3a25NdkxCUlN2LUlUeDhlZUR1RFBXd1RZSFljdzAzQWFsdEpFT1JwZ25LR1Z4SGc?oc=5",
-          "desc": "",
-          "title_ko": "KFC 미국 동일 매장 매출이 Yum Brands의 수익 보고서에서 사라짐",
-          "title_ja": "KFC米国店舗売上高がYum Brandsの収益報告書から消える",
-          "title_zh": "肯德基美国同店销售额从百胜品牌收益报告中消失"
-        },
-        {
           "title": "Multiple buyers emerge for Fat Brands, as Smokey Bones shuts down",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWdrNjV5RVVjcERrRUdyeC1wUTZobnNnX1VlOVJGNWQ3cHdqRExNU2hmdkFaOEJMLVdqWTRVZzljcmlyNzZNcGdIMlpxVHZmTjJFdXFSN1JpUnZFWFlmUFd6MVZobDhFMzd6NVQzMzRUSlZFN1NBZmlKSDdZcFVjeVBQUmhIQkFybDZSUVcxbnlKaXZNS2hGTUhoNzY1dHF0TW5zQlczNA?oc=5",
           "desc": "",
           "title_ko": "Smokey Bones가 종료됨에 따라 지방 브랜드에 대한 여러 구매자가 등장합니다.",
           "title_ja": "Smokey Bonesがシャットダウンすると、Fat Brandsに複数のバイヤーが登場します",
           "title_zh": "随着Smokey Bones的关闭， Fat Brands出现了多个买家"
+        },
+        {
+          "title": "KFC U.S. same-store sales disappear from Yum Brands’ earnings report",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEphdGFKYWZybEpWMGZDdXpRcUhWUUgyUDByRXB0MUpoYkdwV2tWWnNGTnNPZ3BRbTZFclpaQk9MdC12ODJSbFFKSVVuTFJnNGJPNTkzWWlvdnUyMHN0VjlNcGp4ei1qWnFHeHE3cklTSjBLT2pkSGJTZmR3a25NdkxCUlN2LUlUeDhlZUR1RFBXd1RZSFljdzAzQWFsdEpFT1JwZ25LR1Z4SGc?oc=5",
+          "desc": "",
+          "title_ko": "KFC 미국 동일 매장 매출이 Yum Brands의 수익 보고서에서 사라짐",
+          "title_ja": "KFC米国店舗売上高がYum Brandsの収益報告書から消える",
+          "title_zh": "肯德基美国同店销售额从百胜品牌收益报告中消失"
         }
       ]
     },
@@ -170,7 +170,7 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14blBoWHY2S2xXZDlkTE9HVlQ3SGNyUUtMc0tVbUdfc3R3c0t1bGdwU1g0SkUyWkdfOUV5SjRFaVNRbWpILUN3eV9QQWg4ZVF4U3fSAVNBVV95cUxNWXZ6TXd6ZGV1V0t5Tm5JendzaTdybEx2NTEwUzV2bzlFazNiNTJHZTRzZEp0ZmtBNUd6XzNsTk5yNnRvcEdfN3VIWFBickRDeDdQbw?oc=5",
           "desc": "",
           "title_en": "“Next to ramen, strawberry · pepper paste… K-food territory will be expanded”",
-          "title_ja": "「ラーメンの隣には、いちご・こしょうペースト… K - FOODテリトリーが広がります」",
+          "title_ja": "「ラーメン、いちご・こしょうペーストの隣… K - FOODテリトリーが広がる」",
           "title_zh": "“拉面、草莓·胡椒酱旁边…… K-food区域将扩大”"
         },
         {
@@ -221,8 +221,8 @@
           "title": "돌아온 수박 시즌…빽다방, 100% 국내산 ‘우리수박주스’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
           "desc": "",
-          "title_en": "Watermelon season returning… Dung Dabang, 100% Korean ‘Woori Watermelon Juice’",
-          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、韓国の100 ％「ウーリスイカジュース」",
+          "title_en": "Watermelon season returning… Dung Dabang, 100% Domestic ‘Woori Watermelon Juice’",
+          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
           "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
         },
         {
