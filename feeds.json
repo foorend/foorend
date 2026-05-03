@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T10:05:07Z",
+  "lastUpdated": "2026-05-03T13:12:46Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -148,7 +148,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sb1I2YkxQSnFHVElpaWt6Q09jSGNDM3dZM3NOS19vVUtsMGpEQ1RLRlJ5TGVMY2xULWJSR2c2RmZZSUVHMXFaVnBBOGJabVBJTlM2NkdxVlRCQdIBVEFVX3lxTE1YbklJMy10akxoMmowdUE5UnVHSFlCaWlpaWRIXzFzZlhIcHFYek41Y1VNSWNyV1hVQzRJeXQ0UHhWR0ptekMzdUpQYnY0bldWcjBKMA?oc=5",
           "desc": "",
           "title_en": "The Bonn Korea joins the social welfare facility ‘Eunpyeongi Village’ bazaar… 100% of the proceeds from the food trucks are donated",
-          "title_ja": "ボン韓国は社会福祉施設「恩平城村」のバザールに参加…フードトラックの収益の100 ％が寄付されます",
+          "title_ja": "ボン韓国が社会福祉施設「恩平城村」のバザールに参加…フードトラックの収益の100 ％が寄付されます",
           "title_zh": "Bonn Korea加入社会福利设施“Eunpyeongi Village”集市……美食车的收益将全部捐赠"
         }
       ]
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VOXNyNm1qVkdoeXhEdFdXb1F4N0lzQTRmcC03MHRGQmc4SWVMbkd1Vm1Dd3U5aE03d0I3NHdXVGxhVm44ZzhzMlNCMGpxOGVkN1HSAVNBVV95cUxNQlZFSHpqeXQteUZZTUY3U3JmQVhJbEttMUhIcGxhc1pzOUJCamNUcVFuWVhsSURYY3l2RnZSTGViLTlxdG9HQ0c0elI5ZWwyRk9uaw?oc=5",
+          "desc": "",
+          "title_en": "“Fair Value” vs. “Stock Price Based Calculation” … Shinsegae Food Merger Purchase Controversial [Signal]",
+          "title_ja": "「公正価値」対「株価ベースの計算」…新世界食品合併買収論争[シグナル]",
+          "title_zh": "“公允价值”与“基于股票价格的计算” …… Shinsegae Food Merger Purchase有争议[Signal]"
+        },
         {
           "title": "“라면 다음은 딸기·고추장…K푸드 영토 넓힐것”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14blBoWHY2S2xXZDlkTE9HVlQ3SGNyUUtMc0tVbUdfc3R3c0t1bGdwU1g0SkUyWkdfOUV5SjRFaVNRbWpILUN3eV9QQWg4ZVF4U3fSAVNBVV95cUxNWXZ6TXd6ZGV1V0t5Tm5JendzaTdybEx2NTEwUzV2bzlFazNiNTJHZTRzZEp0ZmtBNUd6XzNsTk5yNnRvcEdfN3VIWFBickRDeDdQbw?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
           "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
           "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
-        },
-        {
-          "title": "[뉴스터치]내달 7~9일 '인천음식문화박람회'",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14clIyU3VQS0dnMk1OeEt3NnRreWlfV2o3VGdScDhIdW1CUWpLMTZRYlRFWmhzQzM0cnBNTU95NnpORUw2YmJkN2RvdllON3dWMHU0?oc=5",
-          "desc": "",
-          "title_en": "[NewsTouch] Next Month 7th ~ 9th 'Incheon Food Culture Fair'",
-          "title_ja": "【NewsTouch】来月7日～ 9日「仁川食文化フェア」",
-          "title_zh": "[NewsTouch]下个月第7 ~ 9届“仁川美食文化博览会”"
         }
       ]
     },
