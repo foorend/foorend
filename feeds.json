@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T14:03:20Z",
+  "lastUpdated": "2026-05-04T16:46:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Nyesha Arrington Eats Collard Green Lasagna with Issa Rae in Los Angeles",
+          "link": "https://www.eater.com/video/960181/where-nyesha-arrington-eats-in-los-angeles",
+          "desc": "In this episode of Plateworthy, host Nyesha Arrington returns to her hometown for the third and final stop on her California food tour. Her time in Lo",
+          "title_ko": "로스앤젤레스의 Issa Rae와 함께하는 Nyesha Arrington Eats Collard Green Lasagna",
+          "title_ja": "ロサンゼルスのNyesha Arrington Eats Collard Green LasagnaとIssa Rae",
+          "title_zh": "与Issa Rae一起在洛杉矶品尝Nyesha Arrington美食Collard绿烤宽面条"
+        },
+        {
           "title": "Where José Andrés Eats Spanish Food in Washington, D.C.",
           "link": "https://www.eater.com/dining-out/959215/jose-andres-washington-dc-casa-teresa",
           "desc": "In the latest episode of Let’s Do Lunch, celebrity chef José Andrés sits down for a bite at Spanish restaurant Casa Teresa in Washington, D.C. where h",
@@ -110,14 +118,6 @@
           "title_ko": "인사이더스 룩 (Insider‘s Look) - 이터랜드 (Eaterland), 이터랜드의 최신 요리책",
           "title_ja": "食通の最新クックブック「Eaterland」をインサイダー向けにチェックしよう",
           "title_zh": "深入了解顾客的最新烹饪书《Eaterland》"
-        },
-        {
-          "title": "Why This Famous Philly Bakery Is Lowering Its Prices",
-          "link": "https://www.eater.com/dining-out/958924/philadelphia-bakery-termini-bros-lowering-prices",
-          "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
-          "title_ko": "이 유명한 필리 베이커리가 가격을 낮추는 이유",
-          "title_ja": "この有名なフィラデルフィアのベーカリーが価格を下げている理由",
-          "title_zh": "这家著名的费城面包店为何降价"
         }
       ]
     }
@@ -144,12 +144,12 @@
           "title_zh": "现代绿色食品将开始销售为员工提供一站式营养管理的B2B医疗保健服务"
         },
         {
-          "title": "'소액주주 반발'에 멈춰선 이마트 사업재편…한달 넘게 지연",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16ZUNCN2s0bjJZcUdzVjFYUkJzOVBPUGRLU25vczdsSU0zaFFSMXhzOXlWUUltMF9odmVxVkVoYnZTVHR3U2JJR0RzZm5LZG82dXZrcFVMVFdnZ9IBVEFVX3lxTE1XQURuaG1JZHhFdmU4NWJTc1VRUmRaNnpIeUNvajlSVjdFMVNqVEdKcUNLaVNfdnlaOFNwc21PaWVuT3JGcFFTWTZPaVNQcUtTNWhpdQ?oc=5",
+          "title": "창업자 부담 15% 더 낮춰…9000만원대로 창업 가능한 '노브랜드 버거'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByaUZyZFNsdm9Cekk3MGN1QkNRMGVxYWJSTWtzcVFUVWIxR0g3bHNkM1BBOVpiNHcxQ1NDYnZnUFNWTExrWHdfZjQtblQ1N2pvTVNwa0l3RXNZZ9IBVEFVX3lxTE9QWXhKdG0zUkZwdXZDcjdXSmdESHg5bkVvN3A2d0JQQmJ1LUhXV2ZaeHhKam5wTVppcmwzckQtNmtyR3l1bTVhTXE4VVk2VVh2ZEw4Ng?oc=5",
           "desc": "",
-          "title_en": "Reorganization of E-Mart business stopped at 'minority shareholder pushback'... Delayed for over a month",
-          "title_ja": "イーマート事業の再編は「少数株主の反発」で止まった… 1カ月以上遅れた",
-          "title_zh": "E-Mart业务重组因“少数股东推迟”而停止...延迟了一个多月"
+          "title_en": "The burden on entrepreneurs is 15% lower... 'No-brand burger' that can be started for 90 million won",
+          "title_ja": "起業家の負担が15 ％減… 9000万ウォンで始められる「ノーブランドハンバーガー」",
+          "title_zh": "企业家的负担降低了15 ％......可以以9000万韩元开始的“无品牌汉堡”"
         }
       ]
     },
@@ -158,12 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "삼성서울병원·웰스토리, 암환자 위한 ‘고밀도 케어푸드’ 개발",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNWlqR3NBNTg0SHljOUp2dm84MEpGOUdMV1d0UmlPTTRtYzR0VkswUktKZFhPd2tlSV9XRl9XeDl0Ti14Qk9DVGRpY3d6X09SdnfSAVNBVV95cUxQaHozbE5QakFSdUNGbUp1SFMyZFlGYXhzZy1xSXRDV0RwZ3EtYk5vVmZpS0VTY1BZM0xRTVZ1SGxtV2N3VmZGNnZfWGFXM2phdmdjRQ?oc=5",
+          "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VOXNyNm1qVkdoeXhEdFdXb1F4N0lzQTRmcC03MHRGQmc4SWVMbkd1Vm1Dd3U5aE03d0I3NHdXVGxhVm44ZzhzMlNCMGpxOGVkN1HSAVNBVV95cUxNQlZFSHpqeXQteUZZTUY3U3JmQVhJbEttMUhIcGxhc1pzOUJCamNUcVFuWVhsSURYY3l2RnZSTGViLTlxdG9HQ0c0elI5ZWwyRk9uaw?oc=5",
           "desc": "",
-          "title_en": "Samsung Hospital and Well Story develop ‘high-density care food' for cancer patients",
-          "title_ja": "サムスン病院とWell Story、がん患者のための「高密度ケアフード」を開発",
-          "title_zh": "三星医院和Well Story为癌症患者开发“高密度护理食品”"
+          "title_en": "“Fair Value” vs. “Stock Price Based Calculation” … Shinsegae Food Merger Purchase Controversial [Signal]",
+          "title_ja": "「公正価値」対「株価ベースの計算」…新世界食品合併買収論争[シグナル]",
+          "title_zh": "“公允价值”与“基于股票价格的计算” …… Shinsegae Food Merger Purchase有争议[Signal]"
         },
         {
           "title": "“라면 다음은 딸기·고추장…K푸드 영토 넓힐것”",
@@ -174,12 +174,12 @@
           "title_zh": "“拉面、草莓·胡椒酱旁边…… K-food区域将扩大”"
         },
         {
-          "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VOXNyNm1qVkdoeXhEdFdXb1F4N0lzQTRmcC03MHRGQmc4SWVMbkd1Vm1Dd3U5aE03d0I3NHdXVGxhVm44ZzhzMlNCMGpxOGVkN1HSAVNBVV95cUxNQlZFSHpqeXQteUZZTUY3U3JmQVhJbEttMUhIcGxhc1pzOUJCamNUcVFuWVhsSURYY3l2RnZSTGViLTlxdG9HQ0c0elI5ZWwyRk9uaw?oc=5",
+          "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
           "desc": "",
-          "title_en": "“Fair Value” vs. “Stock Price Based Calculation” … Shinsegae Food Merger Purchase Controversial [Signal]",
-          "title_ja": "「公正価値」対「株価ベースの計算」…新世界食品合併買収論争[シグナル]",
-          "title_zh": "“公允价值”与“基于股票价格的计算” …… Shinsegae Food Merger Purchase有争议[Signal]"
+          "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
+          "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
+          "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "김치가 일본풍 음식?…'반 고흐 미술관' 메뉴판 표기 논란",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WWRfNWVDUElLcUhlUmZRZFl2TXBMV2FvT0pxX194cG5jZ1RSRFJ0eEZObGJwMW4tOVFfYmgzQ0pyWDBveW12MTVDaGlJVk9mRnc?oc=5",
+          "desc": "",
+          "title_en": "Kimchi's Japanese-style food? … Controversy over menu notation at 'Van Gogh Museum'",
+          "title_ja": "キムチの和食？ …「ゴッホ美術館」のメニュー表記についての議論",
+          "title_zh": "泡菜的日式美食？ ……「梵高博物馆」的菜单符号引起争议"
+        },
+        {
           "title": "타이슨 푸드, 2분기 영업이익 335% 급증··치킨 부문 호조 견인",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5U01OUkwtVWtsWkxWaThqU3hLVmVuajFZZ21ZR3RacDBxeVlaRXFEdlZxMDFUQndsSHpzbHp2S3E0ZThKZTI3bWFsT2VMYTgyY1E?oc=5",
           "desc": "",
           "title_en": "Tyson Foods Surges 335% in Operating Profit in Q2 · · Strong Towing Chicken Sector",
           "title_ja": "タイソン・フーズ、第2四半期の営業利益が335%増・・・強力な牽引チキンセクター",
           "title_zh": "泰森食品第二季度营业利润飙升335% · ·强劲的牵引鸡肉板块"
-        },
-        {
-          "title": "김치가 일본풍 음식?…'반 고흐 미술관' 메뉴판 표기 논란",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WWRfNWVDUElLcUhlUmZRZFl2TXBMV2FvT0pxX194cG5jZ1RSRFJ0eEZObGJwMW4tOVFfYmgzQ0pyWDBveW12MTVDaGlJVk9mRnc?oc=5",
-          "desc": "",
-          "title_en": "Kimchi's Japanese-style food? … Controversy over menu notation at 'Van Gogh Museum'",
-          "title_ja": "キムチの和食？ …ゴッホ美術館のメニュー表記をめぐる論争",
-          "title_zh": "泡菜的日式美食？ ……关于梵高博物馆菜单符号的争议"
         },
         {
           "title": "현대그린푸드, 기업용 '그리팅 영양 케어' 서비스 영업 본격화",
