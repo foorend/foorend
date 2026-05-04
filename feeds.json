@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T21:42:47Z",
+  "lastUpdated": "2026-05-04T02:57:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "现代绿色食品将开始销售为员工提供一站式营养管理的B2B医疗保健服务"
         },
         {
+          "title": "김치가 또 日음식?···반 고흐 미술관 식당서 '김치 샌드위치' 논란",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VWkJscUh6TVo5TGtTWXVCenFrQkdZNVRhNGk2dkZ2bXpDY3E1cEowVk9xNDMzU21qTnNfc05INEdaZE9PUG90RUIydEdZdzQ1cHdfd0I0ajBnZ29wVVBTVGIzOXczYmVQTkxF?oc=5",
+          "desc": "",
+          "title_en": "Kimchi is Japanese food again? · · · The 'Kimchi Sandwich' controversy at the Van Gogh Museum restaurant",
+          "title_ja": "キムチはまた和食ですか？・・・ゴッホ美術館のレストランでの「キムチサンドイッチ」論争",
+          "title_zh": "泡菜又是日本菜？ · · ·梵高博物馆餐厅的“泡菜三明治”争议"
+        },
+        {
           "title": "초코파이·참치·김치, K푸드 新성장판으로 뜬다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BcjFYOEZNaUJuOWR4VzJrOGtZRmVIV0k1NEpzeG81YXdFOXluWkNKRWZONkszNllxd1lpMnZDN014eTJsRFZpWmhSMzlYZkFaN2dZV2pEcm8tQdIBVEFVX3lxTE1ES3VSeGNrVl9EYS1GLUdmdTRJemlrYktOajl3NHFHQ3drN1J4bl9WSFZjTXl2SmhHTlVBSnpWUFAxM0FxdUQyLThLbFBTSk1tWVdiYw?oc=5",
           "desc": "",
           "title_en": "Choco Pie · Tuna · Kimchi, K-Food New Growth Edition",
           "title_ja": "チョコパイ・マグロ・キムチ、K - Food New Growth Edition",
           "title_zh": "啾可派·金枪鱼·泡菜， K-Food全新生长版"
-        },
-        {
-          "title": "더본코리아, 사회복지시설 ‘은평의마을’ 바자회 동참…푸드트럭 수익금 전액 기부",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sb1I2YkxQSnFHVElpaWt6Q09jSGNDM3dZM3NOS19vVUtsMGpEQ1RLRlJ5TGVMY2xULWJSR2c2RmZZSUVHMXFaVnBBOGJabVBJTlM2NkdxVlRCQdIBVEFVX3lxTE1YbklJMy10akxoMmowdUE5UnVHSFlCaWlpaWRIXzFzZlhIcHFYek41Y1VNSWNyV1hVQzRJeXQ0UHhWR0ptekMzdUpQYnY0bldWcjBKMA?oc=5",
-          "desc": "",
-          "title_en": "The Bonn Korea joins the social welfare facility ‘Eunpyeongi Village’ bazaar… 100% of the proceeds from the food trucks are donated",
-          "title_ja": "ボン韓国は社会福祉施設「恩平城村」のバザールに参加…フードトラックの収益の100 ％が寄付されます",
-          "title_zh": "Bonn Korea加入社会福利设施“Eunpyeongi Village”集市……美食车的收益将全部捐赠"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“라면 다음은 딸기·고추장…K푸드 영토 넓힐것”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14blBoWHY2S2xXZDlkTE9HVlQ3SGNyUUtMc0tVbUdfc3R3c0t1bGdwU1g0SkUyWkdfOUV5SjRFaVNRbWpILUN3eV9QQWg4ZVF4U3fSAVNBVV95cUxNWXZ6TXd6ZGV1V0t5Tm5JendzaTdybEx2NTEwUzV2bzlFazNiNTJHZTRzZEp0ZmtBNUd6XzNsTk5yNnRvcEdfN3VIWFBickRDeDdQbw?oc=5",
+          "desc": "",
+          "title_en": "“Next to ramen, strawberry · pepper paste… K-food territory will be expanded”",
+          "title_ja": "「ラーメン、いちご・こしょうペーストの隣… K - FOODテリトリーが広がる」",
+          "title_zh": "“拉面、草莓·胡椒酱旁边…… K-food区域将扩大”"
+        },
         {
           "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VOXNyNm1qVkdoeXhEdFdXb1F4N0lzQTRmcC03MHRGQmc4SWVMbkd1Vm1Dd3U5aE03d0I3NHdXVGxhVm44ZzhzMlNCMGpxOGVkN1HSAVNBVV95cUxNQlZFSHpqeXQteUZZTUY3U3JmQVhJbEttMUhIcGxhc1pzOUJCamNUcVFuWVhsSURYY3l2RnZSTGViLTlxdG9HQ0c0elI5ZWwyRk9uaw?oc=5",
@@ -166,20 +174,12 @@
           "title_zh": "“公允价值”与“基于股票价格的计算” …… Shinsegae Food Merger Purchase有争议[Signal]"
         },
         {
-          "title": "현대그린푸드, 매도잔량 369% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KZXZkLU1DSndiWTV2Z0FvWGQ2OThoNGZSaEw1RmlkZFdOai1IYVVBakt3Qnpscjd5SUF3TS03bzUtTzhqYS1HQTlMcmVRVU93Zlhv?oc=5",
+          "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food sells 369% more",
-          "title_ja": "Hyundai Green Foodの販売台数が369%増加",
-          "title_zh": "现代绿色食品销售额增长369%"
-        },
-        {
-          "title": "“라면 다음은 딸기·고추장…K푸드 영토 넓힐것”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14blBoWHY2S2xXZDlkTE9HVlQ3SGNyUUtMc0tVbUdfc3R3c0t1bGdwU1g0SkUyWkdfOUV5SjRFaVNRbWpILUN3eV9QQWg4ZVF4U3fSAVNBVV95cUxNWXZ6TXd6ZGV1V0t5Tm5JendzaTdybEx2NTEwUzV2bzlFazNiNTJHZTRzZEp0ZmtBNUd6XzNsTk5yNnRvcEdfN3VIWFBickRDeDdQbw?oc=5",
-          "desc": "",
-          "title_en": "“Next to ramen, strawberry · pepper paste… K-food territory will be expanded”",
-          "title_ja": "「ラーメン、いちご・こしょうペーストの隣… K - FOODテリトリーが広がる」",
-          "title_zh": "“拉面、草莓·胡椒酱旁边…… K-food区域将扩大”"
+          "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
+          "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
+          "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "김치가 일본풍 음식?…'반 고흐 미술관' 메뉴판 표기 논란",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WWRfNWVDUElLcUhlUmZRZFl2TXBMV2FvT0pxX194cG5jZ1RSRFJ0eEZObGJwMW4tOVFfYmgzQ0pyWDBveW12MTVDaGlJVk9mRnc?oc=5",
+          "desc": "",
+          "title_en": "Kimchi's Japanese-style food? … Controversy over menu notation at 'Van Gogh Museum'",
+          "title_ja": "キムチの和食？ …「ゴッホ美術館」のメニュー表記についての議論",
+          "title_zh": "泡菜的日式美食？ ……「梵高博物馆」的菜单符号引起争议"
+        },
         {
           "title": "현대그린푸드, 기업용 '그리팅 영양 케어' 서비스 영업 본격화",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10TjJSb2toWmxsaVVQQUxobnFNMWdoR3lOREJ2cWdxU3Y2YmY3aldodkdiUldfdGVMTWtXX1VJdFo0U0hFV2huZlRWczdCUU1relE?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Hyundai Green Food targets B2B with healthcare",
           "title_ja": "Hyundai Green Foodは、ヘルスケアを備えたB 2 Bをターゲットにしています",
           "title_zh": "现代绿色食品以医疗保健为目标的B2B"
-        },
-        {
-          "title": "신세계사이먼, 파주 프리미엄 아울렛서 '비어 페스타' 개최",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IU2tLMW1NUUhQdTNuZjA0MmoySUhjSFZxcmZiM0YtNGpVR3JpdC1SUXl5QTFXMW5JY2lNclNmemttYWdZRm5sUk92VTh5R2pxc2c?oc=5",
-          "desc": "",
-          "title_en": "Shinsegae Simon hosts' Beer Festa 'at Paju Premium Outlet",
-          "title_ja": "新世界サイモンがパジュプレミアムアウトレットで「ビールフェスタ」を開催",
-          "title_zh": "Shinsegae Simon在Paju Premium Outlet举办「啤酒节」"
         }
       ]
     },
@@ -223,23 +223,23 @@
           "desc": "",
           "title_en": "Watermelon season returning… Dung Dabang, 100% Korean ‘Woori Watermelon Juice’",
           "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
-          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
+          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%韩国「Woori西瓜汁」"
         },
         {
-          "title": "트레이더 조 ‘비빔국수’, 제2의 냉동 김밥 될까?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAydFhpSGMwSjF2SUx4OG9VRWNhWmMxTFB3Sl9Ud2pSM0VJMXQ5RTRXczNLNV9tZG5sYTg3UjVDajM2ekFBb3pNUlBWYWhDX1A5YUtwNWtWWQ?oc=5",
+          "title": "울릉의 봄 미식 산책…한식진흥원의 쿠킹클래스",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWg1OUJRMkVLeTlQM2JMX1c1Skl1aTAyRHNJcWxyNm13X1pIWFk3Yk9rWkRxMGo5OGU3N0QzNTAxc09zX1Z4a0NjVE9uMWhxeFhHc3hpTQ?oc=5",
           "desc": "",
-          "title_en": "Will Trader Joe ‘Bibim Noodles’ become the second frozen gimbap?",
-          "title_ja": "トレーダージョー「ビビムヌードル」は2番目の冷凍ジンバップになりますか？",
-          "title_zh": "Trader Joe ‘Bibim Noodles‘会不会成为第二个冷冻gimbap ？"
+          "title_en": "Spring Food Walk in Ulleung… Korean Food Promotion Institute Cooking Class",
+          "title_ja": "ウルルンで春の食べ歩き…韓国料理プロモーション協会のクッキング教室",
+          "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
         },
         {
-          "title": "이번엔 ‘냉장유통’ …매일유업, 허쉬초콜릿드링크 2종",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUk54ZUpmR1dDUHgxMmdBSFV1cUhBcGVFaHlpZkJaSTBZRjFOdFoxUEhhcW56WlNzS1JGNzVVajN0ZG5IT1pPTXdCQ3paR3d0Z2k0RkN5Zw?oc=5",
+          "title": "가족 외식하고 경품 받는다…SL&C, 브랜드 프로모션",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QcGh2WExkQzVaMC01VnpBMEhIamhnTHoyRW1pc1BtVkVaQ0FVaUJOcVRiSGhndktmczVwQzFNNkNSdG5iVF9xcEFneDJDWjhqV0FBQW02RQ?oc=5",
           "desc": "",
-          "title_en": "This time, ‘refrigeration distribution’ … Daily sales, 2 types of Hush chocolate drinks",
-          "title_ja": "今回は「冷蔵流通」…毎日の販売、2種類のHushチョコレートドリンク",
-          "title_zh": "这一次， “冷藏配送” ……日常销售， 2种Hush巧克力饮料"
+          "title_en": "Eat out and win prizes for families… SL&C, brand promotions",
+          "title_ja": "外食してファミリー向けの賞品を獲得… SL&C、ブランドプロモーション",
+          "title_zh": "外出就餐，赢取家庭奖励…… SL&C ，品牌促销"
         }
       ]
     }
