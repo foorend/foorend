@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T11:05:51Z",
+  "lastUpdated": "2026-05-04T14:03:20Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,12 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "타이슨 푸드, 2분기 영업이익 335% 급증··치킨 부문 호조 견인",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5U01OUkwtVWtsWkxWaThqU3hLVmVuajFZZ21ZR3RacDBxeVlaRXFEdlZxMDFUQndsSHpzbHp2S3E0ZThKZTI3bWFsT2VMYTgyY1E?oc=5",
+          "desc": "",
+          "title_en": "Tyson Foods Surges 335% in Operating Profit in Q2 · · Strong Towing Chicken Sector",
+          "title_ja": "タイソン・フーズ、第2四半期の営業利益が335%増・・・強力な牽引チキンセクター",
+          "title_zh": "泰森食品第二季度营业利润飙升335% · ·强劲的牵引鸡肉板块"
+        },
+        {
           "title": "김치가 일본풍 음식?…'반 고흐 미술관' 메뉴판 표기 논란",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WWRfNWVDUElLcUhlUmZRZFl2TXBMV2FvT0pxX194cG5jZ1RSRFJ0eEZObGJwMW4tOVFfYmgzQ0pyWDBveW12MTVDaGlJVk9mRnc?oc=5",
           "desc": "",
           "title_en": "Kimchi's Japanese-style food? … Controversy over menu notation at 'Van Gogh Museum'",
-          "title_ja": "キムチの和食？ …「ゴッホ美術館」のメニュー表記についての議論",
-          "title_zh": "泡菜的日式美食？ ……「梵高博物馆」的菜单符号引起争议"
+          "title_ja": "キムチの和食？ …ゴッホ美術館のメニュー表記をめぐる論争",
+          "title_zh": "泡菜的日式美食？ ……关于梵高博物馆菜单符号的争议"
         },
         {
           "title": "현대그린푸드, 기업용 '그리팅 영양 케어' 서비스 영업 본격화",
@@ -202,14 +210,6 @@
           "title_en": "Hyundai Green Food intensifies sales of 'Greeting Nutrition Care' services for enterprises",
           "title_ja": "現代グリーンフード、企業向け「グリーティング・ニュートリション・ケア」サービスの販売を強化",
           "title_zh": "现代绿色食品加大对企业“问候营养关怀”服务的销售力度"
-        },
-        {
-          "title": "현대그린푸드, 헬스케어로 B2B 공략",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zd0dENlZxVjA0WlhjaU5oWHdLX2JfNGpQN0FmY3NRYmhJZ29JMXNsWEwwNnJqOVMzVnlkNlhKX2ttN1BjZmdhX25ETnJBejN0VDU0VUF3?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food targets B2B with healthcare",
-          "title_ja": "Hyundai Green Foodは、ヘルスケアを備えたB 2 Bをターゲットにしています",
-          "title_zh": "现代绿色食品以医疗保健为目标的B2B"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
         },
         {
+          "title": "트레이더 조 ‘비빔국수’, 제2의 냉동 김밥 될까?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAydFhpSGMwSjF2SUx4OG9VRWNhWmMxTFB3Sl9Ud2pSM0VJMXQ5RTRXczNLNV9tZG5sYTg3UjVDajM2ekFBb3pNUlBWYWhDX1A5YUtwNWtWWQ?oc=5",
+          "desc": "",
+          "title_en": "Will Trader Joe ‘Bibim Noodles’ become the second frozen gimbap?",
+          "title_ja": "トレーダージョー「ビビムヌードル」は2番目の冷凍ジンバップになりますか？",
+          "title_zh": "Trader Joe ‘Bibim Noodles‘会不会成为第二个冷冻gimbap ？"
+        },
+        {
           "title": "울릉의 봄 미식 산책…한식진흥원의 쿠킹클래스",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWg1OUJRMkVLeTlQM2JMX1c1Skl1aTAyRHNJcWxyNm13X1pIWFk3Yk9rWkRxMGo5OGU3N0QzNTAxc09zX1Z4a0NjVE9uMWhxeFhHc3hpTQ?oc=5",
           "desc": "",
           "title_en": "Spring Food Walk in Ulleung… Korean Food Promotion Institute Cooking Class",
           "title_ja": "ウルルンで春の食べ歩き…韓国料理プロモーション協会のクッキング教室",
           "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
-        },
-        {
-          "title": "가족 외식하고 경품 받는다…SL&C, 브랜드 프로모션",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QcGh2WExkQzVaMC01VnpBMEhIamhnTHoyRW1pc1BtVkVaQ0FVaUJOcVRiSGhndktmczVwQzFNNkNSdG5iVF9xcEFneDJDWjhqV0FBQW02RQ?oc=5",
-          "desc": "",
-          "title_en": "Eat out and win prizes for families… SL&C, brand promotions",
-          "title_ja": "外食してファミリー向けの賞品を獲得… SL&C、ブランドプロモーション",
-          "title_zh": "外出就餐，赢取家庭奖励…… SL&C ，品牌促销"
         }
       ]
     }
