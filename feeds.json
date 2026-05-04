@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-05-04T02:57:03Z",
+  "lastUpdated": "2026-05-04T06:17:47Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "KFC U.S. same-store sales disappear from Yum Brands’ earnings report",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEphdGFKYWZybEpWMGZDdXpRcUhWUUgyUDByRXB0MUpoYkdwV2tWWnNGTnNPZ3BRbTZFclpaQk9MdC12ODJSbFFKSVVuTFJnNGJPNTkzWWlvdnUyMHN0VjlNcGp4ei1qWnFHeHE3cklTSjBLT2pkSGJTZmR3a25NdkxCUlN2LUlUeDhlZUR1RFBXd1RZSFljdzAzQWFsdEpFT1JwZ25LR1Z4SGc?oc=5",
+          "desc": "",
+          "title_ko": "KFC 미국 동일 매장 매출이 Yum Brands의 수익 보고서에서 사라짐",
+          "title_ja": "KFC米国店舗売上高がYum Brandsの収益報告書から消える",
+          "title_zh": "肯德基美国同店销售额从百胜品牌收益报告中消失"
+        },
         {
           "title": "Sysco CEO: 'We will absolutely not be raising prices at Restaurant Depot'",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUk5DeDN6c2Z6cnRlZm5ReHBSQnBjRjhkOEp3aWhsYk9ZdXg2Qi1pTnVEb2lQb1JTZUlUbnJDaVV1Wlk5OVF3aGxUaTVLZG56a3kwVzd3SUpQZDFWQjVxTS1LRlhzQkE3M1I2SHJLcGJuNXowUnNKUGJmdzRYVkFxVUlxMDFkSEtoZGx3SDEtS2NhUWRJQTZObjhGcW9XWk5BYXFwNzZ3Y1JCUkE5WlozWnI3OGI?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "Chipotle은 심화되는 단백질 종족의 초기 리더로 부상합니다.",
           "title_ja": "チポトレは、激化するタンパク質レースの初期のリーダーとして登場します",
           "title_zh": "Chipotle成为强化蛋白质竞赛的早期领导者"
-        },
-        {
-          "title": "Multiple buyers emerge for Fat Brands, as Smokey Bones shuts down",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWdrNjV5RVVjcERrRUdyeC1wUTZobnNnX1VlOVJGNWQ3cHdqRExNU2hmdkFaOEJMLVdqWTRVZzljcmlyNzZNcGdIMlpxVHZmTjJFdXFSN1JpUnZFWFlmUFd6MVZobDhFMzd6NVQzMzRUSlZFN1NBZmlKSDdZcFVjeVBQUmhIQkFybDZSUVcxbnlKaXZNS2hGTUhoNzY1dHF0TW5zQlczNA?oc=5",
-          "desc": "",
-          "title_ko": "Smokey Bones가 종료됨에 따라 지방 브랜드에 대한 여러 구매자가 등장합니다.",
-          "title_ja": "Smokey Bonesがシャットダウンすると、Fat Brandsに複数のバイヤーが登場します",
-          "title_zh": "随着Smokey Bones的关闭， Fat Brands出现了多个买家"
         }
       ]
     },
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "현대그린푸드, 임직원 원스톱 영양관리 제공하는 B2B 헬스케어 서비스 영업 나선다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pTkVIQjhZM2V4ZTB2QUxtQWJvcFlaa1Nfc3Z2eExVd3NWWld2WW1fUklickNKeF9HbXBUZVNrOXVGVVNhTFdmZnJxQ29jS0p5dHdCT3A4N1loUdIBVEFVX3lxTFBIbnhuMlF5TFZUX1Jld0VLN3FRVUlYQjE2U3lyMDRVcWxHMmtCclRNbDI1bk44OEpGSFhzQ0VyQV9nWWtWMzI4QWotZnktSzZ5SVlqMA?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food will start sales of B2B healthcare services that provide one-stop nutrition management for employees",
-          "title_ja": "現代グリーンフードは、従業員にワンストップの栄養管理を提供するB 2 Bヘルスケアサービスの販売を開始します",
-          "title_zh": "现代绿色食品将开始销售为员工提供一站式营养管理的B2B医疗保健服务"
-        },
-        {
           "title": "김치가 또 日음식?···반 고흐 미술관 식당서 '김치 샌드위치' 논란",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VWkJscUh6TVo5TGtTWXVCenFrQkdZNVRhNGk2dkZ2bXpDY3E1cEowVk9xNDMzU21qTnNfc05INEdaZE9PUG90RUIydEdZdzQ1cHdfd0I0ajBnZ29wVVBTVGIzOXczYmVQTkxF?oc=5",
           "desc": "",
@@ -144,12 +136,20 @@
           "title_zh": "泡菜又是日本菜？ · · ·梵高博物馆餐厅的“泡菜三明治”争议"
         },
         {
-          "title": "초코파이·참치·김치, K푸드 新성장판으로 뜬다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BcjFYOEZNaUJuOWR4VzJrOGtZRmVIV0k1NEpzeG81YXdFOXluWkNKRWZONkszNllxd1lpMnZDN014eTJsRFZpWmhSMzlYZkFaN2dZV2pEcm8tQdIBVEFVX3lxTE1ES3VSeGNrVl9EYS1GLUdmdTRJemlrYktOajl3NHFHQ3drN1J4bl9WSFZjTXl2SmhHTlVBSnpWUFAxM0FxdUQyLThLbFBTSk1tWVdiYw?oc=5",
+          "title": "현대그린푸드, 임직원 원스톱 영양관리 제공하는 B2B 헬스케어 서비스 영업 나선다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pTkVIQjhZM2V4ZTB2QUxtQWJvcFlaa1Nfc3Z2eExVd3NWWld2WW1fUklickNKeF9HbXBUZVNrOXVGVVNhTFdmZnJxQ29jS0p5dHdCT3A4N1loUdIBVEFVX3lxTFBIbnhuMlF5TFZUX1Jld0VLN3FRVUlYQjE2U3lyMDRVcWxHMmtCclRNbDI1bk44OEpGSFhzQ0VyQV9nWWtWMzI4QWotZnktSzZ5SVlqMA?oc=5",
           "desc": "",
-          "title_en": "Choco Pie · Tuna · Kimchi, K-Food New Growth Edition",
-          "title_ja": "チョコパイ・マグロ・キムチ、K - Food New Growth Edition",
-          "title_zh": "啾可派·金枪鱼·泡菜， K-Food全新生长版"
+          "title_en": "Hyundai Green Food will start sales of B2B healthcare services that provide one-stop nutrition management for employees",
+          "title_ja": "現代グリーンフードは、従業員にワンストップの栄養管理を提供するB 2 Bヘルスケアサービスの販売を開始します",
+          "title_zh": "现代绿色食品将开始销售为员工提供一站式营养管理的B2B医疗保健服务"
+        },
+        {
+          "title": "창업자 부담 15% 더 낮춰…9000만원대로 창업 가능한 '노브랜드 버거'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByaUZyZFNsdm9Cekk3MGN1QkNRMGVxYWJSTWtzcVFUVWIxR0g3bHNkM1BBOVpiNHcxQ1NDYnZnUFNWTExrWHdfZjQtblQ1N2pvTVNwa0l3RXNZZ9IBVEFVX3lxTE9QWXhKdG0zUkZwdXZDcjdXSmdESHg5bkVvN3A2d0JQQmJ1LUhXV2ZaeHhKam5wTVppcmwzckQtNmtyR3l1bTVhTXE4VVk2VVh2ZEw4Ng?oc=5",
+          "desc": "",
+          "title_en": "The burden on entrepreneurs is 15% lower... 'No-brand burger' that can be started for 90 million won",
+          "title_ja": "起業家の負担が15 ％減… 9000万ウォンで始められる「ノーブランドハンバーガー」",
+          "title_zh": "企业家的负担降低了15 ％......可以以9000万韩元开始的“无品牌汉堡”"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "삼성서울병원·웰스토리, 암환자 위한 ‘고밀도 케어푸드’ 개발",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNWlqR3NBNTg0SHljOUp2dm84MEpGOUdMV1d0UmlPTTRtYzR0VkswUktKZFhPd2tlSV9XRl9XeDl0Ti14Qk9DVGRpY3d6X09SdnfSAVNBVV95cUxQaHozbE5QakFSdUNGbUp1SFMyZFlGYXhzZy1xSXRDV0RwZ3EtYk5vVmZpS0VTY1BZM0xRTVZ1SGxtV2N3VmZGNnZfWGFXM2phdmdjRQ?oc=5",
+          "desc": "",
+          "title_en": "Samsung Hospital and Well Story develop ‘high-density care food' for cancer patients",
+          "title_ja": "サムスン病院とWell Story、がん患者のための「高密度ケアフード」を開発",
+          "title_zh": "三星医院和Well Story为癌症患者开发“高密度护理食品”"
+        },
         {
           "title": "“라면 다음은 딸기·고추장…K푸드 영토 넓힐것”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14blBoWHY2S2xXZDlkTE9HVlQ3SGNyUUtMc0tVbUdfc3R3c0t1bGdwU1g0SkUyWkdfOUV5SjRFaVNRbWpILUN3eV9QQWg4ZVF4U3fSAVNBVV95cUxNWXZ6TXd6ZGV1V0t5Tm5JendzaTdybEx2NTEwUzV2bzlFazNiNTJHZTRzZEp0ZmtBNUd6XzNsTk5yNnRvcEdfN3VIWFBickRDeDdQbw?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "“Fair Value” vs. “Stock Price Based Calculation” … Shinsegae Food Merger Purchase Controversial [Signal]",
           "title_ja": "「公正価値」対「株価ベースの計算」…新世界食品合併買収論争[シグナル]",
           "title_zh": "“公允价值”与“基于股票价格的计算” …… Shinsegae Food Merger Purchase有争议[Signal]"
-        },
-        {
-          "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
-          "desc": "",
-          "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
-          "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
-          "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
         }
       ]
     },
@@ -223,7 +223,7 @@
           "desc": "",
           "title_en": "Watermelon season returning… Dung Dabang, 100% Korean ‘Woori Watermelon Juice’",
           "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
-          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%韩国「Woori西瓜汁」"
+          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
         },
         {
           "title": "울릉의 봄 미식 산책…한식진흥원의 쿠킹클래스",
