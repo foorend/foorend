@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T16:24:32Z",
+  "lastUpdated": "2026-05-05T19:21:47Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -174,12 +174,12 @@
           "title_zh": "aT总裁Hong Munpyo “拉面旁边的草莓和胡椒市场…… K-food区域将扩大”"
         },
         {
-          "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
+          "title": "삼성서울병원·웰스토리, 암환자 위한 ‘고밀도 케어푸드’ 개발",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNWlqR3NBNTg0SHljOUp2dm84MEpGOUdMV1d0UmlPTTRtYzR0VkswUktKZFhPd2tlSV9XRl9XeDl0Ti14Qk9DVGRpY3d6X09SdnfSAVNBVV95cUxQaHozbE5QakFSdUNGbUp1SFMyZFlGYXhzZy1xSXRDV0RwZ3EtYk5vVmZpS0VTY1BZM0xRTVZ1SGxtV2N3VmZGNnZfWGFXM2phdmdjRQ?oc=5",
           "desc": "",
-          "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
-          "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
-          "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
+          "title_en": "Samsung Hospital and Well Story develop ‘high-density care food' for cancer patients",
+          "title_ja": "サムスン病院とWell Story、がん患者のための「高密度ケアフード」を開発",
+          "title_zh": "三星医院和Well Story为癌症患者开发“高密度护理食品”"
         }
       ]
     },
@@ -201,7 +201,7 @@
           "desc": "",
           "title_en": "Kimchi's Japanese-style food? … Controversy over menu notation at 'Van Gogh Museum'",
           "title_ja": "キムチの和食？ …「ゴッホ美術館」のメニュー表記についての議論",
-          "title_zh": "泡菜的日式美食？ ……「梵高博物馆」的菜单符号引起争议"
+          "title_zh": "泡菜的日式美食？ ……关于梵高博物馆菜单符号的争议"
         },
         {
           "title": "K푸드, 해외 매출 40조 눈앞",
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "돌아온 수박 시즌…빽다방, 100% 국내산 ‘우리수박주스’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
+          "desc": "",
+          "title_en": "Watermelon season returning… Dung Dabang, 100% Domestic ‘Woori Watermelon Juice’",
+          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
+          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
+        },
+        {
           "title": "트레이더 조 ‘비빔국수’, 제2의 냉동 김밥 될까?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAydFhpSGMwSjF2SUx4OG9VRWNhWmMxTFB3Sl9Ud2pSM0VJMXQ5RTRXczNLNV9tZG5sYTg3UjVDajM2ekFBb3pNUlBWYWhDX1A5YUtwNWtWWQ?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "Spring Food Walk in Ulleung… Korean Food Promotion Institute Cooking Class",
           "title_ja": "ウルルンで春の食べ歩き…韓国料理プロモーション協会のクッキング教室",
           "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
-        },
-        {
-          "title": "가족 외식하고 경품 받는다…SL&C, 브랜드 프로모션",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QcGh2WExkQzVaMC01VnpBMEhIamhnTHoyRW1pc1BtVkVaQ0FVaUJOcVRiSGhndktmczVwQzFNNkNSdG5iVF9xcEFneDJDWjhqV0FBQW02RQ?oc=5",
-          "desc": "",
-          "title_en": "Eat out and win prizes for families… SL&C, brand promotions",
-          "title_ja": "外食してファミリー向けの賞品を獲得… SL&C、ブランドプロモーション",
-          "title_zh": "外出就餐，赢取家庭奖励…… SL&C ，品牌促销"
         }
       ]
     }
