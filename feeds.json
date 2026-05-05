@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T13:56:52Z",
+  "lastUpdated": "2026-05-05T16:24:32Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "30돌 맞은 서울푸드, 사상 최대규모로 개최",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84VXQ3Mk9TeUI2YkRjaEMzSUw5aExRTE5EbnVCWGVfdmh4M3F0a2FfeTFnWjRhNUVhS3N1dWExZndzYTVqSHNIeWJnWWQzQy1zMzJv0gFTQVVfeXFMTzhVdDcyT1N5QjZiRGNoQzNJTDloTFFMTkRudUJYZV92aHgzcXRrYV95MWdaNGE1RWFLc3V1YTFmd3NhNWpIc0h5YmdZZDNDLXMzMm8?oc=5",
-          "desc": "",
-          "title_en": "Seoul Food, stoned at 30 stones, is the largest ever held",
-          "title_ja": "ソウルフードは、30個の石で石を投げつけられ、史上最大の規模を誇ります",
-          "title_zh": "首尔美食，用30块石头砸成石头，是有史以来最大的"
-        },
-        {
           "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VOXNyNm1qVkdoeXhEdFdXb1F4N0lzQTRmcC03MHRGQmc4SWVMbkd1Vm1Dd3U5aE03d0I3NHdXVGxhVm44ZzhzMlNCMGpxOGVkN1HSAVNBVV95cUxNQlZFSHpqeXQteUZZTUY3U3JmQVhJbEttMUhIcGxhc1pzOUJCamNUcVFuWVhsSURYY3l2RnZSTGViLTlxdG9HQ0c0elI5ZWwyRk9uaw?oc=5",
           "desc": "",
@@ -180,6 +172,14 @@
           "title_en": "Hong Munpyo, president of aT “Strawberry and pepper market next to ramen… K-food territory will be expanded”",
           "title_ja": "aT社長ホン・ムンピョ「ラーメンの隣にあるいちごとコショウの市場… Kフードの領域が広がる」",
           "title_zh": "aT总裁Hong Munpyo “拉面旁边的草莓和胡椒市场…… K-food区域将扩大”"
+        },
+        {
+          "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
+          "desc": "",
+          "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
+          "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
+          "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
         }
       ]
     },
