@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T22:01:53Z",
+  "lastUpdated": "2026-05-05T02:49:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,14 +36,6 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "This Whiskey Is Made From Crabs",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSlJ0TjhtZ1ZOVDlVUU9uNG9BS0I3dkIweHIxSlFQX1JqNXAxS0FFU3hmVUUxTUg1cFVLN08yYWZxZ0pJVkNESW1JY3BRZ3p5SDNGUFNZNl9CZ2ZmOW5kaGFsTndlb3cxQzF3dE54TzNscHZmaVphdjNmS1BpakQ4amhHcEJGUQ?oc=5",
-          "desc": "",
-          "title_ko": "게로 만든 위스키입니다",
-          "title_ja": "このウイスキーはカニから作られています",
-          "title_zh": "这款威士忌由螃蟹制成"
-        },
-        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -137,19 +137,19 @@
         },
         {
           "title": "현대그린푸드, 임직원 원스톱 영양관리 제공하는 B2B 헬스케어 서비스 영업 나선다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pTkVIQjhZM2V4ZTB2QUxtQWJvcFlaa1Nfc3Z2eExVd3NWWld2WW1fUklickNKeF9HbXBUZVNrOXVGVVNhTFdmZnJxQ29jS0p5dHdCT3A4N1loUdIBVEFVX3lxTFBIbnhuMlF5TFZUX1Jld0VLN3FRVUlYQjE2U3lyMDRVcWxHMmtCclRNbDI1bk44OEpGSFhzQ0VyQV9nWWtWMzI4QWotZnktSzZ5SVlqMA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIbnhuMlF5TFZUX1Jld0VLN3FRVUlYQjE2U3lyMDRVcWxHMmtCclRNbDI1bk44OEpGSFhzQ0VyQV9nWWtWMzI4QWotZnktSzZ5SVlqMNIBVEFVX3lxTFBIbnhuMlF5TFZUX1Jld0VLN3FRVUlYQjE2U3lyMDRVcWxHMmtCclRNbDI1bk44OEpGSFhzQ0VyQV9nWWtWMzI4QWotZnktSzZ5SVlqMA?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Food will start sales of B2B healthcare services that provide one-stop nutrition management for employees",
           "title_ja": "現代グリーンフードは、従業員にワンストップの栄養管理を提供するB 2 Bヘルスケアサービスの販売を開始します",
           "title_zh": "现代绿色食品将开始销售为员工提供一站式营养管理的B2B医疗保健服务"
         },
         {
-          "title": "'소액주주 반발'에 멈춰선 이마트 사업재편…한달 넘게 지연",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XQURuaG1JZHhFdmU4NWJTc1VRUmRaNnpIeUNvajlSVjdFMVNqVEdKcUNLaVNfdnlaOFNwc21PaWVuT3JGcFFTWTZPaVNQcUtTNWhpddIBVEFVX3lxTE1XQURuaG1JZHhFdmU4NWJTc1VRUmRaNnpIeUNvajlSVjdFMVNqVEdKcUNLaVNfdnlaOFNwc21PaWVuT3JGcFFTWTZPaVNQcUtTNWhpdQ?oc=5",
+          "title": "창업자 부담 15% 더 낮춰…9000만원대로 창업 가능한 '노브랜드 버거'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByaUZyZFNsdm9Cekk3MGN1QkNRMGVxYWJSTWtzcVFUVWIxR0g3bHNkM1BBOVpiNHcxQ1NDYnZnUFNWTExrWHdfZjQtblQ1N2pvTVNwa0l3RXNZZ9IBVEFVX3lxTE9QWXhKdG0zUkZwdXZDcjdXSmdESHg5bkVvN3A2d0JQQmJ1LUhXV2ZaeHhKam5wTVppcmwzckQtNmtyR3l1bTVhTXE4VVk2VVh2ZEw4Ng?oc=5",
           "desc": "",
-          "title_en": "Reorganization of E-Mart business stopped at 'minority shareholder pushback'... Delayed for over a month",
-          "title_ja": "イーマート事業の再編は「少数株主の反発」で止まった… 1カ月以上遅れた",
-          "title_zh": "E-Mart业务重组因“少数股东推迟”而停止...延迟了一个多月"
+          "title_en": "The burden on entrepreneurs is 15% lower... 'No-brand burger' that can be started for 90 million won",
+          "title_ja": "起業家の負担が15 ％減… 9000万ウォンで始められる「ノーブランドハンバーガー」",
+          "title_zh": "企业家的负担降低了15 ％......可以以9000万韩元开始的“无品牌汉堡”"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“公允价值”与“基于股票价格的计算” …… Shinsegae Food Merger Purchase有争议[Signal]"
         },
         {
-          "title": "“라면 다음은 딸기·고추장…K푸드 영토 넓힐것”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14blBoWHY2S2xXZDlkTE9HVlQ3SGNyUUtMc0tVbUdfc3R3c0t1bGdwU1g0SkUyWkdfOUV5SjRFaVNRbWpILUN3eV9QQWg4ZVF4U3fSAVNBVV95cUxNWXZ6TXd6ZGV1V0t5Tm5JendzaTdybEx2NTEwUzV2bzlFazNiNTJHZTRzZEp0ZmtBNUd6XzNsTk5yNnRvcEdfN3VIWFBickRDeDdQbw?oc=5",
+          "title": "홍문표 aT 사장 “라면 다음은 딸기·고추장…K푸드 영토 넓힐것”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZdnpNd3pkZXVXS3lObkl6d3NpN3JsTHY1MTBTNXZvOUVrM2I1MkdlNHNkSnRma0E1R3pfM2xOTnI2dG9wR183dUhYUGJyREN4N1Bv0gFTQVVfeXFMTVl2ek13emRldVdLeU5uSXp3c2k3cmxMdjUxMFM1dm85RWszYjUyR2U0c2RKdGZrQTVHel8zbE5OcjZ0b3BHXzd1SFhQYnJEQ3g3UG8?oc=5",
           "desc": "",
-          "title_en": "“Next to ramen, strawberry · pepper paste… K-food territory will be expanded”",
-          "title_ja": "「ラーメン、いちご・こしょうペーストの隣… K - FOODテリトリーが広がる」",
-          "title_zh": "“拉面、草莓·胡椒酱旁边…… K-food区域将扩大”"
+          "title_en": "Hong Munpyo, president of aT “Strawberry and pepper market next to ramen… K-food territory will be expanded”",
+          "title_ja": "aT社長ホン・ムンピョ「ラーメンの隣にあるいちごとコショウの市場… Kフードの領域が広がる」",
+          "title_zh": "aT总裁Hong Munpyo “拉面旁边的草莓和胡椒市场…… K-food区域将扩大”"
         },
         {
-          "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
+          "title": "삼성서울병원·웰스토리, 암환자 위한 ‘고밀도 케어푸드’ 개발",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNWlqR3NBNTg0SHljOUp2dm84MEpGOUdMV1d0UmlPTTRtYzR0VkswUktKZFhPd2tlSV9XRl9XeDl0Ti14Qk9DVGRpY3d6X09SdnfSAVNBVV95cUxQaHozbE5QakFSdUNGbUp1SFMyZFlGYXhzZy1xSXRDV0RwZ3EtYk5vVmZpS0VTY1BZM0xRTVZ1SGxtV2N3VmZGNnZfWGFXM2phdmdjRQ?oc=5",
           "desc": "",
-          "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
-          "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
-          "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
+          "title_en": "Samsung Hospital and Well Story develop ‘high-density care food' for cancer patients",
+          "title_ja": "サムスン病院とWell Story、がん患者のための「高密度ケアフード」を開発",
+          "title_zh": "三星医院和Well Story为癌症患者开发“高密度护理食品”"
         }
       ]
     },
@@ -191,7 +191,7 @@
           "title": "김치가 일본풍 음식?…'반 고흐 미술관' 메뉴판 표기 논란",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WWRfNWVDUElLcUhlUmZRZFl2TXBMV2FvT0pxX194cG5jZ1RSRFJ0eEZObGJwMW4tOVFfYmgzQ0pyWDBveW12MTVDaGlJVk9mRnc?oc=5",
           "desc": "",
-          "title_en": "Kimchi's Japanese-style food? … Controversy over the notation of the menu at the Van Gogh Museum",
+          "title_en": "Kimchi's Japanese-style food? … Controversy over menu notation at 'Van Gogh Museum'",
           "title_ja": "キムチの和食？ …「ゴッホ美術館」のメニュー表記についての議論",
           "title_zh": "泡菜的日式美食？ ……「梵高博物馆」的菜单符号引起争议"
         },
@@ -204,12 +204,12 @@
           "title_zh": "泰森食品第二季度营业利润飙升335% · ·强劲的牵引鸡肉板块"
         },
         {
-          "title": "타이슨푸드, 2분기 영업이익 335% 급증…치킨 부문 호조가 실적 견인",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mbFNibzZvTGxnSzlOaDJhQ2lkQm54aHh6bDFUMTB6dzNxQ0JhbU9EWGxiZWowY2xRNlFvZTVNMGVxdzY1T2UzNkR6RVRpbTJSQ3c?oc=5",
+          "title": "'입맛의 현지화'가 K푸드 키워 김밥·만두이어 빵도 현지생산",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fYTZNU1l3MlZPaS1yVWtfenI2aWpGcFJSUVdlMVVDWXNlVzAxTUgwWHJ1dmk5NTUycVV5UXVOYlp6YUZkdGdzT3ROZ0cxR1RZZXEtbWRB?oc=5",
           "desc": "",
-          "title_en": "Tyson Foods Surges Operating Profit by 335% in Q2… Chicken Sector Boosts Results",
-          "title_ja": "タイソン・フーズ、第2四半期に営業利益335%増…鶏肉部門が業績を押し上げる",
-          "title_zh": "泰森食品第二季度营业利润激增335% ……鸡肉板块提振业绩"
+          "title_en": "'Localization of taste' grows K-food and locally produced gimbap and dumpling bread",
+          "title_ja": "「味のローカライゼーション」は、K - foodと地元で生産されたジンバップと餃子のパンを栽培します",
+          "title_zh": "“口味本地化”种植K-food和当地生产的gimbap和饺子面包"
         }
       ]
     },
@@ -218,12 +218,20 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "“평일 2만원 뷔페”…아워홈 ‘테이크’, 종로서 개장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yWmpCWlEwZ3RkdE9RUW5CWjlGWFlLOXotZnFmZEhjVDUwdnE3aERLMkwtNE42clZnNGlUcllHa21KT1kxTFp4YVVUbGg3VjVoTmhDUVY1OA?oc=5",
+          "desc": "",
+          "title_en": "“20,000 KRW Buffet on Weekdays” … Our Home ‘Take’ Opens as Jongno",
+          "title_ja": "「平日2万ウォンのビュッフェ」…我が家「テイク」が鍾路としてオープン",
+          "title_zh": "「工作日2万韩元自助餐」……我们的房源「Take」以钟路（ Jongno ）开业"
+        },
+        {
           "title": "돌아온 수박 시즌…빽다방, 100% 국내산 ‘우리수박주스’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
           "desc": "",
-          "title_en": "Watermelon season returning… Dung Dabang, 100% Korean ‘Woori Watermelon Juice’",
+          "title_en": "Watermelon season returning… Dung Dabang, 100% Domestic ‘Woori Watermelon Juice’",
           "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
-          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%韩国「Woori西瓜汁」"
+          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
         },
         {
           "title": "트레이더 조 ‘비빔국수’, 제2의 냉동 김밥 될까?",
@@ -232,14 +240,6 @@
           "title_en": "Will Trader Joe ‘Bibim Noodles’ become the second frozen gimbap?",
           "title_ja": "トレーダージョー「ビビムヌードル」は2番目の冷凍ジンバップになりますか？",
           "title_zh": "Trader Joe ‘Bibim Noodles‘会不会成为第二个冷冻gimbap ？"
-        },
-        {
-          "title": "울릉의 봄 미식 산책…한식진흥원의 쿠킹클래스",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWg1OUJRMkVLeTlQM2JMX1c1Skl1aTAyRHNJcWxyNm13X1pIWFk3Yk9rWkRxMGo5OGU3N0QzNTAxc09zX1Z4a0NjVE9uMWhxeFhHc3hpTQ?oc=5",
-          "desc": "",
-          "title_en": "Spring Food Walk in Ulleung… Korean Food Promotion Institute Cooking Class",
-          "title_ja": "ウルルンで春の食べ歩き…韓国料理プロモーション協会のクッキング教室",
-          "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
         }
       ]
     }
