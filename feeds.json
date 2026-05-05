@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T08:11:01Z",
+  "lastUpdated": "2026-05-05T10:47:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -57,7 +57,7 @@
           "desc": "",
           "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
           "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡有助于判断您是否需要进行新冠肺炎检测"
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -137,7 +137,7 @@
         },
         {
           "title": "현대그린푸드, 임직원 원스톱 영양관리 제공하는 B2B 헬스케어 서비스 영업 나선다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pTkVIQjhZM2V4ZTB2QUxtQWJvcFlaa1Nfc3Z2eExVd3NWWld2WW1fUklickNKeF9HbXBUZVNrOXVGVVNhTFdmZnJxQ29jS0p5dHdCT3A4N1loUdIBVEFVX3lxTFBIbnhuMlF5TFZUX1Jld0VLN3FRVUlYQjE2U3lyMDRVcWxHMmtCclRNbDI1bk44OEpGSFhzQ0VyQV9nWWtWMzI4QWotZnktSzZ5SVlqMA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIbnhuMlF5TFZUX1Jld0VLN3FRVUlYQjE2U3lyMDRVcWxHMmtCclRNbDI1bk44OEpGSFhzQ0VyQV9nWWtWMzI4QWotZnktSzZ5SVlqMNIBVEFVX3lxTFBIbnhuMlF5TFZUX1Jld0VLN3FRVUlYQjE2U3lyMDRVcWxHMmtCclRNbDI1bk44OEpGSFhzQ0VyQV9nWWtWMzI4QWotZnktSzZ5SVlqMA?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Food will start sales of B2B healthcare services that provide one-stop nutrition management for employees",
           "title_ja": "現代グリーンフードは、従業員にワンストップの栄養管理を提供するB 2 Bヘルスケアサービスの販売を開始します",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "30돌 맞은 서울푸드, 사상 최대규모로 개최",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84VXQ3Mk9TeUI2YkRjaEMzSUw5aExRTE5EbnVCWGVfdmh4M3F0a2FfeTFnWjRhNUVhS3N1dWExZndzYTVqSHNIeWJnWWQzQy1zMzJv0gFTQVVfeXFMTzhVdDcyT1N5QjZiRGNoQzNJTDloTFFMTkRudUJYZV92aHgzcXRrYV95MWdaNGE1RWFLc3V1YTFmd3NhNWpIc0h5YmdZZDNDLXMzMm8?oc=5",
+          "desc": "",
+          "title_en": "Seoul Food, stoned at 30 stones, is the largest ever held",
+          "title_ja": "ソウルフードは、30個の石で石を投げつけられ、史上最大の規模を誇ります",
+          "title_zh": "首尔美食，用30块石头砸成石头，是有史以来最大的"
+        },
+        {
           "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VOXNyNm1qVkdoeXhEdFdXb1F4N0lzQTRmcC03MHRGQmc4SWVMbkd1Vm1Dd3U5aE03d0I3NHdXVGxhVm44ZzhzMlNCMGpxOGVkN1HSAVNBVV95cUxNQlZFSHpqeXQteUZZTUY3U3JmQVhJbEttMUhIcGxhc1pzOUJCamNUcVFuWVhsSURYY3l2RnZSTGViLTlxdG9HQ0c0elI5ZWwyRk9uaw?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Hong Munpyo, president of aT “Strawberry and pepper market next to ramen… K-food territory will be expanded”",
           "title_ja": "aT社長ホン・ムンピョ「ラーメンの隣にあるいちごとコショウの市場… Kフードの領域が広がる」",
           "title_zh": "aT总裁Hong Munpyo “拉面旁边的草莓和胡椒市场…… K-food区域将扩大”"
-        },
-        {
-          "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
-          "desc": "",
-          "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
-          "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
-          "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "김치가 일본풍 음식?…'반 고흐 미술관' 메뉴판 표기 논란",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WWRfNWVDUElLcUhlUmZRZFl2TXBMV2FvT0pxX194cG5jZ1RSRFJ0eEZObGJwMW4tOVFfYmgzQ0pyWDBveW12MTVDaGlJVk9mRnc?oc=5",
-          "desc": "",
-          "title_en": "Kimchi's Japanese-style food? … Controversy over menu notation at 'Van Gogh Museum'",
-          "title_ja": "キムチの和食？ …「ゴッホ美術館」のメニュー表記についての議論",
-          "title_zh": "泡菜的日式美食？ ……「梵高博物馆」的菜单符号引起争议"
-        },
-        {
           "title": "타이슨 푸드, 2분기 영업이익 335% 급증··치킨 부문 호조 견인",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5U01OUkwtVWtsWkxWaThqU3hLVmVuajFZZ21ZR3RacDBxeVlaRXFEdlZxMDFUQndsSHpzbHp2S3E0ZThKZTI3bWFsT2VMYTgyY1E?oc=5",
           "desc": "",
           "title_en": "Tyson Foods Surges 335% in Operating Profit in Q2 · · Strong Towing Chicken Sector",
           "title_ja": "タイソン・フーズ、第2四半期の営業利益が335%増・・・強力な牽引チキンセクター",
           "title_zh": "泰森食品第二季度营业利润飙升335% · ·强劲的牵引鸡肉板块"
+        },
+        {
+          "title": "김치가 일본풍 음식?…'반 고흐 미술관' 메뉴판 표기 논란",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WWRfNWVDUElLcUhlUmZRZFl2TXBMV2FvT0pxX194cG5jZ1RSRFJ0eEZObGJwMW4tOVFfYmgzQ0pyWDBveW12MTVDaGlJVk9mRnc?oc=5",
+          "desc": "",
+          "title_en": "Kimchi's Japanese-style food? … Controversy over menu notation at 'Van Gogh Museum'",
+          "title_ja": "キムチの和食？ …「ゴッホ美術館」のメニュー表記についての議論",
+          "title_zh": "泡菜的日式美食？ ……关于梵高博物馆菜单符号的争议"
         },
         {
           "title": "'입맛의 현지화'가 K푸드 키워 김밥·만두이어 빵도 현지생산",
@@ -222,8 +222,8 @@
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
           "desc": "",
           "title_en": "Watermelon season returning… Dung Dabang, 100% Domestic ‘Woori Watermelon Juice’",
-          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、韓国の100 ％「ウーリスイカジュース」",
-          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
+          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
+          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%韩国「Woori西瓜汁」"
         },
         {
           "title": "트레이더 조 ‘비빔국수’, 제2의 냉동 김밥 될까?",
