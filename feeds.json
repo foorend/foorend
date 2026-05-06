@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-05-05T22:01:05Z",
+  "lastUpdated": "2026-05-06T02:55:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Why restaurant loyalty is stuck",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2ZtYmRyWFY5c3I5ME5uT2toM2dJQzJncFVzSzZGckVSQjFWOU5McENOSkViRlRHVTRBaGNfRER0dFNGYW5Sd2FhTDFZZnV6ZUR3TkhiNExTX0x3NDZRNGVvdWZKODZwUF94VjBPa2FKRUltcUdfUmZrZnMwbG1JNk1B?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑 충성도가 저조한 이유",
+          "title_ja": "レストランのロイヤルティが停滞している理由",
+          "title_zh": "餐厅忠诚度为何停滞不前"
+        },
         {
           "title": "Sysco CEO: 'We will absolutely not be raising prices at Restaurant Depot'",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUk5DeDN6c2Z6cnRlZm5ReHBSQnBjRjhkOEp3aWhsYk9ZdXg2Qi1pTnVEb2lQb1JTZUlUbnJDaVV1Wlk5OVF3aGxUaTVLZG56a3kwVzd3SUpQZDFWQjVxTS1LRlhzQkE3M1I2SHJLcGJuNXowUnNKUGJmdzRYVkFxVUlxMDFkSEtoZGx3SDEtS2NhUWRJQTZObjhGcW9XWk5BYXFwNzZ3Y1JCUkE5WlozWnI3OGI?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "Chipotle은 심화되는 단백질 종족의 초기 리더로 부상합니다.",
           "title_ja": "チポトレは、激化するタンパク質レースの初期のリーダーとして登場します",
           "title_zh": "Chipotle成为强化蛋白质竞赛的早期领导者"
-        },
-        {
-          "title": "KFC U.S. same-store sales disappear from Yum Brands’ earnings report",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEphdGFKYWZybEpWMGZDdXpRcUhWUUgyUDByRXB0MUpoYkdwV2tWWnNGTnNPZ3BRbTZFclpaQk9MdC12ODJSbFFKSVVuTFJnNGJPNTkzWWlvdnUyMHN0VjlNcGp4ei1qWnFHeHE3cklTSjBLT2pkSGJTZmR3a25NdkxCUlN2LUlUeDhlZUR1RFBXd1RZSFljdzAzQWFsdEpFT1JwZ25LR1Z4SGc?oc=5",
-          "desc": "",
-          "title_ko": "KFC 미국 동일 매장 매출이 Yum Brands의 수익 보고서에서 사라짐",
-          "title_ja": "KFC米国店舗売上高がYum Brandsの収益報告書から消える",
-          "title_zh": "肯德基美国同店销售额从百胜品牌收益报告中消失"
         }
       ]
     },
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "홍문표 aT 사장 “라면 다음은 딸기·고추장…K푸드 영토 넓힐것”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZdnpNd3pkZXVXS3lObkl6d3NpN3JsTHY1MTBTNXZvOUVrM2I1MkdlNHNkSnRma0E1R3pfM2xOTnI2dG9wR183dUhYUGJyREN4N1Bv0gFTQVVfeXFMTVl2ek13emRldVdLeU5uSXp3c2k3cmxMdjUxMFM1dm85RWszYjUyR2U0c2RKdGZrQTVHel8zbE5OcjZ0b3BHXzd1SFhQYnJEQ3g3UG8?oc=5",
+          "desc": "",
+          "title_en": "Hong Munpyo, president of aT “Strawberry and pepper market next to ramen… K-food territory will be expanded”",
+          "title_ja": "aT社長ホン・ムンピョ「ラーメンの隣にあるいちごとコショウの市場… Kフードの領域が広がる」",
+          "title_zh": "aT总裁Hong Munpyo “拉面旁边的草莓和胡椒市场…… K-food区域将扩大”"
+        },
+        {
           "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VOXNyNm1qVkdoeXhEdFdXb1F4N0lzQTRmcC03MHRGQmc4SWVMbkd1Vm1Dd3U5aE03d0I3NHdXVGxhVm44ZzhzMlNCMGpxOGVkN1HSAVNBVV95cUxNQlZFSHpqeXQteUZZTUY3U3JmQVhJbEttMUhIcGxhc1pzOUJCamNUcVFuWVhsSURYY3l2RnZSTGViLTlxdG9HQ0c0elI5ZWwyRk9uaw?oc=5",
           "desc": "",
@@ -166,20 +174,12 @@
           "title_zh": "“公允价值”与“基于股票价格的计算” …… Shinsegae Food Merger Purchase有争议[Signal]"
         },
         {
-          "title": "홍문표 aT 사장 “라면 다음은 딸기·고추장…K푸드 영토 넓힐것”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14blBoWHY2S2xXZDlkTE9HVlQ3SGNyUUtMc0tVbUdfc3R3c0t1bGdwU1g0SkUyWkdfOUV5SjRFaVNRbWpILUN3eV9QQWg4ZVF4U3fSAVNBVV95cUxNWXZ6TXd6ZGV1V0t5Tm5JendzaTdybEx2NTEwUzV2bzlFazNiNTJHZTRzZEp0ZmtBNUd6XzNsTk5yNnRvcEdfN3VIWFBickRDeDdQbw?oc=5",
+          "title": "CJ씨푸드, 매수잔량 509% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nMXZLa0V0YkZsYjdNbVJzWXJxTy1hcXo3Qk53T18tbVFtZzI1VHFIWEJyM01oZXhjMTljMHhwOEFvRWJmZHRDa01SaEpLa0MwOXh3?oc=5",
           "desc": "",
-          "title_en": "Hong Munpyo, president of aT “Strawberry and pepper market next to ramen… K-food territory will be expanded”",
-          "title_ja": "aT社長ホン・ムンピョ「ラーメンの隣にあるいちごとコショウの市場… Kフードの領域が広がる」",
-          "title_zh": "aT总裁Hong Munpyo “拉面旁边的草莓和胡椒市场…… K-food区域将扩大”"
-        },
-        {
-          "title": "차마고도 옌징의 ‘소금 우물’ [류현미의 산과 음식]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTExKb1dOanFLQS1JZFkySmNWc0w4YkhqTWpUbHNBQk1tYmh2MFdZYjIxWHpIM3lqSXIwSUNuUGJINmFQcUk0ZllJRzFtSzIyM2fSAVNBVV95cUxPOE83QUtvaDBYNmMzR2J4a1FDZGUwcmFxbUNsVEJzYnpjdm5KTzNEaXZmN05TR0Q1NERucFFiNW4yLXYtM21wblpJVVRNT0xheTM4OA?oc=5",
-          "desc": "",
-          "title_en": "‘Salt Well‘ in Yanjing, Chamagodo [Mountains and Food in Ryuhyunmi]",
-          "title_ja": "チャマゴド、ヤンジンの「ソルトウェル」【龍雲海の山と食べ物】",
-          "title_zh": "Chamagodo燕京的「盐井」[Ryuhyunmi的山脉和美食]"
+          "title_en": "CJC Foods Buying Balance Surges by 509%",
+          "title_ja": "CJC Foodsの購入残高が509%急増",
+          "title_zh": "CJC Foods购买余额激增509%"
         }
       ]
     },
@@ -188,20 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "타이슨 푸드, 2분기 영업이익 335% 급증··치킨 부문 호조 견인",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5U01OUkwtVWtsWkxWaThqU3hLVmVuajFZZ21ZR3RacDBxeVlaRXFEdlZxMDFUQndsSHpzbHp2S3E0ZThKZTI3bWFsT2VMYTgyY1E?oc=5",
+          "title": "임형택 익산시장 후보 \"로컬푸드 어양점 행정대집행 중단해야\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJQjNQSEE2QzRIN0lwbnBDbEFQRWgyZnVBR2lVdE5SdEpxSzhGSWszWUtGMzNmZG9XRnV2WE9DWTlMMmZ3QXdBc1dzSVNPdHFTM2c?oc=5",
           "desc": "",
-          "title_en": "Tyson Foods Surges 335% in Operating Profit in Q2 · · Strong Towing Chicken Sector",
-          "title_ja": "タイソン・フーズ、第2四半期の営業利益が335%増・・・強力な牽引チキンセクター",
-          "title_zh": "泰森食品第二季度营业利润飙升335% · ·强劲的牵引鸡肉板块"
-        },
-        {
-          "title": "김치가 일본풍 음식?…'반 고흐 미술관' 메뉴판 표기 논란",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WWRfNWVDUElLcUhlUmZRZFl2TXBMV2FvT0pxX194cG5jZ1RSRFJ0eEZObGJwMW4tOVFfYmgzQ0pyWDBveW12MTVDaGlJVk9mRnc?oc=5",
-          "desc": "",
-          "title_en": "Kimchi's Japanese-style food? … Controversy over menu notation at 'Van Gogh Museum'",
-          "title_ja": "キムチの和食？ …「ゴッホ美術館」のメニュー表記についての議論",
-          "title_zh": "泡菜的日式美食？ ……「梵高博物馆」的菜单符号引起争议"
+          "title_en": "Candidate for Iksan market, Lim Hyung-taek, \"We must suspend the administration of local food ayang branch.\"",
+          "title_ja": "イクサンマーケットの候補者であるリム・ヒョンテク氏は、「地元の食料アヤン支店の運営を一時停止しなければならない」と述べた。",
+          "title_zh": "Iksan市场的候选人Lim Hyung-taek ， “我们必须暂停当地食品阿阳分店的管理。”"
         },
         {
           "title": "K푸드, 해외 매출 40조 눈앞",
@@ -210,6 +202,14 @@
           "title_en": "K-Foods, 40 trillion overseas sales in front of",
           "title_ja": "K - Foods、海外売上高40兆円を目の前に",
           "title_zh": "K-Foods ， 40万亿海外销量在"
+        },
+        {
+          "title": "타이슨 푸드, 2분기 영업이익 335% 급증··치킨 부문 호조 견인",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5U01OUkwtVWtsWkxWaThqU3hLVmVuajFZZ21ZR3RacDBxeVlaRXFEdlZxMDFUQndsSHpzbHp2S3E0ZThKZTI3bWFsT2VMYTgyY1E?oc=5",
+          "desc": "",
+          "title_en": "Tyson Foods Surges 335% in Operating Profit in Q2 · · Strong Towing Chicken Sector",
+          "title_ja": "タイソン・フーズ、第2四半期の営業利益が335%増・・・強力な牽引チキンセクター",
+          "title_zh": "泰森食品第二季度营业利润飙升335% · ·强劲的牵引鸡肉板块"
         }
       ]
     },
@@ -222,16 +222,8 @@
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
           "desc": "",
           "title_en": "Watermelon season returning… Dung Dabang, 100% Domestic ‘Woori Watermelon Juice’",
-          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、韓国の100 ％「ウーリスイカジュース」",
+          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
           "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
-        },
-        {
-          "title": "반려동물 고령화, 프랑스 건강 사료의 성장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JMlpyNHJmSTUxRk40SUdNamxSNzROWVVhZ2NLZTFBM2RkS1k3aHVCWVZ6bDhKeDNGeEJ0VUlqU1k3V0RaWHdGbW1KZUpQekZwRS1wVlVBZw?oc=5",
-          "desc": "",
-          "title_en": "Ageing pets, growing French health feed",
-          "title_ja": "高齢化するペット、成長するフランスのヘルスフィード",
-          "title_zh": "老龄化的宠物，不断增长的法国健康饲料"
         },
         {
           "title": "트레이더 조 ‘비빔국수’, 제2의 냉동 김밥 될까?",
@@ -240,6 +232,14 @@
           "title_en": "Will Trader Joe ‘Bibim Noodles’ become the second frozen gimbap?",
           "title_ja": "トレーダージョー「ビビムヌードル」は2番目の冷凍ジンバップになりますか？",
           "title_zh": "Trader Joe ‘Bibim Noodles‘会不会成为第二个冷冻gimbap ？"
+        },
+        {
+          "title": "울릉의 봄 미식 산책…한식진흥원의 쿠킹클래스",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWg1OUJRMkVLeTlQM2JMX1c1Skl1aTAyRHNJcWxyNm13X1pIWFk3Yk9rWkRxMGo5OGU3N0QzNTAxc09zX1Z4a0NjVE9uMWhxeFhHc3hpTQ?oc=5",
+          "desc": "",
+          "title_en": "Spring Food Walk in Ulleung… Korean Food Promotion Institute Cooking Class",
+          "title_ja": "ウルルンで春の食べ歩き…韓国料理プロモーション協会のクッキング教室",
+          "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
         }
       ]
     }
