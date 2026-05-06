@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T11:08:06Z",
+  "lastUpdated": "2026-05-06T14:13:38Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "How I Built a Community Around My Bakery",
+          "link": "https://www.eater.com/pre-shift/960336/downtime-bakery-bakers-hang-philadelphia-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "내 베이커리 주변에 커뮤니티를 구축한 방법",
+          "title_ja": "ベーカリーを取り巻くコミュニティの作り方",
+          "title_zh": "如何在面包店周围建立社区"
+        },
+        {
           "title": "Nyesha Arrington Eats Collard Green Lasagna with Issa Rae in Los Angeles",
           "link": "https://www.eater.com/video/960181/where-nyesha-arrington-eats-in-los-angeles",
           "desc": "In this episode of Plateworthy, host Nyesha Arrington returns to her hometown for the third and final stop on her California food tour. Her time in Lo",
@@ -110,14 +118,6 @@
           "title_ko": "워싱턴 D.C. 에서 호세 안드레스가 스페인 음식을 먹는 곳",
           "title_ja": "José AndrésがワシントンD.C.でスペイン料理を食べる場所",
           "title_zh": "何塞·安德烈斯（ José Andrés ）在华盛顿特区品尝西班牙美食"
-        },
-        {
-          "title": "Get an Insider’s Look at ‘Eaterland,’ Eater’s Newest Cookbook",
-          "link": "https://www.eater.com/eater-at-home/954712/get-an-insiders-look-at-eaterland-eaters-newest-cookbook",
-          "desc": "Eater has a new cookbook. Eaterland, Recipes and Stories from Across the United States, debuting April 28. To celebrate launch week, we’re sharing a s",
-          "title_ko": "인사이더스 룩 (Insider‘s Look) - 이터랜드 (Eaterland), 이터랜드의 최신 요리책",
-          "title_ja": "食通の最新クックブック「Eaterland」をインサイダー向けにチェックしよう",
-          "title_zh": "深入了解顾客的最新烹饪书《Eaterland》"
         }
       ]
     }
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "K푸드·K뷰티…반도체 이을 '수출 효자' 키운다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qQW43QzhXNFdrMkFoQzhFZF9RcWl1a0gyM2UzMHN1MHJiaDFoRDVwTVJEcE8tS0NBMkJwa01STEV1MlNpcV9zTkJHR2FGMkVNYi0wSGRvR2tjZ9IBVEFVX3lxTE9YX09MZnhTYzFDam1sN2lKSnRtZGg5SktNSmFEeEtldnFJR21XSlp6QW40XzlTYWpWR1Nra1VTVE1pNjhPM3M2bkVqdDBBNzczdHc0QQ?oc=5",
-          "desc": "",
-          "title_en": "K-Food and K-Beauty Raise 'Export Hyoja' for Semiconductor",
-          "title_ja": "K - FoodとK - Beautyが半導体向け「Export Hyoja」を発表",
-          "title_zh": "K-Food和K-Beauty提高半导体的“出口Hyoja”"
-        },
-        {
           "title": "어린이날 맞아 11년째 보육원에 음식 기부한 '이 회사'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zcWU3dnU3OTRJZ0hUbkxUeHpLS1Fac3JHRXdEM01BX0M5WlFvajdYZjc3R1BhQnlDN2xUZFQ3MzdjM0FzTjgtNWtvcmVzQTV2bkE5SUJWd2NzQdIBVEFVX3lxTE9GcDlFaXBaMzN6SlUxM2h3SnFIT3VmMFZrckNRZnRWbGZKVjlVbjVlbmJSU3FHX01TY2w0dHNCU2lVOURmeW8wSV95cWdQZmVxRy1VWg?oc=5",
           "desc": "",
           "title_en": "'This company' donated food to the nursery for 11 years for Children's Day",
           "title_ja": "「この会社」は、子供の日のために11年間、保育園に食料を寄付しました",
           "title_zh": "“这家公司”为儿童节向托儿所捐赠了11年的食物"
+        },
+        {
+          "title": "K푸드·K뷰티…반도체 이을 '수출 효자' 키운다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qQW43QzhXNFdrMkFoQzhFZF9RcWl1a0gyM2UzMHN1MHJiaDFoRDVwTVJEcE8tS0NBMkJwa01STEV1MlNpcV9zTkJHR2FGMkVNYi0wSGRvR2tjZ9IBVEFVX3lxTE9YX09MZnhTYzFDam1sN2lKSnRtZGg5SktNSmFEeEtldnFJR21XSlp6QW40XzlTYWpWR1Nra1VTVE1pNjhPM3M2bkVqdDBBNzczdHc0QQ?oc=5",
+          "desc": "",
+          "title_en": "K-Food and K-Beauty Raise 'Export Hyoja' for Semiconductor",
+          "title_ja": "K - FoodとK - Beautyが半導体向け「Export Hyoja」を発表",
+          "title_zh": "K-Food和K-Beauty提高半导体的“出口Hyoja”"
         },
         {
           "title": "빌리 츠키, 비주얼 정점 비결 \"소울푸드 마라샹궈 끊었어요\"",
@@ -166,12 +166,12 @@
           "title_zh": "现代绿色食品，第一季度营业利润464亿韩元……同比增长44%↑"
         },
         {
-          "title": "해마로푸드서비스, 3.18% 오르며 체결강도 강세 지속(166%)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oMUpoeVczaEFZdjlqY21uWjhNRU83UzlQMHVnckUtNlVCT0piSUVaOXFPajVPVTQ3NW1ZdzJKcWx5NjdhWVZCZE5lYWFqbzZzUE5J?oc=5",
+          "title": "[뉴스브리핑] 유전자조작 안된 음식먹기 축제",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yTmY4YzN6RkJ6eVdVVHFJdkJxZWNySUdaa0tRYzhsMjI0ME55N1ZIZU9DaTYteFViNWd4a3c3SFBJSjFlaFRGNTZMMDhUVWduT0Y0?oc=5",
           "desc": "",
-          "title_en": "Hippopotamus food service increased 3.18% and the strength of fastening continued (166%)",
-          "title_ja": "カバのフードサービスは3.18 ％増加し、固定の強さは続いた（ 166 ％ ）",
-          "title_zh": "河马餐饮服务增长3.18% ，紧固强度继续保持（ 166% ）"
+          "title_en": "[News Briefing] Festival of Genetically Modified Eating",
+          "title_ja": "【ニュース・ブリーフィング】遺伝子組み換え食の祭典",
+          "title_zh": "【新闻发布会】转基因饮食节"
         },
         {
           "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "J&J 스낵 푸드, 2분기 조정 EPS 14% 증가..아폴로 프로젝트 성과",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4cklnZU5wRkxNWVRPWmNZX3BtRlFTcDlpdlEwV1NpdFVSWVBZV0J6MHN5UlRkSThhaU9FVXVFdms2SEYtdVgtS2tnUmVESm1LTHc?oc=5",
+          "desc": "",
+          "title_en": "J&J Snack Foods Adjusted EPS Up 14% in Q2.. Apollo Project Performance",
+          "title_ja": "J&Jスナックは第2四半期にEPSを14%上昇させました。アポロプロジェクトのパフォーマンス",
+          "title_zh": "强生休闲食品第二季度调整后每股盈利增长14%..阿波罗项目业绩"
+        },
+        {
           "title": "임형택 익산시장 후보 \"로컬푸드 어양점 행정대집행 중단해야\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJQjNQSEE2QzRIN0lwbnBDbEFQRWgyZnVBR2lVdE5SdEpxSzhGSWszWUtGMzNmZG9XRnV2WE9DWTlMMmZ3QXdBc1dzSVNPdHFTM2c?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Hyundai Green Foods, Q1 Operating Profit 43.9%↑ … “Food, Food and Dining Growth”",
           "title_ja": "現代グリーンフーズ、第1四半期営業利益43.9 ％↑ …「食品、食品、ダイニングの成長」",
           "title_zh": "现代绿色食品，第一季度营业利润43.9%↑ …… “食品、食品和餐饮增长”"
-        },
-        {
-          "title": "K푸드, 해외 매출 40조 눈앞",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfQjNTQVZBanFzT044VkdBVDZpNEw5WkpzU3ZSX1F6bUlTTWdaTFRuT3JjclhjdmZpMmxXSVVVYUNiNVo4T0NENjk5bXJFdGdwNnM4c2NB?oc=5",
-          "desc": "",
-          "title_en": "K-Foods, 40 trillion overseas sales in front of",
-          "title_ja": "K - Foods、海外売上高40兆円を目の前に",
-          "title_zh": "K-Foods ， 40万亿海外销量在"
         }
       ]
     },
