@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-05-06T14:13:38Z",
+  "lastUpdated": "2026-05-06T16:28:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Subway's corporate profit has taken off under Roark Capital",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFZaNzA1S2s5YlZGMUJVdHotRWZHdU1LejRhOExaN0pOU0x6SC1tMzRFNzlyMWhFRDhWOWxWTldaS0NOQ0VOZl8yYlU1M0xjRXI1VWRuS3pjSXdOVjBJeHlRcEFEaWF2eGR2WnV4SHFlX01zUFBOZTZEVjRxRy1hTW8tRFVfMElfcVZCdy1uYnFnMmFlcTk0TWJWMEpkN0FnVU1N?oc=5",
+          "desc": "",
+          "title_ko": "서브웨이의 기업 이익은 Roark Capital에 의해 실현되었습니다.",
+          "title_ja": "サブウェイの企業利益はローク・キャピタルの下で上昇した",
+          "title_zh": "赛百味的企业利润在Roark Capital的领导下实现了腾飞"
+        },
         {
           "title": "Why restaurant loyalty is stuck",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2ZtYmRyWFY5c3I5ME5uT2toM2dJQzJncFVzSzZGckVSQjFWOU5McENOSkViRlRHVTRBaGNfRER0dFNGYW5Sd2FhTDFZZnV6ZUR3TkhiNExTX0x3NDZRNGVvdWZKODZwUF94VjBPa2FKRUltcUdfUmZrZnMwbG1JNk1B?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "Sysco CEO: '우리는 Restaurant Depot에서 가격을 인상하지 않을 것입니다'",
           "title_ja": "シスコ最高経営責任者（ CEO ） ：「レストラン・デポでの価格引き上げは絶対に行わない」",
           "title_zh": "Sysco首席执行官： “我们绝对不会提高Restaurant Depot的价格”"
-        },
-        {
-          "title": "Chipotle emerges as an early leader in the intensifying protein race",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFoyODdJT2czNGNMdVRRcG5nSkpoamdldkNzU0w2YmN5MXhiWDlUV01CR3RFZ2VpRjZEeklKUkxJa2V2RDZkel9nOWIzQWkxR2tpUF8xMGFXV1VnVlVZSFpSaWc2dFZ4dUFjTlJaNldKbXRrMDh5UUg2WkpsT2swNVJ2WUlJWmRyX0NHS3BCWEpDV3pJbkRiUmluRzFQRnNoaHlUaWZyLXhzaDlo?oc=5",
-          "desc": "",
-          "title_ko": "Chipotle은 심화되는 단백질 종족의 초기 리더로 부상합니다.",
-          "title_ja": "チポトレは、激化するタンパク質レースの初期のリーダーとして登場します",
-          "title_zh": "Chipotle成为强化蛋白质竞赛的早期领导者"
         }
       ]
     },
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "Food",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
-          "desc": "",
-          "title_ko": "식료품비",
-          "title_ja": "食料",
-          "title_zh": "食物"
-        },
-        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -95,6 +95,14 @@
       "label": "Eater",
       "site": "https://www.eater.com/trends",
       "items": [
+        {
+          "title": "Here Are the 2026 James Beard Awards Restaurant, Chef, and Media Award Finalists",
+          "link": "https://www.eater.com/dining-out/951811/2026-james-beard-awards-restaurant-chef-finalists",
+          "desc": "The James Beard Foundation has now announced all of its nominees for the 2026 James Beard Awards. The awards represent one of the highest honors in th",
+          "title_ko": "2026년 제임스 비어드 어워드 레스토랑, 셰프, 미디어 어워드 결선 진출자를 소개합니다.",
+          "title_ja": "2026年ジェームズ・ビアード賞レストラン、シェフ、メディア賞ファイナリスト",
+          "title_zh": "以下是2026年詹姆斯·比尔德奖餐厅、厨师和媒体奖决赛选手"
+        },
         {
           "title": "How I Built a Community Around My Bakery",
           "link": "https://www.eater.com/pre-shift/960336/downtime-bakery-bakers-hang-philadelphia-pre-shift",
@@ -110,14 +118,6 @@
           "title_ko": "로스앤젤레스의 Issa Rae와 함께하는 Nyesha Arrington Eats Collard Green Lasagna",
           "title_ja": "ロサンゼルスのNyesha Arrington Eats Collard Green LasagnaとIssa Rae",
           "title_zh": "与Issa Rae一起在洛杉矶品尝Nyesha Arrington美食Collard绿烤宽面条"
-        },
-        {
-          "title": "Where José Andrés Eats Spanish Food in Washington, D.C.",
-          "link": "https://www.eater.com/dining-out/959215/jose-andres-washington-dc-casa-teresa",
-          "desc": "In the latest episode of Let’s Do Lunch, celebrity chef José Andrés sits down for a bite at Spanish restaurant Casa Teresa in Washington, D.C. where h",
-          "title_ko": "워싱턴 D.C. 에서 호세 안드레스가 스페인 음식을 먹는 곳",
-          "title_ja": "José AndrésがワシントンD.C.でスペイン料理を食べる場所",
-          "title_zh": "何塞·安德烈斯（ José Andrés ）在华盛顿特区品尝西班牙美食"
         }
       ]
     }
@@ -166,12 +166,12 @@
           "title_zh": "现代绿色食品，第一季度营业利润464亿韩元……同比增长44%↑"
         },
         {
-          "title": "[뉴스브리핑] 유전자조작 안된 음식먹기 축제",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yTmY4YzN6RkJ6eVdVVHFJdkJxZWNySUdaa0tRYzhsMjI0ME55N1ZIZU9DaTYteFViNWd4a3c3SFBJSjFlaFRGNTZMMDhUVWduT0Y0?oc=5",
+          "title": "CJ씨푸드, 상한가 진입.. +30.00% ↑",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85Rmo0eFB5dFpDZUE5WlhGWGUycjMxcTV1S0JlVGtpdkZXWEw4WHhJUVN2emc5ZHZ4U1JqYW1oWE14TUhOdmlFcnRWUVE0azFfLW9v?oc=5",
           "desc": "",
-          "title_en": "[News Briefing] Festival of Genetically Modified Eating",
-          "title_ja": "【ニュース・ブリーフィング】遺伝子組み換え食の祭典",
-          "title_zh": "【新闻发布会】转基因饮食节"
+          "title_en": "CJ Seafood enters the upper limit.. +30.00% ↑",
+          "title_ja": "CJシーフードが上限に達しました.. +30.00% ↑",
+          "title_zh": "CJ海鲜进入上限.. +30.00% ↑"
         },
         {
           "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
