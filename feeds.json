@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T19:46:55Z",
+  "lastUpdated": "2026-05-06T21:57:36Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Quince Sells Caviar and Wine Now. Is It Any Good?",
+          "link": "https://www.eater.com/shopping/960397/quince-caviar-wine-coffee-review",
+          "desc": "For years, Quince has been a website that I knew as “that place to get affordable cashmere sweaters.” But as its offerings have expanded further and f",
+          "title_ko": "Quince는 캐비어와 와인을 지금 판매합니다. 괜찮은가요?",
+          "title_ja": "Quinceは今キャビアとワインを販売しています。何か良いことはありますか？",
+          "title_zh": "Quince现在出售鱼子酱和葡萄酒。有好处吗？"
+        },
+        {
           "title": "Here Are the 2026 James Beard Awards Restaurant, Chef, and Media Award Finalists",
           "link": "https://www.eater.com/dining-out/951811/2026-james-beard-awards-restaurant-chef-finalists",
           "desc": "The James Beard Foundation has now announced all of its nominees for the 2026 James Beard Awards. The awards represent one of the highest honors in th",
@@ -110,14 +118,6 @@
           "title_ko": "내 베이커리 주변에 커뮤니티를 구축한 방법",
           "title_ja": "ベーカリーを取り巻くコミュニティの作り方",
           "title_zh": "如何在面包店周围建立社区"
-        },
-        {
-          "title": "Nyesha Arrington Eats Collard Green Lasagna with Issa Rae in Los Angeles",
-          "link": "https://www.eater.com/video/960181/where-nyesha-arrington-eats-in-los-angeles",
-          "desc": "In this episode of Plateworthy, host Nyesha Arrington returns to her hometown for the third and final stop on her California food tour. Her time in Lo",
-          "title_ko": "로스앤젤레스의 Issa Rae와 함께하는 Nyesha Arrington Eats Collard Green Lasagna",
-          "title_ja": "ロサンゼルスのNyesha Arrington Eats Collard Green LasagnaとIssa Rae",
-          "title_zh": "与Issa Rae一起在洛杉矶品尝Nyesha Arrington美食Collard绿烤宽面条"
         }
       ]
     }
@@ -166,20 +166,20 @@
           "title_zh": "现代绿色食品，第一季度营业利润464亿韩元……同比增长44%↑"
         },
         {
+          "title": "CJ씨푸드, 상한가 진입.. +30.00% ↑",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85Rmo0eFB5dFpDZUE5WlhGWGUycjMxcTV1S0JlVGtpdkZXWEw4WHhJUVN2emc5ZHZ4U1JqYW1oWE14TUhOdmlFcnRWUVE0azFfLW9v?oc=5",
+          "desc": "",
+          "title_en": "CJ Seafood enters the upper limit.. +30.00% ↑",
+          "title_ja": "CJシーフードが上限に達しました.. +30.00% ↑",
+          "title_zh": "CJ海鲜进入上限.. +30.00% ↑"
+        },
+        {
           "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VOXNyNm1qVkdoeXhEdFdXb1F4N0lzQTRmcC03MHRGQmc4SWVMbkd1Vm1Dd3U5aE03d0I3NHdXVGxhVm44ZzhzMlNCMGpxOGVkN1HSAVNBVV95cUxNQlZFSHpqeXQteUZZTUY3U3JmQVhJbEttMUhIcGxhc1pzOUJCamNUcVFuWVhsSURYY3l2RnZSTGViLTlxdG9HQ0c0elI5ZWwyRk9uaw?oc=5",
           "desc": "",
           "title_en": "“Fair Value” vs. “Stock Price Based Calculation” … Shinsegae Food Merger Purchase Controversial [Signal]",
           "title_ja": "「公正価値」対「株価ベースの計算」…新世界食品合併買収論争[シグナル]",
           "title_zh": "“公允价值”与“基于股票价格的计算” …… Shinsegae Food Merger Purchase有争议[Signal]"
-        },
-        {
-          "title": "홍문표 aT 사장 “라면 다음은 딸기·고추장…K푸드 영토 넓힐것”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14blBoWHY2S2xXZDlkTE9HVlQ3SGNyUUtMc0tVbUdfc3R3c0t1bGdwU1g0SkUyWkdfOUV5SjRFaVNRbWpILUN3eV9QQWg4ZVF4U3fSAVNBVV95cUxNWXZ6TXd6ZGV1V0t5Tm5JendzaTdybEx2NTEwUzV2bzlFazNiNTJHZTRzZEp0ZmtBNUd6XzNsTk5yNnRvcEdfN3VIWFBickRDeDdQbw?oc=5",
-          "desc": "",
-          "title_en": "Hong Munpyo, president of aT “Strawberry and pepper market next to ramen… K-food territory will be expanded”",
-          "title_ja": "aT社長ホン・ムンピョ「ラーメンの隣にあるいちごとコショウの市場… Kフードの領域が広がる」",
-          "title_zh": "aT总裁Hong Munpyo “拉面旁边的草莓和胡椒市场…… K-food区域将扩大”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
         },
         {
-          "title": "설빙, 올해도 취약계층 아동에 디저트 기부",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1reVZtUVBlZFUyYlVadXhDem11a3ZFZ2tPd29DbkZDdi10YXliNmJZaG94cU5uampUS2ROUWxNWnJocXlCdk1fV3lseUg3cjBFTlA2bE9oVQ?oc=5",
-          "desc": "",
-          "title_en": "Snowing donates dessert to disadvantaged children this year",
-          "title_ja": "スノーイングは今年、恵まれない子供たちにデザートを寄付します",
-          "title_zh": "下雪今年为弱势儿童捐赠甜点"
-        },
-        {
           "title": "울릉의 봄 미식 산책…한식진흥원의 쿠킹클래스",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWg1OUJRMkVLeTlQM2JMX1c1Skl1aTAyRHNJcWxyNm13X1pIWFk3Yk9rWkRxMGo5OGU3N0QzNTAxc09zX1Z4a0NjVE9uMWhxeFhHc3hpTQ?oc=5",
           "desc": "",
           "title_en": "Spring Food Walk in Ulleung… Korean Food Promotion Institute Cooking Class",
           "title_ja": "ウルルンで春の食べ歩き…韓国料理プロモーション協会のクッキング教室",
           "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
+        },
+        {
+          "title": "이번엔 ‘냉장유통’ …매일유업, 허쉬초콜릿드링크 2종",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUk54ZUpmR1dDUHgxMmdBSFV1cUhBcGVFaHlpZkJaSTBZRjFOdFoxUEhhcW56WlNzS1JGNzVVajN0ZG5IT1pPTXdCQ3paR3d0Z2k0RkN5Zw?oc=5",
+          "desc": "",
+          "title_en": "This time, ‘refrigeration distribution’ … Daily sales, 2 types of Hush chocolate drinks",
+          "title_ja": "今回は「冷蔵流通」…毎日の販売、2種類のHushチョコレートドリンク",
+          "title_zh": "这一次， “冷藏配送” ……日常销售， 2种Hush巧克力饮料"
         }
       ]
     }
