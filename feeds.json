@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T02:55:16Z",
+  "lastUpdated": "2026-05-06T06:06:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "어린이날 맞아 11년째 보육원에 음식 기부한 이 회사",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zcWU3dnU3OTRJZ0hUbkxUeHpLS1Fac3JHRXdEM01BX0M5WlFvajdYZjc3R1BhQnlDN2xUZFQ3MzdjM0FzTjgtNWtvcmVzQTV2bkE5SUJWd2NzQdIBVEFVX3lxTE9GcDlFaXBaMzN6SlUxM2h3SnFIT3VmMFZrckNRZnRWbGZKVjlVbjVlbmJSU3FHX01TY2w0dHNCU2lVOURmeW8wSV95cWdQZmVxRy1VWg?oc=5",
+          "desc": "",
+          "title_en": "This company donated food to the nursery for 11 years for Children's Day",
+          "title_ja": "この会社は、子供の日のために11年間保育園に食料を寄付しました",
+          "title_zh": "该公司在儿童节期间向托儿所捐赠了11年的食物"
+        },
+        {
           "title": "김치가 또 日음식?···반 고흐 미술관 식당서 '김치 샌드위치' 논란",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VWkJscUh6TVo5TGtTWXVCenFrQkdZNVRhNGk2dkZ2bXpDY3E1cEowVk9xNDMzU21qTnNfc05INEdaZE9PUG90RUIydEdZdzQ1cHdfd0I0ajBnZ29wVVBTVGIzOXczYmVQTkxF?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food will start sales of B2B healthcare services that provide one-stop nutrition management for employees",
           "title_ja": "現代グリーンフードは、従業員にワンストップの栄養管理を提供するB 2 Bヘルスケアサービスの販売を開始します",
           "title_zh": "现代绿色食品将开始销售为员工提供一站式营养管理的B2B医疗保健服务"
-        },
-        {
-          "title": "창업자 부담 15% 더 낮춰…9000만원대로 창업 가능한 '노브랜드 버거'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByaUZyZFNsdm9Cekk3MGN1QkNRMGVxYWJSTWtzcVFUVWIxR0g3bHNkM1BBOVpiNHcxQ1NDYnZnUFNWTExrWHdfZjQtblQ1N2pvTVNwa0l3RXNZZ9IBVEFVX3lxTE9QWXhKdG0zUkZwdXZDcjdXSmdESHg5bkVvN3A2d0JQQmJ1LUhXV2ZaeHhKam5wTVppcmwzckQtNmtyR3l1bTVhTXE4VVk2VVh2ZEw4Ng?oc=5",
-          "desc": "",
-          "title_en": "The burden on entrepreneurs is 15% lower... 'No-brand burger' that can be started for 90 million won",
-          "title_ja": "起業家の負担が15 ％減… 9000万ウォンで始められる「ノーブランドハンバーガー」",
-          "title_zh": "企业家的负担降低了15 ％......可以以9000万韩元开始的“无品牌汉堡”"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "“公允价值”与“基于股票价格的计算” …… Shinsegae Food Merger Purchase有争议[Signal]"
         },
         {
-          "title": "CJ씨푸드, 매수잔량 509% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nMXZLa0V0YkZsYjdNbVJzWXJxTy1hcXo3Qk53T18tbVFtZzI1VHFIWEJyM01oZXhjMTljMHhwOEFvRWJmZHRDa01SaEpLa0MwOXh3?oc=5",
+          "title": "사조씨푸드, 매도잔량 352% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85QUhtQ2RPN1NSTGZGenNBcklObGhpWjFtc3duczNsNXBvYnZkcWtPX0tLUk9USFNlWFotTVdGRk85c29HblFSY3VZd0p1VjFiLW9j?oc=5",
           "desc": "",
-          "title_en": "CJC Foods Buying Balance Surges by 509%",
-          "title_ja": "CJC Foodsの購入残高が509%急増",
-          "title_zh": "CJC Foods购买余额激增509%"
+          "title_en": "Sazo Seafood Sell Residuals Surge by 352%",
+          "title_ja": "SAZO Seafood Sell Residuals Surge by 352%",
+          "title_zh": "Sazo海鲜销售残留量激增352%"
         }
       ]
     },
