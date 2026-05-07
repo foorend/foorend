@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T21:57:36Z",
+  "lastUpdated": "2026-05-07T02:55:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,12 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "어린이날 맞아 11년째 보육원에 음식 기부한 '이 회사'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zcWU3dnU3OTRJZ0hUbkxUeHpLS1Fac3JHRXdEM01BX0M5WlFvajdYZjc3R1BhQnlDN2xUZFQ3MzdjM0FzTjgtNWtvcmVzQTV2bkE5SUJWd2NzQdIBVEFVX3lxTE9GcDlFaXBaMzN6SlUxM2h3SnFIT3VmMFZrckNRZnRWbGZKVjlVbjVlbmJSU3FHX01TY2w0dHNCU2lVOURmeW8wSV95cWdQZmVxRy1VWg?oc=5",
+          "title": "꼬깔콘, 새 옷 입는다…롯데웰푸드, 패키지 디자인 개편",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxYWNZczZqT3QxaEZTUnN0bVljVUw5ZmVDMFJkM3dIZl9BYldkVTlvWGxWWjhFcWZuc1ppVlpFYkdJTkRkOGRBeVBaa053MUZpUHdBNERTVFZ1d9IBVEFVX3lxTE8tOTVZVzF1ejNmY0xZdnBkN3B6c1ZRMVpCZmtFOEZtSk1mb3hQZFBFTy1oa1VrU1NNY1dmWnc1WU5kSEh2TmtuaU1zUzZiMVBLUmh6Vw?oc=5",
           "desc": "",
-          "title_en": "'This company' donated food to the nursery for 11 years for Children's Day",
-          "title_ja": "「この会社」は、子供の日のために11年間、保育園に食料を寄付しました",
-          "title_zh": "“这家公司”为儿童节向托儿所捐赠了11年的食物"
+          "title_en": "Kokkakkon is getting new clothes… Lotte well food, package design revamp",
+          "title_ja": "コッカッコンは新しい服を手に入れようとしています…ロッテウェルフード、パッケージデザインの刷新",
+          "title_zh": "Kokkakkon正在购买新衣服……乐天WELL FOOD ，包装设计改造"
+        },
+        {
+          "title": "휴온스엔, ‘비타푸드 유럽 2026’ 참가…글로벌 파트너십 확대",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HLUJMbjduOHlkY1Ywb0ZqVFhYNmVyM1kyTnlOY1FaV3BiNzZLdEI0OUFzQWtjdFNiYk5IOW5qdXE0RVJpZ08tWDBuZVlHTjhDRFk2amFwNGpzd9IBVEFVX3lxTE1KMGxycWJVNWJCUm1xTzQxSHRYOU90NmE3bllOcHpEQkVkRlZQZ0hfNmRIclBsZVVZVlY1WDJDcHhHd2RnMTZWQl9UcC1Fa1FqYW5CQw?oc=5",
+          "desc": "",
+          "title_en": "Huonsen to Participate in ‘Vitafood Europe 2026’ Expands Global Partnership",
+          "title_ja": "Huonsen、「Vitafood Europe 2026」に参加、グローバルパートナーシップを拡大",
+          "title_zh": "Huonsen将参加“Vitafood Europe 2026”扩大全球合作伙伴关系"
         },
         {
           "title": "K푸드·뷰티…반도체 이을 '수출 효자' 키운다",
@@ -142,14 +150,6 @@
           "title_en": "K-Food and Beauty… Raise 'Export Hyoja' for Semiconductor Yi",
           "title_ja": "K - FoodとBeauty…半導体Yiのために「Export Hyoja」を上げる",
           "title_zh": "K-Food和Beauty…为半导体Yi提高“出口Hyoja”"
-        },
-        {
-          "title": "빌리 츠키, 비주얼 정점 비결 \"소울푸드 마라샹궈 끊었어요\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tazN3bUowNWM5U0R6azg2WUd0Ui1oZ2hJcDZvMlNjRVlsc1Y1dzN4R2hsOHFzSE9EOUNVVmtOd05pTzFVU1ZwQUJ5QXdhQmlTYXpKTExLZ3RfZ9IBVEFVX3lxTE9uZDFIUFVPb3hZbHp3aGlLSG5SNjdwY1lRWVFEMHcyZkxfbGVQVWprVXRGR2loZ0x1QXFHMGotdEVfdGRKV3RoN1pJa1oxR2xPOFN6Sw?oc=5",
-          "desc": "",
-          "title_en": "Billy Tsuki, Visual Apex Secret \"I Quit Soul Food Marashanguo\"",
-          "title_ja": "ビジュアルエーペックスシークレット「I Quit Soul Food Marashanguo」ビリーツキ",
-          "title_zh": "Billy Tsuki ， Visual Apex Secret “I Quit Soul Food Marashanguo”"
         }
       ]
     },
@@ -166,12 +166,12 @@
           "title_zh": "现代绿色食品，第一季度营业利润464亿韩元……同比增长44%↑"
         },
         {
-          "title": "CJ씨푸드, 상한가 진입.. +30.00% ↑",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85Rmo0eFB5dFpDZUE5WlhGWGUycjMxcTV1S0JlVGtpdkZXWEw4WHhJUVN2emc5ZHZ4U1JqYW1oWE14TUhOdmlFcnRWUVE0azFfLW9v?oc=5",
+          "title": "윙입푸드, 전일 대비 8.89% 상승.. 일일회전율은 0.53% 기록",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90dG5NUmpZZkZTSkFTcThyUktGak16Wk01U0MzaGNxSVh2aF9kWlo1WWxHMGltYjBsLS1faXFRSjkxZ2ZiUGV0eXZVcTVIN2ZQREVj?oc=5",
           "desc": "",
-          "title_en": "CJ Seafood enters the upper limit.. +30.00% ↑",
-          "title_ja": "CJシーフードが上限に達しました.. +30.00% ↑",
-          "title_zh": "CJ海鲜进入上限.. +30.00% ↑"
+          "title_en": "Wing Yip Food, up 8.89% from the previous day.. Daily turnover recorded 0.53%",
+          "title_ja": "ウィングイップフード、前日比8.89 ％増…日々の売上高は0.53 ％を記録",
+          "title_zh": "永业食品，同比增长8.89% ，日营业额0.53%"
         },
         {
           "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "[게시판] 롯데웰푸드, '꼬깔콘' 5년 만에 패키지 디자인 새단장",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4U2xhQjdsTmo4Y1o5WjVrR01BMU9LREpUV1FzN2pBeWFEeElyX0d0aFF1V0JYdzRoTW10SzJHVEhiRjJaODBVRnpnbzJvRjY0V2c?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] Lotte Well Food Renovates' Kokkakkon 'Package Design in 5 Years",
+          "title_ja": "【掲示板】ロッテウェルフード「コッカッコン」パッケージデザインを5年でリニューアル",
+          "title_zh": "[公告栏]乐天Well Food在5年内翻新“Kokkakkon”包装设计"
+        },
+        {
           "title": "J&J 스낵 푸드, 2분기 조정 EPS 14% 증가..아폴로 프로젝트 성과",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4cklnZU5wRkxNWVRPWmNZX3BtRlFTcDlpdlEwV1NpdFVSWVBZV0J6MHN5UlRkSThhaU9FVXVFdms2SEYtdVgtS2tnUmVESm1LTHc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Candidate for Iksan market, Lim Hyung-taek, \"We must suspend the administration of local food ayang branch.\"",
           "title_ja": "イクサンマーケットの候補者であるリム・ヒョンテク氏は、「地元の食べ物のアヤン支店の運営を一時停止しなければならない」と述べた。",
           "title_zh": "Iksan市场的候选人Lim Hyung-taek ， “我们必须暂停当地食品阿阳分店的管理。”"
-        },
-        {
-          "title": "현대그린푸드, 1분기 영업익 43.9%↑…“급식·식자재·외식 성장”",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFbHBDYlkyWmlHWnNEVEdEc2VSVm5meFlxdkRNNzBEQzA2NlNuY0xKaXRkTXlwbFNsSmdIUEw1anNld0ltTm82UmJ6ODg3WEZjaUQxYg?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Foods, Q1 Operating Profit 43.9%↑ … “Food, Food and Dining Growth”",
-          "title_ja": "現代グリーンフーズ、第1四半期営業利益43.9 ％↑ …「食品、食品、ダイニングの成長」",
-          "title_zh": "现代绿色食品，第一季度营业利润43.9%↑ …… “食品、食品和餐饮增长”"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "돌아온 수박 시즌…빽다방, 100% 국내산 ‘우리수박주스’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
+          "title": "“평일 2만원”…아워홈, 뷔페 ‘테이크’ 선봬",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBONHlqSUdfSmh3TUpBYUpDQng5bmwyUkFuZVRGWWl6aVpLWHBaRkdJcDhyR2lLUkpPVXJzUjdubkd6Yk5fMFVXRWdROC0xTzNLN2txNW9kMA?oc=5",
           "desc": "",
-          "title_en": "Watermelon season returning… Dung Dabang, 100% Domestic ‘Woori Watermelon Juice’",
-          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
-          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
+          "title_en": "“20,000 won on weekdays” … Hourhome, buffet ‘take’ selection",
+          "title_ja": "「平日2万ウォン」…アワーホーム、ビュッフェ「テイク」セレクション",
+          "title_zh": "「工作日20,000韩元」…… Hourhome ，自助餐「TAKE」精选"
         },
         {
-          "title": "울릉의 봄 미식 산책…한식진흥원의 쿠킹클래스",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWg1OUJRMkVLeTlQM2JMX1c1Skl1aTAyRHNJcWxyNm13X1pIWFk3Yk9rWkRxMGo5OGU3N0QzNTAxc09zX1Z4a0NjVE9uMWhxeFhHc3hpTQ?oc=5",
+          "title": "파나마도 ‘올때 메로나’…파나마 아이스크림 시장의 성장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GZFJhX0JoWlpnNk50QzNfUXlHbkY5ckZEMC0tVTBjNXNDTmlDa29RU0YzWGdmWkNiMlY4Y2pNeVRmTGZ6dnoyTnNTdkVWQWdobS1IajliZw?oc=5",
           "desc": "",
-          "title_en": "Spring Food Walk in Ulleung… Korean Food Promotion Institute Cooking Class",
-          "title_ja": "ウルルンで春の食べ歩き…韓国料理プロモーション協会のクッキング教室",
-          "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
+          "title_en": "Panama too ‘Merona when it comes’ … Growth of Panama's ice cream market",
+          "title_ja": "パナマも「メロナが来るとき」…パナマのアイスクリーム市場の成長",
+          "title_zh": "巴拿马也是“当梅罗纳到来时” ……巴拿马冰淇淋市场的增长"
         },
         {
-          "title": "이번엔 ‘냉장유통’ …매일유업, 허쉬초콜릿드링크 2종",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUk54ZUpmR1dDUHgxMmdBSFV1cUhBcGVFaHlpZkJaSTBZRjFOdFoxUEhhcW56WlNzS1JGNzVVajN0ZG5IT1pPTXdCQ3paR3d0Z2k0RkN5Zw?oc=5",
+          "title": "“아미는 음식도 보라색”…BTS 월드투어에 ‘퍼플 푸드’ 뜬다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZbFhaOFZnY1hJY3pYallTTGpxRk5qWDFYMElNQnFBQzJ6bjJFSzJlYXAwTHMwLTVtZGQydnkzSjZ3MzkwYnNHMjM1Y2R3c0tuSkJ3U09MNA?oc=5",
           "desc": "",
-          "title_en": "This time, ‘refrigeration distribution’ … Daily sales, 2 types of Hush chocolate drinks",
-          "title_ja": "今回は「冷蔵流通」…毎日の販売、2種類のHushチョコレートドリンク",
-          "title_zh": "这一次， “冷藏配送” ……日常销售， 2种Hush巧克力饮料"
+          "title_en": "“Army has purple food” … ‘Purple Food‘ on BTS World Tour",
+          "title_ja": "「ARMY HAS PURPLE FOOD」… BTSワールドツアーの「PURPLE FOOD」",
+          "title_zh": "“军队有紫色食物” …… BTS世界巡回演唱会上的“紫色食物”"
         }
       ]
     }
