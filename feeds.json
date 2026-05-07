@@ -1,95 +1,20 @@
 {
-  "lastUpdated": "2026-05-07T11:09:46Z",
+  "lastUpdated": "2026-05-07T14:11:18Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "Subway's corporate profit has taken off under Roark Capital",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFZaNzA1S2s5YlZGMUJVdHotRWZHdU1LejRhOExaN0pOU0x6SC1tMzRFNzlyMWhFRDhWOWxWTldaS0NOQ0VOZl8yYlU1M0xjRXI1VWRuS3pjSXdOVjBJeHlRcEFEaWF2eGR2WnV4SHFlX01zUFBOZTZEVjRxRy1hTW8tRFVfMElfcVZCdy1uYnFnMmFlcTk0TWJWMEpkN0FnVU1N?oc=5",
-          "desc": "",
-          "title_ko": "서브웨이의 기업 이익은 Roark Capital에 의해 실현되었습니다.",
-          "title_ja": "サブウェイの企業利益はローク・キャピタルの下で上昇した",
-          "title_zh": "赛百味的企业利润在Roark Capital的领导下实现了腾飞"
-        },
-        {
-          "title": "Why restaurant loyalty is stuck",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2ZtYmRyWFY5c3I5ME5uT2toM2dJQzJncFVzSzZGckVSQjFWOU5McENOSkViRlRHVTRBaGNfRER0dFNGYW5Sd2FhTDFZZnV6ZUR3TkhiNExTX0x3NDZRNGVvdWZKODZwUF94VjBPa2FKRUltcUdfUmZrZnMwbG1JNk1B?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 충성도가 저조한 이유",
-          "title_ja": "レストランのロイヤルティが停滞している理由",
-          "title_zh": "餐厅忠诚度为何停滞不前"
-        },
-        {
-          "title": "Sysco CEO: 'We will absolutely not be raising prices at Restaurant Depot'",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUk5DeDN6c2Z6cnRlZm5ReHBSQnBjRjhkOEp3aWhsYk9ZdXg2Qi1pTnVEb2lQb1JTZUlUbnJDaVV1Wlk5OVF3aGxUaTVLZG56a3kwVzd3SUpQZDFWQjVxTS1LRlhzQkE3M1I2SHJLcGJuNXowUnNKUGJmdzRYVkFxVUlxMDFkSEtoZGx3SDEtS2NhUWRJQTZObjhGcW9XWk5BYXFwNzZ3Y1JCUkE5WlozWnI3OGI?oc=5",
-          "desc": "",
-          "title_ko": "Sysco CEO: '우리는 Restaurant Depot에서 가격을 인상하지 않을 것입니다'",
-          "title_ja": "シスコ最高経営責任者（ CEO ） ：「レストラン・デポでの価格引き上げは絶対に行わない」",
-          "title_zh": "Sysco首席执行官： “我们绝对不会提高Restaurant Depot的价格”"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": [
-        {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
-          "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
-        }
-      ]
+      "items": []
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": [
-        {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
-          "desc": "",
-          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
-          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        }
-      ]
+      "items": []
     },
     "eater": {
       "label": "Eater",
@@ -126,122 +51,22 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "휴온스엔, ‘비타푸드 유럽 2026’ 참가…글로벌 파트너십 확대",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ObXVSZlk1RzBCQUZOb3lfOExfU1V0ckxpR0tnUjdJQlBpWlZNbU5tQ093S2ZDMVYxM29qMHBNeHdOZ1Z0R1NfeTVjRWltc1ZNenFHc2I1NWVjQdIBVEFVX3lxTE9ZVmY1VTFpZEJyd3hSZXZLejF5c1BaaERrS3RHcENFZHBVWnNneE5rc2VCSU1lVnB5aUdpcU5fN0lSdDN2bmtVbFA5YjZUUmFLWmNfRw?oc=5",
-          "desc": "",
-          "title_en": "Huonsen to Participate in ‘Vitafood Europe 2026’ Expands Global Partnership",
-          "title_ja": "Huonsen、「Vitafood Europe 2026」に参加、グローバルパートナーシップを拡大",
-          "title_zh": "Huonsen将参加“Vitafood Europe 2026”扩大全球合作伙伴关系"
-        },
-        {
-          "title": "미국판 기생충 '덜미'…지하실 숨어 살며 음식 훔쳐 먹기도",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XdTJwV2UxVVNfcTNuUURRZm1hSzRDSkd1d0hUZjY5WXZQcFBSNXItSVh5eS1fT1ZqVERHR1E4VWtMYW1LNGE3aFBrSHMyZHJTcGV3RlRCbl9QQdIBVEFVX3lxTFB4UERjOUVMTUhJcEx4MUhNeDdnMGFmd19TbmlCSEFaYjc1YURYR1FWVlljb25aVVE3TFNDOUt6aDZOWWh0aXdKTV91RmZkbnJjbExMWg?oc=5",
-          "desc": "",
-          "title_en": "An American version of the parasite, 'Dummy' … hide in the basement and steal food",
-          "title_ja": "アメリカ版の寄生虫「ダミー」…地下室に隠れて食料を盗む",
-          "title_zh": "美国版的寄生虫“假人” ……躲在地下室偷食物"
-        },
-        {
-          "title": "꼬깔콘, 새 옷 입는다…롯데웰푸드, 패키지 디자인 개편",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxYWNZczZqT3QxaEZTUnN0bVljVUw5ZmVDMFJkM3dIZl9BYldkVTlvWGxWWjhFcWZuc1ppVlpFYkdJTkRkOGRBeVBaa053MUZpUHdBNERTVFZ1d9IBVEFVX3lxTE8tOTVZVzF1ejNmY0xZdnBkN3B6c1ZRMVpCZmtFOEZtSk1mb3hQZFBFTy1oa1VrU1NNY1dmWnc1WU5kSEh2TmtuaU1zUzZiMVBLUmh6Vw?oc=5",
-          "desc": "",
-          "title_en": "Kokkakkon is getting new clothes… Lotte well food, package design revamp",
-          "title_ja": "コッカッコンは新しい服を手に入れようとしています…ロッテウェルフード、パッケージデザインの刷新",
-          "title_zh": "Kokkakkon正在购买新衣服……乐天WELL FOOD ，包装设计改造"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": [
-        {
-          "title": "이집트 홀리기 나선 K푸드…한국식품산업협회, 수출부터 체험까지 행사 열어",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2dHFINkpZLU55VEQyUTRKYTZBS0duZjNGbE90OVlLRUZwekZnQkk5ZVhtNGh6cnR6NU1yLU1GVGl4QnloWUdqazNwSldhVWZrRlHSAVNBVV95cUxNcjJibnhJWFgtaUFuUlZiNXRHWVcxNlRGSFROQzJDSll4UEtMaGRqTk5CZFpPc2Y2ckgwMGlSUTZ1c2d6Z1RjeVhmejA2UXNoT0JhYw?oc=5",
-          "desc": "",
-          "title_en": "K-Food Spiraling into Egyptian Holligi… Korea Food Industry Association held an event from export to experience",
-          "title_ja": "K - Food Spiraling into Egyptian Holligi…韓国食品工業会が輸出から体験までのイベントを開催",
-          "title_zh": "K-Food螺旋式进入埃及Holligi…韩国食品工业协会举办了从出口到体验的活动"
-        },
-        {
-          "title": "현대그린푸드, 1분기 영업이익 464억원...전년比 44%↑",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1cWUyRF9NOW83bFB1WS1nUElETk9UMkYwM2paeWVJNUF4VTVsV254R2x5TDhZeGhuVG96N2lHTUdYNWRKMjZNblctaUhpZnlDTGfSAVNBVV95cUxOdDhaSmt3MVV2ajZXR1ljMjlDY2FxczJQY202Y3FZVm1yZkdma0VQdnc0N1cwWi1HcHJNTXFHREZqekZKWEROejBma1kya2U3clVKWQ?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, Q1 operating profit of 46.4 billion won... 44% year-over-year↑",
-          "title_ja": "現代グリーンフード、第1四半期営業利益464億ウォン...前年同期比44 ％↑",
-          "title_zh": "现代绿色食品，第一季度营业利润464亿韩元……同比增长44%↑"
-        },
-        {
-          "title": "추풍령 휴게소, 매주 수요일 ‘저나트륨 음식데이’ 운영",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ERmx2YmhsX3R3M1NtbHR3UjVaMGVSbzI0d25jUmFLNHpkRzVleXBxSHZJZnhVOU0wS2VXQ2RGS1ZWalRjZlBDaG1fV2hlSzVQdVNF?oc=5",
-          "desc": "",
-          "title_en": "Chupungnyeong rest area operates‘ Low Sodium Food Day 'every Wednesday",
-          "title_ja": "Chupungnyeong休憩エリアでは、毎週水曜日に「低ナトリウムフードデー」を開催しています",
-          "title_zh": "Chupungnyeong休息区每周三举办“低钠食品日”"
-        }
-      ]
+      "items": []
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": [
-        {
-          "title": "카카오뱅크, 현대그린푸드와 '저금통 with 그리팅' 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rV1JrUE9Jd0F5ZDZsV2hfZnRWQTdhaU9sQTNrSHQ3cDgwZzJxRkdid0wzMTgxclFCY25WVDFpWFVUazM3c21lVkhsdWcxUE03ZFE?oc=5",
-          "desc": "",
-          "title_en": "Kakao Bank Launches Hyundai Green Foods and 'Piggy Bank with Gritting'",
-          "title_ja": "カカオ銀行、Hyundai Green Foodsと「Piggy Bank with Gritting」を発売",
-          "title_zh": "Kakao Bank推出现代绿色食品和“Piggy Bank with Gritting”"
-        },
-        {
-          "title": "[게시판] 롯데웰푸드, '꼬깔콘' 5년 만에 패키지 디자인 새단장",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4U2xhQjdsTmo4Y1o5WjVrR01BMU9LREpUV1FzN2pBeWFEeElyX0d0aFF1V0JYdzRoTW10SzJHVEhiRjJaODBVRnpnbzJvRjY0V2c?oc=5",
-          "desc": "",
-          "title_en": "[Bulletin Board] Lotte Well Food Renovates' Kokkakkon 'Package Design in 5 Years",
-          "title_ja": "【掲示板】ロッテウェルフード「コッカッコン」パッケージデザインを5年でリニューアル",
-          "title_zh": "[公告栏]乐天Well Food在5年内翻新“Kokkakkon”包装设计"
-        },
-        {
-          "title": "J&J 스낵 푸드, 2분기 조정 EPS 14% 증가..아폴로 프로젝트 성과",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4cklnZU5wRkxNWVRPWmNZX3BtRlFTcDlpdlEwV1NpdFVSWVBZV0J6MHN5UlRkSThhaU9FVXVFdms2SEYtdVgtS2tnUmVESm1LTHc?oc=5",
-          "desc": "",
-          "title_en": "J&J Snack Foods Adjusted EPS Up 14% in Q2.. Apollo Project Performance",
-          "title_ja": "J&Jスナックは第2四半期にEPSを14%上昇させました。アポロプロジェクトのパフォーマンス",
-          "title_zh": "强生休闲食品第二季度调整后每股盈利增长14%..阿波罗项目业绩"
-        }
-      ]
+      "items": []
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "설탕보다 치명적…신체 기관 망가뜨리는 ‘이것’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WcFAyNWJkdEdUcnNNSmZXdEsyN1hLNDJ5ZmVTNVJ1WUFSQ0VwazhyTkVzYUxEejZrRG1nZ1NkbkZJNTJVQlZhdmVTMUpBTUhKNTgxeWFlZw?oc=5",
-          "desc": "",
-          "title_en": "Deadlier than sugar… This destroys the organs of the body",
-          "title_ja": "砂糖よりも致命的…これは体の臓器を破壊します",
-          "title_zh": "比糖更致命……这会破坏身体的器官"
-        },
-        {
-          "title": "파나마도 ‘올때 메로나’…파나마 아이스크림 시장의 성장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GZFJhX0JoWlpnNk50QzNfUXlHbkY5ckZEMC0tVTBjNXNDTmlDa29RU0YzWGdmWkNiMlY4Y2pNeVRmTGZ6dnoyTnNTdkVWQWdobS1IajliZw?oc=5",
-          "desc": "",
-          "title_en": "Panama too ‘Merona when it comes’ … Growth of Panama's ice cream market",
-          "title_ja": "パナマも「メロナが来るとき」…パナマのアイスクリーム市場の成長",
-          "title_zh": "巴拿马也是“当梅罗纳到来时” ……巴拿马冰淇淋市场的增长"
-        },
-        {
-          "title": "“아미는 음식도 보라색”…BTS 월드투어에 ‘퍼플 푸드’ 뜬다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZbFhaOFZnY1hJY3pYallTTGpxRk5qWDFYMElNQnFBQzJ6bjJFSzJlYXAwTHMwLTVtZGQydnkzSjZ3MzkwYnNHMjM1Y2R3c0tuSkJ3U09MNA?oc=5",
-          "desc": "",
-          "title_en": "“Army has purple food” … ‘Purple Food‘ on BTS World Tour",
-          "title_ja": "「ARMY HAS PURPLE FOOD」… BTSワールドツアーの「PURPLE FOOD」",
-          "title_zh": "“军队有紫色食物” …… BTS世界巡回演唱会上的“紫色食物”"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
