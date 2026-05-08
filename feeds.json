@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T10:25:03Z",
+  "lastUpdated": "2026-05-08T13:50:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -147,9 +147,9 @@
           "title": "미국판 기생충 '덜미'…지하실 숨어 살며 음식 훔쳐 먹기도",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XdTJwV2UxVVNfcTNuUURRZm1hSzRDSkd1d0hUZjY5WXZQcFBSNXItSVh5eS1fT1ZqVERHR1E4VWtMYW1LNGE3aFBrSHMyZHJTcGV3RlRCbl9QQdIBVEFVX3lxTFB4UERjOUVMTUhJcEx4MUhNeDdnMGFmd19TbmlCSEFaYjc1YURYR1FWVlljb25aVVE3TFNDOUt6aDZOWWh0aXdKTV91RmZkbnJjbExMWg?oc=5",
           "desc": "",
-          "title_en": "The American version of the parasite 'Rummy' … Living in a basement and stealing food",
-          "title_ja": "寄生虫「ラミー」のアメリカ版...地下室に住んで食料を盗む",
-          "title_zh": "寄生虫“拉米”的美国版本……住在地下室偷食物"
+          "title_en": "An American version of the parasite, 'Dummy' … hide in the basement and steal food",
+          "title_ja": "アメリカ版の寄生虫「ダミー」…地下室に隠れて食料を盗む",
+          "title_zh": "美国版的寄生虫“假人” ……躲在地下室偷食物"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "K-Food在南美的热门仪式[Kwon Dae-young的韩国美食人文]"
         },
         {
+          "title": "“건강한 음식 아니었어?”…다이어트할때 마셨다가 되레 살 찐다는 ‘이것’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55N0hDR0prN0tSOWhCSS1UMWczTEEwcmQxc2lDSVBaTkxSOFZIc1Q1MFRnVUFodFRWZko0ZXp4S3pFd1Q3Q09CRmRDcGxxQU5NbXfSAVNBVV95cUxOblpHd1lkZllmTmRDa3RwcGVOVzdUaVJHdl9PSDdsR1FWZDJWUDU0N0ZJY0l2QTF2RUJGUk5nWTlIZTd5TEl2SXhCalB0OVVZRGhJSQ?oc=5",
+          "desc": "",
+          "title_en": "“Wasn't it healthy food?” … ‘This‘ that you drink while on a diet and then get fat again [Healthy Time]",
+          "title_ja": "「健康的な食べ物ではありませんでしたか？」…ダイエット中に飲んでから再び太る「これ」【ヘルシータイム】",
+          "title_zh": "“这不是健康食品吗？” ……你在节食时喝的“这个” ，然后又变胖了[健康时间]"
+        },
+        {
           "title": "이집트 홀리기 나선 K푸드…한국식품산업협회, 수출부터 체험까지 행사 열어",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2dHFINkpZLU55VEQyUTRKYTZBS0duZjNGbE90OVlLRUZwekZnQkk5ZVhtNGh6cnR6NU1yLU1GVGl4QnloWUdqazNwSldhVWZrRlHSAVNBVV95cUxNcjJibnhJWFgtaUFuUlZiNXRHWVcxNlRGSFROQzJDSll4UEtMaGRqTk5CZFpPc2Y2ckgwMGlSUTZ1c2d6Z1RjeVhmejA2UXNoT0JhYw?oc=5",
           "desc": "",
           "title_en": "K-Food Spiraling into Egyptian Holligi… Korea Food Industry Association held an event from export to experience",
           "title_ja": "K - Food Spiraling into Egyptian Holligi…韓国食品工業会が輸出から体験までのイベントを開催",
           "title_zh": "K-Food螺旋式进入埃及Holligi…韩国食品工业协会举办了从出口到体验的活动"
-        },
-        {
-          "title": "롯데웰푸드, 1분기 영업이익 358억 원…전년比 118%↑",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ed2x2d1cyRHZNM0ZCT1JkX1hVNUJnRldOeEVLN3B2aWxSME1pUnVLai03cTlaM1dBUnRRSGNOLWZCRWQ3UngtS0F1SUNlMjNpQmfSAVNBVV95cUxOelhLN3Z0bVJTQS1RQ3NuOUNEV2JacEtJSEFXYjJoNHN2ZnJjbDNaNHdONm9rN0RMY21MQ21zQ0xHbHQ3VWdsd2Jnd1kzX3VYQTZFWQ?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food's first quarter operating profit of 35.8 billion won… 118% year-over-year↑",
-          "title_ja": "ロッテウェルフードの第1四半期の営業利益は358億ウォン…前年同期比118%↑",
-          "title_zh": "乐天健康食品第一季度营业利润358亿韩元…同比增长118%↑"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "미스터비스트가 픽한 ‘K푸드’…4개월 만에 200만개 팔았다",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wc1BpWDY1WHU4blNYVFdUa1ltNWlabmNmb3hKczY0MUxyZk1OVWpqdW94S0dKRTUtcmJXbmk2MEZORWpFa1VBb0I3UlNkZE5jcU5iQS13?oc=5",
-          "desc": "",
-          "title_en": "'K Foods‘ picked by MisterBeast… sold 2 million units in 4 months",
-          "title_ja": "MisterBeastが選んだ「K Foods」… 4ヶ月で200万台を売り上げました",
-          "title_zh": "由MisterBeast挑选的“K Foods” ……在4个月内售出200万份"
-        },
-        {
           "title": "롯데웰푸드 1분기 영업익 전년 대비 118.4% 증가…\"글로벌 효과\"(종합)",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1M0QydllURkgwNU9KUGRVRXFVVkRHSjU5eC1JY01lSXR0SVhvWWs3dlVoc3dUdGdlYzljbjZ2cmVQNnctak9YUHhOQjBudWRaeWc?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Q1 operating profit up 118.4% YoY… “Global Effect” (Combined)",
           "title_ja": "ロッテウェルフードQ 1営業利益は前年同期比118.4%増…「グローバル効果」（連結）",
           "title_zh": "乐天健康食品第一季度营业利润同比增长118.4% …… “全球效应” （合并）"
+        },
+        {
+          "title": "미스터비스트가 픽한 ‘K푸드’…4개월 만에 200만개 팔았다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wc1BpWDY1WHU4blNYVFdUa1ltNWlabmNmb3hKczY0MUxyZk1OVWpqdW94S0dKRTUtcmJXbmk2MEZORWpFa1VBb0I3UlNkZE5jcU5iQS13?oc=5",
+          "desc": "",
+          "title_en": "'K Foods‘ picked by MisterBeast… sold 2 million units in 4 months",
+          "title_ja": "MisterBeastが選んだ「K Foods」… 4ヶ月で200万台を売り上げました",
+          "title_zh": "由MisterBeast挑选的“K Foods” ……在4个月内售出200万份"
         },
         {
           "title": "현대그린푸드 '성장과 환원, 재평가 지속' 증권사 발표에 강세…4.19%",
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "돌아온 수박 시즌…빽다방, 100% 국내산 ‘우리수박주스’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
-          "desc": "",
-          "title_en": "Watermelon season returning… Dung Dabang, 100% Korean ‘Woori Watermelon Juice’",
-          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
-          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
-        },
-        {
           "title": "울릉의 봄 미식 산책…한식진흥원의 쿠킹클래스",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWg1OUJRMkVLeTlQM2JMX1c1Skl1aTAyRHNJcWxyNm13X1pIWFk3Yk9rWkRxMGo5OGU3N0QzNTAxc09zX1Z4a0NjVE9uMWhxeFhHc3hpTQ?oc=5",
           "desc": "",
@@ -234,12 +226,20 @@
           "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
         },
         {
+          "title": "가족 외식하고 경품 받는다…SL&C, 브랜드 프로모션",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QcGh2WExkQzVaMC01VnpBMEhIamhnTHoyRW1pc1BtVkVaQ0FVaUJOcVRiSGhndktmczVwQzFNNkNSdG5iVF9xcEFneDJDWjhqV0FBQW02RQ?oc=5",
+          "desc": "",
+          "title_en": "Eat out and win prizes for families… SL&C, brand promotions",
+          "title_ja": "外食してファミリー向けの賞品を獲得… SL&C、ブランドプロモーション",
+          "title_zh": "外出就餐，赢取家庭奖励…… SL&C ，品牌促销"
+        },
+        {
           "title": "한식진흥원 ‘별하나 페스티벌’ 참가…‘K-미식벨트’ 알린다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hNnNlU3JMdmhEU012cktpZHFSbXJSeVlSV28wMEN2WnlkelFFa1hpU1czand4czlaSFFCVkFndHlRYW50OHhaNmh2Mk9kQnJ3UUtxdGswdw?oc=5",
           "desc": "",
-          "title_en": "Participation in the ‘Star Hana Festival’ of the Korean Food Promotion Institute... Inform the ‘K-Gourmet Belt'",
-          "title_ja": "韓国食文化振興院「スター花まつり」への参加…「Kグルメベルト」へのお知らせ",
-          "title_zh": "参加韩国食品促进会“星花节” ……告知“韩国美食带”"
+          "title_en": "Participation in the ‘Star Hana Festival’ of the Korean Food Promotion Institute... Announcement of the ’K-Gourmet Belt'",
+          "title_ja": "韓国食文化振興院「スター花まつり」への参加…「Kグルメベルト」の発表",
+          "title_zh": "参加韩国食品促进会“星花节” ……宣布“韩国美食腰带”"
         }
       ]
     }
