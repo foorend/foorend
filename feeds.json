@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-05-08T16:14:18Z",
+  "lastUpdated": "2026-05-08T19:19:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
         {
-          "title": "A look at the future of Chuck E. Cheese",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzRwZlRGMGh2eGNfWGRjVzdjdWN3eC1YalRwX1RtbXFaSnkyN2NSZDkwT0ZxQ0RNRkU3U1RYQXNpb0VoT0VneVBjbG9hbGtOQ0VDSDByZzEzSmh2UEl0c0dFVE1pWnRZMkpIU2owVk1zRExselNZM2JVc0JiNUh2WQ?oc=5",
+          "title": "It's tougher to get a job at Dutch Bros than to get into Harvard",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFJlbzJzc1ZQU3VqNVc4SjlrajhLTnhzWG5mMERaWTRSRkVqb1REZHRPYXRDZlllS0k4bVhIYUFRbm92VGNEN0NGYnNfT05PVmNxZjNsbGZRR05HUTNDaEVQRkJnQVZ1ZlgxX29zWGI3Qjd2S3VjZjJzME52STVRX01jWkJIUm50d3Z4R00xQ19PemM?oc=5",
           "desc": "",
-          "title_ko": "Chuck E. Cheese의 미래 살펴보기",
-          "title_ja": "チャック・E・チーズの未来を振り返る",
-          "title_zh": "展望Chuck E. Cheese的未来"
+          "title_ko": "하버드에 취업하는 것보다 더치브라더스에 취업하는 것이 더 어렵습니다.",
+          "title_ja": "ハーバード大学に入学するよりも、オランダ・ブラザーズで仕事を得る方が難しい",
+          "title_zh": "在荷兰兄弟公司找到一份工作比进入哈佛大学更难"
         },
         {
           "title": "Why restaurant loyalty is stuck",
@@ -22,12 +22,12 @@
           "title_zh": "餐厅忠诚度为何停滞不前"
         },
         {
-          "title": "It's tougher to get a job at Dutch Bros than to get into Harvard",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFJlbzJzc1ZQU3VqNVc4SjlrajhLTnhzWG5mMERaWTRSRkVqb1REZHRPYXRDZlllS0k4bVhIYUFRbm92VGNEN0NGYnNfT05PVmNxZjNsbGZRR05HUTNDaEVQRkJnQVZ1ZlgxX29zWGI3Qjd2S3VjZjJzME52STVRX01jWkJIUm50d3Z4R00xQ19PemM?oc=5",
+          "title": "Sysco CEO: 'We will absolutely not be raising prices at Restaurant Depot'",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUk5DeDN6c2Z6cnRlZm5ReHBSQnBjRjhkOEp3aWhsYk9ZdXg2Qi1pTnVEb2lQb1JTZUlUbnJDaVV1Wlk5OVF3aGxUaTVLZG56a3kwVzd3SUpQZDFWQjVxTS1LRlhzQkE3M1I2SHJLcGJuNXowUnNKUGJmdzRYVkFxVUlxMDFkSEtoZGx3SDEtS2NhUWRJQTZObjhGcW9XWk5BYXFwNzZ3Y1JCUkE5WlozWnI3OGI?oc=5",
           "desc": "",
-          "title_ko": "하버드에 취업하는 것보다 더치브라더스에 취업하는 것이 더 어렵습니다.",
-          "title_ja": "ハーバード大学に入学するよりも、オランダ・ブラザーズで仕事を得る方が難しい",
-          "title_zh": "在荷兰兄弟公司找到一份工作比进入哈佛大学更难"
+          "title_ko": "Sysco CEO: '우리는 Restaurant Depot에서 가격을 인상하지 않을 것입니다'",
+          "title_ja": "シスコ最高経営責任者（ CEO ） ：「レストラン・デポでの価格引き上げは絶対に行わない」",
+          "title_zh": "Sysco首席执行官： “我们绝对不会提高Restaurant Depot的价格”"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Why the Nordstrom Cafe Was the Ultimate Mother-Daughter Experience",
+          "link": "https://www.eater.com/food-culture/960443/nordstrom-cafe-mother-daughter-nostalgia-tomato-soup-grilled-cheese",
+          "desc": "A version of this post originally appeared on May 6 in our newsletter Eater Today. Sign up here to receive stories like this in your inbox. Eating lun",
+          "title_ko": "노드스트롬 카페가 최고의 모녀 경험이었던 이유",
+          "title_ja": "ノードストロームカフェが究極の母と娘の体験だった理由",
+          "title_zh": "为什么诺德斯特龙咖啡馆是终极母女体验"
+        },
+        {
           "title": "Quince Sells Caviar and Wine Now. Is It Any Good?",
           "link": "https://www.eater.com/shopping/960397/quince-caviar-wine-coffee-review",
           "desc": "For years, Quince has been a website that I knew as “that place to get affordable cashmere sweaters.” But as its offerings have expanded further and f",
@@ -110,14 +118,6 @@
           "title_ko": "2026년 제임스 비어드 어워드 레스토랑, 셰프, 미디어 어워드 결선 진출자를 소개합니다.",
           "title_ja": "2026年ジェームズ・ビアード賞レストラン、シェフ、メディア賞ファイナリスト",
           "title_zh": "以下是2026年詹姆斯·比尔德奖餐厅、厨师和媒体奖决赛选手"
-        },
-        {
-          "title": "How I Built a Community Around My Bakery",
-          "link": "https://www.eater.com/pre-shift/960336/downtime-bakery-bakers-hang-philadelphia-pre-shift",
-          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "내 베이커리 주변에 커뮤니티를 구축한 방법",
-          "title_ja": "ベーカリーを取り巻くコミュニティの作り方",
-          "title_zh": "如何在面包店周围建立社区"
         }
       ]
     }
@@ -137,19 +137,19 @@
         },
         {
           "title": "휴온스엔, ‘비타푸드 유럽 2026’ 참가…글로벌 파트너십 확대",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94RDNmVUhrbTlzQ1hKMFk4QXFWMHV1eExNZ2ZwR0JVaXVnbzQtTnd6MlNfRVZnVm90NUJCWGFDOGNMel9wQ2QyZnRXTHJYY0VDaXl5VlRVMUhzcFJPQnYzc2RzaFEyRTYwWnAwR3NIR2xFb0s4YUJPUmNqRmdsMmM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ObXVSZlk1RzBCQUZOb3lfOExfU1V0ckxpR0tnUjdJQlBpWlZNbU5tQ093S2ZDMVYxM29qMHBNeHdOZ1Z0R1NfeTVjRWltc1ZNenFHc2I1NWVjQdIBVEFVX3lxTE9ZVmY1VTFpZEJyd3hSZXZLejF5c1BaaERrS3RHcENFZHBVWnNneE5rc2VCSU1lVnB5aUdpcU5fN0lSdDN2bmtVbFA5YjZUUmFLWmNfRw?oc=5",
           "desc": "",
           "title_en": "Huonsen to Participate in ‘Vitafood Europe 2026’ Expands Global Partnership",
           "title_ja": "Huonsen、「Vitafood Europe 2026」に参加、グローバルパートナーシップを拡大",
           "title_zh": "Huonsen将参加“Vitafood Europe 2026”扩大全球合作伙伴关系"
         },
         {
-          "title": "휴온스엔, ‘비타푸드 유럽 2026’ 참가…글로벌 파트너십 확대",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ObXVSZlk1RzBCQUZOb3lfOExfU1V0ckxpR0tnUjdJQlBpWlZNbU5tQ093S2ZDMVYxM29qMHBNeHdOZ1Z0R1NfeTVjRWltc1ZNenFHc2I1NWVjQdIBVEFVX3lxTE9ZVmY1VTFpZEJyd3hSZXZLejF5c1BaaERrS3RHcENFZHBVWnNneE5rc2VCSU1lVnB5aUdpcU5fN0lSdDN2bmtVbFA5YjZUUmFLWmNfRw?oc=5",
+          "title": "미국판 기생충 '덜미'…지하실 숨어 살며 음식 훔쳐 먹기도",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XdTJwV2UxVVNfcTNuUURRZm1hSzRDSkd1d0hUZjY5WXZQcFBSNXItSVh5eS1fT1ZqVERHR1E4VWtMYW1LNGE3aFBrSHMyZHJTcGV3RlRCbl9QQdIBVEFVX3lxTFB4UERjOUVMTUhJcEx4MUhNeDdnMGFmd19TbmlCSEFaYjc1YURYR1FWVlljb25aVVE3TFNDOUt6aDZOWWh0aXdKTV91RmZkbnJjbExMWg?oc=5",
           "desc": "",
-          "title_en": "Huonsen to Participate in ‘Vitafood Europe 2026’ Expands Global Partnership",
-          "title_ja": "Huonsen、「Vitafood Europe 2026」に参加、グローバルパートナーシップを拡大",
-          "title_zh": "Huonsen将参加“Vitafood Europe 2026”扩大全球合作伙伴关系"
+          "title_en": "An American version of the parasite, 'Dummy' … hide in the basement and steal food",
+          "title_ja": "アメリカ版の寄生虫「ダミー」…地下室に隠れて食料を盗む",
+          "title_zh": "美国版的寄生虫“假人” ……躲在地下室偷食物"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "미스터비스트가 픽한 ‘K푸드’…4개월 만에 200만개 팔았다",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wc1BpWDY1WHU4blNYVFdUa1ltNWlabmNmb3hKczY0MUxyZk1OVWpqdW94S0dKRTUtcmJXbmk2MEZORWpFa1VBb0I3UlNkZE5jcU5iQS13?oc=5",
-          "desc": "",
-          "title_en": "'K Foods‘ picked by MisterBeast… sold 2 million units in 4 months",
-          "title_ja": "MisterBeastが選んだ「K Foods」… 4ヶ月で200万台を売り上げました",
-          "title_zh": "由MisterBeast挑选的“K Foods” ……在4个月内售出200万份"
-        },
-        {
           "title": "롯데웰푸드 1분기 영업익 전년 대비 118.4% 증가…\"글로벌 효과\"(종합)",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1M0QydllURkgwNU9KUGRVRXFVVkRHSjU5eC1JY01lSXR0SVhvWWs3dlVoc3dUdGdlYzljbjZ2cmVQNnctak9YUHhOQjBudWRaeWc?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Q1 operating profit up 118.4% YoY… “Global Effect” (Combined)",
           "title_ja": "ロッテウェルフードQ 1営業利益は前年同期比118.4%増…「グローバル効果」（連結）",
           "title_zh": "乐天健康食品第一季度营业利润同比增长118.4% …… “全球效应” （合并）"
+        },
+        {
+          "title": "미스터비스트가 픽한 ‘K푸드’…4개월 만에 200만개 팔았다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wc1BpWDY1WHU4blNYVFdUa1ltNWlabmNmb3hKczY0MUxyZk1OVWpqdW94S0dKRTUtcmJXbmk2MEZORWpFa1VBb0I3UlNkZE5jcU5iQS13?oc=5",
+          "desc": "",
+          "title_en": "'K Foods‘ picked by MisterBeast… sold 2 million units in 4 months",
+          "title_ja": "MisterBeastが選んだ「K Foods」… 4ヶ月で200万台を売り上げました",
+          "title_zh": "由MisterBeast挑选的“K Foods” ……在4个月内售出200万份"
         },
         {
           "title": "현대그린푸드 '성장과 환원, 재평가 지속' 증권사 발표에 강세…4.19%",
@@ -226,20 +226,20 @@
           "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
         },
         {
-          "title": "가족 외식하고 경품 받는다…SL&C, 브랜드 프로모션",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QcGh2WExkQzVaMC01VnpBMEhIamhnTHoyRW1pc1BtVkVaQ0FVaUJOcVRiSGhndktmczVwQzFNNkNSdG5iVF9xcEFneDJDWjhqV0FBQW02RQ?oc=5",
-          "desc": "",
-          "title_en": "Eat out and win prizes for families… SL&C, brand promotions",
-          "title_ja": "外食してファミリー向けの賞品を獲得… SL&C、ブランドプロモーション",
-          "title_zh": "外出就餐，赢取家庭奖励…… SL&C ，品牌促销"
-        },
-        {
           "title": "한식진흥원 ‘별하나 페스티벌’ 참가…‘K-미식벨트’ 알린다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hNnNlU3JMdmhEU012cktpZHFSbXJSeVlSV28wMEN2WnlkelFFa1hpU1czand4czlaSFFCVkFndHlRYW50OHhaNmh2Mk9kQnJ3UUtxdGswdw?oc=5",
           "desc": "",
           "title_en": "Participation in the ‘Star Hana Festival’ of the Korean Food Promotion Institute... Announcement of the ’K-Gourmet Belt'",
           "title_ja": "韓国食文化振興院「スター花まつり」への参加…「Kグルメベルト」の発表",
           "title_zh": "参加韩国食品促进会“星花节” ……宣布“韩国美食腰带”"
+        },
+        {
+          "title": "“‘리얼 캘리포니아’ 확인하세요”…캘리포니아 유제품 협회 행사 가보니",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wNC02Ym9PdV9UcU1ZMFdQRUJYaHRMYVM0UnFNOXoyeVZOY2dUMmZjLWhjczFrckNjUWV6ZmxRODd5bGdaSlpqRXpBV1NGTmtHWFpKbVZ2MA?oc=5",
+          "desc": "",
+          "title_en": "“Check out ‘Real California’” … I went to a California Dairy Association event.",
+          "title_ja": "「『リアル・カリフォルニア』をチェック」…カリフォルニア酪農協会のイベントに行ってきました。",
+          "title_zh": "“看看‘真正的加利福尼亚’” ……我参加了加利福尼亚奶业协会的活动。"
         }
       ]
     }
