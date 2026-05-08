@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T05:33:41Z",
+  "lastUpdated": "2026-05-08T07:43:28Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "롯데웰푸드, 1분기 영업이익 358억 원…전년比 118%↑",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ed2x2d1cyRHZNM0ZCT1JkX1hVNUJnRldOeEVLN3B2aWxSME1pUnVLai03cTlaM1dBUnRRSGNOLWZCRWQ3UngtS0F1SUNlMjNpQmfSAVNBVV95cUxOelhLN3Z0bVJTQS1RQ3NuOUNEV2JacEtJSEFXYjJoNHN2ZnJjbDNaNHdONm9rN0RMY21MQ21zQ0xHbHQ3VWdsd2Jnd1kzX3VYQTZFWQ?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food's first quarter operating profit of 35.8 billion won… 118% year-over-year↑",
+          "title_ja": "ロッテウェルフードの第1四半期の営業利益は358億ウォン…前年同期比118%↑",
+          "title_zh": "乐天健康食品第一季度营业利润358亿韩元…同比增长118%↑"
+        },
+        {
           "title": "이집트 홀리기 나선 K푸드…한국식품산업협회, 수출부터 체험까지 행사 열어",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2dHFINkpZLU55VEQyUTRKYTZBS0duZjNGbE90OVlLRUZwekZnQkk5ZVhtNGh6cnR6NU1yLU1GVGl4QnloWUdqazNwSldhVWZrRlHSAVNBVV95cUxNcjJibnhJWFgtaUFuUlZiNXRHWVcxNlRGSFROQzJDSll4UEtMaGRqTk5CZFpPc2Y2ckgwMGlSUTZ1c2d6Z1RjeVhmejA2UXNoT0JhYw?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Hyundai Green Food, Q1 operating profit of 46.4 billion won... 44% year-over-year↑",
           "title_ja": "現代グリーンフード、第1四半期営業利益464億ウォン...前年同期比44 ％↑",
           "title_zh": "现代绿色食品，第一季度营业利润464亿韩元……同比增长44%↑"
-        },
-        {
-          "title": "“공정가치” vs “주가 기반 산정” …신세계푸드 합병 매수가 논란 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VOXNyNm1qVkdoeXhEdFdXb1F4N0lzQTRmcC03MHRGQmc4SWVMbkd1Vm1Dd3U5aE03d0I3NHdXVGxhVm44ZzhzMlNCMGpxOGVkN1HSAVNBVV95cUxNQlZFSHpqeXQteUZZTUY3U3JmQVhJbEttMUhIcGxhc1pzOUJCamNUcVFuWVhsSURYY3l2RnZSTGViLTlxdG9HQ0c0elI5ZWwyRk9uaw?oc=5",
-          "desc": "",
-          "title_en": "“Fair Value” vs. “Stock Price Based Calculation” … Shinsegae Food Merger Purchase Controversial [Signal]",
-          "title_ja": "「公正価値」対「株価ベースの計算」…新世界食品合併買収論争[シグナル]",
-          "title_zh": "“公允价值”与“基于股票价格的计算” …… Shinsegae Food Merger Purchase有争议[Signal]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "롯데웰푸드 1분기 영업익 전년 대비 118.4% 증가…\"글로벌 효과\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1M0QydllURkgwNU9KUGRVRXFVVkRHSjU5eC1JY01lSXR0SVhvWWs3dlVoc3dUdGdlYzljbjZ2cmVQNnctak9YUHhOQjBudWRaeWc?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Q1 operating profit up 118.4% YoY… “Global Effect” (Combined)",
+          "title_ja": "ロッテウェルフードQ 1営業利益は前年同期比118.4%増…「グローバル効果」（連結）",
+          "title_zh": "乐天健康食品第一季度营业利润同比增长118.4% …… “全球效应” （合并）"
+        },
         {
           "title": "현대그린푸드 '성장과 환원, 재평가 지속' 증권사 발표에 강세…4.19%",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jOFpqZUt1SWs4QVUxMjhKNTE3YVRrR2RLdzNreWtaaEtvdndycjgxcEFVLXVLR2FhUHpYV01FbE11eWota0FITUpXQWxndl8xMkE?oc=5",
@@ -196,20 +204,12 @@
           "title_zh": "现代绿色食品“持续增长，减少和重估”证券公司宣布强劲…… 4.19%"
         },
         {
-          "title": "롯데웰푸드 1분기 영업익 358억원…작년 동기 대비 118.4% 증가",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zUUpTTVJlZUZ5d0dzTldSYk43QW51WHJKY0NseU1HTVZoYXJpOGMtRWM1dndWZU4tT3k1bjQzTEdNM0ZtTTcxT1dnLWlPQm85cGc?oc=5",
+          "title": "미스터비스트가 픽한 ‘K푸드’…4개월 만에 200만개 팔았다",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWTXpWcllHbTVpR01BN1lKTVY0a2xzUjVKb083MUxfRDBpc0pyNGFfRFk4c0VKVGZNR1VfV1ZVYUFscm0tdEpBeUhfWWJndmtNbXJHXw?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food first quarter operating profit of 35.8 billion won… 118.4% increase compared to the same period last year",
-          "title_ja": "ロッテウェルフード第1四半期営業利益358億ウォン…前年同期比118.4%増",
-          "title_zh": "乐天健康食品第一季度营业利润为358亿韩元……与去年同期相比增长118.4%"
-        },
-        {
-          "title": "카카오뱅크, 현대그린푸드와 '저금통 with 그리팅' 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rV1JrUE9Jd0F5ZDZsV2hfZnRWQTdhaU9sQTNrSHQ3cDgwZzJxRkdid0wzMTgxclFCY25WVDFpWFVUazM3c21lVkhsdWcxUE03ZFE?oc=5",
-          "desc": "",
-          "title_en": "Kakao Bank Launches Hyundai Green Foods and 'Piggy Bank with Gritting'",
-          "title_ja": "カカオ銀行、Hyundai Green Foodsと「Piggy Bank with Gritting」を発売",
-          "title_zh": "Kakao Bank推出现代绿色食品和“Piggy Bank with Gritting”"
+          "title_en": "'K Foods‘ picked by MisterBeast… sold 2 million units in 4 months",
+          "title_ja": "MisterBeastが選んだ「K Foods」… 4ヶ月で200万台を売り上げました",
+          "title_zh": "由MisterBeast挑选的“K Foods” ……在4个月内售出200万份"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "돌아온 수박 시즌…빽다방, 100% 국내산 ‘우리수박주스’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYVBBMmloV1RmaWpHdWlGRkVzSWV5NFJXdlBhRVZ0R1k5X1VvQ2JxY2tqbFlWU250c21WTEF1V3BOVGhWeFF3Yi1QSnpkakdqeGhsUzVhYw?oc=5",
-          "desc": "",
-          "title_en": "Watermelon season returning… Dung Dabang, 100% Domestic ‘Woori Watermelon Juice’",
-          "title_ja": "スイカの季節が戻ってきました… Dung Dabang、100 ％国産「ウーリスイカジュース」",
-          "title_zh": "西瓜季节回归…… Dung Dabang ， 100%国内“Woori西瓜汁”"
-        },
         {
           "title": "울릉의 봄 미식 산책…한식진흥원의 쿠킹클래스",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWg1OUJRMkVLeTlQM2JMX1c1Skl1aTAyRHNJcWxyNm13X1pIWFk3Yk9rWkRxMGo5OGU3N0QzNTAxc09zX1Z4a0NjVE9uMWhxeFhHc3hpTQ?oc=5",
@@ -234,12 +226,20 @@
           "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
         },
         {
-          "title": "설탕보다 치명적…신체 기관 망가뜨리는 ‘이것’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WcFAyNWJkdEdUcnNNSmZXdEsyN1hLNDJ5ZmVTNVJ1WUFSQ0VwazhyTkVzYUxEejZrRG1nZ1NkbkZJNTJVQlZhdmVTMUpBTUhKNTgxeWFlZw?oc=5",
+          "title": "한식진흥원 ‘별하나 페스티벌’ 참가…‘K-미식벨트’ 알린다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hNnNlU3JMdmhEU012cktpZHFSbXJSeVlSV28wMEN2WnlkelFFa1hpU1czand4czlaSFFCVkFndHlRYW50OHhaNmh2Mk9kQnJ3UUtxdGswdw?oc=5",
           "desc": "",
-          "title_en": "Deadlier than sugar… This destroys the organs of the body",
-          "title_ja": "砂糖よりも致命的…これは体の臓器を破壊します",
-          "title_zh": "比糖更致命……这会破坏身体的器官"
+          "title_en": "Participation in the ‘Star Hana Festival’ of the Korean Food Promotion Institute... Announcement of the ’K-Gourmet Belt'",
+          "title_ja": "韓国食文化振興院「スター花まつり」への参加…「Kグルメベルト」の発表",
+          "title_zh": "参加韩国食品促进会“星花节” ……宣布“韩国美食腰带”"
+        },
+        {
+          "title": "폴 바셋, 소일베이커 협업 머그컵 선보인다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85bnVBU2tsQUZzcld6WEhBOHpGd3pVN2dCdXFJQmVhTEhHUkZ3T1N1Z0xHbTg1TTZyekVCSmtWRW43UWd1cmJSamNvV1R6QmRwaFNoWTRNOA?oc=5",
+          "desc": "",
+          "title_en": "Paul Bassett Introduces Soilbaker Collaborative Mug",
+          "title_ja": "ポール・バセットがSoilbakerコラボレーションマグカップを紹介",
+          "title_zh": "Paul Bassett推出Soilbaker协作杯"
         }
       ]
     }
