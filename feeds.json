@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T19:03:14Z",
+  "lastUpdated": "2026-05-09T21:44:31Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "음식 쓰레기",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLcF9DazlHc0hRWU1wX05qcmpVYmdyaTBXYjRZSG9uXzFfUktabS1nemFGT0U2SUw2R3U2SkdaTFNzUzl6Vmx1WHROV1hKN252TElIMmozTkxyZ21Pc3dXSndIQVZqbnFaWlR2THJVWnR4SXJvRnpYVDlhWk1sTFE?oc=5",
+          "desc": "",
+          "title_en": "Food waste",
+          "title_ja": "食品廃棄物",
+          "title_zh": "食物浪费"
+        },
+        {
           "title": "롯데웰푸드, 1분기 영업익 118% 증가…해외사업이 견인",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTmZsLUY4VjN5dFk3X2o1STdtMUszUW1xdVQ5N2lSb25qbWRuMmo0QXdhdnQ1bXlXNlBCMmxuSUpZT3BIUFpPeDZyY3FZREI0UTNKRHo0SjMtQQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "An American version of the parasite, 'Dummy' … hide in the basement and steal food",
           "title_ja": "アメリカ版の寄生虫「ダミー」…地下室に隠れて食料を盗む",
           "title_zh": "美国版的寄生虫“假人” ……躲在地下室偷食物"
-        },
-        {
-          "title": "꼬깔콘, 새 옷 입는다…롯데웰푸드, 패키지 디자인 개편",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxYWNZczZqT3QxaEZTUnN0bVljVUw5ZmVDMFJkM3dIZl9BYldkVTlvWGxWWjhFcWZuc1ppVlpFYkdJTkRkOGRBeVBaa053MUZpUHdBNERTVFZ1d9IBVEFVX3lxTE8tOTVZVzF1ejNmY0xZdnBkN3B6c1ZRMVpCZmtFOEZtSk1mb3hQZFBFTy1oa1VrU1NNY1dmWnc1WU5kSEh2TmtuaU1zUzZiMVBLUmh6Vw?oc=5",
-          "desc": "",
-          "title_en": "Kokkakkon is getting new clothes… Lotte well food, package design revamp",
-          "title_ja": "コッカッコンは新しい服を手に入れようとしています…ロッテウェルフード、パッケージデザインの刷新",
-          "title_zh": "Kokkakkon正在购买新衣服……乐天WELL FOOD ，包装设计改造"
         }
       ]
     },
@@ -167,7 +167,7 @@
         },
         {
           "title": "남미의 K-푸드 인기 소회 [권대영의 한식 인문학]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VanR5Q2N1TjFjNHljS3d4SnUtbk40M2NOSFR2ZENBWHRST0ZDYzdlV1NCNVU4VzI0M0o3RWw4cXFyUjlOR182SWVPNTF2TjFGb2fSAVNBVV95cUxNbkx4WVJGVldoZHQtQlF1a0xpZHRMbWFMMFdBRnBfUEZEZi1EOTBwM192UEVqektjcU5oSHEwZlZFdzhsZUxJeGl2XzlxTVFWbmIzSQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uTHhZUkZWV2hkdC1CUXVrTGlkdExtYUwwV0FGcF9QRkRmLUQ5MHAzX3ZQRWp6S2NxTmhIcTBmVkV3OGxlTEl4aXZfOXFNUVZuYjNJ0gFTQVVfeXFMTW5MeFlSRlZXaGR0LUJRdWtMaWR0TG1hTDBXQUZwX1BGRGYtRDkwcDNfdlBFanpLY3FOaEhxMGZWRXc4bGVMSXhpdl85cU1RVm5iM0k?oc=5",
           "desc": "",
           "title_en": "Popular Rite of K-Food in South America [Kwon Dae-young's Korean Food Humanities]",
           "title_ja": "南米で人気のK - Foodの儀式[クォン・デヨンの韓国料理人文科学]",
@@ -218,20 +218,20 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "울릉의 봄 미식 산책…한식진흥원의 쿠킹클래스",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWg1OUJRMkVLeTlQM2JMX1c1Skl1aTAyRHNJcWxyNm13X1pIWFk3Yk9rWkRxMGo5OGU3N0QzNTAxc09zX1Z4a0NjVE9uMWhxeFhHc3hpTQ?oc=5",
+          "desc": "",
+          "title_en": "Spring Food Walk in Ulleung… Korean Food Promotion Institute Cooking Class",
+          "title_ja": "ウルルンで春の食べ歩き…韓国料理プロモーション協会のクッキング教室",
+          "title_zh": "鹿陵春季美食漫步…韩国美食推广学院烹饪课"
+        },
+        {
           "title": "한식진흥원 ‘별하나 페스티벌’ 참가…‘K-미식벨트’ 알린다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hNnNlU3JMdmhEU012cktpZHFSbXJSeVlSV28wMEN2WnlkelFFa1hpU1czand4czlaSFFCVkFndHlRYW50OHhaNmh2Mk9kQnJ3UUtxdGswdw?oc=5",
           "desc": "",
           "title_en": "Participation in the ‘Star Hana Festival’ of the Korean Food Promotion Institute... Announcement of the ’K-Gourmet Belt'",
           "title_ja": "韓国食文化振興院「スター花まつり」への参加…「Kグルメベルト」の発表",
           "title_zh": "参加韩国食品促进会“星花节” ……宣布“韩国美食腰带”"
-        },
-        {
-          "title": "“‘리얼 캘리포니아’ 확인하세요”…캘리포니아 유제품 협회 행사 가보니",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wNC02Ym9PdV9UcU1ZMFdQRUJYaHRMYVM0UnFNOXoyeVZOY2dUMmZjLWhjczFrckNjUWV6ZmxRODd5bGdaSlpqRXpBV1NGTmtHWFpKbVZ2MA?oc=5",
-          "desc": "",
-          "title_en": "“Check out ‘Real California’” … I went to a California Dairy Association event.",
-          "title_ja": "「『リアル・カリフォルニア』をチェック」…カリフォルニア酪農協会のイベントに行ってきました。",
-          "title_zh": "“看看‘真正的加利福尼亚’” ……我参加了加利福尼亚奶业协会的活动。"
         },
         {
           "title": "폴 바셋, 소일베이커 협업 머그컵 선보인다",
