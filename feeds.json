@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T13:19:34Z",
+  "lastUpdated": "2026-05-09T15:53:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "在荷兰兄弟公司找到一份工作比进入哈佛大学更难"
         },
         {
-          "title": "Subway's corporate profit has taken off under Roark Capital",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFZaNzA1S2s5YlZGMUJVdHotRWZHdU1LejRhOExaN0pOU0x6SC1tMzRFNzlyMWhFRDhWOWxWTldaS0NOQ0VOZl8yYlU1M0xjRXI1VWRuS3pjSXdOVjBJeHlRcEFEaWF2eGR2WnV4SHFlX01zUFBOZTZEVjRxRy1hTW8tRFVfMElfcVZCdy1uYnFnMmFlcTk0TWJWMEpkN0FnVU1N?oc=5",
+          "title": "A look at the future of Chuck E. Cheese",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzRwZlRGMGh2eGNfWGRjVzdjdWN3eC1YalRwX1RtbXFaSnkyN2NSZDkwT0ZxQ0RNRkU3U1RYQXNpb0VoT0VneVBjbG9hbGtOQ0VDSDByZzEzSmh2UEl0c0dFVE1pWnRZMkpIU2owVk1zRExselNZM2JVc0JiNUh2WQ?oc=5",
           "desc": "",
-          "title_ko": "서브웨이의 기업 이익은 Roark Capital에 의해 실현되었습니다.",
-          "title_ja": "サブウェイの企業利益はローク・キャピタルの下で上昇した",
-          "title_zh": "赛百味的企业利润在Roark Capital的领导下实现了腾飞"
+          "title_ko": "Chuck E. Cheese의 미래 살펴보기",
+          "title_ja": "チャック・E・チーズの未来を振り返る",
+          "title_zh": "展望Chuck E. Cheese的未来"
         }
       ]
     },
@@ -129,6 +129,14 @@
       "items": [
         {
           "title": "롯데웰푸드, 1분기 영업익 118% 증가…해외사업이 견인",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xelF2czRiOTE1M1l0Q2h1cllnRU1HS2hqZWhpU3YtcjNsTllRUXhRaUJ4SjdYM0VudHRSZTJ5bTlFbUtjRFR1dHlFOGkzdFBhb1g5dTVBc0loMFYyaEdOOFJWdlp3dkdCUnpCTzJjbXJyOTQzb3FfeWs1TWRzRVk?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Increases First Quarter Operating Profit by 118% … Overseas Business Driven",
+          "title_ja": "ロッテウェルフード、第1四半期営業利益118%増…海外事業主導",
+          "title_zh": "乐天Well Food第一季度营业利润增长118% …海外业务驱动"
+        },
+        {
+          "title": "롯데웰푸드, 1분기 영업익 118% 증가…해외사업이 견인",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTmZsLUY4VjN5dFk3X2o1STdtMUszUW1xdVQ5N2lSb25qbWRuMmo0QXdhdnQ1bXlXNlBCMmxuSUpZT3BIUFpPeDZyY3FZREI0UTNKRHo0SjMtQQ?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Increases First Quarter Operating Profit by 118% … Overseas Business Driven",
@@ -136,20 +144,12 @@
           "title_zh": "乐天Well Food第一季度营业利润增长118% …海外业务驱动"
         },
         {
-          "title": "휴온스엔, ‘비타푸드 유럽 2026’ 참가…글로벌 파트너십 확대",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NeFFHOEpjSWR0bEp5OXJ1bHZlSXg3dXBXLUhPbFZiWXBnMldyRkRPN2lPNlp5Q3prS29kMThfUVcySkR2eWZhcUtGYWowbHhianlZWFRMaVJQMWF0anprZGZIMFJZSE9xSm9tX3hZOS1rZExqVWk1NnB0Z3F3NGc?oc=5",
+          "title": "미국판 기생충 '덜미'…지하실 숨어 살며 음식 훔쳐 먹기도",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9neEJCSXBudElqb1NKQ1FKOXBnYmo5SG83YlRoaDZCMXYyelVPVm1pbS13Zk1SOHNScmVPMklObVlBS2tNWUFBZndkUzFyYWFjWV95YTdDVGVIUHUxVHh4djNNRHR5dXQtRXRmNlVDS1pxY29ZM29tSkhkOUhDMFE?oc=5",
           "desc": "",
-          "title_en": "Huonsen to Participate in ‘Vitafood Europe 2026’ Expands Global Partnership",
-          "title_ja": "Huonsen、「Vitafood Europe 2026」に参加、グローバルパートナーシップを拡大",
-          "title_zh": "Huonsen将参加“Vitafood Europe 2026”扩大全球合作伙伴关系"
-        },
-        {
-          "title": "'신세계푸드' 52주 신고가 경신, 기관 12일 연속 순매수(3.0만주)",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9peUhSUXJNaDZjeEZ0ZTNHNTNkZHNqcjZUY0pXTS1waTRsYjRuZG1mTUI0U0dTVVlScG01TWw4VzNUVTdWR3RocjF5aW0tREplNzVTUnVHYnIzQdIBVEFVX3lxTE9SMXVCNjdPclRZLUJrQng4NWtabGJyVDJLQi1YSHhpb1VCaV81WDZpNjBGV0hSTXIzUEQ4bUdvekd2MEtuaDF6Mms3cS1Ed3FJVS1PaQ?oc=5",
-          "desc": "",
-          "title_en": "'Shinsegae Food' 52-week report was renewed, and the institution's net purchase for 12 consecutive days (30 million shares)",
-          "title_ja": "「Shinsegae Food」52週レポートを更新し、機関の純購入は12日連続（ 3,000万株）",
-          "title_zh": "“Shinsegae Food” 52周报告续期，机构净购买量连续12天（ 3000万股）"
+          "title_en": "An American version of the parasite, 'Dummy' … hide in the basement and steal food",
+          "title_ja": "アメリカ版の寄生虫「ダミー」…地下室に隠れて食料を盗む",
+          "title_zh": "美国版的寄生虫“假人” ……躲在地下室偷食物"
         }
       ]
     },
@@ -167,7 +167,7 @@
         },
         {
           "title": "남미의 K-푸드 인기 소회 [권대영의 한식 인문학]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VanR5Q2N1TjFjNHljS3d4SnUtbk40M2NOSFR2ZENBWHRST0ZDYzdlV1NCNVU4VzI0M0o3RWw4cXFyUjlOR182SWVPNTF2TjFGb2fSAVNBVV95cUxNbkx4WVJGVldoZHQtQlF1a0xpZHRMbWFMMFdBRnBfUEZEZi1EOTBwM192UEVqektjcU5oSHEwZlZFdzhsZUxJeGl2XzlxTVFWbmIzSQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uTHhZUkZWV2hkdC1CUXVrTGlkdExtYUwwV0FGcF9QRkRmLUQ5MHAzX3ZQRWp6S2NxTmhIcTBmVkV3OGxlTEl4aXZfOXFNUVZuYjNJ0gFTQVVfeXFMTW5MeFlSRlZXaGR0LUJRdWtMaWR0TG1hTDBXQUZwX1BGRGYtRDkwcDNfdlBFanpLY3FOaEhxMGZWRXc4bGVMSXhpdl85cU1RVm5iM0k?oc=5",
           "desc": "",
           "title_en": "Popular Rite of K-Food in South America [Kwon Dae-young's Korean Food Humanities]",
           "title_ja": "南米で人気のK - Foodの儀式[クォン・デヨンの韓国料理人文科学]",
