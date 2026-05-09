@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T02:53:33Z",
+  "lastUpdated": "2026-05-09T05:49:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "내수 부진에도…1분기 K푸드·뷰티 해외에서 날았다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WNlNNa0FzcXdYbUNPZTBfX0c4UU5teVlkczVnVEFnR0hreVhCZmZ3YmhFcnR3S1pGNXI0dGRCTEZPcU5FT1RXajVRbldyUmU5Z0HSAVNBVV95cUxOam9jZ1ZmOFh2eDhCQm5KZGdUYno5c2g0Z3ppcXlBaTA0c19vNFRQS0VZQkpLYXNOYjlGcjNsaFZQdWktODhYbWNRc1FhRmNjLUxQYw?oc=5",
+          "desc": "",
+          "title_en": "Despite the sluggish domestic demand... In the first quarter, I flew from K-food and beauty overseas.",
+          "title_ja": "国内需要が低迷しているにもかかわらず...第1四半期には、K - foodとビューティーから海外に飛びました。",
+          "title_zh": "尽管国内需求低迷...第一季度，我从韩国食品和美容公司飞往海外。"
+        },
+        {
           "title": "남미의 K-푸드 인기 소회 [권대영의 한식 인문학]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VanR5Q2N1TjFjNHljS3d4SnUtbk40M2NOSFR2ZENBWHRST0ZDYzdlV1NCNVU4VzI0M0o3RWw4cXFyUjlOR182SWVPNTF2TjFGb2fSAVNBVV95cUxNbkx4WVJGVldoZHQtQlF1a0xpZHRMbWFMMFdBRnBfUEZEZi1EOTBwM192UEVqektjcU5oSHEwZlZFdzhsZUxJeGl2XzlxTVFWbmIzSQ?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "“Wasn't it healthy food?” … ‘This‘ that you drink while on a diet and then get fat again [Healthy Time]",
           "title_ja": "「健康的な食べ物ではありませんでしたか？」…ダイエット中に飲んでから再び太る「これ」【ヘルシータイム】",
           "title_zh": "“这不是健康食品吗？” ……你在节食时喝的“这个” ，然后又变胖了[健康时间]"
-        },
-        {
-          "title": "[비즈니스 유머] 치명적인 음식",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EVFdhSVBfZUhCSm9uYUljZF8tbldNOXQwZ3FmcXhKOUlKcjN6aHlSUWd5SkZTMlB4SHd3SWVBSjJzdkxaSHZTNjNtVzBmOG5uLVHSAVNBVV95cUxOdDhlQTR1cnEyRWZrcjItQ0h3VUd0Z1lJN05GS2hiR3JlY1I0LWRoMGl4UWpZMUxMdWZqaDdCN3dCRkk1Um5uZzdMN1JZallEOVJUOA?oc=5",
-          "desc": "",
-          "title_en": "[Business Humor] Lethal Food",
-          "title_ja": "【ビジネスユーモア】致命的な食べ物",
-          "title_zh": "【商业幽默】致命食物"
         }
       ]
     },
