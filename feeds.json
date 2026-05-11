@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T21:49:49Z",
+  "lastUpdated": "2026-05-11T03:36:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "바이오니아 자회사 에이스바이옴, '비타푸드 유럽'서 제품력 알렸다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vWjEwNGlPOF9Td0hiem51Z1VCRUJRazNFZ0daRlY4Q0Fiak1aWGxXc1p1bWczZkhxa0JpWExHUWsxbmlKbVZnSDhtWTlUM0RzTGFWZXg4VXZnQdIBVEFVX3lxTE1xZnRVRmNFVkRmQmZBUTZCVlRBRHdYV2VwdGwxdTN6UHZfYklJcEZDZjBUMl9JckxmNzRkUkxEN0owQlluZUVYd0NHTEx0SmdvdzNtaQ?oc=5",
+          "desc": "",
+          "title_en": "Acebiom, a subsidiary of Bionia, announced the product history of 'Vitafood Europe'",
+          "title_ja": "Bioniaの子会社であるAcebiomは、「Vitafood Europe」の製品履歴を発表しました",
+          "title_zh": "Bionia的子公司Acebiom宣布了“Vitafood Europe”的产品历史"
+        },
+        {
+          "title": "일동바이오사이언스, ‘비타푸드 유럽’ 참가해 글로벌 시장 공략 모색",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OanhvWWRIU0VkUS0xVnNLUWsydVVzRkxjVl8wTExiYVJyRHNRUmJhOUdTaTZ6YVNzVURXaHgzSW8xYXRkN3N1VGRVLTJCMUI1SDJiMkllNjlnZ9IBVEFVX3lxTFA4cjBRZElqSHNSWjZ5cno5dTJyaWI5MXhLd1hrU3lGcTFwT2x2c0V5NnNXZTFoTFNYLXJPVU96NWhwMEpPeUh0WVExMmJtbjZkTG9ZbQ?oc=5",
+          "desc": "",
+          "title_en": "Ildong Biosciences Participates in ’Vitafood Europe’ to Explore Global Markets",
+          "title_ja": "Ildong Biosciences、世界市場を探るために「Vitafood Europe」に参加",
+          "title_zh": "Ildong Biosciences参加“Vitafood Europe” ，开拓全球市场"
+        },
+        {
           "title": "현대그린푸드, 그리팅몰서 사찰음식 간편식 선보인다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tenoxVEZNeC1fcEE2ODdzNjVQUUF4aC1mM09NX0o3OFhlLU53VldWMl9WSWNFd0ZWNUhfV0tlYU9iRW1rRW4yZ09MbXc1X3lOdlZzRW1fNTJFZ9IBVEFVX3lxTE9XVmdKZGVFM3RFQm5ZbUV0Mk1aLVFBcGx4d2VoVlViUVk1LXl2RWRacEo4WGRHUTVlYmhCenFlVHpiTEFKa0xsdFBKWHE3cjNLdENvMQ?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Food, Gritting Mall, is introducing temple food and convenience food",
           "title_ja": "ヒュンダイグリーンフード、グリッティングモールは、寺院の食べ物とコンビニエンスフードを紹介しています",
           "title_zh": "现代绿色食品， Gritting Mall ，正在推出寺庙食品和便利食品"
-        },
-        {
-          "title": "“구조적 이익 개선 가능성을 충분히 반영하지 못한 주가”",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02cDVFZ3pNSWhkdi1naDFYd1lnYVBXQk1kZzFoUWlHVzZDaFpMby1CbFZ5dXNMbjNTcHI2MUhaNnZKR0FBSFlSU2VSaHZGSTBWaHJ2MUJWcU4zQdIBVEFVX3lxTE1fQmZ5VUdacWwza2UwSzZmRjJlVDdONkI0UDZFUnlOZFlxU1kwSk1SdklxQTBCdTY1Szh2cFRyMTNRdzFqV0pQRnJkVGVxSzRmUi1QNg?oc=5",
-          "desc": "",
-          "title_en": "“Stock prices that do not sufficiently reflect the possibility of structural benefit improvement”",
-          "title_ja": "「構造的利益改善の可能性を十分に反映していない株価」",
-          "title_zh": "“股价没有充分反映结构效益改善的可能性”"
-        },
-        {
-          "title": "롯데웰푸드, 1분기 영업익 118% 증가…해외사업이 견인",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTmZsLUY4VjN5dFk3X2o1STdtMUszUW1xdVQ5N2lSb25qbWRuMmo0QXdhdnQ1bXlXNlBCMmxuSUpZT3BIUFpPeDZyY3FZREI0UTNKRHo0SjMtQdIBVEFVX3lxTE45T0tqajFzaWM4TWtrMlphQXA1b19ndFJJNVZiLTQzMGVlT2g4Ukc2anAwM3RHSmUyZHdoRzVfeGZscFBHRE1SMkMtT1lsYmVpNkVEaA?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Increases First Quarter Operating Profit by 118% … Overseas Business Driven",
-          "title_ja": "ロッテウェルフード、第1四半期営業利益118%増…海外事業主導",
-          "title_zh": "乐天Well Food第一季度营业利润增长118% …海外业务驱动"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "「Seo People's Food Disappears」Jajangmyeon海滨冲击"
         },
         {
-          "title": "내수 부진에도…1분기 K푸드·뷰티 해외에서 날았다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WNlNNa0FzcXdYbUNPZTBfX0c4UU5teVlkczVnVEFnR0hreVhCZmZ3YmhFcnR3S1pGNXI0dGRCTEZPcU5FT1RXajVRbldyUmU5Z0HSAVNBVV95cUxOam9jZ1ZmOFh2eDhCQm5KZGdUYno5c2g0Z3ppcXlBaTA0c19vNFRQS0VZQkpLYXNOYjlGcjNsaFZQdWktODhYbWNRc1FhRmNjLUxQYw?oc=5",
+          "title": "“운동해도 소용없다”…밤마다 먹던 ‘이 음식’, 노화 2배 앞당기고 있었다 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdDBPYm1yOFlUNVd0Q2tmbVIteUhpVnNBR2NISEZXY0tMMXI3X2V4dmZWdjE4UVo2U21pQ2xHSU1WZ0ZaREpZb3ZObkFITVBWTndn0gFTQVVfeXFMTmR0ME9ibXI4WVQ1V3RDa2ZtUi15SGlWc0FHY0hIRldjS0wxcjdfZXh2ZlZ2MThRWjZTbWlDbEdJTVZnRlpESllvdk5uQUhNUFZOd2c?oc=5",
           "desc": "",
-          "title_en": "Despite the sluggish domestic demand... In the first quarter, I flew from K-food and beauty overseas.",
-          "title_ja": "国内需要が低迷しているにもかかわらず...第1四半期には、K - foodとビューティーから海外に飛びました。",
-          "title_zh": "尽管国内需求低迷...第一季度，我从韩国食品和美容公司飞往海外。"
+          "title_en": "“It's no use exercising” … The ‘food’ I used to eat every night was doubling my aging [heal time]",
+          "title_ja": "「エクササイズしても無駄だ」…毎晩食べていた「食べ物」が、エイジングを倍増させていた【ヒールタイム】",
+          "title_zh": "“锻炼没用” ……我每天晚上吃的“食物”让我的衰老加倍了[疗愈时间]"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "澳大利亚杂货店希腊酸奶摊“空”"
         },
         {
+          "title": "튜브형으로 더 간편하고 깔끔하게…이금기 ‘팬더굴소스’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tTHE5dDhUM1R1dHc5X1FGLWFXNmJoNmpVVzRMLU94d1NQakNVU01vSjg2ODlHRnJTeWwxbGNFZkdWRld1TVJoWXYtaUVLSFJ5alFDT0lMUQ?oc=5",
+          "desc": "",
+          "title_en": "Tube type makes it easier and tidier... Lee Kok-gi ‘Panda Gul Sauce’",
+          "title_ja": "チューブタイプでスムーズに・・・イ・コッギ「パンダガルソース」",
+          "title_zh": "管子类型使其更轻松、更整洁…… Lee Kok-gi ‘Panda Gul Sauce’"
+        },
+        {
           "title": "미국, ‘올데이 브렉퍼스트’ 확산",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GUE41ZW1RY25WNVRTN0NNQTdydlh1cktvZ1ZwM2NmSjhKc3djdEFfLTFXVXI1WmFRZzVGYTRJVUNYVUc2ZUtJNElzQVNmMlZXZGFLOVQyZw?oc=5",
           "desc": "",
           "title_en": "US spreads all-day breakfast",
           "title_ja": "米国では終日朝食が提供されています",
           "title_zh": "美国全天供应早餐"
-        },
-        {
-          "title": "빵에도 천연 감미료…인도네시아 베이커리 시장 변화",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44SjJaWUZvY2NwSzVpNzVQNEx3QWFScmVXMnZUYjdqQnVieFQxNE9GMTJHd0dLQWxXTWhtNWZYWm5WU0xxZ2FHSWYyRk9fZ2pnVms3ZFViOA?oc=5",
-          "desc": "",
-          "title_en": "Natural sweetener on bread… Indonesian bakery market changes",
-          "title_ja": "パンに天然甘味料…インドネシアのベーカリー市場の変化",
-          "title_zh": "面包上的天然甜味剂……印度尼西亚面包店市场的变化"
         }
       ]
     }
