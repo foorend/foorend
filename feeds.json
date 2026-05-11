@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T03:36:44Z",
+  "lastUpdated": "2026-05-11T09:40:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "随着鸡尾酒达到30 $以上，消费者选择少喝或待在家里"
         },
         {
-          "title": "Subway's corporate profit has taken off under Roark Capital",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFZaNzA1S2s5YlZGMUJVdHotRWZHdU1LejRhOExaN0pOU0x6SC1tMzRFNzlyMWhFRDhWOWxWTldaS0NOQ0VOZl8yYlU1M0xjRXI1VWRuS3pjSXdOVjBJeHlRcEFEaWF2eGR2WnV4SHFlX01zUFBOZTZEVjRxRy1hTW8tRFVfMElfcVZCdy1uYnFnMmFlcTk0TWJWMEpkN0FnVU1N?oc=5",
-          "desc": "",
-          "title_ko": "서브웨이의 기업 이익은 Roark Capital에 의해 실현되었습니다.",
-          "title_ja": "サブウェイの企業利益はローク・キャピタルの下で上昇した",
-          "title_zh": "赛百味的企业利润在Roark Capital的领导下实现了腾飞"
-        },
-        {
           "title": "A look at the future of Chuck E. Cheese",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzRwZlRGMGh2eGNfWGRjVzdjdWN3eC1YalRwX1RtbXFaSnkyN2NSZDkwT0ZxQ0RNRkU3U1RYQXNpb0VoT0VneVBjbG9hbGtOQ0VDSDByZzEzSmh2UEl0c0dFVE1pWnRZMkpIU2owVk1zRExselNZM2JVc0JiNUh2WQ?oc=5",
           "desc": "",
           "title_ko": "Chuck E. Cheese의 미래 살펴보기",
           "title_ja": "チャック・E・チーズの未来を振り返る",
           "title_zh": "展望Chuck E. Cheese的未来"
+        },
+        {
+          "title": "Subway's corporate profit has taken off under Roark Capital",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFZaNzA1S2s5YlZGMUJVdHotRWZHdU1LejRhOExaN0pOU0x6SC1tMzRFNzlyMWhFRDhWOWxWTldaS0NOQ0VOZl8yYlU1M0xjRXI1VWRuS3pjSXdOVjBJeHlRcEFEaWF2eGR2WnV4SHFlX01zUFBOZTZEVjRxRy1hTW8tRFVfMElfcVZCdy1uYnFnMmFlcTk0TWJWMEpkN0FnVU1N?oc=5",
+          "desc": "",
+          "title_ko": "서브웨이의 기업 이익은 Roark Capital에 의해 실현되었습니다.",
+          "title_ja": "サブウェイの企業利益はローク・キャピタルの下で上昇した",
+          "title_zh": "赛百味的企业利润在Roark Capital的领导下实现了腾飞"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "서울푸드 2026, 6월 킨텍스서 개막…50개국 1800개사 참가",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fMmVHUUk4MHdxZUNNbjNTdEVNQjNFcUxPVE8telpUNjB5bC1sbmJYa0ZNNmk5WTEzUWI3S3pUYTQtS2RoNnh0N2FjOUZPeld3dW0yWDhTcndjQQ?oc=5",
+          "desc": "",
+          "title_en": "Seoul Food 2026, KINTEX opened in June… 1800 companies from 50 countries participated",
+          "title_ja": "ソウルフード2026、KINTEXが6月にオープン…世界50カ国1800社が参加",
+          "title_zh": "首尔食品2026 ， KINTEX于6月开幕……来自50个国家的1800家公司参加"
+        },
+        {
           "title": "바이오니아 자회사 에이스바이옴, '비타푸드 유럽'서 제품력 알렸다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vWjEwNGlPOF9Td0hiem51Z1VCRUJRazNFZ0daRlY4Q0Fiak1aWGxXc1p1bWczZkhxa0JpWExHUWsxbmlKbVZnSDhtWTlUM0RzTGFWZXg4VXZnQdIBVEFVX3lxTE1xZnRVRmNFVkRmQmZBUTZCVlRBRHdYV2VwdGwxdTN6UHZfYklJcEZDZjBUMl9JckxmNzRkUkxEN0owQlluZUVYd0NHTEx0SmdvdzNtaQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Ildong Biosciences Participates in ’Vitafood Europe’ to Explore Global Markets",
           "title_ja": "Ildong Biosciences、世界市場を探るために「Vitafood Europe」に参加",
           "title_zh": "Ildong Biosciences参加“Vitafood Europe” ，开拓全球市场"
-        },
-        {
-          "title": "현대그린푸드, 그리팅몰서 사찰음식 간편식 선보인다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tenoxVEZNeC1fcEE2ODdzNjVQUUF4aC1mM09NX0o3OFhlLU53VldWMl9WSWNFd0ZWNUhfV0tlYU9iRW1rRW4yZ09MbXc1X3lOdlZzRW1fNTJFZ9IBVEFVX3lxTE9XVmdKZGVFM3RFQm5ZbUV0Mk1aLVFBcGx4d2VoVlViUVk1LXl2RWRacEo4WGRHUTVlYmhCenFlVHpiTEFKa0xsdFBKWHE3cjNLdENvMQ?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, Gritting Mall, is introducing temple food and convenience food",
-          "title_ja": "ヒュンダイグリーンフード、グリッティングモールは、寺院の食べ物とコンビニエンスフードを紹介しています",
-          "title_zh": "现代绿色食品， Gritting Mall ，正在推出寺庙食品和便利食品"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "호주 마트, 그릭 요거트 진열대 ‘텅 비어’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xWm5zLXMzdVNmWF9nekpZU3E5UkVPa3Vyb2VLSzlFN0RxTGhEQk94dFdpNW1na2s4M3JQZTdiTHlvWE8ydUt1a2JsNlFnNVFJXzlFdmtzYw?oc=5",
-          "desc": "",
-          "title_en": "Australian grocery store Greek yogurt stand ‘empty’",
-          "title_ja": "オーストラリアの食料品店ギリシャヨーグルトスタンド「空」",
-          "title_zh": "澳大利亚杂货店希腊酸奶摊“空”"
-        },
-        {
           "title": "튜브형으로 더 간편하고 깔끔하게…이금기 ‘팬더굴소스’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tTHE5dDhUM1R1dHc5X1FGLWFXNmJoNmpVVzRMLU94d1NQakNVU01vSjg2ODlHRnJTeWwxbGNFZkdWRld1TVJoWXYtaUVLSFJ5alFDT0lMUQ?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "US spreads all-day breakfast",
           "title_ja": "米国では終日朝食が提供されています",
           "title_zh": "美国全天供应早餐"
+        },
+        {
+          "title": "빵에도 천연 감미료…인도네시아 베이커리 시장 변화",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44SjJaWUZvY2NwSzVpNzVQNEx3QWFScmVXMnZUYjdqQnVieFQxNE9GMTJHd0dLQWxXTWhtNWZYWm5WU0xxZ2FHSWYyRk9fZ2pnVms3ZFViOA?oc=5",
+          "desc": "",
+          "title_en": "Natural sweetener on bread… Indonesian bakery market changes",
+          "title_ja": "パンに天然甘味料…インドネシアのベーカリー市場の変化",
+          "title_zh": "面包上的天然甜味剂……印度尼西亚面包店市场的变化"
         }
       ]
     }
