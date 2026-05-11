@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T14:54:23Z",
+  "lastUpdated": "2026-05-11T17:25:28Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "随着鸡尾酒达到30 $以上，消费者选择少喝或待在家里"
         },
         {
+          "title": "A look at the future of Chuck E. Cheese",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzRwZlRGMGh2eGNfWGRjVzdjdWN3eC1YalRwX1RtbXFaSnkyN2NSZDkwT0ZxQ0RNRkU3U1RYQXNpb0VoT0VneVBjbG9hbGtOQ0VDSDByZzEzSmh2UEl0c0dFVE1pWnRZMkpIU2owVk1zRExselNZM2JVc0JiNUh2WQ?oc=5",
+          "desc": "",
+          "title_ko": "Chuck E. Cheese의 미래 살펴보기",
+          "title_ja": "チャック・E・チーズの未来を振り返る",
+          "title_zh": "展望Chuck E. Cheese的未来"
+        },
+        {
           "title": "It's tougher to get a job at Dutch Bros than to get into Harvard",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFJlbzJzc1ZQU3VqNVc4SjlrajhLTnhzWG5mMERaWTRSRkVqb1REZHRPYXRDZlllS0k4bVhIYUFRbm92VGNEN0NGYnNfT05PVmNxZjNsbGZRR05HUTNDaEVQRkJnQVZ1ZlgxX29zWGI3Qjd2S3VjZjJzME52STVRX01jWkJIUm50d3Z4R00xQ19PemM?oc=5",
           "desc": "",
           "title_ko": "하버드에 취업하는 것보다 더치브라더스에 취업하는 것이 더 어렵습니다.",
           "title_ja": "ハーバード大学に入学するよりも、オランダ・ブラザーズで仕事を得る方が難しい",
           "title_zh": "在荷兰兄弟公司找到一份工作比进入哈佛大学更难"
-        },
-        {
-          "title": "Applebee's wants managers spending more time in the dining room",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHdlMHprUFpJZ1U0Tm1mcUpLRzJncjNaSzltLWhqVWxTNlVMS3FOTWVLS2FqQ1U4SUxuRV9aN0Q3TlZ4bU1uTHBFWWx3V2hGeDU3UjJsS2RKVFgyQUxvdnVFemJfZmtyZksxZVd3YV9lNnZRdUt3N19sQnRlUDdnc1R6ZGs4bnA4OXR0ZzJfRUtCWW1jbVpVQzJfNGpWRDBSRnMyVnZB?oc=5",
-          "desc": "",
-          "title_ko": "Applebee 's는 관리자가 식당에서 더 많은 시간을 보내기를 원합니다",
-          "title_ja": "Applebee'sは、マネージャーがダイニングルームでより多くの時間を過ごすことを望んでいます",
-          "title_zh": "Applebee's希望经理在餐厅花更多时间"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "New York’s Buzziest New Restaurant Is a Pub",
+          "link": "https://www.eater.com/pre-shift/961028/deans-pub-new-york-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "뉴욕에서 가장 북적거리는 새로운 레스토랑은 펍입니다.",
+          "title_ja": "ニューヨークで最も賑やかな新しいレストランはパブ",
+          "title_zh": "纽约最热闹的新餐厅是酒吧"
+        },
+        {
           "title": "Why the Nordstrom Cafe Was the Ultimate Mother-Daughter Experience",
           "link": "https://www.eater.com/food-culture/960443/nordstrom-cafe-mother-daughter-nostalgia-tomato-soup-grilled-cheese",
           "desc": "A version of this post originally appeared on May 6 in our newsletter Eater Today. Sign up here to receive stories like this in your inbox. Eating lun",
@@ -110,14 +118,6 @@
           "title_ko": "Quince는 캐비어와 와인을 지금 판매합니다. 괜찮은가요?",
           "title_ja": "Quinceは今キャビアとワインを販売しています。何か良いことはありますか？",
           "title_zh": "Quince现在出售鱼子酱和葡萄酒。有好处吗？"
-        },
-        {
-          "title": "Here Are the 2026 James Beard Awards Restaurant, Chef, and Media Award Finalists",
-          "link": "https://www.eater.com/dining-out/951811/2026-james-beard-awards-restaurant-chef-finalists",
-          "desc": "The James Beard Foundation has now announced all of its nominees for the 2026 James Beard Awards. The awards represent one of the highest honors in th",
-          "title_ko": "2026년 제임스 비어드 어워드 레스토랑, 셰프, 미디어 어워드 결선 진출자를 소개합니다.",
-          "title_ja": "2026年ジェームズ・ビアード賞レストラン、シェフ、メディア賞ファイナリスト",
-          "title_zh": "以下是2026年詹姆斯·比尔德奖餐厅、厨师和媒体奖决赛选手"
         }
       ]
     }
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "윙입푸드, 전일 대비 7.41% 상승.. 일일회전율은 4.14% 기록",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySFR6VXU3N0h2QVE5aWpQNUpjWjJ0RWxaMnVpU01BS3drdjRhOU1pcmh5SHVoQXFKUkNzTktOMXpnU2JBb2NnTFNTd082YzZ6NUlR?oc=5",
+          "desc": "",
+          "title_en": "Wing Yip Food, up 7.41% from the previous day.. Daily turnover recorded 4.14%",
+          "title_ja": "ウィングイップフード、前日比7.41 ％増…日々の売上高は4.14 ％",
+          "title_zh": "永业食品，同比增长7.41% ，日营业额4.14%"
+        },
+        {
           "title": "“운동해도 소용없다”…밤마다 먹던 ‘이 음식’, 노화 2배 앞당기고 있었다 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RVU4zSVhNR3RJRGVSMTlJR2tpcFhEY003T0ZvMGlOUkdza1FRMW9wOVdzTm9mbVVHeEc1T2N5YWFQRkFTel94NUx1TUkxLVdmUmfSAVNBVV95cUxOZHQwT2JtcjhZVDVXdENrZm1SLXlIaVZzQUdjSEhGV2NLTDFyN19leHZmVnYxOFFaNlNtaUNsR0lNVmdGWkRKWW92Tm5BSE1QVk53Zw?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "“Seo People's Food Disappears” Jajangmyeon Waterfront Shock",
           "title_ja": "Jajangmyeon Waterfront Shock「Seo People's Food Disappears」",
           "title_zh": "「Seo People's Food Disappears」Jajangmyeon海滨冲击"
-        },
-        {
-          "title": "“운동해도 소용없다”…밤마다 먹던 ‘이 음식’, 노화 2배 앞당기고 있었다 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdDBPYm1yOFlUNVd0Q2tmbVIteUhpVnNBR2NISEZXY0tMMXI3X2V4dmZWdjE4UVo2U21pQ2xHSU1WZ0ZaREpZb3ZObkFITVBWTndn0gFTQVVfeXFMTmR0ME9ibXI4WVQ1V3RDa2ZtUi15SGlWc0FHY0hIRldjS0wxcjdfZXh2ZlZ2MThRWjZTbWlDbEdJTVZnRlpESllvdk5uQUhNUFZOd2c?oc=5",
-          "desc": "",
-          "title_en": "“It's no use exercising” … The ‘food’ I used to eat every night was doubling my aging [heal time]",
-          "title_ja": "「エクササイズしても無駄だ」…毎晩食べていた「食べ物」が、エイジングを倍増させていた【ヒールタイム】",
-          "title_zh": "“锻炼没用” ……我每天晚上吃的“食物”让我的衰老加倍了[疗愈时间]"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "현대그린푸드, 사찰음식 간편식 출시…도림·법송스님 협업",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMWVQZUM1eWNZZzlqVVlkb01UVks4a0hiR1BHdjdnWWpZRjRHLWVENm1MUkg4dlBUaFl2YW9HbFp4U3prMUY5QmdPWHJBc1luLXc?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food Launches Simple Foods for Temples… Dorim and Beoksongsunim Collaborate",
-          "title_ja": "ヒュンダイグリーンフード、寺院向けのシンプルな食品を発売… DorimとBeoksongsunimのコラボレーション",
-          "title_zh": "现代绿色食品为寺庙推出简单食品… Dorim和Beoksongsunim合作"
-        },
-        {
           "title": "K푸드 열풍, 특허까지 이어졌다...빵·떡볶이 소스 출원 증가",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kNlJHT2NuMFZIS0F4X1NmTUFRdnRPamlaQ0lkazBMWkxTT3J1a2RhSFNORUhvck9QdXlfZ3pidkNoc0FoZnFvM25SaWdvZw?oc=5",
           "desc": "",
           "title_en": "The K-Food craze led to patents... Increased applications for bread and tteokbokki sauce",
           "title_ja": "K - Foodの流行は特許につながりました...パンとtteokbokkiソースの出願が増加しました",
           "title_zh": "K-Food热潮带来了专利……面包和tteokbokki酱的应用增加"
+        },
+        {
+          "title": "현대그린푸드, 사찰음식 간편식 출시…도림·법송스님 협업",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMWVQZUM1eWNZZzlqVVlkb01UVks4a0hiR1BHdjdnWWpZRjRHLWVENm1MUkg4dlBUaFl2YW9HbFp4U3prMUY5QmdPWHJBc1luLXc?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food Launches Simple Foods for Temples… Dorim and Beoksongsunim Collaborate",
+          "title_ja": "ヒュンダイグリーンフード、寺院向けのシンプルな食品を発売… DorimとBeoksongsunimのコラボレーション",
+          "title_zh": "现代绿色食品为寺庙推出简单食品… Dorim和Beoksongsunim合作"
         },
         {
           "title": "‘K푸드’ 다음 주자 알고 싶다면 ‘이곳’ 주목해야",
@@ -234,12 +234,12 @@
           "title_zh": "美国全天供应早餐"
         },
         {
-          "title": "빵에도 천연 감미료…인도네시아 베이커리 시장 변화",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44SjJaWUZvY2NwSzVpNzVQNEx3QWFScmVXMnZUYjdqQnVieFQxNE9GMTJHd0dLQWxXTWhtNWZYWm5WU0xxZ2FHSWYyRk9fZ2pnVms3ZFViOA?oc=5",
+          "title": "베트남 음식배달 시장, 온디맨드 확산",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53VHAxMTlsU1FKcmpHSWJmYUs5b1VVZ2tka0RtTWlVRWRvVUhqOUFLQ2tJbFBDMUQzcjAxNjVEa1dyTHQxVno5XzNERzdlNHRmeFpRVWc1OA?oc=5",
           "desc": "",
-          "title_en": "Natural sweetener on bread… Indonesian bakery market changes",
-          "title_ja": "パンに天然甘味料…インドネシアのベーカリー市場の変化",
-          "title_zh": "面包上的天然甜味剂……印度尼西亚面包店市场的变化"
+          "title_en": "Vietnamese food delivery market spreads on-demand",
+          "title_ja": "ベトナムのフードデリバリー市場がオンデマンドで拡大",
+          "title_zh": "越南送餐市场按需扩张"
         }
       ]
     }
