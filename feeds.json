@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-05-12T08:41:23Z",
+  "lastUpdated": "2026-05-12T11:22:04Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "As cocktails hit $30-plus, consumers are opting to drink less—or stay home",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTRPekw0WG5TeG1GdUczc2xqcmZIYUlQcXBZcWpOOXJRd01qaHd5emlYZGpoLXhRM0ltTnlRSWluT0lBWG9WeHNmeVZ4VmFGNjVuZ3F6Wi1ZZUxLdEpOS3BUS2p4b1Rfd1hQWjBjRkNXdHhfVU9RRGpkUFBKakVUQkVEU3IzZW9KOGxHRDV1UVZoMUNGS2xJUmlaVi13dmxPUjNHQkFhdzNtOTZ3dmVNWmZR?oc=5",
+          "desc": "",
+          "title_ko": "칵테일이 $ 30 이상에 도달함에 따라 소비자들은 술을 덜 마시거나 집에 머무르는 것을 선택했습니다.",
+          "title_ja": "カクテルが30 $以上に達するにつれて、消費者は飲酒量を減らすか、家にいることを選択しています",
+          "title_zh": "随着鸡尾酒达到30 $以上，消费者选择少喝或待在家里"
+        },
         {
           "title": "A look at the future of Chuck E. Cheese",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzRwZlRGMGh2eGNfWGRjVzdjdWN3eC1YalRwX1RtbXFaSnkyN2NSZDkwT0ZxQ0RNRkU3U1RYQXNpb0VoT0VneVBjbG9hbGtOQ0VDSDByZzEzSmh2UEl0c0dFVE1pWnRZMkpIU2owVk1zRExselNZM2JVc0JiNUh2WQ?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "하버드에 취업하는 것보다 더치브라더스에 취업하는 것이 더 어렵습니다.",
           "title_ja": "ハーバード大学に入学するよりも、オランダ・ブラザーズで仕事を得る方が難しい",
           "title_zh": "在荷兰兄弟公司找到一份工作比进入哈佛大学更难"
-        },
-        {
-          "title": "Applebee's wants managers spending more time in the dining room",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHdlMHprUFpJZ1U0Tm1mcUpLRzJncjNaSzltLWhqVWxTNlVMS3FOTWVLS2FqQ1U4SUxuRV9aN0Q3TlZ4bU1uTHBFWWx3V2hGeDU3UjJsS2RKVFgyQUxvdnVFemJfZmtyZksxZVd3YV9lNnZRdUt3N19sQnRlUDdnc1R6ZGs4bnA4OXR0ZzJfRUtCWW1jbVpVQzJfNGpWRDBSRnMyVnZB?oc=5",
-          "desc": "",
-          "title_ko": "Applebee 's는 관리자가 식당에서 더 많은 시간을 보내기를 원합니다",
-          "title_ja": "Applebee'sは、マネージャーがダイニングルームでより多くの時間を過ごすことを望んでいます",
-          "title_zh": "Applebee's希望经理在餐厅花更多时间"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "【贡献】拯救人类、山村和地球“森林食物”的食物"
         },
         {
+          "title": "“잡채밥 조기 마감됐어요”…해외 급식서도 통하는 K푸드",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43elZtaUJLMFpCRUM4WVJQclVwRm9NaDUwcTlyelQ1Mi04QWtaeDMyeHE0RnJsRDE4TEtva3FZaFI4ZC1SVkJFS1Q4bW5vV3FxVUFVYk01TDN2ZnVnZnZabE1YbThTUdIBU0FVX3lxTE9hRFFBUDE1OGNZY3VTR0c0a21ZcWlkeWJlTUZqeXBmNXBkUXUwRkU3WDZIOW5VbHFPWVNtWm5jb2JPZXlmNExUYVNhMm11S1RaMnd3?oc=5",
+          "desc": "",
+          "title_en": "“Gobbled rice is closed early” … K-food that works with overseas feeds",
+          "title_ja": "「ゴブルドライスは早めに閉店」…海外の飼料と連携するK - food",
+          "title_zh": "“糯米饭提前关门” ……与海外饲料配套的K-food"
+        },
+        {
           "title": "CJ씨푸드, 4.55% 오르며 체결강도 강세로 반전(140%)",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pNjhiLV8xMFQ5Vm9naUdXVHJleFlXLXFFcWpVbFA0YzNzeWtDQmJBSmN5Vng0TjAtTGEzQ3M0cFAwLWN4eFBzUGtPNXlBVGRHdXc?oc=5",
           "desc": "",
           "title_en": "CJ Seafood reverses strong fastening strength by 4.55% (140%)",
           "title_ja": "CJシーフードは、強力な締結強度を4.55 ％ （ 140 ％ ）逆転させます",
           "title_zh": "CJ Seafood将强力紧固强度反转4.55% （ 140% ）"
-        },
-        {
-          "title": "“서민 음식이 사라진다” 짜장면 물가 쇼크",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XVV9qM3BsYVBGSENqTjY0Z2pnbGtRaEtfZXk2bzNHQzFaMHUxS0FMVTR0c1UxQnU3NFhFMzFXRzQ2Tm1qWmkySVp4dw?oc=5",
-          "desc": "",
-          "title_en": "“Seo People's Food Disappears” Jajangmyeon Waterfront Shock",
-          "title_ja": "Jajangmyeon Waterfront Shock「Seo People's Food Disappears」",
-          "title_zh": "「Seo People's Food Disappears」Jajangmyeon海滨冲击"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "K-Food热潮带来了专利……面包和tteokbokki酱的应用增加"
         },
         {
-          "title": "현대그린푸드, 사찰음식 간편식 출시…도림·법송스님 협업",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMWVQZUM1eWNZZzlqVVlkb01UVks4a0hiR1BHdjdnWWpZRjRHLWVENm1MUkg4dlBUaFl2YW9HbFp4U3prMUY5QmdPWHJBc1luLXc?oc=5",
+          "title": "“뷔가 먹은 그거 주세요”…BTS ‘먹방’에 멕시코 푸드코트 마비",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80ZllLRDhMbmw4S2F3REVWeGdwZ05SWnhTQUlIWG5MNy1vOTdKVjBaT0ZaV2tScms5RWYwa2tFWVoxSnplSm1GVTBpa2NLUVVDYXJOdg?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food Launches Simple Foods for Temples… Dorim and Beoksongsunim Collaborate",
-          "title_ja": "ヒュンダイグリーンフード、寺院向けのシンプルな食品を発売… DorimとBeoksongsunimのコラボレーション",
-          "title_zh": "现代绿色食品为寺庙推出简单食品… Dorim和Beoksongsunim合作"
+          "title_en": "“Give me what V has eaten” … Mexican food court paralysis in BTS ‘eating room'",
+          "title_ja": "「Vが食べたものをくれ」… BTSの「食堂」でメキシコのフードコートが麻痺",
+          "title_zh": "「给我V吃了什么」…… BTS「餐厅」的墨西哥美食广场瘫痪"
         }
       ]
     },
