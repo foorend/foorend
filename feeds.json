@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-05-12T11:22:04Z",
+  "lastUpdated": "2026-05-12T14:27:20Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "As cocktails hit $30-plus, consumers are opting to drink less—or stay home",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTRPekw0WG5TeG1GdUczc2xqcmZIYUlQcXBZcWpOOXJRd01qaHd5emlYZGpoLXhRM0ltTnlRSWluT0lBWG9WeHNmeVZ4VmFGNjVuZ3F6Wi1ZZUxLdEpOS3BUS2p4b1Rfd1hQWjBjRkNXdHhfVU9RRGpkUFBKakVUQkVEU3IzZW9KOGxHRDV1UVZoMUNGS2xJUmlaVi13dmxPUjNHQkFhdzNtOTZ3dmVNWmZR?oc=5",
-          "desc": "",
-          "title_ko": "칵테일이 $ 30 이상에 도달함에 따라 소비자들은 술을 덜 마시거나 집에 머무르는 것을 선택했습니다.",
-          "title_ja": "カクテルが30 $以上に達するにつれて、消費者は飲酒量を減らすか、家にいることを選択しています",
-          "title_zh": "随着鸡尾酒达到30 $以上，消费者选择少喝或待在家里"
-        },
         {
           "title": "A look at the future of Chuck E. Cheese",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzRwZlRGMGh2eGNfWGRjVzdjdWN3eC1YalRwX1RtbXFaSnkyN2NSZDkwT0ZxQ0RNRkU3U1RYQXNpb0VoT0VneVBjbG9hbGtOQ0VDSDByZzEzSmh2UEl0c0dFVE1pWnRZMkpIU2owVk1zRExselNZM2JVc0JiNUh2WQ?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "Chuck E. Cheese의 미래 살펴보기",
           "title_ja": "チャック・E・チーズの未来を振り返る",
           "title_zh": "展望Chuck E. Cheese的未来"
+        },
+        {
+          "title": "Shake Shack encounters an unforgiving Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ZkdVhZVGNJNnBqSW81WkFMRFNnS0o5cGU5M3daeGZzN0wtSjNEcDhOR05Mby16SUQzaEJqZGVrbzZrUzI1N0FjTXBnTDExNWFMdTZHLWJ1RC13MmFGaHBUMUt6V21xbFpzemYzSk1oUFZzTHpBRE1SVEtVNWFQcEJnTEZGWktFZ2lia1RoUW4tTEIwQl9nbQ?oc=5",
+          "desc": "",
+          "title_ko": "Shake Shack과 용서할 수 없는 월스트리트의 만남",
+          "title_ja": "Shake Shackが容赦のないウォール街に遭遇",
+          "title_zh": "Shake Shack遭遇无情的华尔街"
         },
         {
           "title": "It's tougher to get a job at Dutch Bros than to get into Harvard",
@@ -166,20 +166,20 @@
           "title_zh": "【贡献】拯救人类、山村和地球“森林食物”的食物"
         },
         {
+          "title": "윙입푸드, 전일 대비 7.41% 상승.. 일일회전율은 4.14% 기록",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySFR6VXU3N0h2QVE5aWpQNUpjWjJ0RWxaMnVpU01BS3drdjRhOU1pcmh5SHVoQXFKUkNzTktOMXpnU2JBb2NnTFNTd082YzZ6NUlR?oc=5",
+          "desc": "",
+          "title_en": "Wing Yip Food, up 7.41% from the previous day.. Daily turnover recorded 4.14%",
+          "title_ja": "ウィングイップフード、前日比7.41 ％増…日々の売上高は4.14 ％",
+          "title_zh": "永业食品，同比增长7.41% ，日营业额4.14%"
+        },
+        {
           "title": "“잡채밥 조기 마감됐어요”…해외 급식서도 통하는 K푸드",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43elZtaUJLMFpCRUM4WVJQclVwRm9NaDUwcTlyelQ1Mi04QWtaeDMyeHE0RnJsRDE4TEtva3FZaFI4ZC1SVkJFS1Q4bW5vV3FxVUFVYk01TDN2ZnVnZnZabE1YbThTUdIBU0FVX3lxTE9hRFFBUDE1OGNZY3VTR0c0a21ZcWlkeWJlTUZqeXBmNXBkUXUwRkU3WDZIOW5VbHFPWVNtWm5jb2JPZXlmNExUYVNhMm11S1RaMnd3?oc=5",
           "desc": "",
           "title_en": "“Gobbled rice is closed early” … K-food that works with overseas feeds",
           "title_ja": "「ゴブルドライスは早めに閉店」…海外の飼料と連携するK - food",
           "title_zh": "“糯米饭提前关门” ……与海外饲料配套的K-food"
-        },
-        {
-          "title": "CJ씨푸드, 4.55% 오르며 체결강도 강세로 반전(140%)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pNjhiLV8xMFQ5Vm9naUdXVHJleFlXLXFFcWpVbFA0YzNzeWtDQmJBSmN5Vng0TjAtTGEzQ3M0cFAwLWN4eFBzUGtPNXlBVGRHdXc?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood reverses strong fastening strength by 4.55% (140%)",
-          "title_ja": "CJシーフードは、強力な締結強度を4.55 ％ （ 140 ％ ）逆転させます",
-          "title_zh": "CJ Seafood将强力紧固强度反转4.55% （ 140% ）"
         }
       ]
     },
