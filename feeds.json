@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T22:08:17Z",
+  "lastUpdated": "2026-05-12T03:23:56Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드 '그리팅', 신장질환식단 호응에 제품 라인업 늘린다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93bWdrcmhMM2xyX2pRZXdOS2FxU0N6dG0xc0tVUHF5SHdVWnM3VWZydWVrTXpJbzNYMjZLSEFMTlRCTTgzaUJqMEVKT01VR1AwSGFnOGxoV2JrUdIBVEFVX3lxTE9iZ3JkX2tYUkxtdFRmRkxaSTl6MWFrMTJPS3VhQXZiN2FrcWRqazNhcWNOWFRmcHluNDUybHlpSnRlV2hWY2RJWGJ6NFJMeHZObTc3WA?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food 'Greeting' Increases Product Lineup in Response to Kidney Disease Diet",
+          "title_ja": "現代グリーンフードの「ご挨拶」が腎臓病ダイエットに対応して製品ラインナップを拡大",
+          "title_zh": "现代绿色食品“问候”增加产品阵容以应对肾病饮食"
+        },
+        {
           "title": "서울푸드 2026, 6월 킨텍스서 개막…50개국 1800개사 참가",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fMmVHUUk4MHdxZUNNbjNTdEVNQjNFcUxPVE8telpUNjB5bC1sbmJYa0ZNNmk5WTEzUWI3S3pUYTQtS2RoNnh0N2FjOUZPeld3dW0yWDhTcndjQdIBVEFVX3lxTE12X1ppcWFTZktRTXgyamNUekxmbW5PbS1kR01VS1hPaEVWVHhwbUxrS0tubjJ4bmhEbFJ5bG5NQU9LSlFzYi1xdGVDazdOenRVcTAwUA?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Acebiom, a subsidiary of Bionia, announced the product history of 'Vitafood Europe'",
           "title_ja": "Bioniaの子会社であるAcebiomは、「Vitafood Europe」の製品履歴を発表しました",
           "title_zh": "Bionia的子公司Acebiom宣布了“Vitafood Europe”的产品历史"
-        },
-        {
-          "title": "일동바이오사이언스, ‘비타푸드 유럽’ 참가해 글로벌 시장 공략 모색",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OanhvWWRIU0VkUS0xVnNLUWsydVVzRkxjVl8wTExiYVJyRHNRUmJhOUdTaTZ6YVNzVURXaHgzSW8xYXRkN3N1VGRVLTJCMUI1SDJiMkllNjlnZ9IBVEFVX3lxTFA4cjBRZElqSHNSWjZ5cno5dTJyaWI5MXhLd1hrU3lGcTFwT2x2c0V5NnNXZTFoTFNYLXJPVU96NWhwMEpPeUh0WVExMmJtbjZkTG9ZbQ?oc=5",
-          "desc": "",
-          "title_en": "Ildong Biosciences Participates in ’Vitafood Europe’ to Explore Global Markets",
-          "title_ja": "Ildong Biosciences、世界市場を探るために「Vitafood Europe」に参加",
-          "title_zh": "Ildong Biosciences参加“Vitafood Europe” ，开拓全球市场"
         }
       ]
     },
@@ -158,12 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "윙입푸드, 전일 대비 7.41% 상승.. 일일회전율은 4.14% 기록",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySFR6VXU3N0h2QVE5aWpQNUpjWjJ0RWxaMnVpU01BS3drdjRhOU1pcmh5SHVoQXFKUkNzTktOMXpnU2JBb2NnTFNTd082YzZ6NUlR?oc=5",
+          "title": "“서민 음식이 사라진다” 짜장면 물가 쇼크",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XVV9qM3BsYVBGSENqTjY0Z2pnbGtRaEtfZXk2bzNHQzFaMHUxS0FMVTR0c1UxQnU3NFhFMzFXRzQ2Tm1qWmkySVp4dw?oc=5",
           "desc": "",
-          "title_en": "Wing Yip Food, up 7.41% from the previous day.. Daily turnover recorded 4.14%",
-          "title_ja": "ウィングイップフード、前日比7.41 ％増…日々の売上高は4.14 ％",
-          "title_zh": "永业食品，同比增长7.41% ，日营业额4.14%"
+          "title_en": "“Seo People's Food Disappears” Jajangmyeon Waterfront Shock",
+          "title_ja": "Jajangmyeon Waterfront Shock「Seo People's Food Disappears」",
+          "title_zh": "「Seo People's Food Disappears」Jajangmyeon海滨冲击"
         },
         {
           "title": "“운동해도 소용없다”…밤마다 먹던 ‘이 음식’, 노화 2배 앞당기고 있었다 [헬시타임]",
@@ -174,12 +174,12 @@
           "title_zh": "“锻炼没用” ……我每天晚上吃的“食物”让我的衰老加倍了[疗愈时间]"
         },
         {
-          "title": "“서민 음식이 사라진다” 짜장면 물가 쇼크",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XVV9qM3BsYVBGSENqTjY0Z2pnbGtRaEtfZXk2bzNHQzFaMHUxS0FMVTR0c1UxQnU3NFhFMzFXRzQ2Tm1qWmkySVp4dw?oc=5",
+          "title": "“운동해도 소용없다”…밤마다 먹던 ‘이 음식’, 노화 2배 앞당기고 있었다 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdDBPYm1yOFlUNVd0Q2tmbVIteUhpVnNBR2NISEZXY0tMMXI3X2V4dmZWdjE4UVo2U21pQ2xHSU1WZ0ZaREpZb3ZObkFITVBWTndn0gFTQVVfeXFMTmR0ME9ibXI4WVQ1V3RDa2ZtUi15SGlWc0FHY0hIRldjS0wxcjdfZXh2ZlZ2MThRWjZTbWlDbEdJTVZnRlpESllvdk5uQUhNUFZOd2c?oc=5",
           "desc": "",
-          "title_en": "“Seo People's Food Disappears” Jajangmyeon Waterfront Shock",
-          "title_ja": "Jajangmyeon Waterfront Shock「Seo People's Food Disappears」",
-          "title_zh": "「Seo People's Food Disappears」Jajangmyeon海滨冲击"
+          "title_en": "“It's no use exercising” … The ‘food’ I used to eat every night was doubling my aging [heal time]",
+          "title_ja": "「エクササイズしても無駄だ」…毎晩食べていた「食べ物」が、エイジングを倍増させていた【ヒールタイム】",
+          "title_zh": "“锻炼没用” ……我每天晚上吃的“食物”让我的衰老加倍了[疗愈时间]"
         }
       ]
     },
@@ -188,12 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "K푸드 열풍, 특허까지 이어졌다...빵·떡볶이 소스 출원 증가",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kNlJHT2NuMFZIS0F4X1NmTUFRdnRPamlaQ0lkazBMWkxTT3J1a2RhSFNORUhvck9QdXlfZ3pidkNoc0FoZnFvM25SaWdvZw?oc=5",
+          "title": "선샤인푸드(주) (정정)사채원리금미지급발생",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5haXVYaFhpVUFia2lXZm9PZW81NFZnVjM5U1M2X09WOXpvdGRSVDNuRW5SbFhNeGxlMVN0dG56dUhEXzNkb3ZPblNSUjZ6TFJFcUp0bElFazY5Zw?oc=5",
           "desc": "",
-          "title_en": "The K-Food craze led to patents... Increased applications for bread and tteokbokki sauce",
-          "title_ja": "K - Foodの流行は特許につながりました...パンとtteokbokkiソースの出願が増加しました",
-          "title_zh": "K-Food热潮带来了专利……面包和tteokbokki酱的应用增加"
+          "title_en": "Sunshine Foods Co., Ltd. (Correction) Debentures Principal Accrual of Funds",
+          "title_ja": "サンシャイン・フーズ株式会社（訂正）債券プリンシパル・アクルーディング・オブ・ファンド",
+          "title_zh": "阳光食品股份有限公司（更正）债券资金本金计提"
         },
         {
           "title": "‘K푸드’ 다음 주자 알고 싶다면 ‘이곳’ 주목해야",
@@ -204,12 +204,12 @@
           "title_zh": "如果你想知道“K-Food”的下一个选手，你应该注意“这里”"
         },
         {
-          "title": "현대그린푸드, 사찰음식 간편식 출시…도림·법송스님 협업",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMWVQZUM1eWNZZzlqVVlkb01UVks4a0hiR1BHdjdnWWpZRjRHLWVENm1MUkg4dlBUaFl2YW9HbFp4U3prMUY5QmdPWHJBc1luLXc?oc=5",
+          "title": "K푸드 열풍, 특허까지 이어졌다...빵·떡볶이 소스 출원 증가",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kNlJHT2NuMFZIS0F4X1NmTUFRdnRPamlaQ0lkazBMWkxTT3J1a2RhSFNORUhvck9QdXlfZ3pidkNoc0FoZnFvM25SaWdvZw?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food Launches Simple Foods for Temples… Dorim and Beoksongsunim Collaborate",
-          "title_ja": "ヒュンダイグリーンフード、寺院向けのシンプルな食品を発売… DorimとBeoksongsunimのコラボレーション",
-          "title_zh": "现代绿色食品为寺庙推出简单食品… Dorim和Beoksongsunim合作"
+          "title_en": "The K-Food craze led to patents... Increased applications for bread and tteokbokki sauce",
+          "title_ja": "K - Foodの流行は特許につながりました...パンとtteokbokkiソースの出願が増加しました",
+          "title_zh": "K-Food热潮带来了专利……面包和tteokbokki酱的应用增加"
         }
       ]
     },
