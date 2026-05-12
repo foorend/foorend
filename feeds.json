@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-05-12T17:11:57Z",
+  "lastUpdated": "2026-05-12T19:53:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Franchisees push their claims in the Fat Brands bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdGNwUy15VlREV3N0Q2I5SGlHQXJxdWFSSkFBRUx3bmo0bmFERzNwZGN3UV8yVURUVlZqODBpOFYwNTVUd0p1c3JzRVVoV3N5a0tmQTBURDdFRW1sWWFqWWlJck5Ba2FOdmhlS1hFUldicWdaT2RKNHNoZzlJaVdhR1RJS1dKVlZqR0piVFR3QU1SdW1ibWlqbW43YVVCYVE?oc=5",
+          "desc": "",
+          "title_ko": "프랜차이즈 가맹점들은 팻브랜드 파산으로 자신들의 주장을 밀어붙인다.",
+          "title_ja": "フランチャイズ加盟店は、ファットブランドの破産で彼らの請求をプッシュします",
+          "title_zh": "加盟商在Fat Brands破产案中提出索赔"
+        },
         {
           "title": "Shake Shack encounters an unforgiving Wall Street",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ZkdVhZVGNJNnBqSW81WkFMRFNnS0o5cGU5M3daeGZzN0wtSjNEcDhOR05Mby16SUQzaEJqZGVrbzZrUzI1N0FjTXBnTDExNWFMdTZHLWJ1RC13MmFGaHBUMUt6V21xbFpzemYzSk1oUFZzTHpBRE1SVEtVNWFQcEJnTEZGWktFZ2lia1RoUW4tTEIwQl9nbQ?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "하버드에 취업하는 것보다 더치브라더스에 취업하는 것이 더 어렵습니다.",
           "title_ja": "ハーバード大学に入学するよりも、オランダ・ブラザーズで仕事を得る方が難しい",
           "title_zh": "在荷兰兄弟公司找到一份工作比进入哈佛大学更难"
-        },
-        {
-          "title": "Applebee's wants managers spending more time in the dining room",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHdlMHprUFpJZ1U0Tm1mcUpLRzJncjNaSzltLWhqVWxTNlVMS3FOTWVLS2FqQ1U4SUxuRV9aN0Q3TlZ4bU1uTHBFWWx3V2hGeDU3UjJsS2RKVFgyQUxvdnVFemJfZmtyZksxZVd3YV9lNnZRdUt3N19sQnRlUDdnc1R6ZGs4bnA4OXR0ZzJfRUtCWW1jbVpVQzJfNGpWRDBSRnMyVnZB?oc=5",
-          "desc": "",
-          "title_ko": "Applebee 's는 관리자가 식당에서 더 많은 시간을 보내기를 원합니다",
-          "title_ja": "Applebee'sは、マネージャーがダイニングルームでより多くの時間を過ごすことを望んでいます",
-          "title_zh": "Applebee's希望经理在餐厅花更多时间"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Restaurants Are in Their Blue Period",
+          "link": "https://www.eater.com/food-culture/961654/bright-blue-yves-klein-restaurants-trend",
+          "desc": "Amid a stretch of red-brick buildings, the Brooklyn restaurant Margot, right at the corner on a busy intersection, stands out. It’s blue: very blue, i",
+          "title_ko": "레스토랑이 파란색 시대에 접어들고 있습니다",
+          "title_ja": "レストランは青色の期間に入っています",
+          "title_zh": "餐厅已进入营业时间段"
+        },
+        {
           "title": "New York’s Buzziest New Restaurant Is a Pub",
           "link": "https://www.eater.com/pre-shift/961028/deans-pub-new-york-pre-shift",
           "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
@@ -110,14 +118,6 @@
           "title_ko": "노드스트롬 카페가 최고의 모녀 경험이었던 이유",
           "title_ja": "ノードストロームカフェが究極の母と娘の体験だった理由",
           "title_zh": "为什么诺德斯特龙咖啡馆是终极母女体验"
-        },
-        {
-          "title": "Quince Sells Caviar and Wine Now. Is It Any Good?",
-          "link": "https://www.eater.com/shopping/960397/quince-caviar-wine-coffee-review",
-          "desc": "For years, Quince has been a website that I knew as “that place to get affordable cashmere sweaters.” But as its offerings have expanded further and f",
-          "title_ko": "Quince는 캐비어와 와인을 지금 판매합니다. 괜찮은가요?",
-          "title_ja": "Quinceは今キャビアとワインを販売しています。何か良いことはありますか？",
-          "title_zh": "Quince现在出售鱼子酱和葡萄酒。有好处吗？"
         }
       ]
     }
@@ -144,12 +144,12 @@
           "title_zh": "现代绿色食品“问候”增加产品阵容以应对肾病饮食"
         },
         {
-          "title": "서울푸드 2026, 6월 킨텍스서 개막…50개국 1800개사 참가",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fMmVHUUk4MHdxZUNNbjNTdEVNQjNFcUxPVE8telpUNjB5bC1sbmJYa0ZNNmk5WTEzUWI3S3pUYTQtS2RoNnh0N2FjOUZPeld3dW0yWDhTcndjQdIBVEFVX3lxTE12X1ppcWFTZktRTXgyamNUekxmbW5PbS1kR01VS1hPaEVWVHhwbUxrS0tubjJ4bmhEbFJ5bG5NQU9LSlFzYi1xdGVDazdOenRVcTAwUA?oc=5",
+          "title": "바이오니아 자회사 에이스바이옴, '비타푸드 유럽'서 제품력 알렸다",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjRmenpSOWZNUHU1TFBSbzlTejZvRHc5dDExN1F0c1BJM2Y0U1lnNDZ5NE4zMFM3Z1MxS0xVY09JcFZaTi1McmtHYjZtLTJvd3c4OEN4N0JrRmNlUlJjX1JiUmN3bi1vMmNPM29EejJQTXMyR1c4WDNtVGdUY1dHMDdQNWxDeFU?oc=5",
           "desc": "",
-          "title_en": "Seoul Food 2026, KINTEX opened in June… 1800 companies from 50 countries participated",
-          "title_ja": "ソウルフード2026、KINTEXが6月にオープン…世界50カ国1800社が参加",
-          "title_zh": "首尔食品2026 ， KINTEX于6月开幕……来自50个国家的1800家公司参加"
+          "title_en": "Acebiom, a subsidiary of Bionia, announced the product history of 'Vitafood Europe'",
+          "title_ja": "Bioniaの子会社であるAcebiomは、「Vitafood Europe」の製品履歴を発表しました",
+          "title_zh": "Bionia的子公司Acebiom宣布了“Vitafood Europe”的产品历史"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "【贡献】拯救人类、山村和地球“森林食物”的食物"
         },
         {
-          "title": "“잡채밥 조기 마감됐어요”…해외 급식서도 통하는 K푸드",
+          "title": "“잡채밥 조기 마감됐어요”…해외 급식서도 통한 K푸드",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43elZtaUJLMFpCRUM4WVJQclVwRm9NaDUwcTlyelQ1Mi04QWtaeDMyeHE0RnJsRDE4TEtva3FZaFI4ZC1SVkJFS1Q4bW5vV3FxVUFVYk01TDN2ZnVnZnZabE1YbThTUdIBU0FVX3lxTE9hRFFBUDE1OGNZY3VTR0c0a21ZcWlkeWJlTUZqeXBmNXBkUXUwRkU3WDZIOW5VbHFPWVNtWm5jb2JPZXlmNExUYVNhMm11S1RaMnd3?oc=5",
           "desc": "",
-          "title_en": "“Gobbled rice is closed early” … K-food that works with overseas feeds",
-          "title_ja": "「ゴブルドライスは早めに閉店」…海外の飼料と連携するK - food",
-          "title_zh": "“糯米饭提前关门” ……与海外饲料配套的K-food"
+          "title_en": "“Gobbled rice is closed early” … K food through overseas feeding form",
+          "title_ja": "「ゴブルドライスは早めに閉店」…海外給餌形態によるK食",
+          "title_zh": "“鹅卵石米提前关门” ……通过海外喂养形式的K食品"
         },
         {
-          "title": "“서민 음식이 사라진다” 짜장면 물가 쇼크",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XVV9qM3BsYVBGSENqTjY0Z2pnbGtRaEtfZXk2bzNHQzFaMHUxS0FMVTR0c1UxQnU3NFhFMzFXRzQ2Tm1qWmkySVp4dw?oc=5",
+          "title": "CJ씨푸드, 4.55% 오르며 체결강도 강세로 반전(140%)",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pNjhiLV8xMFQ5Vm9naUdXVHJleFlXLXFFcWpVbFA0YzNzeWtDQmJBSmN5Vng0TjAtTGEzQ3M0cFAwLWN4eFBzUGtPNXlBVGRHdXc?oc=5",
           "desc": "",
-          "title_en": "“Seo People's Food Disappears” Jajangmyeon Waterfront Shock",
-          "title_ja": "Jajangmyeon Waterfront Shock「Seo People's Food Disappears」",
-          "title_zh": "「Seo People's Food Disappears」Jajangmyeon海滨冲击"
+          "title_en": "CJ Seafood reverses strong fastening strength by 4.55% (140%)",
+          "title_ja": "CJシーフードは、強力な締結強度を4.55 ％ （ 140 ％ ）逆転させます",
+          "title_zh": "CJ Seafood将强力紧固强度反转4.55% （ 140% ）"
         }
       ]
     },
