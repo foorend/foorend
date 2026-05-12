@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-05-12T19:53:45Z",
+  "lastUpdated": "2026-05-12T22:12:00Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Franchisee files lawsuit against Pizza Hut over mandatory tech",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclc2anB4bkticTVaa09TSjNfRG5FNE8xMlVxLXB4dFo4eXphVVR0VWxmV1cwSC1aUDd6NnB6MTVuTmVNY1BhMnBDYU5RWmNFajZQQmZsb29HTEtTNENXZmxwc1p6clo1Zkx0Vk9LVVg4SzBybjdab3ZEU0xUWEdOaThBMnhmNHZSb1diTV9nVGxNUmQ2RjNQSXJUeDJfUXoySlhMbDJENFg3dE5Pb0Fv?oc=5",
+          "desc": "",
+          "title_ko": "프랜차이즈 가맹점, 피자헛을 상대로 필수 기술에 대한 소송 제기",
+          "title_ja": "フランチャイズ加盟店が義務付けられた技術をめぐりピザハットに対して訴訟を起こす",
+          "title_zh": "加盟商就必胜客强制性技术提起诉讼"
+        },
         {
           "title": "Franchisees push their claims in the Fat Brands bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdGNwUy15VlREV3N0Q2I5SGlHQXJxdWFSSkFBRUx3bmo0bmFERzNwZGN3UV8yVURUVlZqODBpOFYwNTVUd0p1c3JzRVVoV3N5a0tmQTBURDdFRW1sWWFqWWlJck5Ba2FOdmhlS1hFUldicWdaT2RKNHNoZzlJaVdhR1RJS1dKVlZqR0piVFR3QU1SdW1ibWlqbW43YVVCYVE?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "Shake Shack과 용서할 수 없는 월스트리트의 만남",
           "title_ja": "Shake Shackが容赦のないウォール街に遭遇",
           "title_zh": "Shake Shack遭遇无情的华尔街"
-        },
-        {
-          "title": "It's tougher to get a job at Dutch Bros than to get into Harvard",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFJlbzJzc1ZQU3VqNVc4SjlrajhLTnhzWG5mMERaWTRSRkVqb1REZHRPYXRDZlllS0k4bVhIYUFRbm92VGNEN0NGYnNfT05PVmNxZjNsbGZRR05HUTNDaEVQRkJnQVZ1ZlgxX29zWGI3Qjd2S3VjZjJzME52STVRX01jWkJIUm50d3Z4R00xQ19PemM?oc=5",
-          "desc": "",
-          "title_ko": "하버드에 취업하는 것보다 더치브라더스에 취업하는 것이 더 어렵습니다.",
-          "title_ja": "ハーバード大学に入学するよりも、オランダ・ブラザーズで仕事を得る方が難しい",
-          "title_zh": "在荷兰兄弟公司找到一份工作比进入哈佛大学更难"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "现代绿色食品“问候”增加产品阵容以应对肾病饮食"
         },
         {
-          "title": "바이오니아 자회사 에이스바이옴, '비타푸드 유럽'서 제품력 알렸다",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjRmenpSOWZNUHU1TFBSbzlTejZvRHc5dDExN1F0c1BJM2Y0U1lnNDZ5NE4zMFM3Z1MxS0xVY09JcFZaTi1McmtHYjZtLTJvd3c4OEN4N0JrRmNlUlJjX1JiUmN3bi1vMmNPM29EejJQTXMyR1c4WDNtVGdUY1dHMDdQNWxDeFU?oc=5",
+          "title": "서울푸드 2026, 6월 킨텍스서 개막…50개국 1800개사 참가",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4enVuM0twSXMyT0tEY0w4YjF4RWVpY0FJZ3EwX3Fza3VwR0U3LUJlMWFUTzZCOTdDNm5aQkNBSXgwcTNuaUROMER6UzViaFJ1Ml9VTi1rM1RwSXN6em9wb2NXS1dwWDFTVnk4MG1hN2lYT0U3REpVd19PSVU0dVU?oc=5",
           "desc": "",
-          "title_en": "Acebiom, a subsidiary of Bionia, announced the product history of 'Vitafood Europe'",
-          "title_ja": "Bioniaの子会社であるAcebiomは、「Vitafood Europe」の製品履歴を発表しました",
-          "title_zh": "Bionia的子公司Acebiom宣布了“Vitafood Europe”的产品历史"
+          "title_en": "Seoul Food 2026, KINTEX opened in June… 1800 companies from 50 countries participated",
+          "title_ja": "ソウルフード2026、KINTEXが6月にオープン…世界50カ国1800社が参加",
+          "title_zh": "首尔食品2026 ， KINTEX于6月开幕……来自50个国家的1800家公司参加"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "【贡献】拯救人类、山村和地球“森林食物”的食物"
         },
         {
+          "title": "“오늘 점심 한식이래”…해외 급식 달군 K푸드 열풍",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96TjlvQ0dOVEc1eFdIUVVOLXJDcXJDdzQzak12WkFUVElvNGt1bHNsT3JzbUVhaEQzUHlQT1Ffd3p1bTlSUDdKUWNMc0JLZnM2U2fSAVNBVV95cUxNZzU3Y1RsSVBoTTZoOTFMNk9JMFJfVkdKa2dCS3dNcjM0MGE0dy1aMnI3VUhtR2JQTHVVWGNOMjl4VzFaSnNmOUlhWk1rSHA3dDE4MA?oc=5",
+          "desc": "",
+          "title_en": "“I'm having lunch today” … Overseas lunch heated K-food craze",
+          "title_ja": "「今日は昼食をとっています」…海外での昼食で熱くなったKフードの流行",
+          "title_zh": "“我今天要吃午餐” ……海外午餐热门K-food"
+        },
+        {
           "title": "“잡채밥 조기 마감됐어요”…해외 급식서도 통한 K푸드",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43elZtaUJLMFpCRUM4WVJQclVwRm9NaDUwcTlyelQ1Mi04QWtaeDMyeHE0RnJsRDE4TEtva3FZaFI4ZC1SVkJFS1Q4bW5vV3FxVUFVYk01TDN2ZnVnZnZabE1YbThTUdIBU0FVX3lxTE9hRFFBUDE1OGNZY3VTR0c0a21ZcWlkeWJlTUZqeXBmNXBkUXUwRkU3WDZIOW5VbHFPWVNtWm5jb2JPZXlmNExUYVNhMm11S1RaMnd3?oc=5",
           "desc": "",
           "title_en": "“Gobbled rice is closed early” … K food through overseas feeding form",
           "title_ja": "「ゴブルドライスは早めに閉店」…海外給餌形態によるK食",
           "title_zh": "“鹅卵石米提前关门” ……通过海外喂养形式的K食品"
-        },
-        {
-          "title": "CJ씨푸드, 4.55% 오르며 체결강도 강세로 반전(140%)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pNjhiLV8xMFQ5Vm9naUdXVHJleFlXLXFFcWpVbFA0YzNzeWtDQmJBSmN5Vng0TjAtTGEzQ3M0cFAwLWN4eFBzUGtPNXlBVGRHdXc?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood reverses strong fastening strength by 4.55% (140%)",
-          "title_ja": "CJシーフードは、強力な締結強度を4.55 ％ （ 140 ％ ）逆転させます",
-          "title_zh": "CJ Seafood将强力紧固强度反转4.55% （ 140% ）"
         }
       ]
     },
