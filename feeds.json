@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T11:30:21Z",
+  "lastUpdated": "2026-05-13T14:36:07Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "加盟商就必胜客强制性技术提起诉讼"
         },
         {
+          "title": "As cocktails hit $30-plus, consumers are opting to drink less—or stay home",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTRPekw0WG5TeG1GdUczc2xqcmZIYUlQcXBZcWpOOXJRd01qaHd5emlYZGpoLXhRM0ltTnlRSWluT0lBWG9WeHNmeVZ4VmFGNjVuZ3F6Wi1ZZUxLdEpOS3BUS2p4b1Rfd1hQWjBjRkNXdHhfVU9RRGpkUFBKakVUQkVEU3IzZW9KOGxHRDV1UVZoMUNGS2xJUmlaVi13dmxPUjNHQkFhdzNtOTZ3dmVNWmZR?oc=5",
+          "desc": "",
+          "title_ko": "칵테일이 $ 30 이상에 도달함에 따라 소비자들은 술을 덜 마시거나 집에 머무르는 것을 선택했습니다.",
+          "title_ja": "カクテルが30 $以上に達するにつれて、消費者は飲酒量を減らすか、家にいることを選択しています",
+          "title_zh": "随着鸡尾酒达到30 $以上，消费者选择少喝或待在家里"
+        },
+        {
           "title": "Franchisees push their claims in the Fat Brands bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdGNwUy15VlREV3N0Q2I5SGlHQXJxdWFSSkFBRUx3bmo0bmFERzNwZGN3UV8yVURUVlZqODBpOFYwNTVUd0p1c3JzRVVoV3N5a0tmQTBURDdFRW1sWWFqWWlJck5Ba2FOdmhlS1hFUldicWdaT2RKNHNoZzlJaVdhR1RJS1dKVlZqR0piVFR3QU1SdW1ibWlqbW43YVVCYVE?oc=5",
           "desc": "",
           "title_ko": "프랜차이즈 가맹점들은 팻브랜드 파산으로 자신들의 주장을 밀어붙인다.",
           "title_ja": "フランチャイズ加盟店は、ファットブランドの破産で彼らの請求をプッシュします",
           "title_zh": "加盟商在Fat Brands破产案中提出索赔"
-        },
-        {
-          "title": "Shake Shack encounters an unforgiving Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ZkdVhZVGNJNnBqSW81WkFMRFNnS0o5cGU5M3daeGZzN0wtSjNEcDhOR05Mby16SUQzaEJqZGVrbzZrUzI1N0FjTXBnTDExNWFMdTZHLWJ1RC13MmFGaHBUMUt6V21xbFpzemYzSk1oUFZzTHpBRE1SVEtVNWFQcEJnTEZGWktFZ2lia1RoUW4tTEIwQl9nbQ?oc=5",
-          "desc": "",
-          "title_ko": "Shake Shack과 용서할 수 없는 월스트리트의 만남",
-          "title_ja": "Shake Shackが容赦のないウォール街に遭遇",
-          "title_zh": "Shake Shack遭遇无情的华尔街"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "How I Got My Job Running Cafes Out of Climbing Gyms",
+          "link": "https://www.eater.com/pre-shift/961011/georgies-vital-joeleen-ng-cafe-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "클라이밍 헬스장에서 카페를 운영하는 직업을 갖게 된 계기",
+          "title_ja": "クライミングジムから逃れてカフェを経営する仕事に就いたきっかけ",
+          "title_zh": "我如何从攀岩健身房找到经营咖啡馆的工作"
+        },
+        {
           "title": "Restaurants Are in Their Blue Period",
           "link": "https://www.eater.com/food-culture/961654/bright-blue-yves-klein-restaurants-trend",
           "desc": "Amid a stretch of red-brick buildings, the Brooklyn restaurant Margot, right at the corner on a busy intersection, stands out. It’s blue: very blue, i",
@@ -110,14 +118,6 @@
           "title_ko": "뉴욕에서 가장 북적거리는 새로운 레스토랑은 펍입니다.",
           "title_ja": "ニューヨークで最も賑やかな新しいレストランはパブ",
           "title_zh": "纽约最热闹的新餐厅是酒吧"
-        },
-        {
-          "title": "Why the Nordstrom Cafe Was the Ultimate Mother-Daughter Experience",
-          "link": "https://www.eater.com/food-culture/960443/nordstrom-cafe-mother-daughter-nostalgia-tomato-soup-grilled-cheese",
-          "desc": "A version of this post originally appeared on May 6 in our newsletter Eater Today. Sign up here to receive stories like this in your inbox. Eating lun",
-          "title_ko": "노드스트롬 카페가 최고의 모녀 경험이었던 이유",
-          "title_ja": "ノードストロームカフェが究極の母と娘の体験だった理由",
-          "title_zh": "为什么诺德斯特龙咖啡馆是终极母女体验"
         }
       ]
     }
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“선물인지, 쓰레기 준 건지”…고객에게 유통기한 지난 음식 받은 점검원",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92Qk1xV1VVWXBqSnlSbi02V2cwRW1nTFNQMGVBMVRJU0w5ckRvdGJvTmJtUFFsam10aTZOTllkcEFQT0JUT2hoc3NrTnlRVElHR2k3OQ?oc=5",
+          "desc": "",
+          "title_en": "“Whether it was a gift or garbage” … Inspectors who received food past the expiration date",
+          "title_ja": "「贈答品であろうとゴミであろうと」…有効期限を過ぎて食べ物を受け取った検査員",
+          "title_zh": "“无论是礼物还是垃圾” ……在到期日之后收到食物的检查员"
+        },
+        {
           "title": "[게시판] 동원홈푸드, 오세득 셰프와 구내식당 특식 행사",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiTWZlaDM4ZXQ5MTlaNk10QU9JclBMRGlDTTFLT3VlQ0pFMks0UWhNeFlqQ3dsT0tJQllzcVJVMnpFY2JhVkhQYVRKalo3aDFXOXc?oc=5",
           "desc": "",
           "title_en": "[Bulletin Board] Dongwon Home Food, Chef Oh Se-euk and Cafeteria Special Event",
           "title_ja": "【掲示板】ドンウォンホームフード・シェフオ・セウク・カフェテリアスペシャルイベント",
           "title_zh": "【公告栏】东原家庭美食、大厨Oh Se-euk和自助餐厅特别活动"
-        },
-        {
-          "title": "‘K푸드’ 다음 주자 알고 싶다면 ‘이곳’ 주목해야",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DMHVNZTRnZlduX2FNS2pycjlYWTZEUndPS1VEZzBWTmZha1dFU3lJc0JlWnZBV3hjTnBDTENURkVVTVdZVGVVVnNILXVINjZoQW9BeDh3?oc=5",
-          "desc": "",
-          "title_en": "If you want to know the next runner of ’K-Food‘, you should pay attention to ’here’",
-          "title_ja": "「K - Food」の次のランナーを知りたい場合は、「ここ」に注意する必要があります",
-          "title_zh": "如果你想知道“K-Food”的下一个选手，你应该注意“这里”"
         },
         {
           "title": "CJ제일제당, K푸드에 반한 美골프대회 … K전통주 축제장으로",
@@ -226,20 +226,20 @@
           "title_zh": "澳大利亚杂货店希腊酸奶摊“空”"
         },
         {
-          "title": "튜브형으로 더 간편하고 깔끔하게…이금기 ‘팬더굴소스’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tTHE5dDhUM1R1dHc5X1FGLWFXNmJoNmpVVzRMLU94d1NQakNVU01vSjg2ODlHRnJTeWwxbGNFZkdWRld1TVJoWXYtaUVLSFJ5alFDT0lMUQ?oc=5",
-          "desc": "",
-          "title_en": "Tube type makes it easier and tidier... Lee Kok-gi ‘Panda Gul Sauce’",
-          "title_ja": "チューブタイプでスムーズに・・・イ・コッギ「パンダガルソース」",
-          "title_zh": "管子类型使其更轻松、更整洁…… Lee Kok-gi ‘Panda Gul Sauce’"
-        },
-        {
           "title": "미국, ‘올데이 브렉퍼스트’ 확산",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GUE41ZW1RY25WNVRTN0NNQTdydlh1cktvZ1ZwM2NmSjhKc3djdEFfLTFXVXI1WmFRZzVGYTRJVUNYVUc2ZUtJNElzQVNmMlZXZGFLOVQyZw?oc=5",
           "desc": "",
           "title_en": "US spreads all-day breakfast",
           "title_ja": "米国では終日朝食が提供されています",
           "title_zh": "美国全天供应早餐"
+        },
+        {
+          "title": "불황도 비껴간 일본 반찬 시장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sb01fUjE0dVlrVHMzbmNwb3p5TzVHYVRnZlRDaFJQcHVQSmtqYnFtSG1adTlqZkhtelpaT3NiUFNLUGZqQmFpQ0E4MzNIS3pQclhRZ09YQQ?oc=5",
+          "desc": "",
+          "title_en": "Recession-Free Japanese Side Dishes Market",
+          "title_ja": "景気後退のない日本のおかず市場",
+          "title_zh": "无经济衰退的日式配菜市场"
         }
       ]
     }
