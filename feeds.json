@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T03:31:52Z",
+  "lastUpdated": "2026-05-13T08:45:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "加盟商就必胜客强制性技术提起诉讼"
         },
         {
+          "title": "As cocktails hit $30-plus, consumers are opting to drink less—or stay home",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTRPekw0WG5TeG1GdUczc2xqcmZIYUlQcXBZcWpOOXJRd01qaHd5emlYZGpoLXhRM0ltTnlRSWluT0lBWG9WeHNmeVZ4VmFGNjVuZ3F6Wi1ZZUxLdEpOS3BUS2p4b1Rfd1hQWjBjRkNXdHhfVU9RRGpkUFBKakVUQkVEU3IzZW9KOGxHRDV1UVZoMUNGS2xJUmlaVi13dmxPUjNHQkFhdzNtOTZ3dmVNWmZR?oc=5",
+          "desc": "",
+          "title_ko": "칵테일이 $ 30 이상에 도달함에 따라 소비자들은 술을 덜 마시거나 집에 머무르는 것을 선택했습니다.",
+          "title_ja": "カクテルが30 $以上に達するにつれて、消費者は飲酒量を減らすか、家にいることを選択しています",
+          "title_zh": "随着鸡尾酒达到30 $以上，消费者选择少喝或待在家里"
+        },
+        {
           "title": "Franchisees push their claims in the Fat Brands bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdGNwUy15VlREV3N0Q2I5SGlHQXJxdWFSSkFBRUx3bmo0bmFERzNwZGN3UV8yVURUVlZqODBpOFYwNTVUd0p1c3JzRVVoV3N5a0tmQTBURDdFRW1sWWFqWWlJck5Ba2FOdmhlS1hFUldicWdaT2RKNHNoZzlJaVdhR1RJS1dKVlZqR0piVFR3QU1SdW1ibWlqbW43YVVCYVE?oc=5",
           "desc": "",
           "title_ko": "프랜차이즈 가맹점들은 팻브랜드 파산으로 자신들의 주장을 밀어붙인다.",
           "title_ja": "フランチャイズ加盟店は、ファットブランドの破産で彼らの請求をプッシュします",
           "title_zh": "加盟商在Fat Brands破产案中提出索赔"
-        },
-        {
-          "title": "Shake Shack encounters an unforgiving Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ZkdVhZVGNJNnBqSW81WkFMRFNnS0o5cGU5M3daeGZzN0wtSjNEcDhOR05Mby16SUQzaEJqZGVrbzZrUzI1N0FjTXBnTDExNWFMdTZHLWJ1RC13MmFGaHBUMUt6V21xbFpzemYzSk1oUFZzTHpBRE1SVEtVNWFQcEJnTEZGWktFZ2lia1RoUW4tTEIwQl9nbQ?oc=5",
-          "desc": "",
-          "title_ko": "Shake Shack과 용서할 수 없는 월스트리트의 만남",
-          "title_ja": "Shake Shackが容赦のないウォール街に遭遇",
-          "title_zh": "Shake Shack遭遇无情的华尔街"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "롯데웰푸드, \"내 이름이 칸쵸에?\" 시즌 1 열풍에 더 알차게 돌아왔다…경품도 풍성",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14S1ZjLVdqOEgyM2JqdVhHRjMzNUxaUU1lMWJ6Q2Y2WEE4NzFqN0xWZDFMVm9yelRKRnpMUnlZbnVLMFI5Qm1MWjA2NUlWZGZlYm8tdTM0eklod9IBVEFVX3lxTFBQYk1JbmN2STFRcEIwTnE4WnJNN202T2cybFZSeGR6aEpBX1k4Y2xKZ0JTNElsN1MweUdBa0FIWTVtVUcxbkJpckgxTk5ZbEVEMWxuMA?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food, \"My name is Kancho?\" I came back fuller due to the season 1 craze... The prizes are also plentiful.",
+          "title_ja": "ロッテウェルフード「かんちょうですか？「シーズン1の流行で、より満タンになって帰ってきました……賞品も豊富です。",
+          "title_zh": "乐天Well Food ， “我叫Kancho ？“由于第一季的热潮，我回来了……奖品也很丰富。"
+        },
+        {
           "title": "\"5년 뒤 동남아 매출 1조\"…대상, K푸드 영토확장",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uN3BMTmtzbFg0MFV2LTVXWXQ4TG5fckVHQlNPcHdpaWpHakFiWl93OWhxa2ZsMENpQnNSZUIyVkFRUUpHOTN1TjAtdGpnYXdzMzhmdmVWTUxQQdIBVEFVX3lxTE1WbjUtc2E1eDVzZE5OZ21mZWNoWTdfeGNNTTFZOHpzRDZuakxoc3NCY0VSeWhZNnRQWG5yQmhIM0VreDlHRFFPYTY1MEpWV1locVJmQw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food 'Greeting' Increases Product Lineup in Response to Kidney Disease Diet",
           "title_ja": "現代グリーンフードの「ご挨拶」が腎臓病ダイエットに対応して製品ラインナップを拡大",
           "title_zh": "现代绿色食品“问候”增加产品阵容以应对肾病饮食"
-        },
-        {
-          "title": "'현대그린푸드' 52주 신고가 경신, 성장과 환원, 재평가 지속 - 흥국증권, BUY",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdDZSM2FoMGFFVUFPcTF6R3pVNGVQM2ZTR3ZJMWlkT05iblBiYUtBc2xKRW9XSE1BS01ySzd4OFpDSjhRdTNfV2Yzc3VRcEV6VUVMNS1DTEhXdnFuMkdVOFRwZjUxM090M0ZlNTlLMENCMl9PanBIRjE4aXJQMFE?oc=5",
-          "desc": "",
-          "title_en": "'Hyundai Green Food' 52-week Report Continues to Renew, Grow, Reduce, and Reevaluate - Heungkuk Securities, buy",
-          "title_ja": "「現代グリーンフード」52週の申告が更新、成長と還元、再評価を継続 - 興国証券、BUY",
-          "title_zh": "“现代绿色食品” 52周报告继续更新、增长、减少和重新评估-兴国证券，买入"
         }
       ]
     },
@@ -166,16 +166,16 @@
           "title_zh": "“我今天要吃午餐” ……海外午餐热门K-food"
         },
         {
-          "title": "[기고]사람과 산촌, 지구를 살리는 먹거리 ‘숲푸드’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NdzF3amJacm9UdW9MX1k0V19wUjdlVkdFSld3T1pGYTY5bU5MQ1pKVzZTa1J2bl9jenZ4akNWOWpEdFFGdjJsOGdZc3dKNGtmTFHSAVNBVV95cUxPLWxiNXE5SmVxZ3FmQlN3d0VqWVg2ZnY3UGZGRUduT1V4ci1ray1aNTRPZDBHWk4wWVhpZWI4VXExQk52UjFFeXF6WHkzT1VoYU11MA?oc=5",
+          "title": "산림청, ‘2026 우리임산물 숲푸드 대축제’ 개최",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSOXh2WjNYMjdPTkxSUEVVT1hyMXJwYmdGYXhBUWJ2cTROZkhZNGtvS3hONUNUVGlHa09GckNlMU45clA5YkZUVEdCQk5zVnQ0a0HSAVNBVV95cUxQZ3QyOVlfXzhMcXhPRUpGX3lCdURTVGN0REM5TVRxVUxjUldkZWo4b3Vnb05lcnJQZzBEYUxVTXU1Q0h0MVJKYXlkWVM5T3BqY3dKRQ?oc=5",
           "desc": "",
-          "title_en": "[Contribution] Food that saves people, mountain villages, and the planet ‘Forest Food’",
-          "title_ja": "【寄付】人や山村、地球を救う食料「フォレストフード」",
-          "title_zh": "【贡献】拯救人类、山村和地球“森林食物”的食物"
+          "title_en": "Forest Service to hold ‘2026 Woori Forest Food Festival’",
+          "title_ja": "フォレストサービスが「2026ウーリフォレストフードフェスティバル」を開催",
+          "title_zh": "林务局将举办“2026 Woori森林美食节”"
         },
         {
           "title": "“잡채밥 조기 마감됐어요”…해외 급식서도 통한 K푸드",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43elZtaUJLMFpCRUM4WVJQclVwRm9NaDUwcTlyelQ1Mi04QWtaeDMyeHE0RnJsRDE4TEtva3FZaFI4ZC1SVkJFS1Q4bW5vV3FxVUFVYk01TDN2ZnVnZnZabE1YbThTUdIBU0FVX3lxTE9hRFFBUDE1OGNZY3VTR0c0a21ZcWlkeWJlTUZqeXBmNXBkUXUwRkU3WDZIOW5VbHFPWVNtWm5jb2JPZXlmNExUYVNhMm11S1RaMnd3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yQjZYTHJYOGxVRkNqU3FiZWxGOUQtQU9MRWFkbmYtdXhsQU53TmUwQjZQWmw4ZTdnNFVLaEw1cXB6aU82UU93V2ZSeS0tZEU4aVHSAVNBVV95cUxPYURRQVAxNThjWWN1U0dHNGttWXFpZHliZU1GanlwZjVwZFF1MEZFN1g2SDluVWxxT1lTbVpuY29iT2V5ZjRMVGFTYTJtdUtUWjJ3dw?oc=5",
           "desc": "",
           "title_en": "“Gobbled rice is closed early” … K food through overseas feeding form",
           "title_ja": "「ゴブルドライスは早めに閉店」…海外給餌形態によるK食",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "[게시판] 동원홈푸드, 오세득 셰프와 구내식당 특식 행사",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiTWZlaDM4ZXQ5MTlaNk10QU9JclBMRGlDTTFLT3VlQ0pFMks0UWhNeFlqQ3dsT0tJQllzcVJVMnpFY2JhVkhQYVRKalo3aDFXOXc?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] Dongwon Home Food, Chef Oh Se-euk and Cafeteria Special Event",
+          "title_ja": "【掲示板】ドンウォンホームフード・シェフオ・セウク・カフェテリアスペシャルイベント",
+          "title_zh": "【公告栏】东原家庭美食、大厨Oh Se-euk和自助餐厅特别活动"
+        },
+        {
           "title": "‘K푸드’ 다음 주자 알고 싶다면 ‘이곳’ 주목해야",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DMHVNZTRnZlduX2FNS2pycjlYWTZEUndPS1VEZzBWTmZha1dFU3lJc0JlWnZBV3hjTnBDTENURkVVTVdZVGVVVnNILXVINjZoQW9BeDh3?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "如果你想知道“K-Food”的下一个选手，你应该注意“这里”"
         },
         {
-          "title": "“뷔가 먹은 그거 주세요”…BTS ‘먹방’에 멕시코 푸드코트 마비",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80ZllLRDhMbmw4S2F3REVWeGdwZ05SWnhTQUlIWG5MNy1vOTdKVjBaT0ZaV2tScms5RWYwa2tFWVoxSnplSm1GVTBpa2NLUVVDYXJOdg?oc=5",
+          "title": "CJ제일제당, K푸드에 반한 美골프대회 … K전통주 축제장으로",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XOEE1VmtocFJEdjVxMkRqSjZtRWlHcEJaLU5IQV9GOFNVWFQ2X0h0OHdIMEo4TEd5RTVYSE1sdkQ2SFB5cnlGZkVvbkQ4SWh5RjhnMQ?oc=5",
           "desc": "",
-          "title_en": "“Give me what V has eaten” … Mexican food court paralysis in BTS ‘eating room'",
-          "title_ja": "「Vが食べたものをくれ」… BTSの「食堂」でメキシコのフードコートが麻痺",
-          "title_zh": "「给我V吃了什么」…… BTS「餐厅」的墨西哥美食广场瘫痪"
-        },
-        {
-          "title": "K푸드 열풍, 특허까지 이어졌다...빵·떡볶이 소스 출원 증가",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kNlJHT2NuMFZIS0F4X1NmTUFRdnRPamlaQ0lkazBMWkxTT3J1a2RhSFNORUhvck9QdXlfZ3pidkNoc0FoZnFvM25SaWdvZw?oc=5",
-          "desc": "",
-          "title_en": "The K-Food craze led to patents... Increased applications for bread and tteokbokki sauce",
-          "title_ja": "K - Foodの流行は特許につながりました...パンとtteokbokkiソースの出願が増加しました",
-          "title_zh": "K-Food热潮带来了专利……面包和tteokbokki酱的应用增加"
+          "title_en": "CJ CheilJedang, an American golf tournament against K-Foods... as a venue for K-traditional festival",
+          "title_ja": "CJ CheilJedang、K - Foodsとのアメリカンゴルフトーナメント... K -トラディショナルフェスティバルの会場として",
+          "title_zh": "CJ CheilJedang ，对抗K-Foods的美国高尔夫锦标赛......作为K-传统节日的场地"
         }
       ]
     },
