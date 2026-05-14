@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T19:46:39Z",
+  "lastUpdated": "2026-05-14T22:11:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -196,20 +196,20 @@
           "title_zh": "【贡献】K-Food引领全球食品安全标准"
         },
         {
+          "title": "바프레시 푸드 그룹, 1분기 매출 92% 급증·560만 달러 기록",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45anE1VWRyYzNGT3pQTS1NLWV1OF9aOEhvbWJUOWxBRXpPLV93SW15ZFA4TUZ5M3ZacXBtUjlzQ2FtUDBzNEo5MVdUT0xKejY0bUE?oc=5",
+          "desc": "",
+          "title_en": "Bar Fresh Food Group Surges 92% in First Quarter Revenue to $5.6 Million",
+          "title_ja": "バー生鮮食品グループ、第1四半期の売上高が92%増の560万ドルに",
+          "title_zh": "酒吧生鲜食品集团第一季度收入激增92%至560万美元"
+        },
+        {
           "title": "[K-VIBE] 최만순의 약이 되는 K-푸드…바다 흐름 품은 여름의 양생, 멍게",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iXzQ5M0llaF85MDJtUUdxMjdib0haSFljMy1mYlNHNVpQdGhQOFJBdFFfUnV1Y1ZSZFhQWE5IOXdWcVV6WTRySjNWSElLcUdnbWc?oc=5",
           "desc": "",
           "title_en": "[K-VIBE] K-food that is the medicine of Choi Man-soon… Summer curing with sea flow, dung crab",
           "title_ja": "【K - VIBE】CHOI MAN - SOONの薬であるK - FOOD…海の流れる夏の養生、糞ガニ",
           "title_zh": "[K-VIBE] K-food是Choi Man-soon的药……夏季海水腌制，粪蟹"
-        },
-        {
-          "title": "\"K푸드 글로벌 경쟁력 위해 스마트 콜드체인 확대해야\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMTEZ2TWl3T0UzTFduTUFFR2U1dk5nZTZsNzl3QjJuSVdxV3dtR0R3NFFfcFdqdXFGLW1VbkplOVMyckFmNllVR0lDVEU5Wm53Q1E?oc=5",
-          "desc": "",
-          "title_en": "\"Smart cold chain should be expanded for global competitiveness of K-Food\"",
-          "title_ja": "「K - Foodのグローバル競争力のためにスマートコールドチェーンを拡大すべき」",
-          "title_zh": "“为了K-Food的全球竞争力，应该扩大智能冷链”"
         }
       ]
     },
@@ -246,6 +246,11 @@
   },
   "korean_articles": [
     {
+      "title": "🌍26년 5월 글로벌 푸드 트렌드🍽️✨",
+      "link": "https://foodtrend.stibee.com/p/207",
+      "desc": ""
+    },
+    {
       "title": "🍽️FOOREND's Friends! 편의점/HMR MD를 거친 패션 MD의 이야기✨",
       "link": "https://foodtrend.stibee.com/p/206",
       "desc": ""
@@ -268,11 +273,6 @@
     {
       "title": "🍳26년 4월 한국 푸드 트렌드🥗💜",
       "link": "https://foodtrend.stibee.com/p/202",
-      "desc": ""
-    },
-    {
-      "title": "🍽️푸렌드의 3년치 노하우, 전부 공개합니다📂✨",
-      "link": "https://foodtrend.stibee.com/p/201",
       "desc": ""
     }
   ]
