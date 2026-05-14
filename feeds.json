@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T11:13:34Z",
+  "lastUpdated": "2026-05-14T14:13:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,6 +66,14 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
+          "title": "Food",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
+          "desc": "",
+          "title_ko": "식료품비",
+          "title_ja": "食料",
+          "title_zh": "食物"
+        },
+        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -80,14 +88,6 @@
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "乐天Well Food ， “我叫Kancho ？“由于第一季的热潮，我回来了……奖品也很丰富。"
         },
         {
-          "title": "현대그린푸드 '그리팅', 신장질환식단 호응에 제품 라인업 늘린다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93bWdrcmhMM2xyX2pRZXdOS2FxU0N6dG0xc0tVUHF5SHdVWnM3VWZydWVrTXpJbzNYMjZLSEFMTlRCTTgzaUJqMEVKT01VR1AwSGFnOGxoV2JrUdIBVEFVX3lxTE9iZ3JkX2tYUkxtdFRmRkxaSTl6MWFrMTJPS3VhQXZiN2FrcWRqazNhcWNOWFRmcHluNDUybHlpSnRlV2hWY2RJWGJ6NFJMeHZObTc3WA?oc=5",
+          "title": "CJ씨푸드, 1분기 영업손실 14억원…적자폭 확대",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKVUE1LUZQaE9ucWxCV2VEdTYtRzBVVGd6VE9ma2RwSEtWUS1Ra0NTeEt0ZmdjTmZnaWFyVEJPXzJaSHozMk5jdXB1YU01Njg1X1JOVjAzSHlLZ9IBVEFVX3lxTFBBVUFKbEJVVUY1TjZwcGlESFJNTmhjQkVtd3hCTEE1cmF0cjROSjg5YjAtVUxab0FhN1VyVnlqQ21nejlfeENLSTRtRU9QQ3VhNVFJWQ?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food 'Greeting' Increases Product Lineup in Response to Kidney Disease Diet",
-          "title_ja": "現代グリーンフードの「ご挨拶」が腎臓病ダイエットに対応して製品ラインナップを拡大",
-          "title_zh": "现代绿色食品“问候”增加产品阵容以应对肾病饮食"
+          "title_en": "CJ Seafood, operating loss of 1.4 billion won in the first quarter...",
+          "title_ja": "CJシーフード、第1四半期に14億ウォンの営業損失...",
+          "title_zh": "CJ Seafood ，第一季度运营亏损14亿韩元……"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "[미쉐린 ★셰프 릴레이 인터뷰] (7) 김지영 발우공양 셰프 “사찰음식에서 힐링의 여유 찾으세요”",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xZ3F4NlhaeVMxdUdMdmtvSDE4NVhJV1c0dE5DTlZPb3dNSjJwZXhBcFpmbHlET3BFLUx6SVA3WnVxbFJfTjRaSEkzcTNRblNqTVdIQ1pjbUhPVHBaSTlHQ1BRSQ?oc=5",
+          "desc": "",
+          "title_en": "[Michelin ★Chef Relay Interview] (7) Kim Ji-young, Chef Balwoo Gongyang, “Find Relaxation in Temple Food”",
+          "title_ja": "【ミシュランシェフリレーインタビュー★】( 7)キム・ジヨン、バルウ・ゴンヤンシェフ「テンプルフードでリラックス」",
+          "title_zh": "[米其林★大厨接力访谈] (7)大厨Balwoo Gongyang Kim Ji-young ， “在寺庙美食中寻找放松”"
+        },
+        {
           "title": "“선물인지, 쓰레기 준 건지”…고객에게 유통기한 지난 음식 받은 점검원",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92Qk1xV1VVWXBqSnlSbi02V2cwRW1nTFNQMGVBMVRJU0w5ckRvdGJvTmJtUFFsam10aTZOTllkcEFQT0JUT2hoc3NrTnlRVElHR2k3OQ?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "[K-VIBE] K-food that is the medicine of Choi Man-soon… Summer curing with sea flow, dung crab",
           "title_ja": "【K - VIBE】CHOI MAN - SOONの薬であるK - FOOD…海の流れる夏の養生、糞ガニ",
           "title_zh": "[K-VIBE] K-food是Choi Man-soon的药……夏季海水腌制，粪蟹"
-        },
-        {
-          "title": "라이프웨이 푸드, 1분기 매출 6300만 달러..전년비 36.7% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5STnpMOGROME44NkpYTVJDUEhzQldrVlBxcndBM28xdWxiTjRUSHVkZ1hqTFdqeUwxZ21ndFBOYTUtQWVFclZrRDdETENSNGZ5eFE?oc=5",
-          "desc": "",
-          "title_en": "Lifeway Foods Revenue Surged 36.7% YoY to $63 Million in Q1",
-          "title_ja": "Lifeway Foodsの第1四半期の売上高は前年同期比36.7 ％増の6300万ドル",
-          "title_zh": "第一季度Lifeway Foods收入同比飙升36.7%至6300万美元"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "澳大利亚杂货店希腊酸奶摊“空”"
         },
         {
+          "title": "튜브형으로 더 간편하고 깔끔하게…이금기 ‘팬더굴소스’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tTHE5dDhUM1R1dHc5X1FGLWFXNmJoNmpVVzRMLU94d1NQakNVU01vSjg2ODlHRnJTeWwxbGNFZkdWRld1TVJoWXYtaUVLSFJ5alFDT0lMUQ?oc=5",
+          "desc": "",
+          "title_en": "Tube type makes it easier and tidier... Lee Kok-gi ‘Panda Gul Sauce’",
+          "title_ja": "チューブタイプでスムーズに・・・イ・コッギ「パンダガルソース」",
+          "title_zh": "管子类型使其更轻松、更整洁…… Lee Kok-gi ‘Panda Gul Sauce’"
+        },
+        {
           "title": "미국, ‘올데이 브렉퍼스트’ 확산",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GUE41ZW1RY25WNVRTN0NNQTdydlh1cktvZ1ZwM2NmSjhKc3djdEFfLTFXVXI1WmFRZzVGYTRJVUNYVUc2ZUtJNElzQVNmMlZXZGFLOVQyZw?oc=5",
           "desc": "",
           "title_en": "US spreads all-day breakfast",
           "title_ja": "米国では終日朝食が提供されています",
           "title_zh": "美国全天供应早餐"
-        },
-        {
-          "title": "비싸도 ‘엑스트라 버진’? 올리브유, 종류별 효능도 다르다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KTUc1NGZWWm1uc2tVaWJJRXpXdGxkUVhEY1BPVUo0R1pVemdaQXdqRGFXdnBiMWFkMWE2cjBDdDB5eUNFNkViVmhzTlp4bEJaeHBXMUNrbw?oc=5",
-          "desc": "",
-          "title_en": "Expensive ‘extra virgin’? Olive oil, different efficacy",
-          "title_ja": "高価な「エクストラバージン」？オリーブオイル、異なる効果",
-          "title_zh": "昂贵的“特级初榨” ？橄榄油，不同功效"
         }
       ]
     }
