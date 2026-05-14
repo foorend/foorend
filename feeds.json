@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T14:13:33Z",
+  "lastUpdated": "2026-05-14T17:01:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "加盟商在Fat Brands破产案中提出索赔"
         },
         {
-          "title": "Shake Shack encounters an unforgiving Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ZkdVhZVGNJNnBqSW81WkFMRFNnS0o5cGU5M3daeGZzN0wtSjNEcDhOR05Mby16SUQzaEJqZGVrbzZrUzI1N0FjTXBnTDExNWFMdTZHLWJ1RC13MmFGaHBUMUt6V21xbFpzemYzSk1oUFZzTHpBRE1SVEtVNWFQcEJnTEZGWktFZ2lia1RoUW4tTEIwQl9nbQ?oc=5",
+          "title": "In the burger business, Culver's and Shake Shack are grabbing market share",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUFYME1vV05ZTVA4SXJNTktfeXJndnVkcC1GTkh5LU1zZnR5MGZyM2g3NDA2N2VkQ0h2UVF4NFhvOUtWbFdHMGRhZVdxNVdQSzh3T3l3NFl3NllCcmpCaU9TbXZiM3JQQVc3N3N5bTBWTnRuMFYwQ3NhYTNmSVg1VXpnQ0dvMVRmR21ZOHZkdHdkamJxZGdwblF4QU1acHg5WEVTSTRjRVFoWkVV?oc=5",
           "desc": "",
-          "title_ko": "Shake Shack과 용서할 수 없는 월스트리트의 만남",
-          "title_ja": "Shake Shackが容赦のないウォール街に遭遇",
-          "title_zh": "Shake Shack遭遇无情的华尔街"
+          "title_ko": "햄버거 사업에서 Culver 's와 Shake Shack은 시장 점유율을 점유하고 있습니다.",
+          "title_ja": "ハンバーガー事業では、Culver'sとShake Shackが市場シェアを獲得しています",
+          "title_zh": "在汉堡业务中， Culver's和Shake Shack正在抢占市场份额"
         }
       ]
     },
@@ -35,6 +35,14 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
+        {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "乐天Well Food ， “我叫Kancho ？“由于第一季的热潮，我回来了……奖品也很丰富。"
         },
         {
-          "title": "CJ씨푸드, 1분기 영업손실 14억원…적자폭 확대",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKVUE1LUZQaE9ucWxCV2VEdTYtRzBVVGd6VE9ma2RwSEtWUS1Ra0NTeEt0ZmdjTmZnaWFyVEJPXzJaSHozMk5jdXB1YU01Njg1X1JOVjAzSHlLZ9IBVEFVX3lxTFBBVUFKbEJVVUY1TjZwcGlESFJNTmhjQkVtd3hCTEE1cmF0cjROSjg5YjAtVUxab0FhN1VyVnlqQ21nejlfeENLSTRtRU9QQ3VhNVFJWQ?oc=5",
+          "title": "현대그린푸드 '그리팅', 신장질환식단 호응에 제품 라인업 늘린다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93bWdrcmhMM2xyX2pRZXdOS2FxU0N6dG0xc0tVUHF5SHdVWnM3VWZydWVrTXpJbzNYMjZLSEFMTlRCTTgzaUJqMEVKT01VR1AwSGFnOGxoV2JrUdIBVEFVX3lxTE9iZ3JkX2tYUkxtdFRmRkxaSTl6MWFrMTJPS3VhQXZiN2FrcWRqazNhcWNOWFRmcHluNDUybHlpSnRlV2hWY2RJWGJ6NFJMeHZObTc3WA?oc=5",
           "desc": "",
-          "title_en": "CJ Seafood, operating loss of 1.4 billion won in the first quarter...",
-          "title_ja": "CJシーフード、第1四半期に14億ウォンの営業損失...",
-          "title_zh": "CJ Seafood ，第一季度运营亏损14亿韩元……"
+          "title_en": "Hyundai Green Food 'Greeting' Increases Product Lineup in Response to Kidney Disease Diet",
+          "title_ja": "現代グリーンフードの「ご挨拶」が腎臓病ダイエットに対応して製品ラインナップを拡大",
+          "title_zh": "现代绿色食品“问候”增加产品阵容以应对肾病饮食"
         }
       ]
     },
@@ -158,12 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“오늘 점심 한식이래”…해외 급식 달군 K푸드 열풍",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nNTdjVGxJUGhNNmg5MUw2T0kwUl9WR0prZ0JLd01yMzQwYTR3LVoycjdVSG1HYlBMdVVYY04yOXhXMVpKc2Y5SWFaTWtIcDd0MTgw0gFTQVVfeXFMTWc1N2NUbElQaE02aDkxTDZPSTBSX1ZHSmtnQkt3TXIzNDBhNHctWjJyN1VIbUdiUEx1VVhjTjI5eFcxWkpzZjlJYVpNa0hwN3QxODA?oc=5",
+          "title": "CJ씨푸드, 3.25% 오르며 체결강도 강세 지속(169%)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mbjRPNUgzd2pRZktENXRfb2ZkeVFFTUhMMnptcG9wVlZaMFFmYnJEWWpIS3lLSFlXZ09XQkdva1NSbERtVEd0ck1ubUZEZXhaUVVZ?oc=5",
           "desc": "",
-          "title_en": "“I'm having lunch today” … Overseas lunch heated K-food craze",
-          "title_ja": "「今日は昼食をとっています」…海外での昼食で熱くなったKフードの流行",
-          "title_zh": "“我今天要吃午餐” ……海外午餐热门K-food"
+          "title_en": "CJ Seafood continues strong in fastening strength, rising 3.25% (169%)",
+          "title_ja": "CJシーフードは引き続き強固な締結強度を維持し、3.25 ％ （ 169 ％ ）上昇",
+          "title_zh": "CJ Seafood的紧固强度持续强劲，上涨3.25% (169%)"
         },
         {
           "title": "산림청, ‘2026 우리임산물 숲푸드 대축제’ 개최",
@@ -174,12 +174,12 @@
           "title_zh": "林务局将举办“2026 Woori森林美食节”"
         },
         {
-          "title": "“잡채밥 조기 마감됐어요”…해외 급식서도 통한 K푸드",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hRFFBUDE1OGNZY3VTR0c0a21ZcWlkeWJlTUZqeXBmNXBkUXUwRkU3WDZIOW5VbHFPWVNtWm5jb2JPZXlmNExUYVNhMm11S1RaMnd30gFTQVVfeXFMT2FEUUFQMTU4Y1ljdVNHRzRrbVlxaWR5YmVNRmp5cGY1cGRRdTBGRTdYNkg5blVscU9ZU21abmNvYk9leWY0TFRhU2EybXVLVFoyd3c?oc=5",
+          "title": "“오늘 점심 한식이래”…해외 급식 달군 K푸드 열풍",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nNTdjVGxJUGhNNmg5MUw2T0kwUl9WR0prZ0JLd01yMzQwYTR3LVoycjdVSG1HYlBMdVVYY04yOXhXMVpKc2Y5SWFaTWtIcDd0MTgw0gFTQVVfeXFMTWc1N2NUbElQaE02aDkxTDZPSTBSX1ZHSmtnQkt3TXIzNDBhNHctWjJyN1VIbUdiUEx1VVhjTjI5eFcxWkpzZjlJYVpNa0hwN3QxODA?oc=5",
           "desc": "",
-          "title_en": "“Gobbled rice is closed early” … K food through overseas feeding form",
-          "title_ja": "「ゴブルドライスは早めに閉店」…海外給餌形態によるK食",
-          "title_zh": "“鹅卵石米提前关门” ……通过海外喂养形式的K食品"
+          "title_en": "“I'm having lunch today” … Overseas lunch heated K-food craze",
+          "title_ja": "「今日は昼食をとっています」…海外での昼食で熱くなったKフードの流行",
+          "title_zh": "“我今天要吃午餐” ……海外午餐热门K-food"
         }
       ]
     },
@@ -188,20 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "[미쉐린 ★셰프 릴레이 인터뷰] (7) 김지영 발우공양 셰프 “사찰음식에서 힐링의 여유 찾으세요”",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xZ3F4NlhaeVMxdUdMdmtvSDE4NVhJV1c0dE5DTlZPb3dNSjJwZXhBcFpmbHlET3BFLUx6SVA3WnVxbFJfTjRaSEkzcTNRblNqTVdIQ1pjbUhPVHBaSTlHQ1BRSQ?oc=5",
+          "title": "[기고] K푸드, 글로벌 식품안전 기준 이끈다",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4ZDVYUzBwRTljTUQ1NkRBc1ZfdTNuc3dpdkJnOVN4bTF2WWNYYVdseEgxWnN2dnJuYnNqbWtlZXMtX2tuQndXbEgzaW0zeFFJUXZ6bTJiazBodFE?oc=5",
           "desc": "",
-          "title_en": "[Michelin ★Chef Relay Interview] (7) Kim Ji-young, Chef Balwoo Gongyang, “Find Relaxation in Temple Food”",
-          "title_ja": "【ミシュランシェフリレーインタビュー★】( 7)キム・ジヨン、バルウ・ゴンヤンシェフ「テンプルフードでリラックス」",
-          "title_zh": "[米其林★大厨接力访谈] (7)大厨Balwoo Gongyang Kim Ji-young ， “在寺庙美食中寻找放松”"
-        },
-        {
-          "title": "“선물인지, 쓰레기 준 건지”…고객에게 유통기한 지난 음식 받은 점검원",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92Qk1xV1VVWXBqSnlSbi02V2cwRW1nTFNQMGVBMVRJU0w5ckRvdGJvTmJtUFFsam10aTZOTllkcEFQT0JUT2hoc3NrTnlRVElHR2k3OQ?oc=5",
-          "desc": "",
-          "title_en": "“Whether it was a gift or garbage” … Inspectors who received food past the expiration date",
-          "title_ja": "「贈答品であろうとゴミであろうと」…有効期限を過ぎて食べ物を受け取った検査員",
-          "title_zh": "“无论是礼物还是垃圾” ……在到期日之后收到食物的检查员"
+          "title_en": "[Contribution] K-Food Leads Global Food Safety Standards",
+          "title_ja": "【寄稿】K - Foodが世界の食品安全基準をリード",
+          "title_zh": "【贡献】K-Food引领全球食品安全标准"
         },
         {
           "title": "[K-VIBE] 최만순의 약이 되는 K-푸드…바다 흐름 품은 여름의 양생, 멍게",
@@ -210,6 +202,14 @@
           "title_en": "[K-VIBE] K-food that is the medicine of Choi Man-soon… Summer curing with sea flow, dung crab",
           "title_ja": "【K - VIBE】CHOI MAN - SOONの薬であるK - FOOD…海の流れる夏の養生、糞ガニ",
           "title_zh": "[K-VIBE] K-food是Choi Man-soon的药……夏季海水腌制，粪蟹"
+        },
+        {
+          "title": "“선물인지, 쓰레기 준 건지”…고객에게 유통기한 지난 음식 받은 점검원",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92Qk1xV1VVWXBqSnlSbi02V2cwRW1nTFNQMGVBMVRJU0w5ckRvdGJvTmJtUFFsam10aTZOTllkcEFQT0JUT2hoc3NrTnlRVElHR2k3OQ?oc=5",
+          "desc": "",
+          "title_en": "“Whether it was a gift or garbage” … Inspectors who received food past the expiration date",
+          "title_ja": "「贈答品であろうとゴミであろうと」…有効期限を過ぎて食べ物を受け取った検査員",
+          "title_zh": "“无论是礼物还是垃圾” ……在到期日之后收到食物的检查员"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "澳大利亚杂货店希腊酸奶摊“空”"
         },
         {
-          "title": "튜브형으로 더 간편하고 깔끔하게…이금기 ‘팬더굴소스’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tTHE5dDhUM1R1dHc5X1FGLWFXNmJoNmpVVzRMLU94d1NQakNVU01vSjg2ODlHRnJTeWwxbGNFZkdWRld1TVJoWXYtaUVLSFJ5alFDT0lMUQ?oc=5",
-          "desc": "",
-          "title_en": "Tube type makes it easier and tidier... Lee Kok-gi ‘Panda Gul Sauce’",
-          "title_ja": "チューブタイプでスムーズに・・・イ・コッギ「パンダガルソース」",
-          "title_zh": "管子类型使其更轻松、更整洁…… Lee Kok-gi ‘Panda Gul Sauce’"
-        },
-        {
           "title": "미국, ‘올데이 브렉퍼스트’ 확산",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GUE41ZW1RY25WNVRTN0NNQTdydlh1cktvZ1ZwM2NmSjhKc3djdEFfLTFXVXI1WmFRZzVGYTRJVUNYVUc2ZUtJNElzQVNmMlZXZGFLOVQyZw?oc=5",
           "desc": "",
           "title_en": "US spreads all-day breakfast",
           "title_ja": "米国では終日朝食が提供されています",
           "title_zh": "美国全天供应早餐"
+        },
+        {
+          "title": "비싸도 ‘엑스트라 버진’? 올리브유, 종류별 효능도 다르다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KTUc1NGZWWm1uc2tVaWJJRXpXdGxkUVhEY1BPVUo0R1pVemdaQXdqRGFXdnBiMWFkMWE2cjBDdDB5eUNFNkViVmhzTlp4bEJaeHBXMUNrbw?oc=5",
+          "desc": "",
+          "title_en": "Expensive ‘extra virgin’? Olive oil, different efficacy",
+          "title_ja": "高価な「エクストラバージン」？オリーブオイル、異なる効果",
+          "title_zh": "昂贵的“特级初榨” ？橄榄油，不同功效"
         }
       ]
     }
