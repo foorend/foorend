@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T16:51:43Z",
+  "lastUpdated": "2026-05-15T19:39:18Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,14 +36,6 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
-        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "햄·튀김보다 더 치명적…얼굴 못생겨지는 음식 1위 [건강!톡]",
+          "title": "햄·튀김보다 치명적…성형외과 의사가 경고한 최악의 음식 1위 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QUXNLb2NEZVVKMEx4QkhjenBJX18tRWN3QXRqM2gxeF9GY3ltY1owUUhjWUJHQkl3TEpkZzh5UUNGMU5mQVEybkFsVWlPTVVfR0pqanZ5RXVOQdIBVEFVX3lxTE1zZlBXcVU2aU4zVmNYSWUzZzAzaWdFLWRWQ3RmR1Z1TmVCNjlRcEd1UnVUY3FsY3FKNm5XSm1DMG9uTkpUeFppbjdTWDUxbUc1UElzNg?oc=5",
           "desc": "",
-          "title_en": "More deadly than ham and fried food… # 1 ugly food on your face [Healthy! Talk]",
-          "title_ja": "ハムや揚げ物よりも致命的…顔に浮かぶ醜い食べ物No.1【ヘルシー！トーク】",
-          "title_zh": "比火腿和油炸食品更致命……你脸上的# 1丑陋食物[Healthy! Talk]"
+          "title_en": "Deadlier than ham and fried… # 1 Worst Food Alerted by Plastic Surgeons [Health! Talk]",
+          "title_ja": "ハムと揚げ物よりも致命的… # 1形成外科医が警告する最悪の食品[Health! Talk]",
+          "title_zh": "比火腿和油炸更致命… # 1整形外科医生警告的最糟糕的食物[健康！谈话]"
         },
         {
           "title": "\"손흥민 사인 유니폼 받자\"…롯데웰푸드, '월드콘' 경품 이벤트 진행",
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "아워홈, 고령자 위한 메디푸드 사업 확대...“맞춤 식단 개발”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zM3hTRzV6dVZFZmlHSGJCQUZMd0ZwTUlBbDdjQzUtRHRsVjJhaTZ5M2ZVTG5kN3pJNjNJa3NXZUhlUUp0SVVOR0ZldlBsNHEtNWZ30gFTQVVfeXFMTXMzeFNHNXp1VkVmaUdIYkJBRkx3RnBNSUFsN2NDNS1EdGxWMmFpNnkzZlVMbmQ3ekk2M0lrc1dlSGVRSnRJVU5HRmV2UGw0cS01Znc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RYjZyQmdvZFFfSm16XzlRUUtFdjFKY29qcmFFNXMtbVFvaVJIUVFZUzd6NlpBU2tWSFdLcmFuR0VGMDh1NWI5Y3Q2anpBbkFEOHfSAVNBVV95cUxNczN4U0c1enVWRWZpR0hiQkFGTHdGcE1JQWw3Y0M1LUR0bFYyYWk2eTNmVUxuZDd6STYzSWtzV2VIZVFKdElVTkdGZXZQbDRxLTVmdw?oc=5",
           "desc": "",
           "title_en": "Our Home Expands Medifood Business for Seniors... “Developing a Personalized Diet”",
           "title_ja": "私たちの家は、高齢者のための医療食品事業を拡大します...「パーソナライズされた食事の開発」",
@@ -174,12 +174,12 @@
           "title_zh": "Bonanza ！ K-Food美国颠倒的秘密 🤫"
         },
         {
-          "title": "산림청, ‘2026 우리임산물 숲푸드 대축제’ 개최",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSOXh2WjNYMjdPTkxSUEVVT1hyMXJwYmdGYXhBUWJ2cTROZkhZNGtvS3hONUNUVGlHa09GckNlMU45clA5YkZUVEdCQk5zVnQ0a0HSAVNBVV95cUxQZ3QyOVlfXzhMcXhPRUpGX3lCdURTVGN0REM5TVRxVUxjUldkZWo4b3Vnb05lcnJQZzBEYUxVTXU1Q0h0MVJKYXlkWVM5T3BqY3dKRQ?oc=5",
+          "title": "CJ씨푸드, 3.25% 오르며 체결강도 강세 지속(169%)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mbjRPNUgzd2pRZktENXRfb2ZkeVFFTUhMMnptcG9wVlZaMFFmYnJEWWpIS3lLSFlXZ09XQkdva1NSbERtVEd0ck1ubUZEZXhaUVVZ?oc=5",
           "desc": "",
-          "title_en": "Forest Service to hold ‘2026 Woori Forest Food Festival’",
-          "title_ja": "フォレストサービスが「2026ウーリフォレストフードフェスティバル」を開催",
-          "title_zh": "林务局将举办“2026 Woori森林美食节”"
+          "title_en": "CJ Seafood continues strong in fastening strength, rising 3.25% (169%)",
+          "title_ja": "CJシーフードは引き続き強固な締結強度を維持し、3.25 ％ （ 169 ％ ）上昇",
+          "title_zh": "CJ Seafood的紧固强度持续强劲，上涨3.25% (169%)"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "昂贵的“特级初榨” ？橄榄油，不同功效"
         },
         {
-          "title": "일화, ‘명인깊은녹차’ 340ml 캔…“명인의 비결 담았다”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WOHVYbEoxMDBNcTdPN3dkRHR5TkZmYTVZSFZLYlZZaW1IR3p0UFYwZHhVbUs3UkFGTi1UYmpwT2V0X1BtQVpuelJIV0RmOXFnNGRpWGRuaw?oc=5",
+          "title": "불황도 비껴간 일본 반찬 시장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sb01fUjE0dVlrVHMzbmNwb3p5TzVHYVRnZlRDaFJQcHVQSmtqYnFtSG1adTlqZkhtelpaT3NiUFNLUGZqQmFpQ0E4MzNIS3pQclhRZ09YQQ?oc=5",
           "desc": "",
-          "title_en": "Anecdote, a 340ml can of ‘famous deep green tea' … “It contained the secret of a famous person”",
-          "title_ja": "逸話、「有名な深緑茶」の340 ml缶…「有名人の秘密が入っていた」",
-          "title_zh": "轶事，一罐340毫升的“著名深绿茶” …… “里面藏着一个名人的秘密”"
+          "title_en": "Recession-Free Japanese Side Dishes Market",
+          "title_ja": "景気後退のない日本のおかず市場",
+          "title_zh": "无经济衰退的日式配菜市场"
         }
       ]
     }
