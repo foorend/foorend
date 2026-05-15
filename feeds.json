@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-05-14T22:11:51Z",
+  "lastUpdated": "2026-05-15T03:35:00Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
         {
-          "title": "Franchisee files lawsuit against Pizza Hut over mandatory tech",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclc2anB4bkticTVaa09TSjNfRG5FNE8xMlVxLXB4dFo4eXphVVR0VWxmV1cwSC1aUDd6NnB6MTVuTmVNY1BhMnBDYU5RWmNFajZQQmZsb29HTEtTNENXZmxwc1p6clo1Zkx0Vk9LVVg4SzBybjdab3ZEU0xUWEdOaThBMnhmNHZSb1diTV9nVGxNUmQ2RjNQSXJUeDJfUXoySlhMbDJENFg3dE5Pb0Fv?oc=5",
+          "title": "Restaurant Business Magazine - Trends, Ideas and News",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
           "desc": "",
-          "title_ko": "프랜차이즈 가맹점, 피자헛을 상대로 필수 기술에 대한 소송 제기",
-          "title_ja": "フランチャイズ加盟店が義務付けられた技術をめぐりピザハットに対して訴訟を起こす",
-          "title_zh": "加盟商就必胜客强制性技术提起诉讼"
+          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
+          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
+          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
         },
         {
           "title": "Franchisees push their claims in the Fat Brands bankruptcy",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"손흥민 사인 유니폼 받자\"…롯데웰푸드, '월드콘' 경품 이벤트 진행",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSjN0VUlyTVBLbXNpU28wRlZnU2V6MW5aa2ZDb1hxakNELUJKbjcyejlsZjZWOWhZbFNObEpDWXd5VU9VOXF1MlRfeEJmbmVhT1k0Q3M4Vm53Z9IBVEFVX3lxTE5ZVFJ2azZTSzhjRGlRUTlfcngwV1RkNWVweldXeTVQWmRvUW5kOEFjTlRvWjA0MzBna0FXeXBwa09QcjVHemt4eW5pVk5NQTgtQjJFQw?oc=5",
+          "desc": "",
+          "title_en": "\"Let's get Son Heung-min autographed jersey\" … Lotte Well Food hosts' World Con 'sweepstakes",
+          "title_ja": "「ソン・フンミンのサイン入りジャージを手に入れよう」…ロッテウェルフードが「ワールドコン」懸賞を主催",
+          "title_zh": "“让我们为Son Heung-min买一件亲笔签名的球衣” ……乐天健康食品（ Lotte Well Food ）主办了“World Con”抽奖活动"
+        },
+        {
           "title": "\"5년 뒤 동남아 매출 1조\"…대상, K푸드 영토확장",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uN3BMTmtzbFg0MFV2LTVXWXQ4TG5fckVHQlNPcHdpaWpHakFiWl93OWhxa2ZsMENpQnNSZUIyVkFRUUpHOTN1TjAtdGpnYXdzMzhmdmVWTUxQQdIBVEFVX3lxTE1WbjUtc2E1eDVzZE5OZ21mZWNoWTdfeGNNTTFZOHpzRDZuakxoc3NCY0VSeWhZNnRQWG5yQmhIM0VreDlHRFFPYTY1MEpWV1locVJmQw?oc=5",
           "desc": "",
@@ -137,19 +145,11 @@
         },
         {
           "title": "롯데웰푸드, \"내 이름이 칸쵸에?\" 시즌 1 열풍에 더 알차게 돌아왔다…경품도 풍성",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14S1ZjLVdqOEgyM2JqdVhHRjMzNUxaUU1lMWJ6Q2Y2WEE4NzFqN0xWZDFMVm9yelRKRnpMUnlZbnVLMFI5Qm1MWjA2NUlWZGZlYm8tdTM0eklod9IBVEFVX3lxTFBQYk1JbmN2STFRcEIwTnE4WnJNN202T2cybFZSeGR6aEpBX1k4Y2xKZ0JTNElsN1MweUdBa0FIWTVtVUcxbkJpckgxTk5ZbEVEMWxuMA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDVOa1VrNHFqZFR6SG8xeHlfdm9zSkpOZmZKUDJQdjk4T0hkRTFDSDJQQ205dG1zZGUtS3lhazhLZnp0eV9LRXBmMTI5SWhnRkxYVjlWRGxEMWJITlZoaWk1d094MDVSdjhTb1BVSlpSR3BuOW9VLVBiOXE0djBUbjJRc2JvNEk?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food, \"My name is Kancho?\" I came back fuller due to the season 1 craze... The prizes are also plentiful.",
           "title_ja": "ロッテウェルフード「かんちょうですか？「シーズン1の流行で、より満タンになって帰ってきました……賞品も豊富です。",
           "title_zh": "乐天Well Food ， “我叫Kancho ？“由于第一季的热潮，我回来了……奖品也很丰富。"
-        },
-        {
-          "title": "조재호 마구로그룹 대표 \"한식으로 맥도날드 넘는 브랜드 만들 것\" [KIW2026]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ya1JLVk9lcXlkSEt3bzdVNmtHZzUzUi1kcUZ3NnQzcHVpRFgxTXdSZy1ZRGJHanV4bk5KZW93UjRlbVNyYnF1eTRid2ozUmtRcFpjY2JiTFZvUdIBVEFVX3lxTE1xT2ZMZnJ4ZWdoblBCQUVlelJXVWFzSDRFdzZXRC1PN0hIc2d2eXJsUDgzVTRhOG53eUl5R0cxN0g3bGd4enF0QXJsX18zMmhCVzloTA?oc=5",
-          "desc": "",
-          "title_en": "Jaeho Cho, CEO of Maguro Group, \"We will make a brand beyond McDonald's with Korean food\" [KIW2026]",
-          "title_ja": "マグログループCEO Jaeho Cho「韓国料理でマクドナルドを超えたブランドをつくる」【KIW 2026】",
-          "title_zh": "Maguro集团首席执行官Jaeho Cho ， “我们将用韩国食品打造一个超越麦当劳的品牌” [KIW2026]"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "Bonanza ！ K-Food美国颠倒的秘密 🤫"
         },
         {
+          "title": "CJ씨푸드, 3.25% 오르며 체결강도 강세 지속(169%)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mbjRPNUgzd2pRZktENXRfb2ZkeVFFTUhMMnptcG9wVlZaMFFmYnJEWWpIS3lLSFlXZ09XQkdva1NSbERtVEd0ck1ubUZEZXhaUVVZ?oc=5",
+          "desc": "",
+          "title_en": "CJ Seafood continues strong in fastening strength, rising 3.25% (169%)",
+          "title_ja": "CJシーフードは引き続き強固な締結強度を維持し、3.25 ％ （ 169 ％ ）上昇",
+          "title_zh": "CJ Seafood的紧固强度持续强劲，上涨3.25% (169%)"
+        },
+        {
           "title": "산림청, ‘2026 우리임산물 숲푸드 대축제’ 개최",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSOXh2WjNYMjdPTkxSUEVVT1hyMXJwYmdGYXhBUWJ2cTROZkhZNGtvS3hONUNUVGlHa09GckNlMU45clA5YkZUVEdCQk5zVnQ0a0HSAVNBVV95cUxQZ3QyOVlfXzhMcXhPRUpGX3lCdURTVGN0REM5TVRxVUxjUldkZWo4b3Vnb05lcnJQZzBEYUxVTXU1Q0h0MVJKYXlkWVM5T3BqY3dKRQ?oc=5",
           "desc": "",
           "title_en": "Forest Service to hold ‘2026 Woori Forest Food Festival’",
           "title_ja": "フォレストサービスが「2026ウーリフォレストフードフェスティバル」を開催",
           "title_zh": "林务局将举办“2026 Woori森林美食节”"
-        },
-        {
-          "title": "“오늘 점심 한식이래”…해외 급식 달군 K푸드 열풍",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nNTdjVGxJUGhNNmg5MUw2T0kwUl9WR0prZ0JLd01yMzQwYTR3LVoycjdVSG1HYlBMdVVYY04yOXhXMVpKc2Y5SWFaTWtIcDd0MTgw0gFTQVVfeXFMTWc1N2NUbElQaE02aDkxTDZPSTBSX1ZHSmtnQkt3TXIzNDBhNHctWjJyN1VIbUdiUEx1VVhjTjI5eFcxWkpzZjlJYVpNa0hwN3QxODA?oc=5",
-          "desc": "",
-          "title_en": "“I'm having lunch today” … Overseas lunch heated K-food craze",
-          "title_ja": "「今日は昼食をとっています」…海外での昼食で熱くなったKフードの流行",
-          "title_zh": "“我今天要吃午餐” ……海外午餐热门K-food"
         }
       ]
     },
