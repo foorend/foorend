@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T08:50:08Z",
+  "lastUpdated": "2026-05-15T11:21:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "아워홈, 고령자 위한 메디푸드 사업 확대...“맞춤 식단 개발”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zM3hTRzV6dVZFZmlHSGJCQUZMd0ZwTUlBbDdjQzUtRHRsVjJhaTZ5M2ZVTG5kN3pJNjNJa3NXZUhlUUp0SVVOR0ZldlBsNHEtNWZ30gFTQVVfeXFMTXMzeFNHNXp1VkVmaUdIYkJBRkx3RnBNSUFsN2NDNS1EdGxWMmFpNnkzZlVMbmQ3ekk2M0lrc1dlSGVRSnRJVU5HRmV2UGw0cS01Znc?oc=5",
+          "desc": "",
+          "title_en": "Our Home Expands Medifood Business for Seniors... “Developing a Personalized Diet”",
+          "title_ja": "私たちの家は、高齢者のための医療食品事業を拡大します...「パーソナライズされた食事の開発」",
+          "title_zh": "我们的家庭为老年人拓展医疗食品业务...... “开发个性化饮食”"
+        },
+        {
           "title": "대박! 미국 뒤집어 놓은 K-푸드의 비밀 🤫",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5WmxaOUgxMDBWalh2c243WXZqNUxJcXEwR2JQejlaRVNmdXR1bHkzblY3T0M3Y05WeDdkS1E0c0pwc1NpbWc?oc=5",
           "desc": "",
           "title_en": "Bonanza! K-Food Secrets of the American Upside Down 🤫",
           "title_ja": "Bonanza! K - Foodアメリカン・アップサイドダウンの秘密 🤫",
           "title_zh": "Bonanza ！ K-Food美国颠倒的秘密 🤫"
-        },
-        {
-          "title": "CJ씨푸드, 3.25% 오르며 체결강도 강세 지속(169%)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mbjRPNUgzd2pRZktENXRfb2ZkeVFFTUhMMnptcG9wVlZaMFFmYnJEWWpIS3lLSFlXZ09XQkdva1NSbERtVEd0ck1ubUZEZXhaUVVZ?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood continues strong in fastening strength, rising 3.25% (169%)",
-          "title_ja": "CJシーフードは引き続き強固な締結強度を維持し、3.25 ％ （ 169 ％ ）上昇",
-          "title_zh": "CJ Seafood的紧固强度持续强劲，上涨3.25% (169%)"
         },
         {
           "title": "산림청, ‘2026 우리임산물 숲푸드 대축제’ 개최",
@@ -234,12 +234,12 @@
           "title_zh": "昂贵的“特级初榨” ？橄榄油，不同功效"
         },
         {
-          "title": "한식진흥원 ‘별하나 페스티벌’ 참가…‘K-미식벨트’ 알린다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hNnNlU3JMdmhEU012cktpZHFSbXJSeVlSV28wMEN2WnlkelFFa1hpU1czand4czlaSFFCVkFndHlRYW50OHhaNmh2Mk9kQnJ3UUtxdGswdw?oc=5",
+          "title": "일화, ‘명인깊은녹차’ 340ml 캔…“명인의 비결 담았다”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WOHVYbEoxMDBNcTdPN3dkRHR5TkZmYTVZSFZLYlZZaW1IR3p0UFYwZHhVbUs3UkFGTi1UYmpwT2V0X1BtQVpuelJIV0RmOXFnNGRpWGRuaw?oc=5",
           "desc": "",
-          "title_en": "Participation in the ‘Star Hana Festival’ of the Korean Food Promotion Institute... Announcement of the ’K-Gourmet Belt'",
-          "title_ja": "韓国食文化振興院「スター花まつり」への参加…「Kグルメベルト」の発表",
-          "title_zh": "参加韩国食品促进会“星花节” ……宣布“韩国美食腰带”"
+          "title_en": "Anecdote, a 340ml can of ‘famous deep green tea' … “It contained the secret of a famous person”",
+          "title_ja": "逸話、「有名な深緑茶」の340 ml缶…「有名人の秘密が入っていた」",
+          "title_zh": "轶事，一罐340毫升的“著名深绿茶” …… “里面藏着一个名人的秘密”"
         }
       ]
     }
