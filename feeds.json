@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T21:59:36Z",
+  "lastUpdated": "2026-05-16T02:57:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "Food",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
-          "desc": "",
-          "title_ko": "식료품비",
-          "title_ja": "食料",
-          "title_zh": "食物"
-        },
-        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“해외서 날았다”...식품 업계, K푸드 인기에 실적 ‘쑥’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mMFFtQzFiM2xkd1N2UUtiUnNOWXBVdkhzQldRZ2xxVkh0MzhSb0x4WlZfRUtmWEpZdGdQNG9rblk4UFJ0aHMwOWdSMXpjTXFsbVHSAVNBVV95cUxNSklycC1SZDF1OV9kbzl0ZnVubWdnbWNfVXlGYTBJUlRBVUgtalR5SGU3TDZtMC1VWE1IampYNm41RE95N1FvSnAweHM2dndsbEtOTQ?oc=5",
+          "desc": "",
+          "title_en": "“Flew abroad”... Food industry, K-food popularity ‘buzz’",
+          "title_ja": "「海外に飛んだ」・・・食品業界、K - food人気「バズ」",
+          "title_zh": "“飞往国外” ……食品行业， K-food人气“嗡嗡声”"
+        },
+        {
           "title": "아워홈, 고령자 위한 메디푸드 사업 확대...“맞춤 식단 개발”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RYjZyQmdvZFFfSm16XzlRUUtFdjFKY29qcmFFNXMtbVFvaVJIUVFZUzd6NlpBU2tWSFdLcmFuR0VGMDh1NWI5Y3Q2anpBbkFEOHfSAVNBVV95cUxNczN4U0c1enVWRWZpR0hiQkFGTHdGcE1JQWw3Y0M1LUR0bFYyYWk2eTNmVUxuZDd6STYzSWtzV2VIZVFKdElVTkdGZXZQbDRxLTVmdw?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Bonanza! K-Food Secrets of the American Upside Down 🤫",
           "title_ja": "Bonanza! K - Foodアメリカン・アップサイドダウンの秘密 🤫",
           "title_zh": "Bonanza ！ K-Food美国颠倒的秘密 🤫"
-        },
-        {
-          "title": "CJ씨푸드, 3.25% 오르며 체결강도 강세 지속(169%)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mbjRPNUgzd2pRZktENXRfb2ZkeVFFTUhMMnptcG9wVlZaMFFmYnJEWWpIS3lLSFlXZ09XQkdva1NSbERtVEd0ck1ubUZEZXhaUVVZ?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood continues strong in fastening strength, rising 3.25% (169%)",
-          "title_ja": "CJシーフードは引き続き強固な締結強度を維持し、3.25 ％ （ 169 ％ ）上昇",
-          "title_zh": "CJ Seafood的紧固强度持续强劲，上涨3.25% (169%)"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "酒吧生鲜食品集团第一季度收入激增92%至560万美元"
         },
         {
-          "title": "[기고] K푸드, 글로벌 식품안전 기준 이끈다",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4ZDVYUzBwRTljTUQ1NkRBc1ZfdTNuc3dpdkJnOVN4bTF2WWNYYVdseEgxWnN2dnJuYnNqbWtlZXMtX2tuQndXbEgzaW0zeFFJUXZ6bTJiazBodFE?oc=5",
-          "desc": "",
-          "title_en": "[Contribution] K-Food Leads Global Food Safety Standards",
-          "title_ja": "【寄稿】K - Foodが世界の食品安全基準をリード",
-          "title_zh": "【贡献】K-Food引领全球食品安全标准"
-        },
-        {
           "title": "다논의 345만주 블록딜 공모, 라이프웨이푸드 주가에 단기 부담",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xV3ZIVlJjM2h5ekM4ekVUZmk4MHhBdjM5eEwybE5VMjNHbUpJbS0tckJSLXhRdnQ5ZmJkT0lFMkJsM2VyYS1zT3FsYjNNc2hhR3c?oc=5",
           "desc": "",
           "title_en": "Danone's 3.45 M Block Deal Contests, Short-Term Burden on Lifeway Foods Stock Prices",
           "title_ja": "ダノンの345万ブロックディールコンテスト、ライフウェイフーズ株価の短期的な負担",
           "title_zh": "达能345万大宗交易竞赛， Lifeway Foods股价的短期负担"
+        },
+        {
+          "title": "[기고] K푸드, 글로벌 식품안전 기준 이끈다",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4ZDVYUzBwRTljTUQ1NkRBc1ZfdTNuc3dpdkJnOVN4bTF2WWNYYVdseEgxWnN2dnJuYnNqbWtlZXMtX2tuQndXbEgzaW0zeFFJUXZ6bTJiazBodFE?oc=5",
+          "desc": "",
+          "title_en": "[Contribution] K-Food Leads Global Food Safety Standards",
+          "title_ja": "【寄稿】K - Foodが世界の食品安全基準をリード",
+          "title_zh": "【贡献】K-Food引领全球食品安全标准"
         }
       ]
     },
