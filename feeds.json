@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T19:05:21Z",
+  "lastUpdated": "2026-05-16T21:50:40Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“해외서 날았다”...식품 업계, K푸드 인기에 실적 ‘쑥’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mMFFtQzFiM2xkd1N2UUtiUnNOWXBVdkhzQldRZ2xxVkh0MzhSb0x4WlZfRUtmWEpZdGdQNG9rblk4UFJ0aHMwOWdSMXpjTXFsbVHSAVNBVV95cUxNSklycC1SZDF1OV9kbzl0ZnVubWdnbWNfVXlGYTBJUlRBVUgtalR5SGU3TDZtMC1VWE1IampYNm41RE95N1FvSnAweHM2dndsbEtOTQ?oc=5",
-          "desc": "",
-          "title_en": "“Flew abroad”... Food industry, K-food popularity ‘buzz’",
-          "title_ja": "「海外に飛んだ」・・・食品業界、K - food人気「バズ」",
-          "title_zh": "“飞往国外” ……食品行业， K-food人气“嗡嗡声”"
-        },
-        {
           "title": "[동의보감] 체질·질병 상태에 맞는 음식이 보약",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85TnlWNmY5SGRXNUppSnRpaUJKS09wNU0tdHZrN05sR1NxWHVlcTlPMlNnYW5ucURnYnp4RkZUdlF2cHVYRXVld2p5aVRELWxoM0E?oc=5",
           "desc": "",
           "title_en": "[Consent management] Food suitable for constitutional and disease conditions is recommended",
           "title_ja": "【同意管理】体質や病状に適した食品を推奨",
           "title_zh": "【知情同意管理】推荐适合体质和疾病状况的食品"
+        },
+        {
+          "title": "“해외서 날았다”...식품 업계, K푸드 인기에 실적 ‘쑥’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mMFFtQzFiM2xkd1N2UUtiUnNOWXBVdkhzQldRZ2xxVkh0MzhSb0x4WlZfRUtmWEpZdGdQNG9rblk4UFJ0aHMwOWdSMXpjTXFsbVHSAVNBVV95cUxNSklycC1SZDF1OV9kbzl0ZnVubWdnbWNfVXlGYTBJUlRBVUgtalR5SGU3TDZtMC1VWE1IampYNm41RE95N1FvSnAweHM2dndsbEtOTQ?oc=5",
+          "desc": "",
+          "title_en": "“Flew abroad”... Food industry, K-food popularity ‘buzz’",
+          "title_ja": "「海外に飛んだ」・・・食品業界、K - food人気「バズ」",
+          "title_zh": "“飞往国外” ……食品行业， K-food人气“嗡嗡声”"
         },
         {
           "title": "“무심코 먹었다간 폭삭 늙어”...의사가 경고한 ‘얼굴 못생겨지는 음식’ 1위는 [헬시타임]",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "세균성 장염 한 달새 48%↑…\"물·음식 안전하게 섭취해야\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oVTJEemUtUnZjNVNCWVdUR2FBa0Y4U00xazJldFJpNXVmRy1jMUpWSGIycDlTTjd6M0ZJUk1JZlllUml5QTdhdEFrNUZDOERta3c?oc=5",
+          "desc": "",
+          "title_en": "Bacterial enteritis 48% in one month↑… “Water and food should be consumed safely”",
+          "title_ja": "1ヶ月で48 ％の細菌性腸炎↑…「水と食べ物は安全に摂取する必要があります」",
+          "title_zh": "一个月内48%的细菌性肠炎↑…… “应安全食用水和食物”"
+        },
+        {
           "title": "웨어 푸드 컴즈 프롬, 1분기 순이익 9만2000달러..전년비 197% 급증",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xa2ZtbnlrWG9PQXNadGlmMU1MT3hyT1FIMjk5US1oZGUzeXNsOThEZlV3ZEpheF9BV1NwOXktOGpnMHp4enJ3bG52QUN1bWJ1Q1E?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Danone's 3.45 M Block Deal Contests, Short-Term Burden on Lifeway Foods Stock Prices",
           "title_ja": "ダノンの345万ブロックディールコンテスト、ライフウェイフーズ株価の短期的な負担",
           "title_zh": "达能345万大宗交易竞赛， Lifeway Foods股价的短期负担"
-        },
-        {
-          "title": "패스트푸드가 코스요리를?… 버거킹 ‘수상한 성수점’ [재계톡톡]",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KY01BSGd6LXhxMHdKbHYyR3ItOTZ2NEZDenpGV1lyOHJRZUF5THFWbngyb2xRR0xadElWTmhwal9JWjZ2UURGMWdvSEFCWDBDUGo2MThn?oc=5",
-          "desc": "",
-          "title_en": "Fast food makes course food? … Burger King ‘Suspicious Holy Water’ [Jaegye Talk Talk]",
-          "title_ja": "ファストフードはコースフード？ …ハンバーガーキング「疑わしい聖水」[ Jaegye Talk Talk]",
-          "title_zh": "快餐做菜？ …汉堡王“可疑的圣水” [Jaegye Talk Talk]"
         }
       ]
     },
