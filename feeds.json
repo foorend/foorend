@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T15:58:38Z",
+  "lastUpdated": "2026-05-16T19:05:21Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "웨어 푸드 컴즈 프롬, 1분기 순이익 9만2000달러..전년비 197% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xa2ZtbnlrWG9PQXNadGlmMU1MT3hyT1FIMjk5US1oZGUzeXNsOThEZlV3ZEpheF9BV1NwOXktOGpnMHp4enJ3bG52QUN1bWJ1Q1E?oc=5",
+          "desc": "",
+          "title_en": "Wear Foods Combs Prom, Q1 Net Income of $92,000.. YoY Surge of 197%",
+          "title_ja": "ウェアフーズコームズプロム、第1四半期の純利益は92,000ドル。前年比197 ％の急増",
+          "title_zh": "Wear Foods Combs Prom ，第一季度净收入为92,000美元，同比飙升197%"
+        },
+        {
           "title": "다논의 345만주 블록딜 공모, 라이프웨이푸드 주가에 단기 부담",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xV3ZIVlJjM2h5ekM4ekVUZmk4MHhBdjM5eEwybE5VMjNHbUpJbS0tckJSLXhRdnQ5ZmJkT0lFMkJsM2VyYS1zT3FsYjNNc2hhR3c?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "达能345万大宗交易竞赛， Lifeway Foods股价的短期负担"
         },
         {
-          "title": "[기고] K푸드, 글로벌 식품안전 기준 이끈다",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4ZDVYUzBwRTljTUQ1NkRBc1ZfdTNuc3dpdkJnOVN4bTF2WWNYYVdseEgxWnN2dnJuYnNqbWtlZXMtX2tuQndXbEgzaW0zeFFJUXZ6bTJiazBodFE?oc=5",
+          "title": "패스트푸드가 코스요리를?… 버거킹 ‘수상한 성수점’ [재계톡톡]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KY01BSGd6LXhxMHdKbHYyR3ItOTZ2NEZDenpGV1lyOHJRZUF5THFWbngyb2xRR0xadElWTmhwal9JWjZ2UURGMWdvSEFCWDBDUGo2MThn?oc=5",
           "desc": "",
-          "title_en": "[Contribution] K-Food Leads Global Food Safety Standards",
-          "title_ja": "【寄稿】K - Foodが世界の食品安全基準をリード",
-          "title_zh": "【贡献】K-Food引领全球食品安全标准"
-        },
-        {
-          "title": "라이프웨이 푸드, 1분기 매출 6300만 달러..전년비 36.7% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5STnpMOGROME44NkpYTVJDUEhzQldrVlBxcndBM28xdWxiTjRUSHVkZ1hqTFdqeUwxZ21ndFBOYTUtQWVFclZrRDdETENSNGZ5eFE?oc=5",
-          "desc": "",
-          "title_en": "Lifeway Foods Revenue Surged 36.7% YoY to $63 Million in Q1",
-          "title_ja": "Lifeway Foodsの第1四半期の売上高は前年同期比36.7 ％増の6300万ドル",
-          "title_zh": "第一季度Lifeway Foods收入同比飙升36.7%至6300万美元"
+          "title_en": "Fast food makes course food? … Burger King ‘Suspicious Holy Water’ [Jaegye Talk Talk]",
+          "title_ja": "ファストフードはコースフード？ …ハンバーガーキング「疑わしい聖水」[ Jaegye Talk Talk]",
+          "title_zh": "快餐做菜？ …汉堡王“可疑的圣水” [Jaegye Talk Talk]"
         }
       ]
     },
