@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T02:57:57Z",
+  "lastUpdated": "2026-05-16T06:05:01Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "바프레시 푸드 그룹, 1분기 매출 92% 급증·560만 달러 기록",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45anE1VWRyYzNGT3pQTS1NLWV1OF9aOEhvbWJUOWxBRXpPLV93SW15ZFA4TUZ5M3ZacXBtUjlzQ2FtUDBzNEo5MVdUT0xKejY0bUE?oc=5",
-          "desc": "",
-          "title_en": "Bar Fresh Food Group Surges 92% in First Quarter Revenue to $5.6 Million",
-          "title_ja": "バー生鮮食品グループ、第1四半期の売上高が92%増の560万ドルに",
-          "title_zh": "酒吧生鲜食品集团第一季度收入激增92%至560万美元"
-        },
-        {
           "title": "다논의 345만주 블록딜 공모, 라이프웨이푸드 주가에 단기 부담",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xV3ZIVlJjM2h5ekM4ekVUZmk4MHhBdjM5eEwybE5VMjNHbUpJbS0tckJSLXhRdnQ5ZmJkT0lFMkJsM2VyYS1zT3FsYjNNc2hhR3c?oc=5",
           "desc": "",
@@ -204,12 +196,20 @@
           "title_zh": "达能345万大宗交易竞赛， Lifeway Foods股价的短期负担"
         },
         {
-          "title": "[기고] K푸드, 글로벌 식품안전 기준 이끈다",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4ZDVYUzBwRTljTUQ1NkRBc1ZfdTNuc3dpdkJnOVN4bTF2WWNYYVdseEgxWnN2dnJuYnNqbWtlZXMtX2tuQndXbEgzaW0zeFFJUXZ6bTJiazBodFE?oc=5",
+          "title": "바프레시 푸드 그룹, 1분기 매출 92% 급증·560만 달러 기록",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45anE1VWRyYzNGT3pQTS1NLWV1OF9aOEhvbWJUOWxBRXpPLV93SW15ZFA4TUZ5M3ZacXBtUjlzQ2FtUDBzNEo5MVdUT0xKejY0bUE?oc=5",
           "desc": "",
-          "title_en": "[Contribution] K-Food Leads Global Food Safety Standards",
-          "title_ja": "【寄稿】K - Foodが世界の食品安全基準をリード",
-          "title_zh": "【贡献】K-Food引领全球食品安全标准"
+          "title_en": "Bar Fresh Food Group Surges 92% in First Quarter Revenue to $5.6 Million",
+          "title_ja": "バー生鮮食品グループ、第1四半期の売上高が92%増の560万ドルに",
+          "title_zh": "酒吧生鲜食品集团第一季度收入激增92%至560万美元"
+        },
+        {
+          "title": "패스트푸드가 코스요리를?… 버거킹 ‘수상한 성수점’ [재계톡톡]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KY01BSGd6LXhxMHdKbHYyR3ItOTZ2NEZDenpGV1lyOHJRZUF5THFWbngyb2xRR0xadElWTmhwal9JWjZ2UURGMWdvSEFCWDBDUGo2MThn?oc=5",
+          "desc": "",
+          "title_en": "Fast food makes course food? … Burger King ‘Suspicious Holy Water’ [Jaegye Talk Talk]",
+          "title_ja": "ファストフードはコースフード？ …ハンバーガーキング「疑わしい聖水」[ Jaegye Talk Talk]",
+          "title_zh": "快餐做菜？ …汉堡王“可疑的圣水” [Jaegye Talk Talk]"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "호주 마트, 그릭 요거트 진열대 ‘텅 비어’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xWm5zLXMzdVNmWF9nekpZU3E5UkVPa3Vyb2VLSzlFN0RxTGhEQk94dFdpNW1na2s4M3JQZTdiTHlvWE8ydUt1a2JsNlFnNVFJXzlFdmtzYw?oc=5",
+          "desc": "",
+          "title_en": "Australian grocery store Greek yogurt stand ‘empty’",
+          "title_ja": "オーストラリアの食料品店ギリシャヨーグルトスタンド「空」",
+          "title_zh": "澳大利亚杂货店希腊酸奶摊“空”"
+        },
         {
           "title": "미국, ‘올데이 브렉퍼스트’ 확산",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GUE41ZW1RY25WNVRTN0NNQTdydlh1cktvZ1ZwM2NmSjhKc3djdEFfLTFXVXI1WmFRZzVGYTRJVUNYVUc2ZUtJNElzQVNmMlZXZGFLOVQyZw?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "Expensive ‘extra virgin’? Olive oil, different efficacy",
           "title_ja": "高価な「エクストラバージン」？オリーブオイル、異なる効果",
           "title_zh": "昂贵的“特级初榨” ？橄榄油，不同功效"
-        },
-        {
-          "title": "불황도 비껴간 일본 반찬 시장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sb01fUjE0dVlrVHMzbmNwb3p5TzVHYVRnZlRDaFJQcHVQSmtqYnFtSG1adTlqZkhtelpaT3NiUFNLUGZqQmFpQ0E4MzNIS3pQclhRZ09YQQ?oc=5",
-          "desc": "",
-          "title_en": "Recession-Free Japanese Side Dishes Market",
-          "title_ja": "景気後退のない日本のおかず市場",
-          "title_zh": "无经济衰退的日式配菜市场"
         }
       ]
     }
