@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T08:22:07Z",
+  "lastUpdated": "2026-05-17T10:22:43Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "[르포] K소스에 반해 주문 폭발…동원홈푸드 충주공장 가동률 101%",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2VThsd3l4TzZoOTVZUnFXZEFYQkhNSWZOTXlzZ1JXMUxsa1pFY2FjQTZJOGJBaElDNVJETEVqbmVnZGg3YlAxVUtFb25FZkdDOXfSAVNBVV95cUxPSU55c19Ja3pBRlQ0dnZQNjZQR2JMOVFSTDUzM1pQZmN6cXNTS05GQ0djTlJGUm1sNk0zNjdYRzhTQ1RRcmdfRXI0bEQ3WVdHdDcxZw?oc=5",
+          "desc": "",
+          "title_en": "[Repo] Orders Explode Against K-Source… Dongwon Home Food Chungju Plant Utilization Rate 101%",
+          "title_ja": "【レポ】K - Sourceに対して受注爆発… Dongwon Home Food忠州工場稼働率101%",
+          "title_zh": "【回购】针对K-Source的订单激增…东原家居食品忠州工厂利用率101%"
+        },
+        {
           "title": "“해외서 날았다”...식품 업계, K푸드 인기에 실적 ‘쑥’",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mMFFtQzFiM2xkd1N2UUtiUnNOWXBVdkhzQldRZ2xxVkh0MzhSb0x4WlZfRUtmWEpZdGdQNG9rblk4UFJ0aHMwOWdSMXpjTXFsbVHSAVNBVV95cUxNSklycC1SZDF1OV9kbzl0ZnVubWdnbWNfVXlGYTBJUlRBVUgtalR5SGU3TDZtMC1VWE1IampYNm41RE95N1FvSnAweHM2dndsbEtOTQ?oc=5",
           "desc": "",
@@ -166,20 +174,12 @@
           "title_zh": "“飞往国外” ……食品行业， K-food人气“嗡嗡声”"
         },
         {
-          "title": "예보 무의탁 어르신께 송편 등 추석음식 제공",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wb2RFdEVHRXNla1N1V3N6eWZWRmpsczM3ejV4WkU2SFAyRXVQVVhNNWNiUzB3UWdOaTBFVGtyamxoWUxRVEVCMFlJWHRZaVRsSWfSAVNBVV95cUxNWVBMRTlEa3h1WlhHZWdFR1FqcE16Q3JnWmExMlk0NklRNkhIRVhpYVVScGlBazR0bzBhOHhPLWoyRHFZNWp4ZjlReVdmRWFUcHBhOA?oc=5",
+          "title": "참푸드STM '다찌와 꼬지' 사당동 본사서 창업설명회",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hRXlfa0FuWHBOY1ZwUVVkTmg3UFllOUlXQzFwd1UtVl9tT3pfUklRVjFHcXZNbU9id2g0eHd0QWZiaG1kR05IN1pyRFlGSXFqcUE?oc=5",
           "desc": "",
-          "title_en": "Forecast Provide Thanksgiving food such as Songpyeon to unwilling seniors",
-          "title_ja": "予報不本意な高齢者にソンピョンなどの感謝祭の食べ物を提供する",
-          "title_zh": "预报为不情愿的老年人提供Songpyeon等感恩节食品"
-        },
-        {
-          "title": "[동의보감] 체질·질병 상태에 맞는 음식이 보약",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85TnlWNmY5SGRXNUppSnRpaUJKS09wNU0tdHZrN05sR1NxWHVlcTlPMlNnYW5ucURnYnp4RkZUdlF2cHVYRXVld2p5aVRELWxoM0E?oc=5",
-          "desc": "",
-          "title_en": "[Consent management] Food suitable for constitutional and disease conditions is recommended",
-          "title_ja": "【同意管理】体質や病状に適した食品を推奨",
-          "title_zh": "【知情同意管理】推荐适合体质和疾病状况的食品"
+          "title_en": "Cham Foods STM 'Dachiwa Koji' Sadang-dong Head Office Foundation Presentation",
+          "title_ja": "Cham Foods STM「Dachiwa Koji」Sadang - dong本社財団プレゼンテーション",
+          "title_zh": "Cham Foods STM 'Dachiwa Koji' Sadang-dong总部基金会演讲"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "남은 음식 꼼꼼히 보관했는데…플라스틱 용기에 넣어두면 해롭다?",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95X2NXQzdud2dWME1xQnB1aFgzWF85QXkxQ2pIbTRRZEktUDExOTRfSVRub2wyT1IxUUp0WG9EbzZWRHRTdTdlOEdUdm84Zw?oc=5",
+          "desc": "",
+          "title_en": "I kept the rest of the food carefully... Is it harmful if I put it in a plastic container?",
+          "title_ja": "残りの食べ物は慎重に保管しました…プラスチック容器に入れると害がありますか？",
+          "title_zh": "我小心翼翼地保存了剩下的食物……把它放在塑料容器里有害吗？"
+        },
         {
           "title": "세균성 장염 한 달새 48%↑…\"물·음식 안전하게 섭취해야\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oVTJEemUtUnZjNVNCWVdUR2FBa0Y4U00xazJldFJpNXVmRy1jMUpWSGIycDlTTjd6M0ZJUk1JZlllUml5QTdhdEFrNUZDOERta3c?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Wear Foods Combs Prom, Q1 Net Income of $92,000.. YoY Surge of 197%",
           "title_ja": "ウェアフーズコームズプロム、第1四半期の純利益は92,000ドル。前年比197 ％の急増",
           "title_zh": "Wear Foods Combs Prom ，第一季度净收入为92,000美元，同比飙升197%"
-        },
-        {
-          "title": "다논의 345만주 블록딜 공모, 라이프웨이푸드 주가에 단기 부담",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xV3ZIVlJjM2h5ekM4ekVUZmk4MHhBdjM5eEwybE5VMjNHbUpJbS0tckJSLXhRdnQ5ZmJkT0lFMkJsM2VyYS1zT3FsYjNNc2hhR3c?oc=5",
-          "desc": "",
-          "title_en": "Danone's 3.45 M Block Deal Contests, Short-Term Burden on Lifeway Foods Stock Prices",
-          "title_ja": "ダノンの345万ブロックディールコンテスト、ライフウェイフーズ株価の短期的な負担",
-          "title_zh": "达能345万大宗交易竞赛， Lifeway Foods股价的短期负担"
         }
       ]
     },
