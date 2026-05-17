@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T15:59:08Z",
+  "lastUpdated": "2026-05-17T19:10:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "\"노점 음식 걱정말고 드세요\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Rc29NTlFMVXhZcWhRTXN5STd6Vld3VEtiblEtdk9uYlBuUW9WMGoyT2tyMWdNbXhLaEdPWExOaWZRM3FaZHJYSngzY2RaeVM4RVHSAVNBVV95cUxPWEJmTGtWOFNFdmFqTnFJUUpfdTRwZ0tiQVhHVjNTXzU4RDVtWDJlQ0hGZzBlWGs2Y1BnYTlPTWNIQTMydUhtbGhGTS1ucTRmZEp5WQ?oc=5",
-          "desc": "",
-          "title_en": "\"Don't worry about street food\"",
-          "title_ja": "「ストリートフードを気にする必要はありません」",
-          "title_zh": "“不用担心街头美食”"
-        },
-        {
           "title": "[르포] K소스에 반해 주문 폭발…동원홈푸드 충주공장 가동률 101%",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2VThsd3l4TzZoOTVZUnFXZEFYQkhNSWZOTXlzZ1JXMUxsa1pFY2FjQTZJOGJBaElDNVJETEVqbmVnZGg3YlAxVUtFb25FZkdDOXfSAVNBVV95cUxPSU55c19Ja3pBRlQ0dnZQNjZQR2JMOVFSTDUzM1pQZmN6cXNTS05GQ0djTlJGUm1sNk0zNjdYRzhTQ1RRcmdfRXI0bEQ3WVdHdDcxZw?oc=5",
           "desc": "",
@@ -174,12 +166,20 @@
           "title_zh": "【回购】针对K-Source的订单激增…东原家居食品忠州工厂利用率101%"
         },
         {
-          "title": "푸드나무, 매도잔량 337% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CNEI4enpLVGxjM0NUWkVldUI3X3FaYVMwUEZhOVBWWUVFYkxNZDNDbXA4SzdpdmY5WThSRlZiR0kxM2dVdXFndW1DRTJFbVJCYmc?oc=5",
+          "title": "윙입푸드, 매도잔량 429% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4Y2U3VE1vSmRYY1pma3VLSlI3VHZpdEtXY0JDdGx1Y0s3V0JNQmRrRURkOU13M1ptTExoeFh2d0dRQTNLenBZZVJDU2JJNVZSbWc?oc=5",
           "desc": "",
-          "title_en": "Food trees sell 337% more",
-          "title_ja": "食料の木の売り上げが337%増加",
-          "title_zh": "食用树销量提高337%"
+          "title_en": "Wing Yip Foods Sell Residuals Surge 429%",
+          "title_ja": "ウィングイップフーズ残余売却サージ429%",
+          "title_zh": "永业食品销售残值激增429%"
+        },
+        {
+          "title": "[동의보감] 체질·질병 상태에 맞는 음식이 보약",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85TnlWNmY5SGRXNUppSnRpaUJKS09wNU0tdHZrN05sR1NxWHVlcTlPMlNnYW5ucURnYnp4RkZUdlF2cHVYRXVld2p5aVRELWxoM0E?oc=5",
+          "desc": "",
+          "title_en": "[Consent management] Food suitable for constitutional and disease conditions is recommended",
+          "title_ja": "【同意管理】体質や病状に適した食品を推奨",
+          "title_zh": "【知情同意管理】推荐适合体质和疾病状况的食品"
         }
       ]
     },
