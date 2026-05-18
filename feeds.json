@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T10:05:33Z",
+  "lastUpdated": "2026-05-18T15:34:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "在汉堡业务中， Culver's和Shake Shack正在抢占市场份额"
         },
         {
+          "title": "Franchisee files lawsuit against Pizza Hut over mandatory tech",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclc2anB4bkticTVaa09TSjNfRG5FNE8xMlVxLXB4dFo4eXphVVR0VWxmV1cwSC1aUDd6NnB6MTVuTmVNY1BhMnBDYU5RWmNFajZQQmZsb29HTEtTNENXZmxwc1p6clo1Zkx0Vk9LVVg4SzBybjdab3ZEU0xUWEdOaThBMnhmNHZSb1diTV9nVGxNUmQ2RjNQSXJUeDJfUXoySlhMbDJENFg3dE5Pb0Fv?oc=5",
+          "desc": "",
+          "title_ko": "프랜차이즈 가맹점, 피자헛을 상대로 필수 기술에 대한 소송 제기",
+          "title_ja": "フランチャイズ加盟店が義務付けられた技術をめぐりピザハットに対して訴訟を起こす",
+          "title_zh": "加盟商就必胜客强制性技术提起诉讼"
+        },
+        {
           "title": "Franchisees push their claims in the Fat Brands bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdGNwUy15VlREV3N0Q2I5SGlHQXJxdWFSSkFBRUx3bmo0bmFERzNwZGN3UV8yVURUVlZqODBpOFYwNTVUd0p1c3JzRVVoV3N5a0tmQTBURDdFRW1sWWFqWWlJck5Ba2FOdmhlS1hFUldicWdaT2RKNHNoZzlJaVdhR1RJS1dKVlZqR0piVFR3QU1SdW1ibWlqbW43YVVCYVE?oc=5",
           "desc": "",
           "title_ko": "프랜차이즈 가맹점들은 팻브랜드 파산으로 자신들의 주장을 밀어붙인다.",
           "title_ja": "フランチャイズ加盟店は、ファットブランドの破産で彼らの請求をプッシュします",
           "title_zh": "加盟商在Fat Brands破产案中提出索赔"
-        },
-        {
-          "title": "It's tougher to get a job at Dutch Bros than to get into Harvard",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFJlbzJzc1ZQU3VqNVc4SjlrajhLTnhzWG5mMERaWTRSRkVqb1REZHRPYXRDZlllS0k4bVhIYUFRbm92VGNEN0NGYnNfT05PVmNxZjNsbGZRR05HUTNDaEVQRkJnQVZ1ZlgxX29zWGI3Qjd2S3VjZjJzME52STVRX01jWkJIUm50d3Z4R00xQ19PemM?oc=5",
-          "desc": "",
-          "title_ko": "하버드에 취업하는 것보다 더치브라더스에 취업하는 것이 더 어렵습니다.",
-          "title_ja": "ハーバード大学に入学するよりも、オランダ・ブラザーズで仕事を得る方が難しい",
-          "title_zh": "在荷兰兄弟公司找到一份工作比进入哈佛大学更难"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The 38 Best London Restaurants, According to Eater’s Local Dining Expert",
+          "link": "https://www.eater.com/maps/best-london-restaurants-eater-38",
+          "desc": "The story of the London food scene is one that includes dim sum, Sunday roasts, curries, pizza, sinasir, rarebits, banh mi, udon, pepper pot, sweetbre",
+          "title_ko": "Eater's Local Dining Expert가 선정한 런던 최고의 레스토랑 38곳",
+          "title_ja": "注文者の地元ダイニングエキスパートによる、ロンドンのベストレストラン38選",
+          "title_zh": "顾客当地餐饮专家评选的38家最佳伦敦餐厅"
+        },
+        {
           "title": "How I Got My Job Running Cafes Out of Climbing Gyms",
           "link": "https://www.eater.com/pre-shift/961011/georgies-vital-joeleen-ng-cafe-pre-shift",
           "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
@@ -110,14 +118,6 @@
           "title_ko": "레스토랑이 파란색 시대에 접어들고 있습니다",
           "title_ja": "レストランは青色の期間に入っています",
           "title_zh": "餐厅已进入营业时间段"
-        },
-        {
-          "title": "New York’s Buzziest New Restaurant Is a Pub",
-          "link": "https://www.eater.com/pre-shift/961028/deans-pub-new-york-pre-shift",
-          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "뉴욕에서 가장 북적거리는 새로운 레스토랑은 펍입니다.",
-          "title_ja": "ニューヨークで最も賑やかな新しいレストランはパブ",
-          "title_zh": "纽约最热闹的新餐厅是酒吧"
         }
       ]
     }
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"라면 물 대신 간장 넣는다\"…유학생들 K푸드 취향 '깜짝' [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ETC1NZnpMSkkxRks2SUZXaVhYMTE3NVo4QmJoWDFTMmVlcmJJbEdaMjZ0ZXZnbmN6MkZMMXZITUEtV1k4aFd1U29zZDRMN2JSdDhmeTJmOXI4UdIBVEFVX3lxTE52SHVXVTAtMlliMUxYWG1kUW1fWHNyRzhnUHRjb3ZCRHJINU4wOFVCVnpaR19zS2JKQ0ZYY3UxYU9yTzV3Q3JrT3dITzUxM0k2aDAxbg?oc=5",
-          "desc": "",
-          "title_en": "“If it's ramen, add soy sauce instead of water” … International students' surprise 'for K-food tastes [Trend +]",
-          "title_ja": "「ラーメンなら水の代わりにしょうゆを加える」…留学生はK - foodの味に驚く[トレンド+]",
-          "title_zh": "“如果是拉面，用酱油代替水” ……国际学生对K-food口味的“惊喜” [趋势+]"
-        },
-        {
           "title": "'1049억 재산가' 통영시의원 후보, 거액 자산 내역 살펴보니",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZcWx4WlBWSm1yU3NLUjFqZ0IwZF9STnkxZlNCUVdHb3k0V1phU3RhdVJJMXdINUs5RlhjR3R4Vm9aX0VEaUUzTGZYb2RteVNwb2hWWlEwVno2Z9IBVEFVX3lxTFA5WkZwSWQ3U2ZHRXNuNzVqbzZ1aFVHV0N4OUU3el9DMVNrZEVxcEdTcWNjeDZRVGV2TWo4YnEzZWJ1dTVzX0NlcHdPd0h6VE5QejhBMg?oc=5",
           "desc": "",
           "title_en": "Candidate for Tongyeong Councillor '109.9 billion assets', looking at the history of large assets,",
           "title_ja": "統営評議員「1099億資産」候補、大型資産の歴史を見ると、",
           "title_zh": "统营议员“1099亿资产”的候选人，看大资产的历史，"
+        },
+        {
+          "title": "\"라면 물 대신 간장 넣는다\"…유학생들 K푸드 취향 '깜짝' [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ETC1NZnpMSkkxRks2SUZXaVhYMTE3NVo4QmJoWDFTMmVlcmJJbEdaMjZ0ZXZnbmN6MkZMMXZITUEtV1k4aFd1U29zZDRMN2JSdDhmeTJmOXI4UdIBVEFVX3lxTE52SHVXVTAtMlliMUxYWG1kUW1fWHNyRzhnUHRjb3ZCRHJINU4wOFVCVnpaR19zS2JKQ0ZYY3UxYU9yTzV3Q3JrT3dITzUxM0k2aDAxbg?oc=5",
+          "desc": "",
+          "title_en": "“If it's ramen, add soy sauce instead of water” … International students' surprise 'for K-food tastes [Trend +]",
+          "title_ja": "「ラーメンなら水の代わりにしょうゆを加える」…留学生はK - foodの味に驚く[トレンド+]",
+          "title_zh": "“如果是拉面，用酱油代替水” ……国际学生对K-food口味的“惊喜” [趋势+]"
         },
         {
           "title": "'한국-베트남 K푸드포럼' 20일 열린다",
@@ -174,12 +174,12 @@
           "title_zh": "[回购] “从亚马逊到Costco” ……我去了K-Source Dongwon Home Food Export Advance Base"
         },
         {
-          "title": "[르포] K소스에 반해 주문 폭발…동원홈푸드 충주공장 가동률 101%",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JTnlzX0lrekFGVDR2dlA2NlBHYkw5UVJMNTMzWlBmY3pxc1NLTkZDR2NOUkZSbWw2TTM2N1hHOFNDVFFyZ19FcjRsRDdZV0d0NzFn0gFTQVVfeXFMT0lOeXNfSWt6QUZUNHZ2UDY2UEdiTDlRUkw1MzNaUGZjenFzU0tORkNHY05SRlJtbDZNMzY3WEc4U0NUUXJnX0VyNGxEN1lXR3Q3MWc?oc=5",
+          "title": "윤홍근 BBQ 회장, ‘중견기업CEO대상’ 수상...“K푸드 경쟁력 높일 것”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTVZONjJTRlVpR2YzNTlKOVhrOU1HUzE0WHBuTG1aWFJqX0FTNk1yUWxQODd4dnhSUDFPUVpFSjhVaUNYWHZCVU1OREh2bjBtdkHSAVNBVV95cUxQRnlTTFJqeTJENGd4elphXzRPUlNJOTQ4X3hzRUJyZHZZVl9QeDRGaEpSN2RfR3lyczItejdaSThDRjNPeGVtZ0lsQldwMWEwRGJRaw?oc=5",
           "desc": "",
-          "title_en": "[Repo] Orders Explode Against K-Source… Dongwon Home Food Chungju Plant Utilization Rate 101%",
-          "title_ja": "【レポ】K - Sourceに対して受注爆発… Dongwon Home Food忠州工場稼働率101%",
-          "title_zh": "【回购】针对K-Source的订单激增…东原家居食品忠州工厂利用率101%"
+          "title_en": "Yoon Hong-geun, Chairman of BBQ, won the ‘CEO Grand Prize for Medium-Sized Companies'... “K-Food will increase its competitiveness”",
+          "title_ja": "BBQ会長ユン・ホングン氏が「中規模企業CEO大賞」を受賞…「K - Foodは競争力を高める」",
+          "title_zh": "BBQ董事长Yoon Hong-geun荣获“CEO中型企业大奖” …… “K-Food将提升竞争力”"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "美国全天供应早餐"
         },
         {
-          "title": "몽골서도 통한 더본코리아, 하반기 2호점 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FaGNPQTlmcHpsUTYxS0p3T2VtRGYwcTB0TC03VEZLRVRrdjBWYTlHcXJlenVaOEpTTXpMQjNJMDBDUExZQU95NlB0T2I5VnJ5TURWM25VRQ?oc=5",
+          "title": "불황도 비껴간 일본 반찬 시장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sb01fUjE0dVlrVHMzbmNwb3p5TzVHYVRnZlRDaFJQcHVQSmtqYnFtSG1adTlqZkhtelpaT3NiUFNLUGZqQmFpQ0E4MzNIS3pQclhRZ09YQQ?oc=5",
           "desc": "",
-          "title_en": "Thebon Korea opens its second store in the second half of the year through Mongolia",
-          "title_ja": "Thebon Korea、下半期にモンゴルを経由して2号店をオープン",
-          "title_zh": "Thebon Korea下半年通过蒙古开设第二家门店"
+          "title_en": "Recession-Free Japanese Side Dishes Market",
+          "title_ja": "景気後退のない日本のおかず市場",
+          "title_zh": "无经济衰退的日式配菜市场"
         }
       ]
     }
