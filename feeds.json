@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-05-17T21:55:55Z",
+  "lastUpdated": "2026-05-18T03:46:22Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
-          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
-        },
         {
           "title": "In the burger business, Culver's and Shake Shack are grabbing market share",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUFYME1vV05ZTVA4SXJNTktfeXJndnVkcC1GTkh5LU1zZnR5MGZyM2g3NDA2N2VkQ0h2UVF4NFhvOUtWbFdHMGRhZVdxNVdQSzh3T3l3NFl3NllCcmpCaU9TbXZiM3JQQVc3N3N5bTBWTnRuMFYwQ3NhYTNmSVg1VXpnQ0dvMVRmR21ZOHZkdHdkamJxZGdwblF4QU1acHg5WEVTSTRjRVFoWkVV?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "프랜차이즈 가맹점들은 팻브랜드 파산으로 자신들의 주장을 밀어붙인다.",
           "title_ja": "フランチャイズ加盟店は、ファットブランドの破産で彼らの請求をプッシュします",
           "title_zh": "加盟商在Fat Brands破产案中提出索赔"
+        },
+        {
+          "title": "It's tougher to get a job at Dutch Bros than to get into Harvard",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFJlbzJzc1ZQU3VqNVc4SjlrajhLTnhzWG5mMERaWTRSRkVqb1REZHRPYXRDZlllS0k4bVhIYUFRbm92VGNEN0NGYnNfT05PVmNxZjNsbGZRR05HUTNDaEVQRkJnQVZ1ZlgxX29zWGI3Qjd2S3VjZjJzME52STVRX01jWkJIUm50d3Z4R00xQ19PemM?oc=5",
+          "desc": "",
+          "title_ko": "하버드에 취업하는 것보다 더치브라더스에 취업하는 것이 더 어렵습니다.",
+          "title_ja": "ハーバード大学に入学するよりも、オランダ・ブラザーズで仕事を得る方が難しい",
+          "title_zh": "在荷兰兄弟公司找到一份工作比进入哈佛大学更难"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "[르포] “아마존 이어 코스트코까지”…K소스 동원홈푸드 수출 전진기지 가보니",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CR2xwX1VzVTFoeXVHOFktb3J5ZTgwYTZ3R3Y0bTNmRkRxbnlCak5DbjBPZzhZenJZb24ybG5oSHFlZjJ0a3pyQ081eUh1TXFTS2fSAVNBVV95cUxPUnN6bi16bmhUeDRxVjZhby1VNWk1V2VHRGtoTFlxSEhNTU9SMmZRcVlpS0NnYXpqeDFITGdjM2RRd2FpRnRsMS1Od0hsMTQ1X0FwQQ?oc=5",
+          "desc": "",
+          "title_en": "[Repo] “From Amazon to Costco” … I went to K-Source Dongwon Home Food Export Advance Base",
+          "title_ja": "【リポジトリ】「アマゾンからコストコへ」…ケイソースドンウォンホームフードエクスポートアドバンスベースへ行ってきました",
+          "title_zh": "[回购] “从亚马逊到Costco” ……我去了K-Source Dongwon Home Food Export Advance Base"
+        },
+        {
+          "title": "윤홍근 BBQ 회장, ‘중견기업CEO대상’ 수상...“K푸드 경쟁력 높일 것”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTVZONjJTRlVpR2YzNTlKOVhrOU1HUzE0WHBuTG1aWFJqX0FTNk1yUWxQODd4dnhSUDFPUVpFSjhVaUNYWHZCVU1OREh2bjBtdkHSAVNBVV95cUxQRnlTTFJqeTJENGd4elphXzRPUlNJOTQ4X3hzRUJyZHZZVl9QeDRGaEpSN2RfR3lyczItejdaSThDRjNPeGVtZ0lsQldwMWEwRGJRaw?oc=5",
+          "desc": "",
+          "title_en": "Yoon Hong-geun, Chairman of BBQ, won the ‘CEO Grand Prize for Medium-Sized Companies'... “K-Food will increase its competitiveness”",
+          "title_ja": "BBQ会長ユン・ホングン氏が「中規模企業CEO大賞」を受賞…「K - Foodは競争力を高める」",
+          "title_zh": "BBQ董事长Yoon Hong-geun荣获“CEO中型企业大奖” …… “K-Food将提升竞争力”"
+        },
+        {
           "title": "[르포] K소스에 반해 주문 폭발…동원홈푸드 충주공장 가동률 101%",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JTnlzX0lrekFGVDR2dlA2NlBHYkw5UVJMNTMzWlBmY3pxc1NLTkZDR2NOUkZSbWw2TTM2N1hHOFNDVFFyZ19FcjRsRDdZV0d0NzFn0gFTQVVfeXFMT0lOeXNfSWt6QUZUNHZ2UDY2UEdiTDlRUkw1MzNaUGZjenFzU0tORkNHY05SRlJtbDZNMzY3WEc4U0NUUXJnX0VyNGxEN1lXR3Q3MWc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2VThsd3l4TzZoOTVZUnFXZEFYQkhNSWZOTXlzZ1JXMUxsa1pFY2FjQTZJOGJBaElDNVJETEVqbmVnZGg3YlAxVUtFb25FZkdDOXfSAVNBVV95cUxPSU55c19Ja3pBRlQ0dnZQNjZQR2JMOVFSTDUzM1pQZmN6cXNTS05GQ0djTlJGUm1sNk0zNjdYRzhTQ1RRcmdfRXI0bEQ3WVdHdDcxZw?oc=5",
           "desc": "",
           "title_en": "[Repo] Orders Explode Against K-Source… Dongwon Home Food Chungju Plant Utilization Rate 101%",
           "title_ja": "【レポ】K - Sourceに対して受注爆発… Dongwon Home Food忠州工場稼働率101%",
           "title_zh": "【回购】针对K-Source的订单激增…东原家居食品忠州工厂利用率101%"
-        },
-        {
-          "title": "\"노점 음식 걱정말고 드세요\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Rc29NTlFMVXhZcWhRTXN5STd6Vld3VEtiblEtdk9uYlBuUW9WMGoyT2tyMWdNbXhLaEdPWExOaWZRM3FaZHJYSngzY2RaeVM4RVHSAVNBVV95cUxPWEJmTGtWOFNFdmFqTnFJUUpfdTRwZ0tiQVhHVjNTXzU4RDVtWDJlQ0hGZzBlWGs2Y1BnYTlPTWNIQTMydUhtbGhGTS1ucTRmZEp5WQ?oc=5",
-          "desc": "",
-          "title_en": "\"Don't worry about street food\"",
-          "title_ja": "「ストリートフードを気にする必要はありません」",
-          "title_zh": "“不用担心街头美食”"
-        },
-        {
-          "title": "슬로푸드",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vcUdySWV3bkZ4LUpWeWQ5XzZjNmVMN2RkdElPc0M2dXVYbVpmelpncjJwTWdhcDN2WjFkRW9CRlFuWklUaVJhazctUnI2dHR1RHc?oc=5",
-          "desc": "",
-          "title_en": "Slow Food",
-          "title_ja": "スローフード",
-          "title_zh": "慢食"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "괴산 빨간맛페스티벌서 푸드트럭 30대 운영…특화 먹거리존도",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GOW9EU3VxN096R1JOeDFoVWoySTgzcDE1TGxrbXhsdnpqQ2JFNjNRS2xDTkxSRFVmOVpyUHlvb0M0ZUJqdHBOWGZrd3VlQUFGR3c?oc=5",
+          "desc": "",
+          "title_en": "Operation of 30 food trucks at Goesan Red Flavor Festival… Specialized food zones",
+          "title_ja": "Goesan Red Flavor Festivalでフードトラック30台の運行…専門フードゾーン",
+          "title_zh": "在Goesan Red Flavor Festival…专业食品区运营30辆美食车"
+        },
         {
           "title": "남은 음식 꼼꼼히 보관했는데…플라스틱 용기에 넣어두면 해롭다?",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95X2NXQzdud2dWME1xQnB1aFgzWF85QXkxQ2pIbTRRZEktUDExOTRfSVRub2wyT1IxUUp0WG9EbzZWRHRTdTdlOEdUdm84Zw?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Bacterial enteritis 48% in one month↑… “Water and food should be consumed safely”",
           "title_ja": "1ヶ月で48 ％の細菌性腸炎↑…「水と食べ物は安全に摂取する必要があります」",
           "title_zh": "一个月内48%的细菌性肠炎↑…… “应安全食用水和食物”"
-        },
-        {
-          "title": "웨어 푸드 컴즈 프롬, 1분기 순이익 9만2000달러..전년비 197% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xa2ZtbnlrWG9PQXNadGlmMU1MT3hyT1FIMjk5US1oZGUzeXNsOThEZlV3ZEpheF9BV1NwOXktOGpnMHp4enJ3bG52QUN1bWJ1Q1E?oc=5",
-          "desc": "",
-          "title_en": "Wear Foods Combs Prom, Q1 Net Income of $92,000.. YoY Surge of 197%",
-          "title_ja": "ウェアフーズコームズプロム、第1四半期の純利益は92,000ドル。前年比197 ％の急増",
-          "title_zh": "Wear Foods Combs Prom ，第一季度净收入为92,000美元，同比飙升197%"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "美国全天供应早餐"
         },
         {
-          "title": "비싸도 ‘엑스트라 버진’? 올리브유, 종류별 효능도 다르다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KTUc1NGZWWm1uc2tVaWJJRXpXdGxkUVhEY1BPVUo0R1pVemdaQXdqRGFXdnBiMWFkMWE2cjBDdDB5eUNFNkViVmhzTlp4bEJaeHBXMUNrbw?oc=5",
+          "title": "몽골서도 통한 더본코리아, 하반기 2호점 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FaGNPQTlmcHpsUTYxS0p3T2VtRGYwcTB0TC03VEZLRVRrdjBWYTlHcXJlenVaOEpTTXpMQjNJMDBDUExZQU95NlB0T2I5VnJ5TURWM25VRQ?oc=5",
           "desc": "",
-          "title_en": "Expensive ‘extra virgin’? Olive oil, different efficacy",
-          "title_ja": "高価な「エクストラバージン」？オリーブオイル、異なる効果",
-          "title_zh": "昂贵的“特级初榨” ？橄榄油，不同功效"
+          "title_en": "Thebon Korea opens its second store in the second half of the year through Mongolia",
+          "title_ja": "Thebon Korea、下半期にモンゴルを経由して2号店をオープン",
+          "title_zh": "Thebon Korea下半年通过蒙古开设第二家门店"
         }
       ]
     }
