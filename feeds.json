@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T03:46:22Z",
+  "lastUpdated": "2026-05-18T10:05:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"라면 물 대신 간장 넣는다\"…유학생들 K푸드 취향 '깜짝' [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ETC1NZnpMSkkxRks2SUZXaVhYMTE3NVo4QmJoWDFTMmVlcmJJbEdaMjZ0ZXZnbmN6MkZMMXZITUEtV1k4aFd1U29zZDRMN2JSdDhmeTJmOXI4UdIBVEFVX3lxTE52SHVXVTAtMlliMUxYWG1kUW1fWHNyRzhnUHRjb3ZCRHJINU4wOFVCVnpaR19zS2JKQ0ZYY3UxYU9yTzV3Q3JrT3dITzUxM0k2aDAxbg?oc=5",
+          "desc": "",
+          "title_en": "“If it's ramen, add soy sauce instead of water” … International students' surprise 'for K-food tastes [Trend +]",
+          "title_ja": "「ラーメンなら水の代わりにしょうゆを加える」…留学生はK - foodの味に驚く[トレンド+]",
+          "title_zh": "“如果是拉面，用酱油代替水” ……国际学生对K-food口味的“惊喜” [趋势+]"
+        },
+        {
           "title": "'1049억 재산가' 통영시의원 후보, 거액 자산 내역 살펴보니",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZcWx4WlBWSm1yU3NLUjFqZ0IwZF9STnkxZlNCUVdHb3k0V1phU3RhdVJJMXdINUs5RlhjR3R4Vm9aX0VEaUUzTGZYb2RteVNwb2hWWlEwVno2Z9IBVEFVX3lxTFA5WkZwSWQ3U2ZHRXNuNzVqbzZ1aFVHV0N4OUU3el9DMVNrZEVxcEdTcWNjeDZRVGV2TWo4YnEzZWJ1dTVzX0NlcHdPd0h6VE5QejhBMg?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "统营议员“1099亿资产”的候选人，看大资产的历史，"
         },
         {
-          "title": "\"짝퉁 천국 중국서도 통할까\"…한국 길거리 음식의 '승부수'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2a2lpR19tOXpqWnVxblMzX2lXZ3I1Z0xIUEJSb3dnREM5WVZrZ0xCc05lYUhmcFlEQTUwSWpHRDRPMHVrMmpYVUU0bGNRNzI1R3dEeFdON09mZ9IBVEFVX3lxTE9oVzhITE01c2x6X2dydlo4aWdpRER1akVUbXdqUHFjRVVlNjlhOEdwbDEtS0ZzNEZKZHM5NjAyWWNoQTNWVUFnelNyVUlhLVpjR0VQWA?oc=5",
+          "title": "'한국-베트남 K푸드포럼' 20일 열린다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nWlFjeUV2ZmRXcnE0dGdBcDZPbzRGdnoxRTFIa2pzb3VlYndxNFM2YnoyN2d2bXNMUThuVmJHZDVfSnBfOF9wZ3NpdlE5a2ZmUGNxTmN6eHFCZ9IBVEFVX3lxTE1JT29MUWdHQVg4MDdrYkpjcm9mZG1NOGpOU1dDQ0FRTm1CdnpxNVZJUnIxUXk1SmdnWFNURzlrY1Z0dzFGd3lUTVkwWWw4UEpwaGhpaw?oc=5",
           "desc": "",
-          "title_en": "\"Does fake heaven work in China?\" … 'Winner' of Korean street food",
-          "title_ja": "「偽の天国は中国で機能しますか？」…韓国のストリートフードの「受賞者」",
-          "title_zh": "“假天堂在中国行得通吗？” ……韩国街头美食“冠军”"
-        },
-        {
-          "title": "햄·튀김보다 치명적…성형외과 의사가 경고한 최악의 음식 1위 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QUXNLb2NEZVVKMEx4QkhjenBJX18tRWN3QXRqM2gxeF9GY3ltY1owUUhjWUJHQkl3TEpkZzh5UUNGMU5mQVEybkFsVWlPTVVfR0pqanZ5RXVOQdIBVEFVX3lxTE1zZlBXcVU2aU4zVmNYSWUzZzAzaWdFLWRWQ3RmR1Z1TmVCNjlRcEd1UnVUY3FsY3FKNm5XSm1DMG9uTkpUeFppbjdTWDUxbUc1UElzNg?oc=5",
-          "desc": "",
-          "title_en": "Deadlier than ham and fried… # 1 Worst Food Alerted by Plastic Surgeons [Health! Talk]",
-          "title_ja": "ハムと揚げ物よりも致命的… # 1形成外科医が警告する最悪の食品[Health! Talk]",
-          "title_zh": "比火腿和油炸更致命… # 1整形外科医生警告的最糟糕的食物[健康！谈话]"
+          "title_en": "'Korea-Vietnam K-Food Forum' will be held on the 20th",
+          "title_ja": "「韓国-ベトナムK - Foodフォーラム」が20日に開催されます",
+          "title_zh": "“韩越K-Food论坛”将于20日举行"
         }
       ]
     },
@@ -159,6 +159,14 @@
       "items": [
         {
           "title": "[르포] “아마존 이어 코스트코까지”…K소스 동원홈푸드 수출 전진기지 가보니",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Sc3puLXpuaFR4NHFWNmFvLVU1aTVXZUdEa2hMWXFISE1NT1IyZlFxWWlLQ2dhemp4MUhMZ2MzZFF3YWlGdGwxLU53SGwxNDVfQXBB0gFTQVVfeXFMT1Jzem4tem5oVHg0cVY2YW8tVTVpNVdlR0RraExZcUhITU1PUjJmUXFZaUtDZ2F6angxSExnYzNkUXdhaUZ0bDEtTndIbDE0NV9BcEE?oc=5",
+          "desc": "",
+          "title_en": "[Repo] “From Amazon to Costco” … I went to K-Source Dongwon Home Food Export Advance Base",
+          "title_ja": "【リポジトリ】「アマゾンからコストコへ」…ケイソースドンウォンホームフードエクスポートアドバンスベースへ行ってきました",
+          "title_zh": "[回购] “从亚马逊到Costco” ……我去了K-Source Dongwon Home Food Export Advance Base"
+        },
+        {
+          "title": "[르포] “아마존 이어 코스트코까지”…K소스 동원홈푸드 수출 전진기지 가보니",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CR2xwX1VzVTFoeXVHOFktb3J5ZTgwYTZ3R3Y0bTNmRkRxbnlCak5DbjBPZzhZenJZb24ybG5oSHFlZjJ0a3pyQ081eUh1TXFTS2fSAVNBVV95cUxPUnN6bi16bmhUeDRxVjZhby1VNWk1V2VHRGtoTFlxSEhNTU9SMmZRcVlpS0NnYXpqeDFITGdjM2RRd2FpRnRsMS1Od0hsMTQ1X0FwQQ?oc=5",
           "desc": "",
           "title_en": "[Repo] “From Amazon to Costco” … I went to K-Source Dongwon Home Food Export Advance Base",
@@ -166,16 +174,8 @@
           "title_zh": "[回购] “从亚马逊到Costco” ……我去了K-Source Dongwon Home Food Export Advance Base"
         },
         {
-          "title": "윤홍근 BBQ 회장, ‘중견기업CEO대상’ 수상...“K푸드 경쟁력 높일 것”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTVZONjJTRlVpR2YzNTlKOVhrOU1HUzE0WHBuTG1aWFJqX0FTNk1yUWxQODd4dnhSUDFPUVpFSjhVaUNYWHZCVU1OREh2bjBtdkHSAVNBVV95cUxQRnlTTFJqeTJENGd4elphXzRPUlNJOTQ4X3hzRUJyZHZZVl9QeDRGaEpSN2RfR3lyczItejdaSThDRjNPeGVtZ0lsQldwMWEwRGJRaw?oc=5",
-          "desc": "",
-          "title_en": "Yoon Hong-geun, Chairman of BBQ, won the ‘CEO Grand Prize for Medium-Sized Companies'... “K-Food will increase its competitiveness”",
-          "title_ja": "BBQ会長ユン・ホングン氏が「中規模企業CEO大賞」を受賞…「K - Foodは競争力を高める」",
-          "title_zh": "BBQ董事长Yoon Hong-geun荣获“CEO中型企业大奖” …… “K-Food将提升竞争力”"
-        },
-        {
           "title": "[르포] K소스에 반해 주문 폭발…동원홈푸드 충주공장 가동률 101%",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2VThsd3l4TzZoOTVZUnFXZEFYQkhNSWZOTXlzZ1JXMUxsa1pFY2FjQTZJOGJBaElDNVJETEVqbmVnZGg3YlAxVUtFb25FZkdDOXfSAVNBVV95cUxPSU55c19Ja3pBRlQ0dnZQNjZQR2JMOVFSTDUzM1pQZmN6cXNTS05GQ0djTlJGUm1sNk0zNjdYRzhTQ1RRcmdfRXI0bEQ3WVdHdDcxZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JTnlzX0lrekFGVDR2dlA2NlBHYkw5UVJMNTMzWlBmY3pxc1NLTkZDR2NOUkZSbWw2TTM2N1hHOFNDVFFyZ19FcjRsRDdZV0d0NzFn0gFTQVVfeXFMT0lOeXNfSWt6QUZUNHZ2UDY2UEdiTDlRUkw1MzNaUGZjenFzU0tORkNHY05SRlJtbDZNMzY3WEc4U0NUUXJnX0VyNGxEN1lXR3Q3MWc?oc=5",
           "desc": "",
           "title_en": "[Repo] Orders Explode Against K-Source… Dongwon Home Food Chungju Plant Utilization Rate 101%",
           "title_ja": "【レポ】K - Sourceに対して受注爆発… Dongwon Home Food忠州工場稼働率101%",
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "포항시, 푸드테크 기업 육성 청신호…정부 공모에 선정",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QZV95RFUzc3E1V3lwWlVURHRCaDE0aDBVMGx0aVhBQTdNYVdrMmlqZWRUNXNHOWdDMlV3aWFMdGlJa1hkcWUxVW05d010bkllUUE?oc=5",
+          "desc": "",
+          "title_en": "Pohang City, Cheong Shin-ho to cultivate food tech companies… Selected for government competition",
+          "title_ja": "浦項市、Cheong Shin - hoが食品技術企業を育成…政府競争に選出",
+          "title_zh": "浦项市、清新和培育食品科技公司…入选政府竞赛"
+        },
         {
           "title": "괴산 빨간맛페스티벌서 푸드트럭 30대 운영…특화 먹거리존도",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GOW9EU3VxN096R1JOeDFoVWoySTgzcDE1TGxrbXhsdnpqQ2JFNjNRS2xDTkxSRFVmOVpyUHlvb0M0ZUJqdHBOWGZrd3VlQUFGR3c?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "I kept the rest of the food carefully... Is it harmful if I put it in a plastic container?",
           "title_ja": "残りの食べ物は慎重に保管しました…プラスチック容器に入れると害がありますか？",
           "title_zh": "我小心翼翼地保存了剩下的食物……把它放在塑料容器里有害吗？"
-        },
-        {
-          "title": "세균성 장염 한 달새 48%↑…\"물·음식 안전하게 섭취해야\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oVTJEemUtUnZjNVNCWVdUR2FBa0Y4U00xazJldFJpNXVmRy1jMUpWSGIycDlTTjd6M0ZJUk1JZlllUml5QTdhdEFrNUZDOERta3c?oc=5",
-          "desc": "",
-          "title_en": "Bacterial enteritis 48% in one month↑… “Water and food should be consumed safely”",
-          "title_ja": "1ヶ月で48 ％の細菌性腸炎↑…「水と食べ物は安全に摂取する必要があります」",
-          "title_zh": "一个月内48%的细菌性肠炎↑…… “应安全食用水和食物”"
         }
       ]
     },
