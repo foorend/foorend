@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-05-18T15:34:17Z",
+  "lastUpdated": "2026-05-18T19:45:11Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "In the burger business, Culver's and Shake Shack are grabbing market share",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUFYME1vV05ZTVA4SXJNTktfeXJndnVkcC1GTkh5LU1zZnR5MGZyM2g3NDA2N2VkQ0h2UVF4NFhvOUtWbFdHMGRhZVdxNVdQSzh3T3l3NFl3NllCcmpCaU9TbXZiM3JQQVc3N3N5bTBWTnRuMFYwQ3NhYTNmSVg1VXpnQ0dvMVRmR21ZOHZkdHdkamJxZGdwblF4QU1acHg5WEVTSTRjRVFoWkVV?oc=5",
-          "desc": "",
-          "title_ko": "햄버거 사업에서 Culver 's와 Shake Shack은 시장 점유율을 점유하고 있습니다.",
-          "title_ja": "ハンバーガー事業では、Culver'sとShake Shackが市場シェアを獲得しています",
-          "title_zh": "在汉堡业务中， Culver's和Shake Shack正在抢占市场份额"
-        },
         {
           "title": "Franchisee files lawsuit against Pizza Hut over mandatory tech",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclc2anB4bkticTVaa09TSjNfRG5FNE8xMlVxLXB4dFo4eXphVVR0VWxmV1cwSC1aUDd6NnB6MTVuTmVNY1BhMnBDYU5RWmNFajZQQmZsb29HTEtTNENXZmxwc1p6clo1Zkx0Vk9LVVg4SzBybjdab3ZEU0xUWEdOaThBMnhmNHZSb1diTV9nVGxNUmQ2RjNQSXJUeDJfUXoySlhMbDJENFg3dE5Pb0Fv?oc=5",
@@ -22,12 +14,20 @@
           "title_zh": "加盟商就必胜客强制性技术提起诉讼"
         },
         {
-          "title": "Franchisees push their claims in the Fat Brands bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdGNwUy15VlREV3N0Q2I5SGlHQXJxdWFSSkFBRUx3bmo0bmFERzNwZGN3UV8yVURUVlZqODBpOFYwNTVUd0p1c3JzRVVoV3N5a0tmQTBURDdFRW1sWWFqWWlJck5Ba2FOdmhlS1hFUldicWdaT2RKNHNoZzlJaVdhR1RJS1dKVlZqR0piVFR3QU1SdW1ibWlqbW43YVVCYVE?oc=5",
+          "title": "In the burger business, Culver's and Shake Shack are grabbing market share",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUFYME1vV05ZTVA4SXJNTktfeXJndnVkcC1GTkh5LU1zZnR5MGZyM2g3NDA2N2VkQ0h2UVF4NFhvOUtWbFdHMGRhZVdxNVdQSzh3T3l3NFl3NllCcmpCaU9TbXZiM3JQQVc3N3N5bTBWTnRuMFYwQ3NhYTNmSVg1VXpnQ0dvMVRmR21ZOHZkdHdkamJxZGdwblF4QU1acHg5WEVTSTRjRVFoWkVV?oc=5",
           "desc": "",
-          "title_ko": "프랜차이즈 가맹점들은 팻브랜드 파산으로 자신들의 주장을 밀어붙인다.",
-          "title_ja": "フランチャイズ加盟店は、ファットブランドの破産で彼らの請求をプッシュします",
-          "title_zh": "加盟商在Fat Brands破产案中提出索赔"
+          "title_ko": "햄버거 사업에서 Culver 's와 Shake Shack은 시장 점유율을 점유하고 있습니다.",
+          "title_ja": "ハンバーガー事業では、Culver'sとShake Shackが市場シェアを獲得しています",
+          "title_zh": "在汉堡业务中， Culver's和Shake Shack正在抢占市场份额"
+        },
+        {
+          "title": "It's tougher to get a job at Dutch Bros than to get into Harvard",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFJlbzJzc1ZQU3VqNVc4SjlrajhLTnhzWG5mMERaWTRSRkVqb1REZHRPYXRDZlllS0k4bVhIYUFRbm92VGNEN0NGYnNfT05PVmNxZjNsbGZRR05HUTNDaEVQRkJnQVZ1ZlgxX29zWGI3Qjd2S3VjZjJzME52STVRX01jWkJIUm50d3Z4R00xQ19PemM?oc=5",
+          "desc": "",
+          "title_ko": "하버드에 취업하는 것보다 더치브라더스에 취업하는 것이 더 어렵습니다.",
+          "title_ja": "ハーバード大学に入学するよりも、オランダ・ブラザーズで仕事を得る方が難しい",
+          "title_zh": "在荷兰兄弟公司找到一份工作比进入哈佛大学更难"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "A New Ode to British Pubs Takes NYC By Storm",
+          "link": "https://www.eater.com/video/962739/deans-british-pub-nyc-restaurant-opening-now-open",
+          "desc": "A decade after opening beloved Soho bistro King, chef and owner Jess Shadbolt and co-owner Annie Shi just opened a classic British pub right next door",
+          "title_ko": "브리티시 펍에 대한 새로운 찬사가 뉴욕을 강타하다",
+          "title_ja": "ブリティッシュパブへの新しい賛歌がNYCを嵐に巻き込む",
+          "title_zh": "英国酒吧的新颂歌风靡纽约"
+        },
+        {
           "title": "The 38 Best London Restaurants, According to Eater’s Local Dining Expert",
           "link": "https://www.eater.com/maps/best-london-restaurants-eater-38",
           "desc": "The story of the London food scene is one that includes dim sum, Sunday roasts, curries, pizza, sinasir, rarebits, banh mi, udon, pepper pot, sweetbre",
@@ -110,14 +118,6 @@
           "title_ko": "클라이밍 헬스장에서 카페를 운영하는 직업을 갖게 된 계기",
           "title_ja": "クライミングジムから逃れてカフェを経営する仕事に就いたきっかけ",
           "title_zh": "我如何从攀岩健身房找到经营咖啡馆的工作"
-        },
-        {
-          "title": "Restaurants Are in Their Blue Period",
-          "link": "https://www.eater.com/food-culture/961654/bright-blue-yves-klein-restaurants-trend",
-          "desc": "Amid a stretch of red-brick buildings, the Brooklyn restaurant Margot, right at the corner on a busy intersection, stands out. It’s blue: very blue, i",
-          "title_ko": "레스토랑이 파란색 시대에 접어들고 있습니다",
-          "title_ja": "レストランは青色の期間に入っています",
-          "title_zh": "餐厅已进入营业时间段"
         }
       ]
     }
@@ -136,12 +136,12 @@
           "title_zh": "统营议员“1099亿资产”的候选人，看大资产的历史，"
         },
         {
-          "title": "\"라면 물 대신 간장 넣는다\"…유학생들 K푸드 취향 '깜짝' [트렌드+]",
+          "title": "라면에 물 대신 '이것' 넣는다…외국인 K푸드 취향에 '화들짝' [트렌드+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ETC1NZnpMSkkxRks2SUZXaVhYMTE3NVo4QmJoWDFTMmVlcmJJbEdaMjZ0ZXZnbmN6MkZMMXZITUEtV1k4aFd1U29zZDRMN2JSdDhmeTJmOXI4UdIBVEFVX3lxTE52SHVXVTAtMlliMUxYWG1kUW1fWHNyRzhnUHRjb3ZCRHJINU4wOFVCVnpaR19zS2JKQ0ZYY3UxYU9yTzV3Q3JrT3dITzUxM0k2aDAxbg?oc=5",
           "desc": "",
-          "title_en": "“If it's ramen, add soy sauce instead of water” … International students' surprise 'for K-food tastes [Trend +]",
-          "title_ja": "「ラーメンなら水の代わりにしょうゆを加える」…留学生はK - foodの味に驚く[トレンド+]",
-          "title_zh": "“如果是拉面，用酱油代替水” ……国际学生对K-food口味的“惊喜” [趋势+]"
+          "title_en": "Add 'this' instead of water to the ramen... 'this' to the taste of foreign K-foods [Trend +]",
+          "title_ja": "ラーメンに水の代わりに「これ」を加える…外国のKフードの味に「これ」を加える[トレンド+]",
+          "title_zh": "在拉面中添加“this”而不是水…… “this”来品尝外国K-foods的味道[趋势+]"
         },
         {
           "title": "'한국-베트남 K푸드포럼' 20일 열린다",
@@ -234,12 +234,12 @@
           "title_zh": "美国全天供应早餐"
         },
         {
-          "title": "불황도 비껴간 일본 반찬 시장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sb01fUjE0dVlrVHMzbmNwb3p5TzVHYVRnZlRDaFJQcHVQSmtqYnFtSG1adTlqZkhtelpaT3NiUFNLUGZqQmFpQ0E4MzNIS3pQclhRZ09YQQ?oc=5",
+          "title": "몽골서도 통한 더본코리아, 하반기 2호점 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FaGNPQTlmcHpsUTYxS0p3T2VtRGYwcTB0TC03VEZLRVRrdjBWYTlHcXJlenVaOEpTTXpMQjNJMDBDUExZQU95NlB0T2I5VnJ5TURWM25VRQ?oc=5",
           "desc": "",
-          "title_en": "Recession-Free Japanese Side Dishes Market",
-          "title_ja": "景気後退のない日本のおかず市場",
-          "title_zh": "无经济衰退的日式配菜市场"
+          "title_en": "Thebon Korea opens its second store in the second half of the year through Mongolia",
+          "title_ja": "Thebon Korea、下半期にモンゴルを経由して2号店をオープン",
+          "title_zh": "Thebon Korea下半年通过蒙古开设第二家门店"
         }
       ]
     }
