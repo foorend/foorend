@@ -1,10 +1,26 @@
 {
-  "lastUpdated": "2026-05-19T09:45:24Z",
+  "lastUpdated": "2026-05-19T15:24:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "President Trump takes a stake in Kura Sushi",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGtGUzR1Y203R1lhbEFGWi1TWHpLUVpnQmlGQkpvU0Z1bko1am1sVEVSeHpWeFctYXNGNjhTVFFlczN3LV9OZ28tcDhoSTNCSUwzeVRISzVjOHJ3Yi1aendfLTVfUElDclNiT1BJcnRiMXpxcWlrNzFLOVlPRXAzYWMyYVVXZl9MS1ZUdHVR?oc=5",
+          "desc": "",
+          "title_ko": "트럼프 대통령은 쿠라 스시에 지분을 가져간다.",
+          "title_ja": "トランプ大統領が蔵寿司に出資",
+          "title_zh": "特朗普总统收购Kura Sushi"
+        },
+        {
+          "title": "Fat Brands reaches a deal with lenders and creditors, paving the way for a sale",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTB6MmRwVFoyR3ZKVEhOWWxoV0l1SkM2R3dyOWF0bDJLSk9kalJlMXM0WmFGQmk2YkRFemdzVWdES0lYR3BERC0yd2hZa1Z3NFRLNC1PeVk2emkwanBtRFFrckdIN2xTek9kSE1ZWi1fbm9QMUFFV3ItbHJ0SGdfelBEczNHX21oRDI4VkVCeVk5a0hIcnBLVHJCTnhUWW8zNkVhMkdSMA?oc=5",
+          "desc": "",
+          "title_ko": "FAT 브랜드는 대출 기관 및 채권자와 거래하여 판매의 길을 열었습니다.",
+          "title_ja": "Fat Brandsは貸し手と債権者との取引に達し、販売の道を開く",
+          "title_zh": "Fat Brands与贷款人和债权人达成协议，为出售铺平道路"
+        },
         {
           "title": "Franchisee files lawsuit against Pizza Hut over mandatory tech",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclc2anB4bkticTVaa09TSjNfRG5FNE8xMlVxLXB4dFo4eXphVVR0VWxmV1cwSC1aUDd6NnB6MTVuTmVNY1BhMnBDYU5RWmNFajZQQmZsb29HTEtTNENXZmxwc1p6clo1Zkx0Vk9LVVg4SzBybjdab3ZEU0xUWEdOaThBMnhmNHZSb1diTV9nVGxNUmQ2RjNQSXJUeDJfUXoySlhMbDJENFg3dE5Pb0Fv?oc=5",
@@ -12,22 +28,6 @@
           "title_ko": "프랜차이즈 가맹점, 피자헛을 상대로 필수 기술에 대한 소송 제기",
           "title_ja": "フランチャイズ加盟店が義務付けられた技術をめぐりピザハットに対して訴訟を起こす",
           "title_zh": "加盟商就必胜客强制性技术提起诉讼"
-        },
-        {
-          "title": "In the burger business, Culver's and Shake Shack are grabbing market share",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUFYME1vV05ZTVA4SXJNTktfeXJndnVkcC1GTkh5LU1zZnR5MGZyM2g3NDA2N2VkQ0h2UVF4NFhvOUtWbFdHMGRhZVdxNVdQSzh3T3l3NFl3NllCcmpCaU9TbXZiM3JQQVc3N3N5bTBWTnRuMFYwQ3NhYTNmSVg1VXpnQ0dvMVRmR21ZOHZkdHdkamJxZGdwblF4QU1acHg5WEVTSTRjRVFoWkVV?oc=5",
-          "desc": "",
-          "title_ko": "햄버거 사업에서 Culver 's와 Shake Shack은 시장 점유율을 점유하고 있습니다.",
-          "title_ja": "ハンバーガー事業では、Culver'sとShake Shackが市場シェアを獲得しています",
-          "title_zh": "在汉堡业务中， Culver's和Shake Shack正在抢占市场份额"
-        },
-        {
-          "title": "Franchisees push their claims in the Fat Brands bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdGNwUy15VlREV3N0Q2I5SGlHQXJxdWFSSkFBRUx3bmo0bmFERzNwZGN3UV8yVURUVlZqODBpOFYwNTVUd0p1c3JzRVVoV3N5a0tmQTBURDdFRW1sWWFqWWlJck5Ba2FOdmhlS1hFUldicWdaT2RKNHNoZzlJaVdhR1RJS1dKVlZqR0piVFR3QU1SdW1ibWlqbW43YVVCYVE?oc=5",
-          "desc": "",
-          "title_ko": "프랜차이즈 가맹점들은 팻브랜드 파산으로 자신들의 주장을 밀어붙인다.",
-          "title_ja": "フランチャイズ加盟店は、ファットブランドの破産で彼らの請求をプッシュします",
-          "title_zh": "加盟商在Fat Brands破产案中提出索赔"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "森林福利局，下月29日前举办森林疗愈美食大赛"
         },
         {
+          "title": "정상회담 만찬상 오른 안동 음식…찜닭골목에 다시 활기 돌았다(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CbTNucGp5WTlTZ3NqT3cxNzNpTDVZcG5rTDl2WG5GY3luQXJPNktLdjFYblBrdHo0S0NNcDFSODdyR2NZZmhjNjI4S3FtMnhVTVE?oc=5",
+          "desc": "",
+          "title_en": "The Andong food after the summit dinner… I was lively again in Steaming Chicken Alley (General)",
+          "title_ja": "サミットディナー後のアンドン料理…スチームチキン路地でまた元気に過ごしました（全般）",
+          "title_zh": "峰会晚餐后的安东美食……我在蒸鸡巷（一般）再次热闹起来"
+        },
+        {
           "title": "포항시, 푸드테크 기업 육성 청신호…정부 공모에 선정",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QZV95RFUzc3E1V3lwWlVURHRCaDE0aDBVMGx0aVhBQTdNYVdrMmlqZWRUNXNHOWdDMlV3aWFMdGlJa1hkcWUxVW05d010bkllUUE?oc=5",
           "desc": "",
           "title_en": "Pohang City, Cheong Shin-ho to cultivate food tech companies… Selected for government competition",
           "title_ja": "浦項市、Cheong Shin - hoが食品技術企業を育成…政府競争に選出",
           "title_zh": "浦项市、清新和培育食品科技公司…入选政府竞赛"
-        },
-        {
-          "title": "괴산 빨간맛페스티벌서 푸드트럭 30대 운영…특화 먹거리존도",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GOW9EU3VxN096R1JOeDFoVWoySTgzcDE1TGxrbXhsdnpqQ2JFNjNRS2xDTkxSRFVmOVpyUHlvb0M0ZUJqdHBOWGZrd3VlQUFGR3c?oc=5",
-          "desc": "",
-          "title_en": "Operation of 30 food trucks at Goesan Red Flavor Festival… Specialized food zones",
-          "title_ja": "Goesan Red Flavor Festivalでフードトラック30台の運行…専門フードゾーン",
-          "title_zh": "在Goesan Red Flavor Festival…专业食品区运营30辆美食车"
         }
       ]
     },
