@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T15:24:34Z",
+  "lastUpdated": "2026-05-19T19:52:58Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Introducing “In the Booth with Babish,” a New Podcast From Andrew Rea, Eater, and Vox Media",
+          "link": "https://www.eater.com/press-room/962747/andrew-rea-babish-in-the-booth-with-babish-podcast",
+          "desc": "Andrew Rea, also known as “Babish,” will be joining the Vox Media Podcast Network with In the Booth with Babish, a new podcast series in collaboration",
+          "title_ko": "Andrew Rea, Eater, Vox Media의 새로운 팟캐스트 \"In the Booth with Babish\" 소개",
+          "title_ja": "Andrew Rea、Eater、Vox Mediaによる新しいポッドキャスト「In the Booth with Babish」のご紹介",
+          "title_zh": "推出Andrew Rea、Eater和Vox Media的新播客“In the Booth with Babish”"
+        },
+        {
           "title": "A New Ode to British Pubs Takes NYC By Storm",
           "link": "https://www.eater.com/video/962739/deans-british-pub-nyc-restaurant-opening-now-open",
           "desc": "A decade after opening beloved Soho bistro King, chef and owner Jess Shadbolt and co-owner Annie Shi just opened a classic British pub right next door",
@@ -110,14 +118,6 @@
           "title_ko": "Eater's Local Dining Expert가 선정한 런던 최고의 레스토랑 38곳",
           "title_ja": "注文者の地元ダイニングエキスパートによる、ロンドンのベストレストラン38選",
           "title_zh": "顾客当地餐饮专家评选的38家最佳伦敦餐厅"
-        },
-        {
-          "title": "How I Got My Job Running Cafes Out of Climbing Gyms",
-          "link": "https://www.eater.com/pre-shift/961011/georgies-vital-joeleen-ng-cafe-pre-shift",
-          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "클라이밍 헬스장에서 카페를 운영하는 직업을 갖게 된 계기",
-          "title_ja": "クライミングジムから逃れてカフェを経営する仕事に就いたきっかけ",
-          "title_zh": "我如何从攀岩健身房找到经营咖啡馆的工作"
         }
       ]
     }
@@ -166,20 +166,20 @@
           "title_zh": "全南生物促进会以实践为中心，培养“青春蓝色食品科技”的创业能力"
         },
         {
-          "title": "[르포] “아마존 이어 코스트코까지”…K소스 동원홈푸드 수출 전진기지 가보니",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CR2xwX1VzVTFoeXVHOFktb3J5ZTgwYTZ3R3Y0bTNmRkRxbnlCak5DbjBPZzhZenJZb24ybG5oSHFlZjJ0a3pyQ081eUh1TXFTS2fSAVNBVV95cUxPUnN6bi16bmhUeDRxVjZhby1VNWk1V2VHRGtoTFlxSEhNTU9SMmZRcVlpS0NnYXpqeDFITGdjM2RRd2FpRnRsMS1Od0hsMTQ1X0FwQQ?oc=5",
+          "title": "전통주·혼례음식 강좌",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwZWs2NjZzX3YwaDFYR3FCR3VXTGJQd0tPeWt4OHNad0Q3c0lpOVhrZFhpRE1iT1FBb2FXWTBIWTJFWHZMY3N6YWhrQnJPQUNVUHc?oc=5",
           "desc": "",
-          "title_en": "[Repo] “From Amazon to Costco” … I went to K-Source Dongwon Home Food Export Advance Base",
-          "title_ja": "【リポジトリ】「アマゾンからコストコへ」…ケイソースドンウォンホームフードエクスポートアドバンスベースへ行ってきました",
-          "title_zh": "[回购] “从亚马逊到Costco” ……我去了K-Source Dongwon Home Food Export Advance Base"
+          "title_en": "Traditional liquor and wedding food classes",
+          "title_ja": "伝統的なお酒とウェディングフード教室",
+          "title_zh": "传统酒类和婚礼美食课"
         },
         {
-          "title": "윤홍근 BBQ 회장, ‘중견기업CEO대상’ 수상...“K푸드 경쟁력 높일 것”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTVZONjJTRlVpR2YzNTlKOVhrOU1HUzE0WHBuTG1aWFJqX0FTNk1yUWxQODd4dnhSUDFPUVpFSjhVaUNYWHZCVU1OREh2bjBtdkHSAVNBVV95cUxQRnlTTFJqeTJENGd4elphXzRPUlNJOTQ4X3hzRUJyZHZZVl9QeDRGaEpSN2RfR3lyczItejdaSThDRjNPeGVtZ0lsQldwMWEwRGJRaw?oc=5",
+          "title": "CJ씨푸드, 3.14% 오르며 체결강도 강세 지속(116%)",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KS3hmMEdiQ3JGaDVDQWJ3VnlkYUFtbnM2dW9jTDNvSVh2VzR6UFRqM1VGYlpNMEZFQ1RBUHJFY3o4SkxVekhVMk9jRkNGYVNMd1E?oc=5",
           "desc": "",
-          "title_en": "Yoon Hong-geun, Chairman of BBQ, won the ‘CEO Grand Prize for Medium-Sized Companies'... “K-Food will increase its competitiveness”",
-          "title_ja": "BBQ会長ユン・ホングン氏が「中規模企業CEO大賞」を受賞…「K - Foodは競争力を高める」",
-          "title_zh": "BBQ董事长Yoon Hong-geun荣获“CEO中型企业大奖” …… “K-Food将提升竞争力”"
+          "title_en": "CJ Seafood continues its strong clamping strength with a 3.14% rise (116%)",
+          "title_ja": "CJシーフードは、3.14 ％ （ 116 ％ ）の上昇で強力なクランプ強度を維持しています",
+          "title_zh": "CJ Seafood继续保持其强大的夹紧力，增长了3.14% （ 116% ）"
         }
       ]
     },
