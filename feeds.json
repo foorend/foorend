@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T09:35:10Z",
+  "lastUpdated": "2026-05-20T15:22:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Fat Brands与贷款人和债权人达成协议，为出售铺平道路"
         },
         {
-          "title": "Franchisees push their claims in the Fat Brands bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdGNwUy15VlREV3N0Q2I5SGlHQXJxdWFSSkFBRUx3bmo0bmFERzNwZGN3UV8yVURUVlZqODBpOFYwNTVUd0p1c3JzRVVoV3N5a0tmQTBURDdFRW1sWWFqWWlJck5Ba2FOdmhlS1hFUldicWdaT2RKNHNoZzlJaVdhR1RJS1dKVlZqR0piVFR3QU1SdW1ibWlqbW43YVVCYVE?oc=5",
+          "title": "Franchisee files lawsuit against Pizza Hut over mandatory tech",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclc2anB4bkticTVaa09TSjNfRG5FNE8xMlVxLXB4dFo4eXphVVR0VWxmV1cwSC1aUDd6NnB6MTVuTmVNY1BhMnBDYU5RWmNFajZQQmZsb29HTEtTNENXZmxwc1p6clo1Zkx0Vk9LVVg4SzBybjdab3ZEU0xUWEdOaThBMnhmNHZSb1diTV9nVGxNUmQ2RjNQSXJUeDJfUXoySlhMbDJENFg3dE5Pb0Fv?oc=5",
           "desc": "",
-          "title_ko": "프랜차이즈 가맹점들은 팻브랜드 파산으로 자신들의 주장을 밀어붙인다.",
-          "title_ja": "フランチャイズ加盟店は、ファットブランドの破産で彼らの請求をプッシュします",
-          "title_zh": "加盟商在Fat Brands破产案中提出索赔"
+          "title_ko": "프랜차이즈 가맹점, 피자헛을 상대로 필수 기술에 대한 소송 제기",
+          "title_ja": "フランチャイズ加盟店が義務付けられた技術をめぐりピザハットに対して訴訟を起こす",
+          "title_zh": "加盟商就必胜客强制性技术提起诉讼"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "How a Sliding-Scale, Worker-Owned Sandwich Shop Makes It Work",
+          "link": "https://www.eater.com/pre-shift/962846/sea-soil-coop-sandwiches-sliding-scale-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "작업자 소유의 슬라이딩 스케일 샌드위치 가게가 작동하는 방법",
+          "title_ja": "労働者が所有するスライドスケールのサンドイッチ店がどのように機能するか",
+          "title_zh": "工人经营的滑动式三明治店是如何运作的"
+        },
+        {
           "title": "Introducing “In the Booth with Babish,” a New Podcast From Andrew Rea, Eater, and Vox Media",
           "link": "https://www.eater.com/press-room/962747/andrew-rea-babish-in-the-booth-with-babish-podcast",
           "desc": "Andrew Rea, also known as “Babish,” will be joining the Vox Media Podcast Network with In the Booth with Babish, a new podcast series in collaboration",
@@ -110,14 +118,6 @@
           "title_ko": "브리티시 펍에 대한 새로운 찬사가 뉴욕을 강타하다",
           "title_ja": "ブリティッシュパブへの新しい賛歌がNYCを嵐に巻き込む",
           "title_zh": "英国酒吧的新颂歌风靡纽约"
-        },
-        {
-          "title": "The 38 Best London Restaurants, According to Eater’s Local Dining Expert",
-          "link": "https://www.eater.com/maps/best-london-restaurants-eater-38",
-          "desc": "The story of the London food scene is one that includes dim sum, Sunday roasts, curries, pizza, sinasir, rarebits, banh mi, udon, pepper pot, sweetbre",
-          "title_ko": "Eater's Local Dining Expert가 선정한 런던 최고의 레스토랑 38곳",
-          "title_ja": "注文者の地元ダイニングエキスパートによる、ロンドンのベストレストラン38選",
-          "title_zh": "顾客当地餐饮专家评选的38家最佳伦敦餐厅"
         }
       ]
     }
@@ -159,19 +159,11 @@
       "items": [
         {
           "title": "“한식 세계에 알리려면 단순 음식 넘어 韓문화 함께 전해야” [이사람]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsdnRqcnlncU9aRVNuZTNFd1dRQnAtdnFUcFNSLXhtS29xREg1SFBkTERnd21NUVlKZDlRUVJWWGtRRVNiWXZYM2FWOFEtZVRvRXc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41bUZDZTJMUjJFSHhmZFltVVN1N2hwN0V6VllNT3R2RlZyWDJLRi1yOFNHMVJFdXJwUE94Z0wwdGNaWjh4akFNVlY5YTRNRk5ZZjlj0gFTQVVfeXFMTjVtRkNlMkxSMkVIeGZkWW1VU3U3aHA3RXpWWU1PdHZGVnJYMktGLXI4U0cxUkV1cnBQT3hnTDB0Y1paOHhqQU1WVjlhNE1GTllmOWM?oc=5",
           "desc": "",
           "title_en": "“If you want to tell the Korean food world, you have to preach the Korean culture together beyond simple food” [This person]",
           "title_ja": "「韓国料理の世界に伝えたいのであれば、単純な食べ物を超えて韓国文化を一緒に説教しなければなりません」【この人】",
           "title_zh": "「如果你想告诉韩国美食世界，除了简单的美食之外，你必须一起宣传韩国文化」【这个人】"
-        },
-        {
-          "title": "“온 우주의 생명 담은 사찰음식…내 몸 맞는 식재료가 진짜 약이죠” [이사람]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40cWt6YUxTUzRtOV9lWFdRakxhNnlTWF9JZXR4OHo3Q1RxNXBVQXQ3OGp4eXNfZDdMNnRXX2wxZzVlTHlMbUcwZGdBNVZLY0s3dUHSAVNBVV95cUxQTHp0b2pnOXQ3UmRxTzZuS1kzdkJ1eFUxWm00YU9PWi1iY1M3Z2hMYVYwQkhKVFQ5VUJFOGVtc21rSmtsWTJIYVRHZU1EVVY1UVljUQ?oc=5",
-          "desc": "",
-          "title_en": "“The temple food that contains the life of the whole universe… The ingredients that fit my body are real medicine” [This person]",
-          "title_ja": "「全宇宙の命を宿す寺の食べ物……私の体に合う成分は本物の薬」【この人】",
-          "title_zh": "“包含整个宇宙生命的寺庙食物……适合我身体的成分是真正的药品”【这个人】"
         },
         {
           "title": "홍콩 미쉐린 식당서 K-푸드 정식 메뉴로…식재료 수출도 박차",
@@ -180,6 +172,14 @@
           "title_en": "With the K-Food set menu at the Hong Kong Michelin Restaurant, the export of ingredients is also spurred.",
           "title_ja": "香港ミシュランレストランのK - Foodセットメニューでは、食材の輸出も促進されています。",
           "title_zh": "香港米其林餐厅的K-Food套餐也刺激了食材的出口。"
+        },
+        {
+          "title": "“온 우주의 생명 담은 사찰음식…내 몸 맞는 식재료가 진짜 약이죠” [이사람]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40cWt6YUxTUzRtOV9lWFdRakxhNnlTWF9JZXR4OHo3Q1RxNXBVQXQ3OGp4eXNfZDdMNnRXX2wxZzVlTHlMbUcwZGdBNVZLY0s3dUHSAVNBVV95cUxQTHp0b2pnOXQ3UmRxTzZuS1kzdkJ1eFUxWm00YU9PWi1iY1M3Z2hMYVYwQkhKVFQ5VUJFOGVtc21rSmtsWTJIYVRHZU1EVVY1UVljUQ?oc=5",
+          "desc": "",
+          "title_en": "“The temple food that contains the life of the whole universe… The ingredients that fit my body are real medicine” [This person]",
+          "title_ja": "「全宇宙の命を宿す寺の食べ物……私の体に合う成分は本物の薬」【この人】",
+          "title_zh": "“包含整个宇宙生命的寺庙食物……适合我身体的成分是真正的药品”【这个人】"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "[속초소식] 실향민문화축제 다음 달 개최…음식 부스 모집",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BR2pGRktDWlNGTXlkRk4tbHlVR3M5M085S2gyb0xlQmlsdWF6bE1NYXlMbmJkMEpyTGo3VTVfaE5pa2o1aVdXMjQxMzRPSmRNZmc?oc=5",
+          "desc": "",
+          "title_en": "[Sokcho News] Displaced People Culture Festival Next Month… Food Booth Recruitment",
+          "title_ja": "【束草ニュース】避難民文化祭来月…フードブース募集",
+          "title_zh": "【束草新闻】下个月流离失所者文化节…美食摊位招募"
+        },
         {
           "title": "진안-부안 로컬푸드 첫 교류 행사…직매장서 20% 할인",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOSWNiWXp0NFVKUVV3QjRtYkptY25EVGIyVDFQUkp3cHBwdEZjUEh4UzViZGhYaHVrT3g0cThleTlpYnBPOTRZRHBBcGRzUnUzSkE?oc=5",
@@ -196,20 +204,12 @@
           "title_zh": "济南班本地美食首次交流活动…直营店八折优惠"
         },
         {
-          "title": "산림복지진흥원, 내달 29일까지 산림치유음식 공모전",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ya1VZRHpjaHVoWGIxTWRJT3F4X01md2N5T2xTLThHa3g0SnhCalhRQ3g2c1pJSjVDejJiS1Z5ZW4xZXAzamh5ZEVINldIamNjTVE?oc=5",
+          "title": "정상회담 만찬상 오른 안동 음식…찜닭골목에 다시 활기 돌았다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01b3luMEpGRHlWRWVLc3cwclk3RW9NT1NOQmEzejZxUXdJZW9UZm1kd3FzaDE4VFM2OXVKN3NaTGFFRzJ3OU5IdGIyVjdBVjVnREE?oc=5",
           "desc": "",
-          "title_en": "Forest Welfare Agency, Forest Healing Food Contest by the 29th of next month",
-          "title_ja": "森林福祉庁、来月29日までに森林癒しフードコンテスト",
-          "title_zh": "森林福利局，下月29日前举办森林疗愈美食大赛"
-        },
-        {
-          "title": "정상회담 만찬상 오른 안동 음식…찜닭골목에 다시 활기 돌았다(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CbTNucGp5WTlTZ3NqT3cxNzNpTDVZcG5rTDl2WG5GY3luQXJPNktLdjFYblBrdHo0S0NNcDFSODdyR2NZZmhjNjI4S3FtMnhVTVE?oc=5",
-          "desc": "",
-          "title_en": "The Andong food after the summit dinner… I was lively again in Steaming Chicken Alley (General)",
-          "title_ja": "サミットディナー後のアンドン料理…スチームチキン路地でまた元気に過ごしました（全般）",
-          "title_zh": "峰会晚餐后的安东美食……我在蒸鸡巷（一般）再次热闹起来"
+          "title_en": "Andong food after the summit dinner... It turned lively again in Steaming Chicken Alley.",
+          "title_ja": "サミットディナー後の安東料理・・・スチームチキン路地でまた元気になりました。",
+          "title_zh": "峰会晚宴后的安东美食……在蒸鸡巷又热闹起来了。"
         }
       ]
     },
