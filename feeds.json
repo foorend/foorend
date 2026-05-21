@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T22:24:01Z",
+  "lastUpdated": "2026-05-21T03:50:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "라면에 물 대신 '이것' 넣는다…외국인 K푸드 취향에 '화들짝' [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ETC1NZnpMSkkxRks2SUZXaVhYMTE3NVo4QmJoWDFTMmVlcmJJbEdaMjZ0ZXZnbmN6MkZMMXZITUEtV1k4aFd1U29zZDRMN2JSdDhmeTJmOXI4UdIBVEFVX3lxTE52SHVXVTAtMlliMUxYWG1kUW1fWHNyRzhnUHRjb3ZCRHJINU4wOFVCVnpaR19zS2JKQ0ZYY3UxYU9yTzV3Q3JrT3dITzUxM0k2aDAxbg?oc=5",
-          "desc": "",
-          "title_en": "Add 'this' instead of water to the ramen... 'this' to the taste of foreign K-foods [Trend +]",
-          "title_ja": "ラーメンに水の代わりに「これ」を加える…外国のKフードの味に「これ」を加える[トレンド+]",
-          "title_zh": "在拉面中添加“this”而不是水…… “this”来品尝外国K-foods的味道[趋势+]"
-        },
-        {
           "title": "대상 청정원, 국민 식탁 지켜온 30년간의 진심…라이프푸드 전문 브랜드로 도약",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BMkpnYkZwMHhvRWZKVk1URHAyV1laeGt2NE02ajlrM1ZZOFFoVjhnTTlmckRxZzNaSVJsX0szNjZVSDdjYWc4UmNRMk00aWNPbDRkZjNqVm9lUdIBVEFVX3lxTE5sSXp5eHBXZWk2QUgzOWZHOWJvX2E2UlZpUnVEZVZnenZNTjA4WVRiVTR5RmlUSjBhOWMwT21zeE9OQTNkSnVPOXpOaGVzMzNoZkZ4aA?oc=5",
           "desc": "",
           "title_en": "Target Jeongwon, National Dining Table 30 Years of Sincerity… Leaping to a Brand Specializing in Life Food",
           "title_ja": "TARGET JEONGWON、全国ダイニングテーブル30年の誠実さ…ライフフードに特化したブランドへの飛躍",
           "title_zh": "TARGET JEONGWON ，全国餐桌30年的真诚……跃升为生活食品专业品牌"
+        },
+        {
+          "title": "변비 때문에 먹었는데…심혈관 건강 연구까지 나온 음식",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9McVY4ZldObkJYc1EzQ29ydjZPVU9QaEJoV0hZNVRoMnlQNGlxVVI0Ml9reXJsbjNLV3pXY2Fuek9jQXRxbnRCaVNjd1hVM2VpbjRabVROV3VwZ9IBVEFVX3lxTE5sLXJmZVhET0RfZ1ZpY00wdFBaSV9CS21HdlVfU01OYzRRbmp1RU5aZUZ6SVZMUGlYbzFKdnNLV3BZX3RCX1VlM0xPSFc1aVMtUkhvYw?oc=5",
+          "desc": "",
+          "title_en": "I ate because of constipation... Foods that have even been researched for cardiovascular health",
+          "title_ja": "便秘のせいで食べた…心臓血管の健康にも研究されている食品",
+          "title_zh": "我吃东西是因为便秘……这些食物甚至被研究用于心血管健康"
         },
         {
           "title": "포항, 'K-푸드테크 육성 사업' 선정",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "K푸드 1∼4월 수출 35억8천만달러…중동 지역 전년비 38% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41eWtUVTJJU1lWSW41eGtnYUZGM1FPTEhUMjJ4YlVIV3ZNeGdDY1BkZ1BmSFBVX1AwX1JSa1pjOXoxLXFBQlVwOU5EUlVXSkJJWFE?oc=5",
+          "desc": "",
+          "title_en": "Exports of K-Foods $3.58 billion in January-April… 38% YoY increase in the Middle East",
+          "title_ja": "1月から4月のK - Foodsの輸出額は35.8億ドル…中東では前年比38 ％増加",
+          "title_zh": "1-4月K-Foods出口35.8亿美元……中东地区同比增长38%"
+        },
+        {
           "title": "[속초소식] 실향민문화축제 다음 달 개최…음식 부스 모집",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BR2pGRktDWlNGTXlkRk4tbHlVR3M5M085S2gyb0xlQmlsdWF6bE1NYXlMbmJkMEpyTGo3VTVfaE5pa2o1aVdXMjQxMzRPSmRNZmc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Jinan-Buan Local Food First Exchange Event… 20% Discount at Direct Stores",
           "title_ja": "チーナン-ブアン地元の食べ物初交換イベント…直営店で20 ％割引",
           "title_zh": "济南班本地美食首次交流活动…直营店八折优惠"
-        },
-        {
-          "title": "정상회담 만찬상 오른 안동 음식…찜닭골목에 다시 활기 돌았다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01b3luMEpGRHlWRWVLc3cwclk3RW9NT1NOQmEzejZxUXdJZW9UZm1kd3FzaDE4VFM2OXVKN3NaTGFFRzJ3OU5IdGIyVjdBVjVnREE?oc=5",
-          "desc": "",
-          "title_en": "Andong food after the summit dinner... It turned lively again in Steaming Chicken Alley.",
-          "title_ja": "サミットディナー後の安東料理・・・スチームチキン路地でまた元気になりました。",
-          "title_zh": "峰会晚宴后的安东美食……在蒸鸡巷又热闹起来了。"
         }
       ]
     },
