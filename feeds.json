@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-05-21T03:50:10Z",
+  "lastUpdated": "2026-05-21T09:42:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Bankruptcy court approves the sale of Fat Brands to multiple buyers",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2Q0NGdwT2F2M1htcjlDaVJ0cVZBSExNMEhUcGxEcjZjdWJtS1FrMnN1V3AyUW5pbTlEa0NqUG1CVHM0SHJOUHJOeVBWcVVETlNjOUJPNTdOYjM3NzdaUFBXemtNa0tERkk2MThlRVFCUi1kVFhfMHFyQzZycDE4YVp3XzdYTEhlZHBBeGJJTTFmeFRTTWF3YkxiS1oydi13eHNvbDczYw?oc=5",
+          "desc": "",
+          "title_ko": "파산 법원, 여러 구매자에게 FAT 브랜드 판매 승인",
+          "title_ja": "破産裁判所が複数の買い手へのFat Brandsの売却を承認",
+          "title_zh": "破产法院批准将Fat Brands出售给多个买家"
+        },
         {
           "title": "President Trump takes a stake in Kura Sushi",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGtGUzR1Y203R1lhbEFGWi1TWHpLUVpnQmlGQkpvU0Z1bko1am1sVEVSeHpWeFctYXNGNjhTVFFlczN3LV9OZ28tcDhoSTNCSUwzeVRISzVjOHJ3Yi1aendfLTVfUElDclNiT1BJcnRiMXpxcWlrNzFLOVlPRXAzYWMyYVVXZl9MS1ZUdHVR?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "FAT 브랜드는 대출 기관 및 채권자와 거래하여 판매의 길을 열었습니다.",
           "title_ja": "Fat Brandsは貸し手と債権者との取引に達し、販売の道を開く",
           "title_zh": "Fat Brands与贷款人和债权人达成协议，为出售铺平道路"
-        },
-        {
-          "title": "Franchisee files lawsuit against Pizza Hut over mandatory tech",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclc2anB4bkticTVaa09TSjNfRG5FNE8xMlVxLXB4dFo4eXphVVR0VWxmV1cwSC1aUDd6NnB6MTVuTmVNY1BhMnBDYU5RWmNFajZQQmZsb29HTEtTNENXZmxwc1p6clo1Zkx0Vk9LVVg4SzBybjdab3ZEU0xUWEdOaThBMnhmNHZSb1diTV9nVGxNUmQ2RjNQSXJUeDJfUXoySlhMbDJENFg3dE5Pb0Fv?oc=5",
-          "desc": "",
-          "title_ko": "프랜차이즈 가맹점, 피자헛을 상대로 필수 기술에 대한 소송 제기",
-          "title_ja": "フランチャイズ加盟店が義務付けられた技術をめぐりピザハットに対して訴訟を起こす",
-          "title_zh": "加盟商就必胜客强制性技术提起诉讼"
         }
       ]
     },
@@ -126,37 +126,20 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "대상 청정원, 국민 식탁 지켜온 30년간의 진심…라이프푸드 전문 브랜드로 도약",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BMkpnYkZwMHhvRWZKVk1URHAyV1laeGt2NE02ajlrM1ZZOFFoVjhnTTlmckRxZzNaSVJsX0szNjZVSDdjYWc4UmNRMk00aWNPbDRkZjNqVm9lUdIBVEFVX3lxTE5sSXp5eHBXZWk2QUgzOWZHOWJvX2E2UlZpUnVEZVZnenZNTjA4WVRiVTR5RmlUSjBhOWMwT21zeE9OQTNkSnVPOXpOaGVzMzNoZkZ4aA?oc=5",
-          "desc": "",
-          "title_en": "Target Jeongwon, National Dining Table 30 Years of Sincerity… Leaping to a Brand Specializing in Life Food",
-          "title_ja": "TARGET JEONGWON、全国ダイニングテーブル30年の誠実さ…ライフフードに特化したブランドへの飛躍",
-          "title_zh": "TARGET JEONGWON ，全国餐桌30年的真诚……跃升为生活食品专业品牌"
-        },
-        {
-          "title": "변비 때문에 먹었는데…심혈관 건강 연구까지 나온 음식",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9McVY4ZldObkJYc1EzQ29ydjZPVU9QaEJoV0hZNVRoMnlQNGlxVVI0Ml9reXJsbjNLV3pXY2Fuek9jQXRxbnRCaVNjd1hVM2VpbjRabVROV3VwZ9IBVEFVX3lxTE5sLXJmZVhET0RfZ1ZpY00wdFBaSV9CS21HdlVfU01OYzRRbmp1RU5aZUZ6SVZMUGlYbzFKdnNLV3BZX3RCX1VlM0xPSFc1aVMtUkhvYw?oc=5",
-          "desc": "",
-          "title_en": "I ate because of constipation... Foods that have even been researched for cardiovascular health",
-          "title_ja": "便秘のせいで食べた…心臓血管の健康にも研究されている食品",
-          "title_zh": "我吃东西是因为便秘……这些食物甚至被研究用于心血管健康"
-        },
-        {
-          "title": "포항, 'K-푸드테크 육성 사업' 선정",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKV3ZYV1NvOGxyNmpBUmdiaVRTRURLLUxBNlFpQVdHZlZNbGFxdlFDcG5xZlNiN2k4Y01zN1lJTGZCTlZYWV9zckVXbDk5ejFfZnYtUVBUdHRLUdIBVEFVX3lxTFB4TlFYSjE5YjVDUzhSWFFQZ0NRVVl5SUlzMF9hUWZjczhQX2lhMHkyYTdVNE9TQmd3a243VmJFNnNNZERpZmVMLW1OcWc3SDROc0JRSQ?oc=5",
-          "desc": "",
-          "title_en": "Pohang selected as' K-Food Tech Cultivation Project '",
-          "title_ja": "浦項市が「K - Food Tech栽培プロジェクト」に選定",
-          "title_zh": "浦项入选“K-Food科技培育项目”"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "이마트, 신세계푸드 주식교환 앞두고 매수가 30% 높였다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSFBDazl0R0hTaTFfMWkxWmV3NkpKY01mcUlMT0pHMlJ4dG04R0FpMmdWX3Q2UDhBUm9GRHZ5ekxrTmtQVGZiZUI1NTJtcFYzRFHSAVNBVV95cUxPX2FsamE2Z2Q5UmNTbk9zWS1rRWlhUU44bHJ5RnRxTDlQOS0wc3hOcXdqcjF2UDNOeVVtZGw0Nm8yNGQ5UnctU1B0cWVHV0VTRTFSbw?oc=5",
+          "desc": "",
+          "title_en": "E-Mart Buying 30% Higher Ahead of Stock Exchange for Shinsegae Food",
+          "title_ja": "イーマート、新世界食料の株式取引所を30 ％先行して買い増し",
+          "title_zh": "E-Mart提前30%收购新世界食品股票交易所"
+        },
         {
           "title": "“한식 세계에 알리려면 단순 음식 넘어 韓문화 함께 전해야” [이사람]",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41bUZDZTJMUjJFSHhmZFltVVN1N2hwN0V6VllNT3R2RlZyWDJLRi1yOFNHMVJFdXJwUE94Z0wwdGNaWjh4akFNVlY5YTRNRk5ZZjlj0gFTQVVfeXFMTjVtRkNlMkxSMkVIeGZkWW1VU3U3aHA3RXpWWU1PdHZGVnJYMktGLXI4U0cxUkV1cnBQT3hnTDB0Y1paOHhqQU1WVjlhNE1GTllmOWM?oc=5",
@@ -164,14 +147,6 @@
           "title_en": "“If you want to tell the Korean food world, you have to preach the Korean culture together beyond simple food” [This person]",
           "title_ja": "「韓国料理の世界に伝えたいのであれば、単純な食べ物を超えて韓国文化を一緒に説教しなければなりません」【この人】",
           "title_zh": "「如果你想告诉韩国美食世界，除了简单的美食之外，你必须一起宣传韩国文化」【这个人】"
-        },
-        {
-          "title": "홍콩 미쉐린 식당서 K-푸드 정식 메뉴로…식재료 수출도 박차",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQTY3SXJjTzlFQmdSbnFHUWM3UzZVZVBCaktvdjROdEgzRDVLZGRERFF2QWRVRmNBdWpPZEMxZVlHZk5iTlhla18waXBWQ3N2eGfSAVNBVV95cUxORTFmdTFuLWtVWlBUM2FDZVdfYXZoSE1YVjVNbTNaU3YxTDRRM0QxTkhzVVRVak1iV0hsOXFhdXNIMk94UHRMV0tpcHBOOUd2NkphRQ?oc=5",
-          "desc": "",
-          "title_en": "With the K-Food set menu at the Hong Kong Michelin Restaurant, the export of ingredients is also spurred.",
-          "title_ja": "香港ミシュランレストランのK - Foodセットメニューでは、食材の輸出も促進されています。",
-          "title_zh": "香港米其林餐厅的K-Food套餐也刺激了食材的出口。"
         },
         {
           "title": "“온 우주의 생명 담은 사찰음식…내 몸 맞는 식재료가 진짜 약이죠” [이사람]",
@@ -188,28 +163,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "이마트, 신세계푸드 매수가 인상 공시…스타벅스 리스크도 적시",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92NEdCeHZEbm1JRDhPVEhBMFNDT3ROQ0lkSHd2eGhZRHdobDJDZmpqQmE4NUktVDNSaF9xUnB1WXRhQV9ROE56MmRvUzc1Q3ZMb3c?oc=5",
+          "desc": "",
+          "title_en": "E-Mart Announces Increase in Purchase of Shinsegae Food… Starbucks Risk Timely",
+          "title_ja": "イーマート、新世界食品の購入を増やすことを発表…スターバックスはタイムリーにリスクを冒す",
+          "title_zh": "E-Mart宣布增加购买Shinsegae食品…星巴克适时冒险"
+        },
+        {
+          "title": "완주군, 로컬푸드 소비자 감시단 운영…\"품질·안전 검증\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ckUtUWdlNVdPcjlrM0Rtd0lxTV9URnk2ZzFmZ2hFSU1XUi1vaG8yWV9zbzNONVdOTEVYdmJiMmdrLVV0RDNaV0tNUUs2VkRzWUE?oc=5",
+          "desc": "",
+          "title_en": "Wanju-gun, Local Food Consumer Watchdog Operation... \"Quality and Safety Verification\"",
+          "title_ja": "地元食品消費者監視団・・・「品質・安全性検証」",
+          "title_zh": "Wanju-gun ，当地食品消费者监督机构运营...... “质量和安全验证”"
+        },
+        {
           "title": "K푸드 1∼4월 수출 35억8천만달러…중동 지역 전년비 38% 증가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41eWtUVTJJU1lWSW41eGtnYUZGM1FPTEhUMjJ4YlVIV3ZNeGdDY1BkZ1BmSFBVX1AwX1JSa1pjOXoxLXFBQlVwOU5EUlVXSkJJWFE?oc=5",
           "desc": "",
           "title_en": "Exports of K-Foods $3.58 billion in January-April… 38% YoY increase in the Middle East",
           "title_ja": "1月から4月のK - Foodsの輸出額は35.8億ドル…中東では前年比38 ％増加",
           "title_zh": "1-4月K-Foods出口35.8亿美元……中东地区同比增长38%"
-        },
-        {
-          "title": "[속초소식] 실향민문화축제 다음 달 개최…음식 부스 모집",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BR2pGRktDWlNGTXlkRk4tbHlVR3M5M085S2gyb0xlQmlsdWF6bE1NYXlMbmJkMEpyTGo3VTVfaE5pa2o1aVdXMjQxMzRPSmRNZmc?oc=5",
-          "desc": "",
-          "title_en": "[Sokcho News] Displaced People Culture Festival Next Month… Food Booth Recruitment",
-          "title_ja": "【束草ニュース】避難民文化祭来月…フードブース募集",
-          "title_zh": "【束草新闻】下个月流离失所者文化节…美食摊位招募"
-        },
-        {
-          "title": "진안-부안 로컬푸드 첫 교류 행사…직매장서 20% 할인",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOSWNiWXp0NFVKUVV3QjRtYkptY25EVGIyVDFQUkp3cHBwdEZjUEh4UzViZGhYaHVrT3g0cThleTlpYnBPOTRZRHBBcGRzUnUzSkE?oc=5",
-          "desc": "",
-          "title_en": "Jinan-Buan Local Food First Exchange Event… 20% Discount at Direct Stores",
-          "title_ja": "チーナン-ブアン地元の食べ物初交換イベント…直営店で20 ％割引",
-          "title_zh": "济南班本地美食首次交流活动…直营店八折优惠"
         }
       ]
     },
