@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T03:43:36Z",
+  "lastUpdated": "2026-05-22T09:26:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -175,7 +175,7 @@
         },
         {
           "title": "이마트, 신세계푸드 주식교환 앞두고 매수가 30% 높였다",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fYWxqYTZnZDlSY1NuT3NZLWtFaWFRTjhscnlGdHFMOVA5LTBzeE5xd2pyMXZQM055VW1kbDQ2bzI0ZDlSdy1TUHRxZUdXRVNFMVJv0gFTQVVfeXFMT19hbGphNmdkOVJjU25Pc1kta0VpYVFOOGxyeUZ0cUw5UDktMHN4TnF3anIxdlAzTnlVbWRsNDZvMjRkOVJ3LVNQdHFlR1dFU0UxUm8?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSFBDazl0R0hTaTFfMWkxWmV3NkpKY01mcUlMT0pHMlJ4dG04R0FpMmdWX3Q2UDhBUm9GRHZ5ekxrTmtQVGZiZUI1NTJtcFYzRFHSAVNBVV95cUxPX2FsamE2Z2Q5UmNTbk9zWS1rRWlhUU44bHJ5RnRxTDlQOS0wc3hOcXdqcjF2UDNOeVVtZGw0Nm8yNGQ5UnctU1B0cWVHV0VTRTFSbw?oc=5",
           "desc": "",
           "title_en": "E-Mart Buying 30% Higher Ahead of Stock Exchange for Shinsegae Food",
           "title_ja": "イーマート、新世界食料の株式取引所を30 ％先行して買い増し",
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "이마트, 신세계푸드 매수가 인상 공시…스타벅스 리스크도 적시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92NEdCeHZEbm1JRDhPVEhBMFNDT3ROQ0lkSHd2eGhZRHdobDJDZmpqQmE4NUktVDNSaF9xUnB1WXRhQV9ROE56MmRvUzc1Q3ZMb3c?oc=5",
-          "desc": "",
-          "title_en": "E-Mart Announces Increase in Purchase of Shinsegae Food… Starbucks Risk Timely",
-          "title_ja": "イーマート、新世界食品の購入を増やすことを発表…スターバックスはタイムリーにリスクを冒す",
-          "title_zh": "E-Mart宣布增加购买Shinsegae食品…星巴克适时冒险"
-        },
-        {
           "title": "갑자기 고기 당기는 이유…\"장이 음식 속 단백질 부족 알려줘\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHLTVGcmRUQVFCUW5hcTM5TTQxZWtVc2FLZ3NYMDh0M3ltQXo4R0tLWjgxWFluUVRicGNUNXNHR2l0XzFidk5LR3c3b3hjTzV2MGc?oc=5",
           "desc": "",
           "title_en": "Suddenly, the reason for the meat pulling... \"The intestine tells me the lack of protein in the food\"",
           "title_ja": "突然、肉が引っ張られた理由……「食べ物にタンパク質が不足していると腸が教えてくれる」",
           "title_zh": "突然，拉肉的原因…… “肠道告诉我食物中缺少蛋白质”"
+        },
+        {
+          "title": "이마트, 신세계푸드 매수가 인상 공시…스타벅스 리스크도 적시",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92NEdCeHZEbm1JRDhPVEhBMFNDT3ROQ0lkSHd2eGhZRHdobDJDZmpqQmE4NUktVDNSaF9xUnB1WXRhQV9ROE56MmRvUzc1Q3ZMb3c?oc=5",
+          "desc": "",
+          "title_en": "E-Mart Announces Increase in Purchase of Shinsegae Food… Starbucks Risk Timely",
+          "title_ja": "イーマート、新世界食品の購入を増やすことを発表…スターバックスはタイムリーにリスクを冒す",
+          "title_zh": "E-Mart宣布增加购买Shinsegae食品…星巴克适时冒险"
         },
         {
           "title": "완주군, 로컬푸드 소비자 감시단 운영…\"품질·안전 검증\"",
@@ -226,20 +226,20 @@
           "title_zh": "美国全天供应早餐"
         },
         {
+          "title": "썬키스트 ‘레시피 콘테스트’ 성료, 시트러스 활용 가능성 제시",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42M09MdG53TnNwSTlsZ1ppOTZiS3JVcmdMRTBWa1lNd3E0NURoSldEZWF3cGhRaDhuLVEySC1zZGZ3Q3B1NmRtcWV2VFRYMTZoTENodTUyRQ?oc=5",
+          "desc": "",
+          "title_en": "Sunkist ‘Recipe Contest’ Completion, Citrus Usability Presentation",
+          "title_ja": "サンキスト「レシピコンテスト」完了、シトラスユーザビリティプレゼンテーション",
+          "title_zh": "Sunkist “食谱竞赛”完成，柑橘可用性演示"
+        },
+        {
           "title": "불황도 비껴간 일본 반찬 시장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sb01fUjE0dVlrVHMzbmNwb3p5TzVHYVRnZlRDaFJQcHVQSmtqYnFtSG1adTlqZkhtelpaT3NiUFNLUGZqQmFpQ0E4MzNIS3pQclhRZ09YQQ?oc=5",
           "desc": "",
           "title_en": "Recession-Free Japanese Side Dishes Market",
           "title_ja": "景気後退のない日本のおかず市場",
           "title_zh": "无经济衰退的日式配菜市场"
-        },
-        {
-          "title": "설빙 가맹점 매출, 전년 대비 15% 증가…“브랜드 재정비 성과”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mcV9jcmZsbW1fQUptZnJGMEJmNmdSUTc1MFczRE5ockc0SExlMTBMdlJtcjNDWTluOGtmN2lHNl85TFpldUlaQ1c3bnBWUzU2T1BLSjFLaw?oc=5",
-          "desc": "",
-          "title_en": "Snow Merchant Revenue Up 15% YoY… “Brand Reorganization Performance”",
-          "title_ja": "スノーマーチャント収益が前年比15 ％増…「ブランド再編実績」",
-          "title_zh": "雪商营收同比增长15% … “品牌重组业绩”"
         }
       ]
     }
