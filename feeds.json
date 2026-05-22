@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-05-22T14:40:56Z",
+  "lastUpdated": "2026-05-22T17:09:11Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "President Trump takes a stake in Kura Sushi",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGtGUzR1Y203R1lhbEFGWi1TWHpLUVpnQmlGQkpvU0Z1bko1am1sVEVSeHpWeFctYXNGNjhTVFFlczN3LV9OZ28tcDhoSTNCSUwzeVRISzVjOHJ3Yi1aendfLTVfUElDclNiT1BJcnRiMXpxcWlrNzFLOVlPRXAzYWMyYVVXZl9MS1ZUdHVR?oc=5",
+          "desc": "",
+          "title_ko": "트럼프 대통령은 쿠라 스시에 지분을 가져간다.",
+          "title_ja": "トランプ大統領が蔵寿司に出資",
+          "title_zh": "特朗普总统收购Kura Sushi"
+        },
         {
           "title": "Bankruptcy court approves the sale of Fat Brands to multiple buyers",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2Q0NGdwT2F2M1htcjlDaVJ0cVZBSExNMEhUcGxEcjZjdWJtS1FrMnN1V3AyUW5pbTlEa0NqUG1CVHM0SHJOUHJOeVBWcVVETlNjOUJPNTdOYjM3NzdaUFBXemtNa0tERkk2MThlRVFCUi1kVFhfMHFyQzZycDE4YVp3XzdYTEhlZHBBeGJJTTFmeFRTTWF3YkxiS1oydi13eHNvbDczYw?oc=5",
@@ -12,14 +20,6 @@
           "title_ko": "파산 법원, 여러 구매자에게 FAT 브랜드 판매 승인",
           "title_ja": "破産裁判所が複数の買い手へのFat Brandsの売却を承認",
           "title_zh": "破产法院批准将Fat Brands出售给多个买家"
-        },
-        {
-          "title": "Restaurants aren't buying the AI hype",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBfaExCRDF3QTdpbHVRRG9sLVJsalVxdEpJN0NIN1l1SnhlY1J0dE9yM0ljLXZHWDgySjlQaDIzOU5EbjVvaG5SZjhCRktKWGdTVUxYVlJVcjd2VDVlVVlKMDZJX0x4dGNFek5YR1hiSzdGUUlIeGFWNW1mT0JOcUkyVWZURnc?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑은 AI 과대 광고를 구매하지 않습니다.",
-          "title_ja": "レストランはAIの誇大広告を買っていない",
-          "title_zh": "餐厅不接受人工智能炒作"
         },
         {
           "title": "What we liked, and what we didn’t, about the National Restaurant Association Show",
@@ -204,12 +204,12 @@
           "title_zh": "E-Mart宣布增加购买Shinsegae食品…星巴克适时冒险"
         },
         {
-          "title": "[왜요왜요 만두와 음식탐험] 떡볶이 이야기 | KBS 260521 방송",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5adkVwU2VENzVreE5XX2FDa2pHY0FwZFdMTjU5cVNzQXVLS0UzLXpjSTVuTWhjZUEyRWRaMFhHOUJ2ZjNIRVU0SnU0eUFqY0J3cFE?oc=5",
+          "title": "완주군, 로컬푸드 소비자 감시단 운영…\"품질·안전 검증\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ckUtUWdlNVdPcjlrM0Rtd0lxTV9URnk2ZzFmZ2hFSU1XUi1vaG8yWV9zbzNONVdOTEVYdmJiMmdrLVV0RDNaV0tNUUs2VkRzWUE?oc=5",
           "desc": "",
-          "title_en": "[Exploring Why Why Dumplings and Food] Tteokbokki Story | KBS 260521",
-          "title_ja": "【なぜ餃子と食べ物なのか探る】Tteokbokki Story ｜ KBS 260521",
-          "title_zh": "[探索为什么选择饺子和美食] Tteokbokki故事| KBS 260521"
+          "title_en": "Wanju-gun, Local Food Consumer Watchdog Operation... \"Quality and Safety Verification\"",
+          "title_ja": "地元食品消費者監視団・・・「品質・安全性検証」",
+          "title_zh": "Wanju-gun ，当地食品消费者监督机构运营...... “质量和安全验证”"
         }
       ]
     },
