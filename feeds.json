@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T08:20:30Z",
+  "lastUpdated": "2026-05-23T10:26:31Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -166,12 +166,12 @@
           "title_zh": "参加了泰国的“Typex Anuga”... Nongshim、Samyang、Daesang和Binggrae。"
         },
         {
-          "title": "신세계푸드 매수가 상향…이마트 부담 660억 확대 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pakw0SWZ0TklXWUxmOHdCOElranFnUUh3cGFxSXdqSm5PUlRhVVpsNmQ3ZjRpYmVZYUh4c1Fib2JJSkpsLVFqRE15R0hVNUFzZGfSAVNBVV95cUxPYXFGMmhTOU5FTlVJenVibTItVkxxME13Ync3UTU5Vmt6SHRWZm0zWGRyRG5NVmZteVdDOUhTTHh5WUZaNDhHbTNmWUVBUFgydjJrSQ?oc=5",
+          "title": "이마트, 신세계푸드 주식교환 앞두고 매수가 30% 높였다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSFBDazl0R0hTaTFfMWkxWmV3NkpKY01mcUlMT0pHMlJ4dG04R0FpMmdWX3Q2UDhBUm9GRHZ5ekxrTmtQVGZiZUI1NTJtcFYzRFHSAVNBVV95cUxPX2FsamE2Z2Q5UmNTbk9zWS1rRWlhUU44bHJ5RnRxTDlQOS0wc3hOcXdqcjF2UDNOeVVtZGw0Nm8yNGQ5UnctU1B0cWVHV0VTRTFSbw?oc=5",
           "desc": "",
-          "title_en": "Shinsegae Food Purchase Increases… E-Mart's Burden Increases by 66 Billion [Signal]",
-          "title_ja": "新世界食料購入が増加…イーマートの負担が660億増加【シグナル】",
-          "title_zh": "新世界食品采购增加……易购负担增加660亿【信号】"
+          "title_en": "E-Mart Buying 30% Higher Ahead of Stock Exchange for Shinsegae Food",
+          "title_ja": "イーマート、新世界食料の株式取引所を30 ％先行して買い増し",
+          "title_zh": "E-Mart提前30%收购新世界食品股票交易所"
         },
         {
           "title": "사조씨푸드, 6.26% 오르며 체결강도 강세 지속(202%)",
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "썬키스트 ‘레시피 콘테스트’ 성료, 시트러스 활용 가능성 제시",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42M09MdG53TnNwSTlsZ1ppOTZiS3JVcmdMRTBWa1lNd3E0NURoSldEZWF3cGhRaDhuLVEySC1zZGZ3Q3B1NmRtcWV2VFRYMTZoTENodTUyRQ?oc=5",
-          "desc": "",
-          "title_en": "Sunkist ‘Recipe Contest’ Completion, Citrus Usability Presentation",
-          "title_ja": "サンキスト「レシピコンテスト」完了、シトラスユーザビリティプレゼンテーション",
-          "title_zh": "Sunkist “食谱竞赛”完成，柑橘可用性演示"
-        },
-        {
           "title": "불황도 비껴간 일본 반찬 시장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sb01fUjE0dVlrVHMzbmNwb3p5TzVHYVRnZlRDaFJQcHVQSmtqYnFtSG1adTlqZkhtelpaT3NiUFNLUGZqQmFpQ0E4MzNIS3pQclhRZ09YQQ?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "Snow Merchant Revenue Up 15% YoY… “Brand Reorganization Performance”",
           "title_ja": "スノーマーチャント収益が前年比15 ％増…「ブランド再編実績」",
           "title_zh": "雪商营收同比增长15% … “品牌重组业绩”"
+        },
+        {
+          "title": "K-스피릿 무대 열린다…‘2026 화요 칵테일 챔피언십’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kdXBuX1Z3aFVqUDFjM21lZ2Y1S21SRnpCNk9DMXZ1Z0JCa1JLWWVNQ2VwN1Y4WXhITTRlSUhvZFM4VlZYYmljUGpFa0JKUWp0SWVrUlFaMA?oc=5",
+          "desc": "",
+          "title_en": "K-Spirit stage opens… ‘2026 Hwayo Cocktail Championship’",
+          "title_ja": "K - Spiritステージ開幕…「2026 Hwayoカクテルチャンピオンシップ」",
+          "title_zh": "K-Spirit舞台开幕…… “2026 Hwayo鸡尾酒锦标赛”"
         }
       ]
     }
