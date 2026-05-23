@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T03:21:43Z",
+  "lastUpdated": "2026-05-23T08:20:30Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "我们对全国餐厅协会展览会（ National Restaurant Association Show ）的喜好和不满之处"
         },
         {
-          "title": "President Trump takes a stake in Kura Sushi",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGtGUzR1Y203R1lhbEFGWi1TWHpLUVpnQmlGQkpvU0Z1bko1am1sVEVSeHpWeFctYXNGNjhTVFFlczN3LV9OZ28tcDhoSTNCSUwzeVRISzVjOHJ3Yi1aendfLTVfUElDclNiT1BJcnRiMXpxcWlrNzFLOVlPRXAzYWMyYVVXZl9MS1ZUdHVR?oc=5",
+          "title": "Restaurants aren't buying the AI hype",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBfaExCRDF3QTdpbHVRRG9sLVJsalVxdEpJN0NIN1l1SnhlY1J0dE9yM0ljLXZHWDgySjlQaDIzOU5EbjVvaG5SZjhCRktKWGdTVUxYVlJVcjd2VDVlVVlKMDZJX0x4dGNFek5YR1hiSzdGUUlIeGFWNW1mT0JOcUkyVWZURnc?oc=5",
           "desc": "",
-          "title_ko": "트럼프 대통령은 쿠라 스시에 지분을 가져간다.",
-          "title_ja": "トランプ大統領が蔵寿司に出資",
-          "title_zh": "特朗普总统收购Kura Sushi"
+          "title_ko": "레스토랑은 AI 과대 광고를 구매하지 않습니다.",
+          "title_ja": "レストランはAIの誇大広告を買っていない",
+          "title_zh": "餐厅不接受人工智能炒作"
         }
       ]
     },
@@ -129,7 +129,7 @@
       "items": [
         {
           "title": "패스트푸드에 맞선 '슬로푸드' 창시자 페트리니 별세",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSkd2dkYybG1OdU9PeDBkSUItakM1QmJFMVJPRWRmcFdxWkY1ekRTMlJScmduMWVBR1hvMGQ3N1k2REYxNXZmc3lyYlJuV0lHVEk1QlZud3hHQdIBVEFVX3lxTFBzSzdoQjVDYksxR0pqSEdIYUNFdHpuQ0NsRjJBNGtma2kwZFRTZ1lIVklpUUwxTDl6RGgzX2RrUGM3TW4wbXRvcWhGTEo5YXR2SkwtNA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzSzdoQjVDYksxR0pqSEdIYUNFdHpuQ0NsRjJBNGtma2kwZFRTZ1lIVklpUUwxTDl6RGgzX2RrUGM3TW4wbXRvcWhGTEo5YXR2SkwtNNIBVEFVX3lxTFBzSzdoQjVDYksxR0pqSEdIYUNFdHpuQ0NsRjJBNGtma2kwZFRTZ1lIVklpUUwxTDl6RGgzX2RrUGM3TW4wbXRvcWhGTEo5YXR2SkwtNA?oc=5",
           "desc": "",
           "title_en": "Slow Food Founder Petrini Dies Against Fast Food",
           "title_ja": "スローフードの創業者ペトリニがファーストフードに反対して死亡",
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "신세계푸드 매수가 상향…이마트 부담 660억 확대 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pakw0SWZ0TklXWUxmOHdCOElranFnUUh3cGFxSXdqSm5PUlRhVVpsNmQ3ZjRpYmVZYUh4c1Fib2JJSkpsLVFqRE15R0hVNUFzZGfSAVNBVV95cUxPYXFGMmhTOU5FTlVJenVibTItVkxxME13Ync3UTU5Vmt6SHRWZm0zWGRyRG5NVmZteVdDOUhTTHh5WUZaNDhHbTNmWUVBUFgydjJrSQ?oc=5",
-          "desc": "",
-          "title_en": "Shinsegae Food Purchase Increases… E-Mart's Burden Increases by 66 Billion [Signal]",
-          "title_ja": "新世界食料購入が増加…イーマートの負担が660億増加【シグナル】",
-          "title_zh": "新世界食品采购增加……易购负担增加660亿【信号】"
-        },
-        {
           "title": "K푸드 총출동한 태국 ‘타이펙스 아누가’...농심·삼양·대상·빙그레 참가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWLW9WQXFJbVRITC1CSE1jSElBTWJBQ3BEMnIzMHN0QU43MUVTa3JqNlVHOUJZMFdvT040Z0s1dVZoMUZFdWgwZWVObmdVR3ZlaFHSAVNBVV95cUxNMDc2X2lPMVFSUjdKWUJxMHdGLXZ5RHNoZ1NBeUk4WEFKcnFaNXRIeUowQUV4NmxzRnBGcGpMYTB6V3Y4blpabkcwU21XOWRPMXlyMA?oc=5",
           "desc": "",
@@ -174,12 +166,20 @@
           "title_zh": "参加了泰国的“Typex Anuga”... Nongshim、Samyang、Daesang和Binggrae。"
         },
         {
-          "title": "이마트, 신세계푸드 주식교환 앞두고 매수가 30% 높였다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSFBDazl0R0hTaTFfMWkxWmV3NkpKY01mcUlMT0pHMlJ4dG04R0FpMmdWX3Q2UDhBUm9GRHZ5ekxrTmtQVGZiZUI1NTJtcFYzRFHSAVNBVV95cUxPX2FsamE2Z2Q5UmNTbk9zWS1rRWlhUU44bHJ5RnRxTDlQOS0wc3hOcXdqcjF2UDNOeVVtZGw0Nm8yNGQ5UnctU1B0cWVHV0VTRTFSbw?oc=5",
+          "title": "신세계푸드 매수가 상향…이마트 부담 660억 확대 [시그널]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pakw0SWZ0TklXWUxmOHdCOElranFnUUh3cGFxSXdqSm5PUlRhVVpsNmQ3ZjRpYmVZYUh4c1Fib2JJSkpsLVFqRE15R0hVNUFzZGfSAVNBVV95cUxPYXFGMmhTOU5FTlVJenVibTItVkxxME13Ync3UTU5Vmt6SHRWZm0zWGRyRG5NVmZteVdDOUhTTHh5WUZaNDhHbTNmWUVBUFgydjJrSQ?oc=5",
           "desc": "",
-          "title_en": "E-Mart Buying 30% Higher Ahead of Stock Exchange for Shinsegae Food",
-          "title_ja": "イーマート、新世界食料の株式取引所を30 ％先行して買い増し",
-          "title_zh": "E-Mart提前30%收购新世界食品股票交易所"
+          "title_en": "Shinsegae Food Purchase Increases… E-Mart's Burden Increases by 66 Billion [Signal]",
+          "title_ja": "新世界食料購入が増加…イーマートの負担が660億増加【シグナル】",
+          "title_zh": "新世界食品采购增加……易购负担增加660亿【信号】"
+        },
+        {
+          "title": "사조씨푸드, 6.26% 오르며 체결강도 강세 지속(202%)",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAydFJwTzBCSnNEMXlfNzdOaXozNXpINk1KS0NmbzhfWlVkLUtrSVdWZjFnTUFjTlZMMW1yaW5uc2x6cDFNbTB3UG8tSUpuc1NjaHc?oc=5",
+          "desc": "",
+          "title_en": "Sajo Seafood, 6.26% and strong fastening strength (202%)",
+          "title_ja": "さじょう海産物6.26%強固な締結力(202%)",
+          "title_zh": "Sajo海鲜， 6.26 ％和强大的紧固强度（ 202 ％ ）"
         }
       ]
     },
