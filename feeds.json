@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T08:29:56Z",
+  "lastUpdated": "2026-05-24T10:41:40Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "구례 자연밥상·영암 낙지, '남도 음식 거리' 선정",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Cd2pucXZSaDd0UFFtd25zaUM0bGIxWmgyOUZ6T2M0MGVFRVBzUTMxUkd0d0FNcTQ3Tl83U1FFcmw4WlE3aDJhZUEtU1BwZ0M3?oc=5",
+          "desc": "",
+          "title_en": "Gurye Natural Meal · Yeongam Octopus, Selected as' Namdo Food Street '",
+          "title_ja": "Gurye Natural Meal・Yeongam Octopus、「南道フードストリート」に選ばれました",
+          "title_zh": "Gurye天然餐· Yeongam章鱼，被选为「南岛美食街」"
+        },
+        {
           "title": "배민, 전국소년체전서 무료 푸드트럭 '응원도시락' 운영",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nRnlfLU8ycjA1aWhvR1F3T0VYeUNqZzJtdWFiVERLQzdNdGVYUHczSEZ4Vl9VYmpMSEtCMDR5LTItWF9vNklNZ1FtNFFtR0N6cFE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Hyundai \"K-Beauty · K-Food needs to be raised to achieve $1 trillion a year in exports\"",
           "title_ja": "現代「1兆ドルの輸出を達成するために、K - Beauty・K - Foodを調達する必要がある」",
           "title_zh": "现代“K-Beauty · K-Food需要筹集资金，以实现每年1万亿美元的出口”"
-        },
-        {
-          "title": "[사찰음식문화체험관] 검색결과",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2RobERuSVdjeDd4V1BPb0xibWhVQ3FtLXB6UjI1Ymczd2VvOHJoMmotd0ctQ3NWdFF5VTZ0TTJnX2hPTE94THIxZmFXLTU3NUdQTWhJY29BNmFZTDFJWGNOLVZFVkZxUnBMa2FrRFE3Ylp4WEsyREFhQVZOdlEwSjNrM2tiQUNiTmFKOFVTVGU4Q21ZM1hDR2ZmejU3TWRFNTBNSWxFU2tyR05EVVNIM251UFQ?oc=5",
-          "desc": "",
-          "title_en": "[Temples Food and Culture Experience Hall] Search Results",
-          "title_ja": "【お寺食文化体験館】検索結果",
-          "title_zh": "【寺庙美食文化体验馆】搜索结果"
         }
       ]
     },
