@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T21:56:05Z",
+  "lastUpdated": "2026-05-24T03:40:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "破产法院批准将Fat Brands出售给多个买家"
         },
         {
-          "title": "What we liked, and what we didn’t, about the National Restaurant Association Show",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3hKajB1MkpBV3NMSGgydTNzUEJDbFhiXzlOTHU1Qi1RV011ekRib29qYm5QNGpUeUZVaWdSZWdBQnhBVHA5eFhMT0JDdlRYSmkwZmQ2U1dCSlJWNVZqWXlHZkk3T3VMSC0xME1vZFZlNVhiT2JkSlNRa0lTN2xTd3hBU285ZlNINzRQbFhfT2ZOcTNnNlMtU2ZSQlZ1Xy11SlN2R1VXS3ZaZTI5YlRhSFVKVjc5YnRJQlE?oc=5",
-          "desc": "",
-          "title_ko": "전국 레스토랑 협회 쇼에 대해 좋았던 점과 그렇지 않았던 점",
-          "title_ja": "全米レストラン協会ショーで気に入った点と気に入らなかった点",
-          "title_zh": "我们对全国餐厅协会展览会（ National Restaurant Association Show ）的喜好和不满之处"
-        },
-        {
           "title": "Restaurants aren't buying the AI hype",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBfaExCRDF3QTdpbHVRRG9sLVJsalVxdEpJN0NIN1l1SnhlY1J0dE9yM0ljLXZHWDgySjlQaDIzOU5EbjVvaG5SZjhCRktKWGdTVUxYVlJVcjd2VDVlVVlKMDZJX0x4dGNFek5YR1hiSzdGUUlIeGFWNW1mT0JOcUkyVWZURnc?oc=5",
           "desc": "",
           "title_ko": "레스토랑은 AI 과대 광고를 구매하지 않습니다.",
           "title_ja": "レストランはAIの誇大広告を買っていない",
           "title_zh": "餐厅不接受人工智能炒作"
+        },
+        {
+          "title": "What we liked, and what we didn’t, about the National Restaurant Association Show",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3hKajB1MkpBV3NMSGgydTNzUEJDbFhiXzlOTHU1Qi1RV011ekRib29qYm5QNGpUeUZVaWdSZWdBQnhBVHA5eFhMT0JDdlRYSmkwZmQ2U1dCSlJWNVZqWXlHZkk3T3VMSC0xME1vZFZlNVhiT2JkSlNRa0lTN2xTd3hBU285ZlNINzRQbFhfT2ZOcTNnNlMtU2ZSQlZ1Xy11SlN2R1VXS3ZaZTI5YlRhSFVKVjc5YnRJQlE?oc=5",
+          "desc": "",
+          "title_ko": "전국 레스토랑 협회 쇼에 대해 좋았던 점과 그렇지 않았던 점",
+          "title_ja": "全米レストラン協会ショーで気に入った点と気に入らなかった点",
+          "title_zh": "我们对全国餐厅协会展览会（ National Restaurant Association Show ）的喜好和不满之处"
         }
       ]
     },
@@ -35,6 +35,14 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
+        {
+          "title": "Here's Why Grape Ice Cream Isn't a Thing",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fODAyZ0FCbktMcldIQlVLa2Y3bWxQYmdCXzZRNTNfNEdOeFVCS2tiQjRXTkVCXzdJME44b2hMZEtyWmhlcHNOaGJScXRxb0R1TGhseVBCN1g2LVRSdzdrOXlGX1FfekwxOXA5VHhuU3pXeUxXMHRpXzJjcw?oc=5",
+          "desc": "",
+          "title_ko": "포도 아이스크림이 중요한 것이 아닌 이유는 다음과 같습니다.",
+          "title_ja": "グレープアイスクリームが重要でない理由",
+          "title_zh": "这就是为什么葡萄冰淇淋不是一回事"
+        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "中东物流中断了K-Food…… 1月至4月海湾合作委员会出口飙升37.6%"
         },
         {
-          "title": "\"쉴 새 없이 먹었다\"…성시경 10kg 뺀 음식 3가지 뭐길래",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwYTBXcjFpclBLbVNlNUx6SWdqUlAxMUlnaFJ1V3Rwel95ZmFOWDlvVWltOXRQbWFwS19GdWtFMUJYUmRPekt6a1NOSjJycmRvbEJCRk5jS2ptUdIBVEFVX3lxTE80aHg0enVBOW9LS1dnUVRGYzZKdF94enFFUFhDUG1aMndhYnJQWUljZVFQRzc2bkZ5X0xoNXBOLUpNYUpaNVFKWGdvTXhyNW9yWFloVg?oc=5",
+          "title": "변비 때문에 먹었는데…심혈관 건강 연구까지 나온 음식",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9McVY4ZldObkJYc1EzQ29ydjZPVU9QaEJoV0hZNVRoMnlQNGlxVVI0Ml9reXJsbjNLV3pXY2Fuek9jQXRxbnRCaVNjd1hVM2VpbjRabVROV3VwZ9IBVEFVX3lxTE5sLXJmZVhET0RfZ1ZpY00wdFBaSV9CS21HdlVfU01OYzRRbmp1RU5aZUZ6SVZMUGlYbzFKdnNLV3BZX3RCX1VlM0xPSFc1aVMtUkhvYw?oc=5",
           "desc": "",
-          "title_en": "\"I ate relentlessly\" … What are the 3 kinds of food minus 10kg of Seongsikyeong?",
-          "title_ja": "「絶え間なく食べました」…城西渓の10 kgを差し引いた3種類の食べ物は何ですか？",
-          "title_zh": "「我无情地吃东西」……除了10公斤的城思景， 3种食物是什么？"
+          "title_en": "I ate because of constipation... Foods that have even been researched for cardiovascular health",
+          "title_ja": "便秘のせいで食べた…心臓血管の健康にも研究されている食品",
+          "title_zh": "我吃东西是因为便秘……这些食物甚至被研究用于心血管健康"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "参加了泰国的“Typex Anuga”... Nongshim、Samyang、Daesang和Binggrae。"
         },
         {
+          "title": "신세계푸드 매수가 상향…이마트 부담 660억 확대 [시그널]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pakw0SWZ0TklXWUxmOHdCOElranFnUUh3cGFxSXdqSm5PUlRhVVpsNmQ3ZjRpYmVZYUh4c1Fib2JJSkpsLVFqRE15R0hVNUFzZGfSAVNBVV95cUxPYXFGMmhTOU5FTlVJenVibTItVkxxME13Ync3UTU5Vmt6SHRWZm0zWGRyRG5NVmZteVdDOUhTTHh5WUZaNDhHbTNmWUVBUFgydjJrSQ?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Food Purchase Increases… E-Mart's Burden Increases by 66 Billion [Signal]",
+          "title_ja": "新世界食料購入が増加…イーマートの負担が660億増加【シグナル】",
+          "title_zh": "新世界食品采购增加……易购负担增加660亿【信号】"
+        },
+        {
           "title": "이마트, 신세계푸드 주식교환 앞두고 매수가 30% 높였다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSFBDazl0R0hTaTFfMWkxWmV3NkpKY01mcUlMT0pHMlJ4dG04R0FpMmdWX3Q2UDhBUm9GRHZ5ekxrTmtQVGZiZUI1NTJtcFYzRFHSAVNBVV95cUxPX2FsamE2Z2Q5UmNTbk9zWS1rRWlhUU44bHJ5RnRxTDlQOS0wc3hOcXdqcjF2UDNOeVVtZGw0Nm8yNGQ5UnctU1B0cWVHV0VTRTFSbw?oc=5",
           "desc": "",
           "title_en": "E-Mart Buying 30% Higher Ahead of Stock Exchange for Shinsegae Food",
           "title_ja": "イーマート、新世界食料の株式取引所を30 ％先行して買い増し",
           "title_zh": "E-Mart提前30%收购新世界食品股票交易所"
-        },
-        {
-          "title": "“한식 세계에 알리려면 단순 음식 넘어 韓문화 함께 전해야” [이사람]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41bUZDZTJMUjJFSHhmZFltVVN1N2hwN0V6VllNT3R2RlZyWDJLRi1yOFNHMVJFdXJwUE94Z0wwdGNaWjh4akFNVlY5YTRNRk5ZZjlj0gFTQVVfeXFMTjVtRkNlMkxSMkVIeGZkWW1VU3U3aHA3RXpWWU1PdHZGVnJYMktGLXI4U0cxUkV1cnBQT3hnTDB0Y1paOHhqQU1WVjlhNE1GTllmOWM?oc=5",
-          "desc": "",
-          "title_en": "“If you want to tell the Korean food world, you have to preach the Korean culture together beyond simple food” [This person]",
-          "title_ja": "「韓国料理の世界に伝えたいのであれば、単純な食べ物を超えて韓国文化を一緒に説教しなければなりません」【この人】",
-          "title_zh": "「如果你想告诉韩国美食世界，除了简单的美食之外，你必须一起宣传韩国文化」【这个人】"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "구례 자연밥상·영암 낙지, '남도 음식 거리' 선정",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Cd2pucXZSaDd0UFFtd25zaUM0bGIxWmgyOUZ6T2M0MGVFRVBzUTMxUkd0d0FNcTQ3Tl83U1FFcmw4WlE3aDJhZUEtU1BwZ0M3?oc=5",
+          "title": "배민, 전국소년체전서 무료 푸드트럭 '응원도시락' 운영",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nRnlfLU8ycjA1aWhvR1F3T0VYeUNqZzJtdWFiVERLQzdNdGVYUHczSEZ4Vl9VYmpMSEtCMDR5LTItWF9vNklNZ1FtNFFtR0N6cFE?oc=5",
           "desc": "",
-          "title_en": "Gurye Natural Meal · Yeongam Octopus, Selected as' Namdo Food Street '",
-          "title_ja": "Gurye Natural Meal・Yeongam Octopus、「南道フードストリート」に選ばれました",
-          "title_zh": "Gurye天然餐· Yeongam章鱼，被选为「南岛美食街」"
+          "title_en": "Baemin, operated a free food truck 'Cheer City Box' for the entire nation's youth",
+          "title_ja": "Baeminは、全国の若者のために無料のフードトラック「Cheer City Box」を運営していました",
+          "title_zh": "Baemin为整个国家的年轻人运营了一辆免费的美食车“Cheer City Box”"
         },
         {
-          "title": "갑자기 고기 당기는 이유…\"장이 음식 속 단백질 부족 알려줘\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHLTVGcmRUQVFCUW5hcTM5TTQxZWtVc2FLZ3NYMDh0M3ltQXo4R0tLWjgxWFluUVRicGNUNXNHR2l0XzFidk5LR3c3b3hjTzV2MGc?oc=5",
+          "title": "현대硏 \"K-뷰티·K-푸드 키워야 수출 연 1조달러 달성\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNnUyWkVpYUFfeFhYWUgtYklRWnQ5OHNsODVxTFk4NmhtWUJCMUxWNnQyNjlHYzVFOWhzajl3Wnl0TTlGeUh5SnplQ2RXU2FtOGc?oc=5",
           "desc": "",
-          "title_en": "Suddenly, the reason for the meat pulling... \"The intestine tells me the lack of protein in the food\"",
-          "title_ja": "突然、肉が引っ張られた理由……「食べ物にタンパク質が不足していると腸が教えてくれる」",
-          "title_zh": "突然，拉肉的原因…… “肠道告诉我食物中缺少蛋白质”"
+          "title_en": "Hyundai \"K-Beauty · K-Food needs to be raised to achieve $1 trillion a year in exports\"",
+          "title_ja": "現代「1兆ドルの輸出を達成するために、K - Beauty・K - Foodを調達する必要がある」",
+          "title_zh": "现代“K-Beauty · K-Food需要筹集资金，以实现每年1万亿美元的出口”"
         },
         {
-          "title": "플라워 푸드, 1분기 매출 16억 달러..순이익 21% 감소",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1aC01VUx6V2Z3c2tRcFUwaFo3dmMySFl2VW1CV21TbWJwOENvQ3Q2S0dOMzRVLTVkSUJPb0F0XzdfNk5NQUs4UGtpdm5aTXlITEE?oc=5",
+          "title": "[사찰음식문화체험관] 검색결과",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2RobERuSVdjeDd4V1BPb0xibWhVQ3FtLXB6UjI1Ymczd2VvOHJoMmotd0ctQ3NWdFF5VTZ0TTJnX2hPTE94THIxZmFXLTU3NUdQTWhJY29BNmFZTDFJWGNOLVZFVkZxUnBMa2FrRFE3Ylp4WEsyREFhQVZOdlEwSjNrM2tiQUNiTmFKOFVTVGU4Q21ZM1hDR2ZmejU3TWRFNTBNSWxFU2tyR05EVVNIM251UFQ?oc=5",
           "desc": "",
-          "title_en": "Flower Food Revenues $1.6 Billion in Q1.. Net Profit Down 21%",
-          "title_ja": "フラワーフードの第1四半期の収益は16億ドル。純利益は21 ％減少",
-          "title_zh": "第一季度花卉食品收入16亿美元，净利润下降21%"
+          "title_en": "[Temples Food and Culture Experience Hall] Search Results",
+          "title_ja": "【お寺食文化体験館】検索結果",
+          "title_zh": "【寺庙美食文化体验馆】搜索结果"
         }
       ]
     },
