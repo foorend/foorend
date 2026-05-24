@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T19:18:27Z",
+  "lastUpdated": "2026-05-24T21:57:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -129,19 +129,11 @@
       "items": [
         {
           "title": "패스트푸드에 맞선 '슬로푸드' 창시자 페트리니 별세",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzSzdoQjVDYksxR0pqSEdIYUNFdHpuQ0NsRjJBNGtma2kwZFRTZ1lIVklpUUwxTDl6RGgzX2RrUGM3TW4wbXRvcWhGTEo5YXR2SkwtNNIBVEFVX3lxTFBzSzdoQjVDYksxR0pqSEdIYUNFdHpuQ0NsRjJBNGtma2kwZFRTZ1lIVklpUUwxTDl6RGgzX2RrUGM3TW4wbXRvcWhGTEo5YXR2SkwtNA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSkd2dkYybG1OdU9PeDBkSUItakM1QmJFMVJPRWRmcFdxWkY1ekRTMlJScmduMWVBR1hvMGQ3N1k2REYxNXZmc3lyYlJuV0lHVEk1QlZud3hHQdIBVEFVX3lxTFBzSzdoQjVDYksxR0pqSEdIYUNFdHpuQ0NsRjJBNGtma2kwZFRTZ1lIVklpUUwxTDl6RGgzX2RrUGM3TW4wbXRvcWhGTEo5YXR2SkwtNA?oc=5",
           "desc": "",
           "title_en": "Slow Food Founder Petrini Dies Against Fast Food",
           "title_ja": "スローフードの創業者ペトリニがファーストフードに反対して死亡",
           "title_zh": "慢食创始人Petrini死于快餐"
-        },
-        {
-          "title": "(주)애플푸드-산천애..홍삼 + 백숙의 환상적 만남",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlVsTFRCaFI0cW10cm5JUXBqam40SjJaRFJtb0Z6SUM1NjgxZjRGTzZZZUJtZEw0dy1tRktTU09SOW9EMXZtanQ5bjZ1M2NudGxfV2x2eGJRRExjQjJEREhZME5mLVVaV0ZENmJHOXVWUEt3RjN3SjlwWWM3WTVuWjlLZ01KNDQ?oc=5",
-          "desc": "",
-          "title_en": "Apple Food Co., Ltd.-Sancheon Ae.. Fantastic Encounter of Red Ginseng + Baek Sook",
-          "title_ja": "アップルフード株式会社-三川エー…朝鮮人参＋白淑の素敵な出会い",
-          "title_zh": "苹果食品有限公司-三川Ae..红参+白淑的奇妙邂逅"
         },
         {
           "title": "중동 물류난 뚫은 K푸드…1~4월 GCC 수출 37.6% 급증",
@@ -150,6 +142,14 @@
           "title_en": "Middle East logistics disrupted K-Food… GCC exports soared 37.6% from January to April",
           "title_ja": "中東の物流がK - Foodを混乱させました... GCCの輸出は1月から4月にかけて37.6 ％急増しました",
           "title_zh": "中东物流中断了K-Food…… 1月至4月海湾合作委员会出口飙升37.6%"
+        },
+        {
+          "title": "\"쉴 새 없이 먹었다\"…성시경 10kg 뺀 음식 3가지 뭐길래",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwYTBXcjFpclBLbVNlNUx6SWdqUlAxMUlnaFJ1V3Rwel95ZmFOWDlvVWltOXRQbWFwS19GdWtFMUJYUmRPekt6a1NOSjJycmRvbEJCRk5jS2ptUdIBVEFVX3lxTE80aHg0enVBOW9LS1dnUVRGYzZKdF94enFFUFhDUG1aMndhYnJQWUljZVFQRzc2bkZ5X0xoNXBOLUpNYUpaNVFKWGdvTXhyNW9yWFloVg?oc=5",
+          "desc": "",
+          "title_en": "\"I ate relentlessly\" … What are the 3 kinds of food minus 10kg of Seongsikyeong?",
+          "title_ja": "「絶え間なく食べました」…城西渓の10 kgを差し引いた3種類の食べ物は何ですか？",
+          "title_zh": "「我无情地吃东西」……除了10公斤的城思景， 3种食物是什么？"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "K푸드 총출동한 태국 ‘타이펙스 아누가’...농심·삼양·대상·빙그레 참가",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWLW9WQXFJbVRITC1CSE1jSElBTWJBQ3BEMnIzMHN0QU43MUVTa3JqNlVHOUJZMFdvT040Z0s1dVZoMUZFdWgwZWVObmdVR3ZlaFHSAVNBVV95cUxNMDc2X2lPMVFSUjdKWUJxMHdGLXZ5RHNoZ1NBeUk4WEFKcnFaNXRIeUowQUV4NmxzRnBGcGpMYTB6V3Y4blpabkcwU21XOWRPMXlyMA?oc=5",
+          "desc": "",
+          "title_en": "Participated in the Thai ‘Typex Anuga’... Nongshim, Samyang, Daesang, and Binggrae.",
+          "title_ja": "タイの「Typex Anuga」... Nongshim、Samyang、Daesang、Binggraeに参加。",
+          "title_zh": "参加了泰国的“Typex Anuga”... Nongshim、Samyang、Daesang和Binggrae。"
+        },
         {
           "title": "신세계푸드 매수가 상향…이마트 부담 660억 확대 [시그널]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pakw0SWZ0TklXWUxmOHdCOElranFnUUh3cGFxSXdqSm5PUlRhVVpsNmQ3ZjRpYmVZYUh4c1Fib2JJSkpsLVFqRE15R0hVNUFzZGfSAVNBVV95cUxPYXFGMmhTOU5FTlVJenVibTItVkxxME13Ync3UTU5Vmt6SHRWZm0zWGRyRG5NVmZteVdDOUhTTHh5WUZaNDhHbTNmWUVBUFgydjJrSQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "E-Mart Buying 30% Higher Ahead of Stock Exchange for Shinsegae Food",
           "title_ja": "イーマート、新世界食料の株式取引所を30 ％先行して買い増し",
           "title_zh": "E-Mart提前30%收购新世界食品股票交易所"
-        },
-        {
-          "title": "“한식 세계에 알리려면 단순 음식 넘어 韓문화 함께 전해야” [이사람]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41bUZDZTJMUjJFSHhmZFltVVN1N2hwN0V6VllNT3R2RlZyWDJLRi1yOFNHMVJFdXJwUE94Z0wwdGNaWjh4akFNVlY5YTRNRk5ZZjlj0gFTQVVfeXFMTjVtRkNlMkxSMkVIeGZkWW1VU3U3aHA3RXpWWU1PdHZGVnJYMktGLXI4U0cxUkV1cnBQT3hnTDB0Y1paOHhqQU1WVjlhNE1GTllmOWM?oc=5",
-          "desc": "",
-          "title_en": "“If you want to tell the Korean food world, you have to preach the Korean culture together beyond simple food” [This person]",
-          "title_ja": "「韓国料理の世界に伝えたいのであれば、単純な食べ物を超えて韓国文化を一緒に説教しなければなりません」【この人】",
-          "title_zh": "「如果你想告诉韩国美食世界，除了简单的美食之外，你必须一起宣传韩国文化」【这个人】"
         }
       ]
     },
