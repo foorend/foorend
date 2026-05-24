@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-05-24T13:27:23Z",
+  "lastUpdated": "2026-05-24T16:01:11Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Restaurants aren't buying the AI hype",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBfaExCRDF3QTdpbHVRRG9sLVJsalVxdEpJN0NIN1l1SnhlY1J0dE9yM0ljLXZHWDgySjlQaDIzOU5EbjVvaG5SZjhCRktKWGdTVUxYVlJVcjd2VDVlVVlKMDZJX0x4dGNFek5YR1hiSzdGUUlIeGFWNW1mT0JOcUkyVWZURnc?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑은 AI 과대 광고를 구매하지 않습니다.",
-          "title_ja": "レストランはAIの誇大広告を買っていない",
-          "title_zh": "餐厅不接受人工智能炒作"
-        },
         {
           "title": "Bankruptcy court approves the sale of Fat Brands to multiple buyers",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2Q0NGdwT2F2M1htcjlDaVJ0cVZBSExNMEhUcGxEcjZjdWJtS1FrMnN1V3AyUW5pbTlEa0NqUG1CVHM0SHJOUHJOeVBWcVVETlNjOUJPNTdOYjM3NzdaUFBXemtNa0tERkk2MThlRVFCUi1kVFhfMHFyQzZycDE4YVp3XzdYTEhlZHBBeGJJTTFmeFRTTWF3YkxiS1oydi13eHNvbDczYw?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "파산 법원, 여러 구매자에게 FAT 브랜드 판매 승인",
           "title_ja": "破産裁判所が複数の買い手へのFat Brandsの売却を承認",
           "title_zh": "破产法院批准将Fat Brands出售给多个买家"
+        },
+        {
+          "title": "Restaurants aren't buying the AI hype",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBfaExCRDF3QTdpbHVRRG9sLVJsalVxdEpJN0NIN1l1SnhlY1J0dE9yM0ljLXZHWDgySjlQaDIzOU5EbjVvaG5SZjhCRktKWGdTVUxYVlJVcjd2VDVlVVlKMDZJX0x4dGNFek5YR1hiSzdGUUlIeGFWNW1mT0JOcUkyVWZURnc?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑은 AI 과대 광고를 구매하지 않습니다.",
+          "title_ja": "レストランはAIの誇大広告を買っていない",
+          "title_zh": "餐厅不接受人工智能炒作"
         },
         {
           "title": "What we liked, and what we didn’t, about the National Restaurant Association Show",
@@ -136,20 +136,20 @@
           "title_zh": "慢食创始人Petrini死于快餐"
         },
         {
-          "title": "대상 청정원, 국민 식탁 지켜온 30년간의 진심…라이프푸드 전문 브랜드로 도약",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDdsd1BSWWRPdjM3THIxd1BTZTNnMm1Hc3JzNFpJbjIxOTlUU3dTZDVGc1ROVHk1MkNkTWQ4NjM3MmtNSE5Ybk81TElnVFk1aWZjdzY3Y1pENjlHMkdWei1nUGp0R1ZnTTVGQnFTb0FwdWxxWHR0dGFqR3FqbmFzSkpHWHh1MkJsZ1k1OHk2XzdxZkZlR0Vna2VUM21ldHFfZ2Z3Q01TTTFLb25aUFE?oc=5",
-          "desc": "",
-          "title_en": "Target Jeongwon, National Dining Table 30 Years of Sincerity… Leaping to a Brand Specializing in Life Food",
-          "title_ja": "TARGET JEONGWON、全国ダイニングテーブル30年の誠実さ…ライフフードに特化したブランドへの飛躍",
-          "title_zh": "TARGET JEONGWON ，全国餐桌30年的真诚……跃升为生活食品专业品牌"
-        },
-        {
           "title": "중동 물류난 뚫은 K푸드…1~4월 GCC 수출 37.6% 급증",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WdmlOeXNqallKZ0NWSzBSNXNQV3ZlVTdtWUJZTmpNZFl6RXZVM2tWNU1sR2lPQkJJY1d1QUF1SGFGWFQzMTRnNEVrYzdYaDlFQWg4RFRzQ1pTZ9IBVEFVX3lxTE1SUGZNajRQc2NVajRWUlo4OWpCZ1Q2blRTMUhkTFhvdTlITldxVzllcXRzcG5BQW1mcGNTSUM4N1NlOXZFYk0yWF9mUFhOWG9PckdaTw?oc=5",
           "desc": "",
           "title_en": "Middle East logistics disrupted K-Food… GCC exports soared 37.6% from January to April",
           "title_ja": "中東の物流がK - Foodを混乱させました... GCCの輸出は1月から4月にかけて37.6 ％急増しました",
           "title_zh": "中东物流中断了K-Food…… 1月至4月海湾合作委员会出口飙升37.6%"
+        },
+        {
+          "title": "변비 때문에 먹었는데…심혈관 건강 연구까지 나온 음식",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9McVY4ZldObkJYc1EzQ29ydjZPVU9QaEJoV0hZNVRoMnlQNGlxVVI0Ml9reXJsbjNLV3pXY2Fuek9jQXRxbnRCaVNjd1hVM2VpbjRabVROV3VwZ9IBVEFVX3lxTE5sLXJmZVhET0RfZ1ZpY00wdFBaSV9CS21HdlVfU01OYzRRbmp1RU5aZUZ6SVZMUGlYbzFKdnNLV3BZX3RCX1VlM0xPSFc1aVMtUkhvYw?oc=5",
+          "desc": "",
+          "title_en": "I ate because of constipation... Foods that have even been researched for cardiovascular health",
+          "title_ja": "便秘のせいで食べた…心臓血管の健康にも研究されている食品",
+          "title_zh": "我吃东西是因为便秘……这些食物甚至被研究用于心血管健康"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "无经济衰退的日式配菜市场"
         },
         {
+          "title": "써모스, 이나피스퀘어 컬렉션 확장…Gen-Z 공략",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ySU5WdFEyT3ZKSmw1QmZsYlNRLUxLdmE3Vi1nWmJwa3RNYWdMcjVUYXNubThtb3czOWdzamluYmw2MDRlZ0Y3OWdLS2owZXEzS09rTGRhcw?oc=5",
+          "desc": "",
+          "title_en": "Thermos Expands Inapic Square Collection… Gen-Z Attack",
+          "title_ja": "ThermosがInapic Squareコレクションを拡大… Gen - Z Attack",
+          "title_zh": "Thermos扩展Inapic Square系列… Gen-Z攻击"
+        },
+        {
           "title": "피자부터 디저트까지…美 불닭소스의 변신",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc3RRUWJWWjNVRndvX090alN0akNUZHpoemxZOEdwQVhfdlF4MDJGTXFERFRYcDBQb1ZHY3lXSkVsUjJWS2k0S2hIcHhxbUNtYzRFenpmbw?oc=5",
           "desc": "",
           "title_en": "From Pizza to Dessert… Beauty Bulchik Sauce Transformation",
           "title_ja": "ピザからデザートまで…美容バルチクソースの変身",
           "title_zh": "从披萨到甜点…美容Bulchik酱汁转换"
-        },
-        {
-          "title": "설빙 가맹점 매출, 전년 대비 15% 증가…“브랜드 재정비 성과”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mcV9jcmZsbW1fQUptZnJGMEJmNmdSUTc1MFczRE5ockc0SExlMTBMdlJtcjNDWTluOGtmN2lHNl85TFpldUlaQ1c3bnBWUzU2T1BLSjFLaw?oc=5",
-          "desc": "",
-          "title_en": "Snow Merchant Revenue Up 15% YoY… “Brand Reorganization Performance”",
-          "title_ja": "スノーマーチャント収益が前年比15 ％増…「ブランド再編実績」",
-          "title_zh": "雪商营收同比增长15% … “品牌重组业绩”"
         }
       ]
     }
