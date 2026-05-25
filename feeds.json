@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T10:07:52Z",
+  "lastUpdated": "2026-05-25T14:54:42Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,20 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"췌장 13cm 잘라내\"…전문의가 경고한 '췌장 망치는 음식 3가지' [건강!톡]",
+          "title": "\"췌장 13cm 잘라냈다\"…의사가 경고한 최악의 음식 3가지 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdlppS3BlT0xQa3JkS2F6d19RM09aaS1scGxZV0xGSmFETWNxa3lmOEFmNXpmT1BXZHh2QS1JaWVvdDk4RjlEbVhsVUtfLWh6SnN6dnA0al9zQdIBVEFVX3lxTE9aYW1NLWp3VmZyXzUwbzFzT1RHT3R2WHp3TGpaWGdReHNYb05scGZYQ1hkajdVcU42b2VFUjEya3Y2MFZjWUtJdU01TnlvZ2cyVjI5Vg?oc=5",
           "desc": "",
-          "title_en": "\"Cut the pancreas 13cm\" … '3 foods that spoil the pancreas' warned by a specialist [Health! Talk]",
-          "title_ja": "「膵臓を13 cm切る」…専門医が警告する「膵臓を台無しにする3つの食べ物」【健康！トーク】",
-          "title_zh": "“切开胰腺13厘米” ……专家警告的“3种破坏胰腺的食物”【健康！谈话】"
-        },
-        {
-          "title": "\"쉴 새 없이 먹었다\"…성시경 10kg 뺀 음식 3가지 뭐길래",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXpyeENUcXp0T2RPZ3lRMEptUUVRaXgxRXRjbXc5MWhwNnFKSkpONHhxYnM4ck9mYTh2YnBSZkF6YUR1eDh4bjNCY1BNNHcyaVpKZWJUZEFUeEtEVmF1aG00OW1VOXpET0tmYkhFczh5cmVrdHkwQUQyTUR3Y2JteHF1dmE1dVk?oc=5",
-          "desc": "",
-          "title_en": "\"I ate relentlessly\" … What are the 3 kinds of food minus 10kg of Seongsikyeong?",
-          "title_ja": "「絶え間なく食べました」…城西渓の10 kgを差し引いた3種類の食べ物は何ですか？",
-          "title_zh": "「我无情地吃东西」……除了10公斤的城思景， 3种食物是什么？"
+          "title_en": "“I cut my pancreas 13cm” … The 3 Worst Foods Your Doctor Warned You About [Health! Talk]",
+          "title_ja": "「私は膵臓を13 cm切った」...あなたの医者があなたに警告した3つの最悪の食べ物[健康！トーク]",
+          "title_zh": "“我割伤了胰腺13厘米” ……你的医生警告你的3种最糟糕的食物[健康！谈话]"
         },
         {
           "title": "패스트푸드에 맞선 '슬로푸드' 창시자 페트리니 별세",
@@ -150,6 +142,14 @@
           "title_en": "Slow Food Founder Petrini Dies Against Fast Food",
           "title_ja": "スローフードの創業者ペトリニがファーストフードに反対して死亡",
           "title_zh": "慢食创始人Petrini死于快餐"
+        },
+        {
+          "title": "\"쉴 새 없이 먹었다\"…성시경 10kg 뺀 음식 3가지 뭐길래",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwYTBXcjFpclBLbVNlNUx6SWdqUlAxMUlnaFJ1V3Rwel95ZmFOWDlvVWltOXRQbWFwS19GdWtFMUJYUmRPekt6a1NOSjJycmRvbEJCRk5jS2ptUdIBVEFVX3lxTE80aHg0enVBOW9LS1dnUVRGYzZKdF94enFFUFhDUG1aMndhYnJQWUljZVFQRzc2bkZ5X0xoNXBOLUpNYUpaNVFKWGdvTXhyNW9yWFloVg?oc=5",
+          "desc": "",
+          "title_en": "\"I ate relentlessly\" … What are the 3 kinds of food minus 10kg of Seongsikyeong?",
+          "title_ja": "「絶え間なく食べました」…城西渓の10 kgを差し引いた3種類の食べ物は何ですか？",
+          "title_zh": "「我无情地吃东西」……除了10公斤的城思景， 3种食物是什么？"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "[유통가] 농심음식문화원, 음식문화 정보 제공 웹진 발간",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZTEVfQkZFZGY2R21IRGxfVmlidnloX0V2RC1uNm1wU0tPLUwxMVhUd3NITFlSN2xVUUt5YVNGZkpBT3FLV3c1YlFQZnJZMEtuMEE?oc=5",
+          "desc": "",
+          "title_en": "[Distribution price] Nongsim Food & Cultural Center, webzine publication with information on food culture",
+          "title_ja": "【配布価格】ノンシムフード＆カルチャーセンター、食文化に関する情報を掲載したウェブジン出版物",
+          "title_zh": "【发行价格】Nongsim美食文化中心，提供美食文化信息的网络杂志刊物"
+        },
         {
           "title": "우즈벡 1위 유통망에 ‘K-푸드 전용 코너’ 들어선다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13VU9UN0tWYS1iRmhQVW9pQnNhRUxsM3VrOE04T2M2R0lBTHRsMklKZmUtUHlna295TFBJOVFkVEF5OU52QUs5SlA5UWlNb0JKcmfSAVNBVV95cUxOMG1jWHlXZVFqRGoyT2pxRDlZUFFiYi1jelhWTHNpR2VwSXBTUUhxaGNsdi00UkZoa0llanBlcG9SODgtV0E0bUV2eUVMenJ0ZmRqcw?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "KOTRA - Agricultural Service Holds‘ K-Food Global Bridge ’in Hanoi… One-stop Support for Export Finance",
           "title_ja": "KOTRA - Agricultural Serviceがハノイで「K - Food Global Bridge」を開催…輸出金融のワンストップサポート",
           "title_zh": "KOTRA - Agricultural Service在河内举办“K-Food Global Bridge”活动……为出口融资提供一站式支持"
-        },
-        {
-          "title": "이마트, 신세계푸드 주식교환 앞두고 매수가 30% 높였다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSFBDazl0R0hTaTFfMWkxWmV3NkpKY01mcUlMT0pHMlJ4dG04R0FpMmdWX3Q2UDhBUm9GRHZ5ekxrTmtQVGZiZUI1NTJtcFYzRFHSAVNBVV95cUxPX2FsamE2Z2Q5UmNTbk9zWS1rRWlhUU44bHJ5RnRxTDlQOS0wc3hOcXdqcjF2UDNOeVVtZGw0Nm8yNGQ5UnctU1B0cWVHV0VTRTFSbw?oc=5",
-          "desc": "",
-          "title_en": "E-Mart Buying 30% Higher Ahead of Stock Exchange for Shinsegae Food",
-          "title_ja": "イーマート、新世界食料の株式取引所を30 ％先行して買い増し",
-          "title_zh": "E-Mart提前30%收购新世界食品股票交易所"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "乌兹别克斯坦最大的分销连锁店设有专门的K-food角落"
         },
         {
-          "title": "코트라·농업정책보험금융원, 베트남에 'K푸드 사절단'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yMGtRYUpSWFVZNlZ0bzZfSW5jVkt0TnI4N29WZGdBYU51dDF1SUxtejFfVV9DZjIyRXcxY3JWeHF1b2RORGFPWW8xOG04c29oeFE?oc=5",
-          "desc": "",
-          "title_en": "KOTRA, Agricultural Policy and Insurance Finance Institute, 'K-Food Mission' to Vietnam",
-          "title_ja": "KOTRA、農業政策保険金融研究所、ベトナムへの「K - Food Mission」",
-          "title_zh": "KOTRA ，农业政策和保险金融研究所， “K-Food Mission”到越南"
-        },
-        {
           "title": "우즈벡 1위 유통망 뚫은 K푸드… 대사관·코트라·수은 ‘원팀’ 결실",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kUURYVjJNN0ROakN1WF9zQkJsNWdXdDN0emJkYTY5UUdWMHgyeEhxdHVsUEVGMkI2TFotSVRCODFKcHdYV1VwNXNNSHA1dG15U2Nzb1B3?oc=5",
           "desc": "",
           "title_en": "Uzbekistan's # 1 distribution network breaks K-Food… Embassy, Kotra, Mercury ‘One Team’ Fruit",
           "title_ja": "ウズベキスタンのナンバーワンの流通ネットワークがK - Food... Embassy、Kotra、Mercury「One Team」Fruitを壊す",
           "title_zh": "乌兹别克斯坦排名第一的分销网络打破了K-Food... Embassy, Kotra, Mercury ‘One Team’ Fruit"
+        },
+        {
+          "title": "“전자레인지 안 돌려도 촉촉”…푸드테크 결합한 김밥, 리뉴얼 속도",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GczhORDdURW5mYU5PRmx4U2dvQUhWQi1fMmx5LWJtalhMSmJKZkE0VnpHdFlSbGt3dU51ZzR6TzJESVdvZmMtLWZuUFBtNUg1QjZSaEpn?oc=5",
+          "desc": "",
+          "title_en": "“Moisturizing without microwaving” … Food Tech Combined Gimbap, Renewal Speed",
+          "title_ja": "「電子レンジなしで保湿」…フードテック複合ジンバプ、リニューアルスピード",
+          "title_zh": "“无微波保湿” …… Food Tech组合Gimbap ，更新速度"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "Thermos扩展Inapic Square系列… Gen-Z攻击"
         },
         {
-          "title": "피자부터 디저트까지…美 불닭소스의 변신",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc3RRUWJWWjNVRndvX090alN0akNUZHpoemxZOEdwQVhfdlF4MDJGTXFERFRYcDBQb1ZHY3lXSkVsUjJWS2k0S2hIcHhxbUNtYzRFenpmbw?oc=5",
+          "title": "K-바비큐 시즈닝, 남아공 마트 주요 매대 차지",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNW5YNWdKV2o3Nk9tQmNHR3ZQcXVTN245WVdOWFVkSEk0cHBBZ2ExM0RBYjZmMGJqbVJoY3ZDcWVSY2NkUjFEUVdDUWRJYnItR1FwRWFBcw?oc=5",
           "desc": "",
-          "title_en": "From Pizza to Dessert… Beauty Bulchik Sauce Transformation",
-          "title_ja": "ピザからデザートまで…美容バルチクソースの変身",
-          "title_zh": "从披萨到甜点…美容Bulchik酱汁转换"
+          "title_en": "K-BBQ Seasoning takes over major South African grocery store",
+          "title_ja": "K - BBQ調味料が南アフリカの大手食料品店を引き継ぐ",
+          "title_zh": "K-BBQ调味料接管南非主要杂货店"
         }
       ]
     }
