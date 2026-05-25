@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T17:06:34Z",
+  "lastUpdated": "2026-05-25T19:41:07Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "“我割伤了胰腺13厘米” ……你的医生警告你的3种最糟糕的食物[健康！谈话]"
         },
         {
+          "title": "\"다이어트 지식 적을수록 음식조절 의존\"",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWQjRIZjZhTVZrMGc2ODJQam9fOXI2aU1IYVpWUkVXQlN6VUczM2FZZjVwSG5aS1dfVTVjRHNTeDNmYTU2WXF3RDFyYjgzMDg3cG1NdUlndUNZbDRvOEdFTlZwWGhYN2JXemRXeFRXVXVYc3htRXhGaXN0dllJQWs?oc=5",
+          "desc": "",
+          "title_en": "\"The less diet knowledge you have, the more reliance you have on food control\"",
+          "title_ja": "「ダイエットの知識が少ないほど、食品管理への依存度が高くなります」",
+          "title_zh": "“你对饮食的了解越少，你对食物控制的依赖就越大”"
+        },
+        {
           "title": "패스트푸드에 맞선 '슬로푸드' 창시자 페트리니 별세",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSkd2dkYybG1OdU9PeDBkSUItakM1QmJFMVJPRWRmcFdxWkY1ekRTMlJScmduMWVBR1hvMGQ3N1k2REYxNXZmc3lyYlJuV0lHVEk1QlZud3hHQdIBVEFVX3lxTFBzSzdoQjVDYksxR0pqSEdIYUNFdHpuQ0NsRjJBNGtma2kwZFRTZ1lIVklpUUwxTDl6RGgzX2RrUGM3TW4wbXRvcWhGTEo5YXR2SkwtNA?oc=5",
           "desc": "",
           "title_en": "Slow Food Founder Petrini Dies Against Fast Food",
           "title_ja": "スローフードの創業者ペトリニがファーストフードに反対して死亡",
           "title_zh": "慢食创始人Petrini死于快餐"
-        },
-        {
-          "title": "\"쉴 새 없이 먹었다\"…성시경 10kg 뺀 음식 3가지 뭐길래",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwYTBXcjFpclBLbVNlNUx6SWdqUlAxMUlnaFJ1V3Rwel95ZmFOWDlvVWltOXRQbWFwS19GdWtFMUJYUmRPekt6a1NOSjJycmRvbEJCRk5jS2ptUdIBVEFVX3lxTE80aHg0enVBOW9LS1dnUVRGYzZKdF94enFFUFhDUG1aMndhYnJQWUljZVFQRzc2bkZ5X0xoNXBOLUpNYUpaNVFKWGdvTXhyNW9yWFloVg?oc=5",
-          "desc": "",
-          "title_en": "\"I ate relentlessly\" … What are the 3 kinds of food minus 10kg of Seongsikyeong?",
-          "title_ja": "「絶え間なく食べました」…城西渓の10 kgを差し引いた3種類の食べ物は何ですか？",
-          "title_zh": "「我无情地吃东西」……除了10公斤的城思景， 3种食物是什么？"
         }
       ]
     },
@@ -157,14 +157,6 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
-        {
-          "title": "[유통가] 농심음식문화원, 음식문화 정보 제공 웹진 발간",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZTEVfQkZFZGY2R21IRGxfVmlidnloX0V2RC1uNm1wU0tPLUwxMVhUd3NITFlSN2xVUUt5YVNGZkpBT3FLV3c1YlFQZnJZMEtuMEE?oc=5",
-          "desc": "",
-          "title_en": "[Distribution price] Nongsim Food & Cultural Center, webzine publication with information on food culture",
-          "title_ja": "【配布価格】ノンシムフード＆カルチャーセンター、食文化に関する情報を掲載したウェブジン出版物",
-          "title_zh": "【发行价格】Nongsim美食文化中心，提供美食文化信息的网络杂志刊物"
-        },
         {
           "title": "우즈벡 1위 유통망에 ‘K-푸드 전용 코너’ 들어선다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13VU9UN0tWYS1iRmhQVW9pQnNhRUxsM3VrOE04T2M2R0lBTHRsMklKZmUtUHlna295TFBJOVFkVEF5OU52QUs5SlA5UWlNb0JKcmfSAVNBVV95cUxOMG1jWHlXZVFqRGoyT2pxRDlZUFFiYi1jelhWTHNpR2VwSXBTUUhxaGNsdi00UkZoa0llanBlcG9SODgtV0E0bUV2eUVMenJ0ZmRqcw?oc=5",
@@ -176,6 +168,14 @@
         {
           "title": "코트라-농금원, 하노이서 ‘K푸드 글로벌 브릿지’ 개최…수출금융 원스톱 지원",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzNE5zMndDRmtHeDVJMkk0aVNHaXFZakd6U3RDOFJZVFd5SDJVc2FsNlRyNzhucWZ1V3Z2SEg3aVhxdHVEZlU0WHpfNXhsTDZpNkHSAVNBVV95cUxPd2gyckY4cTVDelFwSmoyMUZDQlhYY1l0ZFJjd0RpdWdYV1JUc0NqN0hRYTF4OVNOYm9DUG1RcjBOXzBlREk3RkVNRFIzajNQelhzUQ?oc=5",
+          "desc": "",
+          "title_en": "KOTRA - Agricultural Service Holds‘ K-Food Global Bridge ’in Hanoi… One-stop Support for Export Finance",
+          "title_ja": "KOTRA - Agricultural Serviceがハノイで「K - Food Global Bridge」を開催…輸出金融のワンストップサポート",
+          "title_zh": "KOTRA - Agricultural Service在河内举办“K-Food Global Bridge”活动……为出口融资提供一站式支持"
+        },
+        {
+          "title": "코트라-농금원, 하노이서 ‘K푸드 글로벌 브릿지’ 개최…수출금융 원스톱 지원",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93aDJyRjhxNUN6UXBKajIxRkNCWFhjWXRkUmN3RGl1Z1hXUlRzQ2o3SFFhMXg5U05ib0NQbVFyME5fMGVESTdGRU1EUjNqM1B6WHNR0gFTQVVfeXFMT3doMnJGOHE1Q3pRcEpqMjFGQ0JYWGNZdGRSY3dEaXVnWFdSVHNDajdIUWExeDlTTmJvQ1BtUXIwTl8wZURJN0ZFTURSM2ozUHpYc1E?oc=5",
           "desc": "",
           "title_en": "KOTRA - Agricultural Service Holds‘ K-Food Global Bridge ’in Hanoi… One-stop Support for Export Finance",
           "title_ja": "KOTRA - Agricultural Serviceがハノイで「K - Food Global Bridge」を開催…輸出金融のワンストップサポート",
