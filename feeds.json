@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-05-24T21:57:03Z",
+  "lastUpdated": "2026-05-25T03:55:28Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Noble 33 execs facing ugly legal battle after firing general counsel for embezzlement",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNanVKb0tXVGg2LXRsQndoXzJLdUYzOC00Q3lQOXZMZkJMV1BOUE9TTFJnc3UwMVFIZXFYOU5iZ3VScV9QZnRhZ1pyVjFHMWdvYS11WnBaZ1FncEdFbzV4TE1udnFpcEpQUHVuMUFZZnYwUGloQVNQa3NrNVZrZzFLZ0pQWFdxUFNFODJDY1ZXN3FlWWxLa2ltaFI5NEhwVHlNQl8zazBVakVGUXphWEYzQ1A0RTZ2b2R1R05CdWZSOHdhZ3ZsdWFZ?oc=5",
+          "desc": "",
+          "title_ko": "횡령 혐의로 고문 변호사를 해고 한 후 추악한 법적 전투에 직면 한 귀족 33 명의 임원",
+          "title_ja": "横領のために顧問弁護士を解任した後、醜い法的戦いに直面している貴族33の幹部",
+          "title_zh": "Noble 33高管因贪污解雇总法律顾问后面临丑陋的法律斗争"
+        },
         {
           "title": "Bankruptcy court approves the sale of Fat Brands to multiple buyers",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2Q0NGdwT2F2M1htcjlDaVJ0cVZBSExNMEhUcGxEcjZjdWJtS1FrMnN1V3AyUW5pbTlEa0NqUG1CVHM0SHJOUHJOeVBWcVVETlNjOUJPNTdOYjM3NzdaUFBXemtNa0tERkk2MThlRVFCUi1kVFhfMHFyQzZycDE4YVp3XzdYTEhlZHBBeGJJTTFmeFRTTWF3YkxiS1oydi13eHNvbDczYw?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "레스토랑은 AI 과대 광고를 구매하지 않습니다.",
           "title_ja": "レストランはAIの誇大広告を買っていない",
           "title_zh": "餐厅不接受人工智能炒作"
-        },
-        {
-          "title": "What we liked, and what we didn’t, about the National Restaurant Association Show",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3hKajB1MkpBV3NMSGgydTNzUEJDbFhiXzlOTHU1Qi1RV011ekRib29qYm5QNGpUeUZVaWdSZWdBQnhBVHA5eFhMT0JDdlRYSmkwZmQ2U1dCSlJWNVZqWXlHZkk3T3VMSC0xME1vZFZlNVhiT2JkSlNRa0lTN2xTd3hBU285ZlNINzRQbFhfT2ZOcTNnNlMtU2ZSQlZ1Xy11SlN2R1VXS3ZaZTI5YlRhSFVKVjc5YnRJQlE?oc=5",
-          "desc": "",
-          "title_ko": "전국 레스토랑 협회 쇼에 대해 좋았던 점과 그렇지 않았던 점",
-          "title_ja": "全米レストラン協会ショーで気に入った点と気に入らなかった点",
-          "title_zh": "我们对全国餐厅协会展览会（ National Restaurant Association Show ）的喜好和不满之处"
         }
       ]
     },
@@ -129,19 +129,11 @@
       "items": [
         {
           "title": "패스트푸드에 맞선 '슬로푸드' 창시자 페트리니 별세",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSkd2dkYybG1OdU9PeDBkSUItakM1QmJFMVJPRWRmcFdxWkY1ekRTMlJScmduMWVBR1hvMGQ3N1k2REYxNXZmc3lyYlJuV0lHVEk1QlZud3hHQdIBVEFVX3lxTFBzSzdoQjVDYksxR0pqSEdIYUNFdHpuQ0NsRjJBNGtma2kwZFRTZ1lIVklpUUwxTDl6RGgzX2RrUGM3TW4wbXRvcWhGTEo5YXR2SkwtNA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzSzdoQjVDYksxR0pqSEdIYUNFdHpuQ0NsRjJBNGtma2kwZFRTZ1lIVklpUUwxTDl6RGgzX2RrUGM3TW4wbXRvcWhGTEo5YXR2SkwtNNIBVEFVX3lxTFBzSzdoQjVDYksxR0pqSEdIYUNFdHpuQ0NsRjJBNGtma2kwZFRTZ1lIVklpUUwxTDl6RGgzX2RrUGM3TW4wbXRvcWhGTEo5YXR2SkwtNA?oc=5",
           "desc": "",
           "title_en": "Slow Food Founder Petrini Dies Against Fast Food",
           "title_ja": "スローフードの創業者ペトリニがファーストフードに反対して死亡",
           "title_zh": "慢食创始人Petrini死于快餐"
-        },
-        {
-          "title": "중동 물류난 뚫은 K푸드…1~4월 GCC 수출 37.6% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WdmlOeXNqallKZ0NWSzBSNXNQV3ZlVTdtWUJZTmpNZFl6RXZVM2tWNU1sR2lPQkJJY1d1QUF1SGFGWFQzMTRnNEVrYzdYaDlFQWg4RFRzQ1pTZ9IBVEFVX3lxTE1SUGZNajRQc2NVajRWUlo4OWpCZ1Q2blRTMUhkTFhvdTlITldxVzllcXRzcG5BQW1mcGNTSUM4N1NlOXZFYk0yWF9mUFhOWG9PckdaTw?oc=5",
-          "desc": "",
-          "title_en": "Middle East logistics disrupted K-Food… GCC exports soared 37.6% from January to April",
-          "title_ja": "中東の物流がK - Foodを混乱させました... GCCの輸出は1月から4月にかけて37.6 ％急増しました",
-          "title_zh": "中东物流中断了K-Food…… 1月至4月海湾合作委员会出口飙升37.6%"
         },
         {
           "title": "\"쉴 새 없이 먹었다\"…성시경 10kg 뺀 음식 3가지 뭐길래",
@@ -150,6 +142,14 @@
           "title_en": "\"I ate relentlessly\" … What are the 3 kinds of food minus 10kg of Seongsikyeong?",
           "title_ja": "「絶え間なく食べました」…城西渓の10 kgを差し引いた3種類の食べ物は何ですか？",
           "title_zh": "「我无情地吃东西」……除了10公斤的城思景， 3种食物是什么？"
+        },
+        {
+          "title": "중동 물류난 뚫은 K푸드…1~4월 GCC 수출 37.6% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WdmlOeXNqallKZ0NWSzBSNXNQV3ZlVTdtWUJZTmpNZFl6RXZVM2tWNU1sR2lPQkJJY1d1QUF1SGFGWFQzMTRnNEVrYzdYaDlFQWg4RFRzQ1pTZ9IBVEFVX3lxTE1SUGZNajRQc2NVajRWUlo4OWpCZ1Q2blRTMUhkTFhvdTlITldxVzllcXRzcG5BQW1mcGNTSUM4N1NlOXZFYk0yWF9mUFhOWG9PckdaTw?oc=5",
+          "desc": "",
+          "title_en": "Middle East logistics disrupted K-Food… GCC exports soared 37.6% from January to April",
+          "title_ja": "中東の物流がK - Foodを混乱させました... GCCの輸出は1月から4月にかけて37.6 ％急増しました",
+          "title_zh": "中东物流中断了K-Food…… 1月至4月海湾合作委员会出口飙升37.6%"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "[유통가] 농심음식문화원, 음식문화 정보 제공 웹진 발간",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZTEVfQkZFZGY2R21IRGxfVmlidnloX0V2RC1uNm1wU0tPLUwxMVhUd3NITFlSN2xVUUt5YVNGZkpBT3FLV3c1YlFQZnJZMEtuMEE?oc=5",
+          "desc": "",
+          "title_en": "[Distribution price] Nongsim Food & Cultural Center, webzine publication with information on food culture",
+          "title_ja": "【配布価格】ノンシムフード＆カルチャーセンター、食文化に関する情報を掲載したウェブジン出版物",
+          "title_zh": "【发行价格】Nongsim美食文化中心，提供美食文化信息的网络杂志刊物"
+        },
+        {
+          "title": "코트라-농금원, 하노이서 ‘K푸드 글로벌 브릿지’ 개최…수출금융 원스톱 지원",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93aDJyRjhxNUN6UXBKajIxRkNCWFhjWXRkUmN3RGl1Z1hXUlRzQ2o3SFFhMXg5U05ib0NQbVFyME5fMGVESTdGRU1EUjNqM1B6WHNR0gFTQVVfeXFMT3doMnJGOHE1Q3pRcEpqMjFGQ0JYWGNZdGRSY3dEaXVnWFdSVHNDajdIUWExeDlTTmJvQ1BtUXIwTl8wZURJN0ZFTURSM2ozUHpYc1E?oc=5",
+          "desc": "",
+          "title_en": "KOTRA - Agricultural Service Holds‘ K-Food Global Bridge ’in Hanoi… One-stop Support for Export Finance",
+          "title_ja": "KOTRA - Agricultural Serviceがハノイで「K - Food Global Bridge」を開催…輸出金融のワンストップサポート",
+          "title_zh": "KOTRA - Agricultural Service在河内举办“K-Food Global Bridge”活动……为出口融资提供一站式支持"
+        },
+        {
           "title": "K푸드 총출동한 태국 ‘타이펙스 아누가’...농심·삼양·대상·빙그레 참가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWLW9WQXFJbVRITC1CSE1jSElBTWJBQ3BEMnIzMHN0QU43MUVTa3JqNlVHOUJZMFdvT040Z0s1dVZoMUZFdWgwZWVObmdVR3ZlaFHSAVNBVV95cUxNMDc2X2lPMVFSUjdKWUJxMHdGLXZ5RHNoZ1NBeUk4WEFKcnFaNXRIeUowQUV4NmxzRnBGcGpMYTB6V3Y4blpabkcwU21XOWRPMXlyMA?oc=5",
           "desc": "",
           "title_en": "Participated in the Thai ‘Typex Anuga’... Nongshim, Samyang, Daesang, and Binggrae.",
           "title_ja": "タイの「Typex Anuga」... Nongshim、Samyang、Daesang、Binggraeに参加。",
           "title_zh": "参加了泰国的“Typex Anuga”... Nongshim、Samyang、Daesang和Binggrae。"
-        },
-        {
-          "title": "신세계푸드 매수가 상향…이마트 부담 660억 확대 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pakw0SWZ0TklXWUxmOHdCOElranFnUUh3cGFxSXdqSm5PUlRhVVpsNmQ3ZjRpYmVZYUh4c1Fib2JJSkpsLVFqRE15R0hVNUFzZGfSAVNBVV95cUxPYXFGMmhTOU5FTlVJenVibTItVkxxME13Ync3UTU5Vmt6SHRWZm0zWGRyRG5NVmZteVdDOUhTTHh5WUZaNDhHbTNmWUVBUFgydjJrSQ?oc=5",
-          "desc": "",
-          "title_en": "Shinsegae Food Purchase Increases… E-Mart's Burden Increases by 66 Billion [Signal]",
-          "title_ja": "新世界食料購入が増加…イーマートの負担が660億増加【シグナル】",
-          "title_zh": "新世界食品采购增加……易购负担增加660亿【信号】"
-        },
-        {
-          "title": "이마트, 신세계푸드 주식교환 앞두고 매수가 30% 높였다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSFBDazl0R0hTaTFfMWkxWmV3NkpKY01mcUlMT0pHMlJ4dG04R0FpMmdWX3Q2UDhBUm9GRHZ5ekxrTmtQVGZiZUI1NTJtcFYzRFHSAVNBVV95cUxPX2FsamE2Z2Q5UmNTbk9zWS1rRWlhUU44bHJ5RnRxTDlQOS0wc3hOcXdqcjF2UDNOeVVtZGw0Nm8yNGQ5UnctU1B0cWVHV0VTRTFSbw?oc=5",
-          "desc": "",
-          "title_en": "E-Mart Buying 30% Higher Ahead of Stock Exchange for Shinsegae Food",
-          "title_ja": "イーマート、新世界食料の株式取引所を30 ％先行して買い増し",
-          "title_zh": "E-Mart提前30%收购新世界食品股票交易所"
         }
       ]
     },
@@ -188,12 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "구례 자연밥상·영암 낙지, '남도 음식 거리' 선정",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Cd2pucXZSaDd0UFFtd25zaUM0bGIxWmgyOUZ6T2M0MGVFRVBzUTMxUkd0d0FNcTQ3Tl83U1FFcmw4WlE3aDJhZUEtU1BwZ0M3?oc=5",
+          "title": "우즈벡 최대 유통체인에 K-푸드 전용코너 생긴다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNlZpQkdod21TeDZMMGItSVRVaHBnQmMyQlBJNHY2MUxvY1MyNEtWdGhIbmEybFVJaGZVMlhGYUdyY1lKT3dKUDZ2WDdheWhYM0E?oc=5",
           "desc": "",
-          "title_en": "Gurye Natural Meal · Yeongam Octopus, Selected as' Namdo Food Street '",
-          "title_ja": "Gurye Natural Meal・Yeongam Octopus、「南道フードストリート」に選ばれました",
-          "title_zh": "Gurye天然餐· Yeongam章鱼，被选为「南岛美食街」"
+          "title_en": "Uzbekistan's largest distribution chain has a dedicated K-food corner",
+          "title_ja": "ウズベキスタン最大の流通チェーンには、専用のK - foodコーナーがあります",
+          "title_zh": "乌兹别克斯坦最大的分销连锁店设有专门的K-food角落"
+        },
+        {
+          "title": "코트라·농업정책보험금융원, 베트남에 'K푸드 사절단'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yMGtRYUpSWFVZNlZ0bzZfSW5jVkt0TnI4N29WZGdBYU51dDF1SUxtejFfVV9DZjIyRXcxY3JWeHF1b2RORGFPWW8xOG04c29oeFE?oc=5",
+          "desc": "",
+          "title_en": "KOTRA, Agricultural Policy and Insurance Finance Institute, 'K-Food Mission' to Vietnam",
+          "title_ja": "KOTRA、農業政策保険金融研究所、ベトナムへの「K - Food Mission」",
+          "title_zh": "KOTRA ，农业政策和保险金融研究所， “K-Food Mission”到越南"
         },
         {
           "title": "배민, 전국소년체전서 무료 푸드트럭 '응원도시락' 운영",
@@ -202,14 +210,6 @@
           "title_en": "Baemin, operated a free food truck 'Cheer City Box' for the entire nation's youth",
           "title_ja": "Baeminは、全国の若者のために無料のフードトラック「Cheer City Box」を運営していました",
           "title_zh": "Baemin为整个国家的年轻人运营了一辆免费的美食车“Cheer City Box”"
-        },
-        {
-          "title": "현대硏 \"K-뷰티·K-푸드 키워야 수출 연 1조달러 달성\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNnUyWkVpYUFfeFhYWUgtYklRWnQ5OHNsODVxTFk4NmhtWUJCMUxWNnQyNjlHYzVFOWhzajl3Wnl0TTlGeUh5SnplQ2RXU2FtOGc?oc=5",
-          "desc": "",
-          "title_en": "Hyundai \"K-Beauty · K-Food needs to be raised to achieve $1 trillion a year in exports\"",
-          "title_ja": "現代「1兆ドルの輸出を達成するために、K - Beauty・K - Foodを調達する必要がある」",
-          "title_zh": "现代“K-Beauty · K-Food需要筹集资金，以实现每年1万亿美元的出口”"
         }
       ]
     },
