@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T14:54:42Z",
+  "lastUpdated": "2026-05-25T17:06:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -44,20 +44,20 @@
           "title_zh": "这就是为什么葡萄冰淇淋不是一回事"
         },
         {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
           "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
           "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
           "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -226,12 +226,12 @@
           "title_zh": "无经济衰退的日式配菜市场"
         },
         {
-          "title": "써모스, 이나피스퀘어 컬렉션 확장…Gen-Z 공략",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ySU5WdFEyT3ZKSmw1QmZsYlNRLUxLdmE3Vi1nWmJwa3RNYWdMcjVUYXNubThtb3czOWdzamluYmw2MDRlZ0Y3OWdLS2owZXEzS09rTGRhcw?oc=5",
+          "title": "피자부터 디저트까지…美 불닭소스의 변신",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc3RRUWJWWjNVRndvX090alN0akNUZHpoemxZOEdwQVhfdlF4MDJGTXFERFRYcDBQb1ZHY3lXSkVsUjJWS2k0S2hIcHhxbUNtYzRFenpmbw?oc=5",
           "desc": "",
-          "title_en": "Thermos Expands Inapic Square Collection… Gen-Z Attack",
-          "title_ja": "ThermosがInapic Squareコレクションを拡大… Gen - Z Attack",
-          "title_zh": "Thermos扩展Inapic Square系列… Gen-Z攻击"
+          "title_en": "From Pizza to Dessert… Beauty Bulchik Sauce Transformation",
+          "title_ja": "ピザからデザートまで…美容バルチクソースの変身",
+          "title_zh": "从披萨到甜点…美容Bulchik酱汁转换"
         },
         {
           "title": "K-바비큐 시즈닝, 남아공 마트 주요 매대 차지",
