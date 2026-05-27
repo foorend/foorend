@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T22:20:07Z",
+  "lastUpdated": "2026-05-27T03:55:14Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Red Robin报告了更好的利润，并感谢ChatGPT"
         },
         {
-          "title": "Bankruptcy court approves the sale of Fat Brands to multiple buyers",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2Q0NGdwT2F2M1htcjlDaVJ0cVZBSExNMEhUcGxEcjZjdWJtS1FrMnN1V3AyUW5pbTlEa0NqUG1CVHM0SHJOUHJOeVBWcVVETlNjOUJPNTdOYjM3NzdaUFBXemtNa0tERkk2MThlRVFCUi1kVFhfMHFyQzZycDE4YVp3XzdYTEhlZHBBeGJJTTFmeFRTTWF3YkxiS1oydi13eHNvbDczYw?oc=5",
+          "title": "Restaurants aren't buying the AI hype",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBfaExCRDF3QTdpbHVRRG9sLVJsalVxdEpJN0NIN1l1SnhlY1J0dE9yM0ljLXZHWDgySjlQaDIzOU5EbjVvaG5SZjhCRktKWGdTVUxYVlJVcjd2VDVlVVlKMDZJX0x4dGNFek5YR1hiSzdGUUlIeGFWNW1mT0JOcUkyVWZURnc?oc=5",
           "desc": "",
-          "title_ko": "파산 법원, 여러 구매자에게 FAT 브랜드 판매 승인",
-          "title_ja": "破産裁判所が複数の買い手へのFat Brandsの売却を承認",
-          "title_zh": "破产法院批准将Fat Brands出售给多个买家"
+          "title_ko": "레스토랑은 AI 과대 광고를 구매하지 않습니다.",
+          "title_ja": "レストランはAIの誇大広告を買っていない",
+          "title_zh": "餐厅不接受人工智能炒作"
         }
       ]
     },
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "풀무원푸드앤컬처, 공군 민간위탁 급식 평가서 ‘최우수상’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tY3lPTW5yV3hlbHFhSVQxOS1OM3YzNFQ3VVZUSXZCa0dFM1d4RlNWR3VpY0ZHbFZpbEZ1QU1HSVQ4RzNKRzJxM01ZZDFYZ2hrUkHSAVNBVV95cUxPcUZrbDlCekotWWF0MVpMclRFNjBkXzZ1M3dhbWpLR09ITXNrcnMtQWF6LWpxdHEwUkxOQWFtZDlheWZ4bmtGSnlFcjdFZGppenFWQQ?oc=5",
-          "desc": "",
-          "title_en": "Pulmuone Food and Culture, Air Force Civilian Consignment Meal Evaluation ‘Grand Prize’",
-          "title_ja": "Pulmuone Food and Culture、空軍民間人委託食事評価「大賞」",
-          "title_zh": "Pulmuone食品和文化，空军民用托运餐评估“特等奖”"
-        },
-        {
           "title": "동원F&B, ‘타이펙스 2026’서 K-푸드 홍보 “동남아 시장 공략”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EMWdSN2hvZ1BvSGFlZm9qemdZZGsyeS1HWklaZl9Eb1VPaWN0U0xkcUV3ZXV3X2VpdW15b0Q2QlROeHIyUDBNcmpvV1ptemJLalE?oc=5",
           "desc": "",
@@ -174,12 +166,20 @@
           "title_zh": "Dongwon F&B推广“Typex 2026”西K-Food “瞄准东南亚市场”"
         },
         {
-          "title": "우즈베크 1위 유통망에 ‘K푸드 전용코너’ 입성",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13VU9UN0tWYS1iRmhQVW9pQnNhRUxsM3VrOE04T2M2R0lBTHRsMklKZmUtUHlna295TFBJOVFkVEF5OU52QUs5SlA5UWlNb0JKcmfSAVNBVV95cUxOMG1jWHlXZVFqRGoyT2pxRDlZUFFiYi1jelhWTHNpR2VwSXBTUUhxaGNsdi00UkZoa0llanBlcG9SODgtV0E0bUV2eUVMenJ0ZmRqcw?oc=5",
+          "title": "동원F&B, ‘타이펙스 2026’서 K-푸드 홍보 “동남아 시장 공략”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ORHNESDM3SEFwa2NUMnNqeU8xSXpDeEI4S0FfSktRUXE3V3hZeExVZHFLSXV4RERCbE5kYTQxRFBrTUQ3RHYwR0QzeTdsRjRObGtF0gFTQVVfeXFMTk5Ec0RIMzdIQXBrY1Qyc2p5TzFJekN4QjhLQV9KS1FRcTdXeFl4TFVkcUtJdXhEREJsTmRhNDFEUGtNRDdEdjBHRDN5N2xGNE5sa0U?oc=5",
           "desc": "",
-          "title_en": "'K-Food Corner‘ entered Uzbek's # 1 distribution network",
-          "title_ja": "「K - Food Corner」がウズベキスタンNo.1の物流ネットワークに参入",
-          "title_zh": "“K-Food Corner”进入乌兹别克排名第一的分销网络"
+          "title_en": "Dongwon F&B promotes‘ Typex 2026 ’West K-Food “Targeting the Southeast Asian Market”",
+          "title_ja": "Dongwon F&B、「Typex 2026」West K - Food「東南アジア市場をターゲットに」をプロモート",
+          "title_zh": "Dongwon F&B推广“Typex 2026”西K-Food “瞄准东南亚市场”"
+        },
+        {
+          "title": "한국인 밥상에 꼭 올라오는데 “건강에 최악”…의사가 경고한 음식은 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hS0RZbHJXNzVHaEV5c3BGakp6dFc5anFkN2g4LTBmMlF3UDBKUDdxVmtwTV9rRG44cHZuQ0l1SVkycHNGWFhjTFl5MFJ0Ynl3SVHSAVNBVV95cUxOdkJqMHRncHgzSXJTMjhwU3MzbjlkanBSTHZSeGlOWkxXRUwzRFl2dzNJZHNBVGdWVFR2RTZTVmg5VU1SY1VVR282b1JnUW5GbWdwRQ?oc=5",
+          "desc": "",
+          "title_en": "I'm definitely coming to the Korean food table, but “the worst for my health” … The food the doctor warned me about is [heal time]",
+          "title_ja": "私は間違いなく韓国料理のテーブルに来ていますが、「私の健康にとって最悪のこと」…医者が私に警告した食べ物は[ヒールタイム]です",
+          "title_zh": "我肯定会来韩国餐桌，但“对我的健康来说是最糟糕的” ……医生警告我的食物是[治愈时间]"
         }
       ]
     },
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "썬키스트 ‘레시피 콘테스트’ 성료, 시트러스 활용 가능성 제시",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42M09MdG53TnNwSTlsZ1ppOTZiS3JVcmdMRTBWa1lNd3E0NURoSldEZWF3cGhRaDhuLVEySC1zZGZ3Q3B1NmRtcWV2VFRYMTZoTENodTUyRQ?oc=5",
+          "desc": "",
+          "title_en": "Sunkist ‘Recipe Contest’ Completion, Citrus Usability Presentation",
+          "title_ja": "サンキスト「レシピコンテスト」完了、シトラスユーザビリティプレゼンテーション",
+          "title_zh": "Sunkist “食谱竞赛”完成，柑橘可用性演示"
+        },
+        {
           "title": "피자부터 디저트까지…美 불닭소스의 변신",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc3RRUWJWWjNVRndvX090alN0akNUZHpoemxZOEdwQVhfdlF4MDJGTXFERFRYcDBQb1ZHY3lXSkVsUjJWS2k0S2hIcHhxbUNtYzRFenpmbw?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "K-BBQ Seasoning takes over major South African grocery store",
           "title_ja": "K - BBQ調味料が南アフリカの大手食料品店を引き継ぐ",
           "title_zh": "K-BBQ调味料接管南非主要杂货店"
-        },
-        {
-          "title": "사찰음식도 간편식으로…현대그린푸드 사찰음식 간편식 5종",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vekdXOVFHazZ1dlZWOWliS0JrT2RDMnlDUGZIa0YzdnNnOC1iOFRoWFdMN1pmMnZyZEF2X0RsUzAxbUV4VW5uVnYxN3VwbmFqdDVGMEdUUQ?oc=5",
-          "desc": "",
-          "title_en": "The temple food is also simple food… Hyundai Green Food temple food 5 kinds of simple food",
-          "title_ja": "お寺の食べ物もシンプルな食べ物…現代グリーンフードお寺の食べ物5種類のシンプルな食べ物",
-          "title_zh": "寺庙美食也是简单的美食……现代绿色美食寺庙美食5种简单的美食"
         }
       ]
     }
