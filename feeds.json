@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T09:51:41Z",
+  "lastUpdated": "2026-05-27T15:43:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "동원F&B, ‘타이펙스 2026’서 K-푸드 홍보 “동남아 시장 공략”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EMWdSN2hvZ1BvSGFlZm9qemdZZGsyeS1HWklaZl9Eb1VPaWN0U0xkcUV3ZXV3X2VpdW15b0Q2QlROeHIyUDBNcmpvV1ptemJLalE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EMWdSN2hvZ1BvSGFlZm9qemdZZGsyeS1HWklaZl9Eb1VPaWN0U0xkcUV3ZXV3X2VpdW15b0Q2QlROeHIyUDBNcmpvV1ptemJLalHSAVNBVV95cUxOTkRzREgzN0hBcGtjVDJzanlPMUl6Q3hCOEtBX0pLUVFxN1d4WXhMVWRxS0l1eEREQmxOZGE0MURQa01EN0R2MEdEM3k3bEY0TmxrRQ?oc=5",
           "desc": "",
           "title_en": "Dongwon F&B promotes‘ Typex 2026 ’West K-Food “Targeting the Southeast Asian Market”",
           "title_ja": "Dongwon F&B、「Typex 2026」West K - Food「東南アジア市場をターゲットに」をプロモート",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "이마트, K푸드 넘어 K일상 … 노브랜드, 글로벌 트렌드로 진화",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82VEhJSHZ5dGN0eTZmUnBLcW1odUJaN0dnNjlGQkNzNHZiUXRGamg5dnBOWGNXWG9TeTBTZUlaZEptazM3S19meUYtSHpOblVXaWVjNQ?oc=5",
+          "desc": "",
+          "title_en": "Beyond E-Mart, K Food, K Daily… Novelty, Evolve into Global Trends",
+          "title_ja": "Eマート、Kフード、Kデイリーを超えて…目新しさ、グローバルトレンドへの進化",
+          "title_zh": "Beyond E-Mart、K Food、K Daily……新颖性，演变为全球趋势"
+        },
+        {
           "title": "G. 윌리-푸드 인터내셔널, 1Q 매출 4960만 달러·8.3% 성장",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JNUpSb29OZTBkaFNjcTVtM2JqN3B0TjNQTVE5ODRwcWpaMGxSR2ZVOURjb0lTTllZTmRKTVNQc1RFZk1aN3N4dVF0RVVkMXgyLWc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "K-Beauty and Food Captivating Czech Republic… Kotra, Consumer Goods Promotion in Prague",
           "title_ja": "チェコ共和国を魅了するKビューティーとフード…プラハの消費財プロモーション「Kotra」",
           "title_zh": "K-Beauty和美食迷人的捷克共和国... Kotra ，布拉格消费品促销"
-        },
-        {
-          "title": "“전자레인지 안 돌려도 촉촉”…푸드테크 결합한 김밥, 리뉴얼 속도",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GczhORDdURW5mYU5PRmx4U2dvQUhWQi1fMmx5LWJtalhMSmJKZkE0VnpHdFlSbGt3dU51ZzR6TzJESVdvZmMtLWZuUFBtNUg1QjZSaEpn?oc=5",
-          "desc": "",
-          "title_en": "“Moisturizing without microwaving” … Food Tech Combined Gimbap, Renewal Speed",
-          "title_ja": "「電子レンジなしで保湿」…フードテック複合ジンバプ、リニューアルスピード",
-          "title_zh": "“无微波保湿” …… Food Tech组合Gimbap ，更新速度"
         }
       ]
     },
