@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T22:41:15Z",
+  "lastUpdated": "2026-05-28T03:41:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "生产、加工、分销、营销……天安培育本地食品生态系统"
         },
         {
-          "title": "\"췌장 13cm 잘라냈다\"…의사가 경고한 최악의 음식 3가지 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdlppS3BlT0xQa3JkS2F6d19RM09aaS1scGxZV0xGSmFETWNxa3lmOEFmNXpmT1BXZHh2QS1JaWVvdDk4RjlEbVhsVUtfLWh6SnN6dnA0al9zQdIBVEFVX3lxTE9aYW1NLWp3VmZyXzUwbzFzT1RHT3R2WHp3TGpaWGdReHNYb05scGZYQ1hkajdVcU42b2VFUjEya3Y2MFZjWUtJdU01TnlvZ2cyVjI5Vg?oc=5",
+          "title": "45개국 1650개사 참가 '서울푸드 2026'…푸드테크 미래 조망",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lSmQ0czdWTWgwWGthUkNFb0pBelVucHhFeE55SGdxZEhqUGNMV01qV1ZhV2U5RnJubE9KRndOTDh4VWZYMnE2ZS03ZWlIanJ0Y1ZrY1RqWkljd9IBVEFVX3lxTE5nVUU1VzRkRDhWTVRLaExKemhPTF9KS2VsSWxnWGFCV3RnMHpQWFo5NHMzZEtBUXp4MFZPYVF6YlpjQWhXb1NZYWE5QVR0bEUzc3F4RA?oc=5",
           "desc": "",
-          "title_en": "“I cut my pancreas 13cm” … The 3 Worst Foods Your Doctor Warned You About [Health! Talk]",
-          "title_ja": "「私は膵臓を13 cm切った」...あなたの医者があなたに警告した3つの最悪の食べ物[健康！トーク]",
-          "title_zh": "“我割伤了胰腺13厘米” ……你的医生警告你的3种最糟糕的食物[健康！谈话]"
+          "title_en": "Participated in 1650 companies from 45 countries' Seoul Food 2026 '… A view of the future of food tech",
+          "title_ja": "45カ国1,650社「ソウルフード2026」に参加…フードテックの未来展望",
+          "title_zh": "参加了来自45个国家的1650家公司的“首尔食品2026” ……展望食品科技的未来"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "롯데웰푸드, 편의점 즉석식품에 '안전소비형 푸드QR' 도입",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoc1E3TkduU2pndk9qMm9DUlBhOW5aN2Y5dGVoMUxtNF9MRzFoT0VmQXl1UGdlMldlbzZOVUg4X2VNSXVWTnd5TkVKX3JJMGdEM1E?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Introduces' Safe and Consumable Food QR 'to Convenience Store Instant Food",
+          "title_ja": "ロッテウェルフード、コンビニインスタント食品に「安全で消費可能な食品QR」を導入",
+          "title_zh": "乐天Well Food为便利店即食食品推出“安全且可消耗的食品二维码”"
+        },
+        {
           "title": "이마트, K푸드 넘어 K일상 … 노브랜드, 글로벌 트렌드로 진화",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82VEhJSHZ5dGN0eTZmUnBLcW1odUJaN0dnNjlGQkNzNHZiUXRGamg5dnBOWGNXWG9TeTBTZUlaZEptazM3S19meUYtSHpOblVXaWVjNQ?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "G. Willie-Foods International, 1Q Revenue $49.6M · 8.3% Growth",
           "title_ja": "G. Willie - Foods International、第1四半期の売上高4,960万ドル·成長率8.3%",
           "title_zh": "G. Willie-Foods International ，第一季度收入4960万美元·增长8.3%"
-        },
-        {
-          "title": "체코 사로잡는 K뷰티·푸드…코트라, 프라하서 소비재 판촉전",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ULWl4Wk1TSkJJaUZWUjgxZjg2WHNKX2NiYXFVWTBMRUtTcmR1ckJXRE8wZ0R0TWtEcHluTlpldzFIdlN4WFU0WTl6cjlqRFNJRUE?oc=5",
-          "desc": "",
-          "title_en": "K-Beauty and Food Captivating Czech Republic… Kotra, Consumer Goods Promotion in Prague",
-          "title_ja": "チェコ共和国を魅了するKビューティーとフード…プラハの消費財プロモーション「Kotra」",
-          "title_zh": "K-Beauty和美食迷人的捷克共和国... Kotra ，布拉格消费品促销"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "롯데뉴욕팰리스, 도쿄 ‘스시 미타니’ 레스토랑 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iU09JTFdwTjhSWGhzZGpNcE5URDBmMld3dW4ta3JOX3RQV1BGSy0xc0ZLWGtrVTE4MEFwaDA4N1JuMmxabXFKWFRzZXloM2dnSDcwRE5Jcw?oc=5",
+          "desc": "",
+          "title_en": "Lotte New York Palace Opens Sushi Mitani Restaurant in Tokyo",
+          "title_ja": "ロッテニューヨークパレス、東京に寿司三谷レストランをオープン",
+          "title_zh": "乐天纽约皇宫在东京开设三谷寿司餐厅"
+        },
         {
           "title": "뉴욕 아이스크림 ‘밴루엔’, 올 여름 강남역 상륙",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FX2d6bVNmVzVMMFczS3pJNi1VX1g0MFJ5UWJDbG9Vdk15NUxkUHBfMWhQX0Y3N2lIWld2cDNGVzZaRHdka080WE1MMXYyY0ZUbEtCVktjaw?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "From Pizza to Dessert… Beauty Bulchik Sauce Transformation",
           "title_ja": "ピザからデザートまで…美容バルチクソースの変身",
           "title_zh": "从披萨到甜点…美容Bulchik酱汁转换"
-        },
-        {
-          "title": "K-바비큐 시즈닝, 남아공 마트 주요 매대 차지",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNW5YNWdKV2o3Nk9tQmNHR3ZQcXVTN245WVdOWFVkSEk0cHBBZ2ExM0RBYjZmMGJqbVJoY3ZDcWVSY2NkUjFEUVdDUWRJYnItR1FwRWFBcw?oc=5",
-          "desc": "",
-          "title_en": "K-BBQ Seasoning takes over major South African grocery store",
-          "title_ja": "K - BBQ調味料が南アフリカの大手食料品店を引き継ぐ",
-          "title_zh": "K-BBQ调味料接管南非主要杂货店"
         }
       ]
     }
