@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T20:26:12Z",
+  "lastUpdated": "2026-05-29T22:37:20Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,14 +36,6 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "Here's Why Grape Ice Cream Isn't a Thing",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fODAyZ0FCbktMcldIQlVLa2Y3bWxQYmdCXzZRNTNfNEdOeFVCS2tiQjRXTkVCXzdJME44b2hMZEtyWmhlcHNOaGJScXRxb0R1TGhseVBCN1g2LVRSdzdrOXlGX1FfekwxOXA5VHhuU3pXeUxXMHRpXzJjcw?oc=5",
-          "desc": "",
-          "title_ko": "포도 아이스크림이 중요한 것이 아닌 이유는 다음과 같습니다.",
-          "title_ja": "グレープアイスクリームが重要でない理由",
-          "title_zh": "这就是为什么葡萄冰淇淋不是一回事"
-        },
-        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "풀무원푸드머스·익산병원 … 환자식 공동개발 등 MOU",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQN0JLS3NqS0FIbWQtaHVBa0Q2ODlhODJCdzROUjdqbHE2UWZQcXlsOHByRnRJZFlyWk40MkZtcTBOT3lzUTliWi1QaFdKQXVTRmhxQWFB?oc=5",
+          "desc": "",
+          "title_en": "Pulmuwon Foodmouth and Iksan Hospital… Joint development of patient style, etc. MOU",
+          "title_ja": "Pulmuwon FoodmouthとIksan Hospital…患者様スタイルの共同開発などMOU",
+          "title_zh": "Pulmuwon Foodmouth和Iksan医院…共同开发患者风格等。谅解备忘录"
+        },
+        {
           "title": "“집에서 자주 먹었는데”…전문가가 꼽은 의외로 암 유발하는 음식",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTFhodUIwMXoweWZhamt3QWx2ZjNrc0pmTTMwSTFrNGlXLUdNd2RET2xXRmdUbVQ4UVV0bGNDRlZCcUNhUFdiTHdEZmhZc3o2d2xnbw?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Kuala Lumpur: I Love K-Food [Special Report]",
           "title_ja": "クアラルンプール： K - Foodが大好き[特集]",
           "title_zh": "吉隆坡：我爱K-Food [特别报道]"
-        },
-        {
-          "title": "K푸드 수출 질주…라면·냉동김밥·김이 이끌었다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRzJVUG1DRzZyNTl0QURTMk5rdGhVMFFhYzZ0ZEhwdlpZcGE3RVp2TTAySFBBQWM3cVZRMmVBV2ZTLWtTVnJmcjRFQ3RxN0FYaHc?oc=5",
-          "desc": "",
-          "title_en": "K-Food export sprint... led by Ramen, Frozen Kimbap, and Kim",
-          "title_ja": "ラーメン、フローズンキンバップ、キムが率いるK - Food輸出スプリント",
-          "title_zh": "K-Food出口冲刺......由拉面，冷冻海鲜卷和Kim领导"
         }
       ]
     },
