@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T22:41:13Z",
+  "lastUpdated": "2026-05-29T03:41:31Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,12 +96,12 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "North America’s 50 Best Restaurants in 2026 Will Be Announced Tonight",
+          "title": "North America’s 50 Best Restaurants in 2026: The Full List",
           "link": "https://www.eater.com/restaurant-news/965010/north-america-50-best-restaurants-2026-winners-how-to-watch",
-          "desc": "The 2026 edition of the North America’s 50 Best Restaurants list will be announced live tonight at an awards ceremony in New Orleans, where the best c",
-          "title_ko": "2026년 북미 최고의 레스토랑 50곳이 오늘 밤 발표됩니다.",
-          "title_ja": "2026年の北米のベストレストラン50が今夜発表されます",
-          "title_zh": "今晚将公布2026年北美50家最佳餐厅"
+          "desc": "The 2026 edition of the North America’s 50 Best Restaurants list was announced live tonight at an awards ceremony in New Orleans, where the best chefs",
+          "title_ko": "2026년 북미 최고의 레스토랑 50곳: 전체 목록",
+          "title_ja": "2026年の北米のベストレストラン50 ：全リスト",
+          "title_zh": "2026年北美50家最佳餐厅：完整榜单"
         },
         {
           "title": "I Tried Erewhon’s New $15,000-a-Year VIP Membership for a Month",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "마을주민 먹을 음식에 농약 탄 만취 60대…\"파리 잡으려고\"",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BX3ZFSU1MQUk1SkREVm5VaVZTZjU1Vk44S1lWb05zQzFSQUx6SjBYZkM2YjRHNWdfVjRSLUFrUEh3bkVhWXpzVm1QbE05Rnl6N1EydNIBVEFVX3lxTE9BX3ZFSU1MQUk1SkREVm5VaVZTZjU1Vk44S1lWb05zQzFSQUx6SjBYZkM2YjRHNWdfVjRSLUFrUEh3bkVhWXpzVm1QbE05Rnl6N1EydA?oc=5",
+          "desc": "",
+          "title_en": "Pesticide-drenched intoxication in the food for villagers in their 60s... \"Catch a fly\"",
+          "title_ja": "60代の村人のための食品中の農薬中毒…「ハエを捕まえる」",
+          "title_zh": "60多岁村民食物中农药中毒… “捉苍蝇”"
+        },
+        {
           "title": "bhc, 美 H마트 입점…K치킨 ‘푸드코트’로 간다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0ZEpCOC05RUFwS1RBUVpWajlUY2dicmVTbzlkdUs4Z3YyY3hybG9iRlM3NGRFTldiYjdWWjRtdFJRXzRoUV9yMTl0dDhLclJxVXFKZFhUYVRFUdIBVEFVX3lxTE1reGdKYWxYbnY5Zm9kZ1BaYnhQZVVUNVY2aGtJeC1WQWdRT3Ezc19RMko0T3k3eWJRczdVa0x0V1BqTVRsRXBXZWlNLUJURU04ek5vNg?oc=5",
           "desc": "",
           "title_en": "bhc, H-Mart Store Entry... Go to K Chicken ‘Food Court’",
           "title_ja": "bhc、Hマートストアエントリー... Kチキン「フードコート」に行く",
           "title_zh": "bhc、H-Mart商店入口...前往K Chicken ‘Food Court’"
-        },
-        {
-          "title": "마을주민 먹을 음식에 농약 탄 만취 60대…\"파리 잡으려고\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rUkg5MnhjLTdIcXAxcnVkV3NNYXkwWGZFZ1djb2hCZEx5VmJmVWw1S3hQS0ZUVEZmZElFRlRrSjV0NkRpVkhvN1V6TjV2aGdOdlNwekJWTUtSUdIBVEFVX3lxTE9BX3ZFSU1MQUk1SkREVm5VaVZTZjU1Vk44S1lWb05zQzFSQUx6SjBYZkM2YjRHNWdfVjRSLUFrUEh3bkVhWXpzVm1QbE05Rnl6N1EydA?oc=5",
-          "desc": "",
-          "title_en": "Pesticide-drenched intoxication in the food for villagers in their 60s... \"Catch a fly\"",
-          "title_ja": "60代の村人のための食品中の農薬中毒…「ハエを捕まえる」",
-          "title_zh": "60多岁村民食物中农药中毒… “捉苍蝇”"
         },
         {
           "title": "\"스펀지처럼 쭉 흡수\"…의사가 꼽은 공복에 먹어야 할 음식 [건강!톡]",
@@ -174,12 +174,12 @@
           "title_zh": "我肯定会来韩国餐桌，但“对我的健康来说是最糟糕的” ……医生警告我的食物是[治愈时间]"
         },
         {
-          "title": "코트라-농금원, 하노이서 ‘K푸드 글로벌 브릿지’ 개최…수출금융 원스톱 지원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzNE5zMndDRmtHeDVJMkk0aVNHaXFZakd6U3RDOFJZVFd5SDJVc2FsNlRyNzhucWZ1V3Z2SEg3aVhxdHVEZlU0WHpfNXhsTDZpNkHSAVNBVV95cUxPd2gyckY4cTVDelFwSmoyMUZDQlhYY1l0ZFJjd0RpdWdYV1JUc0NqN0hRYTF4OVNOYm9DUG1RcjBOXzBlREk3RkVNRFIzajNQelhzUQ?oc=5",
+          "title": "우즈베크 1위 유통망에 ‘K푸드 전용코너’ 입성",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13VU9UN0tWYS1iRmhQVW9pQnNhRUxsM3VrOE04T2M2R0lBTHRsMklKZmUtUHlna295TFBJOVFkVEF5OU52QUs5SlA5UWlNb0JKcmfSAVNBVV95cUxOMG1jWHlXZVFqRGoyT2pxRDlZUFFiYi1jelhWTHNpR2VwSXBTUUhxaGNsdi00UkZoa0llanBlcG9SODgtV0E0bUV2eUVMenJ0ZmRqcw?oc=5",
           "desc": "",
-          "title_en": "KOTRA - Agricultural Service Holds‘ K-Food Global Bridge ’in Hanoi… One-stop Support for Export Finance",
-          "title_ja": "KOTRA - Agricultural Serviceがハノイで「K - Food Global Bridge」を開催…輸出金融のワンストップサポート",
-          "title_zh": "KOTRA - Agricultural Service在河内举办“K-Food Global Bridge”活动……为出口融资提供一站式支持"
+          "title_en": "'K-Food Corner‘ entered Uzbek's # 1 distribution network",
+          "title_ja": "「K - Food Corner」がウズベキスタンNo.1の物流ネットワークに参入",
+          "title_zh": "“K-Food Corner”进入乌兹别克排名第一的分销网络"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "쿠알라룸푸르: 아이 러브 K푸드 [스페셜 리포트]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1STGRGM2dWQ1JEWUI0MDRVd080cDVnMjluY0tzTlF1NE1oaW9FdEUxc3FGT2JzT3pPeGdBd1FXeU9hOFk0SkgtWjdwT2ZMcHZrX2dVYg?oc=5",
+          "desc": "",
+          "title_en": "Kuala Lumpur: I Love K-Food [Special Report]",
+          "title_ja": "クアラルンプール： K - Foodが大好き[特集]",
+          "title_zh": "吉隆坡：我爱K-Food [特别报道]"
+        },
         {
           "title": "타이슨 푸드, 제프 쇼름버거 신임 CEO 선임..10월 공식 취임",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PSHZyc0Y5WVFFMFlZeDlGUTAyQjhBYmxKMDVMbkRjNDNZeTUtT0Q2dkRfdkJQNzJPOXhwRTBuMkFDMm1DNlAzaEE1TXliemxIMlE?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Lotte Well Food Introduces' Safe and Consumable Food QR 'to Convenience Store Instant Food",
           "title_ja": "ロッテウェルフード、コンビニインスタント食品に「安全で消費可能な食品QR」を導入",
           "title_zh": "乐天Well Food为便利店即食食品推出“安全且可消耗的食品二维码”"
-        },
-        {
-          "title": "\"관광·푸드·패션도 K컬처 … 시장규모 400조로 키운다\"",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xdUlYbU8tVnRJUnRsMkVKbS1aT2FCMFpuaVZPOEVRa3ZiTjRVcVZSN0JJS09Mdm1kcklZUzNpRFNKd296Wm43T1pUUlk5RlR4eE9jTQ?oc=5",
-          "desc": "",
-          "title_en": "\"Tourism, food and fashion will also be raised to 400 trillion in the market.\"",
-          "title_ja": "「観光、食品、ファッションも市場で400兆ドルに引き上げられます。」",
-          "title_zh": "“旅游，食品和时尚市场也将提高到400万亿。”"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "今年夏天，纽约冰淇淋“Van Luen”登陆江南站"
         },
         {
-          "title": "피자부터 디저트까지…美 불닭소스의 변신",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc3RRUWJWWjNVRndvX090alN0akNUZHpoemxZOEdwQVhfdlF4MDJGTXFERFRYcDBQb1ZHY3lXSkVsUjJWS2k0S2hIcHhxbUNtYzRFenpmbw?oc=5",
+          "title": "대용량으로 즐긴다…티젠, ‘요밀 팥빙수맛 대용량 원통형’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tRHRRUHNOX3F3bXdQbl9fazk3QjdURVlBeFRUbXBCSXdMcXhlN1c0UEtCRS1PV3ZlT2pFSHNpNUVDbHZBUmN6M1VrU1dkSmFnRGJjY1ZXcw?oc=5",
           "desc": "",
-          "title_en": "From Pizza to Dessert… Beauty Bulchik Sauce Transformation",
-          "title_ja": "ピザからデザートまで…美容バルチクソースの変身",
-          "title_zh": "从披萨到甜点…美容Bulchik酱汁转换"
+          "title_en": "I enjoy it in large quantities… Tizen, ‘Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical’",
+          "title_ja": "大量にお召し上がりいただけます・・・チゼン「ヨミル赤豆びんす風味大容量円筒」",
+          "title_zh": "我喜欢大量…… Tizen ， “Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical”"
         }
       ]
     }
