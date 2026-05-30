@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T13:40:12Z",
+  "lastUpdated": "2026-05-30T16:04:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "K푸드 수출 질주…라면·김·간편식 불티",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LSzNvSkVKTFlrNDZBc3FDV1pjLUhaTDJLMkJNcTBzRDgtOEY0OUprWFNyMUFabU4zdnE5WDhNTkFNeG5TOFQ1cEpVcWE4R2p2MzNBcExldlFFZ9IBVEFVX3lxTFBrZUNSdWlNX1VoMldqSmczTEhBYTR6U1dlUlhoN0xESGxmMEJudUxrdEFKZ2hLMzJJVUlrOS1YMzhuYTBQTEhUMkFmWDBvbjByN2F4dQ?oc=5",
-          "desc": "",
-          "title_en": "K-food export sprint… Ramen · Kim · Quick balti",
-          "title_ja": "K - food輸出スプリント…ラーメン・キム・クイックバルティ",
-          "title_zh": "K-food出口冲刺…拉面· Kim · Quick balti"
-        },
-        {
           "title": "3대째 이어온 프랑스 씨푸드 명가 라 벨일루아즈, 한국 공략 속도",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZZ2dwYkFOcjMyZHFpY1V0aVVKZVpsWEtHWnRSQ0gtTlVjQTl5WHRQajVCS3I5dVFtNGNtZkxwcGhVdzluQWFGbXZjMTQwREtVcm9FY1dpU1ZJUdIBVEFVX3lxTFBZN2xoc2ZLZDhHT0V1MXNWa3N4ZGRCVl82aEhBaEpmMG5faDRvMUFPT1dnNE1RZm9rR2VJUGJQMTdwT2ZYTGtCZTI3c2xUc3N5ak05eQ?oc=5",
           "desc": "",
           "title_en": "Three generations of French seafood Myunga La Belle-Loise, Korea Attack Speed",
           "title_ja": "3世代のフレンチシーフードミョンガ・ラ・ベル・ロワーズ、韓国のアタックスピード",
           "title_zh": "三代法国海鲜Myunga La Belle-Loise ，韩国进攻速度"
+        },
+        {
+          "title": "K푸드 수출 질주…라면·김·간편식 불티",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LSzNvSkVKTFlrNDZBc3FDV1pjLUhaTDJLMkJNcTBzRDgtOEY0OUprWFNyMUFabU4zdnE5WDhNTkFNeG5TOFQ1cEpVcWE4R2p2MzNBcExldlFFZ9IBVEFVX3lxTFBrZUNSdWlNX1VoMldqSmczTEhBYTR6U1dlUlhoN0xESGxmMEJudUxrdEFKZ2hLMzJJVUlrOS1YMzhuYTBQTEhUMkFmWDBvbjByN2F4dQ?oc=5",
+          "desc": "",
+          "title_en": "K-food export sprint… Ramen · Kim · Quick balti",
+          "title_ja": "K - food輸出スプリント…ラーメン・キム・クイックバルティ",
+          "title_zh": "K-food出口冲刺…拉面· Kim · Quick balti"
         },
         {
           "title": "\"스펀지처럼 쭉 흡수\"…의사가 꼽은 공복에 먹어야 할 음식 [건강!톡]",
