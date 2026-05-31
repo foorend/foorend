@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T22:01:43Z",
+  "lastUpdated": "2026-05-31T03:56:46Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "\"K푸드 수출 다변화해야…온두라스·라트비아·케냐 유망\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xNWN6M25iczV5cG1YaXZOaVZIbWpOY2VmNnpTUGljdUhaS19vVHVuVUwwenNWQ2tDaGduU1FDa29KeEhkMU5kYm1hU1ZFVnRTNVE?oc=5",
+          "desc": "",
+          "title_en": "\"K-Food exports should diversify... Honduras, Latvia and Kenya are promising.\"",
+          "title_ja": "「K - Foodの輸出は多様化するはずです...ホンジュラス、ラトビア、ケニアは有望です。」",
+          "title_zh": "“K-Food出口应该多元化……洪都拉斯、拉脱维亚和肯尼亚前景看好。”"
+        },
+        {
           "title": "“집에서 자주 먹었는데”…전문가가 꼽은 의외로 암 유발하는 음식",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTFhodUIwMXoweWZhamt3QWx2ZjNrc0pmTTMwSTFrNGlXLUdNd2RET2xXRmdUbVQ4UVV0bGNDRlZCcUNhUFdiTHdEZmhZc3o2d2xnbw?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Pulmuwon Foodmouth and Iksan Hospital… Joint development of patient style, etc. MOU",
           "title_ja": "Pulmuwon FoodmouthとIksan Hospital…患者様スタイルの共同開発などMOU",
           "title_zh": "Pulmuwon Foodmouth和Iksan医院…共同开发患者风格等。谅解备忘录"
-        },
-        {
-          "title": "쿠알라룸푸르: 아이 러브 K푸드 [스페셜 리포트]",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1STGRGM2dWQ1JEWUI0MDRVd080cDVnMjluY0tzTlF1NE1oaW9FdEUxc3FGT2JzT3pPeGdBd1FXeU9hOFk0SkgtWjdwT2ZMcHZrX2dVYg?oc=5",
-          "desc": "",
-          "title_en": "Kuala Lumpur: I Love K-Food [Special Report]",
-          "title_ja": "クアラルンプール： K - Foodが大好き[特集]",
-          "title_zh": "吉隆坡：我爱K-Food [特别报道]"
         }
       ]
     },
