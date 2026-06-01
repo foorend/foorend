@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-01T11:36:06Z",
+  "lastUpdated": "2026-06-01T17:41:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
         {
-          "title": "Clover Food Lab shuts down as the plant-based meat trend fades",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3FKRnZiZ0xwd005UklIU3FPeFd4N01PbXBzU0xDQTJxZDRCU3pJYU85M3lqWHBKN2ZVeVRfcFBkY3dXdlk1LW5SRThMQWxoOEU3OUhUU1FZSjMwZ2RjZC1VVzFZMjNzT3pDM0lZLXJEM0pZbFMxM2phN1RxMzUtd1luVkhCbHR2NWdVdmVfOEhWMTFpYXdhSE5DVHpZZkc2VXJwbA?oc=5",
+          "title": "Restaurant Business Magazine - Trends, Ideas and News",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
           "desc": "",
-          "title_ko": "식물성 육류 트렌드가 사라지면서 클로버 푸드 랩이 문을 닫습니다.",
-          "title_ja": "植物由来の肉のトレンドが衰退するにつれて、クローバーフードラボは閉鎖されます",
-          "title_zh": "随着植物性肉类趋势的消退， Clover Food Lab关闭"
+          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
+          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
+          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
         },
         {
           "title": "Red Robin to sell 30 locations for $23.5M in refranchising push",
@@ -22,12 +22,12 @@
           "title_zh": "Red Robin以$ 2350万的价格出售30个地点"
         },
         {
-          "title": "Economic data points to a two-sided economy",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0JGRjN6d1BSc0FDZHJFOXBHWHNFTUZyWUhOc18tUHE4d0QxMVEwbTdWZF9vTk9KQmNITG9zSEE2dWE1bm1oSUJXY0FXSGlFVngxWmhNNlg1NC1VdV9BWVg2d2FRZlFrbC0wM0NKcWh1Q0xrbGw5YjNQMmtpbVdPdlFnLW9XVk5yMnphblZR?oc=5",
+          "title": "Clover Food Lab shuts down as the plant-based meat trend fades",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3FKRnZiZ0xwd005UklIU3FPeFd4N01PbXBzU0xDQTJxZDRCU3pJYU85M3lqWHBKN2ZVeVRfcFBkY3dXdlk1LW5SRThMQWxoOEU3OUhUU1FZSjMwZ2RjZC1VVzFZMjNzT3pDM0lZLXJEM0pZbFMxM2phN1RxMzUtd1luVkhCbHR2NWdVdmVfOEhWMTFpYXdhSE5DVHpZZkc2VXJwbA?oc=5",
           "desc": "",
-          "title_ko": "경제 데이터는 양면 경제를 가리킵니다",
-          "title_ja": "経済データは双方向の経済を示している",
-          "title_zh": "经济数据表明经济是双向的"
+          "title_ko": "식물성 육류 트렌드가 사라지면서 클로버 푸드 랩이 문을 닫습니다.",
+          "title_ja": "植物由来の肉のトレンドが衰退するにつれて、クローバーフードラボは閉鎖されます",
+          "title_zh": "随着植物性肉类趋势的消退， Clover Food Lab关闭"
         }
       ]
     },
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "\"김치찌개가 중국 음식이라고?\"…태국 '문화 도둑질'에 韓누리꾼들 '분노'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fVFNpWmhfQlYyQ0tFeXJMRUJHWWJUNno3SHUtak1neEFjSDRHRTluR2JSNEx6Um01ZWJWTUR4bjB2R2lKZ1hTZjJ2bl9mU1RnTFHSAVNBVV95cUxPSnpqRVFSWmVRU1JyclBNNFMzNFl0NDhVOVJSNzgwOHc4OXNZMkdfVm9wR0xBTmZadlhERWVkYWZoVWVxZ044REx3ekNXbkZGR2xldw?oc=5",
+          "desc": "",
+          "title_en": "“Kimchi stew is Chinese food?” … Korean 'anger' over Thai 'cultural theft'",
+          "title_ja": "「キムチシチューは中華料理ですか？」…タイの「文化的盗難」に対する韓国の「怒り」",
+          "title_zh": "“泡菜炖菜是中国菜吗？” ……韩国人对泰国“文化盗窃”的“愤怒”"
+        },
+        {
           "title": "SIGNAL",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xY1pSZXFZS0VfcFU2RDVtOUtvOWpCVUZxbGJMdGo3TDBrRE1FdUJZU3JTdlJDRldHYmNfdHdWTURDcHcwLVNyRjkxdjk3R0RZaFMyYjhwWVdPblBoYWZZVWJ3aw?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Food, fashion… Far right digging into everyday life [Books &]",
           "title_ja": "食べ物、ファッション…日常生活を徹底的に掘り下げる[Books &]",
           "title_zh": "美食、时尚……深入日常生活[书籍和]"
-        },
-        {
-          "title": "한국인 소울푸드인데…“발암물질로 돌변” 암 전문가가 경고한 ‘의외의 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10YjRTV2gwWHZ6clBWNHdpNTQ1Sk5mZDlGbE9KVGdlczNUa1B4a3duUUs0UWpFdFhFME4wckFnWUdhWkJ5WUpXY2k0ZFJFdmhjYnfSAVNBVV95cUxNTV9xR01vVnk1dmtpRVJrQ0dVa1BISGRGTmRmcG0ySEEyNk1YTTRkdGdtbWZBR3ZLeGJTaWxYYXJuVWF6NGlQcWF5Ri1UbXpLNXBJTQ?oc=5",
-          "desc": "",
-          "title_en": "It's a Korean soul food... \"turning into a carcinogen\" ‘unexpected food‘ warned by a cancer expert [Health Time]",
-          "title_ja": "韓国のソウルフード…がん専門家が警告する「発がん物質になる」「思いがけない食べ物」【ヘルスタイム】",
-          "title_zh": "这是一种韩国灵魂食品…… “变成致癌物质”癌症专家警告的“意想不到的食物”【健康时报】"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "K-Food拓展中国出口路线，完善注册流程，拓展商品"
         },
         {
-          "title": "\"K푸드 수출 다변화해야…온두라스·라트비아·케냐 유망\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xNWN6M25iczV5cG1YaXZOaVZIbWpOY2VmNnpTUGljdUhaS19vVHVuVUwwenNWQ2tDaGduU1FDa29KeEhkMU5kYm1hU1ZFVnRTNVE?oc=5",
+          "title": "\"한식 로봇, 美 공항까지 점령 … K푸드 전성기는 이제 시작\"",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzOG9BN0RTOTRQa2FCc3pOeUJBR3gxaVF0TC1fZVBLbzA1OEdMcHM5LVpYOVdVaXNTcnNBczR4UUtONDlhektvWHgtMTRZdw?oc=5",
           "desc": "",
-          "title_en": "\"K-Food exports should diversify... Honduras, Latvia and Kenya are promising.\"",
-          "title_ja": "「K - Foodの輸出は多様化するはずです...ホンジュラス、ラトビア、ケニアは有望です。」",
-          "title_zh": "“K-Food出口应该多元化……洪都拉斯、拉脱维亚和肯尼亚前景看好。”"
+          "title_en": "\"Korean food robot occupies US airport... The peak of K-Food has begun\"",
+          "title_ja": "「韓国のフードロボットが米国空港を占拠… K - Foodのピークが始まった」",
+          "title_zh": "“韩国美食机器人占领美国机场…… K-Food高峰已经开始”"
         }
       ]
     },
@@ -218,20 +218,20 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "대용량으로 즐긴다…티젠, ‘요밀 팥빙수맛 대용량 원통형’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tRHRRUHNOX3F3bXdQbl9fazk3QjdURVlBeFRUbXBCSXdMcXhlN1c0UEtCRS1PV3ZlT2pFSHNpNUVDbHZBUmN6M1VrU1dkSmFnRGJjY1ZXcw?oc=5",
-          "desc": "",
-          "title_en": "I enjoy it in large quantities… Tizen, ‘Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical’",
-          "title_ja": "大量にお召し上がりいただけます・・・チゼン「ヨミル赤豆びんす風味大容量円筒」",
-          "title_zh": "我喜欢大量…… Tizen ， “Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical”"
-        },
-        {
           "title": "K-바비큐 시즈닝, 남아공 마트 주요 매대 차지",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNW5YNWdKV2o3Nk9tQmNHR3ZQcXVTN245WVdOWFVkSEk0cHBBZ2ExM0RBYjZmMGJqbVJoY3ZDcWVSY2NkUjFEUVdDUWRJYnItR1FwRWFBcw?oc=5",
           "desc": "",
           "title_en": "K-BBQ Seasoning takes over major South African grocery store",
           "title_ja": "K - BBQ調味料が南アフリカの大手食料品店を引き継ぐ",
           "title_zh": "K-BBQ调味料接管南非主要杂货店"
+        },
+        {
+          "title": "말차 다음은 우베?…글로벌 보랏빛 제품들",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10Z0lYbnJZRmJLbHBZWF9tcmdrdXpEM2xuQjMxbnlEQ1FsSjJaLUFGTFdhX2NtWWtJT1hDY1BPdzVIdU81N3B6bGVzS2lHaE9iN3kyTW82dw?oc=5",
+          "desc": "",
+          "title_en": "Ube next to Matcha? … Global purple products",
+          "title_ja": "抹茶の隣に宇部？ …グローバルパープル商品",
+          "title_zh": "抹茶旁边的宇部？ …全球紫色产品"
         },
         {
           "title": "노란 완두콩 사용…미국의 ‘고단백 파스타’",
