@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T04:10:25Z",
+  "lastUpdated": "2026-06-01T11:36:06Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Red Robin以$ 2350万的价格出售30个地点"
         },
         {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
+          "title": "Economic data points to a two-sided economy",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0JGRjN6d1BSc0FDZHJFOXBHWHNFTUZyWUhOc18tUHE4d0QxMVEwbTdWZF9vTk9KQmNITG9zSEE2dWE1bm1oSUJXY0FXSGlFVngxWmhNNlg1NC1VdV9BWVg2d2FRZlFrbC0wM0NKcWh1Q0xrbGw5YjNQMmtpbVdPdlFnLW9XVk5yMnphblZR?oc=5",
           "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
-          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
+          "title_ko": "경제 데이터는 양면 경제를 가리킵니다",
+          "title_ja": "経済データは双方向の経済を示している",
+          "title_zh": "经济数据表明经济是双向的"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "장흥군, K-글로벌푸드와 무산김 수출 활성화 협약",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CQmg2M3FTdGZlNG4yUjA5ckxYMmpTVS1CU1Y0R2VicnZaSTFSMkVxb1Y2MHdmbXo0TEVYZ1l2VGllc2NnZHZ3ajVBSUNfQXNaRGc?oc=5",
+          "desc": "",
+          "title_en": "Jangheung-gun, K-Global Foods and Musanggim Export Revitalization Agreement",
+          "title_ja": "Jangheung - gun、K - Global Foods、Musanggim輸出活性化協定",
+          "title_zh": "长兴郡、K-Global Foods和Musanggim出口振兴协议"
+        },
+        {
+          "title": "K푸드, 중국 수출길 넓어진다…등록절차 개선·품목 확대",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uNmRNTXpkOGJXZ212a09iY21iOFNLb2RHemRZTVc5QTFCcWlHU3JsVzdWbFBIYzh6akpFTzhOSGdNVGphRGVONkJycVk1dzRNX2c?oc=5",
+          "desc": "",
+          "title_en": "K-Food expands China's export route, improves registration process, expands items",
+          "title_ja": "K - Foodが中国の輸出ルートを拡大し、登録プロセスを改善し、商品を拡大",
+          "title_zh": "K-Food拓展中国出口路线，完善注册流程，拓展商品"
+        },
+        {
           "title": "\"K푸드 수출 다변화해야…온두라스·라트비아·케냐 유망\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xNWN6M25iczV5cG1YaXZOaVZIbWpOY2VmNnpTUGljdUhaS19vVHVuVUwwenNWQ2tDaGduU1FDa29KeEhkMU5kYm1hU1ZFVnRTNVE?oc=5",
           "desc": "",
           "title_en": "\"K-Food exports should diversify... Honduras, Latvia and Kenya are promising.\"",
           "title_ja": "「K - Foodの輸出は多様化するはずです...ホンジュラス、ラトビア、ケニアは有望です。」",
           "title_zh": "“K-Food出口应该多元化……洪都拉斯、拉脱维亚和肯尼亚前景看好。”"
-        },
-        {
-          "title": "“집에서 자주 먹었는데”…전문가가 꼽은 의외로 암 유발하는 음식",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTFhodUIwMXoweWZhamt3QWx2ZjNrc0pmTTMwSTFrNGlXLUdNd2RET2xXRmdUbVQ4UVV0bGNDRlZCcUNhUFdiTHdEZmhZc3o2d2xnbw?oc=5",
-          "desc": "",
-          "title_en": "“I used to eat at home often” … Surprisingly cancer-causing foods according to experts",
-          "title_ja": "「私は家でよく食べていました」…専門家によると、驚くほど癌を引き起こす食品",
-          "title_zh": "“我以前经常在家吃东西” ……据专家说，令人惊讶的是，致癌食物"
-        },
-        {
-          "title": "풀무원푸드머스·익산병원 … 환자식 공동개발 등 MOU",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQN0JLS3NqS0FIbWQtaHVBa0Q2ODlhODJCdzROUjdqbHE2UWZQcXlsOHByRnRJZFlyWk40MkZtcTBOT3lzUTliWi1QaFdKQXVTRmhxQWFB?oc=5",
-          "desc": "",
-          "title_en": "Pulmuwon Foodmouth and Iksan Hospital… Joint development of patient style, etc. MOU",
-          "title_ja": "Pulmuwon FoodmouthとIksan Hospital…患者様スタイルの共同開発などMOU",
-          "title_zh": "Pulmuwon Foodmouth和Iksan医院…共同开发患者风格等。谅解备忘录"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "“맵지 않아요” 음식 위 빨간 가루, 파프리카였어?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sRVJ3VjNNRVVvbnd6NWMwWG03T0N1NXBoYVdmT0dWWkxqX3o3VHdUc1hrb0RubjdZN1ZRUmw1QkllNy01SzBfdTFONWZTRURxclhFNVI0dw?oc=5",
-          "desc": "",
-          "title_en": "“It's not spicy” Was it red powder or paprika on the food?",
-          "title_ja": "「スパイシーではありません」赤いパウダーやパプリカが食べ物についていましたか？",
-          "title_zh": "「不辣」食物上是红粉还是辣椒粉？"
-        },
-        {
-          "title": "롯데뉴욕팰리스, 도쿄 ‘스시 미타니’ 레스토랑 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iU09JTFdwTjhSWGhzZGpNcE5URDBmMld3dW4ta3JOX3RQV1BGSy0xc0ZLWGtrVTE4MEFwaDA4N1JuMmxabXFKWFRzZXloM2dnSDcwRE5Jcw?oc=5",
-          "desc": "",
-          "title_en": "Lotte New York Palace Opens Sushi Mitani Restaurant in Tokyo",
-          "title_ja": "ロッテニューヨークパレス、東京に寿司三谷レストランをオープン",
-          "title_zh": "乐天纽约皇宫在东京开设三谷寿司餐厅"
-        },
-        {
           "title": "대용량으로 즐긴다…티젠, ‘요밀 팥빙수맛 대용량 원통형’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tRHRRUHNOX3F3bXdQbl9fazk3QjdURVlBeFRUbXBCSXdMcXhlN1c0UEtCRS1PV3ZlT2pFSHNpNUVDbHZBUmN6M1VrU1dkSmFnRGJjY1ZXcw?oc=5",
           "desc": "",
           "title_en": "I enjoy it in large quantities… Tizen, ‘Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical’",
           "title_ja": "大量にお召し上がりいただけます・・・チゼン「ヨミル赤豆びんす風味大容量円筒」",
           "title_zh": "我喜欢大量…… Tizen ， “Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical”"
+        },
+        {
+          "title": "K-바비큐 시즈닝, 남아공 마트 주요 매대 차지",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNW5YNWdKV2o3Nk9tQmNHR3ZQcXVTN245WVdOWFVkSEk0cHBBZ2ExM0RBYjZmMGJqbVJoY3ZDcWVSY2NkUjFEUVdDUWRJYnItR1FwRWFBcw?oc=5",
+          "desc": "",
+          "title_en": "K-BBQ Seasoning takes over major South African grocery store",
+          "title_ja": "K - BBQ調味料が南アフリカの大手食料品店を引き継ぐ",
+          "title_zh": "K-BBQ调味料接管南非主要杂货店"
+        },
+        {
+          "title": "노란 완두콩 사용…미국의 ‘고단백 파스타’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Gdi13bWhwaDdUSjRHOUhGeDhRREJEVC1mSnk3REpFNVdxenFLZ3dmTTVSSHoyZ21TbU5na0x4MFBMd0ZmWTQtMDh1WGVrSmlDSGFVeHFKcw?oc=5",
+          "desc": "",
+          "title_en": "Uses Yellow Peas… America's ‘High-Protein Pasta’",
+          "title_ja": "イエローピースを使用…アメリカの「高タンパクパスタ」",
+          "title_zh": "使用黄豆…美国的“高蛋白意大利面”"
         }
       ]
     }
