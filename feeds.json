@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-05-31T22:00:16Z",
+  "lastUpdated": "2026-06-01T04:10:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Noble 33 execs facing ugly legal battle after firing general counsel for embezzlement",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNanVKb0tXVGg2LXRsQndoXzJLdUYzOC00Q3lQOXZMZkJMV1BOUE9TTFJnc3UwMVFIZXFYOU5iZ3VScV9QZnRhZ1pyVjFHMWdvYS11WnBaZ1FncEdFbzV4TE1udnFpcEpQUHVuMUFZZnYwUGloQVNQa3NrNVZrZzFLZ0pQWFdxUFNFODJDY1ZXN3FlWWxLa2ltaFI5NEhwVHlNQl8zazBVakVGUXphWEYzQ1A0RTZ2b2R1R05CdWZSOHdhZ3ZsdWFZ?oc=5",
-          "desc": "",
-          "title_ko": "횡령 혐의로 고문 변호사를 해고 한 후 추악한 법적 전투에 직면 한 귀족 33 명의 임원",
-          "title_ja": "横領のために顧問弁護士を解任した後、醜い法的戦いに直面している貴族33の幹部",
-          "title_zh": "Noble 33高管因贪污解雇总法律顾问后面临丑陋的法律斗争"
-        },
         {
           "title": "Clover Food Lab shuts down as the plant-based meat trend fades",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3FKRnZiZ0xwd005UklIU3FPeFd4N01PbXBzU0xDQTJxZDRCU3pJYU85M3lqWHBKN2ZVeVRfcFBkY3dXdlk1LW5SRThMQWxoOEU3OUhUU1FZSjMwZ2RjZC1VVzFZMjNzT3pDM0lZLXJEM0pZbFMxM2phN1RxMzUtd1luVkhCbHR2NWdVdmVfOEhWMTFpYXdhSE5DVHpZZkc2VXJwbA?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "레드 로빈, 리프랜차이즈 푸시로 30개 지점을 $ 23.5M에 판매",
           "title_ja": "Red Robin、30店舗を$ 2350万で売却",
           "title_zh": "Red Robin以$ 2350万的价格出售30个地点"
+        },
+        {
+          "title": "Restaurant Business Magazine - Trends, Ideas and News",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
+          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
+          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "AI와 로봇 주방이 바꾸는 외식산업의 미래[테크트렌드]",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWDFkTWt6RkU5TGJ1NkFnV2xMU2Q3M20wemhnSGVDeUlEQUFsY1Y2b3ZrYUZYX3hZVEtHbVpWUURCbnZEWE5MU2VmWmIzNnRRNWJ3M3JnckY4U3FyOXlIeENSM2hQRjlGeUVWQg?oc=5",
+          "desc": "",
+          "title_en": "The Future of the Dining Industry Changed by AI and Robot Kitchens [Tech Trends]",
+          "title_ja": "AIとロボットキッチンが変えるダイニング業界の未来【テックトレンド】",
+          "title_zh": "人工智能和机器人厨房改变餐饮业的未来[技术趋势]"
+        },
+        {
           "title": "\"스펀지처럼 쭉 흡수\"…의사가 꼽은 공복에 먹어야 할 음식 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KM1Vlbld2a09hTTh4YzJEMGxrUWxOLVZDaDN5MWstOGpqa3UzbURybmpjWUVHcm5jQmtXcVplNFF0b1dGNGtzc2ZGTjJVZlNCNHBydWRRYjFRUdIBVEFVX3lxTFBYclp2ZDlIanlkcmtwS3VlTm90eXg5NVNBU2Y4cUZ3alhSR2VyNDRHcF9QRmN3NXFaU3JFOVgtN19xck9xdG5acU8tenE1MkJBYVQxLQ?oc=5",
           "desc": "",
           "title_en": "“Absorb it like a sponge” … What to eat on an empty stomach according to a doctor [Health! Talk]",
           "title_ja": "「スポンジのように吸収する」…医者によると、空腹時に何を食べるべきか[健康！話す]",
           "title_zh": "“像海绵一样吸收它” ……根据医生的说法，空腹吃什么[健康！谈话]"
-        },
-        {
-          "title": "K푸드 수출 질주…라면·김·간편식 불티",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LSzNvSkVKTFlrNDZBc3FDV1pjLUhaTDJLMkJNcTBzRDgtOEY0OUprWFNyMUFabU4zdnE5WDhNTkFNeG5TOFQ1cEpVcWE4R2p2MzNBcExldlFFZ9IBVEFVX3lxTFBrZUNSdWlNX1VoMldqSmczTEhBYTR6U1dlUlhoN0xESGxmMEJudUxrdEFKZ2hLMzJJVUlrOS1YMzhuYTBQTEhUMkFmWDBvbjByN2F4dQ?oc=5",
-          "desc": "",
-          "title_en": "K-food export sprint… Ramen · Kim · Quick balti",
-          "title_ja": "K - food輸出スプリント…ラーメン・キム・クイックバルティ",
-          "title_zh": "K-food出口冲刺…拉面· Kim · Quick balti"
         },
         {
           "title": "마늘 냄새 나던 밥상은 어떻게 세계인의 ‘위로’가 되었나 [이혜원의 미디어 속 한식]",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "SIGNAL",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xY1pSZXFZS0VfcFU2RDVtOUtvOWpCVUZxbGJMdGo3TDBrRE1FdUJZU3JTdlJDRldHYmNfdHdWTURDcHcwLVNyRjkxdjk3R0RZaFMyYjhwWVdPblBoYWZZVWJ3aw?oc=5",
+          "desc": "",
+          "title_en": "Signal",
+          "title_ja": "信号",
+          "title_zh": "信号"
+        },
+        {
           "title": "음식·패션…일상을 파고든 극우[북스&]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBudHdSN2tuME80NGljU2gzUnVPN1BzbzZLeVFzRkZUVk40Y1hBcjViV1RwTDRRVHdfMTQwYlhlSHo0MHZEX0NGTVBXNHc4eENpMFHSAVNBVV95cUxNVWN1V1ZQUGVXbVA0SkdzNURkbE85amJBeUNvakRsSEI2cWhsaFo5R0lOZkZ4ZThZdkVrYzlsVWZzallua2RoYXJnWVhhYzgtaFBJMA?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "It's a Korean soul food... \"turning into a carcinogen\" ‘unexpected food‘ warned by a cancer expert [Health Time]",
           "title_ja": "韓国のソウルフード…がん専門家が警告する「発がん物質になる」「思いがけない食べ物」【ヘルスタイム】",
           "title_zh": "这是一种韩国灵魂食品…… “变成致癌物质”癌症专家警告的“意想不到的食物”【健康时报】"
-        },
-        {
-          "title": "한국인들 참 즐겨 먹는데 “세계에서 가장 위험한 국물”…CNN 콕 집은 음식은",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KaGQtaXFHWFo3RDkzRlV5M0ZyU0dzTm55bXZqWE5Ja3RJbmkyT2FEbzdKZW0zR2NzclM2RkJjYzk2b3gydDc2SlhObmI2TTJMR2fSAVNBVV95cUxPLXVheXF2cnBrR2gteldyNnJWT0hJTlRRSm1KX1ktek5LUDM5cFVRQVRxTE5ScFFkZ1lEZWpLTnpIRlduZlZ0RWx3b3hiU2Rsa2FtRQ?oc=5",
-          "desc": "",
-          "title_en": "Koreans love to eat “the most dangerous soup in the world” … CNN Kok's food is",
-          "title_ja": "韓国人は「世界で最も危険なスープ」を食べるのが大好きです… CNN Kokの料理は",
-          "title_zh": "韩国人喜欢吃“世界上最危险的汤” …… CNN Kok的美食"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“K-Food出口应该多元化……洪都拉斯、拉脱维亚和肯尼亚前景看好。”"
         },
         {
+          "title": "“집에서 자주 먹었는데”…전문가가 꼽은 의외로 암 유발하는 음식",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTFhodUIwMXoweWZhamt3QWx2ZjNrc0pmTTMwSTFrNGlXLUdNd2RET2xXRmdUbVQ4UVV0bGNDRlZCcUNhUFdiTHdEZmhZc3o2d2xnbw?oc=5",
+          "desc": "",
+          "title_en": "“I used to eat at home often” … Surprisingly cancer-causing foods according to experts",
+          "title_ja": "「私は家でよく食べていました」…専門家によると、驚くほど癌を引き起こす食品",
+          "title_zh": "“我以前经常在家吃东西” ……据专家说，令人惊讶的是，致癌食物"
+        },
+        {
           "title": "풀무원푸드머스·익산병원 … 환자식 공동개발 등 MOU",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQN0JLS3NqS0FIbWQtaHVBa0Q2ODlhODJCdzROUjdqbHE2UWZQcXlsOHByRnRJZFlyWk40MkZtcTBOT3lzUTliWi1QaFdKQXVTRmhxQWFB?oc=5",
           "desc": "",
           "title_en": "Pulmuwon Foodmouth and Iksan Hospital… Joint development of patient style, etc. MOU",
           "title_ja": "Pulmuwon FoodmouthとIksan Hospital…患者様スタイルの共同開発などMOU",
           "title_zh": "Pulmuwon Foodmouth和Iksan医院…共同开发患者风格等。谅解备忘录"
-        },
-        {
-          "title": "쿠알라룸푸르: 아이 러브 K푸드 [스페셜 리포트]",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1STGRGM2dWQ1JEWUI0MDRVd080cDVnMjluY0tzTlF1NE1oaW9FdEUxc3FGT2JzT3pPeGdBd1FXeU9hOFk0SkgtWjdwT2ZMcHZrX2dVYg?oc=5",
-          "desc": "",
-          "title_en": "Kuala Lumpur: I Love K-Food [Special Report]",
-          "title_ja": "クアラルンプール： K - Foodが大好き[特集]",
-          "title_zh": "吉隆坡：我爱K-Food [特别报道]"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "「不辣」食物上是红粉还是辣椒粉？"
         },
         {
+          "title": "롯데뉴욕팰리스, 도쿄 ‘스시 미타니’ 레스토랑 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iU09JTFdwTjhSWGhzZGpNcE5URDBmMld3dW4ta3JOX3RQV1BGSy0xc0ZLWGtrVTE4MEFwaDA4N1JuMmxabXFKWFRzZXloM2dnSDcwRE5Jcw?oc=5",
+          "desc": "",
+          "title_en": "Lotte New York Palace Opens Sushi Mitani Restaurant in Tokyo",
+          "title_ja": "ロッテニューヨークパレス、東京に寿司三谷レストランをオープン",
+          "title_zh": "乐天纽约皇宫在东京开设三谷寿司餐厅"
+        },
+        {
           "title": "대용량으로 즐긴다…티젠, ‘요밀 팥빙수맛 대용량 원통형’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tRHRRUHNOX3F3bXdQbl9fazk3QjdURVlBeFRUbXBCSXdMcXhlN1c0UEtCRS1PV3ZlT2pFSHNpNUVDbHZBUmN6M1VrU1dkSmFnRGJjY1ZXcw?oc=5",
           "desc": "",
           "title_en": "I enjoy it in large quantities… Tizen, ‘Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical’",
           "title_ja": "大量にお召し上がりいただけます・・・チゼン「ヨミル赤豆びんす風味大容量円筒」",
           "title_zh": "我喜欢大量…… Tizen ， “Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical”"
-        },
-        {
-          "title": "K-바비큐 시즈닝, 남아공 마트 주요 매대 차지",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNW5YNWdKV2o3Nk9tQmNHR3ZQcXVTN245WVdOWFVkSEk0cHBBZ2ExM0RBYjZmMGJqbVJoY3ZDcWVSY2NkUjFEUVdDUWRJYnItR1FwRWFBcw?oc=5",
-          "desc": "",
-          "title_en": "K-BBQ Seasoning takes over major South African grocery store",
-          "title_ja": "K - BBQ調味料が南アフリカの大手食料品店を引き継ぐ",
-          "title_zh": "K-BBQ调味料接管南非主要杂货店"
         }
       ]
     }
