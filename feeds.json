@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T10:24:38Z",
+  "lastUpdated": "2026-06-02T16:26:13Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Red Robin以$ 2350万的价格出售30个地点"
         },
         {
-          "title": "Clover Food Lab shuts down as the plant-based meat trend fades",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3FKRnZiZ0xwd005UklIU3FPeFd4N01PbXBzU0xDQTJxZDRCU3pJYU85M3lqWHBKN2ZVeVRfcFBkY3dXdlk1LW5SRThMQWxoOEU3OUhUU1FZSjMwZ2RjZC1VVzFZMjNzT3pDM0lZLXJEM0pZbFMxM2phN1RxMzUtd1luVkhCbHR2NWdVdmVfOEhWMTFpYXdhSE5DVHpZZkc2VXJwbA?oc=5",
+          "title": "A terminated Panera Bread franchisee declares bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkRxWDRaVmxveE40MkwyZnhjOHFiZ3ZzaFNmZVVzVWFyUVkwR3hPc0NfQllWcWo1ZGpUdGlPVm96OWtvbHFYYTFVX01kV0tUWmNTMmxpV2pGZXpJZWFkTjZMaFlibHNIa1Z4eTdXeHItTUhQam1jN1gtOHNGNFMxOGgxSUszR0Y5MGs4OWZrMkMtZTVicnBTN3ZtYWpzcHZCTmFr?oc=5",
           "desc": "",
-          "title_ko": "식물성 육류 트렌드가 사라지면서 클로버 푸드 랩이 문을 닫습니다.",
-          "title_ja": "植物由来の肉のトレンドが衰退するにつれて、クローバーフードラボは閉鎖されます",
-          "title_zh": "随着植物性肉类趋势的消退， Clover Food Lab关闭"
+          "title_ko": "해지된 Panera Bread 프랜차이즈 가맹점이 파산을 선언함",
+          "title_ja": "終了したパネラブレッドのフランチャイズ加盟店が破産を宣言",
+          "title_zh": "被终止的Panera Bread特许经营商宣布破产"
         }
       ]
     },
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“밥 그냥 삼키니? 제발 천천히 먹어”…음식 꼭꼭 씹어 먹어야 하는 이유 있었다 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yTU0yM1c2VGV2ZzRWM2pPWk8yanVZSE1vQnJSQmNpOHJmUFZ3MHh3NkF5cmhBTXl2QTVRLTlsM09DNllLNTlyTTlhRnNKT2xWdFHSAVNBVV95cUxNV0RKT1NmUmNEOXp4aVZsS3B2eWhzTVNsRkZ2cnVSMl9GR2g5eFF5UXlyR3RfYUhVLXVnSUgyR0hKZk9mMU16N0ItMEREVFJ0U3ZQNA?oc=5",
+          "desc": "",
+          "title_en": "“Are you just swallowing the rice? Please eat slowly” … There was a reason to chew the food [Healthy Time]",
+          "title_ja": "「ご飯を飲み込んでいるだけですか？ゆっくり食べてください」…食べ物を噛む理由がありました【ヘルシータイム】",
+          "title_zh": "“你只是吞下米饭，请慢慢吃” ……咀嚼食物是有原因的【健康时光】"
+        },
+        {
           "title": "\"김치찌개가 중국 음식이라고?\"…태국 '문화 도둑질'에 韓누리꾼들 '분노'",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fVFNpWmhfQlYyQ0tFeXJMRUJHWWJUNno3SHUtak1neEFjSDRHRTluR2JSNEx6Um01ZWJWTUR4bjB2R2lKZ1hTZjJ2bl9mU1RnTFHSAVNBVV95cUxPSnpqRVFSWmVRU1JyclBNNFMzNFl0NDhVOVJSNzgwOHc4OXNZMkdfVm9wR0xBTmZadlhERWVkYWZoVWVxZ044REx3ekNXbkZGR2xldw?oc=5",
           "desc": "",
@@ -166,20 +174,12 @@
           "title_zh": "“泡菜炖菜是中国菜吗？” ……韩国人对泰国“文化盗窃”的“愤怒”"
         },
         {
-          "title": "SIGNAL",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xY1pSZXFZS0VfcFU2RDVtOUtvOWpCVUZxbGJMdGo3TDBrRE1FdUJZU3JTdlJDRldHYmNfdHdWTURDcHcwLVNyRjkxdjk3R0RZaFMyYjhwWVdPblBoYWZZVWJ3aw?oc=5",
+          "title": "“밥 그냥 삼키니? 제발 천천히 먹어”…음식 꼭꼭 씹어 먹어야 하는 이유 있었다 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XREpPU2ZSY0Q5enhpVmxLcHZ5aHNNU2xGRnZydVIyX0ZHaDl4UXlReXJHdF9hSFUtdWdJSDJHSEpmT2YxTXo3Qi0wRERUUnRTdlA00gFTQVVfeXFMTVdESk9TZlJjRDl6eGlWbEtwdnloc01TbEZGdnJ1UjJfRkdoOXhReVF5ckd0X2FIVS11Z0lIMkdISmZPZjFNejdCLTBERFRSdFN2UDQ?oc=5",
           "desc": "",
-          "title_en": "Signal",
-          "title_ja": "信号",
-          "title_zh": "信号"
-        },
-        {
-          "title": "‘롯데 3세’ 신유열, 泰 식품박람회 ‘타이펙스 아누가’ 직접 챙겼다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40aFlnNDFZcHpDdFRfemJmb1cwREVseE82Sjd0YzFvejh3MVZRb3NETEE1M2xMblg3R2k1UmdWQUd4eDhIeGoyVFFjMHMzZzEwSXfSAVNBVV95cUxOaGtyeHkxbEgtZkttODBWd0s3M3RNcHdOQ215YndMTWN2Qi1PTzRLZlVxajhjRnFtWldGT1hyWXpMVlIzQUNjY3QzblBGQVBJSjc4TQ?oc=5",
-          "desc": "",
-          "title_en": "‘Lotte III’ Shin Yu-yeol, Food Fair 'Typex Anu‘ I took care of it myself",
-          "title_ja": "「ロッテIII」シン・ユヨル、フードフェア「Typex Anu」自分で処理しました",
-          "title_zh": "「乐天III」Shin Yu-yeol ，美食博览会「Typex Anu」我自己处理"
+          "title_en": "“Are you just swallowing the rice? Please eat slowly” … There was a reason to chew the food [Healthy Time]",
+          "title_ja": "「ご飯を飲み込んでいるだけですか？ゆっくり食べてください」…食べ物を噛む理由がありました【ヘルシータイム】",
+          "title_zh": "“你只是吞下米饭，请慢慢吃” ……咀嚼食物是有原因的【健康时光】"
         }
       ]
     },
