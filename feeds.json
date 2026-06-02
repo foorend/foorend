@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-06-02T04:03:33Z",
+  "lastUpdated": "2026-06-02T10:24:38Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
         {
-          "title": "Red Robin to sell 30 locations for $23.5M in refranchising push",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnk0M3ZXV3g1Q0NVWmJlZUdxdDNzNl8yWXA5aDJCUE9YTUs3RkZDdDV0N1JNb2R0RVNUYktNcXlMLWdfeTh1eUpRYzE5clJSenQ3RFJsOW9XdERobHNkRm5NekQ1bnR2ZVVmaUlQeFpTSTBMMkplbHlTOGVEdkhHbkV0b3JqV3ppUXFNeEY3bnRIaDI5dllDdDV6MVd2cFl4OWlOWQ?oc=5",
+          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
           "desc": "",
-          "title_ko": "Red Robin to sell 30 locations for $23.5M in refranchising push",
-          "title_ja": "Red Robin to sell 30 locations for $23.5M in refranchising push",
-          "title_zh": "Red Robin to sell 30 locations for $23.5M in refranchising push"
+          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
+          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
+          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
+        },
+        {
+          "title": "Red Robin to sell 30 locations for $23.5M in refranchising push",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVVycHk3SG5Hdzg1Z2NrRjhBYl9heHhVU2pPdmJNM1lFVDRpTHRmUGJ6S3ZSMHdOSld2bnhQOXhmcVZqODg0eENrRkJQYVVtNS1YWHN0VEhSWE1pT0djM0hZWlAwZTBpdE56eVlkd0o3c0RKOEFKSTFMYUdwQW40N1QwQ0lNaUU5eDEyOWJvVnJjY1RBVVdZcDZ1Y0xoNXM?oc=5",
+          "desc": "",
+          "title_ko": "레드 로빈, 리프랜차이즈 푸시로 30개 지점을 $ 23.5M에 판매",
+          "title_ja": "Red Robin、30店舗を$ 2350万で売却",
+          "title_zh": "Red Robin以$ 2350万的价格出售30个地点"
         },
         {
           "title": "Clover Food Lab shuts down as the plant-based meat trend fades",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3FKRnZiZ0xwd005UklIU3FPeFd4N01PbXBzU0xDQTJxZDRCU3pJYU85M3lqWHBKN2ZVeVRfcFBkY3dXdlk1LW5SRThMQWxoOEU3OUhUU1FZSjMwZ2RjZC1VVzFZMjNzT3pDM0lZLXJEM0pZbFMxM2phN1RxMzUtd1luVkhCbHR2NWdVdmVfOEhWMTFpYXdhSE5DVHpZZkc2VXJwbA?oc=5",
           "desc": "",
-          "title_ko": "Clover Food Lab shuts down as the plant-based meat trend fades",
-          "title_ja": "Clover Food Lab shuts down as the plant-based meat trend fades",
-          "title_zh": "Clover Food Lab shuts down as the plant-based meat trend fades"
-        },
-        {
-          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
-          "desc": "",
-          "title_ko": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "title_ja": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "title_zh": "McDonald’s next evolution includes menu, service and technology upgrades"
+          "title_ko": "식물성 육류 트렌드가 사라지면서 클로버 푸드 랩이 문을 닫습니다.",
+          "title_ja": "植物由来の肉のトレンドが衰退するにつれて、クローバーフードラボは閉鎖されます",
+          "title_zh": "随着植物性肉类趋势的消退， Clover Food Lab关闭"
         }
       ]
     },
@@ -39,17 +39,17 @@
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
-          "title_ko": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "title_ja": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "title_zh": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland"
+          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
+          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
         },
         {
           "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
           "desc": "",
-          "title_ko": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "title_ja": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "title_zh": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar"
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
+          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         },
         {
           "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
@@ -174,12 +174,12 @@
           "title_zh": "信号"
         },
         {
-          "title": "‘롯데 3세’ 신유열, 태국 ‘타이펙스 아누가’ 현장 방문...동남아 공략 박차",
+          "title": "‘롯데 3세’ 신유열, 泰 식품박람회 ‘타이펙스 아누가’ 직접 챙겼다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40aFlnNDFZcHpDdFRfemJmb1cwREVseE82Sjd0YzFvejh3MVZRb3NETEE1M2xMblg3R2k1UmdWQUd4eDhIeGoyVFFjMHMzZzEwSXfSAVNBVV95cUxOaGtyeHkxbEgtZkttODBWd0s3M3RNcHdOQ215YndMTWN2Qi1PTzRLZlVxajhjRnFtWldGT1hyWXpMVlIzQUNjY3QzblBGQVBJSjc4TQ?oc=5",
           "desc": "",
-          "title_en": "‘Lotte III’ Shin Yoo-yeol, Thailand ‘Typex Anuga' site visit... Spurring the attack on Southeast Asia",
-          "title_ja": "「ロッテIII」シン・ユヨル、タイ「Typexアヌガ」現地視察…東南アジアへの攻撃に拍車をかける",
-          "title_zh": "“乐天III”泰国Shin Yoo-yeol “Typex Anuga”实地考察...刺激对东南亚的攻击"
+          "title_en": "‘Lotte III’ Shin Yu-yeol, Food Fair 'Typex Anu‘ I took care of it myself",
+          "title_ja": "「ロッテIII」シン・ユヨル、フードフェア「Typex Anu」自分で処理しました",
+          "title_zh": "「乐天III」Shin Yu-yeol ，美食博览会「Typex Anu」我自己处理"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "K-푸드 열풍 타고 참기름 수출 고공행진…1∼4월 역대 최대치",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHbXhFTUF5Rm9lT1ZUWWdSZjRVWm9wZHhQZW9jbjNxVlVnd2hIQ0dFYWRzWndvV0tlTVZMWjhpdmNZZnFzcmZub1BSd1VpUkdCbXc?oc=5",
+          "title": "[다시 온 기회, 베트남] 베트남 식탁 접수한 K-푸드…밀려드는 글로벌 경쟁",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xYURaNDh3bGlhbmM0aHJ5Q3NkUklzTk9SUlk2UGdwVENWR2w1ZFYyb2Z4akM4ZEZVTmxkSHRQRDFmMFdsdl8wc1p4T0dZVkdjWVE?oc=5",
           "desc": "",
-          "title_en": "Exports of sesame oil on the K-Food craze are at an all-time high from January to April…",
-          "title_ja": "K - Food流行のゴマ油輸出は、1月から4月にかけて過去最高を記録しています…",
-          "title_zh": "从1月到4月， K-Food热潮的芝麻油出口量创历史新高……"
+          "title_en": "[Another Chance, Vietnam] K-Food Received from a Vietnamese Table… Rushing Global Competition",
+          "title_ja": "【ANOTHER CHANCEベトナム】ベトナムのテーブルからK - FOODを受け取った…急ぐグローバルコンペティション",
+          "title_zh": "[另一个机会，越南] K-Food从越南餐桌上获得……激烈的全球竞争"
         },
         {
-          "title": "장흥군, K-글로벌푸드와 무산김 수출 활성화 협약",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CQmg2M3FTdGZlNG4yUjA5ckxYMmpTVS1CU1Y0R2VicnZaSTFSMkVxb1Y2MHdmbXo0TEVYZ1l2VGllc2NnZHZ3ajVBSUNfQXNaRGc?oc=5",
+          "title": "MK Pick | 올가홀푸드, 국내산 원물의 감칠맛 담은 프리미엄 조미 소스 4종 출시",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAySXhaenVWSm5SMXVaMjBvajB0S1R3WkNkbHpJT0dkazk0NjhtS3JOaGlOU2k0eF9nMFNTeGNkeUxqUy01RGFHbEQ3WWU1NFRL?oc=5",
           "desc": "",
-          "title_en": "Jangheung-gun, K-Global Foods and Musanggim Export Revitalization Agreement",
-          "title_ja": "Jangheung - gun、K - Global Foods、Musanggim輸出活性化協定",
-          "title_zh": "长兴郡、K-Global Foods和Musanggim出口振兴协议"
+          "title_en": "MK Pick | Olga Whole Foods Launches 4 Premium Seasoned Sauces with Umami of Domestic Raw Materials",
+          "title_ja": "MKピック｜オルガホールフーズ、国産原料のうま味を使ったプレミアム味付けソース4種を発売",
+          "title_zh": "MK精选| Olga Whole Foods推出4款优质调味酱汁，配以国产原料鲜味"
         },
         {
-          "title": "관악구, 21개 골목상권서 '야간·음식문화 릴레이 축제'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94OF9Tc3VLUUswWXUwVDBoRFZGRUlvdGw5UWdrc1B4RDBnaW1zVjBsVTZJSUNnQloteXBYWlJHdDBLTjdjdk1iTWdtWlRVLUJrWXc?oc=5",
+          "title": "MK Pick | 팔도·hy, BTS와 함께한 모던 밸런스 푸드 ‘아리(ARIH)’ 국내 론칭",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NzVtYldKYjZneGtOU09xa29FN28wQkZxaTFrZGttTWFXLXcwc0I2Sm55WUlVUDAtb2w2NG9LS05hbGJqZEozTXB4emdCWmZa?oc=5",
           "desc": "",
-          "title_en": "Gwanak-gu, 21 alleys' Night and Food Culture Relay Festival '",
-          "title_ja": "観音区21路地「夜と食文化中継祭」",
-          "title_zh": "Gwanak-gu ， 21条小巷「夜晚和美食文化接力节」"
+          "title_en": "MK Pick | Modern Balance Food ‘Arih‘ launches in Korea with Faldo, Hy and BTS",
+          "title_ja": "MKピック| Faldo、Hy、BTSとのモダンバランスフード「Arih」が韓国で発売",
+          "title_zh": "MK Pick |与Faldo、Hy和BTS在韩国推出Modern Balance Food ‘Arih'"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "대용량으로 즐긴다…티젠, ‘요밀 팥빙수맛 대용량 원통형’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tRHRRUHNOX3F3bXdQbl9fazk3QjdURVlBeFRUbXBCSXdMcXhlN1c0UEtCRS1PV3ZlT2pFSHNpNUVDbHZBUmN6M1VrU1dkSmFnRGJjY1ZXcw?oc=5",
+          "desc": "",
+          "title_en": "I enjoy it in large quantities… Tizen, ‘Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical’",
+          "title_ja": "大量にお召し上がりいただけます・・・チゼン「ヨミル赤豆びんす風味大容量円筒」",
+          "title_zh": "我喜欢大量…… Tizen ， “Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical”"
+        },
+        {
+          "title": "블루보틀식 디저트 페어링…블루보틀, 디저트 메뉴 강화",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YVjFuR1V5TGdMTXN6dzFFMDltSmlvekswTW9yRG1UUWFzeGRycG5RMDctMnp4UzVpejlJdENQWnJsbnphUWRfSDNIenlpTnlsRndabUFHcw?oc=5",
+          "desc": "",
+          "title_en": "Blue bottle style dessert pairing… Blue bottle enhances dessert menu",
+          "title_ja": "ブルーボトルスタイルデザートペアリング…ブルーボトルがデザートメニューを強化",
+          "title_zh": "蓝瓶风格甜点搭配…蓝瓶提升甜点菜单"
+        },
+        {
           "title": "K-바비큐 시즈닝, 남아공 마트 주요 매대 차지",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNW5YNWdKV2o3Nk9tQmNHR3ZQcXVTN245WVdOWFVkSEk0cHBBZ2ExM0RBYjZmMGJqbVJoY3ZDcWVSY2NkUjFEUVdDUWRJYnItR1FwRWFBcw?oc=5",
           "desc": "",
           "title_en": "K-BBQ Seasoning takes over major South African grocery store",
           "title_ja": "K - BBQ調味料が南アフリカの大手食料品店を引き継ぐ",
           "title_zh": "K-BBQ调味料接管南非主要杂货店"
-        },
-        {
-          "title": "6월에 먹는 다슬기, 부추와 함께 드세요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKOHNtbkk3UHN5dllUc2ZSY2lNczl2SVM0QnJDa2ZmcjdXcTJRQmhwdDFlUEFUQ3MzU1BocjlhMFBCNFQzazNPcDBQNE95ZnM0cjZFOFJtRQ?oc=5",
-          "desc": "",
-          "title_en": "Pair it with June tea season and leeks",
-          "title_ja": "6月のお茶の季節とネギとのペアリング",
-          "title_zh": "搭配六月茶季和韭菜"
-        },
-        {
-          "title": "자꾸 깨는 밤·피곤한 아침, 설탕 줄여야 할 때입니다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0N2w2ajd6Y2FSa2pDMV9ENWFiQUkyTFFIQmNidkF6TmV3SUtHN3M0NV9hYWQyS1VuV3B0WDljTWFFdFo4SDNUd2JSQVhmd0R1RU9odllscw?oc=5",
-          "desc": "",
-          "title_en": "It's time to stay awake at night, tired mornings, and cut down on sugar",
-          "title_ja": "夜は目を覚まして、朝は疲れて、砂糖を減らしましょう",
-          "title_zh": "是时候在晚上保持清醒，早上疲倦，减少糖分"
         }
       ]
     }
