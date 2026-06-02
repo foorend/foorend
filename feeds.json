@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-06-01T21:33:21Z",
+  "lastUpdated": "2026-06-02T04:03:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
         {
-          "title": "Clover Food Lab shuts down as the plant-based meat trend fades",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3FKRnZiZ0xwd005UklIU3FPeFd4N01PbXBzU0xDQTJxZDRCU3pJYU85M3lqWHBKN2ZVeVRfcFBkY3dXdlk1LW5SRThMQWxoOEU3OUhUU1FZSjMwZ2RjZC1VVzFZMjNzT3pDM0lZLXJEM0pZbFMxM2phN1RxMzUtd1luVkhCbHR2NWdVdmVfOEhWMTFpYXdhSE5DVHpZZkc2VXJwbA?oc=5",
-          "desc": "",
-          "title_ko": "식물성 육류 트렌드가 사라지면서 클로버 푸드 랩이 문을 닫습니다.",
-          "title_ja": "植物由来の肉のトレンドが衰退するにつれて、クローバーフードラボは閉鎖されます",
-          "title_zh": "随着植物性肉类趋势的消退， Clover Food Lab关闭"
-        },
-        {
           "title": "Red Robin to sell 30 locations for $23.5M in refranchising push",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnk0M3ZXV3g1Q0NVWmJlZUdxdDNzNl8yWXA5aDJCUE9YTUs3RkZDdDV0N1JNb2R0RVNUYktNcXlMLWdfeTh1eUpRYzE5clJSenQ3RFJsOW9XdERobHNkRm5NekQ1bnR2ZVVmaUlQeFpTSTBMMkplbHlTOGVEdkhHbkV0b3JqV3ppUXFNeEY3bnRIaDI5dllDdDV6MVd2cFl4OWlOWQ?oc=5",
           "desc": "",
-          "title_ko": "레드 로빈, 리프랜차이즈 푸시로 30개 지점을 $ 23.5M에 판매",
-          "title_ja": "Red Robin、30店舗を$ 2350万で売却",
-          "title_zh": "Red Robin以$ 2350万的价格出售30个地点"
+          "title_ko": "Red Robin to sell 30 locations for $23.5M in refranchising push",
+          "title_ja": "Red Robin to sell 30 locations for $23.5M in refranchising push",
+          "title_zh": "Red Robin to sell 30 locations for $23.5M in refranchising push"
         },
         {
-          "title": "Economic data points to a two-sided economy",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0JGRjN6d1BSc0FDZHJFOXBHWHNFTUZyWUhOc18tUHE4d0QxMVEwbTdWZF9vTk9KQmNITG9zSEE2dWE1bm1oSUJXY0FXSGlFVngxWmhNNlg1NC1VdV9BWVg2d2FRZlFrbC0wM0NKcWh1Q0xrbGw5YjNQMmtpbVdPdlFnLW9XVk5yMnphblZR?oc=5",
+          "title": "Clover Food Lab shuts down as the plant-based meat trend fades",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3FKRnZiZ0xwd005UklIU3FPeFd4N01PbXBzU0xDQTJxZDRCU3pJYU85M3lqWHBKN2ZVeVRfcFBkY3dXdlk1LW5SRThMQWxoOEU3OUhUU1FZSjMwZ2RjZC1VVzFZMjNzT3pDM0lZLXJEM0pZbFMxM2phN1RxMzUtd1luVkhCbHR2NWdVdmVfOEhWMTFpYXdhSE5DVHpZZkc2VXJwbA?oc=5",
           "desc": "",
-          "title_ko": "경제 데이터는 양면 경제를 가리킵니다",
-          "title_ja": "経済データは双方向の経済を示している",
-          "title_zh": "经济数据表明经济是双向的"
+          "title_ko": "Clover Food Lab shuts down as the plant-based meat trend fades",
+          "title_ja": "Clover Food Lab shuts down as the plant-based meat trend fades",
+          "title_zh": "Clover Food Lab shuts down as the plant-based meat trend fades"
+        },
+        {
+          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
+          "desc": "",
+          "title_ko": "McDonald’s next evolution includes menu, service and technology upgrades",
+          "title_ja": "McDonald’s next evolution includes menu, service and technology upgrades",
+          "title_zh": "McDonald’s next evolution includes menu, service and technology upgrades"
         }
       ]
     },
@@ -39,17 +39,17 @@
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+          "title_ko": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "title_ja": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "title_zh": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland"
         },
         {
           "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
           "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+          "title_ko": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "title_ja": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "title_zh": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar"
         },
         {
           "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "'한국의 매운맛' 대박 터졌다…'불닭면' 대신 쓸어담는 '핫템'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTUlk2N3dYczQtZlN3OXZwT2RCQWxHc1JNTzhIeEFkRzkwcndDTkJnXzBPNV9xeHRJZngzdGFZbzljZkFLSWF3Q25sZzk3MThOWnlrejZpRUgtZ9IBVEFVX3lxTE94cWJTaFNrb2NBSXZfbVhEM1o0cVRuaGFCb3Y4N2xyNGtlOHJ6RURfbDVPUWI3R2RpLWtGa3RNaGtDektXSWFsQlEtM1BUWFg5eDVDRg?oc=5",
+          "desc": "",
+          "title_en": "'Korea's Spicy Flavor' Exploded... 'Hot Item' Swiping Instead of 'Bulchik Noodle'",
+          "title_ja": "「韓国のスパイシーフレーバー」が爆発…「ホットアイテム」が「バルチクヌードル」の代わりにスワイプ",
+          "title_zh": "“韩国的辣味”爆炸了…… “热门餐点”刷卡而不是“Bulchik面条”"
+        },
+        {
+          "title": "K-푸드 열풍 타고 참기름 수출 고공행진…1∼4월 역대 최대치",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aXFOc2JDbUFpOGJ5bjE5QVFBeTUxTC1sT0l4MWpBelpGTHNrQlBNVUdQekZwdmxiZ3M1QzJhZFhsRDFVY2VtNUhVdDEtRlZ4ZTdYWjVWcjB4QdIBVEFVX3lxTE5QRHl6WlR2c3pqNVNiLXB6OVozdlJlYkZrblo3RmZwRU1uUFVONFJjVEpMRHF4V0NielktdVc1UzBQemNuRmpVSjJJU3ZzT1N1Z1ZMcg?oc=5",
+          "desc": "",
+          "title_en": "Exports of sesame oil on the K-Food craze are at an all-time high from January to April…",
+          "title_ja": "K - Food流行のゴマ油輸出は、1月から4月にかけて過去最高を記録しています…",
+          "title_zh": "从1月到4月， K-Food热潮的芝麻油出口量创历史新高……"
+        },
+        {
           "title": "AI와 로봇 주방이 바꾸는 외식산업의 미래[테크트렌드]",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWDFkTWt6RkU5TGJ1NkFnV2xMU2Q3M20wemhnSGVDeUlEQUFsY1Y2b3ZrYUZYX3hZVEtHbVpWUURCbnZEWE5MU2VmWmIzNnRRNWJ3M3JnckY4U3FyOXlIeENSM2hQRjlGeUVWQg?oc=5",
           "desc": "",
           "title_en": "The Future of the Dining Industry Changed by AI and Robot Kitchens [Tech Trends]",
           "title_ja": "AIとロボットキッチンが変えるダイニング業界の未来【テックトレンド】",
           "title_zh": "人工智能和机器人厨房改变餐饮业的未来[技术趋势]"
-        },
-        {
-          "title": "\"스펀지처럼 쭉 흡수\"…의사가 꼽은 공복에 먹어야 할 음식 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KM1Vlbld2a09hTTh4YzJEMGxrUWxOLVZDaDN5MWstOGpqa3UzbURybmpjWUVHcm5jQmtXcVplNFF0b1dGNGtzc2ZGTjJVZlNCNHBydWRRYjFRUdIBVEFVX3lxTFBYclp2ZDlIanlkcmtwS3VlTm90eXg5NVNBU2Y4cUZ3alhSR2VyNDRHcF9QRmN3NXFaU3JFOVgtN19xck9xdG5acU8tenE1MkJBYVQxLQ?oc=5",
-          "desc": "",
-          "title_en": "“Absorb it like a sponge” … What to eat on an empty stomach according to a doctor [Health! Talk]",
-          "title_ja": "「スポンジのように吸収する」…医者によると、空腹時に何を食べるべきか[健康！話す]",
-          "title_zh": "“像海绵一样吸收它” ……根据医生的说法，空腹吃什么[健康！谈话]"
-        },
-        {
-          "title": "K푸드 수출 질주…라면·김·간편식 불티",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVJIdGRHNUs0ZzVRSlRmNjlIZGZ4WVFJR1I5a2RLVHVScVJabVIxbW5KMVM3SnlFbW8wUllhYzBYOHcwaDg0ZldWZkJqY2FvNndKd0UzcE1ZdWViendNSWxhUU0tQU5ydU9INWZlb094ZmdVb3NaYnNmNzNLWjhna0wwbTBGN3c?oc=5",
-          "desc": "",
-          "title_en": "K-food export sprint… Ramen · Kim · Quick balti",
-          "title_ja": "K - food輸出スプリント…ラーメン・キム・クイックバルティ",
-          "title_zh": "K-food出口冲刺…拉面· Kim · Quick balti"
         }
       ]
     },
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "\"김치찌개가 중국 음식이라고?\"…태국 '문화 도둑질'에 韓누리꾼들 '분노'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fVFNpWmhfQlYyQ0tFeXJMRUJHWWJUNno3SHUtak1neEFjSDRHRTluR2JSNEx6Um01ZWJWTUR4bjB2R2lKZ1hTZjJ2bl9mU1RnTFHSAVNBVV95cUxPSnpqRVFSWmVRU1JyclBNNFMzNFl0NDhVOVJSNzgwOHc4OXNZMkdfVm9wR0xBTmZadlhERWVkYWZoVWVxZ044REx3ekNXbkZGR2xldw?oc=5",
+          "desc": "",
+          "title_en": "“Kimchi stew is Chinese food?” … Korean 'anger' over Thai 'cultural theft'",
+          "title_ja": "「キムチシチューは中華料理ですか？」…タイの「文化的盗難」に対する韓国の「怒り」",
+          "title_zh": "“泡菜炖菜是中国菜吗？” ……韩国人对泰国“文化盗窃”的“愤怒”"
+        },
+        {
           "title": "SIGNAL",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xY1pSZXFZS0VfcFU2RDVtOUtvOWpCVUZxbGJMdGo3TDBrRE1FdUJZU3JTdlJDRldHYmNfdHdWTURDcHcwLVNyRjkxdjk3R0RZaFMyYjhwWVdPblBoYWZZVWJ3aw?oc=5",
           "desc": "",
           "title_en": "Signal",
           "title_ja": "信号",
           "title_zh": "信号"
-        },
-        {
-          "title": "음식·패션…일상을 파고든 극우[북스&]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBudHdSN2tuME80NGljU2gzUnVPN1BzbzZLeVFzRkZUVk40Y1hBcjViV1RwTDRRVHdfMTQwYlhlSHo0MHZEX0NGTVBXNHc4eENpMFHSAVNBVV95cUxNVWN1V1ZQUGVXbVA0SkdzNURkbE85amJBeUNvakRsSEI2cWhsaFo5R0lOZkZ4ZThZdkVrYzlsVWZzallua2RoYXJnWVhhYzgtaFBJMA?oc=5",
-          "desc": "",
-          "title_en": "Food, fashion… Far right digging into everyday life [Books &]",
-          "title_ja": "食べ物、ファッション…日常生活を徹底的に掘り下げる[Books &]",
-          "title_zh": "美食、时尚……深入日常生活[书籍和]"
         },
         {
           "title": "‘롯데 3세’ 신유열, 태국 ‘타이펙스 아누가’ 현장 방문...동남아 공략 박차",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "K-푸드 열풍 타고 참기름 수출 고공행진…1∼4월 역대 최대치",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHbXhFTUF5Rm9lT1ZUWWdSZjRVWm9wZHhQZW9jbjNxVlVnd2hIQ0dFYWRzWndvV0tlTVZMWjhpdmNZZnFzcmZub1BSd1VpUkdCbXc?oc=5",
+          "desc": "",
+          "title_en": "Exports of sesame oil on the K-Food craze are at an all-time high from January to April…",
+          "title_ja": "K - Food流行のゴマ油輸出は、1月から4月にかけて過去最高を記録しています…",
+          "title_zh": "从1月到4月， K-Food热潮的芝麻油出口量创历史新高……"
+        },
+        {
           "title": "장흥군, K-글로벌푸드와 무산김 수출 활성화 협약",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CQmg2M3FTdGZlNG4yUjA5ckxYMmpTVS1CU1Y0R2VicnZaSTFSMkVxb1Y2MHdmbXo0TEVYZ1l2VGllc2NnZHZ3ajVBSUNfQXNaRGc?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "长兴郡、K-Global Foods和Musanggim出口振兴协议"
         },
         {
-          "title": "K푸드, 중국 수출길 넓어진다…등록절차 개선·품목 확대",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uNmRNTXpkOGJXZ212a09iY21iOFNLb2RHemRZTVc5QTFCcWlHU3JsVzdWbFBIYzh6akpFTzhOSGdNVGphRGVONkJycVk1dzRNX2c?oc=5",
+          "title": "관악구, 21개 골목상권서 '야간·음식문화 릴레이 축제'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94OF9Tc3VLUUswWXUwVDBoRFZGRUlvdGw5UWdrc1B4RDBnaW1zVjBsVTZJSUNnQloteXBYWlJHdDBLTjdjdk1iTWdtWlRVLUJrWXc?oc=5",
           "desc": "",
-          "title_en": "K-Food expands China's export route, improves registration process, expands items",
-          "title_ja": "K - Foodが中国の輸出ルートを拡大し、登録プロセスを改善し、商品を拡大",
-          "title_zh": "K-Food拓展中国出口路线，完善注册流程，拓展商品"
-        },
-        {
-          "title": "\"한식 로봇, 美 공항까지 점령 … K푸드 전성기는 이제 시작\"",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzOG9BN0RTOTRQa2FCc3pOeUJBR3gxaVF0TC1fZVBLbzA1OEdMcHM5LVpYOVdVaXNTcnNBczR4UUtONDlhektvWHgtMTRZdw?oc=5",
-          "desc": "",
-          "title_en": "\"Korean food robot occupies US airport... The peak of K-Food has begun\"",
-          "title_ja": "「韓国のフードロボットが米国空港を占拠… K - Foodのピークが始まった」",
-          "title_zh": "“韩国美食机器人占领美国机场…… K-Food高峰已经开始”"
+          "title_en": "Gwanak-gu, 21 alleys' Night and Food Culture Relay Festival '",
+          "title_ja": "観音区21路地「夜と食文化中継祭」",
+          "title_zh": "Gwanak-gu ， 21条小巷「夜晚和美食文化接力节」"
         }
       ]
     },
@@ -226,12 +226,12 @@
           "title_zh": "K-BBQ调味料接管南非主要杂货店"
         },
         {
-          "title": "노란 완두콩 사용…미국의 ‘고단백 파스타’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Gdi13bWhwaDdUSjRHOUhGeDhRREJEVC1mSnk3REpFNVdxenFLZ3dmTTVSSHoyZ21TbU5na0x4MFBMd0ZmWTQtMDh1WGVrSmlDSGFVeHFKcw?oc=5",
+          "title": "6월에 먹는 다슬기, 부추와 함께 드세요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKOHNtbkk3UHN5dllUc2ZSY2lNczl2SVM0QnJDa2ZmcjdXcTJRQmhwdDFlUEFUQ3MzU1BocjlhMFBCNFQzazNPcDBQNE95ZnM0cjZFOFJtRQ?oc=5",
           "desc": "",
-          "title_en": "Uses Yellow Peas… America's ‘High-Protein Pasta’",
-          "title_ja": "イエローピースを使用…アメリカの「高タンパクパスタ」",
-          "title_zh": "使用黄豆…美国的“高蛋白意大利面”"
+          "title_en": "Pair it with June tea season and leeks",
+          "title_ja": "6月のお茶の季節とネギとのペアリング",
+          "title_zh": "搭配六月茶季和韭菜"
         },
         {
           "title": "자꾸 깨는 밤·피곤한 아침, 설탕 줄여야 할 때입니다",
