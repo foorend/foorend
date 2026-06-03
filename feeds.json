@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T20:56:01Z",
+  "lastUpdated": "2026-06-03T23:06:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "[다시 온 기회, 베트남] 베트남 식탁 접수한 K-푸드…밀려드는 글로벌 경쟁",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xYURaNDh3bGlhbmM0aHJ5Q3NkUklzTk9SUlk2UGdwVENWR2w1ZFYyb2Z4akM4ZEZVTmxkSHRQRDFmMFdsdl8wc1p4T0dZVkdjWVE?oc=5",
-          "desc": "",
-          "title_en": "[Another Chance, Vietnam] K-Food Received from a Vietnamese Table… Rushing Global Competition",
-          "title_ja": "【ANOTHER CHANCEベトナム】ベトナムのテーブルからK - FOODを受け取った…急ぐグローバルコンペティション",
-          "title_zh": "[另一个机会，越南] K-Food从越南餐桌上获得……激烈的全球竞争"
-        },
-        {
           "title": "새로나온 책 5000원으로…만들어 먹는 사찰음식",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XYWYwZ2lMYzRBTUxTUGhicFJoZFRLSGhNNUNIeUNGZXc5VWZucG44c3FXemVWRkt5WXF3RUNiT2xXVFJveGc?oc=5",
           "desc": "",
@@ -204,12 +196,20 @@
           "title_zh": "制作和吃一本新书的寺庙食物5000韩元……"
         },
         {
-          "title": "MK Pick | 팔도·hy, BTS와 함께한 모던 밸런스 푸드 ‘아리(ARIH)’ 국내 론칭",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NzVtYldKYjZneGtOU09xa29FN28wQkZxaTFrZGttTWFXLXcwc0I2Sm55WUlVUDAtb2w2NG9LS05hbGJqZEozTXB4emdCWmZa?oc=5",
+          "title": "[다시 온 기회, 베트남] 베트남 식탁 접수한 K-푸드…밀려드는 글로벌 경쟁",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xYURaNDh3bGlhbmM0aHJ5Q3NkUklzTk9SUlk2UGdwVENWR2w1ZFYyb2Z4akM4ZEZVTmxkSHRQRDFmMFdsdl8wc1p4T0dZVkdjWVE?oc=5",
           "desc": "",
-          "title_en": "MK Pick | Modern Balance Food ‘Arih‘ launches in Korea with Faldo, Hy and BTS",
-          "title_ja": "MKピック| Faldo、Hy、BTSとのモダンバランスフード「Arih」が韓国で発売",
-          "title_zh": "MK Pick |与Faldo、Hy和BTS在韩国推出Modern Balance Food ‘Arih'"
+          "title_en": "[Another Chance, Vietnam] K-Food Received from a Vietnamese Table… Rushing Global Competition",
+          "title_ja": "【ANOTHER CHANCEベトナム】ベトナムのテーブルからK - FOODを受け取った…急ぐグローバルコンペティション",
+          "title_zh": "[另一个机会，越南] K-Food从越南餐桌上获得……激烈的全球竞争"
+        },
+        {
+          "title": "어보브 푸드 인그리디언츠, 나스닥 상장폐지로 OTC 이전…유동성 급감 우려",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11M3RZMUptYVA0enh4dVA4VUpLeXhuWWhBTU9CTzhyVFZleG4xU1FpX0NON2kxaF9XYjBmMGVnazlWWUhsM04xQzF5VUZOVGJ2OFE?oc=5",
+          "desc": "",
+          "title_en": "Above Foods Ingredients relocates OTC to Nasdaq delisting… Concerned about liquidity plummeting",
+          "title_ja": "Above Foods IngredientsがOTCをナスダック上場廃止に移行…流動性の急落を懸念",
+          "title_zh": "Above Foods Ingredients将场外交易转移到纳斯达克退市……担心流动性暴跌"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
         },
         {
-          "title": "6월에 먹는 다슬기, 부추와 함께 드세요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKOHNtbkk3UHN5dllUc2ZSY2lNczl2SVM0QnJDa2ZmcjdXcTJRQmhwdDFlUEFUQ3MzU1BocjlhMFBCNFQzazNPcDBQNE95ZnM0cjZFOFJtRQ?oc=5",
+          "title": "블루보틀식 디저트 페어링…블루보틀, 디저트 메뉴 강화",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YVjFuR1V5TGdMTXN6dzFFMDltSmlvekswTW9yRG1UUWFzeGRycG5RMDctMnp4UzVpejlJdENQWnJsbnphUWRfSDNIenlpTnlsRndabUFHcw?oc=5",
           "desc": "",
-          "title_en": "Pair it with June tea season and leeks",
-          "title_ja": "6月のお茶の季節とネギとのペアリング",
-          "title_zh": "搭配六月茶季和韭菜"
+          "title_en": "Blue bottle style dessert pairing… Blue bottle enhances dessert menu",
+          "title_ja": "ブルーボトルスタイルデザートペアリング…ブルーボトルがデザートメニューを強化",
+          "title_zh": "蓝瓶风格甜点搭配…蓝瓶提升甜点菜单"
         },
         {
-          "title": "고소한 살치살, 쫄깃 사태…100가지 한우 즐기기",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ZGVxSl9EeERjazRWZUo3VFIzUjY1NmRzaVFwZXg0UEZmOTVZSTZ5RUlMdDZIdmJlRWhIeEMwNmhTcy1XMS1hQTlBVmozWk5TemxMZklxRQ?oc=5",
+          "title": "K-바비큐 시즈닝, 남아공 마트 주요 매대 차지",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNW5YNWdKV2o3Nk9tQmNHR3ZQcXVTN245WVdOWFVkSEk0cHBBZ2ExM0RBYjZmMGJqbVJoY3ZDcWVSY2NkUjFEUVdDUWRJYnItR1FwRWFBcw?oc=5",
           "desc": "",
-          "title_en": "Savory flesh, chewy rice… Enjoy 100 kinds of chili",
-          "title_ja": "おいしい肉、噛みごたえ… 100種類の唐辛子を味わおう",
-          "title_zh": "咸肉，咀嚼米饭…享用100种辣椒"
+          "title_en": "K-BBQ Seasoning takes over major South African grocery store",
+          "title_ja": "K - BBQ調味料が南アフリカの大手食料品店を引き継ぐ",
+          "title_zh": "K-BBQ调味料接管南非主要杂货店"
         }
       ]
     }
