@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T16:50:17Z",
+  "lastUpdated": "2026-06-03T20:56:01Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Red Robin以$ 2350万的价格出售30个地点"
         },
         {
-          "title": "A terminated Panera Bread franchisee declares bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkRxWDRaVmxveE40MkwyZnhjOHFiZ3ZzaFNmZVVzVWFyUVkwR3hPc0NfQllWcWo1ZGpUdGlPVm96OWtvbHFYYTFVX01kV0tUWmNTMmxpV2pGZXpJZWFkTjZMaFlibHNIa1Z4eTdXeHItTUhQam1jN1gtOHNGNFMxOGgxSUszR0Y5MGs4OWZrMkMtZTVicnBTN3ZtYWpzcHZCTmFr?oc=5",
+          "title": "The secret is out. This smashburger concept is growing",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVdwTjdCUjZoM0NUWHlXSlpjNzVYZGpDbGwxMnVUby1ZV0hMQjB4cTBLZktuQVljN3FoMHFIZGR5aHVXN3hfN3J0Qk9rNVRSa0prTXNodS0zMVp4VHF0WnBGMlFVeWFMY01xZ0hLSGt6M0VGNW02bU9jNi03NmRxdloybjhoRjhwZkpoMlhrUURxZnRmTVZyYVNXQQ?oc=5",
           "desc": "",
-          "title_ko": "해지된 Panera Bread 프랜차이즈 가맹점이 파산을 선언함",
-          "title_ja": "終了したパネラブレッドのフランチャイズ加盟店が破産を宣言",
-          "title_zh": "被终止的Panera Bread特许经营商宣布破产"
+          "title_ko": "비밀이 밝혀졌습니다. 이 스매시버거 컨셉은 점점 더 커지고 있습니다",
+          "title_ja": "秘密は暴露された。このスマッシュバーガーコンセプトは成長しています",
+          "title_zh": "秘密已经揭晓。这个粉碎汉堡的概念正在成长"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Restaurants Are Going Horse Girl",
+          "link": "https://www.eater.com/dining-out/966709/restaurant-horse-theme-trend",
+          "desc": "According to the Chinese zodiac, it’s the year of the horse — and that’s abundantly clear in hospitality.  In February, Derby Cup Coffee swung open it",
+          "title_ko": "레스토랑은 말 타는 소녀로 변신합니다.",
+          "title_ja": "レストランは馬の女の子に向かっています",
+          "title_zh": "餐厅正在走马女孩"
+        },
+        {
           "title": "How Chefs at Hard Rock Stadium Feed Thousands During the Miami Open",
           "link": "https://www.eater.com/stadium-dining-guides/966717/hard-rock-stadium-chefs-prep-miami-open",
           "desc": "This episode of Large Format takes you inside the kitchens of Miami’s Hard Rock Stadium, as the stadium prepares to feed the attendees of the 2026 Mia",
@@ -110,14 +118,6 @@
           "title_ko": "2026년 북미 최고의 레스토랑 50곳: 전체 목록",
           "title_ja": "2026年の北米のベストレストラン50 ：全リスト",
           "title_zh": "2026年北美50家最佳餐厅：完整榜单"
-        },
-        {
-          "title": "I Tried Erewhon’s New $15,000-a-Year VIP Membership for a Month",
-          "link": "https://www.eater.com/groceries-retail/964871/erewhon-reserve-membership-perks",
-          "desc": "When I have friends visiting Los Angeles and I ask where they’d like to eat, of all the incredible restaurants that the city has to offer — old Hollyw",
-          "title_ko": "나는 Erewhon의 새로운 $ 15,000-a-Year VIP 멤버십을 한 달 동안 시도했다",
-          "title_ja": "私はErewhonの新しい$ 15,000年のVIPメンバーシップを1ヶ月間試しました",
-          "title_zh": "我尝试了Erewhon一年15,000 $的新VIP会员资格一个月"
         }
       ]
     }
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "'한국의 매운맛' 대박 터졌다…'불닭면' 대신 쓸어담는 '핫템'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTUlk2N3dYczQtZlN3OXZwT2RCQWxHc1JNTzhIeEFkRzkwcndDTkJnXzBPNV9xeHRJZngzdGFZbzljZkFLSWF3Q25sZzk3MThOWnlrejZpRUgtZ9IBVEFVX3lxTE94cWJTaFNrb2NBSXZfbVhEM1o0cVRuaGFCb3Y4N2xyNGtlOHJ6RURfbDVPUWI3R2RpLWtGa3RNaGtDektXSWFsQlEtM1BUWFg5eDVDRg?oc=5",
-          "desc": "",
-          "title_en": "'Korea's Spicy Flavor' Exploded... 'Hot Item' Swiping Instead of 'Bulchik Noodle'",
-          "title_ja": "「韓国のスパイシーフレーバー」が爆発…「ホットアイテム」が「バルチクヌードル」の代わりにスワイプ",
-          "title_zh": "“韩国的辣味”爆炸了…… “热门餐点”刷卡而不是“Bulchik面条”"
-        },
-        {
           "title": "“내수만으론 답 없다”…K푸드, 동남아서 수출길 찾는다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtdUFaSlMwOGh6aFVVSWFibzFfVXdpUnE0V0F1bFJCWkxEVGxGUXBLTkQ1RUF4VzdCUFBpV0NoSVRJT1BoaEdScGl6Z3dkZjBVSWJCZGI1X0d1d9IBVEFVX3lxTE5BeVRnMFlHSHJMdmhHa05HaTJRa05IdWFIME9INGJxczR6SXh5b1d5c2syUk04UGsxbjNwX1BBWmE0TU5NYlhWUnMwN1ZPMmVpbThRSQ?oc=5",
           "desc": "",
@@ -144,12 +136,20 @@
           "title_zh": "“国内需求没有答案” …… K Foods正在寻找通往东南海滨的出口路线"
         },
         {
-          "title": "\"내수만으론 답 없다\"…K푸드, 동남아서 수출길 찾는다",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTzhnV3NsWU41NUFQU094OE1WRG9aZ3FmdWpTSEZsb0Y2R0JuS0ZKVkljdTVDOUZ0Y2RxbUFndENDaDFwbkhzUW5zRjk3ZXpsV2lONDRvRE9mNllqcFFIQTZ6Z2FWWjdWYnJkSHBWa1BzbGNzNVMwQjBRQjZWOEU?oc=5",
+          "title": "'한국의 매운맛' 대박 터졌다…'불닭면' 대신 쓸어담는 '핫템'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTUlk2N3dYczQtZlN3OXZwT2RCQWxHc1JNTzhIeEFkRzkwcndDTkJnXzBPNV9xeHRJZngzdGFZbzljZkFLSWF3Q25sZzk3MThOWnlrejZpRUgtZ9IBVEFVX3lxTE94cWJTaFNrb2NBSXZfbVhEM1o0cVRuaGFCb3Y4N2xyNGtlOHJ6RURfbDVPUWI3R2RpLWtGa3RNaGtDektXSWFsQlEtM1BUWFg5eDVDRg?oc=5",
           "desc": "",
-          "title_en": "\"There is no answer for domestic water alone\" … K Foods is looking for an export route to Southeast Seaside",
-          "title_ja": "「国内の水だけでは解決策はない」… Kフーズは東南シーサイドへの輸出ルートを探している",
-          "title_zh": "“仅靠生活用水没有答案” …… K Foods正在寻找通往东南海滨的出口路线"
+          "title_en": "'Korea's Spicy Flavor' Exploded... 'Hot Item' Swiping Instead of 'Bulchik Noodle'",
+          "title_ja": "「韓国のスパイシーフレーバー」が爆発…「ホットアイテム」が「バルチクヌードル」の代わりにスワイプ",
+          "title_zh": "“韩国的辣味”爆炸了…… “热门餐点”刷卡而不是“Bulchik面条”"
+        },
+        {
+          "title": "K-푸드 열풍 타고 참기름 수출 고공행진…1∼4월 역대 최대치",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aXFOc2JDbUFpOGJ5bjE5QVFBeTUxTC1sT0l4MWpBelpGTHNrQlBNVUdQekZwdmxiZ3M1QzJhZFhsRDFVY2VtNUhVdDEtRlZ4ZTdYWjVWcjB4QdIBVEFVX3lxTE5QRHl6WlR2c3pqNVNiLXB6OVozdlJlYkZrblo3RmZwRU1uUFVONFJjVEpMRHF4V0NielktdVc1UzBQemNuRmpVSjJJU3ZzT1N1Z1ZMcg?oc=5",
+          "desc": "",
+          "title_en": "Exports of sesame oil on the K-Food craze are at an all-time high from January to April…",
+          "title_ja": "K - Food流行のゴマ油輸出は、1月から4月にかけて過去最高を記録しています…",
+          "title_zh": "从1月到4月， K-Food热潮的芝麻油出口量创历史新高……"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "芝麻油和K-Food和K-Pop的记录……变形金刚也成为新的出口Hyoja项目[Pick Economy]"
         },
         {
-          "title": "백화점서 만나는 불교 문화…더현대 서울 ‘템플 위크’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqcDE3WlNCbjh3cmIxRlNfQWZXeUVyOVU1cjF4TFdoNnlOTEZYaWd4aUQySDN5ajhzbG9zcGFwSnRyUnBkSFNxN0xkcXZlaVFTaFHSAVNBVV95cUxNNWNwWllIUWtfSVZ2WVppNGZSbUNLcEROWFozSlBib3FISzF4YmF3bXh0RWVKclhzM0FMUkJiLWthMk9IMlgzN2hhUkxoY0pRRU1Fdw?oc=5",
+          "title": "“밥 그냥 삼키니? 제발 천천히 먹어”…음식 꼭꼭 씹어 먹어야 하는 이유 있었다 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XREpPU2ZSY0Q5enhpVmxLcHZ5aHNNU2xGRnZydVIyX0ZHaDl4UXlReXJHdF9hSFUtdWdJSDJHSEpmT2YxTXo3Qi0wRERUUnRTdlA00gFTQVVfeXFMTVdESk9TZlJjRDl6eGlWbEtwdnloc01TbEZGdnJ1UjJfRkdoOXhReVF5ckd0X2FIVS11Z0lIMkdISmZPZjFNejdCLTBERFRSdFN2UDQ?oc=5",
           "desc": "",
-          "title_en": "Buddhist Culture in a Department Store: Temple Week, The Hyundai Seoul",
-          "title_ja": "デパートで学ぶ仏教文化：寺院週間、現代ソウル",
-          "title_zh": "百货公司的佛教文化：寺庙周，现代首尔"
+          "title_en": "“Are you just swallowing the rice? Please eat slowly” … There was a reason to chew the food [Healthy Time]",
+          "title_ja": "「ご飯を飲み込んでいるだけですか？ゆっくり食べてください」…食べ物を噛む理由がありました【ヘルシータイム】",
+          "title_zh": "“你只是吞下米饭，请慢慢吃” ……咀嚼食物是有原因的【健康时光】"
         },
         {
-          "title": "“매일 먹는 ‘이것’ 뇌 망가뜨린다”…신경과 의사가 먼저 끊으라는 식품 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15Q0N3aEhFb0ppenlzY2hWUzVHb0p6QnF1N2s1SWRaTzlsM08wbGVaVXNwVDBSZXd6eEFwQXlxeHA3T1Q3YjFhVzd1eHVCanlKenfSAVNBVV95cUxOVUZDcTZfNXhqbk9OUUFFYi1yTjFUdXhYa2FLN091MnN4ZEtwdDI5NnFQV0NmQ1hVaHpWOFZrb0xDU0ZDN3B1bGxCSmVKRjM4QlQ3OA?oc=5",
+          "title": "\"김치찌개가 중국 음식이라고?\"…태국 '문화 도둑질'에 韓누리꾼들 '분노'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fVFNpWmhfQlYyQ0tFeXJMRUJHWWJUNno3SHUtak1neEFjSDRHRTluR2JSNEx6Um01ZWJWTUR4bjB2R2lKZ1hTZjJ2bl9mU1RnTFHSAVNBVV95cUxPSnpqRVFSWmVRU1JyclBNNFMzNFl0NDhVOVJSNzgwOHc4OXNZMkdfVm9wR0xBTmZadlhERWVkYWZoVWVxZ044REx3ekNXbkZGR2xldw?oc=5",
           "desc": "",
-          "title_en": "“Everyday ‘This‘ Destroys Your Brain” … Foods That Neurologists Tell You to Quit First [Health Time]",
-          "title_ja": "「毎日これが脳を破壊する」…神経科医が最初にやめるように指示する食べ物[Health Time]",
-          "title_zh": "“每天‘这‘都会摧毁你的大脑” ……神经科医生告诉你先戒掉的食物[健康时间]"
+          "title_en": "“Kimchi stew is Chinese food?” … Korean 'anger' over Thai 'cultural theft'",
+          "title_ja": "「キムチシチューは中華料理ですか？」…タイの「文化的盗難」に対する韓国の「怒り」",
+          "title_zh": "“泡菜炖菜是中国菜吗？” ……韩国人对泰国“文化盗窃”的“愤怒”"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "制作和吃一本新书的寺庙食物5000韩元……"
         },
         {
-          "title": "어보브 푸드 인그리디언츠, 나스닥 상장폐지로 OTC 이전…유동성 급감 우려",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11M3RZMUptYVA0enh4dVA4VUpLeXhuWWhBTU9CTzhyVFZleG4xU1FpX0NON2kxaF9XYjBmMGVnazlWWUhsM04xQzF5VUZOVGJ2OFE?oc=5",
+          "title": "MK Pick | 팔도·hy, BTS와 함께한 모던 밸런스 푸드 ‘아리(ARIH)’ 국내 론칭",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NzVtYldKYjZneGtOU09xa29FN28wQkZxaTFrZGttTWFXLXcwc0I2Sm55WUlVUDAtb2w2NG9LS05hbGJqZEozTXB4emdCWmZa?oc=5",
           "desc": "",
-          "title_en": "Above Foods Ingredients relocates OTC to Nasdaq delisting… Concerned about liquidity plummeting",
-          "title_ja": "Above Foods IngredientsがOTCをナスダック上場廃止に移行…流動性の急落を懸念",
-          "title_zh": "Above Foods Ingredients将场外交易转移到纳斯达克退市……担心流动性暴跌"
+          "title_en": "MK Pick | Modern Balance Food ‘Arih‘ launches in Korea with Faldo, Hy and BTS",
+          "title_ja": "MKピック| Faldo、Hy、BTSとのモダンバランスフード「Arih」が韓国で発売",
+          "title_zh": "MK Pick |与Faldo、Hy和BTS在韩国推出Modern Balance Food ‘Arih'"
         }
       ]
     },
@@ -218,31 +218,62 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "“맵지 않아요” 음식 위 빨간 가루, 파프리카였어?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sRVJ3VjNNRVVvbnd6NWMwWG03T0N1NXBoYVdmT0dWWkxqX3o3VHdUc1hrb0RubjdZN1ZRUmw1QkllNy01SzBfdTFONWZTRURxclhFNVI0dw?oc=5",
-          "desc": "",
-          "title_en": "“It's not spicy” Was it red powder or paprika on the food?",
-          "title_ja": "「スパイシーではありません」赤いパウダーやパプリカが食べ物についていましたか？",
-          "title_zh": "「不辣」食物上是红粉还是辣椒粉？"
-        },
-        {
-          "title": "대용량으로 즐긴다…티젠, ‘요밀 팥빙수맛 대용량 원통형’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tRHRRUHNOX3F3bXdQbl9fazk3QjdURVlBeFRUbXBCSXdMcXhlN1c0UEtCRS1PV3ZlT2pFSHNpNUVDbHZBUmN6M1VrU1dkSmFnRGJjY1ZXcw?oc=5",
-          "desc": "",
-          "title_en": "I enjoy it in large quantities… Tizen, ‘Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical’",
-          "title_ja": "大量にお召し上がりいただけます・・・チゼン「ヨミル赤豆びんす風味大容量円筒」",
-          "title_zh": "我喜欢大量…… Tizen ， “Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical”"
-        },
-        {
           "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
           "desc": "",
           "title_en": "I take it out all week, ‘Kish Milf Wrap’",
           "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
           "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
+        },
+        {
+          "title": "6월에 먹는 다슬기, 부추와 함께 드세요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKOHNtbkk3UHN5dllUc2ZSY2lNczl2SVM0QnJDa2ZmcjdXcTJRQmhwdDFlUEFUQ3MzU1BocjlhMFBCNFQzazNPcDBQNE95ZnM0cjZFOFJtRQ?oc=5",
+          "desc": "",
+          "title_en": "Pair it with June tea season and leeks",
+          "title_ja": "6月のお茶の季節とネギとのペアリング",
+          "title_zh": "搭配六月茶季和韭菜"
+        },
+        {
+          "title": "고소한 살치살, 쫄깃 사태…100가지 한우 즐기기",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ZGVxSl9EeERjazRWZUo3VFIzUjY1NmRzaVFwZXg0UEZmOTVZSTZ5RUlMdDZIdmJlRWhIeEMwNmhTcy1XMS1hQTlBVmozWk5TemxMZklxRQ?oc=5",
+          "desc": "",
+          "title_en": "Savory flesh, chewy rice… Enjoy 100 kinds of chili",
+          "title_ja": "おいしい肉、噛みごたえ… 100種類の唐辛子を味わおう",
+          "title_zh": "咸肉，咀嚼米饭…享用100种辣椒"
         }
       ]
     }
   },
-  "korean_articles": []
+  "korean_articles": [
+    {
+      "title": "🌍26년 5월 글로벌 푸드 트렌드🍽️✨",
+      "link": "https://foodtrend.stibee.com/p/207",
+      "desc": ""
+    },
+    {
+      "title": "🍽️FOOREND's Friends! 편의점/HMR MD를 거친 패션 MD의 이야기✨",
+      "link": "https://foodtrend.stibee.com/p/206",
+      "desc": ""
+    },
+    {
+      "title": "🍙26년 5월 한국 푸드 트렌드🏛️✨",
+      "link": "https://foodtrend.stibee.com/p/205",
+      "desc": ""
+    },
+    {
+      "title": "🤖26년 4월 글로벌 푸드 트렌드🥞🍔",
+      "link": "https://foodtrend.stibee.com/p/204",
+      "desc": ""
+    },
+    {
+      "title": "🍽️FOOREND's Friends! 푸렌드 에디터의 이야기✨",
+      "link": "https://foodtrend.stibee.com/p/203",
+      "desc": ""
+    },
+    {
+      "title": "🍳26년 4월 한국 푸드 트렌드🥗💜",
+      "link": "https://foodtrend.stibee.com/p/202",
+      "desc": ""
+    }
+  ]
 }
