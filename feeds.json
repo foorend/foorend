@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T23:02:43Z",
+  "lastUpdated": "2026-06-03T04:13:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "“韩国的辣味”爆炸了…… “热门餐点”刷卡而不是“Bulchik面条”"
         },
         {
+          "title": "“내수만으론 답 없다”…K푸드, 동남아서 수출길 찾는다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtdUFaSlMwOGh6aFVVSWFibzFfVXdpUnE0V0F1bFJCWkxEVGxGUXBLTkQ1RUF4VzdCUFBpV0NoSVRJT1BoaEdScGl6Z3dkZjBVSWJCZGI1X0d1d9IBVEFVX3lxTE5BeVRnMFlHSHJMdmhHa05HaTJRa05IdWFIME9INGJxczR6SXh5b1d5c2syUk04UGsxbjNwX1BBWmE0TU5NYlhWUnMwN1ZPMmVpbThRSQ?oc=5",
+          "desc": "",
+          "title_en": "“There is no answer only for domestic demand” … K Foods is looking for an export route to Southeast Seaside",
+          "title_ja": "「国内需要だけに答えはない」… Kフーズは南東シーサイドへの輸出ルートを模索している",
+          "title_zh": "“国内需求没有答案” …… K Foods正在寻找通往东南海滨的出口路线"
+        },
+        {
           "title": "K-푸드 열풍 타고 참기름 수출 고공행진…1∼4월 역대 최대치",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aXFOc2JDbUFpOGJ5bjE5QVFBeTUxTC1sT0l4MWpBelpGTHNrQlBNVUdQekZwdmxiZ3M1QzJhZFhsRDFVY2VtNUhVdDEtRlZ4ZTdYWjVWcjB4QdIBVEFVX3lxTE5QRHl6WlR2c3pqNVNiLXB6OVozdlJlYkZrblo3RmZwRU1uUFVONFJjVEpMRHF4V0NielktdVc1UzBQemNuRmpVSjJJU3ZzT1N1Z1ZMcg?oc=5",
           "desc": "",
           "title_en": "Exports of sesame oil on the K-Food craze are at an all-time high from January to April…",
           "title_ja": "K - Food流行のゴマ油輸出は、1月から4月にかけて過去最高を記録しています…",
           "title_zh": "从1月到4月， K-Food热潮的芝麻油出口量创历史新高……"
-        },
-        {
-          "title": "AI와 로봇 주방이 바꾸는 외식산업의 미래[테크트렌드]",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWDFkTWt6RkU5TGJ1NkFnV2xMU2Q3M20wemhnSGVDeUlEQUFsY1Y2b3ZrYUZYX3hZVEtHbVpWUURCbnZEWE5MU2VmWmIzNnRRNWJ3M3JnckY4U3FyOXlIeENSM2hQRjlGeUVWQg?oc=5",
-          "desc": "",
-          "title_en": "The Future of the Dining Industry Changed by AI and Robot Kitchens [Tech Trends]",
-          "title_ja": "AIとロボットキッチンが変えるダイニング業界の未来【テックトレンド】",
-          "title_zh": "人工智能和机器人厨房改变餐饮业的未来[技术趋势]"
         }
       ]
     },
@@ -226,54 +226,23 @@
           "title_zh": "我喜欢大量…… Tizen ， “Yomil Red Bean Bingsu Flavor Large Capacity Cylindrical”"
         },
         {
+          "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
+          "desc": "",
+          "title_en": "I take it out all week, ‘Kish Milf Wrap’",
+          "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
+          "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
+        },
+        {
           "title": "블루보틀식 디저트 페어링…블루보틀, 디저트 메뉴 강화",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YVjFuR1V5TGdMTXN6dzFFMDltSmlvekswTW9yRG1UUWFzeGRycG5RMDctMnp4UzVpejlJdENQWnJsbnphUWRfSDNIenlpTnlsRndabUFHcw?oc=5",
           "desc": "",
           "title_en": "Blue bottle style dessert pairing… Blue bottle enhances dessert menu",
           "title_ja": "ブルーボトルスタイルデザートペアリング…ブルーボトルがデザートメニューを強化",
           "title_zh": "蓝瓶风格甜点搭配…蓝瓶提升甜点菜单"
-        },
-        {
-          "title": "K-바비큐 시즈닝, 남아공 마트 주요 매대 차지",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNW5YNWdKV2o3Nk9tQmNHR3ZQcXVTN245WVdOWFVkSEk0cHBBZ2ExM0RBYjZmMGJqbVJoY3ZDcWVSY2NkUjFEUVdDUWRJYnItR1FwRWFBcw?oc=5",
-          "desc": "",
-          "title_en": "K-BBQ Seasoning takes over major South African grocery store",
-          "title_ja": "K - BBQ調味料が南アフリカの大手食料品店を引き継ぐ",
-          "title_zh": "K-BBQ调味料接管南非主要杂货店"
         }
       ]
     }
   },
-  "korean_articles": [
-    {
-      "title": "🌍26년 5월 글로벌 푸드 트렌드🍽️✨",
-      "link": "https://foodtrend.stibee.com/p/207",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 편의점/HMR MD를 거친 패션 MD의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/206",
-      "desc": ""
-    },
-    {
-      "title": "🍙26년 5월 한국 푸드 트렌드🏛️✨",
-      "link": "https://foodtrend.stibee.com/p/205",
-      "desc": ""
-    },
-    {
-      "title": "🤖26년 4월 글로벌 푸드 트렌드🥞🍔",
-      "link": "https://foodtrend.stibee.com/p/204",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 푸렌드 에디터의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/203",
-      "desc": ""
-    },
-    {
-      "title": "🍳26년 4월 한국 푸드 트렌드🥗💜",
-      "link": "https://foodtrend.stibee.com/p/202",
-      "desc": ""
-    }
-  ]
+  "korean_articles": []
 }
