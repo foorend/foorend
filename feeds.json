@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-04T20:06:28Z",
+  "lastUpdated": "2026-06-04T22:21:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Pizza Hut appears to move further toward a sale",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
-          "desc": "",
-          "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
-          "title_ja": "ピザハットはセールに向けてさらに動いているようです",
-          "title_zh": "必胜客似乎进一步走向促销"
-        },
         {
           "title": "McDonald’s next evolution includes menu, service and technology upgrades",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
           "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
           "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
+        },
+        {
+          "title": "Pizza Hut appears to move further toward a sale",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
+          "desc": "",
+          "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
+          "title_ja": "ピザハットはセールに向けてさらに動いているようです",
+          "title_zh": "必胜客似乎进一步走向促销"
         },
         {
           "title": "The secret is out. This smashburger concept is growing",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -137,19 +137,19 @@
         },
         {
           "title": "\"내수만으론 답 없다\"…K푸드, 동남아서 수출길 찾는다",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRU5DOU9QbmczNGFBNXdRNEZKNUhoeWU5LWx1N1d5OW9kb3Q2aDlES2x6N0h1S2ZHcDNLMXp4c25yM0N2dHZ0MG9NUEU5eF9tcTAweU5iZXUwN3hfb213OUQxdm5meUxpNkhfSjhEeFYydFUza2RTQnFBMVdoOXczM2FjMFV6RGc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtdUFaSlMwOGh6aFVVSWFibzFfVXdpUnE0V0F1bFJCWkxEVGxGUXBLTkQ1RUF4VzdCUFBpV0NoSVRJT1BoaEdScGl6Z3dkZjBVSWJCZGI1X0d1d9IBVEFVX3lxTE5BeVRnMFlHSHJMdmhHa05HaTJRa05IdWFIME9INGJxczR6SXh5b1d5c2syUk04UGsxbjNwX1BBWmE0TU5NYlhWUnMwN1ZPMmVpbThRSQ?oc=5",
           "desc": "",
           "title_en": "\"There is no answer for domestic water alone\" … K Foods is looking for an export route to Southeast Seaside",
           "title_ja": "「国内の水だけでは解決策はない」… Kフーズは東南シーサイドへの輸出ルートを探している",
           "title_zh": "“仅靠生活用水没有答案” …… K Foods正在寻找通往东南海滨的出口路线"
         },
         {
-          "title": "대상 청정원, 국민 식탁 지켜온 30년간의 진심…라이프푸드 전문 브랜드로 도약",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xVjB1RG5nUVVmRnh6b3pZOUhaeXVObWNTUFEtcU5fOXVDb01senhZS3BUODk2cDZpVC1NUkFTbDU1Zkh6STRwaXltOHhQRWRkVHVySjExZUNFN2pQZGpaWUNuM0JLSk8wQ2dPckRGeXpWM1B6S2hTaDRCakJTMG8?oc=5",
+          "title": "K-푸드 열풍 타고 참기름 수출 고공행진…1∼4월 역대 최대치",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aXFOc2JDbUFpOGJ5bjE5QVFBeTUxTC1sT0l4MWpBelpGTHNrQlBNVUdQekZwdmxiZ3M1QzJhZFhsRDFVY2VtNUhVdDEtRlZ4ZTdYWjVWcjB4QdIBVEFVX3lxTE5QRHl6WlR2c3pqNVNiLXB6OVozdlJlYkZrblo3RmZwRU1uUFVONFJjVEpMRHF4V0NielktdVc1UzBQemNuRmpVSjJJU3ZzT1N1Z1ZMcg?oc=5",
           "desc": "",
-          "title_en": "Target Jeongwon, National Dining Table 30 Years of Sincerity… Leaping to a Brand Specializing in Life Food",
-          "title_ja": "TARGET JEONGWON、全国ダイニングテーブル30年の誠実さ…ライフフードに特化したブランドへの飛躍",
-          "title_zh": "TARGET JEONGWON ，全国餐桌30年的真诚……跃升为生活食品专业品牌"
+          "title_en": "Exports of sesame oil on the K-Food craze are at an all-time high from January to April…",
+          "title_ja": "K - Food流行のゴマ油輸出は、1月から4月にかけて過去最高を記録しています…",
+          "title_zh": "从1月到4月， K-Food热潮的芝麻油出口量创历史新高……"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "[해외칼럼] AI 소설, ‘패스트푸드’처럼 소비된다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tR09DQ1RwU2VsbmkzSENqYnAwcEdVUktGaXZTZ1h1WEFTbFg4RUo1R0VYQ255Q2J2VnJEZDNRc01IeDRLQVA0bXd0OGJKUXAxRlHSAVNBVV95cUxQemRCaUh0ZUlnNV9BT0pwLVZnNmFEQ1N0RjFZbXBwOUtoTGNwMUJXX1FqQUVjanZCMEUwY21NTDdpX09YLXFDU0Y2ajZDNkhBN01rWQ?oc=5",
+          "desc": "",
+          "title_en": "[Overseas Column] Consumed like an AI novel, ‘Fast Food’",
+          "title_ja": "【海外コラム】AI小説のように消費される「ファーストフード」",
+          "title_zh": "【海外专栏】像人工智能小说《快餐》一样消费"
+        },
         {
           "title": "윙입푸드 “동남아 내 유통망 확대…글로벌 사업 경쟁력 강화”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80VGY0ZmlTWng1MWVCM3dTNWljb1laeG1tMDFVbTRQU3FKUXVrcTlMNUctU1p4RjB5cjJoY1ZpejZaNUk5c2l5UFY1ZENuNE1KQlHSAVNBVV95cUxPSl9JY1VYNllUWmRUVXZZNjNMVF9LNGNMbHJubDJiT2M2WGs5ZmNka2UxOUJBazNMYnhxN3JiYld2SXJOMVJ0UDYzLWoxeGpGSGpFWQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Sesame oil and records raised by K-Food and K-Pop… Transformer also emerged as a new export Hyoja item [Pick Economy]",
           "title_ja": "胡麻油とK - FoodとK - Popが輩出した記録…トランスフォーマーも新たな輸出品として登場した「ピックエコノミー」",
           "title_zh": "芝麻油和K-Food和K-Pop的记录……变形金刚也成为新的出口Hyoja项目[Pick Economy]"
-        },
-        {
-          "title": "“밥 그냥 삼키니? 제발 천천히 먹어”…음식 꼭꼭 씹어 먹어야 하는 이유 있었다 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yTU0yM1c2VGV2ZzRWM2pPWk8yanVZSE1vQnJSQmNpOHJmUFZ3MHh3NkF5cmhBTXl2QTVRLTlsM09DNllLNTlyTTlhRnNKT2xWdFHSAVNBVV95cUxNV0RKT1NmUmNEOXp4aVZsS3B2eWhzTVNsRkZ2cnVSMl9GR2g5eFF5UXlyR3RfYUhVLXVnSUgyR0hKZk9mMU16N0ItMEREVFJ0U3ZQNA?oc=5",
-          "desc": "",
-          "title_en": "“Are you just swallowing the rice? Please eat slowly” … There was a reason to chew the food [Healthy Time]",
-          "title_ja": "「ご飯を飲み込んでいるだけですか？ゆっくり食べてください」…食べ物を噛む理由がありました【ヘルシータイム】",
-          "title_zh": "“你只是吞下米饭，请慢慢吃” ……咀嚼食物是有原因的【健康时光】"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "「不辣」食物上是红粉还是辣椒粉？"
         },
         {
-          "title": "뉴욕 아이스크림 ‘밴루엔’, 올 여름 강남역 상륙",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FX2d6bVNmVzVMMFczS3pJNi1VX1g0MFJ5UWJDbG9Vdk15NUxkUHBfMWhQX0Y3N2lIWld2cDNGVzZaRHdka080WE1MMXYyY0ZUbEtCVktjaw?oc=5",
-          "desc": "",
-          "title_en": "New York ice cream ‘Van Luen’ lands at Gangnam Station this summer",
-          "title_ja": "今年の夏、江南駅にニューヨークのアイスクリーム「ヴァンルーン」が登場",
-          "title_zh": "今年夏天，纽约冰淇淋“Van Luen”登陆江南站"
-        },
-        {
           "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
           "desc": "",
           "title_en": "I take it out all week, ‘Kish Milf Wrap’",
           "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
           "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
+        },
+        {
+          "title": "블루보틀식 디저트 페어링…블루보틀, 디저트 메뉴 강화",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YVjFuR1V5TGdMTXN6dzFFMDltSmlvekswTW9yRG1UUWFzeGRycG5RMDctMnp4UzVpejlJdENQWnJsbnphUWRfSDNIenlpTnlsRndabUFHcw?oc=5",
+          "desc": "",
+          "title_en": "Blue bottle style dessert pairing… Blue bottle enhances dessert menu",
+          "title_ja": "ブルーボトルスタイルデザートペアリング…ブルーボトルがデザートメニューを強化",
+          "title_zh": "蓝瓶风格甜点搭配…蓝瓶提升甜点菜单"
         }
       ]
     }
