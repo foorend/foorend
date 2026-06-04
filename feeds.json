@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T23:06:16Z",
+  "lastUpdated": "2026-06-04T04:06:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         },
         {
+          "title": "Pizza Hut appears to move further toward a sale",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
+          "desc": "",
+          "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
+          "title_ja": "ピザハットはセールに向けてさらに動いているようです",
+          "title_zh": "必胜客似乎进一步走向促销"
+        },
+        {
           "title": "Red Robin to sell 30 locations for $23.5M in refranchising push",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVVycHk3SG5Hdzg1Z2NrRjhBYl9heHhVU2pPdmJNM1lFVDRpTHRmUGJ6S3ZSMHdOSld2bnhQOXhmcVZqODg0eENrRkJQYVVtNS1YWHN0VEhSWE1pT0djM0hZWlAwZTBpdE56eVlkd0o3c0RKOEFKSTFMYUdwQW40N1QwQ0lNaUU5eDEyOWJvVnJjY1RBVVdZcDZ1Y0xoNXM?oc=5",
           "desc": "",
           "title_ko": "레드 로빈, 리프랜차이즈 푸시로 30개 지점을 $ 23.5M에 판매",
           "title_ja": "Red Robin、30店舗を$ 2350万で売却",
           "title_zh": "Red Robin以$ 2350万的价格出售30个地点"
-        },
-        {
-          "title": "The secret is out. This smashburger concept is growing",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVdwTjdCUjZoM0NUWHlXSlpjNzVYZGpDbGwxMnVUby1ZV0hMQjB4cTBLZktuQVljN3FoMHFIZGR5aHVXN3hfN3J0Qk9rNVRSa0prTXNodS0zMVp4VHF0WnBGMlFVeWFMY01xZ0hLSGt6M0VGNW02bU9jNi03NmRxdloybjhoRjhwZkpoMlhrUURxZnRmTVZyYVNXQQ?oc=5",
-          "desc": "",
-          "title_ko": "비밀이 밝혀졌습니다. 이 스매시버거 컨셉은 점점 더 커지고 있습니다",
-          "title_ja": "秘密は暴露された。このスマッシュバーガーコンセプトは成長しています",
-          "title_zh": "秘密已经揭晓。这个粉碎汉堡的概念正在成长"
         }
       ]
     },
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "“내수만으론 답 없다”…K푸드, 동남아서 수출길 찾는다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtdUFaSlMwOGh6aFVVSWFibzFfVXdpUnE0V0F1bFJCWkxEVGxGUXBLTkQ1RUF4VzdCUFBpV0NoSVRJT1BoaEdScGl6Z3dkZjBVSWJCZGI1X0d1d9IBVEFVX3lxTE5BeVRnMFlHSHJMdmhHa05HaTJRa05IdWFIME9INGJxczR6SXh5b1d5c2syUk04UGsxbjNwX1BBWmE0TU5NYlhWUnMwN1ZPMmVpbThRSQ?oc=5",
+          "title": "\"내수만으론 답 없다\"…K푸드, 동남아서 수출길 찾는다",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRU5DOU9QbmczNGFBNXdRNEZKNUhoeWU5LWx1N1d5OW9kb3Q2aDlES2x6N0h1S2ZHcDNLMXp4c25yM0N2dHZ0MG9NUEU5eF9tcTAweU5iZXUwN3hfb213OUQxdm5meUxpNkhfSjhEeFYydFUza2RTQnFBMVdoOXczM2FjMFV6RGc?oc=5",
           "desc": "",
-          "title_en": "“There is no answer only for domestic demand” … K Foods is looking for an export route to Southeast Seaside",
-          "title_ja": "「国内需要だけに答えはない」… Kフーズは南東シーサイドへの輸出ルートを模索している",
-          "title_zh": "“国内需求没有答案” …… K Foods正在寻找通往东南海滨的出口路线"
+          "title_en": "\"There is no answer for domestic water alone\" … K Foods is looking for an export route to Southeast Seaside",
+          "title_ja": "「国内の水だけでは解決策はない」… Kフーズは東南シーサイドへの輸出ルートを探している",
+          "title_zh": "“仅靠生活用水没有答案” …… K Foods正在寻找通往东南海滨的出口路线"
         },
         {
           "title": "'한국의 매운맛' 대박 터졌다…'불닭면' 대신 쓸어담는 '핫템'",
@@ -144,12 +144,12 @@
           "title_zh": "“韩国的辣味”爆炸了…… “热门餐点”刷卡而不是“Bulchik面条”"
         },
         {
-          "title": "K-푸드 열풍 타고 참기름 수출 고공행진…1∼4월 역대 최대치",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aXFOc2JDbUFpOGJ5bjE5QVFBeTUxTC1sT0l4MWpBelpGTHNrQlBNVUdQekZwdmxiZ3M1QzJhZFhsRDFVY2VtNUhVdDEtRlZ4ZTdYWjVWcjB4QdIBVEFVX3lxTE5QRHl6WlR2c3pqNVNiLXB6OVozdlJlYkZrblo3RmZwRU1uUFVONFJjVEpMRHF4V0NielktdVc1UzBQemNuRmpVSjJJU3ZzT1N1Z1ZMcg?oc=5",
+          "title": "대상 청정원, 국민 식탁 지켜온 30년간의 진심…라이프푸드 전문 브랜드로 도약",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xVjB1RG5nUVVmRnh6b3pZOUhaeXVObWNTUFEtcU5fOXVDb01senhZS3BUODk2cDZpVC1NUkFTbDU1Zkh6STRwaXltOHhQRWRkVHVySjExZUNFN2pQZGpaWUNuM0JLSk8wQ2dPckRGeXpWM1B6S2hTaDRCakJTMG8?oc=5",
           "desc": "",
-          "title_en": "Exports of sesame oil on the K-Food craze are at an all-time high from January to April…",
-          "title_ja": "K - Food流行のゴマ油輸出は、1月から4月にかけて過去最高を記録しています…",
-          "title_zh": "从1月到4月， K-Food热潮的芝麻油出口量创历史新高……"
+          "title_en": "Target Jeongwon, National Dining Table 30 Years of Sincerity… Leaping to a Brand Specializing in Life Food",
+          "title_ja": "TARGET JEONGWON、全国ダイニングテーブル30年の誠実さ…ライフフードに特化したブランドへの飛躍",
+          "title_zh": "TARGET JEONGWON ，全国餐桌30年的真诚……跃升为生活食品专业品牌"
         }
       ]
     },
@@ -158,8 +158,16 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "윙입푸드 “동남아 내 유통망 확대…글로벌 사업 경쟁력 강화”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80VGY0ZmlTWng1MWVCM3dTNWljb1laeG1tMDFVbTRQU3FKUXVrcTlMNUctU1p4RjB5cjJoY1ZpejZaNUk5c2l5UFY1ZENuNE1KQlHSAVNBVV95cUxPSl9JY1VYNllUWmRUVXZZNjNMVF9LNGNMbHJubDJiT2M2WGs5ZmNka2UxOUJBazNMYnhxN3JiYld2SXJOMVJ0UDYzLWoxeGpGSGpFWQ?oc=5",
+          "desc": "",
+          "title_en": "Wing Yip Foods “Expanding the Distribution Network in Southeast Asia… Strengthening the Competitiveness of Global Business”",
+          "title_ja": "ウィンイップ・フーズ「東南アジアにおける流通ネットワークの拡大…グローバル事業の競争力強化」",
+          "title_zh": "永益食品“拓展东南亚分销网络……提升全球业务竞争力”"
+        },
+        {
           "title": "K푸드·K팝이 키운 참기름·음반…변압기도 新수출 효자 품목으로 부상[Pick코노미]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zbnhzeE1zRmRJLXl4blpaTVBjN3lyUVRpbUhtQzRfUDVxSkdDRnBRM0YtOUdkWjBaZXU5TFk1QmgyNHRZM1IwaGJoVTJVcm1QVnfSAVNBVV95cUxOcFdWWnhpN1BEUkdoUGJ2aGFmd0ZTZG1Wa0Z5N3E2NGRPeVhHX012azZkdnozOUQ3NFhLVWFURDl4TGFOT3dvdHZLSHVhdm1ZdDZhaw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wV1ZaeGk3UERSR2hQYnZoYWZ3RlNkbVZrRnk3cTY0ZE95WEdfTXZrNmR2ejM5RDc0WEtVYVREOXhMYU5Pd290dktIdWF2bVl0NmFr0gFTQVVfeXFMTnBXVlp4aTdQRFJHaFBidmhhZndGU2RtVmtGeTdxNjRkT3lYR19Ndms2ZHZ6MzlENzRYS1VhVEQ5eExhTk93b3R2S0h1YXZtWXQ2YWs?oc=5",
           "desc": "",
           "title_en": "Sesame oil and records raised by K-Food and K-Pop… Transformer also emerged as a new export Hyoja item [Pick Economy]",
           "title_ja": "胡麻油とK - FoodとK - Popが輩出した記録…トランスフォーマーも新たな輸出品として登場した「ピックエコノミー」",
@@ -172,14 +180,6 @@
           "title_en": "“Are you just swallowing the rice? Please eat slowly” … There was a reason to chew the food [Healthy Time]",
           "title_ja": "「ご飯を飲み込んでいるだけですか？ゆっくり食べてください」…食べ物を噛む理由がありました【ヘルシータイム】",
           "title_zh": "“你只是吞下米饭，请慢慢吃” ……咀嚼食物是有原因的【健康时光】"
-        },
-        {
-          "title": "\"김치찌개가 중국 음식이라고?\"…태국 '문화 도둑질'에 韓누리꾼들 '분노'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fVFNpWmhfQlYyQ0tFeXJMRUJHWWJUNno3SHUtak1neEFjSDRHRTluR2JSNEx6Um01ZWJWTUR4bjB2R2lKZ1hTZjJ2bl9mU1RnTFHSAVNBVV95cUxPSnpqRVFSWmVRU1JyclBNNFMzNFl0NDhVOVJSNzgwOHc4OXNZMkdfVm9wR0xBTmZadlhERWVkYWZoVWVxZ044REx3ekNXbkZGR2xldw?oc=5",
-          "desc": "",
-          "title_en": "“Kimchi stew is Chinese food?” … Korean 'anger' over Thai 'cultural theft'",
-          "title_ja": "「キムチシチューは中華料理ですか？」…タイの「文化的盗難」に対する韓国の「怒り」",
-          "title_zh": "“泡菜炖菜是中国菜吗？” ……韩国人对泰国“文化盗窃”的“愤怒”"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "신세계푸드 노브랜드 버거, 제주 1호점 개점…\"가맹 수요 증가\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yWGkxS2M5b3VvQTFvQTlOaUotZUNPeW1LVzdtNjEyWlFhNTBDbDlpQ0pEWnhvcXJMekdteW1FUXdKQzlRS1NpdW1QQkl3Z2tIMnc?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Food No-Brand Burger Opens Jeju 1st Store... \"Increasing Demand for Merchants\"",
+          "title_ja": "新世界フードノーブランドバーガーが済州1号店をオープン…「加盟店の需要拡大」",
+          "title_zh": "Shinsegae Food No-Brand Burger开设济州第一家店...... “对商家的需求不断增加”"
+        },
         {
           "title": "새로나온 책 5000원으로…만들어 먹는 사찰음식",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XYWYwZ2lMYzRBTUxTUGhicFJoZFRLSGhNNUNIeUNGZXc5VWZucG44c3FXemVWRkt5WXF3RUNiT2xXVFJveGc?oc=5",
@@ -197,19 +205,11 @@
         },
         {
           "title": "[다시 온 기회, 베트남] 베트남 식탁 접수한 K-푸드…밀려드는 글로벌 경쟁",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xYURaNDh3bGlhbmM0aHJ5Q3NkUklzTk9SUlk2UGdwVENWR2w1ZFYyb2Z4akM4ZEZVTmxkSHRQRDFmMFdsdl8wc1p4T0dZVkdjWVE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05djgwNF8wb0pOUDczeWYwemZVazQ5Q3hhdTZadGM3RWVLTWlPV1lycTJ1VGZueEd0NldaeGlJRC13eFp3WGtWOU5IZGRCc3BYTVg0Ty0xV0FVV2dsOWtoU3BVMA?oc=5",
           "desc": "",
           "title_en": "[Another Chance, Vietnam] K-Food Received from a Vietnamese Table… Rushing Global Competition",
           "title_ja": "【ANOTHER CHANCEベトナム】ベトナムのテーブルからK - FOODを受け取った…急ぐグローバルコンペティション",
           "title_zh": "[另一个机会，越南] K-Food从越南餐桌上获得……激烈的全球竞争"
-        },
-        {
-          "title": "어보브 푸드 인그리디언츠, 나스닥 상장폐지로 OTC 이전…유동성 급감 우려",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11M3RZMUptYVA0enh4dVA4VUpLeXhuWWhBTU9CTzhyVFZleG4xU1FpX0NON2kxaF9XYjBmMGVnazlWWUhsM04xQzF5VUZOVGJ2OFE?oc=5",
-          "desc": "",
-          "title_en": "Above Foods Ingredients relocates OTC to Nasdaq delisting… Concerned about liquidity plummeting",
-          "title_ja": "Above Foods IngredientsがOTCをナスダック上場廃止に移行…流動性の急落を懸念",
-          "title_zh": "Above Foods Ingredients将场外交易转移到纳斯达克退市……担心流动性暴跌"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "“맵지 않아요” 음식 위 빨간 가루, 파프리카였어?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sRVJ3VjNNRVVvbnd6NWMwWG03T0N1NXBoYVdmT0dWWkxqX3o3VHdUc1hrb0RubjdZN1ZRUmw1QkllNy01SzBfdTFONWZTRURxclhFNVI0dw?oc=5",
+          "desc": "",
+          "title_en": "“It's not spicy” Was it red powder or paprika on the food?",
+          "title_ja": "「スパイシーではありません」赤いパウダーやパプリカが食べ物についていましたか？",
+          "title_zh": "「不辣」食物上是红粉还是辣椒粉？"
+        },
         {
           "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "Blue bottle style dessert pairing… Blue bottle enhances dessert menu",
           "title_ja": "ブルーボトルスタイルデザートペアリング…ブルーボトルがデザートメニューを強化",
           "title_zh": "蓝瓶风格甜点搭配…蓝瓶提升甜点菜单"
-        },
-        {
-          "title": "K-바비큐 시즈닝, 남아공 마트 주요 매대 차지",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNW5YNWdKV2o3Nk9tQmNHR3ZQcXVTN245WVdOWFVkSEk0cHBBZ2ExM0RBYjZmMGJqbVJoY3ZDcWVSY2NkUjFEUVdDUWRJYnItR1FwRWFBcw?oc=5",
-          "desc": "",
-          "title_en": "K-BBQ Seasoning takes over major South African grocery store",
-          "title_ja": "K - BBQ調味料が南アフリカの大手食料品店を引き継ぐ",
-          "title_zh": "K-BBQ调味料接管南非主要杂货店"
         }
       ]
     }
