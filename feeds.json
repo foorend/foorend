@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-04T09:56:50Z",
+  "lastUpdated": "2026-06-04T15:16:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
-          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
-          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
-        },
         {
           "title": "Pizza Hut appears to move further toward a sale",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
           "title_ja": "ピザハットはセールに向けてさらに動いているようです",
           "title_zh": "必胜客似乎进一步走向促销"
+        },
+        {
+          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
+          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
+          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         },
         {
           "title": "Red Robin to sell 30 locations for $23.5M in refranchising push",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The 38 Best Restaurants in Paris, According to a French Food Expert",
+          "link": "https://www.eater.com/maps/best-restaurants-paris-france",
+          "desc": "Paris has changed a lot since Eater started rounding up its essential restaurants in 2016. Over the last nine years of writing this map, I’ve watched ",
+          "title_ko": "프랑스 음식 전문가가 선정한 파리 최고의 레스토랑 38곳",
+          "title_ja": "フランスのフードエキスパートによると、パリの人気レストラン38選",
+          "title_zh": "法国美食专家评选的巴黎38家最佳餐厅"
+        },
+        {
           "title": "Restaurants Are Going Horse Girl",
           "link": "https://www.eater.com/dining-out/966709/restaurant-horse-theme-trend",
           "desc": "According to the Chinese zodiac, it’s the year of the horse — and that’s abundantly clear in hospitality.  In February, Derby Cup Coffee swung open it",
@@ -110,14 +118,6 @@
           "title_ko": "하드록 스타디움의 셰프들이 마이애미 오픈 기간 동안 수천 명을 먹여 살린 방법",
           "title_ja": "ハードロック・スタジアムのシェフがマイアミ・オープンで数千人を養う方法",
           "title_zh": "硬石体育场的厨师如何在迈阿密公开赛期间喂饱数千人"
-        },
-        {
-          "title": "North America’s 50 Best Restaurants in 2026: The Full List",
-          "link": "https://www.eater.com/restaurant-news/965010/north-america-50-best-restaurants-2026-winners-how-to-watch",
-          "desc": "The 2026 edition of the North America’s 50 Best Restaurants list was announced live tonight at an awards ceremony in New Orleans, where the best chefs",
-          "title_ko": "2026년 북미 최고의 레스토랑 50곳: 전체 목록",
-          "title_ja": "2026年の北米のベストレストラン50 ：全リスト",
-          "title_zh": "2026年北美50家最佳餐厅：完整榜单"
         }
       ]
     }
@@ -167,7 +167,7 @@
         },
         {
           "title": "K푸드·K팝이 키운 참기름·음반…변압기도 新수출 효자 품목으로 부상[Pick코노미]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zbnhzeE1zRmRJLXl4blpaTVBjN3lyUVRpbUhtQzRfUDVxSkdDRnBRM0YtOUdkWjBaZXU5TFk1QmgyNHRZM1IwaGJoVTJVcm1QVnfSAVNBVV95cUxOcFdWWnhpN1BEUkdoUGJ2aGFmd0ZTZG1Wa0Z5N3E2NGRPeVhHX012azZkdnozOUQ3NFhLVWFURDl4TGFOT3dvdHZLSHVhdm1ZdDZhaw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wV1ZaeGk3UERSR2hQYnZoYWZ3RlNkbVZrRnk3cTY0ZE95WEdfTXZrNmR2ejM5RDc0WEtVYVREOXhMYU5Pd290dktIdWF2bVl0NmFr0gFTQVVfeXFMTnBXVlp4aTdQRFJHaFBidmhhZndGU2RtVmtGeTdxNjRkT3lYR19Ndms2ZHZ6MzlENzRYS1VhVEQ5eExhTk93b3R2S0h1YXZtWXQ2YWs?oc=5",
           "desc": "",
           "title_en": "Sesame oil and records raised by K-Food and K-Pop… Transformer also emerged as a new export Hyoja item [Pick Economy]",
           "title_ja": "胡麻油とK - FoodとK - Popが輩出した記録…トランスフォーマーも新たな輸出品として登場した「ピックエコノミー」",
