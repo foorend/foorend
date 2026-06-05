@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-04T22:21:23Z",
+  "lastUpdated": "2026-06-05T03:52:53Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
-          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
-          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
-        },
         {
           "title": "Pizza Hut appears to move further toward a sale",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
           "title_ja": "ピザハットはセールに向けてさらに動いているようです",
           "title_zh": "必胜客似乎进一步走向促销"
+        },
+        {
+          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
+          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
+          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         },
         {
           "title": "The secret is out. This smashburger concept is growing",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "경기도청서 로컬푸드 직매장 개장…농산물 최대 30% 할인",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wV0FPMVlzb1R6X0toVXRKZnZodDduMlh0dXlVYUZqQzh5QTFldHk0R3VaTnlRdm1jbEU0Si1UMlc3Mm12OU9WTjMzblhENjN2MXk4NGlpbUdxUdIBVEFVX3lxTE9nSUVGUGVxbVB1eUJqSHNOdDY0QUNDRFRVVUFBaFh1MXlod3FfSDF6TkdzbXVzcTlndTJBSkw1ZzhKMndtQ1ZGS196T2FiYWRod2EydA?oc=5",
+          "desc": "",
+          "title_en": "Opening a local food store in Gyeonggi-do Cheongseo… Up to 30% discount on agricultural products",
+          "title_ja": "京畿道清西に地元の食料品店をオープン…農産物が最大30 ％割引",
+          "title_zh": "在京畿道清西开设当地食品店…农产品折扣高达30%"
+        },
+        {
           "title": "13년째 미쉐린 3스타 셰프…\"음식 본질에 집중한 결과죠\"",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyQVNiSV9INzR4Mmd6WnFCcWN6Yzg0eVo5VS1ic1Fmb1hmbGJEWDg1aG1XVEZLV213OVE1X25zYzVUWloyd1VrdDNIV0F2eWpwWV9hdTBTTkNrZ9IBVEFVX3lxTE9tZ1hEdm1LRUxRS2lJSXhsYTNMS2gtcnF6U1VId0d1cUxsVmo4VzVXVlZZVk1UU1hiT1BVbXBOUy1PdEtPeTBuVjJ5dDQ2Ul9nbktXbA?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "米其林三星厨师13年...... “这是专注于食物精髓的结果。”"
         },
         {
-          "title": "\"내수만으론 답 없다\"…K푸드, 동남아서 수출길 찾는다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtdUFaSlMwOGh6aFVVSWFibzFfVXdpUnE0V0F1bFJCWkxEVGxGUXBLTkQ1RUF4VzdCUFBpV0NoSVRJT1BoaEdScGl6Z3dkZjBVSWJCZGI1X0d1d9IBVEFVX3lxTE5BeVRnMFlHSHJMdmhHa05HaTJRa05IdWFIME9INGJxczR6SXh5b1d5c2syUk04UGsxbjNwX1BBWmE0TU5NYlhWUnMwN1ZPMmVpbThRSQ?oc=5",
+          "title": "김풍·홍윤화·히밥, 월드컵 음식 놓고 갑론을박…\"1티어는 이거\" ('티키타카쇼')",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04MGtfQ2NIa0ppSjFRWVpNYjZZNkZXa21oM0tsS2hoTXhFN3Q5XzNqNGVUMElwamlSXzU2TTFfcm9rTVQ5ZmoyWUFlNG5pNnAtMkF3d3lHU0E0aHI5NUlzMnhfMzNlN0RqU1Fsc01rQVg0akRuNzI0UHRpQ1hsMDQ?oc=5",
           "desc": "",
-          "title_en": "\"There is no answer for domestic water alone\" … K Foods is looking for an export route to Southeast Seaside",
-          "title_ja": "「国内の水だけでは解決策はない」… Kフーズは東南シーサイドへの輸出ルートを探している",
-          "title_zh": "“仅靠生活用水没有答案” …… K Foods正在寻找通往东南海滨的出口路线"
-        },
-        {
-          "title": "K-푸드 열풍 타고 참기름 수출 고공행진…1∼4월 역대 최대치",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aXFOc2JDbUFpOGJ5bjE5QVFBeTUxTC1sT0l4MWpBelpGTHNrQlBNVUdQekZwdmxiZ3M1QzJhZFhsRDFVY2VtNUhVdDEtRlZ4ZTdYWjVWcjB4QdIBVEFVX3lxTE5QRHl6WlR2c3pqNVNiLXB6OVozdlJlYkZrblo3RmZwRU1uUFVONFJjVEpMRHF4V0NielktdVc1UzBQemNuRmpVSjJJU3ZzT1N1Z1ZMcg?oc=5",
-          "desc": "",
-          "title_en": "Exports of sesame oil on the K-Food craze are at an all-time high from January to April…",
-          "title_ja": "K - Food流行のゴマ油輸出は、1月から4月にかけて過去最高を記録しています…",
-          "title_zh": "从1月到4月， K-Food热潮的芝麻油出口量创历史新高……"
+          "title_en": "Kim Pung, Hong Yun-hwa, Hibab, Garonbak for World Cup food... \"This is the first tier\" ('Tiki Takasho')",
+          "title_ja": "キム・ポン、ホン・ユンファ、ヒバブ、ワールドカップフードのガロンバク…「これが1段目」（「ティキ・タカショー」）",
+          "title_zh": "Kim Pung、Hong Yun-hwa、Hibab、Garonbak参加世界杯美食...... “这是第一层” （ 'Tiki Takasho' ）"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "롯데웰푸드, 해피홈 14호점 추진...빼빼로 수익금으로 지역아동센터 조성",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LVEVhWEp2c3hpeW4tYktKSDZlYVZqR3RnUXFnb2RQbDN5clBHSlEtczlWcmdKTU1OcktKQVNiTlBpZ3lLaFNPNTlPN0ZWR0pKa0HSAVNBVV95cUxPYmhzcGFoRkYtNmNlTWgweV83LW5BcGhzMF9GdzhJMTVsR0RTdldvU0p6cmRuVm50aTBFekp4Um02bWl2T2tJOGlNLVdUNEJocVA2UQ?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Promotes Happy Home No. 14... Builds Regional Children's Center with Proceeds",
+          "title_ja": "ロッテウェルフード、ハッピーホーム第14号を推進…収益で地域児童センターを建設",
+          "title_zh": "乐天健康食品推广14号欢乐之家...用收益打造区域儿童中心"
+        },
         {
           "title": "[해외칼럼] AI 소설, ‘패스트푸드’처럼 소비된다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tR09DQ1RwU2VsbmkzSENqYnAwcEdVUktGaXZTZ1h1WEFTbFg4RUo1R0VYQ255Q2J2VnJEZDNRc01IeDRLQVA0bXd0OGJKUXAxRlHSAVNBVV95cUxQemRCaUh0ZUlnNV9BT0pwLVZnNmFEQ1N0RjFZbXBwOUtoTGNwMUJXX1FqQUVjanZCMEUwY21NTDdpX09YLXFDU0Y2ajZDNkhBN01rWQ?oc=5",
@@ -166,20 +174,12 @@
           "title_zh": "【海外专栏】像人工智能小说《快餐》一样消费"
         },
         {
-          "title": "윙입푸드 “동남아 내 유통망 확대…글로벌 사업 경쟁력 강화”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80VGY0ZmlTWng1MWVCM3dTNWljb1laeG1tMDFVbTRQU3FKUXVrcTlMNUctU1p4RjB5cjJoY1ZpejZaNUk5c2l5UFY1ZENuNE1KQlHSAVNBVV95cUxPSl9JY1VYNllUWmRUVXZZNjNMVF9LNGNMbHJubDJiT2M2WGs5ZmNka2UxOUJBazNMYnhxN3JiYld2SXJOMVJ0UDYzLWoxeGpGSGpFWQ?oc=5",
+          "title": "영산대 K-푸드조리전공, 전국 요리대회 휩쓸었다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FUGhmaGVpd0ZGdnFwakFmcUFLUmZVaFFlb2JfcG9kcE8yRjRUWTNsbDJ6WWFGZG9hMlVHY0c3LXp1d1ZGbzh6c0xULUZKYmFEc1HSAVNBVV95cUxQbFA5dkRhMksza1hkcjNPYS1qQ3pUU2FZb1U1ZkVTN2hGZUtlcG9VWklCQnc5YXFBREFlR3dWV1ktdmFNUnA3aGVzZFY3VHBqdGhRSQ?oc=5",
           "desc": "",
-          "title_en": "Wing Yip Foods “Expanding the Distribution Network in Southeast Asia… Strengthening the Competitiveness of Global Business”",
-          "title_ja": "ウィンイップ・フーズ「東南アジアにおける流通ネットワークの拡大…グローバル事業の競争力強化」",
-          "title_zh": "永益食品“拓展东南亚分销网络……提升全球业务竞争力”"
-        },
-        {
-          "title": "K푸드·K팝이 키운 참기름·음반…변압기도 新수출 효자 품목으로 부상[Pick코노미]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zbnhzeE1zRmRJLXl4blpaTVBjN3lyUVRpbUhtQzRfUDVxSkdDRnBRM0YtOUdkWjBaZXU5TFk1QmgyNHRZM1IwaGJoVTJVcm1QVnfSAVNBVV95cUxOcFdWWnhpN1BEUkdoUGJ2aGFmd0ZTZG1Wa0Z5N3E2NGRPeVhHX012azZkdnozOUQ3NFhLVWFURDl4TGFOT3dvdHZLSHVhdm1ZdDZhaw?oc=5",
-          "desc": "",
-          "title_en": "Sesame oil and records raised by K-Food and K-Pop… Transformer also emerged as a new export Hyoja item [Pick Economy]",
-          "title_ja": "胡麻油とK - FoodとK - Popが輩出した記録…トランスフォーマーも新たな輸出品として登場した「ピックエコノミー」",
-          "title_zh": "芝麻油和K-Food和K-Pop的记录……变形金刚也成为新的出口Hyoja项目[Pick Economy]"
+          "title_en": "Yeongsan University majoring in K-food cooking swept the national culinary competition",
+          "title_ja": "K - food cookingを専攻するYeongsan Universityが全国料理コンペティションを制覇",
+          "title_zh": "Yeongsan University主修K-food烹饪横扫全国烹饪比赛"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "국내 최대 식품산업 전문 전시회 '서울푸드 2026' 9일 개최",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWnZOV3FOLS1YQWo0cXVMU2lNbXNFdjZwTko5d29RNmtnUDNFSDNzT0Q5M01WbWxXZEZhWTVpSHRVc0FBcVN5U3lmcVR3MkdsaUE?oc=5",
+          "desc": "",
+          "title_en": "Held 'Seoul Food 2026', the largest exhibition specializing in the food industry in Korea, on the 9th",
+          "title_ja": "韓国最大級の食品専門展「ソウルフード2026」を9日開催",
+          "title_zh": "9日举办韩国最大的食品行业展览会“首尔食品2026”"
+        },
+        {
+          "title": "[게시판] 롯데웰푸드, 세이브더칠드런과 '해피홈 14호' 조성 협약",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMmV6NW5fc2NCY3BRMl9FWV8wVnFHQmdrUVZoQ2wyM3g0UmxyOUwyNENWR2UxNjRQaGJOc21CRlNIR0VMeEo1ckZBNzVBQkdPV0E?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] Lotte Well Food, Save the Children and 'Happy Home No. 14' Creation Agreement",
+          "title_ja": "【掲示板】ロッテウェルフード、セーブ・ザ・チルドレン、「ハッピーホームNo.14」結成契約",
+          "title_zh": "【公告栏】乐天健康食品、救助儿童会和《14号幸福家园》创作协议"
+        },
+        {
           "title": "신세계푸드 노브랜드 버거, 제주 1호점 개점…\"가맹 수요 증가\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yWGkxS2M5b3VvQTFvQTlOaUotZUNPeW1LVzdtNjEyWlFhNTBDbDlpQ0pEWnhvcXJMekdteW1FUXdKQzlRS1NpdW1QQkl3Z2tIMnc?oc=5",
           "desc": "",
           "title_en": "Shinsegae Food No-Brand Burger Opens Jeju 1st Store... \"Increasing Demand for Merchants\"",
           "title_ja": "新世界フードノーブランドバーガーが済州1号店をオープン…「加盟店の需要拡大」",
           "title_zh": "Shinsegae Food No-Brand Burger开设济州第一家店...... “对商家的需求不断增加”"
-        },
-        {
-          "title": "어보브 푸드 인그리디언츠, 나스닥 상장폐지로 OTC 이전…유동성 급감 우려",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11M3RZMUptYVA0enh4dVA4VUpLeXhuWWhBTU9CTzhyVFZleG4xU1FpX0NON2kxaF9XYjBmMGVnazlWWUhsM04xQzF5VUZOVGJ2OFE?oc=5",
-          "desc": "",
-          "title_en": "Above Foods Ingredients relocates OTC to Nasdaq delisting… Concerned about liquidity plummeting",
-          "title_ja": "Above Foods IngredientsがOTCをナスダック上場廃止に移行…流動性の急落を懸念",
-          "title_zh": "Above Foods Ingredients将场外交易转移到纳斯达克退市……担心流动性暴跌"
-        },
-        {
-          "title": "노브랜드 버거 제주 상륙 … 신세계푸드, 제주 1호점 오픈",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2X2VJMVRnUlJfNG8xSmRJSlNmcTVQX1dlell2c1o1NmhIdlc3LTBPLXVRdHNublExWWJGOXdKRUpxOU9tUXJnQV9ERHFMQ2lMNjNpeGl3?oc=5",
-          "desc": "",
-          "title_en": "Novel brand burger landed in Jeju… Shinsegae Food opens its first store in Jeju",
-          "title_ja": "新ブランドのハンバーガーが済州に登場…新世界食品が済州に初出店",
-          "title_zh": "新品牌汉堡登陆济州岛……新世界食品在济州岛开设第一家门店"
         }
       ]
     },
@@ -246,6 +246,11 @@
   },
   "korean_articles": [
     {
+      "title": "🥐🍗26년 6월 한국 푸드 트렌드🍦💸",
+      "link": "https://foodtrend.stibee.com/p/208",
+      "desc": ""
+    },
+    {
       "title": "🌍26년 5월 글로벌 푸드 트렌드🍽️✨",
       "link": "https://foodtrend.stibee.com/p/207",
       "desc": ""
@@ -268,11 +273,6 @@
     {
       "title": "🍽️FOOREND's Friends! 푸렌드 에디터의 이야기✨",
       "link": "https://foodtrend.stibee.com/p/203",
-      "desc": ""
-    },
-    {
-      "title": "🍳26년 4월 한국 푸드 트렌드🥗💜",
-      "link": "https://foodtrend.stibee.com/p/202",
       "desc": ""
     }
   ]
