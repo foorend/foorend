@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T09:52:08Z",
+  "lastUpdated": "2026-06-05T14:52:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -23,7 +23,7 @@
         },
         {
           "title": "The secret is out. This smashburger concept is growing",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVdwTjdCUjZoM0NUWHlXSlpjNzVYZGpDbGwxMnVUby1ZV0hMQjB4cTBLZktuQVljN3FoMHFIZGR5aHVXN3hfN3J0Qk9rNVRSa0prTXNodS0zMVp4VHF0WnBGMlFVeWFMY01xZ0hLSGt6M0VGNW02bU9jNi03NmRxdloybjhoRjhwZkpoMlhrUURxZnRmTVZyYVNXQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmM4RUJPVWgza21FQ1FYTkM0UXcxdWJCSmtuamMzT2JlR1BXcUFuejJyclc1X2FGSWhjMUlJcGZBY193M1lmYnlCOFMwMEw5amJxZmt1TXZnME1UblhhaE9yS1RSenpFNXozclhMX1BXb0RMV3lmSVFWbGp6QlFZQ2UzMzlHUnFYemFYQkJuNWtNYW1rcGc?oc=5",
           "desc": "",
           "title_ko": "비밀이 밝혀졌습니다. 이 스매시버거 컨셉은 점점 더 커지고 있습니다",
           "title_ja": "秘密は暴露された。このスマッシュバーガーコンセプトは成長しています",
@@ -166,20 +166,20 @@
           "title_zh": "韩国最大的食品展“首尔食品展” 9日开幕……新建食品技术馆"
         },
         {
-          "title": "[해외칼럼] AI 소설, ‘패스트푸드’처럼 소비된다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tR09DQ1RwU2VsbmkzSENqYnAwcEdVUktGaXZTZ1h1WEFTbFg4RUo1R0VYQ255Q2J2VnJEZDNRc01IeDRLQVA0bXd0OGJKUXAxRlHSAVNBVV95cUxQemRCaUh0ZUlnNV9BT0pwLVZnNmFEQ1N0RjFZbXBwOUtoTGNwMUJXX1FqQUVjanZCMEUwY21NTDdpX09YLXFDU0Y2ajZDNkhBN01rWQ?oc=5",
-          "desc": "",
-          "title_en": "[Overseas Column] Consumed like an AI novel, ‘Fast Food’",
-          "title_ja": "【海外コラム】AI小説のように消費される「ファーストフード」",
-          "title_zh": "【海外专栏】像人工智能小说《快餐》一样消费"
-        },
-        {
           "title": "롯데웰푸드, 해피홈 14호점 추진...빼빼로 수익금으로 지역아동센터 조성",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LVEVhWEp2c3hpeW4tYktKSDZlYVZqR3RnUXFnb2RQbDN5clBHSlEtczlWcmdKTU1OcktKQVNiTlBpZ3lLaFNPNTlPN0ZWR0pKa0HSAVNBVV95cUxPYmhzcGFoRkYtNmNlTWgweV83LW5BcGhzMF9GdzhJMTVsR0RTdldvU0p6cmRuVm50aTBFekp4Um02bWl2T2tJOGlNLVdUNEJocVA2UQ?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Promotes Happy Home No. 14... Builds Regional Children's Center with Proceeds",
           "title_ja": "ロッテウェルフード、ハッピーホーム第14号を推進…収益で地域児童センターを建設",
           "title_zh": "乐天健康食品推广14号欢乐之家...用收益打造区域儿童中心"
+        },
+        {
+          "title": "[해외칼럼] AI 소설, ‘패스트푸드’처럼 소비된다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tR09DQ1RwU2VsbmkzSENqYnAwcEdVUktGaXZTZ1h1WEFTbFg4RUo1R0VYQ255Q2J2VnJEZDNRc01IeDRLQVA0bXd0OGJKUXAxRlHSAVNBVV95cUxQemRCaUh0ZUlnNV9BT0pwLVZnNmFEQ1N0RjFZbXBwOUtoTGNwMUJXX1FqQUVjanZCMEUwY21NTDdpX09YLXFDU0Y2ajZDNkhBN01rWQ?oc=5",
+          "desc": "",
+          "title_en": "[Overseas Column] Consumed like an AI novel, ‘Fast Food’",
+          "title_ja": "【海外コラム】AI小説のように消費される「ファーストフード」",
+          "title_zh": "【海外专栏】像人工智能小说《快餐》一样消费"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "【公告栏】乐天健康食品、救助儿童会和《14号幸福家园》创作协议"
         },
         {
-          "title": "신세계푸드 노브랜드 버거, 제주 1호점 개점…\"가맹 수요 증가\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yWGkxS2M5b3VvQTFvQTlOaUotZUNPeW1LVzdtNjEyWlFhNTBDbDlpQ0pEWnhvcXJMekdteW1FUXdKQzlRS1NpdW1QQkl3Z2tIMnc?oc=5",
+          "title": "피너클 푸드 그룹, 윤하오 첸 박사 CFO 선임..재무 역량 강화",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rOG83ODJITkxMTHhQSWFRYng2eXBmaHpqb3hOdFJpM1luRkhOSzRqMFhZWGNPWjg5OGdIZ0pfS2JYMk1FcDI2bFd3MWdDM1R3YlE?oc=5",
           "desc": "",
-          "title_en": "Shinsegae Food No-Brand Burger Opens Jeju 1st Store... \"Increasing Demand for Merchants\"",
-          "title_ja": "新世界フードノーブランドバーガーが済州1号店をオープン…「加盟店の需要拡大」",
-          "title_zh": "Shinsegae Food No-Brand Burger开设济州第一家店...... “对商家的需求不断增加”"
+          "title_en": "Pinnacle Food Group Appoints Dr. Yoon Hao Chen as CFO.. Financial Empowerment",
+          "title_ja": "ピナクル・フード・グループ、ユン・ハオ・チェン博士をCFOに任命",
+          "title_zh": "Pinnacle Food Group任命Yoon Hao Chen博士为首席财务官。"
         }
       ]
     },
