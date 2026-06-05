@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-05T03:52:53Z",
+  "lastUpdated": "2026-06-05T09:52:08Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Pizza Hut appears to move further toward a sale",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
-          "desc": "",
-          "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
-          "title_ja": "ピザハットはセールに向けてさらに動いているようです",
-          "title_zh": "必胜客似乎进一步走向促销"
-        },
         {
           "title": "McDonald’s next evolution includes menu, service and technology upgrades",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
           "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
           "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
+        },
+        {
+          "title": "Pizza Hut appears to move further toward a sale",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
+          "desc": "",
+          "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
+          "title_ja": "ピザハットはセールに向けてさらに動いているようです",
+          "title_zh": "必胜客似乎进一步走向促销"
         },
         {
           "title": "The secret is out. This smashburger concept is growing",
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"간편해서 자주 먹었는데\"…전문가 경고한 '치매 위험' 음식",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lTGpCT1Zhci1DZVFNZ2FLYzVkVFFzSGNzcHZqVTNqVnoxa1NDdWgzMmc4NktQS2l5cWwxYzhxYTFrWkJXZEt3SnJMa3ZId1BfZ2YwQng4bVJId9IBVEFVX3lxTE9GQ3dfQnRiTzVZNTZWYUZVT1htUmRXNE9odXZobDU1TkN4ZWhUZWFIc1haYXlsUFJXVkFqS0dCcWkxWnhkTWtNRFI2QnJjMTNPS3Q2SQ?oc=5",
+          "desc": "",
+          "title_en": "\"I ate it often because it was easy\" … 'Dementia risk' food warned by experts",
+          "title_ja": "「簡単だったのでよく食べました」…専門家が警告した「認知症リスク」食品",
+          "title_zh": "“我经常吃它，因为它很容易” ……专家警告说， “痴呆风险”食物"
+        },
+        {
+          "title": "푸드코트로 영역 확대 나선 롯데GRS",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55dlEwazRUdzUzLTdCZ3lWMC1jY2lGX3dRUVZ3ZDdhVEp6U2NsZy1PYVNGTGVqWS04TTZmMFJ0dk1ZTktvN0ZzeENqcHJSRDVCWV9zajhud0QzUdIBVEFVX3lxTE4ycVRGMFBLcFpJb1JVR0dDekY4R3FHWkl3NFpNOEMtemVzamJzNXc1d0NEdW4yMHVOWTQ4SFJXTEJDX05GWTc1MjZoLUJlX242UHc2NQ?oc=5",
+          "desc": "",
+          "title_en": "Expanding the area with the food court Lotte GRS",
+          "title_ja": "フードコートLOTTE GRSでエリアを拡大",
+          "title_zh": "通过美食广场LOTTE GRS扩展面积"
+        },
+        {
           "title": "경기도청서 로컬푸드 직매장 개장…농산물 최대 30% 할인",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wV0FPMVlzb1R6X0toVXRKZnZodDduMlh0dXlVYUZqQzh5QTFldHk0R3VaTnlRdm1jbEU0Si1UMlc3Mm12OU9WTjMzblhENjN2MXk4NGlpbUdxUdIBVEFVX3lxTE9nSUVGUGVxbVB1eUJqSHNOdDY0QUNDRFRVVUFBaFh1MXlod3FfSDF6TkdzbXVzcTlndTJBSkw1ZzhKMndtQ1ZGS196T2FiYWRod2EydA?oc=5",
           "desc": "",
           "title_en": "Opening a local food store in Gyeonggi-do Cheongseo… Up to 30% discount on agricultural products",
           "title_ja": "京畿道清西に地元の食料品店をオープン…農産物が最大30 ％割引",
           "title_zh": "在京畿道清西开设当地食品店…农产品折扣高达30%"
-        },
-        {
-          "title": "13년째 미쉐린 3스타 셰프…\"음식 본질에 집중한 결과죠\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyQVNiSV9INzR4Mmd6WnFCcWN6Yzg0eVo5VS1ic1Fmb1hmbGJEWDg1aG1XVEZLV213OVE1X25zYzVUWloyd1VrdDNIV0F2eWpwWV9hdTBTTkNrZ9IBVEFVX3lxTE9tZ1hEdm1LRUxRS2lJSXhsYTNMS2gtcnF6U1VId0d1cUxsVmo4VzVXVlZZVk1UU1hiT1BVbXBOUy1PdEtPeTBuVjJ5dDQ2Ul9nbktXbA?oc=5",
-          "desc": "",
-          "title_en": "Michelin 3-star chef for 13 years… “It's the result of focusing on the essence of food.”",
-          "title_ja": "13年にわたるミシュランの3つ星シェフ…「それは食べ物の本質に焦点を当てた結果です。」",
-          "title_zh": "米其林三星厨师13年...... “这是专注于食物精髓的结果。”"
-        },
-        {
-          "title": "김풍·홍윤화·히밥, 월드컵 음식 놓고 갑론을박…\"1티어는 이거\" ('티키타카쇼')",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04MGtfQ2NIa0ppSjFRWVpNYjZZNkZXa21oM0tsS2hoTXhFN3Q5XzNqNGVUMElwamlSXzU2TTFfcm9rTVQ5ZmoyWUFlNG5pNnAtMkF3d3lHU0E0aHI5NUlzMnhfMzNlN0RqU1Fsc01rQVg0akRuNzI0UHRpQ1hsMDQ?oc=5",
-          "desc": "",
-          "title_en": "Kim Pung, Hong Yun-hwa, Hibab, Garonbak for World Cup food... \"This is the first tier\" ('Tiki Takasho')",
-          "title_ja": "キム・ポン、ホン・ユンファ、ヒバブ、ワールドカップフードのガロンバク…「これが1段目」（「ティキ・タカショー」）",
-          "title_zh": "Kim Pung、Hong Yun-hwa、Hibab、Garonbak参加世界杯美食...... “这是第一层” （ 'Tiki Takasho' ）"
         }
       ]
     },
@@ -158,12 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "롯데웰푸드, 해피홈 14호점 추진...빼빼로 수익금으로 지역아동센터 조성",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LVEVhWEp2c3hpeW4tYktKSDZlYVZqR3RnUXFnb2RQbDN5clBHSlEtczlWcmdKTU1OcktKQVNiTlBpZ3lLaFNPNTlPN0ZWR0pKa0HSAVNBVV95cUxPYmhzcGFoRkYtNmNlTWgweV83LW5BcGhzMF9GdzhJMTVsR0RTdldvU0p6cmRuVm50aTBFekp4Um02bWl2T2tJOGlNLVdUNEJocVA2UQ?oc=5",
+          "title": "국내 최대 식품전시회 ‘서울푸드’ 9일 킨텍스서 개막…푸드테크관 신설",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00TThjNjRWdV9LM0VoeXJLVWRqTE9idzFuU0lkNkZjOGlkYU8wOTZrXzNsS0N2bVM2cGRxMFZWWG5ZZ3RjMlZkV0NXbUVSOTVpbUpB0gFTQVVfeXFMTTRNOGM2NFZ1X0szRWh5cktVZGpMT2J3MW5TSWQ2RmM4aWRhTzA5NmtfM2xLQ3ZtUzZwZHEwVlZYbllndGMyVmRXQ1dtRVI5NWltSkE?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Promotes Happy Home No. 14... Builds Regional Children's Center with Proceeds",
-          "title_ja": "ロッテウェルフード、ハッピーホーム第14号を推進…収益で地域児童センターを建設",
-          "title_zh": "乐天健康食品推广14号欢乐之家...用收益打造区域儿童中心"
+          "title_en": "Opening of KINTEX on the 9th of ‘Seoul Food’, the largest food exhibition in Korea… Newly established Food Tech Hall",
+          "title_ja": "韓国最大の食品展示会「ソウルフード」9日KINTEX開幕…フードテックホール新設",
+          "title_zh": "韩国最大的食品展“首尔食品展” 9日开幕……新建食品技术馆"
         },
         {
           "title": "[해외칼럼] AI 소설, ‘패스트푸드’처럼 소비된다",
@@ -174,12 +174,12 @@
           "title_zh": "【海外专栏】像人工智能小说《快餐》一样消费"
         },
         {
-          "title": "영산대 K-푸드조리전공, 전국 요리대회 휩쓸었다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FUGhmaGVpd0ZGdnFwakFmcUFLUmZVaFFlb2JfcG9kcE8yRjRUWTNsbDJ6WWFGZG9hMlVHY0c3LXp1d1ZGbzh6c0xULUZKYmFEc1HSAVNBVV95cUxQbFA5dkRhMksza1hkcjNPYS1qQ3pUU2FZb1U1ZkVTN2hGZUtlcG9VWklCQnc5YXFBREFlR3dWV1ktdmFNUnA3aGVzZFY3VHBqdGhRSQ?oc=5",
+          "title": "롯데웰푸드, 해피홈 14호점 추진...빼빼로 수익금으로 지역아동센터 조성",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LVEVhWEp2c3hpeW4tYktKSDZlYVZqR3RnUXFnb2RQbDN5clBHSlEtczlWcmdKTU1OcktKQVNiTlBpZ3lLaFNPNTlPN0ZWR0pKa0HSAVNBVV95cUxPYmhzcGFoRkYtNmNlTWgweV83LW5BcGhzMF9GdzhJMTVsR0RTdldvU0p6cmRuVm50aTBFekp4Um02bWl2T2tJOGlNLVdUNEJocVA2UQ?oc=5",
           "desc": "",
-          "title_en": "Yeongsan University majoring in K-food cooking swept the national culinary competition",
-          "title_ja": "K - food cookingを専攻するYeongsan Universityが全国料理コンペティションを制覇",
-          "title_zh": "Yeongsan University主修K-food烹饪横扫全国烹饪比赛"
+          "title_en": "Lotte Well Food Promotes Happy Home No. 14... Builds Regional Children's Center with Proceeds",
+          "title_ja": "ロッテウェルフード、ハッピーホーム第14号を推進…収益で地域児童センターを建設",
+          "title_zh": "乐天健康食品推广14号欢乐之家...用收益打造区域儿童中心"
         }
       ]
     },
