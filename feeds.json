@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T10:53:27Z",
+  "lastUpdated": "2026-06-06T13:45:06Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -174,12 +174,12 @@
           "title_zh": "乐天健康食品推广14号欢乐之家...用收益打造区域儿童中心"
         },
         {
-          "title": "[해외칼럼] AI 소설, ‘패스트푸드’처럼 소비된다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tR09DQ1RwU2VsbmkzSENqYnAwcEdVUktGaXZTZ1h1WEFTbFg4RUo1R0VYQ255Q2J2VnJEZDNRc01IeDRLQVA0bXd0OGJKUXAxRlHSAVNBVV95cUxQemRCaUh0ZUlnNV9BT0pwLVZnNmFEQ1N0RjFZbXBwOUtoTGNwMUJXX1FqQUVjanZCMEUwY21NTDdpX09YLXFDU0Y2ajZDNkhBN01rWQ?oc=5",
+          "title": "영산대 K-푸드조리전공, 전국 요리대회 휩쓸었다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FUGhmaGVpd0ZGdnFwakFmcUFLUmZVaFFlb2JfcG9kcE8yRjRUWTNsbDJ6WWFGZG9hMlVHY0c3LXp1d1ZGbzh6c0xULUZKYmFEc1HSAVNBVV95cUxQbFA5dkRhMksza1hkcjNPYS1qQ3pUU2FZb1U1ZkVTN2hGZUtlcG9VWklCQnc5YXFBREFlR3dWV1ktdmFNUnA3aGVzZFY3VHBqdGhRSQ?oc=5",
           "desc": "",
-          "title_en": "[Overseas Column] Consumed like an AI novel, ‘Fast Food’",
-          "title_ja": "【海外コラム】AI小説のように消費される「ファーストフード」",
-          "title_zh": "【海外专栏】像人工智能小说《快餐》一样消费"
+          "title_en": "Yeongsan University majoring in K-food cooking swept the national culinary competition",
+          "title_ja": "K - food cookingを専攻するYeongsan Universityが全国料理コンペティションを制覇",
+          "title_zh": "Yeongsan University主修K-food烹饪横扫全国烹饪比赛"
         }
       ]
     },
@@ -244,36 +244,5 @@
       ]
     }
   },
-  "korean_articles": [
-    {
-      "title": "🥐🍗26년 6월 한국 푸드 트렌드🍦💸",
-      "link": "https://foodtrend.stibee.com/p/208",
-      "desc": ""
-    },
-    {
-      "title": "🌍26년 5월 글로벌 푸드 트렌드🍽️✨",
-      "link": "https://foodtrend.stibee.com/p/207",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 편의점/HMR MD를 거친 패션 MD의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/206",
-      "desc": ""
-    },
-    {
-      "title": "🍙26년 5월 한국 푸드 트렌드🏛️✨",
-      "link": "https://foodtrend.stibee.com/p/205",
-      "desc": ""
-    },
-    {
-      "title": "🤖26년 4월 글로벌 푸드 트렌드🥞🍔",
-      "link": "https://foodtrend.stibee.com/p/204",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 푸렌드 에디터의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/203",
-      "desc": ""
-    }
-  ]
+  "korean_articles": []
 }
