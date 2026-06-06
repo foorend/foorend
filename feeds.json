@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T19:24:13Z",
+  "lastUpdated": "2026-06-06T22:02:29Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,12 +136,12 @@
           "title_zh": "“我经常吃它，因为它很容易” ……专家警告说， “痴呆风险”食物"
         },
         {
-          "title": "현대그린푸드, '그리팅 HMR'로 한우 맛 알린다",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqQ0xqcTgtc1hkU1hTd1hHdlBLS3AtT1R3Z044UmU2dDM1akNtLTNldk5iTHYzYXhFb1E4YnFtdlVYSEY5anlCbmZqcXFvWTJzUXJRcGhWazZfZjFickU0ejlZT2VaZl9RNXotWEZ0eXRkM1c0aHFmQndfbzdzUWM?oc=5",
+          "title": "푸드코트로 영역 확대 나선 롯데GRS",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ycVRGMFBLcFpJb1JVR0dDekY4R3FHWkl3NFpNOEMtemVzamJzNXc1d0NEdW4yMHVOWTQ4SFJXTEJDX05GWTc1MjZoLUJlX242UHc2NdIBVEFVX3lxTE4ycVRGMFBLcFpJb1JVR0dDekY4R3FHWkl3NFpNOEMtemVzamJzNXc1d0NEdW4yMHVOWTQ4SFJXTEJDX05GWTc1MjZoLUJlX242UHc2NQ?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food announces the taste of Korean beef with 'Gritting HMR'",
-          "title_ja": "現代グリーンフード、「Gritting HMR」で韓国産牛肉の味を発表",
-          "title_zh": "现代绿色食品以“Gritting HMR”宣布韩国牛肉的味道"
+          "title_en": "Expanding the area with the food court Lotte GRS",
+          "title_ja": "フードコートLOTTE GRSでエリアを拡大",
+          "title_zh": "通过美食广场LOTTE GRS扩展面积"
         },
         {
           "title": "경기도청서 로컬푸드 직매장 개장…농산물 최대 30% 할인",
@@ -244,36 +244,5 @@
       ]
     }
   },
-  "korean_articles": [
-    {
-      "title": "🥐🍗26년 6월 한국 푸드 트렌드🍦💸",
-      "link": "https://foodtrend.stibee.com/p/208",
-      "desc": ""
-    },
-    {
-      "title": "🌍26년 5월 글로벌 푸드 트렌드🍽️✨",
-      "link": "https://foodtrend.stibee.com/p/207",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 편의점/HMR MD를 거친 패션 MD의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/206",
-      "desc": ""
-    },
-    {
-      "title": "🍙26년 5월 한국 푸드 트렌드🏛️✨",
-      "link": "https://foodtrend.stibee.com/p/205",
-      "desc": ""
-    },
-    {
-      "title": "🤖26년 4월 글로벌 푸드 트렌드🥞🍔",
-      "link": "https://foodtrend.stibee.com/p/204",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 푸렌드 에디터의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/203",
-      "desc": ""
-    }
-  ]
+  "korean_articles": []
 }
