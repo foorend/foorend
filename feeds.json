@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T16:05:37Z",
+  "lastUpdated": "2026-06-06T19:24:13Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "국내 최대 식품산업 전문 전시회 '서울푸드 2026' 9일 개최",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWnZOV3FOLS1YQWo0cXVMU2lNbXNFdjZwTko5d29RNmtnUDNFSDNzT0Q5M01WbWxXZEZhWTVpSHRVc0FBcVN5U3lmcVR3MkdsaUE?oc=5",
-          "desc": "",
-          "title_en": "Held 'Seoul Food 2026', the largest exhibition specializing in the food industry in Korea, on the 9th",
-          "title_ja": "韓国最大級の食品専門展「ソウルフード2026」を9日開催",
-          "title_zh": "9日举办韩国最大的食品行业展览会“首尔食品2026”"
-        },
-        {
           "title": "피너클 푸드 그룹, 윤하오 첸 박사 CFO 선임..재무 역량 강화",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rOG83ODJITkxMTHhQSWFRYng2eXBmaHpqb3hOdFJpM1luRkhOSzRqMFhZWGNPWjg5OGdIZ0pfS2JYMk1FcDI2bFd3MWdDM1R3YlE?oc=5",
           "desc": "",
           "title_en": "Pinnacle Food Group Appoints Dr. Yoon Hao Chen as CFO.. Financial Empowerment",
           "title_ja": "ピナクル・フード・グループ、ユン・ハオ・チェン博士をCFOに任命",
           "title_zh": "Pinnacle Food Group任命Yoon Hao Chen博士为首席财务官。"
+        },
+        {
+          "title": "국내 최대 식품산업 전문 전시회 '서울푸드 2026' 9일 개최",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWnZOV3FOLS1YQWo0cXVMU2lNbXNFdjZwTko5d29RNmtnUDNFSDNzT0Q5M01WbWxXZEZhWTVpSHRVc0FBcVN5U3lmcVR3MkdsaUE?oc=5",
+          "desc": "",
+          "title_en": "Held 'Seoul Food 2026', the largest exhibition specializing in the food industry in Korea, on the 9th",
+          "title_ja": "韓国最大級の食品専門展「ソウルフード2026」を9日開催",
+          "title_zh": "9日举办韩国最大的食品行业展览会“首尔食品2026”"
         },
         {
           "title": "[게시판] 롯데웰푸드, 세이브더칠드런과 '해피홈 14호' 조성 협약",
