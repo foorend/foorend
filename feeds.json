@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T04:01:19Z",
+  "lastUpdated": "2026-06-07T08:56:27Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "'합성 아니에요?' 경악…비둘기 뷔페 맛집 된 길거리 음식",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96c3Y5cGVlRFVySFBjMkJFODc2NFNoT3pBMjFMcVJ3Z0NhUjlxeWRTSXZJT1RUb29HSTZWOEJqYnZianpQUU05a19XMUJ4cmRKZV9FU0t5dWVHd9IBVEFVX3lxTFBxOUdZOVpmN1QxU09USncxOUluQ1JCcmxWOWVkeXRNWmd3VnczWGJLVVNLQmsxSTMyNjNhM3RmUE50WVpIMVFSNThOdnk4Mzl1SFVkUA?oc=5",
+          "desc": "",
+          "title_en": "'Isn't it synthetic?' Scared... Pigeon Buffet Gourmet Street Food",
+          "title_ja": "「合成ではありませんか？」怖い…ハトビュッフェグルメ屋台フード",
+          "title_zh": "“这不是合成的吗？”害怕……鸽子自助美食街头美食"
+        },
+        {
+          "title": "\"한국 치킨 그리웠다\" 1일1닭… K푸드 홍보대사 된 젠슨 황 [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ZnZZZzY1WDl4NjA5NThlRXAwQm9NVzlvV1cwNkREdnJnNzV5Vk42M2N5cU0zWkkweE1lYzVEWlpiYjR6cDhKSDYtRHEtNlczeDFjblFwVjlKQdIBVEFVX3lxTE82N1huV214bUFmY0dkWUVFWWxzb29Hem5Xa1Vod18tRnA3dlpfUExkalBwTDVaQzUxX25tREFDN1hWNEZBX3pUZi00X01pRVNZT2dEWQ?oc=5",
+          "desc": "",
+          "title_en": "\"I missed Korean chicken\" 1day1chicken… Jensen Hwang, an ambassador for K-Food [Kwon Yong-hoon's Trendwatch]",
+          "title_ja": "「韓国チキンが恋しい」1 day 1 chicken… K - FoodアンバサダーのJensen Hwangさん【Kwon Yong - hoonさんのトレンドウォッチ】",
+          "title_zh": "「我错过了韩国鸡」1day1chicken... K-Food大使Jensen Hwang [Kwon Yong-hoon's Trendwatch]"
+        },
+        {
           "title": "\"간편해서 자주 먹었는데\"…전문가 경고한 '치매 위험' 음식",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lTGpCT1Zhci1DZVFNZ2FLYzVkVFFzSGNzcHZqVTNqVnoxa1NDdWgzMmc4NktQS2l5cWwxYzhxYTFrWkJXZEt3SnJMa3ZId1BfZ2YwQng4bVJId9IBVEFVX3lxTE9GQ3dfQnRiTzVZNTZWYUZVT1htUmRXNE9odXZobDU1TkN4ZWhUZWFIc1haYXlsUFJXVkFqS0dCcWkxWnhkTWtNRFI2QnJjMTNPS3Q2SQ?oc=5",
           "desc": "",
           "title_en": "\"I ate it often because it was easy\" … 'Dementia risk' food warned by experts",
           "title_ja": "「簡単だったのでよく食べました」…専門家が警告した「認知症リスク」食品",
           "title_zh": "“我经常吃它，因为它很容易” ……专家警告说， “痴呆风险”食物"
-        },
-        {
-          "title": "현대그린푸드, '그리팅 HMR'로 한우 맛 알린다",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqQ0xqcTgtc1hkU1hTd1hHdlBLS3AtT1R3Z044UmU2dDM1akNtLTNldk5iTHYzYXhFb1E4YnFtdlVYSEY5anlCbmZqcXFvWTJzUXJRcGhWazZfZjFickU0ejlZT2VaZl9RNXotWEZ0eXRkM1c0aHFmQndfbzdzUWM?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food announces the taste of Korean beef with 'Gritting HMR'",
-          "title_ja": "現代グリーンフード、「Gritting HMR」で韓国産牛肉の味を発表",
-          "title_zh": "现代绿色食品以“Gritting HMR”宣布韩国牛肉的味道"
-        },
-        {
-          "title": "경기도청서 로컬푸드 직매장 개장…농산물 최대 30% 할인",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wV0FPMVlzb1R6X0toVXRKZnZodDduMlh0dXlVYUZqQzh5QTFldHk0R3VaTnlRdm1jbEU0Si1UMlc3Mm12OU9WTjMzblhENjN2MXk4NGlpbUdxUdIBVEFVX3lxTE9nSUVGUGVxbVB1eUJqSHNOdDY0QUNDRFRVVUFBaFh1MXlod3FfSDF6TkdzbXVzcTlndTJBSkw1ZzhKMndtQ1ZGS196T2FiYWRod2EydA?oc=5",
-          "desc": "",
-          "title_en": "Opening a local food store in Gyeonggi-do Cheongseo… Up to 30% discount on agricultural products",
-          "title_ja": "京畿道清西に地元の食料品店をオープン…農産物が最大30 ％割引",
-          "title_zh": "在京畿道清西开设当地食品店…农产品折扣高达30%"
         }
       ]
     },
@@ -196,16 +196,16 @@
           "title_zh": "乐天Well Food将于21日开设新的“猪肉吧面包”弹出式商店"
         },
         {
-          "title": "피너클 푸드 그룹, 윤하오 첸 박사 CFO 선임..재무 역량 강화",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rOG83ODJITkxMTHhQSWFRYng2eXBmaHpqb3hOdFJpM1luRkhOSzRqMFhZWGNPWjg5OGdIZ0pfS2JYMk1FcDI2bFd3MWdDM1R3YlE?oc=5",
+          "title": "닭꼬치 위, ‘닭둘기’가 폴짝폴짝 “이걸 먹으라고?”…길거리 음식 위생 논란",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iTVVIUVFwdkRqWXJsV1huOHNjcXcyYktyeVlkLVlUOXJlcGhfc21CQXUxY29hNkNNRGVWa2lsNFhGSE9vYVRqTElHYUlLNkNsdnNheA?oc=5",
           "desc": "",
-          "title_en": "Pinnacle Food Group Appoints Dr. Yoon Hao Chen as CFO.. Financial Empowerment",
-          "title_ja": "ピナクル・フード・グループ、ユン・ハオ・チェン博士をCFOに任命",
-          "title_zh": "Pinnacle Food Group任命Yoon Hao Chen博士为首席财务官。"
+          "title_en": "On top of the chicken skewers, the ’chicken pigeon' asked, “Eat this?” … street food hygiene controversy",
+          "title_ja": "鶏串の上に「これ食べる？「…ストリートフードの衛生に関する論争",
+          "title_zh": "鸡串之上， ’鸡鸽’问道： “吃这个？“ ……街头食品卫生争议"
         },
         {
           "title": "#베트남음식 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXkyV2xMZjVHMGZ5MWo3eWt6NVBReWwtSmllT2p0ZmRXemdyRnlxaTd0QVZvaTFDeW9wdkFoZUtwV2lvcGRTR3V5WjVpdDVnQjZqMVN4cldoTVFqcDFsbUlYR0ZHSE5GODhKS0thWHcxelpEWThoa2x2aFFyWm1lMVlNUjJVQTA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHNHRjI1a2JESVhtMzlfemJJcEpUZ01hS1FKV3NuWUZkT0tSeEVRc01oRk4xc2JISUgxd1U1RURoWjU0OGdvamZRMUJmSDJJWlNMY3QxOGpTM3JIX283bnhpVndPQ1dTNDBJak9jZkJDYlppR28xcVctZ1c3Y3JkLTFR?oc=5",
           "desc": "",
           "title_en": "# Vietnamese Food (1 Posts)",
           "title_ja": "#ベトナム料理（ 1件の投稿）",
