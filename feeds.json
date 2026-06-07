@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T13:53:50Z",
+  "lastUpdated": "2026-06-07T16:17:50Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "CJ씨푸드1우, 매수잔량 554% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VzM2a2VVOV9kQjJJWEN5V3VJRWprd1oyTGlQeS1nVXVFVXdJOHNSWXc4WXRYSjB4YjlvWjNRV3hHdlM5R1p5UzhqRGRkY2dIQ1E?oc=5",
+          "desc": "",
+          "title_en": "CJ Seafood 1W, Buy Residual 554% Surge",
+          "title_ja": "CJシーフード1 W、残り554 ％のサージを購入",
+          "title_zh": "CJ Seafood 1W ，购买剩余554%飙升"
+        },
+        {
           "title": "국내 최대 식품전시회 ‘서울푸드’ 9일 킨텍스서 개막…푸드테크관 신설",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tUHY0dHlyekd6dTlJTlVUQ25NWnNTZEpnMHpkUkpnTFdhS1hydWJlT1FJN2RVTjQ2Uk51RnJUZXEwMGt1SHNTX2RqS1Z4enJQdEHSAVNBVV95cUxNNE04YzY0VnVfSzNFaHlyS1VkakxPYncxblNJZDZGYzhpZGFPMDk2a18zbEtDdm1TNnBkcTBWVlhuWWd0YzJWZFdDV21FUjk1aW1KQQ?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Lotte Well Food Promotes Happy Home No. 14... Builds Regional Children's Center with Proceeds",
           "title_ja": "ロッテウェルフード、ハッピーホーム第14号を推進…収益で地域児童センターを建設",
           "title_zh": "乐天健康食品推广14号欢乐之家...用收益打造区域儿童中心"
-        },
-        {
-          "title": "영산대 K-푸드조리전공, 전국 요리대회 휩쓸었다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FUGhmaGVpd0ZGdnFwakFmcUFLUmZVaFFlb2JfcG9kcE8yRjRUWTNsbDJ6WWFGZG9hMlVHY0c3LXp1d1ZGbzh6c0xULUZKYmFEc1HSAVNBVV95cUxQbFA5dkRhMksza1hkcjNPYS1qQ3pUU2FZb1U1ZkVTN2hGZUtlcG9VWklCQnc5YXFBREFlR3dWV1ktdmFNUnA3aGVzZFY3VHBqdGhRSQ?oc=5",
-          "desc": "",
-          "title_en": "Yeongsan University majoring in K-food cooking swept the national culinary competition",
-          "title_ja": "K - food cookingを専攻するYeongsan Universityが全国料理コンペティションを制覇",
-          "title_zh": "Yeongsan University主修K-food烹饪横扫全国烹饪比赛"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "乐天Well Food将于21日开设新的“猪肉吧面包”弹出式商店"
         },
         {
-          "title": "#베트남음식 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHNHRjI1a2JESVhtMzlfemJJcEpUZ01hS1FKV3NuWUZkT0tSeEVRc01oRk4xc2JISUgxd1U1RURoWjU0OGdvamZRMUJmSDJJWlNMY3QxOGpTM3JIX283bnhpVndPQ1dTNDBJak9jZkJDYlppR28xcVctZ1c3Y3JkLTFR?oc=5",
-          "desc": "",
-          "title_en": "# Vietnamese Food (1 Posts)",
-          "title_ja": "#ベトナム料理（ 1件の投稿）",
-          "title_zh": "#越南美食（ 1个帖子）"
-        },
-        {
           "title": "국내 최대 식품산업 전문 전시회 '서울푸드 2026' 9일 개최",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWnZOV3FOLS1YQWo0cXVMU2lNbXNFdjZwTko5d29RNmtnUDNFSDNzT0Q5M01WbWxXZEZhWTVpSHRVc0FBcVN5U3lmcVR3MkdsaUE?oc=5",
           "desc": "",
           "title_en": "Held 'Seoul Food 2026', the largest exhibition specializing in the food industry in Korea, on the 9th",
           "title_ja": "韓国最大級の食品専門展「ソウルフード2026」を9日開催",
           "title_zh": "9日举办韩国最大的食品行业展览会“首尔食品2026”"
+        },
+        {
+          "title": "[게시판] 롯데웰푸드, 세이브더칠드런과 '해피홈 14호' 조성 협약",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMmV6NW5fc2NCY3BRMl9FWV8wVnFHQmdrUVZoQ2wyM3g0UmxyOUwyNENWR2UxNjRQaGJOc21CRlNIR0VMeEo1ckZBNzVBQkdPV0E?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] Lotte Well Food, Save the Children and 'Happy Home No. 14' Creation Agreement",
+          "title_ja": "【掲示板】ロッテウェルフード、セーブ・ザ・チルドレン、「ハッピーホームNo.14」結成契約",
+          "title_zh": "【公告栏】乐天健康食品、救助儿童会和《14号幸福家园》创作协议"
         }
       ]
     },
