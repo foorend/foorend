@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T08:56:27Z",
+  "lastUpdated": "2026-06-07T11:10:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"자연식품 중 최고\" 암 전문의가 매일 아침 챙겨먹는 음식 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBESWFERV91QkIxbk9QMF9CbGIxaUozTzlnQ1ZKOHNzMUVHMUdzbkphaWpzSHl1WFA0UG90THJybzB4aVp0QkgxY0V2RzJjQkp3NWtDUGZreDk0QdIBVEFVX3lxTE1iSksyUURoOGdpbGszM1VGMlRfYTE0Nmo5NXEySGUxUW1zVWVJQlE0N2NBLUpELTdRZTd6WHJJRVR5RkNsV0pxZkloNzRady1EcHdiSw?oc=5",
+          "desc": "",
+          "title_en": "\"The Best of Natural Foods\" What Cancer Specialists Eat Every Morning [Health! Talk]",
+          "title_ja": "がん専門医が毎朝食べる「最高のナチュラルフード」【健康！トーク】",
+          "title_zh": "“最好的天然食品”癌症专家每天早上吃什么[健康！谈话]"
+        },
+        {
           "title": "'합성 아니에요?' 경악…비둘기 뷔페 맛집 된 길거리 음식",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96c3Y5cGVlRFVySFBjMkJFODc2NFNoT3pBMjFMcVJ3Z0NhUjlxeWRTSXZJT1RUb29HSTZWOEJqYnZianpQUU05a19XMUJ4cmRKZV9FU0t5dWVHd9IBVEFVX3lxTFBxOUdZOVpmN1QxU09USncxOUluQ1JCcmxWOWVkeXRNWmd3VnczWGJLVVNLQmsxSTMyNjNhM3RmUE50WVpIMVFSNThOdnk4Mzl1SFVkUA?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "\"I missed Korean chicken\" 1day1chicken… Jensen Hwang, an ambassador for K-Food [Kwon Yong-hoon's Trendwatch]",
           "title_ja": "「韓国チキンが恋しい」1 day 1 chicken… K - FoodアンバサダーのJensen Hwangさん【Kwon Yong - hoonさんのトレンドウォッチ】",
           "title_zh": "「我错过了韩国鸡」1day1chicken... K-Food大使Jensen Hwang [Kwon Yong-hoon's Trendwatch]"
-        },
-        {
-          "title": "\"간편해서 자주 먹었는데\"…전문가 경고한 '치매 위험' 음식",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lTGpCT1Zhci1DZVFNZ2FLYzVkVFFzSGNzcHZqVTNqVnoxa1NDdWgzMmc4NktQS2l5cWwxYzhxYTFrWkJXZEt3SnJMa3ZId1BfZ2YwQng4bVJId9IBVEFVX3lxTE9GQ3dfQnRiTzVZNTZWYUZVT1htUmRXNE9odXZobDU1TkN4ZWhUZWFIc1haYXlsUFJXVkFqS0dCcWkxWnhkTWtNRFI2QnJjMTNPS3Q2SQ?oc=5",
-          "desc": "",
-          "title_en": "\"I ate it often because it was easy\" … 'Dementia risk' food warned by experts",
-          "title_ja": "「簡単だったのでよく食べました」…専門家が警告した「認知症リスク」食品",
-          "title_zh": "“我经常吃它，因为它很容易” ……专家警告说， “痴呆风险”食物"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "乐天Well Food将于21日开设新的“猪肉吧面包”弹出式商店"
         },
         {
-          "title": "닭꼬치 위, ‘닭둘기’가 폴짝폴짝 “이걸 먹으라고?”…길거리 음식 위생 논란",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iTVVIUVFwdkRqWXJsV1huOHNjcXcyYktyeVlkLVlUOXJlcGhfc21CQXUxY29hNkNNRGVWa2lsNFhGSE9vYVRqTElHYUlLNkNsdnNheA?oc=5",
-          "desc": "",
-          "title_en": "On top of the chicken skewers, the ’chicken pigeon' asked, “Eat this?” … street food hygiene controversy",
-          "title_ja": "鶏串の上に「これ食べる？「…ストリートフードの衛生に関する論争",
-          "title_zh": "鸡串之上， ’鸡鸽’问道： “吃这个？“ ……街头食品卫生争议"
-        },
-        {
           "title": "#베트남음식 (1 Posts)",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHNHRjI1a2JESVhtMzlfemJJcEpUZ01hS1FKV3NuWUZkT0tSeEVRc01oRk4xc2JISUgxd1U1RURoWjU0OGdvamZRMUJmSDJJWlNMY3QxOGpTM3JIX283bnhpVndPQ1dTNDBJak9jZkJDYlppR28xcVctZ1c3Y3JkLTFR?oc=5",
           "desc": "",
           "title_en": "# Vietnamese Food (1 Posts)",
           "title_ja": "#ベトナム料理（ 1件の投稿）",
           "title_zh": "#越南美食（ 1个帖子）"
+        },
+        {
+          "title": "국내 최대 식품산업 전문 전시회 '서울푸드 2026' 9일 개최",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWnZOV3FOLS1YQWo0cXVMU2lNbXNFdjZwTko5d29RNmtnUDNFSDNzT0Q5M01WbWxXZEZhWTVpSHRVc0FBcVN5U3lmcVR3MkdsaUE?oc=5",
+          "desc": "",
+          "title_en": "Held 'Seoul Food 2026', the largest exhibition specializing in the food industry in Korea, on the 9th",
+          "title_ja": "韓国最大級の食品専門展「ソウルフード2026」を9日開催",
+          "title_zh": "9日举办韩国最大的食品行业展览会“首尔食品2026”"
         }
       ]
     },
