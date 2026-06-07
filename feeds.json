@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T11:10:57Z",
+  "lastUpdated": "2026-06-07T13:53:50Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"자연식품 중 최고\" 암 전문의가 매일 아침 챙겨먹는 음식 [건강!톡]",
+          "title": "30년 '암 전문의'도 매일 아침 먹는다…'이 음식' 뭐길래 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBESWFERV91QkIxbk9QMF9CbGIxaUozTzlnQ1ZKOHNzMUVHMUdzbkphaWpzSHl1WFA0UG90THJybzB4aVp0QkgxY0V2RzJjQkp3NWtDUGZreDk0QdIBVEFVX3lxTE1iSksyUURoOGdpbGszM1VGMlRfYTE0Nmo5NXEySGUxUW1zVWVJQlE0N2NBLUpELTdRZTd6WHJJRVR5RkNsV0pxZkloNzRady1EcHdiSw?oc=5",
           "desc": "",
-          "title_en": "\"The Best of Natural Foods\" What Cancer Specialists Eat Every Morning [Health! Talk]",
-          "title_ja": "がん専門医が毎朝食べる「最高のナチュラルフード」【健康！トーク】",
-          "title_zh": "“最好的天然食品”癌症专家每天早上吃什么[健康！谈话]"
+          "title_en": "For 30 years, 'cancer specialists' also eat breakfast every day... What is' this food '? [Health! Talk]",
+          "title_ja": "30年間、「がん専門医」も毎日朝食を食べています...「この食べ物」とは何ですか？ [Health! Talk]",
+          "title_zh": "30年来， “癌症专家”每天也吃早餐……什么是“这种食物” ？ [健康！谈话]"
         },
         {
           "title": "'합성 아니에요?' 경악…비둘기 뷔페 맛집 된 길거리 음식",
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "‘기능성 슈퍼푸드’로 부상한 스웨덴 K-푸드",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lLVFVQ2xIVUREWHh6ckNBZ01aZS1NWUV6cmhyTmIxMGlPREFRR2UxekdLd0NOWmY1U1ZsaTcycWp0dC1jeXFXRnVCTE95RjdNYTlqZ2Rxaw?oc=5",
+          "desc": "",
+          "title_en": "Swedish K-Food Emerges as‘ Functional Superfood ’",
+          "title_ja": "スウェーデンのK - Foodが「機能性スーパーフード」として登場",
+          "title_zh": "瑞典K-Food成为“功能性超级食品”"
+        },
+        {
           "title": "“맵지 않아요” 음식 위 빨간 가루, 파프리카였어?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sRVJ3VjNNRVVvbnd6NWMwWG03T0N1NXBoYVdmT0dWWkxqX3o3VHdUc1hrb0RubjdZN1ZRUmw1QkllNy01SzBfdTFONWZTRURxclhFNVI0dw?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "“Breaded pork bar?” Lotte well food, pork bar bakery pop-up store",
           "title_ja": "「ポークバー？」ロッテウェルフード、ポークバーベーカリーポップアップストア",
           "title_zh": "「猪肉面包店？」乐天美食、猪肉面包店快闪店"
-        },
-        {
-          "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
-          "desc": "",
-          "title_en": "I take it out all week, ‘Kish Milf Wrap’",
-          "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
-          "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
         }
       ]
     }
