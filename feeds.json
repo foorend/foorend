@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-07T22:04:47Z",
+  "lastUpdated": "2026-06-08T04:05:28Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Pizza Hut appears to move further toward a sale",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
-          "desc": "",
-          "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
-          "title_ja": "ピザハットはセールに向けてさらに動いているようです",
-          "title_zh": "必胜客似乎进一步走向促销"
-        },
         {
           "title": "McDonald’s next evolution includes menu, service and technology upgrades",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "레드 로빈, 리프랜차이즈 푸시로 30개 지점을 $ 23.5M에 판매",
           "title_ja": "Red Robin、30店舗を$ 2350万で売却",
           "title_zh": "Red Robin以$ 2350万的价格出售30个地点"
+        },
+        {
+          "title": "Pizza Hut appears to move further toward a sale",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
+          "desc": "",
+          "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
+          "title_ja": "ピザハットはセールに向けてさらに動いているようです",
+          "title_zh": "必胜客似乎进一步走向促销"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“나쁜 콜레스테롤 줄었다”…전문가들이 매일 먹으라고 말한 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oQmZXY0VpME1ZQmdaRnAtYzJhcHNTbUxueVphTjNWZmhaYUpKc3Z0QUgxNFJMQ0h3T2VpdVFjZU9OaEdUTXBVdGZLQWRNT21FS0HSAVNBVV95cUxNbGJXem03cEZGUFBoc1EtMDRiSjdRXzR3RC1tR010Z0xQaWg5TkRMcnlLUndsdzVKRGhVSE1BWkZiT2g2UEpBcXpTcFh4QnU4bmJZNA?oc=5",
+          "desc": "",
+          "title_en": "“Reduced bad cholesterol” … ‘this food‘ that experts tell you to eat every day [heal time]",
+          "title_ja": "「悪玉コレステロールの低減」…専門家が毎日食べるように指示する「この食べ物」[ヒールタイム]",
+          "title_zh": "“降低坏胆固醇” ……专家告诉你每天吃的“这种食物” [治愈时间]"
+        },
+        {
+          "title": "쿠팡, ‘로켓푸드페스타’ 연다… 4000여개 먹거리 할인",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43NkdURFRtajVwRzEzY3I0VmVoTlZiRWpUWWNqV0hoVGxWQnRFRzl3MnNkTDFnME90U1B5UU9uQS0xUGF0VVpqaURrNml5a3BRdFNV0gFTQVVfeXFMTjc2R1REVG1qNXBHMTNjcjRWZWhOVmJFalRZY2pXSGhUbFZCdEVHOXcyc2RMMWcwT3RTUHlRT25BLTFQYXRVWmppRGs2aXlrcFF0U1U?oc=5",
+          "desc": "",
+          "title_en": "Coupang opens‘ Rocket Food Festa ’... More than 4,000 food discounts",
+          "title_ja": "クーパンが「ロケットフードフェスタ」をオープン… 4,000以上のフードディスカウント",
+          "title_zh": "Coupang开设“火箭美食节” …… 4000多个美食折扣"
+        },
+        {
           "title": "핫도그 사먹으러 갔다가 ‘경악’…비둘기가 먼저 쪼아 먹는 길거리 음식",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UeTlnQkJVM0ZfMlgyLUZzR280VEwtWHdaM0ZJNzQ1TnYyU1l2VnVWZFI2VjM1dWQzYVg5cTNFYWZKeTZRdGRUU2NycWhKSmNSbVk40gFTQVVfeXFMT1R5OWdCQlUzRl8yWDItRnNHbzRUTC1Yd1ozRkk3NDVOdjJTWXZWdVZkUjZWMzV1ZDNhWDlxM0VhZkp5NlF0ZFRTY3JxaEpKY1JtWTg?oc=5",
           "desc": "",
           "title_en": "I was' shocked ‘when I went to buy hot dogs… street food that pigeons eat first",
           "title_ja": "ホットドッグを買いに行ったときに「ショック」を受けました…ハトが最初に食べる屋台の食べ物",
           "title_zh": "当我去买热狗时，我感到“震惊” ……鸽子先吃的街头食品"
-        },
-        {
-          "title": "국내 최대 식품전시회 ‘서울푸드’ 9일 킨텍스서 개막…푸드테크관 신설",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tUHY0dHlyekd6dTlJTlVUQ25NWnNTZEpnMHpkUkpnTFdhS1hydWJlT1FJN2RVTjQ2Uk51RnJUZXEwMGt1SHNTX2RqS1Z4enJQdEHSAVNBVV95cUxNNE04YzY0VnVfSzNFaHlyS1VkakxPYncxblNJZDZGYzhpZGFPMDk2a18zbEtDdm1TNnBkcTBWVlhuWWd0YzJWZFdDV21FUjk1aW1KQQ?oc=5",
-          "desc": "",
-          "title_en": "Opening of KINTEX on the 9th of ‘Seoul Food’, the largest food exhibition in Korea… Newly established Food Tech Hall",
-          "title_ja": "韓国最大の食品展示会「ソウルフード」9日KINTEX開幕…フードテックホール新設",
-          "title_zh": "韩国最大的食品展“首尔食品展” 9日开幕……新建食品技术馆"
-        },
-        {
-          "title": "롯데웰푸드, 해피홈 14호점 추진...빼빼로 수익금으로 지역아동센터 조성",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LVEVhWEp2c3hpeW4tYktKSDZlYVZqR3RnUXFnb2RQbDN5clBHSlEtczlWcmdKTU1OcktKQVNiTlBpZ3lLaFNPNTlPN0ZWR0pKa0HSAVNBVV95cUxPYmhzcGFoRkYtNmNlTWgweV83LW5BcGhzMF9GdzhJMTVsR0RTdldvU0p6cmRuVm50aTBFekp4Um02bWl2T2tJOGlNLVdUNEJocVA2UQ?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Promotes Happy Home No. 14... Builds Regional Children's Center with Proceeds",
-          "title_ja": "ロッテウェルフード、ハッピーホーム第14号を推進…収益で地域児童センターを建設",
-          "title_zh": "乐天健康食品推广14号欢乐之家...用收益打造区域儿童中心"
         }
       ]
     },
