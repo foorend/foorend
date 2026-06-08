@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T10:57:22Z",
+  "lastUpdated": "2026-06-08T15:54:06Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         },
         {
+          "title": "Restaurant Business Magazine - Trends, Ideas and News",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
+          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
+          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
+        },
+        {
           "title": "Pizza Hut appears to move further toward a sale",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
           "desc": "",
           "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
           "title_ja": "ピザハットはセールに向けてさらに動いているようです",
           "title_zh": "必胜客似乎进一步走向促销"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "축의금 16만원 냈는데…식탁엔 식은 맥도날드 음식 '시끌'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96akdvY3NXbmEyMFlPTGRkVFFWRkV5V25ITXpVcmVMaXpkaG40OGprMFBBX1ZuX2lQbDNzM1BpbERtWVZzMGhGTFpPcnpZVFdRLWxsak9kX1JHQdIBVEFVX3lxTFBKMGhVN3gtalNZOGdlZkFQeGNMb2p3T0dQWTFZZjlqODQ1dmk5bGdFczIxb3VxT3FBVHVXaUVzeVdUZU1vSDF5V0J1T1hBYzI5eXVPZw?oc=5",
+          "desc": "",
+          "title_en": "I paid 160,000 won for the celebration... On the table is a cold McDonald's food 'Seedlery'",
+          "title_ja": "私はお祝いのために16万ウォンを支払いました...テーブルの上には冷たいマクドナルドの食べ物「シードラリー」があります",
+          "title_zh": "我为庆祝活动支付了16万韩元......桌子上是冷麦当劳的食物“Seedlery”"
+        },
+        {
           "title": "\"젠슨 황 메뉴로 주세요\"…삼겹살·치킨 등 K푸드 함박웃음",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaUhHUERKWlpxVnZYdUVGaDRaa1dUNjl0TmIxOUUxc09QM3FIdVpqTUktcTFsRkZOaWs5ZVNlRl9MVlVMUGFnZUhQY0RxMkhLNnZIN2VmeVhEZ9IBVEFVX3lxTE1NOUlpQmY0RDh6TXNMUDdFRk9pRlFsQTBqWERtUU10R2dQQkhoR3JOWms4U3VuM3RlbXRDQ0NSeXBWa3JxdkhHTFZzVGJOckdPdDhCSA?oc=5",
           "desc": "",
@@ -136,16 +144,8 @@
           "title_zh": "“给我Jensen Hwang菜单” ……猪肚·鸡肉等。K食物咧嘴笑"
         },
         {
-          "title": "\"젠슨 황 세트 주세요\"…K푸드 노출에 들썩 [퇴근길 30초 경제]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94YlpOVGVyVnFmR3JCcnJTVGpCd1NoblozZjF3ajdLMnZxUDVSdzNqM1Y2WHNBZlBLSXdrMExYYngyaFhnbTFWRlpZSTdwaWRaVFNtcEwtY0dZQdIBVEFVX3lxTE9PQzREZUdfUXJJQU04VDhFU0xqbzBISFRvRXpNT01PRkhZRnpHTHFXODRiLTJrN3YyelZSbDdsR2kwYWtOUmVBVXZWNS0tQzFKNkVFZg?oc=5",
-          "desc": "",
-          "title_en": "\"Give me the Jensen sulfur set\" … caught up in K-food exposure [30-second economy on the way home from work]",
-          "title_ja": "「ジェンセン硫黄セットをください」… K - food曝露に巻き込まれました[仕事帰りの30秒エコノミー]",
-          "title_zh": "“给我Jensen硫磺套装” ……陷入K-food暴露[下班回家的30秒经济舱]"
-        },
-        {
           "title": "'합성 아니에요?' 경악…비둘기 뷔페 맛집 된 길거리 음식",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuWG5aYzlSelJia19kRE9KelNlS1h5Ym5xMDQ5clB6cm9hNG5zMlZseXFkTWZPUGdQQmZvUkswbkk3Mjd4M2VMLWZKXzhiRWVXd0pEb0M5RjVPTTFnMmRXVE14ZzAwU0VETThGMnF4N1JJX085WWlJNVlPd0pVNlU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96c3Y5cGVlRFVySFBjMkJFODc2NFNoT3pBMjFMcVJ3Z0NhUjlxeWRTSXZJT1RUb29HSTZWOEJqYnZianpQUU05a19XMUJ4cmRKZV9FU0t5dWVHd9IBVEFVX3lxTFBxOUdZOVpmN1QxU09USncxOUluQ1JCcmxWOWVkeXRNWmd3VnczWGJLVVNLQmsxSTMyNjNhM3RmUE50WVpIMVFSNThOdnk4Mzl1SFVkUA?oc=5",
           "desc": "",
           "title_en": "'Isn't it synthetic?' Scared... Pigeon Buffet Gourmet Street Food",
           "title_ja": "「合成ではありませんか？」怖い…ハトビュッフェグルメ屋台フード",
@@ -174,12 +174,12 @@
           "title_zh": "Coupang开设“火箭美食节” …… 4000多个美食折扣"
         },
         {
-          "title": "CJ씨푸드1우, 매수잔량 554% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VzM2a2VVOV9kQjJJWEN5V3VJRWprd1oyTGlQeS1nVXVFVXdJOHNSWXc4WXRYSjB4YjlvWjNRV3hHdlM5R1p5UzhqRGRkY2dIQ1E?oc=5",
+          "title": "핫도그 사먹으러 갔다가 ‘경악’…비둘기가 먼저 쪼아 먹는 길거리 음식",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UeTlnQkJVM0ZfMlgyLUZzR280VEwtWHdaM0ZJNzQ1TnYyU1l2VnVWZFI2VjM1dWQzYVg5cTNFYWZKeTZRdGRUU2NycWhKSmNSbVk40gFTQVVfeXFMT1R5OWdCQlUzRl8yWDItRnNHbzRUTC1Yd1ozRkk3NDVOdjJTWXZWdVZkUjZWMzV1ZDNhWDlxM0VhZkp5NlF0ZFRTY3JxaEpKY1JtWTg?oc=5",
           "desc": "",
-          "title_en": "CJ Seafood 1W, Buy Residual 554% Surge",
-          "title_ja": "CJシーフード1 W、残り554 ％のサージを購入",
-          "title_zh": "CJ Seafood 1W ，购买剩余554%飙升"
+          "title_en": "I was' shocked ‘when I went to buy hot dogs… street food that pigeons eat first",
+          "title_ja": "ホットドッグを買いに行ったときに「ショック」を受けました…ハトが最初に食べる屋台の食べ物",
+          "title_zh": "当我去买热狗时，我感到“震惊” ……鸽子先吃的街头食品"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "타이슨 푸드, 웨스 모리스 COO 선임..20년 경력 운영 전문가 영입",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lb1pTa1h2UzRXRFpCZjV2cE5ra2FQWDNLSVcySmxuaF9TRkktVzI4bEZsOTU0ZmpkRXdtYkJCSDVKbnZKdUpfU0N6bGZyeHJjYlE?oc=5",
+          "desc": "",
+          "title_en": "Tyson Foods Appoints Wes Morris as COO, 20-Year Operations Expert",
+          "title_ja": "タイソン・フーズ、Wes MorrisをCOOに任命、20年にわたるオペレーションエキスパート",
+          "title_zh": "泰森食品任命Wes Morris为20年运营专家的首席运营官"
+        },
         {
           "title": "롯데웰푸드, 21일까지 신제품 '돼지바빵' 팝업스토어 개설",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WRHd6ZThUSndFN1hHXzhRajZpVlZ5SENaWEJzYlpEaHJWUjBYQUU2Vzh0Uk83M2plS2xNdlF2LUhjMWRBTjB2QzVzMW52VGJCX2c?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "# Vietnamese Food (1 Posts)",
           "title_ja": "#ベトナム料理（ 1件の投稿）",
           "title_zh": "#越南美食（ 1个帖子）"
-        },
-        {
-          "title": "피너클 푸드 그룹, 윤하오 첸 박사 CFO 선임..재무 역량 강화",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rOG83ODJITkxMTHhQSWFRYng2eXBmaHpqb3hOdFJpM1luRkhOSzRqMFhZWGNPWjg5OGdIZ0pfS2JYMk1FcDI2bFd3MWdDM1R3YlE?oc=5",
-          "desc": "",
-          "title_en": "Pinnacle Food Group Appoints Dr. Yoon Hao Chen as CFO.. Financial Empowerment",
-          "title_ja": "ピナクル・フード・グループ、ユン・ハオ・チェン博士をCFOに任命",
-          "title_zh": "Pinnacle Food Group任命Yoon Hao Chen博士为首席财务官。"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "‘기능성 슈퍼푸드’로 부상한 스웨덴 K-푸드",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lLVFVQ2xIVUREWHh6ckNBZ01aZS1NWUV6cmhyTmIxMGlPREFRR2UxekdLd0NOWmY1U1ZsaTcycWp0dC1jeXFXRnVCTE95RjdNYTlqZ2Rxaw?oc=5",
-          "desc": "",
-          "title_en": "Swedish K-Food Emerges as‘ Functional Superfood ’",
-          "title_ja": "スウェーデンのK - Foodが「機能性スーパーフード」として登場",
-          "title_zh": "瑞典K-Food成为“功能性超级食品”"
-        },
         {
           "title": "“맵지 않아요” 음식 위 빨간 가루, 파프리카였어?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sRVJ3VjNNRVVvbnd6NWMwWG03T0N1NXBoYVdmT0dWWkxqX3o3VHdUc1hrb0RubjdZN1ZRUmw1QkllNy01SzBfdTFONWZTRURxclhFNVI0dw?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "“Breaded pork bar?” Lotte well food, pork bar bakery pop-up store",
           "title_ja": "「ポークバー？」ロッテウェルフード、ポークバーベーカリーポップアップストア",
           "title_zh": "「猪肉面包店？」乐天美食、猪肉面包店快闪店"
+        },
+        {
+          "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
+          "desc": "",
+          "title_en": "I take it out all week, ‘Kish Milf Wrap’",
+          "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
+          "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
         }
       ]
     }
