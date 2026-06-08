@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T04:05:28Z",
+  "lastUpdated": "2026-06-08T10:57:22Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         },
         {
-          "title": "Red Robin to sell 30 locations for $23.5M in refranchising push",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVVycHk3SG5Hdzg1Z2NrRjhBYl9heHhVU2pPdmJNM1lFVDRpTHRmUGJ6S3ZSMHdOSld2bnhQOXhmcVZqODg0eENrRkJQYVVtNS1YWHN0VEhSWE1pT0djM0hZWlAwZTBpdE56eVlkd0o3c0RKOEFKSTFMYUdwQW40N1QwQ0lNaUU5eDEyOWJvVnJjY1RBVVdZcDZ1Y0xoNXM?oc=5",
-          "desc": "",
-          "title_ko": "레드 로빈, 리프랜차이즈 푸시로 30개 지점을 $ 23.5M에 판매",
-          "title_ja": "Red Robin、30店舗を$ 2350万で売却",
-          "title_zh": "Red Robin以$ 2350万的价格出售30个地点"
-        },
-        {
           "title": "Pizza Hut appears to move further toward a sale",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
           "desc": "",
           "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
           "title_ja": "ピザハットはセールに向けてさらに動いているようです",
           "title_zh": "必胜客似乎进一步走向促销"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "30년 '암 전문의'도 매일 아침 먹는다…'이 음식' 뭐길래 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBESWFERV91QkIxbk9QMF9CbGIxaUozTzlnQ1ZKOHNzMUVHMUdzbkphaWpzSHl1WFA0UG90THJybzB4aVp0QkgxY0V2RzJjQkp3NWtDUGZreDk0QdIBVEFVX3lxTE1iSksyUURoOGdpbGszM1VGMlRfYTE0Nmo5NXEySGUxUW1zVWVJQlE0N2NBLUpELTdRZTd6WHJJRVR5RkNsV0pxZkloNzRady1EcHdiSw?oc=5",
+          "title": "\"젠슨 황 메뉴로 주세요\"…삼겹살·치킨 등 K푸드 함박웃음",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaUhHUERKWlpxVnZYdUVGaDRaa1dUNjl0TmIxOUUxc09QM3FIdVpqTUktcTFsRkZOaWs5ZVNlRl9MVlVMUGFnZUhQY0RxMkhLNnZIN2VmeVhEZ9IBVEFVX3lxTE1NOUlpQmY0RDh6TXNMUDdFRk9pRlFsQTBqWERtUU10R2dQQkhoR3JOWms4U3VuM3RlbXRDQ0NSeXBWa3JxdkhHTFZzVGJOckdPdDhCSA?oc=5",
           "desc": "",
-          "title_en": "For 30 years, 'cancer specialists' also eat breakfast every day... What is' this food '? [Health! Talk]",
-          "title_ja": "30年間、「がん専門医」も毎日朝食を食べています...「この食べ物」とは何ですか？ [Health! Talk]",
-          "title_zh": "30年来， “癌症专家”每天也吃早餐……什么是“这种食物” ？ [健康！谈话]"
+          "title_en": "\"Give me Jensen Hwang menu\" … Pork belly · Chicken, etc. K food grinning",
+          "title_ja": "「ジェンセンホワンメニューをよこせ」…豚バラ・鶏肉などK食ニヤニヤ",
+          "title_zh": "“给我Jensen Hwang菜单” ……猪肚·鸡肉等。K食物咧嘴笑"
+        },
+        {
+          "title": "\"젠슨 황 세트 주세요\"…K푸드 노출에 들썩 [퇴근길 30초 경제]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94YlpOVGVyVnFmR3JCcnJTVGpCd1NoblozZjF3ajdLMnZxUDVSdzNqM1Y2WHNBZlBLSXdrMExYYngyaFhnbTFWRlpZSTdwaWRaVFNtcEwtY0dZQdIBVEFVX3lxTE9PQzREZUdfUXJJQU04VDhFU0xqbzBISFRvRXpNT01PRkhZRnpHTHFXODRiLTJrN3YyelZSbDdsR2kwYWtOUmVBVXZWNS0tQzFKNkVFZg?oc=5",
+          "desc": "",
+          "title_en": "\"Give me the Jensen sulfur set\" … caught up in K-food exposure [30-second economy on the way home from work]",
+          "title_ja": "「ジェンセン硫黄セットをください」… K - food曝露に巻き込まれました[仕事帰りの30秒エコノミー]",
+          "title_zh": "“给我Jensen硫磺套装” ……陷入K-food暴露[下班回家的30秒经济舱]"
         },
         {
           "title": "'합성 아니에요?' 경악…비둘기 뷔페 맛집 된 길거리 음식",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96c3Y5cGVlRFVySFBjMkJFODc2NFNoT3pBMjFMcVJ3Z0NhUjlxeWRTSXZJT1RUb29HSTZWOEJqYnZianpQUU05a19XMUJ4cmRKZV9FU0t5dWVHd9IBVEFVX3lxTFBxOUdZOVpmN1QxU09USncxOUluQ1JCcmxWOWVkeXRNWmd3VnczWGJLVVNLQmsxSTMyNjNhM3RmUE50WVpIMVFSNThOdnk4Mzl1SFVkUA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuWG5aYzlSelJia19kRE9KelNlS1h5Ym5xMDQ5clB6cm9hNG5zMlZseXFkTWZPUGdQQmZvUkswbkk3Mjd4M2VMLWZKXzhiRWVXd0pEb0M5RjVPTTFnMmRXVE14ZzAwU0VETThGMnF4N1JJX085WWlJNVlPd0pVNlU?oc=5",
           "desc": "",
           "title_en": "'Isn't it synthetic?' Scared... Pigeon Buffet Gourmet Street Food",
           "title_ja": "「合成ではありませんか？」怖い…ハトビュッフェグルメ屋台フード",
           "title_zh": "“这不是合成的吗？”害怕……鸽子自助美食街头美食"
-        },
-        {
-          "title": "\"한국 치킨 그리웠다\" 1일1닭… K푸드 홍보대사 된 젠슨 황 [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ZnZZZzY1WDl4NjA5NThlRXAwQm9NVzlvV1cwNkREdnJnNzV5Vk42M2N5cU0zWkkweE1lYzVEWlpiYjR6cDhKSDYtRHEtNlczeDFjblFwVjlKQdIBVEFVX3lxTE82N1huV214bUFmY0dkWUVFWWxzb29Hem5Xa1Vod18tRnA3dlpfUExkalBwTDVaQzUxX25tREFDN1hWNEZBX3pUZi00X01pRVNZT2dEWQ?oc=5",
-          "desc": "",
-          "title_en": "\"I missed Korean chicken\" 1day1chicken… Jensen Hwang, an ambassador for K-Food [Kwon Yong-hoon's Trendwatch]",
-          "title_ja": "「韓国チキンが恋しい」1 day 1 chicken… K - FoodアンバサダーのJensen Hwangさん【Kwon Yong - hoonさんのトレンドウォッチ】",
-          "title_zh": "「我错过了韩国鸡」1day1chicken... K-Food大使Jensen Hwang [Kwon Yong-hoon's Trendwatch]"
         }
       ]
     },
@@ -167,19 +167,19 @@
         },
         {
           "title": "쿠팡, ‘로켓푸드페스타’ 연다… 4000여개 먹거리 할인",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43NkdURFRtajVwRzEzY3I0VmVoTlZiRWpUWWNqV0hoVGxWQnRFRzl3MnNkTDFnME90U1B5UU9uQS0xUGF0VVpqaURrNml5a3BRdFNV0gFTQVVfeXFMTjc2R1REVG1qNXBHMTNjcjRWZWhOVmJFalRZY2pXSGhUbFZCdEVHOXcyc2RMMWcwT3RTUHlRT25BLTFQYXRVWmppRGs2aXlrcFF0U1U?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VbXNhT29GMG9CRW9NMHlRM2gwV1JhQVlodFJCc25HWlVzT2s0Mm9Sb1JCWUdfTkNXYTVIUkp6bHVFbU5rWEcxaWVxclRodGFzbWfSAVNBVV95cUxONzZHVERUbWo1cEcxM2NyNFZlaE5WYkVqVFljaldIaFRsVkJ0RUc5dzJzZEwxZzBPdFNQeVFPbkEtMVBhdFVaamlEazZpeWtwUXRTVQ?oc=5",
           "desc": "",
           "title_en": "Coupang opens‘ Rocket Food Festa ’... More than 4,000 food discounts",
           "title_ja": "クーパンが「ロケットフードフェスタ」をオープン… 4,000以上のフードディスカウント",
           "title_zh": "Coupang开设“火箭美食节” …… 4000多个美食折扣"
         },
         {
-          "title": "핫도그 사먹으러 갔다가 ‘경악’…비둘기가 먼저 쪼아 먹는 길거리 음식",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UeTlnQkJVM0ZfMlgyLUZzR280VEwtWHdaM0ZJNzQ1TnYyU1l2VnVWZFI2VjM1dWQzYVg5cTNFYWZKeTZRdGRUU2NycWhKSmNSbVk40gFTQVVfeXFMT1R5OWdCQlUzRl8yWDItRnNHbzRUTC1Yd1ozRkk3NDVOdjJTWXZWdVZkUjZWMzV1ZDNhWDlxM0VhZkp5NlF0ZFRTY3JxaEpKY1JtWTg?oc=5",
+          "title": "CJ씨푸드1우, 매수잔량 554% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VzM2a2VVOV9kQjJJWEN5V3VJRWprd1oyTGlQeS1nVXVFVXdJOHNSWXc4WXRYSjB4YjlvWjNRV3hHdlM5R1p5UzhqRGRkY2dIQ1E?oc=5",
           "desc": "",
-          "title_en": "I was' shocked ‘when I went to buy hot dogs… street food that pigeons eat first",
-          "title_ja": "ホットドッグを買いに行ったときに「ショック」を受けました…ハトが最初に食べる屋台の食べ物",
-          "title_zh": "当我去买热狗时，我感到“震惊” ……鸽子先吃的街头食品"
+          "title_en": "CJ Seafood 1W, Buy Residual 554% Surge",
+          "title_ja": "CJシーフード1 W、残り554 ％のサージを購入",
+          "title_zh": "CJ Seafood 1W ，购买剩余554%飙升"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "乐天Well Food将于21日开设新的“猪肉吧面包”弹出式商店"
         },
         {
-          "title": "국내 최대 식품산업 전문 전시회 '서울푸드 2026' 9일 개최",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWnZOV3FOLS1YQWo0cXVMU2lNbXNFdjZwTko5d29RNmtnUDNFSDNzT0Q5M01WbWxXZEZhWTVpSHRVc0FBcVN5U3lmcVR3MkdsaUE?oc=5",
+          "title": "#베트남음식 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHNHRjI1a2JESVhtMzlfemJJcEpUZ01hS1FKV3NuWUZkT0tSeEVRc01oRk4xc2JISUgxd1U1RURoWjU0OGdvamZRMUJmSDJJWlNMY3QxOGpTM3JIX283bnhpVndPQ1dTNDBJak9jZkJDYlppR28xcVctZ1c3Y3JkLTFR?oc=5",
           "desc": "",
-          "title_en": "Held 'Seoul Food 2026', the largest exhibition specializing in the food industry in Korea, on the 9th",
-          "title_ja": "韓国最大級の食品専門展「ソウルフード2026」を9日開催",
-          "title_zh": "9日举办韩国最大的食品行业展览会“首尔食品2026”"
+          "title_en": "# Vietnamese Food (1 Posts)",
+          "title_ja": "#ベトナム料理（ 1件の投稿）",
+          "title_zh": "#越南美食（ 1个帖子）"
         },
         {
-          "title": "[게시판] 롯데웰푸드, 세이브더칠드런과 '해피홈 14호' 조성 협약",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMmV6NW5fc2NCY3BRMl9FWV8wVnFHQmdrUVZoQ2wyM3g0UmxyOUwyNENWR2UxNjRQaGJOc21CRlNIR0VMeEo1ckZBNzVBQkdPV0E?oc=5",
+          "title": "피너클 푸드 그룹, 윤하오 첸 박사 CFO 선임..재무 역량 강화",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rOG83ODJITkxMTHhQSWFRYng2eXBmaHpqb3hOdFJpM1luRkhOSzRqMFhZWGNPWjg5OGdIZ0pfS2JYMk1FcDI2bFd3MWdDM1R3YlE?oc=5",
           "desc": "",
-          "title_en": "[Bulletin Board] Lotte Well Food, Save the Children and 'Happy Home No. 14' Creation Agreement",
-          "title_ja": "【掲示板】ロッテウェルフード、セーブ・ザ・チルドレン、「ハッピーホームNo.14」結成契約",
-          "title_zh": "【公告栏】乐天健康食品、救助儿童会和《14号幸福家园》创作协议"
+          "title_en": "Pinnacle Food Group Appoints Dr. Yoon Hao Chen as CFO.. Financial Empowerment",
+          "title_ja": "ピナクル・フード・グループ、ユン・ハオ・チェン博士をCFOに任命",
+          "title_zh": "Pinnacle Food Group任命Yoon Hao Chen博士为首席财务官。"
         }
       ]
     },
