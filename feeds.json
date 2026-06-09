@@ -1,95 +1,20 @@
 {
-  "lastUpdated": "2026-06-09T03:35:36Z",
+  "lastUpdated": "2026-06-09T09:45:07Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
-          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
-          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
-        },
-        {
-          "title": "Pizza Hut appears to move further toward a sale",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkZya08wSG8zeXRXejhoalRPY0kyNlFLQTQ4UEdGamZnRXh4SmZaZTlid3NValAyeUFyTWNzQlcwN1gxOWNENk9XWWFZb2pxTnBzNWxQSEJVQnBrNDh3RnhlREZzQ3hIVktIR1BDUDJxM0xVaDAtNVRwTENjS2pCQWNGSTloQU1XNkdXT0lEbmxGMUk?oc=5",
-          "desc": "",
-          "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
-          "title_ja": "ピザハットはセールに向けてさらに動いているようです",
-          "title_zh": "必胜客似乎进一步走向促销"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": [
-        {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
-          "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
-        }
-      ]
+      "items": []
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": [
-        {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
-          "desc": "",
-          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
-          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        }
-      ]
+      "items": []
     },
     "eater": {
       "label": "Eater",
@@ -126,122 +51,22 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "축의금 16만원 냈는데…식탁엔 식은 맥도날드 음식 '시끌'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96akdvY3NXbmEyMFlPTGRkVFFWRkV5V25ITXpVcmVMaXpkaG40OGprMFBBX1ZuX2lQbDNzM1BpbERtWVZzMGhGTFpPcnpZVFdRLWxsak9kX1JHQdIBVEFVX3lxTFBKMGhVN3gtalNZOGdlZkFQeGNMb2p3T0dQWTFZZjlqODQ1dmk5bGdFczIxb3VxT3FBVHVXaUVzeVdUZU1vSDF5V0J1T1hBYzI5eXVPZw?oc=5",
-          "desc": "",
-          "title_en": "I paid 160,000 won for the celebration... On the table is a cold McDonald's food 'Seedlery'",
-          "title_ja": "私はお祝いのために16万ウォンを支払いました...テーブルの上には冷たいマクドナルドの食べ物「シードラリー」があります",
-          "title_zh": "我为庆祝活动支付了16万韩元......桌子上是冷麦当劳的食物“Seedlery”"
-        },
-        {
-          "title": "\"젠슨 황 메뉴로 주세요\"…삼겹살·치킨 등 K푸드 함박웃음",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaUhHUERKWlpxVnZYdUVGaDRaa1dUNjl0TmIxOUUxc09QM3FIdVpqTUktcTFsRkZOaWs5ZVNlRl9MVlVMUGFnZUhQY0RxMkhLNnZIN2VmeVhEZ9IBVEFVX3lxTE1NOUlpQmY0RDh6TXNMUDdFRk9pRlFsQTBqWERtUU10R2dQQkhoR3JOWms4U3VuM3RlbXRDQ0NSeXBWa3JxdkhHTFZzVGJOckdPdDhCSA?oc=5",
-          "desc": "",
-          "title_en": "\"Give me Jensen Hwang menu\" … Pork belly · Chicken, etc. K food grinning",
-          "title_ja": "「ジェンセンホワンメニューをよこせ」…豚バラ・鶏肉などK食ニヤニヤ",
-          "title_zh": "“给我Jensen Hwang菜单” ……猪肚·鸡肉等。K食物咧嘴笑"
-        },
-        {
-          "title": "30년 '암 전문의'도 매일 아침 먹는다…\"최고의 식품\" 극찬 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBESWFERV91QkIxbk9QMF9CbGIxaUozTzlnQ1ZKOHNzMUVHMUdzbkphaWpzSHl1WFA0UG90THJybzB4aVp0QkgxY0V2RzJjQkp3NWtDUGZreDk0QdIBVEFVX3lxTE1iSksyUURoOGdpbGszM1VGMlRfYTE0Nmo5NXEySGUxUW1zVWVJQlE0N2NBLUpELTdRZTd6WHJJRVR5RkNsV0pxZkloNzRady1EcHdiSw?oc=5",
-          "desc": "",
-          "title_en": "Thirty-year 'cancer specialist' also eats breakfast every day… \"The best food\" praised highly [Health! Talk]",
-          "title_ja": "30代の「がん専門医」も毎日朝食を食べています…「最高の食べ物」が高く評価されています[Health! Talk]",
-          "title_zh": "三十岁的'癌症专家'每天也吃早餐…… '最好的食物'受到高度赞扬[健康！谈话]"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": [
-        {
-          "title": "푸드나무, 대주주 김우주 대표로 변경…“플랫폼 경쟁력 제고”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzYV8waFJ6bWQyTklpS3VkV0lxR0h1d2ppNHVHaHkwV2RRSjZ4RWpkZDVSS0praWFjY2Y4Ym9qcWxHVXBuRnJYdlVpUXB5NFFxU3fSAVNBVV95cUxNc05QNnRGSkItQmxfNGNMUWlQQ2NucDdQNThlekJLejlmLVRIaDBLQjVKd21fb2ZKaFZWRlAzazBfekJ1UnJvSkZ0TExFUC0yb19Taw?oc=5",
-          "desc": "",
-          "title_en": "Food tree changes to CEO Kim Woo-ju of Major Juju… “Improve platform competitiveness”",
-          "title_ja": "フードツリーは、Juju少佐の最高経営責任者（ CEO ） Kim Woo - juに変更されました…「プラットフォームの競争力を向上させる」",
-          "title_zh": "Juju少校首席执行官Kim Woo-ju的食物树变更…… “提高平台竞争力”"
-        },
-        {
-          "title": "동원F&B, 미래 식품 콘퍼런스 ‘월드푸드테크 컨펙스’서 최고상 수상",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkMHBRMENsNFZmdEwyTDNrZHR2NklwTy1fOTFEY0N3SDFkWGFLdkhjME53eHFmZ1BBNU10czZ3NDlsN2N6ZDlSdWZfQ0lzVk1wLWfSAVNBVV95cUxQM2dEaWVtWUNFUkFVY0JISTg0M2I3UFBBNWVtRnlkUE5OQ2UtRnV0RVJZNE14azNNb2pZa0pERHdyOEV1cWNsTXJNdHRiLWdhRDdQRQ?oc=5",
-          "desc": "",
-          "title_en": "Dongwon F&B wins top prize at future food conference ‘World Food Tech Confex'",
-          "title_ja": "Dongwon F&B、将来のフードカンファレンス「World Food Tech Confex」でトップ賞を受賞",
-          "title_zh": "东原餐饮在未来的食品大会“世界粮食技术大会”上赢得最高奖项"
-        },
-        {
-          "title": "[남도음식 서울나들이] 걸판진 '남도맛' 보러오세요",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhVWFiZHQtRVlZZ1lnS1ZGaHNLQmZqV0Uzdl9HZEdLSXBraEw1cUJJb0NteXZqOGdFVlF0akdUZXBFblg3dWQ4VkRoTHhfNXlnSzV3?oc=5",
-          "desc": "",
-          "title_en": "[Namdo Food Seoul Outing] Come and see the 'Namdo Flavor' of Gulpanjin",
-          "title_ja": "【ナムドフードソウルアウト】グルパンジンの「ナムドフレーバー」を堪能しよう",
-          "title_zh": "[首尔南道美食郊游]来参观Gulpanjin的「南道风味」"
-        }
-      ]
+      "items": []
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": [
-        {
-          "title": "aT \"러시아서 K푸드 수요 확인…2천110만달러 수출상담 성과\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXZ3NSVzhZdEhXbm94cEE5ZmNjaU80OXV1dE54OXhpZUR3eVl5al9EY0lnSlVENDgtcW0zSHRvYTM4MTZSLXhKSlRZTUJDTjh2YkE?oc=5",
-          "desc": "",
-          "title_en": "aT \"Confirmation of demand for K-food in Russia... Achievement of $21.1 million export consultation\"",
-          "title_ja": "aT「ロシアにおけるK - food需要の確認・・・輸出協議額2110万ドル達成」",
-          "title_zh": "aT “确认俄罗斯对K-food的需求......实现了2110万美元的出口咨询”"
-        },
-        {
-          "title": "동원그룹, 지속가능 어업·푸드테크 공로로 잇따라 수상",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyLU5oVWRuWmN1WUtRakdsRUtVZUZIMDZoTk5qaVpHbXNhbmNveE4xTXRyQjZnbXNsSHZKTzFiRFdzMGVMOGpnMm1UazNQVXhqX0E?oc=5",
-          "desc": "",
-          "title_en": "Dongwon Group Receives Subsequent Awards for its Sustainable Fishing and Food Tech",
-          "title_ja": "Dongwon Group、持続可能な漁業と食品技術でその後の賞を受賞",
-          "title_zh": "东元集团因其可持续渔业和食品技术获得后续奖项"
-        },
-        {
-          "title": "식품 전시회 '서울푸드 2026' 개막…1천800개 기업 참여",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RQ3ROMEhPWVFqVTJpT3A2ak84R0F1aXZaa3ZxYmRXX2tkUnBZalVJUnVvSjFGRldwMnlpZ3BPNFF0aFZvVXhzOVNMTi1oWjZPSmc?oc=5",
-          "desc": "",
-          "title_en": "Opening of the food exhibition 'Seoul Food 2026' … Participated in 1,800 companies",
-          "title_ja": "食品展示会「ソウルフード2026」開幕… 1,800社参加",
-          "title_zh": "食品展“首尔食品2026”开幕……参展企业1800家"
-        }
-      ]
+      "items": []
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "“빵이 된 돼지바?” 롯데웰푸드, 돼지바 빵집 팝업스토어",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VNzZYZWlxVlVJWDVIVGhiQk40b0pBcFBtQmo5czlRM3RmX0xGdEphdWpZUGg1SEtRdnBFZjB1ZkozWTRMT056Q0gzZzJQT09DSUtWQmNiZw?oc=5",
-          "desc": "",
-          "title_en": "“Breaded pork bar?” Lotte well food, pork bar bakery pop-up store",
-          "title_ja": "「ポークバー？」ロッテウェルフード、ポークバーベーカリーポップアップストア",
-          "title_zh": "「猪肉面包店？」乐天美食、猪肉面包店快闪店"
-        },
-        {
-          "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
-          "desc": "",
-          "title_en": "I take it out all week, ‘Kish Milf Wrap’",
-          "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
-          "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
-        },
-        {
-          "title": "블루보틀식 디저트 페어링…블루보틀, 디저트 메뉴 강화",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YVjFuR1V5TGdMTXN6dzFFMDltSmlvekswTW9yRG1UUWFzeGRycG5RMDctMnp4UzVpejlJdENQWnJsbnphUWRfSDNIenlpTnlsRndabUFHcw?oc=5",
-          "desc": "",
-          "title_en": "Blue bottle style dessert pairing… Blue bottle enhances dessert menu",
-          "title_ja": "ブルーボトルスタイルデザートペアリング…ブルーボトルがデザートメニューを強化",
-          "title_zh": "蓝瓶风格甜点搭配…蓝瓶提升甜点菜单"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
