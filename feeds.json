@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T22:39:52Z",
+  "lastUpdated": "2026-06-09T03:35:36Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -15,7 +15,7 @@
         },
         {
           "title": "Pizza Hut appears to move further toward a sale",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJra2NySUctYzgxMG1kUTBHaGdVakNTZ0FaeGRDX0dRbWZrWEJDRE5MUzB1QmpRMnFWMDFFeDkyazJaSDlxM0VsV1I3ZG9NeWExRzF5andhR0QyU1NtM2pUaElFaWowQWJIeDdCU2lZbzF3WjVPT3gwYm5YY2pVcERoV3lzRGxLMU13OWpCay10LUloSzBFbw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkZya08wSG8zeXRXejhoalRPY0kyNlFLQTQ4UEdGamZnRXh4SmZaZTlid3NValAyeUFyTWNzQlcwN1gxOWNENk9XWWFZb2pxTnBzNWxQSEJVQnBrNDh3RnhlREZzQ3hIVktIR1BDUDJxM0xVaDAtNVRwTENjS2pCQWNGSTloQU1XNkdXT0lEbmxGMUk?oc=5",
           "desc": "",
           "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
           "title_ja": "ピザハットはセールに向けてさらに動いているようです",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "축의금 16만원 냈는데…식탁엔 식은 맥도날드 음식 '시끌'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96akdvY3NXbmEyMFlPTGRkVFFWRkV5V25ITXpVcmVMaXpkaG40OGprMFBBX1ZuX2lQbDNzM1BpbERtWVZzMGhGTFpPcnpZVFdRLWxsak9kX1JHQdIBVEFVX3lxTFBKMGhVN3gtalNZOGdlZkFQeGNMb2p3T0dQWTFZZjlqODQ1dmk5bGdFczIxb3VxT3FBVHVXaUVzeVdUZU1vSDF5V0J1T1hBYzI5eXVPZw?oc=5",
+          "desc": "",
+          "title_en": "I paid 160,000 won for the celebration... On the table is a cold McDonald's food 'Seedlery'",
+          "title_ja": "私はお祝いのために16万ウォンを支払いました...テーブルの上には冷たいマクドナルドの食べ物「シードラリー」があります",
+          "title_zh": "我为庆祝活动支付了16万韩元......桌子上是冷麦当劳的食物“Seedlery”"
+        },
+        {
           "title": "\"젠슨 황 메뉴로 주세요\"…삼겹살·치킨 등 K푸드 함박웃음",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaUhHUERKWlpxVnZYdUVGaDRaa1dUNjl0TmIxOUUxc09QM3FIdVpqTUktcTFsRkZOaWs5ZVNlRl9MVlVMUGFnZUhQY0RxMkhLNnZIN2VmeVhEZ9IBVEFVX3lxTE1NOUlpQmY0RDh6TXNMUDdFRk9pRlFsQTBqWERtUU10R2dQQkhoR3JOWms4U3VuM3RlbXRDQ0NSeXBWa3JxdkhHTFZzVGJOckdPdDhCSA?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "“给我Jensen Hwang菜单” ……猪肚·鸡肉等。K食物咧嘴笑"
         },
         {
-          "title": "'합성 아니에요?' 경악…비둘기 뷔페 맛집 된 길거리 음식",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObUl3TTJVdTNwOG8wRkdnMVpvNWZSQk5oN21jcEJtekZ4LWVGMktoRVRTcnJrcXJOVmlzSDltamRjZlV0c0dKMzdFTmthZUtZWHFJWk5IR0l5WC05YV9tN2NjX3lXUEFiUXNFMEFJNWtvUVNzMlc2dWhfaGstRjJIZ2ZHX0dpalk?oc=5",
+          "title": "30년 '암 전문의'도 매일 아침 먹는다…\"최고의 식품\" 극찬 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBESWFERV91QkIxbk9QMF9CbGIxaUozTzlnQ1ZKOHNzMUVHMUdzbkphaWpzSHl1WFA0UG90THJybzB4aVp0QkgxY0V2RzJjQkp3NWtDUGZreDk0QdIBVEFVX3lxTE1iSksyUURoOGdpbGszM1VGMlRfYTE0Nmo5NXEySGUxUW1zVWVJQlE0N2NBLUpELTdRZTd6WHJJRVR5RkNsV0pxZkloNzRady1EcHdiSw?oc=5",
           "desc": "",
-          "title_en": "'Isn't it synthetic?' Scared... Pigeon Buffet Gourmet Street Food",
-          "title_ja": "「合成ではありませんか？」怖い…ハトビュッフェグルメ屋台フード",
-          "title_zh": "“这不是合成的吗？”害怕……鸽子自助美食街头美食"
-        },
-        {
-          "title": "축의금 16만원 냈는데…식탁엔 식은 맥도날드 음식 '시끌'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96akdvY3NXbmEyMFlPTGRkVFFWRkV5V25ITXpVcmVMaXpkaG40OGprMFBBX1ZuX2lQbDNzM1BpbERtWVZzMGhGTFpPcnpZVFdRLWxsak9kX1JHQdIBVEFVX3lxTFBKMGhVN3gtalNZOGdlZkFQeGNMb2p3T0dQWTFZZjlqODQ1dmk5bGdFczIxb3VxT3FBVHVXaUVzeVdUZU1vSDF5V0J1T1hBYzI5eXVPZw?oc=5",
-          "desc": "",
-          "title_en": "I paid 160,000 won for the celebration... On the table is a cold McDonald's food 'Seedlery'",
-          "title_ja": "私はお祝いのために16万ウォンを支払いました...テーブルの上には冷たいマクドナルドの食べ物「シードラリー」があります",
-          "title_zh": "我为庆祝活动支付了16万韩元......桌子上是冷麦当劳的食物“Seedlery”"
+          "title_en": "Thirty-year 'cancer specialist' also eats breakfast every day… \"The best food\" praised highly [Health! Talk]",
+          "title_ja": "30代の「がん専門医」も毎日朝食を食べています…「最高の食べ物」が高く評価されています[Health! Talk]",
+          "title_zh": "三十岁的'癌症专家'每天也吃早餐…… '最好的食物'受到高度赞扬[健康！谈话]"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“나쁜 콜레스테롤 줄었다”…전문가들이 매일 먹으라고 말한 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oQmZXY0VpME1ZQmdaRnAtYzJhcHNTbUxueVphTjNWZmhaYUpKc3Z0QUgxNFJMQ0h3T2VpdVFjZU9OaEdUTXBVdGZLQWRNT21FS0HSAVNBVV95cUxNbGJXem03cEZGUFBoc1EtMDRiSjdRXzR3RC1tR010Z0xQaWg5TkRMcnlLUndsdzVKRGhVSE1BWkZiT2g2UEpBcXpTcFh4QnU4bmJZNA?oc=5",
+          "title": "푸드나무, 대주주 김우주 대표로 변경…“플랫폼 경쟁력 제고”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzYV8waFJ6bWQyTklpS3VkV0lxR0h1d2ppNHVHaHkwV2RRSjZ4RWpkZDVSS0praWFjY2Y4Ym9qcWxHVXBuRnJYdlVpUXB5NFFxU3fSAVNBVV95cUxNc05QNnRGSkItQmxfNGNMUWlQQ2NucDdQNThlekJLejlmLVRIaDBLQjVKd21fb2ZKaFZWRlAzazBfekJ1UnJvSkZ0TExFUC0yb19Taw?oc=5",
           "desc": "",
-          "title_en": "“Reduced bad cholesterol” … ‘this food‘ that experts tell you to eat every day [heal time]",
-          "title_ja": "「悪玉コレステロールの低減」…専門家が毎日食べるように指示する「この食べ物」[ヒールタイム]",
-          "title_zh": "“降低坏胆固醇” ……专家告诉你每天吃的“这种食物” [治愈时间]"
+          "title_en": "Food tree changes to CEO Kim Woo-ju of Major Juju… “Improve platform competitiveness”",
+          "title_ja": "フードツリーは、Juju少佐の最高経営責任者（ CEO ） Kim Woo - juに変更されました…「プラットフォームの競争力を向上させる」",
+          "title_zh": "Juju少校首席执行官Kim Woo-ju的食物树变更…… “提高平台竞争力”"
         },
         {
-          "title": "쿠팡, ‘로켓푸드페스타’ 연다… 4000여개 먹거리 할인",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VbXNhT29GMG9CRW9NMHlRM2gwV1JhQVlodFJCc25HWlVzT2s0Mm9Sb1JCWUdfTkNXYTVIUkp6bHVFbU5rWEcxaWVxclRodGFzbWfSAVNBVV95cUxONzZHVERUbWo1cEcxM2NyNFZlaE5WYkVqVFljaldIaFRsVkJ0RUc5dzJzZEwxZzBPdFNQeVFPbkEtMVBhdFVaamlEazZpeWtwUXRTVQ?oc=5",
+          "title": "동원F&B, 미래 식품 콘퍼런스 ‘월드푸드테크 컨펙스’서 최고상 수상",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkMHBRMENsNFZmdEwyTDNrZHR2NklwTy1fOTFEY0N3SDFkWGFLdkhjME53eHFmZ1BBNU10czZ3NDlsN2N6ZDlSdWZfQ0lzVk1wLWfSAVNBVV95cUxQM2dEaWVtWUNFUkFVY0JISTg0M2I3UFBBNWVtRnlkUE5OQ2UtRnV0RVJZNE14azNNb2pZa0pERHdyOEV1cWNsTXJNdHRiLWdhRDdQRQ?oc=5",
           "desc": "",
-          "title_en": "Coupang opens‘ Rocket Food Festa ’... More than 4,000 food discounts",
-          "title_ja": "クーパンが「ロケットフードフェスタ」をオープン… 4,000以上のフードディスカウント",
-          "title_zh": "Coupang开设“火箭美食节” …… 4000多个美食折扣"
+          "title_en": "Dongwon F&B wins top prize at future food conference ‘World Food Tech Confex'",
+          "title_ja": "Dongwon F&B、将来のフードカンファレンス「World Food Tech Confex」でトップ賞を受賞",
+          "title_zh": "东原餐饮在未来的食品大会“世界粮食技术大会”上赢得最高奖项"
         },
         {
-          "title": "(주)씨엔에스푸드시스템 News & Stock Coverage",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44SDJiWnppd0g3ZHppTDlUSVcwQVpjUnIzbVVJbXNqME9KYjgycGVlZDEtQU4zOVBDNmw0WTNUNERCd2ZLQkpzd3drVGtEOTh0Wl9zQXJoZkZHVjlSTElWZE93Zw?oc=5",
+          "title": "[남도음식 서울나들이] 걸판진 '남도맛' 보러오세요",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhVWFiZHQtRVlZZ1lnS1ZGaHNLQmZqV0Uzdl9HZEdLSXBraEw1cUJJb0NteXZqOGdFVlF0akdUZXBFblg3dWQ4VkRoTHhfNXlnSzV3?oc=5",
           "desc": "",
-          "title_en": "CNS Food System Co., Ltd. News & Stock Coverage",
-          "title_ja": "CNSフードシステム株式会社ニュース＆ストックカバレッジ",
-          "title_zh": "CNS Food System Co., Ltd.新闻与库存报道"
+          "title_en": "[Namdo Food Seoul Outing] Come and see the 'Namdo Flavor' of Gulpanjin",
+          "title_ja": "【ナムドフードソウルアウト】グルパンジンの「ナムドフレーバー」を堪能しよう",
+          "title_zh": "[首尔南道美食郊游]来参观Gulpanjin的「南道风味」"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "aT \"러시아서 K푸드 수요 확인…2천110만달러 수출상담 성과\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXZ3NSVzhZdEhXbm94cEE5ZmNjaU80OXV1dE54OXhpZUR3eVl5al9EY0lnSlVENDgtcW0zSHRvYTM4MTZSLXhKSlRZTUJDTjh2YkE?oc=5",
+          "desc": "",
+          "title_en": "aT \"Confirmation of demand for K-food in Russia... Achievement of $21.1 million export consultation\"",
+          "title_ja": "aT「ロシアにおけるK - food需要の確認・・・輸出協議額2110万ドル達成」",
+          "title_zh": "aT “确认俄罗斯对K-food的需求......实现了2110万美元的出口咨询”"
+        },
+        {
+          "title": "동원그룹, 지속가능 어업·푸드테크 공로로 잇따라 수상",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyLU5oVWRuWmN1WUtRakdsRUtVZUZIMDZoTk5qaVpHbXNhbmNveE4xTXRyQjZnbXNsSHZKTzFiRFdzMGVMOGpnMm1UazNQVXhqX0E?oc=5",
+          "desc": "",
+          "title_en": "Dongwon Group Receives Subsequent Awards for its Sustainable Fishing and Food Tech",
+          "title_ja": "Dongwon Group、持続可能な漁業と食品技術でその後の賞を受賞",
+          "title_zh": "东元集团因其可持续渔业和食品技术获得后续奖项"
+        },
+        {
           "title": "식품 전시회 '서울푸드 2026' 개막…1천800개 기업 참여",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RQ3ROMEhPWVFqVTJpT3A2ak84R0F1aXZaa3ZxYmRXX2tkUnBZalVJUnVvSjFGRldwMnlpZ3BPNFF0aFZvVXhzOVNMTi1oWjZPSmc?oc=5",
           "desc": "",
           "title_en": "Opening of the food exhibition 'Seoul Food 2026' … Participated in 1,800 companies",
           "title_ja": "食品展示会「ソウルフード2026」開幕… 1,800社参加",
           "title_zh": "食品展“首尔食品2026”开幕……参展企业1800家"
-        },
-        {
-          "title": "타이슨 푸드, 웨스 모리스 COO 선임..20년 경력 운영 전문가 영입",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lb1pTa1h2UzRXRFpCZjV2cE5ra2FQWDNLSVcySmxuaF9TRkktVzI4bEZsOTU0ZmpkRXdtYkJCSDVKbnZKdUpfU0N6bGZyeHJjYlE?oc=5",
-          "desc": "",
-          "title_en": "Tyson Foods Appoints Wes Morris as COO, 20-Year Operations Expert",
-          "title_ja": "タイソン・フーズ、Wes MorrisをCOOに任命、20年にわたるオペレーションエキスパート",
-          "title_zh": "泰森食品任命Wes Morris为20年运营专家的首席运营官"
-        },
-        {
-          "title": "롯데웰푸드, 21일까지 신제품 '돼지바빵' 팝업스토어 개설",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RVkRYdTZsVlhWd2NXLW5RajFYSEJsSHJPRDQwaXZoUmtUc1RGbmNYNTBMSGs5NklGWlowbEZLcmRfQlNLV1Eta1pTRkNuVVJ6TmJfQw?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food to open new 'Pork Bar Bread' pop-up store by 21st",
-          "title_ja": "ロッテウェルフード、21日までに新しい「ポークバーブレッド」ポップアップストアをオープン",
-          "title_zh": "乐天Well Food将于21日开设新的“猪肉吧面包”弹出式商店"
         }
       ]
     },
