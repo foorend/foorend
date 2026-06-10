@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T20:31:00Z",
+  "lastUpdated": "2026-06-10T22:51:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "公众为“K-Food智能制造”牵手"
         },
         {
-          "title": "성남산단, 국내 첫 '푸드테크 AI 리더스포럼' 참가자 모집",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9McGZ2ZUVjSzZoUDJ3N3pNOWljR19kcHBZNmlfQ3hFQW1oR0poV1NqUDFYc1piQXBVX3BKcTcyZzFOY1dEZTZQSjhuVjQ2TFdjcmN3UUhiRkhLQdIBVEFVX3lxTE92bW42dUlXclJKWmhSa3E3UW1mQWZtdVFyT2p0bnVTa253UHp5QjNGQ295TC1MRTJWVVdJcER2amplT3ZUbzRpQW0zNDI3R1kyQWRtOQ?oc=5",
-          "desc": "",
-          "title_en": "Seongnam Sandan Recruits Participants for Korea's First Food Tech AI Leaders Forum",
-          "title_ja": "ソンナムサンダンが韓国初のフードテックAIリーダーフォーラムの参加者を募集",
-          "title_zh": "Seongnam Sandan招募韩国首届食品技术人工智能领袖论坛的参与者"
-        },
-        {
           "title": "태국 상무부 국제무역진흥국(DITP), 서울푸드앤호텔 2026 참가",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52d2phMW9zTzBjZEtuREU0bkk2ZmtNLVNKNlRCZzkydU5UdFdJZTRqaE5Ub1g4RmNRc1ZTcl9FYUtqbTVXdnB1aWc4eUpoU2YyMEl5NXJVdUJ4ZWF6Y05vVm43VVNHUGQw?oc=5",
           "desc": "",
           "title_en": "Thailand's Ministry of Commerce and International Trade Promotion (DITP) to Participate in Seoul Food & Hotel 2026",
           "title_ja": "タイ商務・国際貿易振興省（ DITP ）、ソウル・フード＆ホテル2026に参加",
           "title_zh": "泰国商务和国际贸易促进部（ DITP ）将参加2026年首尔美食与酒店展"
+        },
+        {
+          "title": "역대 최대 규모 K푸드 전시",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RV0JidmpoeWh4Z0hBOWJGd0hNSlpTSE9GblhvT2o3MUZTdHhNSEpxbGtIUFZoaDVBcEZ5QnM5X0lzS0wwMUd4X0k3aUlZV0RSVC1qQTltRE41Nm94WUdXRkx6ZVEwWjdmSDZ0ZmhySjlDSy1OLWRGdzlMUWpPVlE?oc=5",
+          "desc": "",
+          "title_en": "Largest K-food exhibition ever",
+          "title_ja": "史上最大のK - food展",
+          "title_zh": "有史以来最大的K-food展览"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“이걸 전자레인지에 돌려 먹는다고?”…의사가 콕 집어 경고한 음식 3가지 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wZWREdUZyWWlqVWRSZjF3SjViM1o2OXJZZ1JkNG52YVVwZjFDbXR0RUpZQVdnWEYyT2hVNlhYWW9BWjlrUWRqNnZFakxyMEV4WmfSAVNBVV95cUxPcDh0aGt2cHNRSTJ5bzliUmt2WGRuc3UtZ0I1N2s4ek5KNlJYeGxGV3lPeVVidEs0TVdGYXJCZ0p2alVMUDRGYk5FdmVqRWJvWjBPSQ?oc=5",
+          "desc": "",
+          "title_en": "“Spin this in the microwave?” … 3 foods your doctor picked up and warned you about [Healthy Time]",
+          "title_ja": "「これを電子レンジで回しますか？「…主治医が拾ってきて、[Healthy Time]について警告した3つの食べ物",
+          "title_zh": "“在微波炉里旋转这个？“ ……医生挑选了3种食物，并警告您[Healthy Time]"
+        },
         {
           "title": "CJ프레시웨이, ‘교대이층집’ 세광그린푸드와 600억 식자재 공급 계약",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KNUdVdGxUd2FaX3ZLS1FIeFZiSE9DN2VYbE5oVEtMSzdaOVRwMHhIQUVld0VzRjRXMk1iM19zQVMwUHBZNmRBNTExTF8zNi1TdHfSAVNBVV95cUxPWTdDM2Y2STR3Q0lCQmdTWGlveks0dlIxTGVtTHhPbzdUUGNJWDBhWUVVdlZvWFYtX01VNkNfLW9KTUVxSlRaUmY3OXhKbjBldU1ETQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Chicken followed by walnut sweets… Jensen Hwang, K food rope topic",
           "title_ja": "チキンに続いてクルミのお菓子… Jensen Hwang、Kフードロープの話題",
           "title_zh": "鸡肉，然后是核桃糖果…… Jensen Hwang, K food rope topic"
-        },
-        {
-          "title": "역대 최대 규모 K푸드 전시 열린다…‘서울푸드 2026’ 개막",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05b1g0N25EUXNnVUhwZlduX3lUb1dFRnlydk9IOXhZalFvQ2ZMOU5KRjRYUmZfTHJkWFh0ZWQ5dUY4WFp1U3J0N3hIcGp4MS1IOWfSAVNBVV95cUxPdVRsMWFtVk5qVHpuTXQ0LUVMc0JFV3RPSktrdGJabFF2a3BQVkRyZEJHTkdnNklEZWoyQ1pZSGZBTXhabkV3b1g4SmRXVE5vRVlvQQ?oc=5",
-          "desc": "",
-          "title_en": "The largest K-Food exhibition ever will be held… Opening of ‘Seoul Food 2026’",
-          "title_ja": "史上最大規模のK - Food展を開催…「ソウルフード2026」開幕",
-          "title_zh": "有史以来规模最大的K-Food展会将举行…… “首尔食品2026”开幕"
         }
       ]
     },
