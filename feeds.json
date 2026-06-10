@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T22:24:06Z",
+  "lastUpdated": "2026-06-10T03:49:35Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         },
         {
+          "title": "Burger chains rethink plant-based burgers, putting the focus on vegetables",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWW9aU24wYUg2dGZ6Z3oteXJLNmUtdk9xTDQ5Z2o3ZTdHZG5KdmFTX0RBOGhDRlhCLWpYOWhTcFJ5U25Ra2VoUG10OG9lUmplcUx0QS15d2R5Tnc5cVMydGZYWjFGeU13NFJ6d3Z6bk5hekotSnhqTi1VR1RFRlptS091MldkMGRzY09SdzNTYjFla3ZXU2Q0MC1mcWpMZnVjbklzeGlsUU1zcEtr?oc=5",
+          "desc": "",
+          "title_ko": "햄버거 체인은 식물성 햄버거를 재고하여 야채에 중점을 둡니다.",
+          "title_ja": "ハンバーガーチェーンは植物ベースのハンバーガーを再考し、野菜に焦点を当てています",
+          "title_zh": "汉堡连锁店重新考虑植物性汉堡，将重点放在蔬菜上"
+        },
+        {
           "title": "No bones about it: A rib heist leaves Shake Shack in a pickle",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXZ2VFN6SVNGbVdDNDlSeGxYU2FqWDdUN1FXbzVhLUEtVTFCMWxPelhFRm5EbGY1UndKMFQwMDZBaEQ3TVliTHRJUFhLSXZEZXAwQVYxMWtTdE9IZlBJdTZZc0p6YWtGLWxlRTZVcWRacnRLWU5RVlEtV3lUcTNpN2huU25tc3JxNDFOTEZhZTFsVDVoMHBabVRMNUlGM1A3dlE?oc=5",
           "desc": "",
           "title_ko": "뼈 없음: 갈비뼈 강도가 Shake Shack을 피클에 남겨 둡니다.",
           "title_ja": "骨がない：リブ強盗がシェイクシャックを漬物にした",
           "title_zh": "没有骨头：肋骨抢劫使Shake Shack陷入了泡菜之中"
-        },
-        {
-          "title": "Pizza Hut appears to move further toward a sale",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkZya08wSG8zeXRXejhoalRPY0kyNlFLQTQ4UEdGamZnRXh4SmZaZTlid3NValAyeUFyTWNzQlcwN1gxOWNENk9XWWFZb2pxTnBzNWxQSEJVQnBrNDh3RnhlREZzQ3hIVktIR1BDUDJxM0xVaDAtNVRwTENjS2pCQWNGSTloQU1XNkdXT0lEbmxGMUk?oc=5",
-          "desc": "",
-          "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
-          "title_ja": "ピザハットはセールに向けてさらに動いているようです",
-          "title_zh": "必胜客似乎进一步走向促销"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "성남산단, 국내 첫 '푸드테크 AI 리더스포럼' 참가자 모집",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9McGZ2ZUVjSzZoUDJ3N3pNOWljR19kcHBZNmlfQ3hFQW1oR0poV1NqUDFYc1piQXBVX3BKcTcyZzFOY1dEZTZQSjhuVjQ2TFdjcmN3UUhiRkhLQdIBVEFVX3lxTE92bW42dUlXclJKWmhSa3E3UW1mQWZtdVFyT2p0bnVTa253UHp5QjNGQ295TC1MRTJWVVdJcER2amplT3ZUbzRpQW0zNDI3R1kyQWRtOQ?oc=5",
+          "desc": "",
+          "title_en": "Seongnam Sandan Recruits Participants for Korea's First Food Tech AI Leaders Forum",
+          "title_ja": "ソンナムサンダンが韓国初のフードテックAIリーダーフォーラムの参加者を募集",
+          "title_zh": "Seongnam Sandan招募韩国首届食品技术人工智能领袖论坛的参与者"
+        },
+        {
           "title": "태국 상무부 국제무역진흥국(DITP), 서울푸드앤호텔 2026 참가",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52d2phMW9zTzBjZEtuREU0bkk2ZmtNLVNKNlRCZzkydU5UdFdJZTRqaE5Ub1g4RmNRc1ZTcl9FYUtqbTVXdnB1aWc4eUpoU2YyMEl5NXJVdUJ4ZWF6Y05vVm43VVNHUGQw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Largest K-food exhibition ever",
           "title_ja": "史上最大のK - food展",
           "title_zh": "有史以来最大的K-food展览"
-        },
-        {
-          "title": "'서울푸드 2026' 역대 최대 규모 개최…49개국 1800개사 참가",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KS1h1YXp2R2N4cDNIX1NyTUZZVWFKTDhEczhoSGxCYURGcnN6RFk2SWt3RHI0RHExeEtLS05mRkdUaU5nT1oxM2lMMFp2MlBmd1Q5Q9IBVEFVX3lxTE9KS1h1YXp2R2N4cDNIX1NyTUZZVWFKTDhEczhoSGxCYURGcnN6RFk2SWt3RHI0RHExeEtLS05mRkdUaU5nT1oxM2lMMFp2MlBmd1Q5Qw?oc=5",
-          "desc": "",
-          "title_en": "'Seoul Food 2026' the largest ever held… 1800 companies from 49 countries participated",
-          "title_ja": "史上最大規模の「ソウルフード2026」… 49カ国1800社が参加",
-          "title_zh": "有史以来规模最大的“首尔美食2026” ……来自49个国家的1800家公司参加"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "CJ프레시웨이, ‘교대이층집’ 세광그린푸드와 600억 식자재 공급 계약",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KNUdVdGxUd2FaX3ZLS1FIeFZiSE9DN2VYbE5oVEtMSzdaOVRwMHhIQUVld0VzRjRXMk1iM19zQVMwUHBZNmRBNTExTF8zNi1TdHfSAVNBVV95cUxPWTdDM2Y2STR3Q0lCQmdTWGlveks0dlIxTGVtTHhPbzdUUGNJWDBhWUVVdlZvWFYtX01VNkNfLW9KTUVxSlRaUmY3OXhKbjBldU1ETQ?oc=5",
+          "desc": "",
+          "title_en": "CJ Freshway Signs Agreement to Supply 60 Billion Food Materials to ’Shift Bunk House' Segwang Green Foods",
+          "title_ja": "CJ Freshway、Segwang Green Foodsの「シフトバンクハウス」に600億の食料資材を供給する契約に署名",
+          "title_zh": "CJ Freshway签署协议，为Segwang Green Foods的“Shift Bunk House”提供600亿食品材料"
+        },
         {
           "title": "역대 최대 규모 K푸드 전시 열린다…‘서울푸드 2026’ 개막",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91VGwxYW1WTmpUem5NdDQtRUxzQkVXdE9KS2t0YlpsUXZrcFBWRHJkQkdOR2c2SURlajJDWllIZkFNeFpuRXdvWDhKZFdUTm9FWW9B0gFTQVVfeXFMT3VUbDFhbVZOalR6bk10NC1FTHNCRVd0T0pLa3RiWmxRdmtwUFZEcmRCR05HZzZJRGVqMkNaWUhmQU14Wm5Fd29YOEpkV1ROb0VZb0E?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Dongwon Industrial · Dongwon F&B Receives Side-by-Side Awards in Sustainability Management and Food Tech",
           "title_ja": "Dongwon Industrial・Dongwon F&Bがサステナビリティマネジメントとフードテックで並行受賞",
           "title_zh": "东原实业·东原餐饮在可持续发展管理和食品技术领域获得并列奖项"
-        },
-        {
-          "title": "동원F&B, 미래 식품 콘퍼런스 ‘월드푸드테크 컨펙스’서 최고상 수상",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkMHBRMENsNFZmdEwyTDNrZHR2NklwTy1fOTFEY0N3SDFkWGFLdkhjME53eHFmZ1BBNU10czZ3NDlsN2N6ZDlSdWZfQ0lzVk1wLWfSAVNBVV95cUxQM2dEaWVtWUNFUkFVY0JISTg0M2I3UFBBNWVtRnlkUE5OQ2UtRnV0RVJZNE14azNNb2pZa0pERHdyOEV1cWNsTXJNdHRiLWdhRDdQRQ?oc=5",
-          "desc": "",
-          "title_en": "Dongwon F&B wins top prize at future food conference ‘World Food Tech Confex'",
-          "title_ja": "Dongwon F&B、将来のフードカンファレンス「World Food Tech Confex」でトップ賞を受賞",
-          "title_zh": "东原餐饮在未来的食品大会“世界粮食技术大会”上赢得最高奖项"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "[게시판] CJ프레시웨이, 세광그린푸드와 600억원 규모 식자재 공급 재계약",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nVkthVnVKSmU4VW1xS0NqUVZ3OWU5SFp5NF92SDhBenZsYU5hUHZ4M3pndkZweVhyd213dVA0V0dtRU1KNk9Bb1pDYmsxSUtNS0E?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] CJ Freshway Re-supplies 60 Billion KRW Food Supplies to Segwang Green Foods",
+          "title_ja": "【掲示板】CJフレッシュウェイがSegwang Green Foodsに600億ウォンの食料供給を再供給",
+          "title_zh": "【公告栏】CJ Freshway向世光绿色食品供应600亿韩元食品"
+        },
+        {
           "title": "송파구, 전통시장·상점가 5곳 야시장·음식축제 연다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tX3BMTnJuZ0J1UWlNM25mT2FKNjc2aXo3V3NUVVZIaElEd2E1UmdhcndieDRsMnhIVDhzMUNPZ1BMS2hwY21KazU5OXR1b0FKdmc?oc=5",
           "desc": "",
           "title_en": "Songpa-gu opens five night markets and food festivals in traditional markets and shopping districts",
           "title_ja": "松坡区は伝統的な市場やショッピング街で5つの夜市やフードフェスティバルを開いています",
           "title_zh": "松坡区在传统市场和购物区开设五个夜市和美食节"
-        },
-        {
-          "title": "식품 전시회 '서울푸드 2026' 개막…1천800개 기업 참여",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RQ3ROMEhPWVFqVTJpT3A2ak84R0F1aXZaa3ZxYmRXX2tkUnBZalVJUnVvSjFGRldwMnlpZ3BPNFF0aFZvVXhzOVNMTi1oWjZPSmc?oc=5",
-          "desc": "",
-          "title_en": "Opening of the food exhibition 'Seoul Food 2026' … Participated in 1,800 companies",
-          "title_ja": "食品展示会「ソウルフード2026」開幕… 1,800社参加",
-          "title_zh": "食品展“首尔食品2026”开幕……参展企业1800家"
         },
         {
           "title": "aT \"러시아서 K푸드 수요 확인…2천110만달러 수출상담 성과\"",
