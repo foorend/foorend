@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T16:02:46Z",
+  "lastUpdated": "2026-06-11T20:22:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,14 +36,6 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
-        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -82,12 +82,12 @@
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
         },
         {
-          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
           "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -129,6 +129,14 @@
       "items": [
         {
           "title": "대상, 'K-푸드 스마트제조 얼라이언스' 참여…AI 기반 제조혁신 추진",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVEpsZUhWZnZrUVA3Nnk1cm45Y2FPek1aUGs2dFR3YXRLeDhsWHJOd1hBU1gwZ2VtTm9xbnAyd3RSRVRaTlNDR3MtYXhQN2x3cXhkUi1tOXI3aHNyNzVkNTFNZzFFdEtxeU9xYzRDZVU0TFRwcDY2OG9lYXlWeUk?oc=5",
+          "desc": "",
+          "title_en": "Target, Participate in 'K-Food Smart Manufacturing Alliance' … Promote AI-based manufacturing innovation",
+          "title_ja": "ターゲット、「K - Foodスマートマニュファクチャリングアライアンス」に参加… AIを活用したものづくりイノベーションを推進",
+          "title_zh": "瞄准，参与“K-Food智能制造联盟” ……推动基于人工智能的制造业创新"
+        },
+        {
+          "title": "대상, 'K-푸드 스마트제조 얼라이언스' 참여…AI 기반 제조혁신 추진",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXl1ZEdob1NTUU54UE16MU00Q0tnM1gtcjA5LU9yYXhOWjhSYWVUQzFfYkRCYXdobTJicUN4SEZuWWQ3MG1BdTQwck1ULWZVbU5sVEZaajlpQdIBVEFVX3lxTE44MURUelhfSUloTFlidjZ3aFBaRzFLYzVIa0FFUEl2WWM5T0Q5WjlOYUJQWHM0MWJBYmF1Nk5YdkMxa1NQWE9yX3BuOFpabzFRdWJIWg?oc=5",
           "desc": "",
           "title_en": "Target, Participate in 'K-Food Smart Manufacturing Alliance' … Promote AI-based manufacturing innovation",
@@ -136,20 +144,12 @@
           "title_zh": "瞄准，参与“K-Food智能制造联盟” ……推动基于人工智能的制造业创新"
         },
         {
-          "title": "'K-푸드 스마트제조' 위해 민관이 손 잡았다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SRWc1b2Nqem00SzZ6NnZaclB5dk9qcUMxZHJyT0NSS0Zvc2hTVjc2M1QxR19IRnplamZybHZVUjF1bXQ3aXM5MDdxblVKSkctTGhjay03dGsxQdIBVEFVX3lxTFBlSWNKRWVBamxPcUc4aWRjeng1SkE2ektfZThGcURVQWhSaThjS3Bna2JiQnhFM1dUY19vd19tWVlSR2J1NThGM2dna184NW8yUjVqUQ?oc=5",
+          "title": "역대 최대 규모 K푸드 전시",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3loRzJhZ2MzS0RiMVZiRUVBWjdQaGV2My1kekFuTXVhUXlvbVFkb2VlRHhTTFRkaGJ6Sk1KVHVzMTJUY2h4VTdrQUhYQzdkallrM1pnTjZ0NEpTMGo5Rl93ZmFKVzJYSGpZTm93eG9OT1FuYklaNWJ2MmRKNGo5WjQwVTR4ZW8?oc=5",
           "desc": "",
-          "title_en": "The public held hands for 'K-Food Smart Manufacturing'",
-          "title_ja": "「K - Foodスマートマニュファクチャリング」のために市民が手をつないだ",
-          "title_zh": "公众为“K-Food智能制造”牵手"
-        },
-        {
-          "title": "성남산단, 국내 첫 '푸드테크 AI 리더스포럼' 참가자 모집",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9McGZ2ZUVjSzZoUDJ3N3pNOWljR19kcHBZNmlfQ3hFQW1oR0poV1NqUDFYc1piQXBVX3BKcTcyZzFOY1dEZTZQSjhuVjQ2TFdjcmN3UUhiRkhLQdIBVEFVX3lxTE92bW42dUlXclJKWmhSa3E3UW1mQWZtdVFyT2p0bnVTa253UHp5QjNGQ295TC1MRTJWVVdJcER2amplT3ZUbzRpQW0zNDI3R1kyQWRtOQ?oc=5",
-          "desc": "",
-          "title_en": "Seongnam Sandan Recruits Participants for Korea's First Food Tech AI Leaders Forum",
-          "title_ja": "ソンナムサンダンが韓国初のフードテックAIリーダーフォーラムの参加者を募集",
-          "title_zh": "Seongnam Sandan招募韩国首届食品技术人工智能领袖论坛的参与者"
+          "title_en": "Largest K-food exhibition ever",
+          "title_ja": "史上最大のK - food展",
+          "title_zh": "有史以来最大的K-food展览"
         }
       ]
     },
