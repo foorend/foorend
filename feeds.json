@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T04:03:00Z",
+  "lastUpdated": "2026-06-11T10:26:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "公众为“K-Food智能制造”牵手"
         },
         {
-          "title": "역대 최대 규모 K푸드 전시",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RV0JidmpoeWh4Z0hBOWJGd0hNSlpTSE9GblhvT2o3MUZTdHhNSEpxbGtIUFZoaDVBcEZ5QnM5X0lzS0wwMUd4X0k3aUlZV0RSVC1qQTltRE41Nm94WUdXRkx6ZVEwWjdmSDZ0ZmhySjlDSy1OLWRGdzlMUWpPVlE?oc=5",
+          "title": "성남산단, 국내 첫 '푸드테크 AI 리더스포럼' 참가자 모집",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9McGZ2ZUVjSzZoUDJ3N3pNOWljR19kcHBZNmlfQ3hFQW1oR0poV1NqUDFYc1piQXBVX3BKcTcyZzFOY1dEZTZQSjhuVjQ2TFdjcmN3UUhiRkhLQdIBVEFVX3lxTE92bW42dUlXclJKWmhSa3E3UW1mQWZtdVFyT2p0bnVTa253UHp5QjNGQ295TC1MRTJWVVdJcER2amplT3ZUbzRpQW0zNDI3R1kyQWRtOQ?oc=5",
           "desc": "",
-          "title_en": "Largest K-food exhibition ever",
-          "title_ja": "史上最大のK - food展",
-          "title_zh": "有史以来最大的K-food展览"
+          "title_en": "Seongnam Sandan Recruits Participants for Korea's First Food Tech AI Leaders Forum",
+          "title_ja": "ソンナムサンダンが韓国初のフードテックAIリーダーフォーラムの参加者を募集",
+          "title_zh": "Seongnam Sandan招募韩国首届食品技术人工智能领袖论坛的参与者"
         }
       ]
     },
@@ -158,12 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“이걸 전자레인지에 돌려 먹는다고?”…의사가 콕 집어 경고한 음식 3가지 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wZWREdUZyWWlqVWRSZjF3SjViM1o2OXJZZ1JkNG52YVVwZjFDbXR0RUpZQVdnWEYyT2hVNlhYWW9BWjlrUWRqNnZFakxyMEV4WmfSAVNBVV95cUxPcDh0aGt2cHNRSTJ5bzliUmt2WGRuc3UtZ0I1N2s4ek5KNlJYeGxGV3lPeVVidEs0TVdGYXJCZ0p2alVMUDRGYk5FdmVqRWJvWjBPSQ?oc=5",
+          "title": "“이걸 전자레인지에 돌려 먹는다고?”…의사가 콕 집어 경고한 음식 3가지",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wZWREdUZyWWlqVWRSZjF3SjViM1o2OXJZZ1JkNG52YVVwZjFDbXR0RUpZQVdnWEYyT2hVNlhYWW9BWjlrUWRqNnZFakxyMEV4Wmc?oc=5",
           "desc": "",
-          "title_en": "“Spin this in the microwave?” … 3 foods your doctor picked up and warned you about [Healthy Time]",
-          "title_ja": "「これを電子レンジで回しますか？「…主治医が拾ってきて、[Healthy Time]について警告した3つの食べ物",
-          "title_zh": "“在微波炉里旋转这个？“ ……医生挑选了3种食物，并警告您[Healthy Time]"
+          "title_en": "“Spin this in the microwave?” … 3 foods the doctor picked up and warned me about",
+          "title_ja": "「これを電子レンジで回しますか？「…医者が拾って警告した3つの食べ物",
+          "title_zh": "“在微波炉里旋转这个？“ ……医生拿起3种食物并警告我"
+        },
+        {
+          "title": "“MZ들도 혈당 관리 케어푸드”…가성비 건강식단 뜬다",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yOWNwYXZZRWdvR19hcTRoR0dkajkteUNBV0JkTUhDZWVLU3A1N3NoOS1TaXMtQWFSQXA4SklBQnlWM0YxZmFuYXV1Q3o3X0RMOHRz0gFTQVVfeXFMTjI5Y3BhdllFZ29HX2FxNGhHR2RqOS15Q0FXQmRNSENlZUtTcDU3c2g5LVNpcy1BYVJBcDhKSUFCeVYzRjFmYW5hdXVDejdfREw4dHM?oc=5",
+          "desc": "",
+          "title_en": "“MZ is also a blood glucose management care food” … I eat a healthy diet at a cost-effective price.",
+          "title_ja": "「MZは血糖管理ケアフードでもあります」…私は費用対効果の高い価格で健康的な食事を食べています。",
+          "title_zh": "“MZ也是一种血糖管理护理食品” ……我以具有成本效益的价格吃健康的饮食。"
         },
         {
           "title": "이노진, ‘다름달음’과 업무협약…케어푸드 시장 진출 본격화",
@@ -172,14 +180,6 @@
           "title_en": "Inojin Signs Business Agreement with ‘Different’ … Full-fledged Entry into Care Food Market",
           "title_ja": "Inojin、「Different」とビジネス契約を締結…ケアフード市場への本格参入",
           "title_zh": "Inojin与“不同”签署商业协议…全面进入护理食品市场"
-        },
-        {
-          "title": "치킨 이어 호두과자까지…젠슨 황 방한에 K푸드 줄줄이 화제",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BdTlJRmdfbFRyd0M0OExlYi1IMnlIdDZZNWhOdURYakpuZVJxeEx0QzZLdjFhSmVKNkFNTEVIQVluaTRGYk9XR2g4bjNvcVh4bTNj0gFTQVVfeXFMT0F1OUlGZ19sVHJ3QzQ4TGViLUgyeUh0Nlk1aE51RFhqSm5lUnF4THRDNkt2MWFKZUo2QU1MRUhBWW5pNEZiT1dHaDhuM29xWHhtM2M?oc=5",
-          "desc": "",
-          "title_en": "Chicken followed by walnut sweets… Jensen Hwang, K food rope topic",
-          "title_ja": "チキンに続いてクルミのお菓子… Jensen Hwang、Kフードロープの話題",
-          "title_zh": "鸡肉，然后是核桃糖果…… Jensen Hwang, K food rope topic"
         }
       ]
     },
