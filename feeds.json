@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T22:49:44Z",
+  "lastUpdated": "2026-06-12T04:03:19Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         },
         {
-          "title": "Pizza Hut appears to move further toward a sale",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkZya08wSG8zeXRXejhoalRPY0kyNlFLQTQ4UEdGamZnRXh4SmZaZTlid3NValAyeUFyTWNzQlcwN1gxOWNENk9XWWFZb2pxTnBzNWxQSEJVQnBrNDh3RnhlREZzQ3hIVktIR1BDUDJxM0xVaDAtNVRwTENjS2pCQWNGSTloQU1XNkdXT0lEbmxGMUk?oc=5",
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
-          "title_ko": "피자헛은 판매를 향해 더 나아가는 것 같습니다.",
-          "title_ja": "ピザハットはセールに向けてさらに動いているようです",
-          "title_zh": "必胜客似乎进一步走向促销"
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "올리오올리바, '서울푸드 2026' 참가… 300개 이상의 제품 포트폴리오 공개",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOC1ZTEF3YXN0QzZCRHVndzV1VGxGMjhJd3l3UzVxWkl5N3N3Zkxtc3hqQk5kZWphRXYwckVTbUlmNENoU1lITEdpVzFOakEwaUhvcHU0Q2dDNzBEaDNYNXYwM2tJdTB6Qkk5Qg?oc=5",
+          "desc": "",
+          "title_en": "Olio Oliva to Participate in 'Seoul Food 2026' … Unveiling a Portfolio of 300 + Products",
+          "title_ja": "オリオ・オリバ、「ソウルフード2026」に参加… 300以上の製品ポートフォリオを発表",
+          "title_zh": "Olio Oliva将参加“首尔食品2026”......推出300多种产品组合"
+        },
+        {
+          "title": "\"협력사 식품안전 역량 높인다\"…신세계푸드, 상생 교육 운영",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UVhoUVJTS2NTUWFOeDNadWtLZjdxVnJXdnVvMHpZclMybkZNX1dzT2VPTFpLSXk1V0ZLRmhtMG42Sjd5OVZqVUZSUXFWR184QlZ2MjZqalRnUdIBVEFVX3lxTE1hczBfSjAxb2c2SkdaRXZzTWUzWnJqY1R1aXYtSnJnUzE5V2VhbmdPZ3hXRF9pem4ya0VrRFp2S1pIX1RLb1N6TVlIcGZGS0liRmhlZA?oc=5",
+          "desc": "",
+          "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
+          "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
+          "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
+        },
+        {
           "title": "대상, 'K-푸드 스마트제조 얼라이언스' 참여…AI 기반 제조혁신 추진",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVEpsZUhWZnZrUVA3Nnk1cm45Y2FPek1aUGs2dFR3YXRLeDhsWHJOd1hBU1gwZ2VtTm9xbnAyd3RSRVRaTlNDR3MtYXhQN2x3cXhkUi1tOXI3aHNyNzVkNTFNZzFFdEtxeU9xYzRDZVU0TFRwcDY2OG9lYXlWeUk?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlRyYnJzZ0JPb3R6eDZTOVpSZnZESDF3SjdydGEtTWlVbTJDMEs3N3FUb1FSNzRCdWdkZGFJQ1ZNZ1pUd3hEUjR5X0UxTk9jd1pfcjZmSThieVhyUTMxbmRKODZmNTF1dUh0bU9vVFBPZ01sakszMURjNzBhNUNfSkVFTk9WZGM?oc=5",
           "desc": "",
           "title_en": "Target, Participate in 'K-Food Smart Manufacturing Alliance' … Promote AI-based manufacturing innovation",
           "title_ja": "ターゲット、「K - Foodスマートマニュファクチャリングアライアンス」に参加… AIを活用したものづくりイノベーションを推進",
           "title_zh": "瞄准，参与“K-Food智能制造联盟” ……推动基于人工智能的制造业创新"
-        },
-        {
-          "title": "대상, 'K-푸드 스마트제조 얼라이언스' 참여…AI 기반 제조혁신 추진",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXl1ZEdob1NTUU54UE16MU00Q0tnM1gtcjA5LU9yYXhOWjhSYWVUQzFfYkRCYXdobTJicUN4SEZuWWQ3MG1BdTQwck1ULWZVbU5sVEZaajlpQdIBVEFVX3lxTE44MURUelhfSUloTFlidjZ3aFBaRzFLYzVIa0FFUEl2WWM5T0Q5WjlOYUJQWHM0MWJBYmF1Nk5YdkMxa1NQWE9yX3BuOFpabzFRdWJIWg?oc=5",
-          "desc": "",
-          "title_en": "Target, Participate in 'K-Food Smart Manufacturing Alliance' … Promote AI-based manufacturing innovation",
-          "title_ja": "ターゲット、「K - Foodスマートマニュファクチャリングアライアンス」に参加… AIを活用したものづくりイノベーションを推進",
-          "title_zh": "瞄准，参与“K-Food智能制造联盟” ……推动基于人工智能的制造业创新"
-        },
-        {
-          "title": "대상 청정원, 국민 식탁 지켜온 30년간의 진심…라이프푸드 전문 브랜드로 도약",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWlRVOF9FUXVhSW40TENack5vekFBSk85RzI1X0ZEUzhqUXpWVXZVeWRQYVgzcFVCSkhpR1VtNVpYdzBkUVU1bVY5Nkh3cTM2cEFVdm9kTGpJSy1oU0pxVUhwMGVPelhSVHJpLU9EQzdGTzlTNldJZGxUYkpOTWp2ZW5iWDBua2c?oc=5",
-          "desc": "",
-          "title_en": "Target Jeongwon, National Dining Table 30 Years of Sincerity… Leaping to a Brand Specializing in Life Food",
-          "title_ja": "TARGET JEONGWON、全国ダイニングテーブル30年の誠実さ…ライフフードに特化したブランドへの飛躍",
-          "title_zh": "TARGET JEONGWON ，全国餐桌30年的真诚……跃升为生活食品专业品牌"
         }
       ]
     },
@@ -167,7 +167,7 @@
         },
         {
           "title": "“질환자 식단 옛말”…혈당 관리 2030도 케어푸드 먹는다",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3WTE2MURQWlF3bGg0ZkxLblh2VDkyNUdIUml0TnJINEdkQjRRZTFzNFlnekVVT3NUdVZCMlpMTGhGZ0hIODJkeUYzVTJwR3VDX1Jv0gFTQVVfeXFMUHdZMTYxRFBaUXdsaDRmTEtuWHZUOTI1R0hSaXROckg0R2RCNFFlMXM0WWd6RVVPc1R1VkIyWkxMaEZnSEg4MmR5RjNVMnBHdUNfUm8?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1odTl3Vzc2alZ0N2NjMG9kY0JmZHZ3cUktZGdhemk0cERIUkVrSTBxVUxQVWFEWEJxbl9yTXgyOVdtOVAzajFBazFTeE8tZkZselHSAVNBVV95cUxQd1kxNjFEUFpRd2xoNGZMS25YdlQ5MjVHSFJpdE5ySDRHZEI0UWUxczRZZ3pFVU9zVHVWQjJaTExoRmdISDgyZHlGM1UycEd1Q19Sbw?oc=5",
           "desc": "",
           "title_en": "“The old saying of the diet of the sick” … I also eat care foods in 2030 to manage blood sugar",
           "title_ja": "「病人の食生活の古いことわざ」…血糖値を管理するために2030年にはケアフードも食べる",
@@ -175,7 +175,7 @@
         },
         {
           "title": "“중년만 혈당관리?”…케어푸드에 꽂힌 MZ",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yOWNwYXZZRWdvR19hcTRoR0dkajkteUNBV0JkTUhDZWVLU3A1N3NoOS1TaXMtQWFSQXA4SklBQnlWM0YxZmFuYXV1Q3o3X0RMOHRz0gFTQVVfeXFMTjI5Y3BhdllFZ29HX2FxNGhHR2RqOS15Q0FXQmRNSENlZUtTcDU3c2g5LVNpcy1BYVJBcDhKSUFCeVYzRjFmYW5hdXVDejdfREw4dHM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1NDVISEJiVVJ1VVl2VzVfaGo0elZlQmRzOW5KNDdkOVphajd2Mjd3enM0a3NlUTRraEVNejFvdmZQWGpmOWdLaTJUTVRTbHpPWkHSAVNBVV95cUxOMjljcGF2WUVnb0dfYXE0aEdHZGo5LXlDQVdCZE1IQ2VlS1NwNTdzaDktU2lzLUFhUkFwOEpJQUJ5VjNGMWZhbmF1dUN6N19ETDh0cw?oc=5",
           "desc": "",
           "title_en": "“Middle-aged glucose management?” … MZ plugged into care food",
           "title_ja": "「中年のグルコース管理？」… MZはケアフードに接続されています",
@@ -234,12 +234,12 @@
           "title_zh": "瑞典K-Food成为“功能性超级食品”"
         },
         {
-          "title": "“빵이 된 돼지바?” 롯데웰푸드, 돼지바 빵집 팝업스토어",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VNzZYZWlxVlVJWDVIVGhiQk40b0pBcFBtQmo5czlRM3RmX0xGdEphdWpZUGg1SEtRdnBFZjB1ZkozWTRMT056Q0gzZzJQT09DSUtWQmNiZw?oc=5",
+          "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
           "desc": "",
-          "title_en": "“Breaded pork bar?” Lotte well food, pork bar bakery pop-up store",
-          "title_ja": "「ポークバー？」ロッテウェルフード、ポークバーベーカリーポップアップストア",
-          "title_zh": "「猪肉面包店？」乐天美食、猪肉面包店快闪店"
+          "title_en": "I take it out all week, ‘Kish Milf Wrap’",
+          "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
+          "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
         }
       ]
     }
