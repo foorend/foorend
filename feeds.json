@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T10:14:25Z",
+  "lastUpdated": "2026-06-12T15:16:04Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "汉堡连锁店重新考虑植物性汉堡，将重点放在蔬菜上"
         },
         {
-          "title": "The family-dining segment is divided by dinner",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2p3VW8tcmFXOENnOHNaSnQ1QjNTakpBaF91M2xPeDllWDNXbUpFaDV3NFdWSE9sTTNvb0pwM1lPY29Fdnkxamw5UFVwSWZMZVFZYzM3aW56QVBTSVh4dWswVURFVTJZc2s1X0lDMkxDQlVLcExuS0JXRmM4RGktQmJ0S0FqODI0bmhr?oc=5",
-          "desc": "",
-          "title_ko": "패밀리 다이닝 부문은 저녁 식사로 나뉩니다.",
-          "title_ja": "ファミリーダイニングのセグメントはディナーごとに分かれています",
-          "title_zh": "家庭餐饮部分按晚餐划分"
-        },
-        {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+        },
+        {
+          "title": "Canadian chain Moxies aims to fill upscale-casual void in the U.S.",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMURGdGdUWUhkRGp6U2pmX1VNcHE2TzRsX1ZmVzY5OHIyeUwtVmlZZmdvYnkyOXM5cmgtV1pOQjhKaEx3S3NvRnlBUzBYa2s5OVRnWW50Um1rcWQ3ODRtMW5OaTkzcFVlRXZ5aGVFelpLTXhrS0hMaS1xZjlJdU5NQ29STU11TWFma1BMZElVVzdUS2JIWWc?oc=5",
+          "desc": "",
+          "title_ko": "캐나다 체인 Moxies는 미국에서 고급 캐주얼 공백을 채우는 것을 목표로합니다.",
+          "title_ja": "カナダのチェーンMoxiesは、米国の高級カジュアルな空白を埋めることを目指しています。",
+          "title_zh": "加拿大连锁店Moxies旨在填补美国的高档休闲空白。"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"협력사 식품안전 역량 높인다\"…신세계푸드, 상생 교육 운영",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UVhoUVJTS2NTUWFOeDNadWtLZjdxVnJXdnVvMHpZclMybkZNX1dzT2VPTFpLSXk1V0ZLRmhtMG42Sjd5OVZqVUZSUXFWR184QlZ2MjZqalRnUdIBVEFVX3lxTE1hczBfSjAxb2c2SkdaRXZzTWUzWnJqY1R1aXYtSnJnUzE5V2VhbmdPZ3hXRF9pem4ya0VrRFp2S1pIX1RLb1N6TVlIcGZGS0liRmhlZA?oc=5",
-          "desc": "",
-          "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
-          "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
-          "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
-        },
-        {
           "title": "올리오올리바, '서울푸드 2026' 참가… 300개 이상의 제품 포트폴리오 공개",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOC1ZTEF3YXN0QzZCRHVndzV1VGxGMjhJd3l3UzVxWkl5N3N3Zkxtc3hqQk5kZWphRXYwckVTbUlmNENoU1lITEdpVzFOakEwaUhvcHU0Q2dDNzBEaDNYNXYwM2tJdTB6Qkk5Qg?oc=5",
           "desc": "",
           "title_en": "Olio Oliva to Participate in 'Seoul Food 2026' … Unveiling a Portfolio of 300 + Products",
           "title_ja": "オリオ・オリバ、「ソウルフード2026」に参加… 300以上の製品ポートフォリオを発表",
           "title_zh": "Olio Oliva将参加“首尔食品2026”......推出300多种产品组合"
+        },
+        {
+          "title": "\"협력사 식품안전 역량 높인다\"…신세계푸드, 상생 교육 운영",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hczBfSjAxb2c2SkdaRXZzTWUzWnJqY1R1aXYtSnJnUzE5V2VhbmdPZ3hXRF9pem4ya0VrRFp2S1pIX1RLb1N6TVlIcGZGS0liRmhlZNIBVEFVX3lxTE1hczBfSjAxb2c2SkdaRXZzTWUzWnJqY1R1aXYtSnJnUzE5V2VhbmdPZ3hXRF9pem4ya0VrRFp2S1pIX1RLb1N6TVlIcGZGS0liRmhlZA?oc=5",
+          "desc": "",
+          "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
+          "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
+          "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
         },
         {
           "title": "대상, 'K-푸드 스마트제조 얼라이언스' 참여…AI 기반 제조혁신 추진",
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“이걸 전자레인지에 돌려 먹는다고?”…의사가 콕 집어 경고한 음식 3가지",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wZWREdUZyWWlqVWRSZjF3SjViM1o2OXJZZ1JkNG52YVVwZjFDbXR0RUpZQVdnWEYyT2hVNlhYWW9BWjlrUWRqNnZFakxyMEV4Wmc?oc=5",
+          "title": "“이걸 전자레인지에 돌려 먹는다고?”…의사가 콕 집어 경고한 음식 3가지 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wZWREdUZyWWlqVWRSZjF3SjViM1o2OXJZZ1JkNG52YVVwZjFDbXR0RUpZQVdnWEYyT2hVNlhYWW9BWjlrUWRqNnZFakxyMEV4WmfSAVNBVV95cUxPcDh0aGt2cHNRSTJ5bzliUmt2WGRuc3UtZ0I1N2s4ek5KNlJYeGxGV3lPeVVidEs0TVdGYXJCZ0p2alVMUDRGYk5FdmVqRWJvWjBPSQ?oc=5",
           "desc": "",
-          "title_en": "“Spin this in the microwave?” … 3 foods the doctor picked up and warned me about",
-          "title_ja": "「これを電子レンジで回しますか？「…医者が拾って警告した3つの食べ物",
-          "title_zh": "“在微波炉里旋转这个？“ ……医生拿起3种食物并警告我"
+          "title_en": "“Spin this in the microwave?” … 3 foods your doctor picked up and warned you about [Healthy Time]",
+          "title_ja": "「これを電子レンジで回しますか？「…主治医が拾ってきて、[Healthy Time]について警告した3つの食べ物",
+          "title_zh": "“在微波炉里旋转这个？“ ……医生挑选了3种食物，并警告您[Healthy Time]"
         },
         {
-          "title": "“질환자 식단 옛말”…2030도 혈당관리 케어푸드 먹는다",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3WTE2MURQWlF3bGg0ZkxLblh2VDkyNUdIUml0TnJINEdkQjRRZTFzNFlnekVVT3NUdVZCMlpMTGhGZ0hIODJkeUYzVTJwR3VDX1Jv0gFTQVVfeXFMUHdZMTYxRFBaUXdsaDRmTEtuWHZUOTI1R0hSaXROckg0R2RCNFFlMXM0WWd6RVVPc1R1VkIyWkxMaEZnSEg4MmR5RjNVMnBHdUNfUm8?oc=5",
+          "title": "K푸드 위상 높아졌다…제일제당·삼양·오리온·동원, ‘대한민국 50대 브랜드’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pQlpidW40cWp2RXo0c2JmRWV1SkR4SVc3U2FLc1FDTHZTbFpoNzE4TFR6UUlzSTFhdGlnM3d4Ym9aZk83N1cxbU80TE9TTmdzSVHSAVNBVV95cUxPWFFXRUhPTlMtQWVpWUV3bTZLazczUW8xazd5QkYzY29BTExDVTI4X0ZvczJUMUJOLVJUMjNEMS0zT2EzOHZ3VUZFamJYUHlCVU42SQ?oc=5",
           "desc": "",
-          "title_en": "“The old saying of the diet of the sick” … I eat 2030-degree blood glucose management care food",
-          "title_ja": "「病人の食事の古いことわざ」… 2030度の血糖管理ケア食品を食べる",
-          "title_zh": "“病人饮食的老话” ……我吃2030度血糖管理护理食品"
+          "title_en": "K-food status has increased… CheilJedang, Samyang, Orion, Dongwon, ‘Korea's 50 Best Brands’",
+          "title_ja": "K - foodのステータスが向上しました… CheilJedang、Samyang、Orion、Dongwon、「韓国の50のベストブランド」",
+          "title_zh": "K-food地位提升…… CheilJedang、Samyang、Orion、Dongwon ， “韩国50大最佳品牌”"
         },
         {
-          "title": "“질환자 식단 옛말”…혈당 관리 2030도 케어푸드 먹는다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1odTl3Vzc2alZ0N2NjMG9kY0JmZHZ3cUktZGdhemk0cERIUkVrSTBxVUxQVWFEWEJxbl9yTXgyOVdtOVAzajFBazFTeE8tZkZselHSAVNBVV95cUxQd1kxNjFEUFpRd2xoNGZMS25YdlQ5MjVHSFJpdE5ySDRHZEI0UWUxczRZZ3pFVU9zVHVWQjJaTExoRmdISDgyZHlGM1UycEd1Q19Sbw?oc=5",
+          "title": "“중년만 혈당관리?”…케어푸드에 꽂힌 MZ",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1NDVISEJiVVJ1VVl2VzVfaGo0elZlQmRzOW5KNDdkOVphajd2Mjd3enM0a3NlUTRraEVNejFvdmZQWGpmOWdLaTJUTVRTbHpPWkHSAVNBVV95cUxOMjljcGF2WUVnb0dfYXE0aEdHZGo5LXlDQVdCZE1IQ2VlS1NwNTdzaDktU2lzLUFhUkFwOEpJQUJ5VjNGMWZhbmF1dUN6N19ETDh0cw?oc=5",
           "desc": "",
-          "title_en": "“The old saying of the diet of the sick” … I also eat care foods in 2030 to manage blood sugar",
-          "title_ja": "「病人の食生活の古いことわざ」…血糖値を管理するために2030年にはケアフードも食べる",
-          "title_zh": "“病人饮食的老话” ……我也在2030年吃护理食品来控制血糖"
+          "title_en": "“Middle-aged glucose management?” … MZ plugged into care food",
+          "title_ja": "「中年のグルコース管理？」… MZはケアフードに接続されています",
+          "title_zh": "“中年葡萄糖管理？” …… MZ插入护理食品"
         }
       ]
     },
