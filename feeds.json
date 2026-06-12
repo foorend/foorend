@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-06-12T15:16:04Z",
+  "lastUpdated": "2026-06-12T20:11:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "KFC plans to test a new concept called Open House",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ25ta1RVUEQ2cVZsU19ULUUtUG80UFVkRXVHRFhJcUVrZmhhdzF3U0hRVVNnQWJvcmtXcWRDcFVrOUc3dHpQM3BhakQ0aDFTZElfdEtYRURXQllfQXljUUs0VEczMFppVDhZa084N2dYQ3Z0NWFMUTczVW5rSFVxYWVDVC1hSjJTdTEwNVF5S2dtaDJVREZSZUwtaTE?oc=5",
+          "desc": "",
+          "title_ko": "KFC는 오픈 하우스라는 새로운 개념을 테스트할 계획입니다.",
+          "title_ja": "KFCはオープンハウスと呼ばれる新しいコンセプトをテストする予定です",
+          "title_zh": "肯德基计划测试一种名为Open House的新概念"
+        },
         {
           "title": "Burger chains rethink plant-based burgers, putting the focus on vegetables",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWW9aU24wYUg2dGZ6Z3oteXJLNmUtdk9xTDQ5Z2o3ZTdHZG5KdmFTX0RBOGhDRlhCLWpYOWhTcFJ5U25Ra2VoUG10OG9lUmplcUx0QS15d2R5Tnc5cVMydGZYWjFGeU13NFJ6d3Z6bk5hekotSnhqTi1VR1RFRlptS091MldkMGRzY09SdzNTYjFla3ZXU2Q0MC1mcWpMZnVjbklzeGlsUU1zcEtr?oc=5",
@@ -14,20 +22,12 @@
           "title_zh": "汉堡连锁店重新考虑植物性汉堡，将重点放在蔬菜上"
         },
         {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
           "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
-        },
-        {
-          "title": "Canadian chain Moxies aims to fill upscale-casual void in the U.S.",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMURGdGdUWUhkRGp6U2pmX1VNcHE2TzRsX1ZmVzY5OHIyeUwtVmlZZmdvYnkyOXM5cmgtV1pOQjhKaEx3S3NvRnlBUzBYa2s5OVRnWW50Um1rcWQ3ODRtMW5OaTkzcFVlRXZ5aGVFelpLTXhrS0hMaS1xZjlJdU5NQ29STU11TWFma1BMZElVVzdUS2JIWWc?oc=5",
-          "desc": "",
-          "title_ko": "캐나다 체인 Moxies는 미국에서 고급 캐주얼 공백을 채우는 것을 목표로합니다.",
-          "title_ja": "カナダのチェーンMoxiesは、米国の高級カジュアルな空白を埋めることを目指しています。",
-          "title_zh": "加拿大连锁店Moxies旨在填补美国的高档休闲空白。"
+          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
+          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
+          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
         }
       ]
     },
@@ -145,7 +145,7 @@
         },
         {
           "title": "대상, 'K-푸드 스마트제조 얼라이언스' 참여…AI 기반 제조혁신 추진",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlRyYnJzZ0JPb3R6eDZTOVpSZnZESDF3SjdydGEtTWlVbTJDMEs3N3FUb1FSNzRCdWdkZGFJQ1ZNZ1pUd3hEUjR5X0UxTk9jd1pfcjZmSThieVhyUTMxbmRKODZmNTF1dUh0bU9vVFBPZ01sakszMURjNzBhNUNfSkVFTk9WZGM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXl1ZEdob1NTUU54UE16MU00Q0tnM1gtcjA5LU9yYXhOWjhSYWVUQzFfYkRCYXdobTJicUN4SEZuWWQ3MG1BdTQwck1ULWZVbU5sVEZaajlpQdIBVEFVX3lxTE44MURUelhfSUloTFlidjZ3aFBaRzFLYzVIa0FFUEl2WWM5T0Q5WjlOYUJQWHM0MWJBYmF1Nk5YdkMxa1NQWE9yX3BuOFpabzFRdWJIWg?oc=5",
           "desc": "",
           "title_en": "Target, Participate in 'K-Food Smart Manufacturing Alliance' … Promote AI-based manufacturing innovation",
           "title_ja": "ターゲット、「K - Foodスマートマニュファクチャリングアライアンス」に参加… AIを活用したものづくりイノベーションを推進",
@@ -167,7 +167,7 @@
         },
         {
           "title": "K푸드 위상 높아졌다…제일제당·삼양·오리온·동원, ‘대한민국 50대 브랜드’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pQlpidW40cWp2RXo0c2JmRWV1SkR4SVc3U2FLc1FDTHZTbFpoNzE4TFR6UUlzSTFhdGlnM3d4Ym9aZk83N1cxbU80TE9TTmdzSVHSAVNBVV95cUxPWFFXRUhPTlMtQWVpWUV3bTZLazczUW8xazd5QkYzY29BTExDVTI4X0ZvczJUMUJOLVJUMjNEMS0zT2EzOHZ3VUZFamJYUHlCVU42SQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YUVdFSE9OUy1BZWlZRXdtNktrNzNRbzFrN3lCRjNjb0FMTENVMjhfRm9zMlQxQk4tUlQyM0QxLTNPYTM4dndVRkVqYlhQeUJVTjZJ0gFTQVVfeXFMT1hRV0VIT05TLUFlaVlFd202S2s3M1FvMWs3eUJGM2NvQUxMQ1UyOF9Gb3MyVDFCTi1SVDIzRDEtM09hMzh2d1VGRWpiWFB5QlVONkk?oc=5",
           "desc": "",
           "title_en": "K-food status has increased… CheilJedang, Samyang, Orion, Dongwon, ‘Korea's 50 Best Brands’",
           "title_ja": "K - foodのステータスが向上しました… CheilJedang、Samyang、Orion、Dongwon、「韓国の50のベストブランド」",
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "한국·폴란드 셰프가 만났다…폴란드 ‘MEAT MASTERS 2026’ 개최",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mZjhBUmtoVzFvLVBacFl0RkNrRTBaaUpaQkZpV2VERHZ1LUFjcGhGYnVGZUpRWGtwbDJ3anVwaUlua0xnTEg5YlA5SXk1akJDUGZhMnFmdw?oc=5",
-          "desc": "",
-          "title_en": "Polish and Korean chefs meet… Polish ‘meat masters 2026’ held",
-          "title_ja": "ポーランドと韓国のシェフが出会う…ポーランドの「ミートマスターズ2026」開催",
-          "title_zh": "波兰和韩国厨师见面…举行波兰“肉类大师2026”"
-        },
-        {
           "title": "‘기능성 슈퍼푸드’로 부상한 스웨덴 K-푸드",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lLVFVQ2xIVUREWHh6ckNBZ01aZS1NWUV6cmhyTmIxMGlPREFRR2UxekdLd0NOWmY1U1ZsaTcycWp0dC1jeXFXRnVCTE95RjdNYTlqZ2Rxaw?oc=5",
           "desc": "",
@@ -240,40 +232,17 @@
           "title_en": "“It's not spicy” Was it red powder or paprika on the food?",
           "title_ja": "「スパイシーではありません」赤いパウダーやパプリカが食べ物についていましたか？",
           "title_zh": "「不辣」食物上是红粉还是辣椒粉？"
+        },
+        {
+          "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
+          "desc": "",
+          "title_en": "I take it out all week, ‘Kish Milf Wrap’",
+          "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
+          "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
         }
       ]
     }
   },
-  "korean_articles": [
-    {
-      "title": "🥐🍗26년 6월 한국 푸드 트렌드🍦💸",
-      "link": "https://foodtrend.stibee.com/p/208",
-      "desc": ""
-    },
-    {
-      "title": "🌍26년 5월 글로벌 푸드 트렌드🍽️✨",
-      "link": "https://foodtrend.stibee.com/p/207",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 편의점/HMR MD를 거친 패션 MD의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/206",
-      "desc": ""
-    },
-    {
-      "title": "🍙26년 5월 한국 푸드 트렌드🏛️✨",
-      "link": "https://foodtrend.stibee.com/p/205",
-      "desc": ""
-    },
-    {
-      "title": "🤖26년 4월 글로벌 푸드 트렌드🥞🍔",
-      "link": "https://foodtrend.stibee.com/p/204",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 푸렌드 에디터의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/203",
-      "desc": ""
-    }
-  ]
+  "korean_articles": []
 }
