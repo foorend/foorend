@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T04:03:19Z",
+  "lastUpdated": "2026-06-12T10:14:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,12 +14,12 @@
           "title_zh": "汉堡连锁店重新考虑植物性汉堡，将重点放在蔬菜上"
         },
         {
-          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
+          "title": "The family-dining segment is divided by dinner",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2p3VW8tcmFXOENnOHNaSnQ1QjNTakpBaF91M2xPeDllWDNXbUpFaDV3NFdWSE9sTTNvb0pwM1lPY29Fdnkxamw5UFVwSWZMZVFZYzM3aW56QVBTSVh4dWswVURFVTJZc2s1X0lDMkxDQlVLcExuS0JXRmM4RGktQmJ0S0FqODI0bmhr?oc=5",
           "desc": "",
-          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
-          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
-          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
+          "title_ko": "패밀리 다이닝 부문은 저녁 식사로 나뉩니다.",
+          "title_ja": "ファミリーダイニングのセグメントはディナーごとに分かれています",
+          "title_zh": "家庭餐饮部分按晚餐划分"
         },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "올리오올리바, '서울푸드 2026' 참가… 300개 이상의 제품 포트폴리오 공개",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOC1ZTEF3YXN0QzZCRHVndzV1VGxGMjhJd3l3UzVxWkl5N3N3Zkxtc3hqQk5kZWphRXYwckVTbUlmNENoU1lITEdpVzFOakEwaUhvcHU0Q2dDNzBEaDNYNXYwM2tJdTB6Qkk5Qg?oc=5",
-          "desc": "",
-          "title_en": "Olio Oliva to Participate in 'Seoul Food 2026' … Unveiling a Portfolio of 300 + Products",
-          "title_ja": "オリオ・オリバ、「ソウルフード2026」に参加… 300以上の製品ポートフォリオを発表",
-          "title_zh": "Olio Oliva将参加“首尔食品2026”......推出300多种产品组合"
-        },
-        {
           "title": "\"협력사 식품안전 역량 높인다\"…신세계푸드, 상생 교육 운영",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UVhoUVJTS2NTUWFOeDNadWtLZjdxVnJXdnVvMHpZclMybkZNX1dzT2VPTFpLSXk1V0ZLRmhtMG42Sjd5OVZqVUZSUXFWR184QlZ2MjZqalRnUdIBVEFVX3lxTE1hczBfSjAxb2c2SkdaRXZzTWUzWnJqY1R1aXYtSnJnUzE5V2VhbmdPZ3hXRF9pem4ya0VrRFp2S1pIX1RLb1N6TVlIcGZGS0liRmhlZA?oc=5",
           "desc": "",
           "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
           "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
           "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
+        },
+        {
+          "title": "올리오올리바, '서울푸드 2026' 참가… 300개 이상의 제품 포트폴리오 공개",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOC1ZTEF3YXN0QzZCRHVndzV1VGxGMjhJd3l3UzVxWkl5N3N3Zkxtc3hqQk5kZWphRXYwckVTbUlmNENoU1lITEdpVzFOakEwaUhvcHU0Q2dDNzBEaDNYNXYwM2tJdTB6Qkk5Qg?oc=5",
+          "desc": "",
+          "title_en": "Olio Oliva to Participate in 'Seoul Food 2026' … Unveiling a Portfolio of 300 + Products",
+          "title_ja": "オリオ・オリバ、「ソウルフード2026」に参加… 300以上の製品ポートフォリオを発表",
+          "title_zh": "Olio Oliva将参加“首尔食品2026”......推出300多种产品组合"
         },
         {
           "title": "대상, 'K-푸드 스마트제조 얼라이언스' 참여…AI 기반 제조혁신 추진",
@@ -166,20 +166,20 @@
           "title_zh": "“在微波炉里旋转这个？“ ……医生拿起3种食物并警告我"
         },
         {
+          "title": "“질환자 식단 옛말”…2030도 혈당관리 케어푸드 먹는다",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3WTE2MURQWlF3bGg0ZkxLblh2VDkyNUdIUml0TnJINEdkQjRRZTFzNFlnekVVT3NUdVZCMlpMTGhGZ0hIODJkeUYzVTJwR3VDX1Jv0gFTQVVfeXFMUHdZMTYxRFBaUXdsaDRmTEtuWHZUOTI1R0hSaXROckg0R2RCNFFlMXM0WWd6RVVPc1R1VkIyWkxMaEZnSEg4MmR5RjNVMnBHdUNfUm8?oc=5",
+          "desc": "",
+          "title_en": "“The old saying of the diet of the sick” … I eat 2030-degree blood glucose management care food",
+          "title_ja": "「病人の食事の古いことわざ」… 2030度の血糖管理ケア食品を食べる",
+          "title_zh": "“病人饮食的老话” ……我吃2030度血糖管理护理食品"
+        },
+        {
           "title": "“질환자 식단 옛말”…혈당 관리 2030도 케어푸드 먹는다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1odTl3Vzc2alZ0N2NjMG9kY0JmZHZ3cUktZGdhemk0cERIUkVrSTBxVUxQVWFEWEJxbl9yTXgyOVdtOVAzajFBazFTeE8tZkZselHSAVNBVV95cUxQd1kxNjFEUFpRd2xoNGZMS25YdlQ5MjVHSFJpdE5ySDRHZEI0UWUxczRZZ3pFVU9zVHVWQjJaTExoRmdISDgyZHlGM1UycEd1Q19Sbw?oc=5",
           "desc": "",
           "title_en": "“The old saying of the diet of the sick” … I also eat care foods in 2030 to manage blood sugar",
           "title_ja": "「病人の食生活の古いことわざ」…血糖値を管理するために2030年にはケアフードも食べる",
           "title_zh": "“病人饮食的老话” ……我也在2030年吃护理食品来控制血糖"
-        },
-        {
-          "title": "“중년만 혈당관리?”…케어푸드에 꽂힌 MZ",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1NDVISEJiVVJ1VVl2VzVfaGo0elZlQmRzOW5KNDdkOVphajd2Mjd3enM0a3NlUTRraEVNejFvdmZQWGpmOWdLaTJUTVRTbHpPWkHSAVNBVV95cUxOMjljcGF2WUVnb0dfYXE0aEdHZGo5LXlDQVdCZE1IQ2VlS1NwNTdzaDktU2lzLUFhUkFwOEpJQUJ5VjNGMWZhbmF1dUN6N19ETDh0cw?oc=5",
-          "desc": "",
-          "title_en": "“Middle-aged glucose management?” … MZ plugged into care food",
-          "title_ja": "「中年のグルコース管理？」… MZはケアフードに接続されています",
-          "title_zh": "“中年葡萄糖管理？” …… MZ插入护理食品"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "HF 푸드 그룹, 주주권리계획 도입..적대적 M&A 방어",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ENFhuT0RpanpiRFppUWgxaTJFYVdGVnp6NXpnYWJhU1gtSGRDS2NjZWVsTW54NmVHNk9adTNrb0xOeVJSNFNHQXpIMENJUk9tS0E?oc=5",
+          "desc": "",
+          "title_en": "HF Food Group Introduces Shareholder Rights Plan.. Defends Hostile M&A",
+          "title_ja": "HFフードグループ、株主権利計画を導入。敵対的なM&Aを擁護",
+          "title_zh": "HF Food Group推出股东权益计划..捍卫恶意并购"
+        },
         {
           "title": "특징주, 푸드나무-육계 테마 상승세에 21.44% ↑",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RRDh1WEM3dHkxcmpoZzFtZ3Y3SzhIT0VaWUJoR0dyX3l1THhKTUd6c1h1UmMxb18xVDZJVk0wLVN3QXpHeVg5clBTbTNaQlY5c0E?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Government Launches K-Food Smart Manufacturing Alliance to Support \"Innovation Leading Model\"",
           "title_ja": "政府、「イノベーションをリードするモデル」を支援するK - Foodスマートマニュファクチャリングアライアンスを立ち上げ",
           "title_zh": "政府推出K-Food智能制造联盟，支持“创新领先模式”"
-        },
-        {
-          "title": "한성숙 장관 \"K푸드 시작으로 제조업 전반에 AI 전환 적극 지원\"(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CV3lqMGVVaU1jUmU3OWJUQVF0V3JjZ21sd1dHM2padl9LcERGMW5MUndRWWxkRkNsMU1Jc2VvNFZYc2NPaDgzY0gwYkhiZ2VkQ2c?oc=5",
-          "desc": "",
-          "title_en": "Minister Han Sung-sook \"actively supporting the AI transition throughout the manufacturing industry starting with K-Food\" (General)",
-          "title_ja": "ハン・ソンソク大臣「K - Foodをはじめとするものづくり業界全体のAI移行を積極的に支援」（全般）",
-          "title_zh": "韩成淑部长“积极支持从K-Food开始的整个制造业的人工智能转型” （一般）"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "瑞典K-Food成为“功能性超级食品”"
         },
         {
-          "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
+          "title": "“맵지 않아요” 음식 위 빨간 가루, 파프리카였어?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sRVJ3VjNNRVVvbnd6NWMwWG03T0N1NXBoYVdmT0dWWkxqX3o3VHdUc1hrb0RubjdZN1ZRUmw1QkllNy01SzBfdTFONWZTRURxclhFNVI0dw?oc=5",
           "desc": "",
-          "title_en": "I take it out all week, ‘Kish Milf Wrap’",
-          "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
-          "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
+          "title_en": "“It's not spicy” Was it red powder or paprika on the food?",
+          "title_ja": "「スパイシーではありません」赤いパウダーやパプリカが食べ物についていましたか？",
+          "title_zh": "「不辣」食物上是红粉还是辣椒粉？"
         }
       ]
     }
