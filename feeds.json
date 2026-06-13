@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T19:26:21Z",
+  "lastUpdated": "2026-06-13T22:04:02Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -137,7 +137,7 @@
         },
         {
           "title": "올리오올리바, '서울푸드 2026' 참가… 300개 이상의 제품 포트폴리오 공개",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOC1ZTEF3YXN0QzZCRHVndzV1VGxGMjhJd3l3UzVxWkl5N3N3Zkxtc3hqQk5kZWphRXYwckVTbUlmNENoU1lITEdpVzFOakEwaUhvcHU0Q2dDNzBEaDNYNXYwM2tJdTB6Qkk5Qg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QRm9pbEZnRWp5Z3dOX05yc1owdzZUQW56NWNnSnFoOXJkbXhqdWtMXzd1aHJ6Q0R2TFRGRDFVM0hSSFJkNFozaHhrZGh1dXd5U3N2RTVmcFYzdUJKLUNuZVNESzhrdXc?oc=5",
           "desc": "",
           "title_en": "Olio Oliva to Participate in 'Seoul Food 2026' … Unveiling a Portfolio of 300 + Products",
           "title_ja": "オリオ・オリバ、「ソウルフード2026」に参加… 300以上の製品ポートフォリオを発表",
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "[신상잇슈] 오뚜기-신세계푸드 협업 버거 2종·백미당 '쉐이크 빙수'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0b240OVdDZ1ZWcmphSFB6Z05BeWg2MkhIZXlJRUtPalk4OFl1Vkd3WGhLc3hpNEdqdy1IOGdCUWs1VUxBRTA5ZTQ0bXBZUklNb2c?oc=5",
-          "desc": "",
-          "title_en": "[Shin Sang-ishu] Ottogi-New World Food Collaboration Burger 2 kinds · Baekmidang 'Shake Bingsu'",
-          "title_ja": "【シン・サンイシュ】オットギ・ニューワールドフードコラボレーションバーガー2種・Baekmidang「Shake Bingsu」",
-          "title_zh": "[Shin Sang-ishu] Ottogi-新世界粮食合作汉堡2种· Baekmidang 'Shake Bingsu'"
-        },
-        {
           "title": "'실향민 음식에 담긴 고향의 기억'…강원도립대 체험 행사 성료",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54ZF9vT3diLWx6TlU3NmdCU3hTQWJnMm5LZmJLN05aZVgwd2w2ZzN4UlluTkJOdDN6a1VZM3NWemVhNksxVjFPTnBra2d6WEpib2c?oc=5",
           "desc": "",
           "title_en": "'Memory of Home in Displaced People's Food' … Completion of Gangwon Provincial University Experience Event",
           "title_ja": "「避難民食の故郷の記憶」…江原道立大学体験イベント終了",
           "title_zh": "“流离失所者食物中的家园记忆” ……江原道立大学体验活动圆满结束"
+        },
+        {
+          "title": "[신상잇슈] 오뚜기-신세계푸드 협업 버거 2종·백미당 '쉐이크 빙수'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0b240OVdDZ1ZWcmphSFB6Z05BeWg2MkhIZXlJRUtPalk4OFl1Vkd3WGhLc3hpNEdqdy1IOGdCUWs1VUxBRTA5ZTQ0bXBZUklNb2c?oc=5",
+          "desc": "",
+          "title_en": "[Shin Sang-ishu] Ottogi-New World Food Collaboration Burger 2 kinds · Baekmidang 'Shake Bingsu'",
+          "title_ja": "【シン・サンイシュ】オットギ・ニューワールドフードコラボレーションバーガー2種・Baekmidang「Shake Bingsu」",
+          "title_zh": "[Shin Sang-ishu] Ottogi-新世界粮食合作汉堡2种· Baekmidang 'Shake Bingsu'"
         },
         {
           "title": "HF 푸드 그룹, 주주권리계획 도입..적대적 M&A 방어",
