@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T22:24:39Z",
+  "lastUpdated": "2026-06-13T03:51:43Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "汉堡连锁店重新考虑植物性汉堡，将重点放在蔬菜上"
         },
         {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "title": "Plant-based Mr. Charlie's TMS wins investment from drummer Travis Barker",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkE3ZzQtbGd1ZHM3cUxkSGFtMlE0M3c3US1jM1c3UmVLdXZQOHZXRE1JMnRsNmh3MF9CVXJwa3QzRGRWaDFIZ1BLWW4zUkpVWFp3b05nSVpDZUtVekxMTlNJR0pZTmJJS0I4ZTEyWDNuUUF2cURlMDd4QmQ1NldkM2ZiSWw1MFRpN21ERG5Ic3VCWGpOa0gxRkdPZ2t4QlptTUhvcTFrSGhRd0hmX0NNb0ZfcFVkV0hOX2c?oc=5",
           "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+          "title_ko": "식물 기반 Mr. Charlie's TMS, 드러머 Travis Barker로부터 투자 유치",
+          "title_ja": "植物ベースのチャーリー氏のTMSがドラマーのトラヴィス・バーカーからの投資を獲得",
+          "title_zh": "以植物为基础的Charlie先生的TMS赢得了鼓手Travis Barker的投资"
         }
       ]
     },
@@ -129,19 +129,11 @@
       "items": [
         {
           "title": "올리오올리바, '서울푸드 2026' 참가… 300개 이상의 제품 포트폴리오 공개",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QRm9pbEZnRWp5Z3dOX05yc1owdzZUQW56NWNnSnFoOXJkbXhqdWtMXzd1aHJ6Q0R2TFRGRDFVM0hSSFJkNFozaHhrZGh1dXd5U3N2RTVmcFYzdUJKLUNuZVNESzhrdXc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOC1ZTEF3YXN0QzZCRHVndzV1VGxGMjhJd3l3UzVxWkl5N3N3Zkxtc3hqQk5kZWphRXYwckVTbUlmNENoU1lITEdpVzFOakEwaUhvcHU0Q2dDNzBEaDNYNXYwM2tJdTB6Qkk5Qg?oc=5",
           "desc": "",
           "title_en": "Olio Oliva to Participate in 'Seoul Food 2026' … Unveiling a Portfolio of 300 + Products",
           "title_ja": "オリオ・オリバ、「ソウルフード2026」に参加… 300以上の製品ポートフォリオを発表",
           "title_zh": "Olio Oliva将参加“首尔食品2026”......推出300多种产品组合"
-        },
-        {
-          "title": "\"협력사 식품안전 역량 높인다\"…신세계푸드, 상생 교육 운영",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NaDJTOTdtNVAyTGFkQnI5VTRHVnd4b1BkeEt1cld6YmRFa1Y5a1U0Y1hsRWRzNmNGamlQYUEzOTBhTjJuN1BRMXE4VElYU2Vac2FIYjNUdDJiYWZISkR2RGRISTJiR1gwTlJGdWVaazFYemNzY2xUV2VqLW95eUk?oc=5",
-          "desc": "",
-          "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
-          "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
-          "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
         },
         {
           "title": "\"협력사 식품안전 역량 높인다\"…신세계푸드, 상생 교육 운영",
@@ -150,6 +142,14 @@
           "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
           "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
           "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
+        },
+        {
+          "title": "대상, 'K-푸드 스마트제조 얼라이언스' 참여…AI 기반 제조혁신 추진",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXl1ZEdob1NTUU54UE16MU00Q0tnM1gtcjA5LU9yYXhOWjhSYWVUQzFfYkRCYXdobTJicUN4SEZuWWQ3MG1BdTQwck1ULWZVbU5sVEZaajlpQdIBVEFVX3lxTE44MURUelhfSUloTFlidjZ3aFBaRzFLYzVIa0FFUEl2WWM5T0Q5WjlOYUJQWHM0MWJBYmF1Nk5YdkMxa1NQWE9yX3BuOFpabzFRdWJIWg?oc=5",
+          "desc": "",
+          "title_en": "Target, Participate in 'K-Food Smart Manufacturing Alliance' … Promote AI-based manufacturing innovation",
+          "title_ja": "ターゲット、「K - Foodスマートマニュファクチャリングアライアンス」に参加… AIを活用したものづくりイノベーションを推進",
+          "title_zh": "瞄准，参与“K-Food智能制造联盟” ……推动基于人工智能的制造业创新"
         }
       ]
     },
@@ -158,20 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“이걸 전자레인지에 돌려 먹는다고?”…의사가 콕 집어 경고한 음식 3가지 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wZWREdUZyWWlqVWRSZjF3SjViM1o2OXJZZ1JkNG52YVVwZjFDbXR0RUpZQVdnWEYyT2hVNlhYWW9BWjlrUWRqNnZFakxyMEV4WmfSAVNBVV95cUxPcDh0aGt2cHNRSTJ5bzliUmt2WGRuc3UtZ0I1N2s4ek5KNlJYeGxGV3lPeVVidEs0TVdGYXJCZ0p2alVMUDRGYk5FdmVqRWJvWjBPSQ?oc=5",
+          "title": "“이걸 전자레인지에 돌려 먹는다고?”…의사가 콕 집어 경고한 음식 3가지",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wZWREdUZyWWlqVWRSZjF3SjViM1o2OXJZZ1JkNG52YVVwZjFDbXR0RUpZQVdnWEYyT2hVNlhYWW9BWjlrUWRqNnZFakxyMEV4Wmc?oc=5",
           "desc": "",
-          "title_en": "“Spin this in the microwave?” … 3 foods your doctor picked up and warned you about [Healthy Time]",
-          "title_ja": "「これを電子レンジで回しますか？「…主治医が拾ってきて、[Healthy Time]について警告した3つの食べ物",
-          "title_zh": "“在微波炉里旋转这个？“ ……医生挑选了3种食物，并警告您[Healthy Time]"
-        },
-        {
-          "title": "“질환자 식단 옛말”…2030도 혈당관리 케어푸드 먹는다",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3WTE2MURQWlF3bGg0ZkxLblh2VDkyNUdIUml0TnJINEdkQjRRZTFzNFlnekVVT3NUdVZCMlpMTGhGZ0hIODJkeUYzVTJwR3VDX1Jv0gFTQVVfeXFMUHdZMTYxRFBaUXdsaDRmTEtuWHZUOTI1R0hSaXROckg0R2RCNFFlMXM0WWd6RVVPc1R1VkIyWkxMaEZnSEg4MmR5RjNVMnBHdUNfUm8?oc=5",
-          "desc": "",
-          "title_en": "“The old saying of the diet of the sick” … I eat 2030-degree blood glucose management care food",
-          "title_ja": "「病人の食事の古いことわざ」… 2030度の血糖管理ケア食品を食べる",
-          "title_zh": "“病人饮食的老话” ……我吃2030度血糖管理护理食品"
+          "title_en": "“Spin this in the microwave?” … 3 foods the doctor picked up and warned me about",
+          "title_ja": "「これを電子レンジで回しますか？「…医者が拾って警告した3つの食べ物",
+          "title_zh": "“在微波炉里旋转这个？“ ……医生拿起3种食物并警告我"
         },
         {
           "title": "K푸드 위상 높아졌다…제일제당·삼양·오리온·동원, ‘대한민국 50대 브랜드’",
@@ -180,6 +172,14 @@
           "title_en": "K-food status has increased… CheilJedang, Samyang, Orion, Dongwon, ‘Korea's 50 Best Brands’",
           "title_ja": "K - foodのステータスが向上しました… CheilJedang、Samyang、Orion、Dongwon、「韓国の50のベストブランド」",
           "title_zh": "K-food地位提升…… CheilJedang、Samyang、Orion、Dongwon ， “韩国50大最佳品牌”"
+        },
+        {
+          "title": "“질환자 식단 옛말”…2030도 혈당관리 케어푸드 먹는다",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3WTE2MURQWlF3bGg0ZkxLblh2VDkyNUdIUml0TnJINEdkQjRRZTFzNFlnekVVT3NUdVZCMlpMTGhGZ0hIODJkeUYzVTJwR3VDX1Jv0gFTQVVfeXFMUHdZMTYxRFBaUXdsaDRmTEtuWHZUOTI1R0hSaXROckg0R2RCNFFlMXM0WWd6RVVPc1R1VkIyWkxMaEZnSEg4MmR5RjNVMnBHdUNfUm8?oc=5",
+          "desc": "",
+          "title_en": "“The old saying of the diet of the sick” … I eat 2030-degree blood glucose management care food",
+          "title_ja": "「病人の食事の古いことわざ」… 2030度の血糖管理ケア食品を食べる",
+          "title_zh": "“病人饮食的老话” ……我吃2030度血糖管理护理食品"
         }
       ]
     },
