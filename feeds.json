@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T14:00:52Z",
+  "lastUpdated": "2026-06-13T16:13:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"협력사 식품안전 역량 높인다\"…신세계푸드, 상생 교육 운영",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NaDJTOTdtNVAyTGFkQnI5VTRHVnd4b1BkeEt1cld6YmRFa1Y5a1U0Y1hsRWRzNmNGamlQYUEzOTBhTjJuN1BRMXE4VElYU2Vac2FIYjNUdDJiYWZISkR2RGRISTJiR1gwTlJGdWVaazFYemNzY2xUV2VqLW95eUk?oc=5",
+          "desc": "",
+          "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
+          "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
+          "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
+        },
+        {
           "title": "올리오올리바, '서울푸드 2026' 참가… 300개 이상의 제품 포트폴리오 공개",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOC1ZTEF3YXN0QzZCRHVndzV1VGxGMjhJd3l3UzVxWkl5N3N3Zkxtc3hqQk5kZWphRXYwckVTbUlmNENoU1lITEdpVzFOakEwaUhvcHU0Q2dDNzBEaDNYNXYwM2tJdTB6Qkk5Qg?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
           "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
           "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
-        },
-        {
-          "title": "대상, 'K-푸드 스마트제조 얼라이언스' 참여…AI 기반 제조혁신 추진",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXl1ZEdob1NTUU54UE16MU00Q0tnM1gtcjA5LU9yYXhOWjhSYWVUQzFfYkRCYXdobTJicUN4SEZuWWQ3MG1BdTQwck1ULWZVbU5sVEZaajlpQdIBVEFVX3lxTE44MURUelhfSUloTFlidjZ3aFBaRzFLYzVIa0FFUEl2WWM5T0Q5WjlOYUJQWHM0MWJBYmF1Nk5YdkMxa1NQWE9yX3BuOFpabzFRdWJIWg?oc=5",
-          "desc": "",
-          "title_en": "Target, Participate in 'K-Food Smart Manufacturing Alliance' … Promote AI-based manufacturing innovation",
-          "title_ja": "ターゲット、「K - Foodスマートマニュファクチャリングアライアンス」に参加… AIを活用したものづくりイノベーションを推進",
-          "title_zh": "瞄准，参与“K-Food智能制造联盟” ……推动基于人工智能的制造业创新"
         }
       ]
     },
