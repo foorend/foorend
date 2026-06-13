@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-06-13T16:13:44Z",
+  "lastUpdated": "2026-06-13T19:26:21Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Court OKs a $38B credit card swipe fee settlement, but restaurants aren’t impressed",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkM2REpCRF9vMkNRNEI0Y3ZOLTE4TXR5Ykg1NWFIYnNMdVoyaHRzWm82T0pfLXc3Ny1tVm1seTRPSXR4V2RZd1VDOERmcGpMZk9mQTVNbW56Sl91N3VpLTc3Wm1YMjhpOVVLUHhEd29uTVBjWkp0TUNrekMzY0FEcHdaY1BiWVNYZGtUejNRbE1hODNzZXpvMHlsU19HNVJVVmtHaXpXdXI5clRHVEE0T0h5RkladHhKWWFBc05n?oc=5",
+          "desc": "",
+          "title_ko": "법원은 $ 38B 신용 카드 스와이프 수수료 정산을 허용하지만 레스토랑은 인상적이지 않습니다.",
+          "title_ja": "裁判所は380億$のクレジットカードのスワイプ手数料の決済を承認しますが、レストランは感心していません",
+          "title_zh": "法院认可380亿美元的信用卡刷卡费结算，但餐厅并不令人印象深刻"
+        },
         {
           "title": "KFC plans to test a new concept called Open House",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ25ta1RVUEQ2cVZsU19ULUUtUG80UFVkRXVHRFhJcUVrZmhhdzF3U0hRVVNnQWJvcmtXcWRDcFVrOUc3dHpQM3BhakQ0aDFTZElfdEtYRURXQllfQXljUUs0VEczMFppVDhZa084N2dYQ3Z0NWFMUTczVW5rSFVxYWVDVC1hSjJTdTEwNVF5S2dtaDJVREZSZUwtaTE?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "햄버거 체인은 식물성 햄버거를 재고하여 야채에 중점을 둡니다.",
           "title_ja": "ハンバーガーチェーンは植物ベースのハンバーガーを再考し、野菜に焦点を当てています",
           "title_zh": "汉堡连锁店重新考虑植物性汉堡，将重点放在蔬菜上"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "瑞典K-Food成为“功能性超级食品”"
         },
         {
-          "title": "“맵지 않아요” 음식 위 빨간 가루, 파프리카였어?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sRVJ3VjNNRVVvbnd6NWMwWG03T0N1NXBoYVdmT0dWWkxqX3o3VHdUc1hrb0RubjdZN1ZRUmw1QkllNy01SzBfdTFONWZTRURxclhFNVI0dw?oc=5",
-          "desc": "",
-          "title_en": "“It's not spicy” Was it red powder or paprika on the food?",
-          "title_ja": "「スパイシーではありません」赤いパウダーやパプリカが食べ物についていましたか？",
-          "title_zh": "「不辣」食物上是红粉还是辣椒粉？"
-        },
-        {
           "title": "“빵이 된 돼지바?” 롯데웰푸드, 돼지바 빵집 팝업스토어",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VNzZYZWlxVlVJWDVIVGhiQk40b0pBcFBtQmo5czlRM3RmX0xGdEphdWpZUGg1SEtRdnBFZjB1ZkozWTRMT056Q0gzZzJQT09DSUtWQmNiZw?oc=5",
           "desc": "",
           "title_en": "“Breaded pork bar?” Lotte well food, pork bar bakery pop-up store",
           "title_ja": "「ポークバー？」ロッテウェルフード、ポークバーベーカリーポップアップストア",
           "title_zh": "「猪肉面包店？」乐天美食、猪肉面包店快闪店"
+        },
+        {
+          "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
+          "desc": "",
+          "title_en": "I take it out all week, ‘Kish Milf Wrap’",
+          "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
+          "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
         }
       ]
     }
