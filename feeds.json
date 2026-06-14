@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T22:04:02Z",
+  "lastUpdated": "2026-06-14T04:10:00Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,16 +128,8 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"협력사 식품안전 역량 높인다\"…신세계푸드, 상생 교육 운영",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NaDJTOTdtNVAyTGFkQnI5VTRHVnd4b1BkeEt1cld6YmRFa1Y5a1U0Y1hsRWRzNmNGamlQYUEzOTBhTjJuN1BRMXE4VElYU2Vac2FIYjNUdDJiYWZISkR2RGRISTJiR1gwTlJGdWVaazFYemNzY2xUV2VqLW95eUk?oc=5",
-          "desc": "",
-          "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
-          "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
-          "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
-        },
-        {
           "title": "올리오올리바, '서울푸드 2026' 참가… 300개 이상의 제품 포트폴리오 공개",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QRm9pbEZnRWp5Z3dOX05yc1owdzZUQW56NWNnSnFoOXJkbXhqdWtMXzd1aHJ6Q0R2TFRGRDFVM0hSSFJkNFozaHhrZGh1dXd5U3N2RTVmcFYzdUJKLUNuZVNESzhrdXc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOC1ZTEF3YXN0QzZCRHVndzV1VGxGMjhJd3l3UzVxWkl5N3N3Zkxtc3hqQk5kZWphRXYwckVTbUlmNENoU1lITEdpVzFOakEwaUhvcHU0Q2dDNzBEaDNYNXYwM2tJdTB6Qkk5Qg?oc=5",
           "desc": "",
           "title_en": "Olio Oliva to Participate in 'Seoul Food 2026' … Unveiling a Portfolio of 300 + Products",
           "title_ja": "オリオ・オリバ、「ソウルフード2026」に参加… 300以上の製品ポートフォリオを発表",
@@ -145,11 +137,19 @@
         },
         {
           "title": "\"협력사 식품안전 역량 높인다\"…신세계푸드, 상생 교육 운영",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hczBfSjAxb2c2SkdaRXZzTWUzWnJqY1R1aXYtSnJnUzE5V2VhbmdPZ3hXRF9pem4ya0VrRFp2S1pIX1RLb1N6TVlIcGZGS0liRmhlZNIBVEFVX3lxTE1hczBfSjAxb2c2SkdaRXZzTWUzWnJqY1R1aXYtSnJnUzE5V2VhbmdPZ3hXRF9pem4ya0VrRFp2S1pIX1RLb1N6TVlIcGZGS0liRmhlZA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UVhoUVJTS2NTUWFOeDNadWtLZjdxVnJXdnVvMHpZclMybkZNX1dzT2VPTFpLSXk1V0ZLRmhtMG42Sjd5OVZqVUZSUXFWR184QlZ2MjZqalRnUdIBVEFVX3lxTE1hczBfSjAxb2c2SkdaRXZzTWUzWnJqY1R1aXYtSnJnUzE5V2VhbmdPZ3hXRF9pem4ya0VrRFp2S1pIX1RLb1N6TVlIcGZGS0liRmhlZA?oc=5",
           "desc": "",
           "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
           "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
           "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
+        },
+        {
+          "title": "'합성 아니에요?' 경악…비둘기 뷔페 맛집 된 길거리 음식",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96c3Y5cGVlRFVySFBjMkJFODc2NFNoT3pBMjFMcVJ3Z0NhUjlxeWRTSXZJT1RUb29HSTZWOEJqYnZianpQUU05a19XMUJ4cmRKZV9FU0t5dWVHd9IBVEFVX3lxTFBxOUdZOVpmN1QxU09USncxOUluQ1JCcmxWOWVkeXRNWmd3VnczWGJLVVNLQmsxSTMyNjNhM3RmUE50WVpIMVFSNThOdnk4Mzl1SFVkUA?oc=5",
+          "desc": "",
+          "title_en": "'Isn't it synthetic?' Scared... Pigeon Buffet Gourmet Street Food",
+          "title_ja": "「合成ではありませんか？」怖い…ハトビュッフェグルメ屋台フード",
+          "title_zh": "“这不是合成的吗？”害怕……鸽子自助美食街头美食"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "맛있는 음식 저렴하게…15일부터 배달 플랫폼서 '마감 할인'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UYW9lRmU4SWRScVp4eGtYQVJqMzJiY1JyWFNteGhZVkdvd0FFd1BjRDI4elQwd3pLX1EzWmt5RDZSbU5zQTNMWTNrUVBuc0swTVE?oc=5",
+          "desc": "",
+          "title_en": "Delicious food for less… 'closing discount' on the delivery platform from the 15th",
+          "title_ja": "おいしい料理をお得に… 15日から配達プラットフォームで「終了割引」",
+          "title_zh": "以优惠价格享用美味餐点……从15日开始在派送平台上享受“关闭折扣”"
+        },
+        {
           "title": "'실향민 음식에 담긴 고향의 기억'…강원도립대 체험 행사 성료",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54ZF9vT3diLWx6TlU3NmdCU3hTQWJnMm5LZmJLN05aZVgwd2w2ZzN4UlluTkJOdDN6a1VZM3NWemVhNksxVjFPTnBra2d6WEpib2c?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "[Shin Sang-ishu] Ottogi-New World Food Collaboration Burger 2 kinds · Baekmidang 'Shake Bingsu'",
           "title_ja": "【シン・サンイシュ】オットギ・ニューワールドフードコラボレーションバーガー2種・Baekmidang「Shake Bingsu」",
           "title_zh": "[Shin Sang-ishu] Ottogi-新世界粮食合作汉堡2种· Baekmidang 'Shake Bingsu'"
-        },
-        {
-          "title": "HF 푸드 그룹, 주주권리계획 도입..적대적 M&A 방어",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ENFhuT0RpanpiRFppUWgxaTJFYVdGVnp6NXpnYWJhU1gtSGRDS2NjZWVsTW54NmVHNk9adTNrb0xOeVJSNFNHQXpIMENJUk9tS0E?oc=5",
-          "desc": "",
-          "title_en": "HF Food Group Introduces Shareholder Rights Plan.. Defends Hostile M&A",
-          "title_ja": "HFフードグループ、株主権利計画を導入。敵対的なM&Aを擁護",
-          "title_zh": "HF Food Group推出股东权益计划..捍卫恶意并购"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "瑞典K-Food成为“功能性超级食品”"
         },
         {
-          "title": "“빵이 된 돼지바?” 롯데웰푸드, 돼지바 빵집 팝업스토어",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VNzZYZWlxVlVJWDVIVGhiQk40b0pBcFBtQmo5czlRM3RmX0xGdEphdWpZUGg1SEtRdnBFZjB1ZkozWTRMT056Q0gzZzJQT09DSUtWQmNiZw?oc=5",
-          "desc": "",
-          "title_en": "“Breaded pork bar?” Lotte well food, pork bar bakery pop-up store",
-          "title_ja": "「ポークバー？」ロッテウェルフード、ポークバーベーカリーポップアップストア",
-          "title_zh": "「猪肉面包店？」乐天美食、猪肉面包店快闪店"
-        },
-        {
           "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
           "desc": "",
           "title_en": "I take it out all week, ‘Kish Milf Wrap’",
           "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
           "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
+        },
+        {
+          "title": "“한식 고기 메뉴 맛보세요”…미국육류수출협회 ‘서울푸드 2026’ 참가",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90SXpuWVZTMkVlakhSUlNoYVZqNkloN1M3UzV5NEl1ZVdDQW14bzE0RVg2RWJmM2dQZkQtUmtOODdrajc4S0FfODNqYUFPVjl2akUxVUR2WQ?oc=5",
+          "desc": "",
+          "title_en": "“Try the Korean Meat Menu” … Participated in 'Seoul Food 2026‘, the American Meat Export Association",
+          "title_ja": "「韓国肉メニューを試す」…米国食肉輸出協会「ソウルフード2026」に参加",
+          "title_zh": "“尝试韩国肉类菜单” ……参加美国肉类出口协会“首尔食品2026”"
         }
       ]
     }
