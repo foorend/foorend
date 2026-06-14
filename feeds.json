@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T19:27:22Z",
+  "lastUpdated": "2026-06-14T22:10:24Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "肯德基计划测试一种名为Open House的新原型"
         },
         {
-          "title": "Burger chains rethink plant-based burgers, putting the focus on vegetables",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWW9aU24wYUg2dGZ6Z3oteXJLNmUtdk9xTDQ5Z2o3ZTdHZG5KdmFTX0RBOGhDRlhCLWpYOWhTcFJ5U25Ra2VoUG10OG9lUmplcUx0QS15d2R5Tnc5cVMydGZYWjFGeU13NFJ6d3Z6bk5hekotSnhqTi1VR1RFRlptS091MldkMGRzY09SdzNTYjFla3ZXU2Q0MC1mcWpMZnVjbklzeGlsUU1zcEtr?oc=5",
+          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
           "desc": "",
-          "title_ko": "햄버거 체인은 식물성 햄버거를 재고하여 야채에 중점을 둡니다.",
-          "title_ja": "ハンバーガーチェーンは植物ベースのハンバーガーを再考し、野菜に焦点を当てています",
-          "title_zh": "汉堡连锁店重新考虑植物性汉堡，将重点放在蔬菜上"
+          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
+          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
+          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         }
       ]
     },
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "‘서울푸드 2026’에 신흥시장 대표단 집결…K푸드 수출 상담 이어져",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jeDFnTFhBX3czTTB1UEk4Wm9IMldlWXpwcTYyT1Z6UUlNMXJDcjRjc21MVFRwVUExOGU2REF3Nm9uMUE2VHI5ZW1HWEluWGx3SGfSAVNBVV95cUxPTlUxLWI1QTl1bFBZdGphUWlRR2l1NWtiNXh4YmxqQUxrazRuREExTXhfeGtwSmtFX0F3QkxxNWNwV2tES3VhUUxZc2pxYkhYWFFNMA?oc=5",
+          "desc": "",
+          "title_en": "A delegation of emerging markets gathered at ’Seoul Food 2026’ … K-Food export consultation continued",
+          "title_ja": "「ソウルフード2026」に新興市場の代表団が集まりました… K - Foodの輸出相談は続きます",
+          "title_zh": "新兴市场代表团齐聚“首尔食品2026” ……韩国食品出口咨询继续"
+        },
+        {
           "title": "“‘등드름’ 고민이라면 ‘이 음식’ 절대 먹지 마라”…전문가들 추천한 여름철 관리법 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10V3FKTFdZV3o2ekctV0VRb1VRUlFCVUJ3eUZsWGNTUmlWOHhEck52VUVHX0lQMjk1YWdSRGFhc193QmNrSGhJd3ZyVjFBOXNGaHfSAVNBVV95cUxORUdDY2t4SUFUSVRkUUs3QVR2Y1VfUkF5d0JlTjJkUU1BOG1DcUlRNHBMbjhOVElZQjZvSzE4U3M0SEV3Znl5UG8ydGJHUUYzZW0xbw?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "“Spin this in the microwave?” … 3 foods your doctor picked up and warned you about [Healthy Time]",
           "title_ja": "「これを電子レンジで回しますか？「…主治医が拾ってきて、[Healthy Time]について警告した3つの食べ物",
           "title_zh": "“在微波炉里旋转这个？“ ……医生挑选了3种食物，并警告您[Healthy Time]"
-        },
-        {
-          "title": "“질환자 식단 옛말”…2030도 혈당관리 케어푸드 먹는다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1odTl3Vzc2alZ0N2NjMG9kY0JmZHZ3cUktZGdhemk0cERIUkVrSTBxVUxQVWFEWEJxbl9yTXgyOVdtOVAzajFBazFTeE8tZkZselHSAVNBVV95cUxQd1kxNjFEUFpRd2xoNGZMS25YdlQ5MjVHSFJpdE5ySDRHZEI0UWUxczRZZ3pFVU9zVHVWQjJaTExoRmdISDgyZHlGM1UycEd1Q19Sbw?oc=5",
-          "desc": "",
-          "title_en": "“The old saying of the diet of the sick” … I eat 2030-degree blood glucose management care food",
-          "title_ja": "「病人の食事の古いことわざ」… 2030度の血糖管理ケア食品を食べる",
-          "title_zh": "“病人饮食的老话” ……我吃2030度血糖管理护理食品"
         }
       ]
     },
