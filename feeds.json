@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-14T09:35:44Z",
+  "lastUpdated": "2026-06-14T14:04:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "KFC plans to test a new prototype called Open House",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHRwZUlfdElNMnNKLTFDT3htYUZ2MWFIajhYSEJ4Nm9CS2VjMjBiTzBUa29vN3dCNHZLSVAtYll6THBqSFFDaGViMC0wX1ZpN0laU1ZNaGRBZUxKWlVTaVM3Szh3N0FDbDRpTm9LX2ItMGtlalZBQk5PRlY1WGZuM1lqckJLRXV3MWlyMUtFeUJObUREMG12SWZn?oc=5",
-          "desc": "",
-          "title_ko": "KFC는 오픈 하우스라는 새로운 프로토타입을 테스트할 계획입니다.",
-          "title_ja": "KFCはオープンハウスと呼ばれる新しいプロトタイプをテストする予定です",
-          "title_zh": "肯德基计划测试一种名为Open House的新原型"
-        },
         {
           "title": "Court OKs a $38B credit card swipe fee settlement, but restaurants aren’t impressed",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkM2REpCRF9vMkNRNEI0Y3ZOLTE4TXR5Ykg1NWFIYnNMdVoyaHRzWm82T0pfLXc3Ny1tVm1seTRPSXR4V2RZd1VDOERmcGpMZk9mQTVNbW56Sl91N3VpLTc3Wm1YMjhpOVVLUHhEd29uTVBjWkp0TUNrekMzY0FEcHdaY1BiWVNYZGtUejNRbE1hODNzZXpvMHlsU19HNVJVVmtHaXpXdXI5clRHVEE0T0h5RkladHhKWWFBc05n?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "법원은 $ 38B 신용 카드 스와이프 수수료 정산을 허용하지만 레스토랑은 인상적이지 않습니다.",
           "title_ja": "裁判所は380億$のクレジットカードのスワイプ手数料の決済を承認しますが、レストランは感心していません",
           "title_zh": "法院认可380亿美元的信用卡刷卡费结算，但餐厅并不令人印象深刻"
+        },
+        {
+          "title": "KFC plans to test a new prototype called Open House",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHRwZUlfdElNMnNKLTFDT3htYUZ2MWFIajhYSEJ4Nm9CS2VjMjBiTzBUa29vN3dCNHZLSVAtYll6THBqSFFDaGViMC0wX1ZpN0laU1ZNaGRBZUxKWlVTaVM3Szh3N0FDbDRpTm9LX2ItMGtlalZBQk5PRlY1WGZuM1lqckJLRXV3MWlyMUtFeUJObUREMG12SWZn?oc=5",
+          "desc": "",
+          "title_ko": "KFC는 오픈 하우스라는 새로운 프로토타입을 테스트할 계획입니다.",
+          "title_ja": "KFCはオープンハウスと呼ばれる新しいプロトタイプをテストする予定です",
+          "title_zh": "肯德基计划测试一种名为Open House的新原型"
         },
         {
           "title": "Plant-based Mr. Charlie's TMS wins investment from drummer Travis Barker",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"협력사 식품안전 역량 높인다\"…신세계푸드, 상생 교육 운영",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NaDJTOTdtNVAyTGFkQnI5VTRHVnd4b1BkeEt1cld6YmRFa1Y5a1U0Y1hsRWRzNmNGamlQYUEzOTBhTjJuN1BRMXE4VElYU2Vac2FIYjNUdDJiYWZISkR2RGRISTJiR1gwTlJGdWVaazFYemNzY2xUV2VqLW95eUk?oc=5",
-          "desc": "",
-          "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
-          "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
-          "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
-        },
-        {
           "title": "올리오올리바, '서울푸드 2026' 참가… 300개 이상의 제품 포트폴리오 공개",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOC1ZTEF3YXN0QzZCRHVndzV1VGxGMjhJd3l3UzVxWkl5N3N3Zkxtc3hqQk5kZWphRXYwckVTbUlmNENoU1lITEdpVzFOakEwaUhvcHU0Q2dDNzBEaDNYNXYwM2tJdTB6Qkk5Qg?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "\"Increase partner food safety capabilities\" … Shinsegae Food, co-existence training operation",
           "title_ja": "「提携食品安全性の向上」…新世界食品共存研修運営",
           "title_zh": "“提升合作伙伴食品安全能力” ……新世界食品、共存培训运营"
+        },
+        {
+          "title": "'합성 아니에요?' 경악…비둘기 뷔페 맛집 된 길거리 음식",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96c3Y5cGVlRFVySFBjMkJFODc2NFNoT3pBMjFMcVJ3Z0NhUjlxeWRTSXZJT1RUb29HSTZWOEJqYnZianpQUU05a19XMUJ4cmRKZV9FU0t5dWVHd9IBVEFVX3lxTFBxOUdZOVpmN1QxU09USncxOUluQ1JCcmxWOWVkeXRNWmd3VnczWGJLVVNLQmsxSTMyNjNhM3RmUE50WVpIMVFSNThOdnk4Mzl1SFVkUA?oc=5",
+          "desc": "",
+          "title_en": "'Isn't it synthetic?' Scared... Pigeon Buffet Gourmet Street Food",
+          "title_ja": "「合成ではありませんか？」怖い…ハトビュッフェグルメ屋台フード",
+          "title_zh": "“这不是合成的吗？”害怕……鸽子自助美食街头美食"
         }
       ]
     },
@@ -158,12 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“질환자 식단 옛말”…2030도 혈당관리 케어푸드 먹는다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1odTl3Vzc2alZ0N2NjMG9kY0JmZHZ3cUktZGdhemk0cERIUkVrSTBxVUxQVWFEWEJxbl9yTXgyOVdtOVAzajFBazFTeE8tZkZselHSAVNBVV95cUxQd1kxNjFEUFpRd2xoNGZMS25YdlQ5MjVHSFJpdE5ySDRHZEI0UWUxczRZZ3pFVU9zVHVWQjJaTExoRmdISDgyZHlGM1UycEd1Q19Sbw?oc=5",
+          "title": "“‘등드름’ 고민이라면 ‘이 음식’ 절대 먹지 마라”…전문가들 추천한 여름철 관리법 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10V3FKTFdZV3o2ekctV0VRb1VRUlFCVUJ3eUZsWGNTUmlWOHhEck52VUVHX0lQMjk1YWdSRGFhc193QmNrSGhJd3ZyVjFBOXNGaHfSAVNBVV95cUxORUdDY2t4SUFUSVRkUUs3QVR2Y1VfUkF5d0JlTjJkUU1BOG1DcUlRNHBMbjhOVElZQjZvSzE4U3M0SEV3Znl5UG8ydGJHUUYzZW0xbw?oc=5",
           "desc": "",
-          "title_en": "“The old saying of the diet of the sick” … I eat 2030-degree blood glucose management care food",
-          "title_ja": "「病人の食事の古いことわざ」… 2030度の血糖管理ケア食品を食べる",
-          "title_zh": "“病人饮食的老话” ……我吃2030度血糖管理护理食品"
+          "title_en": "“Never eat ‘this food’ if you are worried about ’dandruff'” … How to take care of the summer season recommended by experts [Health Time]",
+          "title_ja": "「フケの心配がある場合は、「この食べ物」を食べないでください」…専門家がお勧めする夏の季節のお手入れ方法[Health Time]",
+          "title_zh": "“如果你担心‘头皮屑’ ，千万不要吃'这种食物'” ……如何照顾专家建议的夏季[Health Time]"
         },
         {
           "title": "“이걸 전자레인지에 돌려 먹는다고?”…의사가 콕 집어 경고한 음식 3가지 [헬시타임]",
@@ -174,12 +174,12 @@
           "title_zh": "“在微波炉里旋转这个？“ ……医生挑选了3种食物，并警告您[Healthy Time]"
         },
         {
-          "title": "K푸드 위상 높아졌다…제일제당·삼양·오리온·동원, ‘대한민국 50대 브랜드’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pQlpidW40cWp2RXo0c2JmRWV1SkR4SVc3U2FLc1FDTHZTbFpoNzE4TFR6UUlzSTFhdGlnM3d4Ym9aZk83N1cxbU80TE9TTmdzSVHSAVNBVV95cUxPWFFXRUhPTlMtQWVpWUV3bTZLazczUW8xazd5QkYzY29BTExDVTI4X0ZvczJUMUJOLVJUMjNEMS0zT2EzOHZ3VUZFamJYUHlCVU42SQ?oc=5",
+          "title": "“질환자 식단 옛말”…2030도 혈당관리 케어푸드 먹는다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1odTl3Vzc2alZ0N2NjMG9kY0JmZHZ3cUktZGdhemk0cERIUkVrSTBxVUxQVWFEWEJxbl9yTXgyOVdtOVAzajFBazFTeE8tZkZselHSAVNBVV95cUxQd1kxNjFEUFpRd2xoNGZMS25YdlQ5MjVHSFJpdE5ySDRHZEI0UWUxczRZZ3pFVU9zVHVWQjJaTExoRmdISDgyZHlGM1UycEd1Q19Sbw?oc=5",
           "desc": "",
-          "title_en": "K-food status has increased… CheilJedang, Samyang, Orion, Dongwon, ‘Korea's 50 Best Brands’",
-          "title_ja": "K - foodのステータスが向上しました… CheilJedang、Samyang、Orion、Dongwon、「韓国の50のベストブランド」",
-          "title_zh": "K-food地位提升…… CheilJedang、Samyang、Orion、Dongwon ， “韩国50大最佳品牌”"
+          "title_en": "“The old saying of the diet of the sick” … I eat 2030-degree blood glucose management care food",
+          "title_ja": "「病人の食事の古いことわざ」… 2030度の血糖管理ケア食品を食べる",
+          "title_zh": "“病人饮食的老话” ……我吃2030度血糖管理护理食品"
         }
       ]
     },
