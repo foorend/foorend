@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-15T04:21:51Z",
+  "lastUpdated": "2026-06-15T12:15:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Court OKs a $38B credit card swipe fee settlement, but restaurants aren’t impressed",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkM2REpCRF9vMkNRNEI0Y3ZOLTE4TXR5Ykg1NWFIYnNMdVoyaHRzWm82T0pfLXc3Ny1tVm1seTRPSXR4V2RZd1VDOERmcGpMZk9mQTVNbW56Sl91N3VpLTc3Wm1YMjhpOVVLUHhEd29uTVBjWkp0TUNrekMzY0FEcHdaY1BiWVNYZGtUejNRbE1hODNzZXpvMHlsU19HNVJVVmtHaXpXdXI5clRHVEE0T0h5RkladHhKWWFBc05n?oc=5",
-          "desc": "",
-          "title_ko": "법원은 $ 38B 신용 카드 스와이프 수수료 정산을 허용하지만 레스토랑은 인상적이지 않습니다.",
-          "title_ja": "裁判所は380億$のクレジットカードのスワイプ手数料の決済を承認しますが、レストランは感心していません",
-          "title_zh": "法院认可380亿美元的信用卡刷卡费结算，但餐厅并不令人印象深刻"
-        },
         {
           "title": "KFC plans to test a new prototype called Open House",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHRwZUlfdElNMnNKLTFDT3htYUZ2MWFIajhYSEJ4Nm9CS2VjMjBiTzBUa29vN3dCNHZLSVAtYll6THBqSFFDaGViMC0wX1ZpN0laU1ZNaGRBZUxKWlVTaVM3Szh3N0FDbDRpTm9LX2ItMGtlalZBQk5PRlY1WGZuM1lqckJLRXV3MWlyMUtFeUJObUREMG12SWZn?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "KFC는 오픈 하우스라는 새로운 프로토타입을 테스트할 계획입니다.",
           "title_ja": "KFCはオープンハウスと呼ばれる新しいプロトタイプをテストする予定です",
           "title_zh": "肯德基计划测试一种名为Open House的新原型"
+        },
+        {
+          "title": "Court OKs a $38B credit card swipe fee settlement, but restaurants aren’t impressed",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkM2REpCRF9vMkNRNEI0Y3ZOLTE4TXR5Ykg1NWFIYnNMdVoyaHRzWm82T0pfLXc3Ny1tVm1seTRPSXR4V2RZd1VDOERmcGpMZk9mQTVNbW56Sl91N3VpLTc3Wm1YMjhpOVVLUHhEd29uTVBjWkp0TUNrekMzY0FEcHdaY1BiWVNYZGtUejNRbE1hODNzZXpvMHlsU19HNVJVVmtHaXpXdXI5clRHVEE0T0h5RkladHhKWWFBc05n?oc=5",
+          "desc": "",
+          "title_ko": "법원은 $ 38B 신용 카드 스와이프 수수료 정산을 허용하지만 레스토랑은 인상적이지 않습니다.",
+          "title_ja": "裁判所は380億$のクレジットカードのスワイプ手数料の決済を承認しますが、レストランは感心していません",
+          "title_zh": "法院认可380亿美元的信用卡刷卡费结算，但餐厅并不令人印象深刻"
         },
         {
           "title": "McDonald’s next evolution includes menu, service and technology upgrades",
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "신세계푸드, 인천에 신규 생산거점 확보…성수공장 이전 추진",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRldkQ1dzNDNjWmFqWFRxazlUNnBRdzhrVXBoWVgzcEtGeFB3SjVtRlNVYnhlLXR0Rl9VNlFCSGRkSmNFWlRKcnJGd0RyQ3k3T2fSAVNBVV95cUxNcmZUdndESmc4T0lscEZmV3dnWFI5eDBMbGlEekdMbFBwTnZVTWdoSWRvTTNuQTJ5b1QtZ1plT0NpN1hGREtqN2tNVmI3OW5sZEJpaw?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Foods Secures New Production Base in Incheon… Seongsu Plant Relocation",
+          "title_ja": "新世界食品、仁川に生産拠点を新設…ソンス工場移転",
+          "title_zh": "Shinsegae Foods在仁川建立新的生产基地… Seongsu工厂搬迁"
+        },
+        {
           "title": "‘서울푸드 2026’에 신흥시장 대표단 집결…K푸드 수출 상담 이어져",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jeDFnTFhBX3czTTB1UEk4Wm9IMldlWXpwcTYyT1Z6UUlNMXJDcjRjc21MVFRwVUExOGU2REF3Nm9uMUE2VHI5ZW1HWEluWGx3SGfSAVNBVV95cUxPTlUxLWI1QTl1bFBZdGphUWlRR2l1NWtiNXh4YmxqQUxrazRuREExTXhfeGtwSmtFX0F3QkxxNWNwV2tES3VhUUxZc2pxYkhYWFFNMA?oc=5",
           "desc": "",
           "title_en": "A delegation of emerging markets gathered at ’Seoul Food 2026’ … K-Food export consultation continued",
           "title_ja": "「ソウルフード2026」に新興市場の代表団が集まりました… K - Foodの輸出相談は続きます",
           "title_zh": "新兴市场代表团齐聚“首尔食品2026” ……韩国食品出口咨询继续"
-        },
-        {
-          "title": "“빵·음식 폐기 전에 할인”…배달앱 마감세일 경쟁",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KWG5NN3g3cXBMbXpFcHJaQ0w1N2V1cGxLREhtXzJNSE9DczZlUHBMbHVRTl9Na1hkLWFFQUszQkYyQThzdmMyaVJFODFTbGp2b1Bv0gFTQVVfeXFMT0pYbk03eDdxcExtekVwclpDTDU3ZXVwbEtESG1fMk1IT0NzNmVQcExsdVFOX01rWGQtYUVBSzNCRjJBOHN2YzJpUkU4MVNsanZvUG8?oc=5",
-          "desc": "",
-          "title_en": "“Discounts before disposing of bread and food” … Competition for deadline sale of delivery apps",
-          "title_ja": "「パンと食べ物を処分する前の割引」…配達アプリの締め切り販売の競争",
-          "title_zh": "“面包和食品处置前的折扣” ……争夺派送应用的截止日期销售"
         },
         {
           "title": "“‘등드름’ 고민이라면 ‘이 음식’ 절대 먹지 마라”…전문가들 추천한 여름철 관리법 [헬시타임]",
