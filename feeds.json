@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T19:03:25Z",
+  "lastUpdated": "2026-06-15T23:02:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -98,7 +98,7 @@
         {
           "title": "James Beard Foundation Awards 2026: Winners, News, and Updates",
           "link": "https://www.eater.com/jbfa/967902/james-beard-foundation-awards-2026-winners-news-and-updates",
-          "desc": "",
+          "desc": "The annual James Beard Foundation Awards are one of the most exciting and esteemed events of the year when it comes to American dining and food. Start",
           "title_ko": "제임스 비어드 재단 어워드 2026: 수상자, 뉴스 및 업데이트",
           "title_ja": "ジェームズ・ビアード財団賞2026 ：受賞者、ニュース、アップデート",
           "title_zh": "2026年詹姆斯·比尔德基金会奖：获奖者、新闻和更新"
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "'쿠팡이츠' 음식 배달만 하는 줄 알았는데…'깜짝 행보'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MVGZ6bHdLb1JpSVhsTzFHYmx4VlFkcWYyUkFDemppSHdzXzFUQ2hXSmQweWd3TmFhenhrU2VSUU9GUHZGbFU2ay1hVnlaNzk1blRFaDFFT2FLd9IBVEFVX3lxTFB6VDRxVmFZakdxZE9YUlVTTkJJRTZiZUY0aWJud1JlalRiT2ZBMk5acWkteVNEckdGSGc5MDY2T1BNMXE2WWJVQzZUc19OcjJnTVpCZQ?oc=5",
+          "desc": "",
+          "title_en": "'Coupangites' I thought they only deliver food... 'Surprise'",
+          "title_ja": "「クーパンギット」食べ物しか配達しないと思っていました...「サプライズ」",
+          "title_zh": "“Coupangites”我以为他们只提供食物...... “惊喜”"
+        },
+        {
           "title": "현대그린푸드, 국산 농산물 소비 촉진 나선다 … ‘태안 대파 100톤 매입’",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWDRrbGwtRVB0bmt5cXNBeGZpMF9ub2lJT2lnb0tUcjloOHpKQXYtb081RXI4QTNFT2ZWTmlCbDBMY3JRRUwxaTYtTFl6NS01YXVmajhabzVzQdIBVEFVX3lxTE0yRzJTOWd3YW1QdEhrbEhmYVM1dVg5QlcxNFJWV1BMQlRfUGxfZTdtRzZMcUtXT2hyUmxwYV9FR0ZVYnVrdEpQcnIwZ1FVbTM0RzBMMg?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "NS Home Shopping confirmed to hold ‘NS Food Festa 2026 Iksan’ in October",
           "title_ja": "NS Home Shopping、10月に「NS Food Festa 2026 Iksan」を開催決定",
           "title_zh": "NS Home Shopping确认于10月举行“NS Food Festa 2026 Iksan”"
-        },
-        {
-          "title": "올리오올리바, '서울푸드 2026' 참가… 300개 이상의 제품 포트폴리오 공개",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOC1ZTEF3YXN0QzZCRHVndzV1VGxGMjhJd3l3UzVxWkl5N3N3Zkxtc3hqQk5kZWphRXYwckVTbUlmNENoU1lITEdpVzFOakEwaUhvcHU0Q2dDNzBEaDNYNXYwM2tJdTB6Qkk5Qg?oc=5",
-          "desc": "",
-          "title_en": "Olio Oliva to Participate in 'Seoul Food 2026' … Unveiling a Portfolio of 300 + Products",
-          "title_ja": "オリオ・オリバ、「ソウルフード2026」に参加… 300以上の製品ポートフォリオを発表",
-          "title_zh": "Olio Oliva将参加“首尔食品2026”......推出300多种产品组合"
         }
       ]
     },
