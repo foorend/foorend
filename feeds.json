@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-06-16T11:11:38Z",
+  "lastUpdated": "2026-06-16T16:56:40Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "KFC unveils its ‘next chapter,’ focused on menu innovation, modernized restaurants, refreshed branding",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOTlJckxsNWJrSmFQV3dobnBfT2haRlg2Z3lTQUNJWVNteGNBSlpYMkJFUGVIMzdYWDBrVHQ0cS1neEM3V1JfRjhqYTFwQkJpelpBTmtGV01KdjN6S3R2WkZEdTdiMnZxRDNKSXMySm94UnVPNXhsUFRzcXhxZ1o4aU85aVVzU3R0aHUtdHB3V2NEOXRCREl4ZmlLMHBLekEwUUswMUdLUEk3Y1VrSTg0YnRjelJEU0dTYm5PNHUwenY0aUROeUNSdzdLT2Y?oc=5",
+          "desc": "",
+          "title_ko": "KFC, 메뉴 혁신, 현대화된 레스토랑, 상쾌한 브랜딩에 초점을 맞춘 ‘넥스트 챕터' 공개",
+          "title_ja": "KFCは、メニューの革新、レストランの近代化、ブランドの刷新に焦点を当てた「次の章」を発表",
+          "title_zh": "肯德基推出“新篇章” ，专注于菜单创新、餐厅现代化、品牌更新"
+        },
         {
           "title": "KFC plans to test a new prototype called Open House",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHRwZUlfdElNMnNKLTFDT3htYUZ2MWFIajhYSEJ4Nm9CS2VjMjBiTzBUa29vN3dCNHZLSVAtYll6THBqSFFDaGViMC0wX1ZpN0laU1ZNaGRBZUxKWlVTaVM3Szh3N0FDbDRpTm9LX2ItMGtlalZBQk5PRlY1WGZuM1lqckJLRXV3MWlyMUtFeUJObUREMG12SWZn?oc=5",
@@ -12,14 +20,6 @@
           "title_ko": "KFC는 오픈 하우스라는 새로운 프로토타입을 테스트할 계획입니다.",
           "title_ja": "KFCはオープンハウスと呼ばれる新しいプロトタイプをテストする予定です",
           "title_zh": "肯德基计划测试一种名为Open House的新原型"
-        },
-        {
-          "title": "Court OKs a $38B credit card swipe fee settlement, but restaurants aren’t impressed",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkM2REpCRF9vMkNRNEI0Y3ZOLTE4TXR5Ykg1NWFIYnNMdVoyaHRzWm82T0pfLXc3Ny1tVm1seTRPSXR4V2RZd1VDOERmcGpMZk9mQTVNbW56Sl91N3VpLTc3Wm1YMjhpOVVLUHhEd29uTVBjWkp0TUNrekMzY0FEcHdaY1BiWVNYZGtUejNRbE1hODNzZXpvMHlsU19HNVJVVmtHaXpXdXI5clRHVEE0T0h5RkladHhKWWFBc05n?oc=5",
-          "desc": "",
-          "title_ko": "법원은 $ 38B 신용 카드 스와이프 수수료 정산을 허용하지만 레스토랑은 인상적이지 않습니다.",
-          "title_ja": "裁判所は380億$のクレジットカードのスワイプ手数料の決済を承認しますが、レストランは感心していません",
-          "title_zh": "法院认可380亿美元的信用卡刷卡费结算，但餐厅并不令人印象深刻"
         },
         {
           "title": "Twin Peaks franchisees have a path to take ownership of the brand",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "'황홀한 맛' 北 주민 귀순시킨 그 음식…5000원대에 쫙 깔렸다 [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EbExxdmY3MEt0V1R6SmZGTW5GNE9yQWtYMVlYWEZUcTJUeXVpSXFDekxwTGpLdEloVlkwUFlFRURjNjN0c21xalhBLWlVZjJhajQ1TTc5ZzR6d9IBVEFVX3lxTFBmUjdEdkFkZUFqNTNTamFrT2VSSU5JeDF2bS00SU5TcWVsVnJOS0Fvc1QwTmd6Um5fVWhFQno3UUtJRWhTZ3YxTUNoZHFNZ1U4ZVVnWg?oc=5",
-          "desc": "",
-          "title_en": "'Fantastic taste' The food that North Koreans returned to... It was spread over 5,000 won [Kwon Yong-hoon's Trend Watch]",
-          "title_ja": "「すばらしい味」北朝鮮人が帰ってきた食べ物… 5,000ウォン以上に広がっていた【クォン・ヨンフンのトレンドウォッチ】",
-          "title_zh": "「美味佳肴」朝鲜人回归的美食……分布在5000多韩元【权永勋的潮流观察】"
-        },
-        {
           "title": "'쿠팡이츠' 음식 배달만 하는 줄 알았는데…'깜짝 행보'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MVGZ6bHdLb1JpSVhsTzFHYmx4VlFkcWYyUkFDemppSHdzXzFUQ2hXSmQweWd3TmFhenhrU2VSUU9GUHZGbFU2ay1hVnlaNzk1blRFaDFFT2FLd9IBVEFVX3lxTFB6VDRxVmFZakdxZE9YUlVTTkJJRTZiZUY0aWJud1JlalRiT2ZBMk5acWkteVNEckdGSGc5MDY2T1BNMXE2WWJVQzZUc19OcjJnTVpCZQ?oc=5",
           "desc": "",
           "title_en": "'Coupangites' I thought they only deliver food... 'Surprise'",
           "title_ja": "「クーパンギット」食べ物しか配達しないと思っていました...「サプライズ」",
           "title_zh": "“Coupangites”我以为他们只提供食物...... “惊喜”"
+        },
+        {
+          "title": "'황홀한 맛' 北 주민 귀순시킨 그 음식…5000원대에 쫙 깔렸다 [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EbExxdmY3MEt0V1R6SmZGTW5GNE9yQWtYMVlYWEZUcTJUeXVpSXFDekxwTGpLdEloVlkwUFlFRURjNjN0c21xalhBLWlVZjJhajQ1TTc5ZzR6d9IBVEFVX3lxTFBmUjdEdkFkZUFqNTNTamFrT2VSSU5JeDF2bS00SU5TcWVsVnJOS0Fvc1QwTmd6Um5fVWhFQno3UUtJRWhTZ3YxTUNoZHFNZ1U4ZVVnWg?oc=5",
+          "desc": "",
+          "title_en": "'Fantastic taste' The food that North Koreans returned to... It was spread over 5,000 won [Kwon Yong-hoon's Trend Watch]",
+          "title_ja": "「すばらしい味」北朝鮮人が帰ってきた食べ物… 5,000ウォン以上に広がっていた【クォン・ヨンフンのトレンドウォッチ】",
+          "title_zh": "「美味佳肴」朝鲜人回归的美食……分布在5000多韩元【权永勋的潮流观察】"
         },
         {
           "title": "'군대리아'가 편의점에…'취사병' 속 그 음식이 도시락으로",
@@ -204,12 +204,12 @@
           "title_zh": "推动利用食物垃圾发电的“沼气发生器”的本地化"
         },
         {
-          "title": "英 내셔널 지오그래픽 선정 숙취해소에 좋은 한국 음식은?",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xaHhmQ2NXbEJPVTMxcGtoaFk5TGF3aXFQczR2LUhRVVZHWFdobkp4TlNTa1BHSDZwRnlJX0ZVMW1lanpaTkRuUmQ5SU1lb2VPdS1scEI4TEViTFgxbmE1OUc3OU_SAWRBVV95cUxNcWh4ZkNjV2xCT1UzMXBraGhZOUxhd2lxUHM0di1IUVVWR1hXaG5KeE5TU2tQR0g2cEZ5SV9GVTFtZWp6Wk5EblJkOUlNZW9lT3UtbHBCOExFYkxYMW5hNTlHNzlP?oc=5",
+          "title": "K푸드·뷰티, 중동 공략 본격 재시동",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VVmtYZjhtR0tJYktZTGo2V3RieFAxeGpaTnN0TlM3SmtUQWliNGVwQzZtUWRuSkZDbV9yVkFPQk5vaF9aM29vOGUtZW00WVFfNGpKYk1R?oc=5",
           "desc": "",
-          "title_en": "What Korean food is good for relieving hangovers, according to National Geographic?",
-          "title_ja": "ナショナルジオグラフィックによると、二日酔いを和らげるのに良い韓国料理は何ですか？",
-          "title_zh": "根据国家地理杂志的数据，哪些韩国食物可以缓解宿醉？"
+          "title_en": "K-Food and Beauty restart full-scale attack on the Middle East",
+          "title_ja": "K - FoodとBeautyが中東への本格的な攻撃を再開",
+          "title_zh": "K-Food & Beauty重启中东全面攻势"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "‘기능성 슈퍼푸드’로 부상한 스웨덴 K-푸드",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lLVFVQ2xIVUREWHh6ckNBZ01aZS1NWUV6cmhyTmIxMGlPREFRR2UxekdLd0NOWmY1U1ZsaTcycWp0dC1jeXFXRnVCTE95RjdNYTlqZ2Rxaw?oc=5",
-          "desc": "",
-          "title_en": "Swedish K-Food Emerges as‘ Functional Superfood ’",
-          "title_ja": "スウェーデンのK - Foodが「機能性スーパーフード」として登場",
-          "title_zh": "瑞典K-Food成为“功能性超级食品”"
-        },
         {
           "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "“Try the Korean Meat Menu” … Participated in 'Seoul Food 2026‘, the American Meat Export Association",
           "title_ja": "「韓国肉メニューを試す」…米国食肉輸出協会「ソウルフード2026」に参加",
           "title_zh": "“尝试韩国肉类菜单” ……参加美国肉类出口协会“首尔食品2026”"
+        },
+        {
+          "title": "마늘·양파의 기능성 성분, 자르는 방식 따라 달라진다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91dHhzQnZ5MEItT0tBQmhoS05mdjgzMy11anVFblM1X3N1N05LWDBCVEhfakYwNXdPc3lJZWM3a0I4R3hFSFpoOEJ4V1FCYXVTUkZYSTR2NA?oc=5",
+          "desc": "",
+          "title_en": "Functional ingredients of garlic and onions, depends on how they are cut",
+          "title_ja": "ニンニクと玉ねぎの機能性成分は、どのようにカットされるかによって異なります",
+          "title_zh": "大蒜和洋葱的功能性成分，取决于它们的切割方式"
         }
       ]
     }
