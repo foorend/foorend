@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-06-16T16:56:40Z",
+  "lastUpdated": "2026-06-16T20:51:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Twin Peaks franchisees have a path to take ownership of the brand",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjZMLXlZdXBZQUtNTG0zOFE3TC1TcERGWjllcDlRX2s2UDJOdkNhZ3pvMHAtOWpYUmFLcHB2emlQWmM4SzdRNVZoTlRqcERoWHBFWHBGRTlyejd1ZEI4ZzFuZjZINjJweW9tQmtXamk3a2I2ZmYxbWp3T3F2UjNCODJUZjJSNU5oZTVmVUZWX19yRTVCQnZhR2RPazBjNlBCblE?oc=5",
+          "desc": "",
+          "title_ko": "Twin Peaks 프랜차이즈 가맹점은 브랜드를 소유할 수 있는 경로가 있습니다.",
+          "title_ja": "ツインピークスのフランチャイズ加盟店は、ブランドの所有権を得るためのパスを持っています",
+          "title_zh": "Twin Peaks加盟商拥有品牌所有权"
+        },
         {
           "title": "KFC unveils its ‘next chapter,’ focused on menu innovation, modernized restaurants, refreshed branding",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOTlJckxsNWJrSmFQV3dobnBfT2haRlg2Z3lTQUNJWVNteGNBSlpYMkJFUGVIMzdYWDBrVHQ0cS1neEM3V1JfRjhqYTFwQkJpelpBTmtGV01KdjN6S3R2WkZEdTdiMnZxRDNKSXMySm94UnVPNXhsUFRzcXhxZ1o4aU85aVVzU3R0aHUtdHB3V2NEOXRCREl4ZmlLMHBLekEwUUswMUdLUEk3Y1VrSTg0YnRjelJEU0dTYm5PNHUwenY0aUROeUNSdzdLT2Y?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "KFC는 오픈 하우스라는 새로운 프로토타입을 테스트할 계획입니다.",
           "title_ja": "KFCはオープンハウスと呼ばれる新しいプロトタイプをテストする予定です",
           "title_zh": "肯德基计划测试一种名为Open House的新原型"
-        },
-        {
-          "title": "Twin Peaks franchisees have a path to take ownership of the brand",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjZMLXlZdXBZQUtNTG0zOFE3TC1TcERGWjllcDlRX2s2UDJOdkNhZ3pvMHAtOWpYUmFLcHB2emlQWmM4SzdRNVZoTlRqcERoWHBFWHBGRTlyejd1ZEI4ZzFuZjZINjJweW9tQmtXamk3a2I2ZmYxbWp3T3F2UjNCODJUZjJSNU5oZTVmVUZWX19yRTVCQnZhR2RPazBjNlBCblE?oc=5",
-          "desc": "",
-          "title_ko": "Twin Peaks 프랜차이즈 가맹점은 브랜드를 소유할 수 있는 경로가 있습니다.",
-          "title_ja": "ツインピークスのフランチャイズ加盟店は、ブランドの所有権を得るためのパスを持っています",
-          "title_zh": "Twin Peaks加盟商拥有品牌所有权"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“尝试韩国肉类菜单” ……参加美国肉类出口协会“首尔食品2026”"
         },
         {
-          "title": "마늘·양파의 기능성 성분, 자르는 방식 따라 달라진다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91dHhzQnZ5MEItT0tBQmhoS05mdjgzMy11anVFblM1X3N1N05LWDBCVEhfakYwNXdPc3lJZWM3a0I4R3hFSFpoOEJ4V1FCYXVTUkZYSTR2NA?oc=5",
+          "title": "6월에 먹는 다슬기, 부추와 함께 드세요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKOHNtbkk3UHN5dllUc2ZSY2lNczl2SVM0QnJDa2ZmcjdXcTJRQmhwdDFlUEFUQ3MzU1BocjlhMFBCNFQzazNPcDBQNE95ZnM0cjZFOFJtRQ?oc=5",
           "desc": "",
-          "title_en": "Functional ingredients of garlic and onions, depends on how they are cut",
-          "title_ja": "ニンニクと玉ねぎの機能性成分は、どのようにカットされるかによって異なります",
-          "title_zh": "大蒜和洋葱的功能性成分，取决于它们的切割方式"
+          "title_en": "Pair it with June tea season and leeks",
+          "title_ja": "6月のお茶の季節とネギとのペアリング",
+          "title_zh": "搭配六月茶季和韭菜"
         }
       ]
     }
