@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T23:02:52Z",
+  "lastUpdated": "2026-06-16T04:14:14Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Full List of James Beard Awards 2026 Restaurant and Chef Winners",
+          "link": "https://www.eater.com/restaurant-news/967899/james-beard-awards-2026-restaurant-chef-winners",
+          "desc": "On Monday, June 15, the James Beard Foundation revealed the remaining winners of the 2026 James Beard Awards at its annual ceremony in Chicago, bringi",
+          "title_ko": "제임스 비어드 어워드 2026 레스토랑 및 셰프 수상자 전체 목록",
+          "title_ja": "ジェームズ・ビアード・アワード2026レストラン＆シェフ賞受賞者の全リスト",
+          "title_zh": "2026年詹姆斯·比尔德奖餐厅和厨师获奖者完整名单"
+        },
+        {
           "title": "James Beard Foundation Awards 2026: Winners, News, and Updates",
           "link": "https://www.eater.com/jbfa/967902/james-beard-foundation-awards-2026-winners-news-and-updates",
           "desc": "The annual James Beard Foundation Awards are one of the most exciting and esteemed events of the year when it comes to American dining and food. Start",
@@ -110,14 +118,6 @@
           "title_ko": "2026년 제임스 비어드 어워드 미디어 어워드 수상자는 다음과 같습니다.",
           "title_ja": "2026年ジェームズ・ビアード賞メディア賞受賞者はこちら",
           "title_zh": "以下是2026年詹姆斯·比尔德奖媒体奖得主"
-        },
-        {
-          "title": "This Bread Factory Makes Thousands of Philly Cheesesteak Rolls Every Day",
-          "link": "https://www.eater.com/dining-out/969241/amorosos-baking-philly-cheesesteak-bread",
-          "desc": "For more than a century, Amoroso’s Baking Co. has been producing the bread for the famous Philly cheesesteaks around the city. Each 800-pound batch of",
-          "title_ko": "이 빵 공장은 매일 수천 개의 필라델피아 치즈스테이크 롤을 만듭니다",
-          "title_ja": "このパン工場では、毎日何千ものフィリーチーズステーキロールを作っています",
-          "title_zh": "这家面包厂每天生产成千上万的费城奶酪牛排卷"
         }
       ]
     }
@@ -136,20 +136,20 @@
           "title_zh": "“Coupangites”我以为他们只提供食物...... “惊喜”"
         },
         {
+          "title": "'군대리아'가 편의점에…'취사병' 속 그 음식이 도시락으로",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94b1Njb29PT0l5QnZwUWNPYkRIYnN0WEh1T0V2VEdITEVscGFwZjhJekJHb0NnOU5QZVkyWTRMWU8wUkZ1Yjd6d1ZMUFZkZHlTd25iaGJBYmtXUdIBVEFVX3lxTFBZZFBSVThNTVl2SnJCR0k0S0IwYnhKRlVrWFNidlFadzUwX2xLTGhsUTNGelo2VWE5b0pwODlUanR6V2ZFMG5Td2NtVldhRjBuNFpkeg?oc=5",
+          "desc": "",
+          "title_en": "'Armed Forces' is a convenience store... The food in the 'catering bottle' is a lunch box",
+          "title_ja": "「軍隊」はコンビニです…「ケータリングボトル」の中の食べ物はお弁当箱です",
+          "title_zh": "「武装部队」是一家便利店……「餐饮瓶」里的食物是午餐盒"
+        },
+        {
           "title": "현대그린푸드, 국산 농산물 소비 촉진 나선다 … ‘태안 대파 100톤 매입’",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWDRrbGwtRVB0bmt5cXNBeGZpMF9ub2lJT2lnb0tUcjloOHpKQXYtb081RXI4QTNFT2ZWTmlCbDBMY3JRRUwxaTYtTFl6NS01YXVmajhabzVzQdIBVEFVX3lxTE0yRzJTOWd3YW1QdEhrbEhmYVM1dVg5QlcxNFJWV1BMQlRfUGxfZTdtRzZMcUtXT2hyUmxwYV9FR0ZVYnVrdEpQcnIwZ1FVbTM0RzBMMg?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Food Promotes Domestic Agricultural Consumption... ‘Purchase 100 Tons of Taean Daffodils’",
           "title_ja": "現代のグリーンフードは国内農業消費を促進します...「100トンのTaean Daffodilsを購入する」",
           "title_zh": "现代绿色食品促进国内农业消费… “购买100吨泰安水仙花”"
-        },
-        {
-          "title": "NS홈쇼핑, ‘NS 푸드페스타 2026 익산’ 10월 개최 확정",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZGlmVVVPX0FLa1lpOUxJX2JIOWRFUjM1SV9DbHNZVzRoSTB1Znc0eWN1X0tucG92TDdJYXdueFhYSEpPaDJnbmdTUTNxeTFLQXhGb0wyUms4d9IBVEFVX3lxTE9jcFcxQWdUZmlYQ0JMQjhBU0dTNUM4dDRWTl9RRlVvVVdrR1dVbDM4MWxFSy1KTjVOcC1YMjJaN0Y1Y194TVJ0TFpoVEkwRXY5RmQ3aw?oc=5",
-          "desc": "",
-          "title_en": "NS Home Shopping confirmed to hold ‘NS Food Festa 2026 Iksan’ in October",
-          "title_ja": "NS Home Shopping、10月に「NS Food Festa 2026 Iksan」を開催決定",
-          "title_zh": "NS Home Shopping确认于10月举行“NS Food Festa 2026 Iksan”"
         }
       ]
     },
@@ -175,7 +175,7 @@
         },
         {
           "title": "“빵·음식 폐기 전에 할인”…배달앱 마감세일 경쟁",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KWG5NN3g3cXBMbXpFcHJaQ0w1N2V1cGxLREhtXzJNSE9DczZlUHBMbHVRTl9Na1hkLWFFQUszQkYyQThzdmMyaVJFODFTbGp2b1Bv0gFTQVVfeXFMT0pYbk03eDdxcExtekVwclpDTDU3ZXVwbEtESG1fMk1IT0NzNmVQcExsdVFOX01rWGQtYUVBSzNCRjJBOHN2YzJpUkU4MVNsanZvUG8?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sdDFqdTFrVXZzV0ZpLTBmdFZXUWJzQnpsNFNqSzB3U3BiTUpIT2EtTEs1dTBiOXJHZ0k4Y2lJbmhCMzI0S25pN0h5QnRyQUo5ZnfSAVNBVV95cUxPSlhuTTd4N3FwTG16RXByWkNMNTdldXBsS0RIbV8yTUhPQ3M2ZVBwTGx1UU5fTWtYZC1hRUFLM0JGMkE4c3ZjMmlSRTgxU2xqdm9Qbw?oc=5",
           "desc": "",
           "title_en": "“Discounts before disposing of bread and food” … Competition for deadline sale of delivery apps",
           "title_ja": "「パンと食べ物を処分する前の割引」…配達アプリの締め切り販売の競争",
