@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T20:51:25Z",
+  "lastUpdated": "2026-06-16T22:52:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -244,36 +244,5 @@
       ]
     }
   },
-  "korean_articles": [
-    {
-      "title": "🥐🍗26년 6월 한국 푸드 트렌드🍦💸",
-      "link": "https://foodtrend.stibee.com/p/208",
-      "desc": ""
-    },
-    {
-      "title": "🌍26년 5월 글로벌 푸드 트렌드🍽️✨",
-      "link": "https://foodtrend.stibee.com/p/207",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 편의점/HMR MD를 거친 패션 MD의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/206",
-      "desc": ""
-    },
-    {
-      "title": "🍙26년 5월 한국 푸드 트렌드🏛️✨",
-      "link": "https://foodtrend.stibee.com/p/205",
-      "desc": ""
-    },
-    {
-      "title": "🤖26년 4월 글로벌 푸드 트렌드🥞🍔",
-      "link": "https://foodtrend.stibee.com/p/204",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 푸렌드 에디터의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/203",
-      "desc": ""
-    }
-  ]
+  "korean_articles": []
 }
