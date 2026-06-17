@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T04:12:39Z",
+  "lastUpdated": "2026-06-17T10:57:32Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "「美味佳肴」朝鲜人回归的美食……分布在5000多韩元【权永勋的潮流观察】"
         },
         {
+          "title": "경기도 푸드테크 아이디어 공모전",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mbEhUSXhMWU9VOXRpNGJDZGQzOXlUajZfLXppcTNmbmhPVjFoaTByeF9oV0xKaURobEc5ZUh2TWQ5bnJ2NWw3YWFhTlZsVGVBMFB6eDV6SWstUdIBVEFVX3lxTE83WUhkN1VBMU5uY2ItVndrRDRobXJIaExUS2xtRFBBQ19sd1NHZGhqT2EtNFhzZzNCUVEzUmp3STA4REJMblBveXd6LU1tY3hKYkZDWQ?oc=5",
+          "desc": "",
+          "title_en": "Gyeonggi-do Food Tech Idea Contest",
+          "title_ja": "京畿道フードテックアイデアコンテスト",
+          "title_zh": "京畿道食品技术创意大赛"
+        },
+        {
           "title": "'쿠팡이츠' 음식 배달만 하는 줄 알았는데…'깜짝 행보'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MVGZ6bHdLb1JpSVhsTzFHYmx4VlFkcWYyUkFDemppSHdzXzFUQ2hXSmQweWd3TmFhenhrU2VSUU9GUHZGbFU2ay1hVnlaNzk1blRFaDFFT2FLd9IBVEFVX3lxTFB6VDRxVmFZakdxZE9YUlVTTkJJRTZiZUY0aWJud1JlalRiT2ZBMk5acWkteVNEckdGSGc5MDY2T1BNMXE2WWJVQzZUc19OcjJnTVpCZQ?oc=5",
           "desc": "",
           "title_en": "'Coupangites' I thought they only deliver food... 'Surprise'",
           "title_ja": "「クーパンギット」食べ物しか配達しないと思っていました...「サプライズ」",
           "title_zh": "“Coupangites”我以为他们只提供食物...... “惊喜”"
-        },
-        {
-          "title": "'군대리아'가 편의점에…'취사병' 속 그 음식이 도시락으로",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94b1Njb29PT0l5QnZwUWNPYkRIYnN0WEh1T0V2VEdITEVscGFwZjhJekJHb0NnOU5QZVkyWTRMWU8wUkZ1Yjd6d1ZMUFZkZHlTd25iaGJBYmtXUdIBVEFVX3lxTFBZZFBSVThNTVl2SnJCR0k0S0IwYnhKRlVrWFNidlFadzUwX2xLTGhsUTNGelo2VWE5b0pwODlUanR6V2ZFMG5Td2NtVldhRjBuNFpkeg?oc=5",
-          "desc": "",
-          "title_en": "'Armed Forces' is a convenience store... The food in the 'catering bottle' is a lunch box",
-          "title_ja": "「軍隊」はコンビニです…「ケータリングボトル」の中の食べ物はお弁当箱です",
-          "title_zh": "「武装部队」是一家便利店……「餐饮瓶」里的食物是午餐盒"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "「韩国美食成为艺术」K Food World Class比您想象的更疯狂！ #美食#精致餐饮#韩国美食#海外反应#米其林指南# Hallyu # kfood #韩国文化#未知#讲座"
         },
         {
-          "title": "신세계푸드, 인천에 신규 생산거점 확보…성수공장 이전 추진",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRldkQ1dzNDNjWmFqWFRxazlUNnBRdzhrVXBoWVgzcEtGeFB3SjVtRlNVYnhlLXR0Rl9VNlFCSGRkSmNFWlRKcnJGd0RyQ3k3T2fSAVNBVV95cUxNcmZUdndESmc4T0lscEZmV3dnWFI5eDBMbGlEekdMbFBwTnZVTWdoSWRvTTNuQTJ5b1QtZ1plT0NpN1hGREtqN2tNVmI3OW5sZEJpaw?oc=5",
-          "desc": "",
-          "title_en": "Shinsegae Foods Secures New Production Base in Incheon… Seongsu Plant Relocation",
-          "title_ja": "新世界食品、仁川に生産拠点を新設…ソンス工場移転",
-          "title_zh": "Shinsegae Foods在仁川建立新的生产基地… Seongsu工厂搬迁"
-        },
-        {
           "title": "파리바게뜨, 동남아 6개국서 ‘안녕!’ 캠페인...“K푸드 활용한 현지화 메뉴 개발”",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14WFJOQW45ZGU5dThvdlZtTWEzLWdPREZRX01KSTl2VzlWVlE2NzRWU3ZpOXZXNmhMZ1ZvdGVOVXI5TlJ4X2ZjZGtCRmxPb0tNZ0pmbEpUWTZJNWYwaEwydEhRS2lnUdIBU0FVX3lxTFBxSDBjQTdrU0UwRktBY1VXa3VkcnlMX0ZvMXk0c3VIWVpnOUF0Zk10TlBBN0lQZmx1Wi1OSmVXc1R1Q2s5RENON2JOWHJYU29mY01n?oc=5",
           "desc": "",
           "title_en": "Paris Baguette, six countries in Southeast Asia ‘Hello!’ Campaign... “Development of localization menu using K food”",
           "title_ja": "パリバゲット、東南アジアの6カ国「こんにちは！ ’キャンペーン…「K食を使ったローカリゼーションメニューの開発」",
           "title_zh": "巴黎法棍面包，东南亚六个国家/地区您好！ ’活动... “使用K FOOD开发本地化菜单”"
+        },
+        {
+          "title": "신세계푸드, 인천에 신규 생산거점 확보…성수공장 이전 추진",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRldkQ1dzNDNjWmFqWFRxazlUNnBRdzhrVXBoWVgzcEtGeFB3SjVtRlNVYnhlLXR0Rl9VNlFCSGRkSmNFWlRKcnJGd0RyQ3k3T2fSAVNBVV95cUxNcmZUdndESmc4T0lscEZmV3dnWFI5eDBMbGlEekdMbFBwTnZVTWdoSWRvTTNuQTJ5b1QtZ1plT0NpN1hGREtqN2tNVmI3OW5sZEJpaw?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Foods Secures New Production Base in Incheon… Seongsu Plant Relocation",
+          "title_ja": "新世界食品、仁川に生産拠点を新設…ソンス工場移転",
+          "title_zh": "Shinsegae Foods在仁川建立新的生产基地… Seongsu工厂搬迁"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "맛있는 음식·흥겨운 공연…남원시 월광포차, 도심서 시범 운영",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsblNUbkptMTd0RTRzNVBJTWNrZFNrZmFSQzlUTU5PaVFWUHlzQ1lsdUZIc0pzQTQ2anVzSWx0YldCcHBDWUE5SktxZ2ItZllXYnc?oc=5",
+          "title": "윙입푸드홀딩스 그룹, 나스닥 최저가 기준 충족..상장폐지 위기 해소",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YWpHdzlraDlqUVgwMmxtYTlrYkNvUGpPR21YOXRqQmpQOG1lQWJ6REkwMGZZWmNILWE4TFE2d2RULW1hUkd5Sl9yYnlQQ2RGVnc?oc=5",
           "desc": "",
-          "title_en": "Delicious food and exciting performances… Namwon City's Wolgwang Pocha, a pilot in the city center",
-          "title_ja": "美味しい料理とエキサイティングなパフォーマンス…南原市のウォルグワン・ポチャ、市内中心部のパイロット",
-          "title_zh": "美味佳肴和精彩表演……南原市的Wolgwang Pocha ，市中心的飞行员"
+          "title_en": "Wingip Food Holdings Group Meets Nasdaq Lowest Price Criteria.. Eliminates Delisting Crisis",
+          "title_ja": "Wingip Food Holdings Groupがナスダックの最低価格基準を満たし、上場廃止危機を回避",
+          "title_zh": "Wingip Food Holdings Group符合纳斯达克最低价格标准..消除退市危机"
         },
         {
-          "title": "음식쓰레기로 전기 만드는 '바이오가스 발전기' 국산화 추진",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45cFc3Q291RG5KdnRVOGJUZlJ6YnhIUms4X1FyM01OYnhWd1g2RWxkQTk2LVBrbVpNeVZWdWE5cUlXeXpaN2R2Tjl4dm9SV0NkeEE?oc=5",
-          "desc": "",
-          "title_en": "Promote localization of 'biogas generator', which makes electricity from food waste",
-          "title_ja": "食品廃棄物から電力を生み出す「バイオガス発電機」のローカリゼーションを推進",
-          "title_zh": "推动利用食物垃圾发电的“沼气发生器”的本地化"
-        },
-        {
-          "title": "K푸드·뷰티, 중동 공략 본격 재시동",
+          "title": "\"이란 종전\"…K푸드·뷰티, 중동공략 재시동",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VVmtYZjhtR0tJYktZTGo2V3RieFAxeGpaTnN0TlM3SmtUQWliNGVwQzZtUWRuSkZDbV9yVkFPQk5vaF9aM29vOGUtZW00WVFfNGpKYk1R?oc=5",
           "desc": "",
-          "title_en": "K-Food and Beauty restart full-scale attack on the Middle East",
-          "title_ja": "K - FoodとBeautyが中東への本格的な攻撃を再開",
-          "title_zh": "K-Food & Beauty重启中东全面攻势"
+          "title_en": "“The End of Iran” … Restarting K-Food, Beauty, and Exploitation of the Middle East",
+          "title_ja": "「イランの終わり」…中東のK - Food、美容、搾取を再開",
+          "title_zh": "“伊朗的终结” ……重启K-Food ，美丽和开采中东"
+        },
+        {
+          "title": "신세계푸드, 전문점 못지않은 쫄깃한 식감 … 간편식 삼계탕 판매량 32% 쑥",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95WGU5MjFfeUxjSnhubUJDeVZkTXR4YXE4Q3BNaXpaZGlTd2RTODlaZ3ZKZi05Z0JFbjVzR1FsemFGdTZoSUNvXzhDZG1BN1BjaW9IRg?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Food, chewy texture like a specialty store... Simple Samgyetang Sales 32% Wormwood",
+          "title_ja": "Shinsegae Food、専門店のような歯ごたえ…シンプルなサムゲタンセールス32 ％ワームウッド",
+          "title_zh": "Shinsegae美食，像专卖店一样耐嚼的质地...简单的Samgyetang销售32%茵陈"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“尝试韩国肉类菜单” ……参加美国肉类出口协会“首尔食品2026”"
         },
         {
-          "title": "마늘·양파의 기능성 성분, 자르는 방식 따라 달라진다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91dHhzQnZ5MEItT0tBQmhoS05mdjgzMy11anVFblM1X3N1N05LWDBCVEhfakYwNXdPc3lJZWM3a0I4R3hFSFpoOEJ4V1FCYXVTUkZYSTR2NA?oc=5",
+          "title": "6월에 먹는 다슬기, 부추와 함께 드세요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKOHNtbkk3UHN5dllUc2ZSY2lNczl2SVM0QnJDa2ZmcjdXcTJRQmhwdDFlUEFUQ3MzU1BocjlhMFBCNFQzazNPcDBQNE95ZnM0cjZFOFJtRQ?oc=5",
           "desc": "",
-          "title_en": "Functional ingredients of garlic and onions, depends on how they are cut",
-          "title_ja": "ニンニクと玉ねぎの機能性成分は、どのようにカットされるかによって異なります",
-          "title_zh": "大蒜和洋葱的功能性成分，取决于它们的切割方式"
+          "title_en": "Pair it with June tea season and leeks",
+          "title_ja": "6月のお茶の季節とネギとのペアリング",
+          "title_zh": "搭配六月茶季和韭菜"
         }
       ]
     }
