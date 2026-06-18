@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T10:21:29Z",
+  "lastUpdated": "2026-06-18T15:26:14Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "肯德基推出“新篇章” ，专注于菜单创新、餐厅现代化、品牌更新"
         },
         {
-          "title": "KFC plans to test a new prototype called Open House",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHRwZUlfdElNMnNKLTFDT3htYUZ2MWFIajhYSEJ4Nm9CS2VjMjBiTzBUa29vN3dCNHZLSVAtYll6THBqSFFDaGViMC0wX1ZpN0laU1ZNaGRBZUxKWlVTaVM3Szh3N0FDbDRpTm9LX2ItMGtlalZBQk5PRlY1WGZuM1lqckJLRXV3MWlyMUtFeUJObUREMG12SWZn?oc=5",
+          "title": "Court OKs a $38B credit card swipe fee settlement, but restaurants aren’t impressed",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkM2REpCRF9vMkNRNEI0Y3ZOLTE4TXR5Ykg1NWFIYnNMdVoyaHRzWm82T0pfLXc3Ny1tVm1seTRPSXR4V2RZd1VDOERmcGpMZk9mQTVNbW56Sl91N3VpLTc3Wm1YMjhpOVVLUHhEd29uTVBjWkp0TUNrekMzY0FEcHdaY1BiWVNYZGtUejNRbE1hODNzZXpvMHlsU19HNVJVVmtHaXpXdXI5clRHVEE0T0h5RkladHhKWWFBc05n?oc=5",
           "desc": "",
-          "title_ko": "KFC는 오픈 하우스라는 새로운 프로토타입을 테스트할 계획입니다.",
-          "title_ja": "KFCはオープンハウスと呼ばれる新しいプロトタイプをテストする予定です",
-          "title_zh": "肯德基计划测试一种名为Open House的新原型"
+          "title_ko": "법원은 $ 38B 신용 카드 스와이프 수수료 정산을 허용하지만 레스토랑은 인상적이지 않습니다.",
+          "title_ja": "裁判所は380億$のクレジットカードのスワイプ手数料の決済を承認しますが、レストランは感心していません",
+          "title_zh": "法院认可380亿美元的信用卡刷卡费结算，但餐厅并不令人印象深刻"
         }
       ]
     },
@@ -35,6 +35,14 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
+        {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "「美味佳肴」朝鲜人回归的美食……分布在5000多韩元【权永勋的潮流观察】"
         },
         {
-          "title": "'서울푸드 2026' 역대 최대 규모 개최…49개국 1800개사 참가",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNekdxYVBRMUVTdFFGMjJLdjFuZkZrVWZOQ3ZDU2VvWVhic1ZTUjg1T1N6UVZBWmpMeDBtYWZGNVh0VTNZQXJjVnNXVklNU2pHRmk4X204RlFkNy05dFM5UjhWTTFyM3VFU3BWQzBxa1ZZWE0teW9acGtreG8yb0EwY2lFVjBfZmc?oc=5",
-          "desc": "",
-          "title_en": "'Seoul Food 2026' the largest ever held… 1800 companies from 49 countries participated",
-          "title_ja": "史上最大規模の「ソウルフード2026」… 49カ国1800社が参加",
-          "title_zh": "有史以来规模最大的“首尔美食2026” ……来自49个国家的1800家公司参加"
-        },
-        {
           "title": "한경기획, '월드푸드테크 컨펙스 2026'서 2관왕",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGWFRJSnRnRzRiMHF5aVVzMllJVXM1WEllRF9kN1IyUzZfWkJxZmN0bzg0aTlkTzhfR0k4Sk9IR05oSEJDNTNkUmlIeDIyeUJ3VDFIVlBKalFwQdIBVEFVX3lxTE1BTmJ1cTNNLWZFYjNmaXE0VWNzVW1NM2JZejBqdzViaEhod0hSWDRhaS12QWZMMmNIbjhYQkswaWwwampXRzlTbXRYT240VGtRdll4cA?oc=5",
           "desc": "",
           "title_en": "Hangyeong Planning, 'World Food Tech Confex 2026' Seo 2 crowns",
           "title_ja": "ハンギョンプランニング、「World Food Tech Confex 2026」ソ2クラウン",
           "title_zh": "Hangyeong Planning ， “World Food Tech Confex 2026” Seo 2 crowns"
+        },
+        {
+          "title": "'서울푸드 2026' 역대 최대 규모 개최…49개국 1800개사 참가",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNekdxYVBRMUVTdFFGMjJLdjFuZkZrVWZOQ3ZDU2VvWVhic1ZTUjg1T1N6UVZBWmpMeDBtYWZGNVh0VTNZQXJjVnNXVklNU2pHRmk4X204RlFkNy05dFM5UjhWTTFyM3VFU3BWQzBxa1ZZWE0teW9acGtreG8yb0EwY2lFVjBfZmc?oc=5",
+          "desc": "",
+          "title_en": "'Seoul Food 2026' the largest ever held… 1800 companies from 49 countries participated",
+          "title_ja": "史上最大規模の「ソウルフード2026」… 49カ国1800社が参加",
+          "title_zh": "有史以来规模最大的“首尔美食2026” ……来自49个国家的1800家公司参加"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "롯데웰푸드, 야구 팬심 잡는다…KBO 협업 제품 출시",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aZERYbGo4T0YySC1zbHU1bHNRb2xWQ0VBNjBWTGdYeFJ2Z3Zaa2tfdnhFaUVQSWFzRTVkV1hvX2tkZ25zMjVUVzBvQW5vY1VjMUE?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Catch Baseball Fans… KBO Collaborative Product Launch",
+          "title_ja": "ロッテウェルフードキャッチ野球ファン… KBOコラボ製品発売",
+          "title_zh": "乐天Well Food Catch棒球迷… KBO合作产品发布"
+        },
+        {
           "title": "전통시장서 장보고 향토음식 만들고…제주 미식여행 어때요",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15MXltQWE0NkxQQ2JpckZkS3NuaktKd1F5Y2h4WS1neWtKZ0p5UkM3bC01TTQySWJDNVUyVENOZG1BOTZGNDZCdDF3Z0UtLVlDT1E?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Ministry of Agriculture, Food and Tourism expands K-Food exports in connection with tourism and contents... Aimed at $16 billion",
           "title_ja": "農業・食品・観光省、観光とコンテンツに関連してK - Foodの輸出を拡大... 160億ドルを目指す",
           "title_zh": "农业、食品和旅游部扩大与旅游和内容相关的K-Food出口...目标为160亿美元"
-        },
-        {
-          "title": "윙입푸드홀딩스 그룹, 나스닥 최저가 기준 충족..상장폐지 위기 해소",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YWpHdzlraDlqUVgwMmxtYTlrYkNvUGpPR21YOXRqQmpQOG1lQWJ6REkwMGZZWmNILWE4TFE2d2RULW1hUkd5Sl9yYnlQQ2RGVnc?oc=5",
-          "desc": "",
-          "title_en": "Wingip Food Holdings Group Meets Nasdaq Lowest Price Criteria.. Eliminates Delisting Crisis",
-          "title_ja": "Wingip Food Holdings Groupがナスダックの最低価格基準を満たし、上場廃止危機を回避",
-          "title_zh": "Wingip Food Holdings Group符合纳斯达克最低价格标准..消除退市危机"
         }
       ]
     },
@@ -244,36 +244,5 @@
       ]
     }
   },
-  "korean_articles": [
-    {
-      "title": "🍽️前 이마트 노브랜드 식품 MD · 베이킹 공방 운영자의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/209",
-      "desc": ""
-    },
-    {
-      "title": "🥐🍗26년 6월 한국 푸드 트렌드🍦💸",
-      "link": "https://foodtrend.stibee.com/p/208",
-      "desc": ""
-    },
-    {
-      "title": "🌍26년 5월 글로벌 푸드 트렌드🍽️✨",
-      "link": "https://foodtrend.stibee.com/p/207",
-      "desc": ""
-    },
-    {
-      "title": "🍽️FOOREND's Friends! 편의점/HMR MD를 거친 패션 MD의 이야기✨",
-      "link": "https://foodtrend.stibee.com/p/206",
-      "desc": ""
-    },
-    {
-      "title": "🍙26년 5월 한국 푸드 트렌드🏛️✨",
-      "link": "https://foodtrend.stibee.com/p/205",
-      "desc": ""
-    },
-    {
-      "title": "🤖26년 4월 글로벌 푸드 트렌드🥞🍔",
-      "link": "https://foodtrend.stibee.com/p/204",
-      "desc": ""
-    }
-  ]
+  "korean_articles": []
 }
