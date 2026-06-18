@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T20:26:16Z",
+  "lastUpdated": "2026-06-18T22:55:55Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -204,12 +204,12 @@
           "title_zh": "用传统市场书籍制作当地美食...济州美食之旅"
         },
         {
-          "title": "농식품부, 관광·콘텐츠 연계 K푸드 수출 확대…160억달러 목표",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TdFkyaXlFVnVseFllMjlYYjZNc2dodWZfY0kzSmg4WXd2UXY4U0tDcDVHdzA2dDRyQXNmRzJCWU5iNVdPNTJYeTVVRVB0SHlGM2ZEYVE4ekdKZGhhaDBuZQ?oc=5",
+          "title": "라이프웨이 푸드, 2026년 매출 2억5150만 달러 전망..전년비 18% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rVVdpeURVZkY3ZlQxTnBaQjhmMzNCV19tejdQODNrOVo5Xy01Z1dINU1Zbk02bmRTQmVDdUR6N2sxTmNoRFF5aUNRb1Q1QjAxMXc?oc=5",
           "desc": "",
-          "title_en": "Ministry of Agriculture, Food and Tourism expands K-Food exports in connection with tourism and contents... Aimed at $16 billion",
-          "title_ja": "農業・食品・観光省、観光とコンテンツに関連してK - Foodの輸出を拡大... 160億ドルを目指す",
-          "title_zh": "农业、食品和旅游部扩大与旅游和内容相关的K-Food出口...目标为160亿美元"
+          "title_en": "Lifeway Foods forecasts $211.5 million in revenue in 2026.. Up 18% YoY",
+          "title_ja": "Lifeway Foodsは、2026年の売上高を2億1,150万ドルと予測しています。前年比18 ％増",
+          "title_zh": "Lifeway Foods预测2026年收入为2.115亿美元，同比增长18%"
         }
       ]
     },
@@ -246,6 +246,11 @@
   },
   "korean_articles": [
     {
+      "title": "🤖🆕26년 6월 글로벌 푸드 트렌드⚽💸",
+      "link": "https://foodtrend.stibee.com/p/210",
+      "desc": ""
+    },
+    {
       "title": "🍽️前 이마트 노브랜드 식품 MD · 베이킹 공방 운영자의 이야기✨",
       "link": "https://foodtrend.stibee.com/p/209",
       "desc": ""
@@ -268,11 +273,6 @@
     {
       "title": "🍙26년 5월 한국 푸드 트렌드🏛️✨",
       "link": "https://foodtrend.stibee.com/p/205",
-      "desc": ""
-    },
-    {
-      "title": "🤖26년 4월 글로벌 푸드 트렌드🥞🍔",
-      "link": "https://foodtrend.stibee.com/p/204",
       "desc": ""
     }
   ]
