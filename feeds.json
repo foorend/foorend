@@ -1,95 +1,20 @@
 {
-  "lastUpdated": "2026-06-19T15:19:14Z",
+  "lastUpdated": "2026-06-19T19:49:58Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "Twin Peaks franchisees have a path to take ownership of the brand",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjZMLXlZdXBZQUtNTG0zOFE3TC1TcERGWjllcDlRX2s2UDJOdkNhZ3pvMHAtOWpYUmFLcHB2emlQWmM4SzdRNVZoTlRqcERoWHBFWHBGRTlyejd1ZEI4ZzFuZjZINjJweW9tQmtXamk3a2I2ZmYxbWp3T3F2UjNCODJUZjJSNU5oZTVmVUZWX19yRTVCQnZhR2RPazBjNlBCblE?oc=5",
-          "desc": "",
-          "title_ko": "Twin Peaks 프랜차이즈 가맹점은 브랜드를 소유할 수 있는 경로가 있습니다.",
-          "title_ja": "ツインピークスのフランチャイズ加盟店は、ブランドの所有権を得るためのパスを持っています",
-          "title_zh": "Twin Peaks加盟商拥有品牌所有权"
-        },
-        {
-          "title": "The next phase of Panera Bread's transformation: Bowls, beverages, and a better customer experience",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT1VQMmREZE5xeHo4S1V1UEFmVmRjeUc3QWNRLThhMEQ4Rkh6dWR4dWQzNGNYSjZUX2R3SlFqMUZkNEhQSnB2dDZpem9yeWl6bmlVTEZIMGZ3UXlXRkNXZHZYT3VmdEVGMGs1ZHRhamFuek5VMnhyZVU1RXRPbmQxUU9GaUcyQVFSYlhoSFFaR3Z6V2thTEg1aGxxNC1OU1JhS1BPRFkxekpONV85NUMtbDJLVG9MVGJqQWZXQTQ2eklPRUM5ME42clJn?oc=5",
-          "desc": "",
-          "title_ko": "Panera Bread의 변화의 다음 단계: 그릇, 음료 및 더 나은 고객 경험",
-          "title_ja": "パネラブレッドの変革の次の段階：ボウル、飲み物、より良いカスタマーエクスペリエンス",
-          "title_zh": "Panera Bread转型的下一阶段：碗、饮料和更好的客户体验"
-        },
-        {
-          "title": "KFC unveils its ‘next chapter,’ focused on menu innovation, modernized restaurants, refreshed branding",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOTlJckxsNWJrSmFQV3dobnBfT2haRlg2Z3lTQUNJWVNteGNBSlpYMkJFUGVIMzdYWDBrVHQ0cS1neEM3V1JfRjhqYTFwQkJpelpBTmtGV01KdjN6S3R2WkZEdTdiMnZxRDNKSXMySm94UnVPNXhsUFRzcXhxZ1o4aU85aVVzU3R0aHUtdHB3V2NEOXRCREl4ZmlLMHBLekEwUUswMUdLUEk3Y1VrSTg0YnRjelJEU0dTYm5PNHUwenY0aUROeUNSdzdLT2Y?oc=5",
-          "desc": "",
-          "title_ko": "KFC, 메뉴 혁신, 현대화된 레스토랑, 상쾌한 브랜딩에 초점을 맞춘 ‘넥스트 챕터' 공개",
-          "title_ja": "KFCは、メニューの革新、レストランの近代化、ブランドの刷新に焦点を当てた「次の章」を発表",
-          "title_zh": "肯德基推出“新篇章” ，专注于菜单创新、餐厅现代化、品牌更新"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": [
-        {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
-        {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
-          "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        }
-      ]
+      "items": []
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": [
-        {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
-          "desc": "",
-          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
-          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        }
-      ]
+      "items": []
     },
     "eater": {
       "label": "Eater",
@@ -126,122 +51,22 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "\"K팝·뷰티·푸드 총출동\"…더현대 서울, 'K콘텐츠 페어' 개최",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRzE3Z1dEZlZRSEFZUHRITExRc0ltZWF0X243dFdZdDEyd010SzU5RlVIV0ZUQXdCamFTd2p2TS0wUWxXRjdTN0NpbzEtVGlWdmd0b29abzFWQdIBVEFVX3lxTE1JQTBhNlZpVWxrVjVidzRMRy00c3dLa1pyZy1vTTFZNEVYd1kwTzNEZERSYktYWl90aUdsQjBmcW52MkdnWGczVEdmRUFCb1JBMEhERg?oc=5",
-          "desc": "",
-          "title_en": "\"K-pop, beauty, and food in general\" … The Hyundai Seoul hosts' K Contents Fair '",
-          "title_ja": "「K - POP、美容、食べ物全般」…現代ソウルでは「Kコンテンツフェア」が開催されます",
-          "title_zh": "「韩国流行音乐、美容和美食」……现代首尔举办「韩国内容展」"
-        },
-        {
-          "title": "미국서도 K푸드 먹고 대표팀 응원…대규모 마케팅 확산",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PNU42ZmVaTHhjUTNabUJ5NWItTHFyNUp2WE82dTVzbGZjU09Rbmd0cUZmNFhGYVctaGlxWk9BWEVGUlM2aWU0WThXbEF1MUV0LV9zZk9XRlQ5Z9IBVEFVX3lxTE1mRjlJd1N3bVVGajR6VDNHX2prbkFtM2I2VEh1QmFiOUsyXzVrS2FfRzZ0VjRoRDhSaUhweWM0cW53UGZiSUFsdWJGbXNyMW9MSXBtdA?oc=5",
-          "desc": "",
-          "title_en": "Cheer for the national team after eating K-food in the US, too… Massive marketing spread",
-          "title_ja": "米国でもK - foodを食べた後、代表チームのために応援しましょう…大規模なマーケティングの普及",
-          "title_zh": "在美国吃完K-food后，为国家队加油……大规模的营销传播"
-        },
-        {
-          "title": "'황홀한 맛' 北 주민 귀순시킨 그 음식…5000원대에 쫙 깔렸다 [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EbExxdmY3MEt0V1R6SmZGTW5GNE9yQWtYMVlYWEZUcTJUeXVpSXFDekxwTGpLdEloVlkwUFlFRURjNjN0c21xalhBLWlVZjJhajQ1TTc5ZzR6d9IBVEFVX3lxTFBmUjdEdkFkZUFqNTNTamFrT2VSSU5JeDF2bS00SU5TcWVsVnJOS0Fvc1QwTmd6Um5fVWhFQno3UUtJRWhTZ3YxTUNoZHFNZ1U4ZVVnWg?oc=5",
-          "desc": "",
-          "title_en": "'Fantastic taste' The food that North Koreans returned to... It was spread over 5,000 won [Kwon Yong-hoon's Trend Watch]",
-          "title_ja": "「すばらしい味」北朝鮮人が帰ってきた食べ物… 5,000ウォン以上に広がっていた【クォン・ヨンフンのトレンドウォッチ】",
-          "title_zh": "「美味佳肴」朝鲜人回归的美食……分布在5000多韩元【权永勋的潮流观察】"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": [
-        {
-          "title": "삼계탕 한 그릇 2만원 시대…신세계푸드 간편식 판매 38% 늘었다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rZ28zQll5TlhNZnVoS2syUGItTk1WQ2lfRjRBVkMyWmtQRE42QWdrQVc1Wk02SEhScmc5Rm0tV0J1NHE0YzJIRlVqR1NjY2RFYXfSAVNBVV95cUxPNkhtRWdIb19nb2RFRnZKSUZOUWJnbl91cjZrRW1kTV9vQzJ5clJjOGhnRDdmcVE4andpeFN1VV9FRXRvYVd5bmpGbnF5TDRfRjc4Yw?oc=5",
-          "desc": "",
-          "title_en": "In the era of 20,000 won for a bowl of Samgyetang… Shinsegae Food sales increased 38%",
-          "title_ja": "サムゲタン1杯2万ウォンの時代に…新世界食の売り上げが38 ％増",
-          "title_zh": "在三溪堂一碗20,000韩元的时代……新世界食品销售额增长了38%"
-        },
-        {
-          "title": "\"예술이 된 한식\" 생각보다 훨씬 미친 K푸드 월드클래스! #미식 #파인다이닝 #한식 #해외반응 #미슐랭가이드 #한류 #kfood #koreanculture #미미상인 #강의",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LUkJNeUFNbWZpS00tVDlJZmxtMnRUeVdtY3ZUV2hKZmtnX0xFUnZWcGZzbDlIc3VyRUg0cVhnMUUwQTBuQXpZTm1jZw?oc=5",
-          "desc": "",
-          "title_en": "\"Korean Food Becomes Art\" K Food World Class is even crazier than you think! # Gastronomy # Fine Dining # Korean Food # Overseas Reaction # Michelin Guide # Hallyu # kfood # koreanculture # unknown # Lecture",
-          "title_ja": "「韓国料理がアートになる」Kフードワールドクラスは想像以上にクレイジー！ #ガストロノミー#ファインダイニング#韓国料理#海外からの反応#ミシュランガイド#ハリウ# kfood #韓国文化#不明#講義",
-          "title_zh": "「韩国美食成为艺术」K Food World Class比您想象的更疯狂！ #美食#精致餐饮#韩国美食#海外反应#米其林指南# Hallyu # kfood #韩国文化#未知#讲座"
-        },
-        {
-          "title": "롯데웰푸드, 문학 작품 협업한 시즌 한정 제품 출시…“시집이 캔디에”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kZGdKQV95dmQ3Znh5NE1GRTdpUWhUSmFJVnVIdGpyMlBMNGVyX2ZLVGRyRThDYm84UHJ2eExjaE5pcWgwaWdmbENya0l4cFdnYXfSAVNBVV95cUxNWUFrNGJmM0V1UHZJbGl3Zm9VMmdWa1dXSUY0UmF0d1Q5LWpkYms1R3ZEWlNldkdSYU1TbGZwTk5kZTdJamFHU191MlRvc2g0eGFiUQ?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food launches seasonal products that collaborate on literary works… “Marriage is in Candy”",
-          "title_ja": "ロッテウェルフードは、文学作品にコラボレーションする季節の製品を発売します…「結婚はキャンディにある」",
-          "title_zh": "乐天健康食品推出与文学作品合作的季节性产品…… “婚姻在糖果中”"
-        }
-      ]
+      "items": []
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": [
-        {
-          "title": "네츄럴코어, 영국 펫푸드 브랜드 '푸치앤머트' 새단장해 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16ay1aZDFmOGN5R2xPcUZfSktuYkNwcC1RSVpKMHhiTTQtbzBWRmI5empYWVpJSmI1dE4zZGJWQUZDVWEtSjZEcDI3aFFlQnJocEE?oc=5",
-          "desc": "",
-          "title_en": "Natural Core launches new and refurbished UK pet food brand 'Pucci&Mirt'",
-          "title_ja": "Natural Core、新しく改装された英国のペットフードブランド「Pucci&Mirt」を発表",
-          "title_zh": "Natural Core推出全新翻新英国宠物食品品牌“Pucci&Mirt”"
-        },
-        {
-          "title": "신세계푸드 \"고물가·무더위에 삼계탕 간편식 판매량 늘어\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WcDhoQUMtMURmRXVTd3FUVksxRHVtazN4ZUtDSm5LQzVSUWZ6clFWYTROSTNsN0NhSS1WVTU3N0xpZGExVFZKVHFqZ0dNQmdMVUE?oc=5",
-          "desc": "",
-          "title_en": "Shinsegae Food \"Samgyetang Easy Food Sales Increase in Junk Prices and Heat\"",
-          "title_ja": "新世界フード「サムゲタンイージーフードジャンク価格と熱量の増加」",
-          "title_zh": "Shinsegae Food “Samgyetang Easy Food Sales in Junk Prices and Heat”"
-        },
-        {
-          "title": "5성급 호텔서 맛보는 K푸드...롯데관광개발, 제주 드림타워 푸드코트 리뉴얼",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9seFAzVjhNZGhYZHlISUtyWWRmNG1qTWNzX3dCbjRLMjVVU2JUNnFzNHVJc2RpRXpYYUZHdzN6ZWQ3ZEVjR0Jrbm5UcldjVWxJQW5EeS1nOXpTS3kwWEllR3dhaWQ?oc=5",
-          "desc": "",
-          "title_en": "Taste K food in a 5-star hotel... Lotte Tourism Development, Jeju Dream Tower Food Court Renewal",
-          "title_ja": "5つ星ホテルでK料理を味わう…ロッテツーリズム開発、済州ドリームタワーフードコートリニューアル",
-          "title_zh": "在五星级酒店品尝K美食...乐天旅游开发、济州梦幻塔美食广场翻新"
-        }
-      ]
+      "items": []
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "“SNS 보고 샀어요”…브로콜리니를 아시나요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13SHFJbEtvemhKOUpTNTc2TUZBc2pUQm53emppVlQ2SFdhSExCTi1pajFCVU1yNzQtMUk2U0h0QmY2T2ZmY1JKWWJSbWxwYnNRblA4S2lmNA?oc=5",
-          "desc": "",
-          "title_en": "“I bought it through SNS” … Do you know Broccolini?",
-          "title_ja": "「SNSで購入しました」…ブロッコリーニをご存知ですか？",
-          "title_zh": "“我通过SNS买的” ……你知道西兰花吗？"
-        },
-        {
-          "title": "일주일 내내 꺼내먹어요, ‘키쉬 밀프랩’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01d1VEckdJNGNNeVpTbzc5SDZTMHlIUmVrY0RVcFBLMklybk90YkRHN2x0emwyRHl6RTJoeUY0Z2FBNG1jT1JEcElpSlpKaHZRQWZvTUtPTQ?oc=5",
-          "desc": "",
-          "title_en": "I take it out all week, ‘Kish Milf Wrap’",
-          "title_ja": "私は一週間を通してそれを取り出します、「Kish MILF Wrap」",
-          "title_zh": "我整周都把它拿出来， “Kish MILF Wrap”"
-        },
-        {
-          "title": "“한식 고기 메뉴 맛보세요”…미국육류수출협회 ‘서울푸드 2026’ 참가",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90SXpuWVZTMkVlakhSUlNoYVZqNkloN1M3UzV5NEl1ZVdDQW14bzE0RVg2RWJmM2dQZkQtUmtOODdrajc4S0FfODNqYUFPVjl2akUxVUR2WQ?oc=5",
-          "desc": "",
-          "title_en": "“Try the Korean Meat Menu” … Participated in 'Seoul Food 2026‘, the American Meat Export Association",
-          "title_ja": "「韓国肉メニューを試す」…米国食肉輸出協会「ソウルフード2026」に参加",
-          "title_zh": "“尝试韩国肉类菜单” ……参加美国肉类出口协会“首尔食品2026”"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
