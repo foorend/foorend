@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T03:45:00Z",
+  "lastUpdated": "2026-06-20T08:57:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"K팝·뷰티·푸드 총출동\"…더현대 서울, 'K콘텐츠 페어' 개최",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRzE3Z1dEZlZRSEFZUHRITExRc0ltZWF0X243dFdZdDEyd010SzU5RlVIV0ZUQXdCamFTd2p2TS0wUWxXRjdTN0NpbzEtVGlWdmd0b29abzFWQdIBVEFVX3lxTE1JQTBhNlZpVWxrVjVidzRMRy00c3dLa1pyZy1vTTFZNEVYd1kwTzNEZERSYktYWl90aUdsQjBmcW52MkdnWGczVEdmRUFCb1JBMEhERg?oc=5",
-          "desc": "",
-          "title_en": "\"K-pop, beauty, and food in general\" … The Hyundai Seoul hosts' K Contents Fair '",
-          "title_ja": "「K - POP、美容、食べ物全般」…現代ソウルでは「Kコンテンツフェア」が開催されます",
-          "title_zh": "「韩国流行音乐、美容和美食」……现代首尔举办「韩国内容展」"
-        },
-        {
           "title": "미국서도 K푸드 먹고 대표팀 응원…대규모 마케팅 확산",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PNU42ZmVaTHhjUTNabUJ5NWItTHFyNUp2WE82dTVzbGZjU09Rbmd0cUZmNFhGYVctaGlxWk9BWEVGUlM2aWU0WThXbEF1MUV0LV9zZk9XRlQ5Z9IBVEFVX3lxTE1mRjlJd1N3bVVGajR6VDNHX2prbkFtM2I2VEh1QmFiOUsyXzVrS2FfRzZ0VjRoRDhSaUhweWM0cW53UGZiSUFsdWJGbXNyMW9MSXBtdA?oc=5",
           "desc": "",
           "title_en": "Cheer for the national team after eating K-food in the US, too… Massive marketing spread",
           "title_ja": "米国でもK - foodを食べた後、代表チームのために応援しましょう…大規模なマーケティングの普及",
           "title_zh": "在美国吃完K-food后，为国家队加油……大规模的营销传播"
+        },
+        {
+          "title": "\"K팝·뷰티·푸드 총출동\"…더현대 서울, 'K콘텐츠 페어' 개최",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRzE3Z1dEZlZRSEFZUHRITExRc0ltZWF0X243dFdZdDEyd010SzU5RlVIV0ZUQXdCamFTd2p2TS0wUWxXRjdTN0NpbzEtVGlWdmd0b29abzFWQdIBVEFVX3lxTE1JQTBhNlZpVWxrVjVidzRMRy00c3dLa1pyZy1vTTFZNEVYd1kwTzNEZERSYktYWl90aUdsQjBmcW52MkdnWGczVEdmRUFCb1JBMEhERg?oc=5",
+          "desc": "",
+          "title_en": "\"K-pop, beauty, and food in general\" … The Hyundai Seoul hosts' K Contents Fair '",
+          "title_ja": "「K - POP、美容、食べ物全般」…現代ソウルでは「Kコンテンツフェア」が開催されます",
+          "title_zh": "「韩国流行音乐、美容和美食」……现代首尔举办「韩国内容展」"
         },
         {
           "title": "'쿠팡이츠' 음식 배달만 하는 줄 알았는데…'깜짝 행보'",
@@ -174,12 +174,12 @@
           "title_zh": "在三溪堂一碗20,000韩元的时代……新世界食品销售额增长了38%"
         },
         {
-          "title": "파리바게뜨, 동남아 6개국서 ‘안녕!’ 캠페인...“K푸드 활용한 현지화 메뉴 개발”",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14WFJOQW45ZGU5dThvdlZtTWEzLWdPREZRX01KSTl2VzlWVlE2NzRWU3ZpOXZXNmhMZ1ZvdGVOVXI5TlJ4X2ZjZGtCRmxPb0tNZ0pmbEpUWTZJNWYwaEwydEhRS2lnUdIBU0FVX3lxTFBxSDBjQTdrU0UwRktBY1VXa3VkcnlMX0ZvMXk0c3VIWVpnOUF0Zk10TlBBN0lQZmx1Wi1OSmVXc1R1Q2s5RENON2JOWHJYU29mY01n?oc=5",
+          "title": "신세계푸드, 인천에 신규 생산거점 확보…성수공장 이전 추진",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRldkQ1dzNDNjWmFqWFRxazlUNnBRdzhrVXBoWVgzcEtGeFB3SjVtRlNVYnhlLXR0Rl9VNlFCSGRkSmNFWlRKcnJGd0RyQ3k3T2fSAVNBVV95cUxNcmZUdndESmc4T0lscEZmV3dnWFI5eDBMbGlEekdMbFBwTnZVTWdoSWRvTTNuQTJ5b1QtZ1plT0NpN1hGREtqN2tNVmI3OW5sZEJpaw?oc=5",
           "desc": "",
-          "title_en": "Paris Baguette, six countries in Southeast Asia ‘Hello!’ Campaign... “Development of localization menu using K food”",
-          "title_ja": "パリバゲット、東南アジアの6カ国「こんにちは！ ’キャンペーン…「K食を使ったローカリゼーションメニューの開発」",
-          "title_zh": "巴黎法棍面包，东南亚六个国家/地区您好！ ’活动... “使用K FOOD开发本地化菜单”"
+          "title_en": "Shinsegae Foods Secures New Production Base in Incheon… Seongsu Plant Relocation",
+          "title_ja": "新世界食品、仁川に生産拠点を新設…ソンス工場移転",
+          "title_zh": "Shinsegae Foods在仁川建立新的生产基地… Seongsu工厂搬迁"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Natural Core推出全新翻新英国宠物食品品牌“Pucci&Mirt”"
         },
         {
+          "title": "최태원 회장 “데이터와 AI로 K-푸드 진입장벽 낮추자”",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OZEN6N09mMDFjenMzbjF3dlZrSE1taktwYzlRYTdpZ19TR1NiZlhFUlFmd183d0pHMnlFTUFRblBuaERlUlZ0Z1RCNUVKMWs0MklPU2x0ZlBpMzRpUnZ4S3dBYVQ?oc=5",
+          "desc": "",
+          "title_en": "Chairman Choi Tae-won said, “Let's lower the barrier to entry for K-Food with data and AI.”",
+          "title_ja": "チェ・テウォン会長は「データとAIでK - Foodの参入障壁を下げよう」と述べた。",
+          "title_zh": "崔泰元董事长说： “让我们通过数据和人工智能降低K-Food的进入门槛。”"
+        },
+        {
           "title": "신세계푸드 \"고물가·무더위에 삼계탕 간편식 판매량 늘어\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WcDhoQUMtMURmRXVTd3FUVksxRHVtazN4ZUtDSm5LQzVSUWZ6clFWYTROSTNsN0NhSS1WVTU3N0xpZGExVFZKVHFqZ0dNQmdMVUE?oc=5",
           "desc": "",
           "title_en": "Shinsegae Food \"Samgyetang Easy Food Sales Increase in Junk Prices and Heat\"",
           "title_ja": "新世界フード「サムゲタンイージーフードジャンク価格と熱量の増加」",
           "title_zh": "Shinsegae Food “Samgyetang Easy Food Sales in Junk Prices and Heat”"
-        },
-        {
-          "title": "주식회사 현대그린푸드 기업가치 제고 계획(자율공시)(2025년 이행현황)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcmhadjdjS05rOEpvLTJxOFFLTHMyV3B0VXJQUDZsZzFVRHh3NE5IWHdYY2FYLVFRWkk4eUUtQnR5Z2ZYckhSLW9NVWNWcHY5dXo3TnpmeHZ0QXc?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food Co., Ltd. Corporate Value Improvement Plan (Autonomous Disclosure) (2025 Implementation Status)",
-          "title_ja": "現代グリーンフード株式会社企業価値向上計画（自主開示） （ 2025年実施状況）",
-          "title_zh": "现代绿色食品股份有限公司企业价值提升计划（自主披露） （ 2025年实施情况）"
         }
       ]
     },
