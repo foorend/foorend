@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-06-20T14:05:18Z",
+  "lastUpdated": "2026-06-20T16:18:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Twin Peaks franchisees have a path to take ownership of the brand",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjZMLXlZdXBZQUtNTG0zOFE3TC1TcERGWjllcDlRX2s2UDJOdkNhZ3pvMHAtOWpYUmFLcHB2emlQWmM4SzdRNVZoTlRqcERoWHBFWHBGRTlyejd1ZEI4ZzFuZjZINjJweW9tQmtXamk3a2I2ZmYxbWp3T3F2UjNCODJUZjJSNU5oZTVmVUZWX19yRTVCQnZhR2RPazBjNlBCblE?oc=5",
+          "desc": "",
+          "title_ko": "Twin Peaks 프랜차이즈 가맹점은 브랜드를 소유할 수 있는 경로가 있습니다.",
+          "title_ja": "ツインピークスのフランチャイズ加盟店は、ブランドの所有権を得るためのパスを持っています",
+          "title_zh": "Twin Peaks加盟商拥有品牌所有权"
+        },
         {
           "title": "The next phase of Panera Bread's transformation: Bowls, beverages, and a better customer experience",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT1VQMmREZE5xeHo4S1V1UEFmVmRjeUc3QWNRLThhMEQ4Rkh6dWR4dWQzNGNYSjZUX2R3SlFqMUZkNEhQSnB2dDZpem9yeWl6bmlVTEZIMGZ3UXlXRkNXZHZYT3VmdEVGMGs1ZHRhamFuek5VMnhyZVU1RXRPbmQxUU9GaUcyQVFSYlhoSFFaR3Z6V2thTEg1aGxxNC1OU1JhS1BPRFkxekpONV85NUMtbDJLVG9MVGJqQWZXQTQ2eklPRUM5ME42clJn?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "KFC, 메뉴 혁신, 현대화된 레스토랑, 상쾌한 브랜딩에 초점을 맞춘 ‘넥스트 챕터' 공개",
           "title_ja": "KFCは、メニューの革新、レストランの近代化、ブランドの刷新に焦点を当てた「次の章」を発表",
           "title_zh": "肯德基推出“新篇章” ，专注于菜单创新、餐厅现代化、品牌更新"
-        },
-        {
-          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
-          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
-          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         }
       ]
     },
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "미국서도 K푸드 먹고 대표팀 응원…대규모 마케팅 확산",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PNU42ZmVaTHhjUTNabUJ5NWItTHFyNUp2WE82dTVzbGZjU09Rbmd0cUZmNFhGYVctaGlxWk9BWEVGUlM2aWU0WThXbEF1MUV0LV9zZk9XRlQ5Z9IBVEFVX3lxTE1mRjlJd1N3bVVGajR6VDNHX2prbkFtM2I2VEh1QmFiOUsyXzVrS2FfRzZ0VjRoRDhSaUhweWM0cW53UGZiSUFsdWJGbXNyMW9MSXBtdA?oc=5",
-          "desc": "",
-          "title_en": "Cheer for the national team after eating K-food in the US, too… Massive marketing spread",
-          "title_ja": "米国でもK - foodを食べた後、代表チームのために応援しましょう…大規模なマーケティングの普及",
-          "title_zh": "在美国吃完K-food后，为国家队加油……大规模的营销传播"
-        },
-        {
           "title": "\"K팝·뷰티·푸드 총출동\"…더현대 서울, 'K콘텐츠 페어' 개최",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRzE3Z1dEZlZRSEFZUHRITExRc0ltZWF0X243dFdZdDEyd010SzU5RlVIV0ZUQXdCamFTd2p2TS0wUWxXRjdTN0NpbzEtVGlWdmd0b29abzFWQdIBVEFVX3lxTE1JQTBhNlZpVWxrVjVidzRMRy00c3dLa1pyZy1vTTFZNEVYd1kwTzNEZERSYktYWl90aUdsQjBmcW52MkdnWGczVEdmRUFCb1JBMEhERg?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "'Coupangites' I thought they only deliver food... 'Surprise'",
           "title_ja": "「クーパンギット」食べ物しか配達しないと思っていました...「サプライズ」",
           "title_zh": "“Coupangites”我以为他们只提供食物...... “惊喜”"
+        },
+        {
+          "title": "'황홀한 맛' 北 주민 귀순시킨 그 음식…5000원대에 쫙 깔렸다 [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUjg3bVhCVEJMYU9vQWlfVnhRU2ZuWHRwVnZ6eExLM0dTVzlKUFFOREpEbEdtSC1wb0NndzBRWHc4aFoxZTllYXZWczVLdWtYaU5Sb1VJaURxamFFc28xMUVoSnhYTU8xS0hiLW5wZzdBcmhibHh3Q2p1eHg5bnh4RW9DcnBDWU1DV05kMmg0NHl0LTVBVDF5Y0t0eXhyZw?oc=5",
+          "desc": "",
+          "title_en": "'Fantastic taste' The food that North Koreans returned to... It was spread over 5,000 won [Kwon Yong-hoon's Trend Watch]",
+          "title_ja": "「すばらしい味」北朝鮮人が帰ってきた食べ物… 5,000ウォン以上に広がっていた【クォン・ヨンフンのトレンドウォッチ】",
+          "title_zh": "「美味佳肴」朝鲜人回归的美食……分布在5000多韩元【权永勋的潮流观察】"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“比鸡肉和tteokbokki更糟糕” ……根据药剂师的说法，对皮肤来说“最糟糕的食物”是[健康时间]"
         },
         {
-          "title": "삼계탕 한 그릇 2만원 시대…신세계푸드 간편식 판매 38% 늘었다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rZ28zQll5TlhNZnVoS2syUGItTk1WQ2lfRjRBVkMyWmtQRE42QWdrQVc1Wk02SEhScmc5Rm0tV0J1NHE0YzJIRlVqR1NjY2RFYXfSAVNBVV95cUxPNkhtRWdIb19nb2RFRnZKSUZOUWJnbl91cjZrRW1kTV9vQzJ5clJjOGhnRDdmcVE4andpeFN1VV9FRXRvYVd5bmpGbnF5TDRfRjc4Yw?oc=5",
-          "desc": "",
-          "title_en": "In the era of 20,000 won for a bowl of Samgyetang… Shinsegae Food sales increased 38%",
-          "title_ja": "サムゲタン1杯2万ウォンの時代に…新世界食の売り上げが38 ％増",
-          "title_zh": "在三溪堂一碗20,000韩元的时代……新世界食品销售额增长了38%"
-        },
-        {
           "title": "“출출할 때마다 즐겨 먹었는데 어쩌나”…파킨슨병 위험 높이는 ‘이 음식’",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoWFZ5VTZfcUh3d0tpSllQZ3RHdXk3RUZJTjhlX2VFamZSMnJUaEZDT0pHWnRGbFQyNmRxMnlLOGFiSk9YTDVuS21RaGxOOWFZcXfSAVNBVV95cUxNVlJVa1gwblBVX2hIQUl6YTBERkF1VFFtdm94aktoMXZMaXE0dmxOc0UwS053eE95ZzVfa1JqdW5ndkVmbU50Q3Jzcl9KcW4tWl80dw?oc=5",
           "desc": "",
           "title_en": "“I enjoyed it every time I was hungry” … ‘This food‘ increases the risk of Parkinson's disease",
           "title_ja": "「お腹が空くたびに楽しんでいました」…「この食べ物」はパーキンソン病のリスクを高めます",
           "title_zh": "“每次饿的时候我都喜欢吃” …… ‘这种食物‘会增加患帕金森病的风险"
+        },
+        {
+          "title": "신세계푸드, 인천에 신규 생산거점 확보…성수공장 이전 추진",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRldkQ1dzNDNjWmFqWFRxazlUNnBRdzhrVXBoWVgzcEtGeFB3SjVtRlNVYnhlLXR0Rl9VNlFCSGRkSmNFWlRKcnJGd0RyQ3k3T2fSAVNBVV95cUxNcmZUdndESmc4T0lscEZmV3dnWFI5eDBMbGlEekdMbFBwTnZVTWdoSWRvTTNuQTJ5b1QtZ1plT0NpN1hGREtqN2tNVmI3OW5sZEJpaw?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Foods Secures New Production Base in Incheon… Seongsu Plant Relocation",
+          "title_ja": "新世界食品、仁川に生産拠点を新設…ソンス工場移転",
+          "title_zh": "Shinsegae Foods在仁川建立新的生产基地… Seongsu工厂搬迁"
         }
       ]
     },
