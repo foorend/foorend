@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T04:18:03Z",
+  "lastUpdated": "2026-06-21T09:51:02Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "在美国吃完K-food后，为国家队加油……大规模的营销传播"
         },
         {
-          "title": "'쿠팡이츠' 음식 배달만 하는 줄 알았는데…'깜짝 행보'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MVGZ6bHdLb1JpSVhsTzFHYmx4VlFkcWYyUkFDemppSHdzXzFUQ2hXSmQweWd3TmFhenhrU2VSUU9GUHZGbFU2ay1hVnlaNzk1blRFaDFFT2FLd9IBVEFVX3lxTFB6VDRxVmFZakdxZE9YUlVTTkJJRTZiZUY0aWJud1JlalRiT2ZBMk5acWkteVNEckdGSGc5MDY2T1BNMXE2WWJVQzZUc19OcjJnTVpCZQ?oc=5",
-          "desc": "",
-          "title_en": "'Coupangites' I thought they only deliver food... 'Surprise'",
-          "title_ja": "「クーパンギット」食べ物しか配達しないと思っていました...「サプライズ」",
-          "title_zh": "“Coupangites”我以为他们只提供食物...... “惊喜”"
-        },
-        {
           "title": "\"K팝·뷰티·푸드 총출동\"…더현대 서울, 'K콘텐츠 페어' 개최",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRzE3Z1dEZlZRSEFZUHRITExRc0ltZWF0X243dFdZdDEyd010SzU5RlVIV0ZUQXdCamFTd2p2TS0wUWxXRjdTN0NpbzEtVGlWdmd0b29abzFWQdIBVEFVX3lxTE1JQTBhNlZpVWxrVjVidzRMRy00c3dLa1pyZy1vTTFZNEVYd1kwTzNEZERSYktYWl90aUdsQjBmcW52MkdnWGczVEdmRUFCb1JBMEhERg?oc=5",
           "desc": "",
           "title_en": "\"K-pop, beauty, and food in general\" … The Hyundai Seoul hosts' K Contents Fair '",
           "title_ja": "「K - POP、美容、食べ物全般」…現代ソウルでは「Kコンテンツフェア」が開催されます",
           "title_zh": "「韩国流行音乐、美容和美食」……现代首尔举办「韩国内容展」"
+        },
+        {
+          "title": "초복도 전인데 벌써 불티…삼계탕 간편식 55% 뛰었다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSQ19iR285RnExMlN6cXVrMWVHTXJUX3p4S2g1MmphRl9WUFdPcE1xdUtMeDRGaE1meGNUdmRJRkZVekh1NDBqTTJUcV81Qm1fQnd6MXJPaV9Kd9IBVEFVX3lxTE5TVjladE5oUkV2NTIzWTBlMEM4WHFnZmg1aDVUWFRqNkloMzFYWDYtdGJxeGdGLVNiMWpfRmtJeU5lY0pieE5uQkN4bkl3WmpoMmtrMw?oc=5",
+          "desc": "",
+          "title_en": "It's before Chokbok-do, and already it's bulti... Samgyetang simple food 55% jumped",
+          "title_ja": "Chokbok - doの前にあり、すでにbultiです... Samgyetang簡単な食べ物55 ％ジャンプしました",
+          "title_zh": "在Chokbok-do之前，已经是bulti了...... Samgyetang简单的食物跳了55 ％"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "【公告】进出口银行· aT, K-Food出口支持业务协议"
         },
         {
-          "title": "네츄럴코어, 영국 펫푸드 브랜드 '푸치앤머트' 새단장해 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16ay1aZDFmOGN5R2xPcUZfSktuYkNwcC1RSVpKMHhiTTQtbzBWRmI5empYWVpJSmI1dE4zZGJWQUZDVWEtSjZEcDI3aFFlQnJocEE?oc=5",
-          "desc": "",
-          "title_en": "Natural Core launches new and refurbished UK pet food brand 'Pucci&Mirt'",
-          "title_ja": "Natural Core、新しく改装された英国のペットフードブランド「Pucci&Mirt」を発表",
-          "title_zh": "Natural Core推出全新翻新英国宠物食品品牌“Pucci&Mirt”"
-        },
-        {
           "title": "외국에서 인기라는 K푸드, 우리랑 입맛 똑같잖아",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1dEtNNlEwcGFyZVMtUWlvS3BTamFiZmt5VVRzMDRxMWh5NnVPMGN2MkNHM20zSWo3TlZDMXc1YkdhdW1HTlN3VFZTTUMxVFZYUnJMN0RURFZFZFpFOXNma21iY25kVE9WUUZqX0xETVhCVzhV0gF0QVVfeXFMUHV0S002UTBwYXJlUy1RaW9LcFNqYWJma3lVVHMwNHExaHk2dU8wY3YyQ0czbTNJajdOVkMxdzViR2F1bUdOU3dUVlNNQzFUVlhSckw3RFREVkVkWkU5c2ZrbWJjbmRUT1ZRRmpfTERNWEJXOFU?oc=5",
           "desc": "",
           "title_en": "K-food called popular in foreign countries, it's the same as our taste buds",
           "title_ja": "海外で人気と言われるK - food、味蕾と同じ",
           "title_zh": "K-food在国外很受欢迎，和我们的味蕾一样"
+        },
+        {
+          "title": "네츄럴코어, 영국 펫푸드 브랜드 '푸치앤머트' 새단장해 출시",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16ay1aZDFmOGN5R2xPcUZfSktuYkNwcC1RSVpKMHhiTTQtbzBWRmI5empYWVpJSmI1dE4zZGJWQUZDVWEtSjZEcDI3aFFlQnJocEE?oc=5",
+          "desc": "",
+          "title_en": "Natural Core launches new and refurbished UK pet food brand 'Pucci&Mirt'",
+          "title_ja": "Natural Core、新しく改装された英国のペットフードブランド「Pucci&Mirt」を発表",
+          "title_zh": "Natural Core推出全新翻新英国宠物食品品牌“Pucci&Mirt”"
         }
       ]
     },
