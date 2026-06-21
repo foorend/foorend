@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-21T09:51:02Z",
+  "lastUpdated": "2026-06-21T14:12:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Twin Peaks franchisees have a path to take ownership of the brand",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjZMLXlZdXBZQUtNTG0zOFE3TC1TcERGWjllcDlRX2s2UDJOdkNhZ3pvMHAtOWpYUmFLcHB2emlQWmM4SzdRNVZoTlRqcERoWHBFWHBGRTlyejd1ZEI4ZzFuZjZINjJweW9tQmtXamk3a2I2ZmYxbWp3T3F2UjNCODJUZjJSNU5oZTVmVUZWX19yRTVCQnZhR2RPazBjNlBCblE?oc=5",
-          "desc": "",
-          "title_ko": "Twin Peaks 프랜차이즈 가맹점은 브랜드를 소유할 수 있는 경로가 있습니다.",
-          "title_ja": "ツインピークスのフランチャイズ加盟店は、ブランドの所有権を得るためのパスを持っています",
-          "title_zh": "Twin Peaks加盟商拥有品牌所有权"
-        },
         {
           "title": "Outback Steakhouse looks to fix its value perception",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOak5aWjYyLWtSSk9ueWJTNkp3SUpvRzVON2pmUlYzZmRVNkF3Mmd0blNka05OeHo5eTNBLV9kUG1ObGU0bVFGTko4eUs1T1lkTk1xaWpUaWdYWUtOdV9hYTFWRFF2YmV1WjNnNWtJMGZGT3BBdTczeWpXR0RBR01FNVBLa1MwRDhneGJiVmtYSE5DVE1qWENzaHNhbTg?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "KFC, 메뉴 혁신, 현대화된 레스토랑, 상쾌한 브랜딩에 초점을 맞춘 ‘넥스트 챕터' 공개",
           "title_ja": "KFCは、メニューの革新、レストランの近代化、ブランドの刷新に焦点を当てた「次の章」を発表",
           "title_zh": "肯德基推出“新篇章” ，专注于菜单创新、餐厅现代化、品牌更新"
+        },
+        {
+          "title": "Fast-food traffic took a hit in May as higher gas prices settle in",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlV3T2RTb3Z1V2NVcTNqMW1TZDdXQTlTSmFEdjdfRVRfSHU4cmdHSUYtTnJ2T3ZjTGtRNE5oT0RRVVBtZDlKLTBrbHh3NEZYSXN3dllYWXN4SmdGbjBKdkNBV0FqSEdWTWc2ZUhxaVVhNjFQTFZVakdDRFUzOVZia1RaRmJXN3F4TlEwaUdhMHB6ZFM3ekM5RExnWUJTREpLNV9Oa3pSMHB0YXdY?oc=5",
+          "desc": "",
+          "title_ko": "5월에 주유소 가격이 상승함에 따라 패스트푸드 트래픽이 큰 타격을 입었습니다.",
+          "title_ja": "ファストフードの交通量は、ガソリン価格が上昇したため、5月に打撃を受けました",
+          "title_zh": "由于汽油价格上涨， 5月份快餐流量受到打击"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "K-food在国外很受欢迎，和我们的味蕾一样"
         },
         {
-          "title": "네츄럴코어, 영국 펫푸드 브랜드 '푸치앤머트' 새단장해 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16ay1aZDFmOGN5R2xPcUZfSktuYkNwcC1RSVpKMHhiTTQtbzBWRmI5empYWVpJSmI1dE4zZGJWQUZDVWEtSjZEcDI3aFFlQnJocEE?oc=5",
+          "title": "[오늘의 급등주] 한진칼우·컬러레이·공구우먼·푸드나무·드래곤플라이, 급등 마감",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uSEIzNkdmZmNFVkFKYlVVWTUyUzB0RHFLNlNzaGU0V2FydWJzOFFzb0pGNVNQclk4enZJUDdkS3c4SU5ZNmRUeVNpaXJHVmEzUThnNFFwREpXVEl3bExHY0VvaU8?oc=5",
           "desc": "",
-          "title_en": "Natural Core launches new and refurbished UK pet food brand 'Pucci&Mirt'",
-          "title_ja": "Natural Core、新しく改装された英国のペットフードブランド「Pucci&Mirt」を発表",
-          "title_zh": "Natural Core推出全新翻新英国宠物食品品牌“Pucci&Mirt”"
+          "title_en": "[Today's skyrocketing share] Hanjin Calwoo, Color Lay, Tool Woman, Food Tree, Dragonfly, skyrocketing closing",
+          "title_ja": "【今日の急上昇シェア】韓進カルウー、カラーレイ、道具女、フードツリー、トンボ、急上昇クロージング",
+          "title_zh": "【今日飙升份额】韩进Calwoo ，彩妆，刀女，食树，蜻蜓，飙升收盘"
         }
       ]
     },
