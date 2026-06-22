@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-22T11:55:40Z",
+  "lastUpdated": "2026-06-22T17:00:43Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Twin Peaks franchisees have a path to take ownership of the brand",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjZMLXlZdXBZQUtNTG0zOFE3TC1TcERGWjllcDlRX2s2UDJOdkNhZ3pvMHAtOWpYUmFLcHB2emlQWmM4SzdRNVZoTlRqcERoWHBFWHBGRTlyejd1ZEI4ZzFuZjZINjJweW9tQmtXamk3a2I2ZmYxbWp3T3F2UjNCODJUZjJSNU5oZTVmVUZWX19yRTVCQnZhR2RPazBjNlBCblE?oc=5",
-          "desc": "",
-          "title_ko": "Twin Peaks 프랜차이즈 가맹점은 브랜드를 소유할 수 있는 경로가 있습니다.",
-          "title_ja": "ツインピークスのフランチャイズ加盟店は、ブランドの所有権を得るためのパスを持っています",
-          "title_zh": "Twin Peaks加盟商拥有品牌所有权"
-        },
         {
           "title": "KFC unveils its ‘next chapter,’ focused on menu innovation, modernized restaurants, refreshed branding",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOTlJckxsNWJrSmFQV3dobnBfT2haRlg2Z3lTQUNJWVNteGNBSlpYMkJFUGVIMzdYWDBrVHQ0cS1neEM3V1JfRjhqYTFwQkJpelpBTmtGV01KdjN6S3R2WkZEdTdiMnZxRDNKSXMySm94UnVPNXhsUFRzcXhxZ1o4aU85aVVzU3R0aHUtdHB3V2NEOXRCREl4ZmlLMHBLekEwUUswMUdLUEk3Y1VrSTg0YnRjelJEU0dTYm5PNHUwenY0aUROeUNSdzdLT2Y?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
           "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
           "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "在美国吃完K-food后，为国家队加油……大规模的营销传播"
         },
         {
-          "title": "\"K팝·뷰티·푸드 총출동\"…더현대 서울, 'K콘텐츠 페어' 개최",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRzE3Z1dEZlZRSEFZUHRITExRc0ltZWF0X243dFdZdDEyd010SzU5RlVIV0ZUQXdCamFTd2p2TS0wUWxXRjdTN0NpbzEtVGlWdmd0b29abzFWQdIBVEFVX3lxTE1JQTBhNlZpVWxrVjVidzRMRy00c3dLa1pyZy1vTTFZNEVYd1kwTzNEZERSYktYWl90aUdsQjBmcW52MkdnWGczVEdmRUFCb1JBMEhERg?oc=5",
+          "title": "큰돈 쓰던 중국인 안 오는데…면세점 대박 터진 '숨은 이유'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04cnhqbTg1Q2lMRVViVndKR1NwNEc1ZnJzVHVyRUhMb08zYWtNcURBbGpYcGdvREVqTXM1SnZtbUtoamMwdU9ZSkVCXzNyRXBockVIR3NWNF84QdIBVEFVX3lxTFB4allFNGZraVNPY3Q3bFlRUHRkcTZWTmJXZFZGN0RDVS01aXhyOFBnNWNSa0wyOU5NelhJRzF0QjNaOWw4dUp2T3pzSzlOMGpaQWswRg?oc=5",
           "desc": "",
-          "title_en": "\"K-pop, beauty, and food in general\" … The Hyundai Seoul hosts' K Contents Fair '",
-          "title_ja": "「K - POP、美容、食べ物全般」…現代ソウルでは「Kコンテンツフェア」が開催されます",
-          "title_zh": "「韩国流行音乐、美容和美食」……现代首尔举办「韩国内容展」"
+          "title_en": "Chinese people who used to spend a lot of money aren't coming... 'Hidden reasons' for the great burst of duty-free shops",
+          "title_ja": "かつて多額のお金を使っていた中国人は来ない…免税店の大爆発の「隠された理由」",
+          "title_zh": "曾经花很多钱的中国人不来了……免税店大爆发的“隐藏原因”"
         }
       ]
     },
