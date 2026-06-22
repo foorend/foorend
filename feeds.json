@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:00:43Z",
+  "lastUpdated": "2026-06-22T20:48:41Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "肯德基推出“新篇章” ，专注于菜单创新、餐厅现代化、品牌更新"
         },
         {
+          "title": "The National Restaurant Association calls for a delay on a THC ban",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2ZhRF9qN2dvRGJOd2d3RkNPSzhmcG1yRzJMcWZrTTlmREs5NmJJNUk4UkVfZWVrYUtkNzQtNEVTdVM0U28wQk8zWG5CUmhRd0N6UkNkQXdRa3prR25YZUo1STIwNlNDXzk3cHozbWNhSmlrWjZlWEo3T2JNZ0M0cVRtQ19NSXRIaksxbU50MldHOUhQZ1hBYU1WandrZTdF?oc=5",
+          "desc": "",
+          "title_ko": "전국 레스토랑 협회 (National Restaurant Association) 는 THC 금지에 대한 지연을 요구합니다.",
+          "title_ja": "全米レストラン協会は、THCの禁止を遅らせるよう求めています",
+          "title_zh": "全国餐厅协会呼吁推迟THC禁令"
+        },
+        {
           "title": "McDonald’s next evolution includes menu, service and technology upgrades",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
           "desc": "",
           "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
           "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
           "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -35,14 +35,6 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
-        {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Switching to Counter Service Made my Restaurant More Sustainable",
+          "link": "https://www.eater.com/pre-shift/969944/rye-bunny-dc-restaurant-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "카운터 서비스로 전환하여 레스토랑의 지속 가능성을 높였습니다.",
+          "title_ja": "カウンターサービスへの切り替えにより、レストランはより持続可能になりました",
+          "title_zh": "改用柜台服务让我的餐厅更环保"
+        },
+        {
+          "title": "The 16 Best Restaurants in Cannes",
+          "link": "https://www.eater.com/maps/best-restaurants-cannes-france",
+          "desc": "During the last few years, there’s been a major evolution in the geography of Cannes’s restaurant scene. Formerly, the restaurants of the glamorous ho",
+          "title_ko": "칸 최고의 레스토랑 16곳",
+          "title_ja": "カンヌでおすすめのレストラン16選",
+          "title_zh": "戛纳16家最佳餐厅"
+        },
+        {
           "title": "Our Favorite Breville Countertop Oven Is $80 Off for Early Prime Day",
           "link": "https://www.eater.com/shopping/894520/breville-smart-oven-air-fryer-sale-amazon",
           "desc": "Well, folks, the first wave of early Amazon Prime Day deals is currently crashing, but — wait, what’s that on its crest? Why, it’s the Breville Smart ",
           "title_ko": "가장 좋아하는 브레빌 조리대 오븐은 이른 프라임 데이에 $ 80 할인",
           "title_ja": "私たちのお気に入りのブレビルカウンタートップオーブンは、アーリープライムデーが$ 80オフ",
           "title_zh": "我们最喜欢的Breville台面烤箱提前黄金日立减$ 80"
-        },
-        {
-          "title": "The Full List of James Beard Awards 2026 Restaurant and Chef Winners",
-          "link": "https://www.eater.com/restaurant-news/967899/james-beard-awards-2026-restaurant-chef-winners",
-          "desc": "On Monday, June 15, the James Beard Foundation revealed the remaining winners of the 2026 James Beard Awards at its annual ceremony in Chicago, bringi",
-          "title_ko": "제임스 비어드 어워드 2026 레스토랑 및 셰프 수상자 전체 목록",
-          "title_ja": "ジェームズ・ビアード・アワード2026レストラン＆シェフ賞受賞者の全リスト",
-          "title_zh": "2026年詹姆斯·比尔德奖餐厅和厨师获奖者完整名单"
-        },
-        {
-          "title": "James Beard Foundation Awards 2026: Winners, News, and Updates",
-          "link": "https://www.eater.com/jbfa/967902/james-beard-foundation-awards-2026-winners-news-and-updates",
-          "desc": "The annual James Beard Foundation Awards are one of the most exciting and esteemed events of the year when it comes to American dining and food. Start",
-          "title_ko": "제임스 비어드 재단 어워드 2026: 수상자, 뉴스 및 업데이트",
-          "title_ja": "ジェームズ・ビアード財団賞2026 ：受賞者、ニュース、アップデート",
-          "title_zh": "2026年詹姆斯·比尔德基金会奖：获奖者、新闻和更新"
         }
       ]
     }
@@ -136,20 +136,20 @@
           "title_zh": "奉栋之后，销量大幅飙升……销量飙升170% ， “时令美食”停滞不前"
         },
         {
-          "title": "미국서도 K푸드 먹고 대표팀 응원…대규모 마케팅 확산",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PNU42ZmVaTHhjUTNabUJ5NWItTHFyNUp2WE82dTVzbGZjU09Rbmd0cUZmNFhGYVctaGlxWk9BWEVGUlM2aWU0WThXbEF1MUV0LV9zZk9XRlQ5Z9IBVEFVX3lxTE1mRjlJd1N3bVVGajR6VDNHX2prbkFtM2I2VEh1QmFiOUsyXzVrS2FfRzZ0VjRoRDhSaUhweWM0cW53UGZiSUFsdWJGbXNyMW9MSXBtdA?oc=5",
-          "desc": "",
-          "title_en": "Cheer for the national team after eating K-food in the US, too… Massive marketing spread",
-          "title_ja": "米国でもK - foodを食べた後、代表チームのために応援しましょう…大規模なマーケティングの普及",
-          "title_zh": "在美国吃完K-food后，为国家队加油……大规模的营销传播"
-        },
-        {
           "title": "큰돈 쓰던 중국인 안 오는데…면세점 대박 터진 '숨은 이유'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04cnhqbTg1Q2lMRVViVndKR1NwNEc1ZnJzVHVyRUhMb08zYWtNcURBbGpYcGdvREVqTXM1SnZtbUtoamMwdU9ZSkVCXzNyRXBockVIR3NWNF84QdIBVEFVX3lxTFB4allFNGZraVNPY3Q3bFlRUHRkcTZWTmJXZFZGN0RDVS01aXhyOFBnNWNSa0wyOU5NelhJRzF0QjNaOWw4dUp2T3pzSzlOMGpaQWswRg?oc=5",
           "desc": "",
           "title_en": "Chinese people who used to spend a lot of money aren't coming... 'Hidden reasons' for the great burst of duty-free shops",
           "title_ja": "かつて多額のお金を使っていた中国人は来ない…免税店の大爆発の「隠された理由」",
           "title_zh": "曾经花很多钱的中国人不来了……免税店大爆发的“隐藏原因”"
+        },
+        {
+          "title": "미국서도 K푸드 먹고 대표팀 응원…대규모 마케팅 확산",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PNU42ZmVaTHhjUTNabUJ5NWItTHFyNUp2WE82dTVzbGZjU09Rbmd0cUZmNFhGYVctaGlxWk9BWEVGUlM2aWU0WThXbEF1MUV0LV9zZk9XRlQ5Z9IBVEFVX3lxTE1mRjlJd1N3bVVGajR6VDNHX2prbkFtM2I2VEh1QmFiOUsyXzVrS2FfRzZ0VjRoRDhSaUhweWM0cW53UGZiSUFsdWJGbXNyMW9MSXBtdA?oc=5",
+          "desc": "",
+          "title_en": "Cheer for the national team after eating K-food in the US, too… Massive marketing spread",
+          "title_ja": "米国でもK - foodを食べた後、代表チームのために応援しましょう…大規模なマーケティングの普及",
+          "title_zh": "在美国吃完K-food后，为国家队加油……大规模的营销传播"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "HF Food Group任命独立董事Taylor Brown.扩大至五名董事"
         },
         {
+          "title": "[매일경제TV] 역대 최대 수출 'K푸드' 비결은",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfUTZyc1lzV1JRQkdFZFl2b1VtVjVWdDNORDBCNW9HZ1ZBb1hKcGNOQ1o2Nmw4eGRiMUp6M0N6R0pnbnVkN0FVRmR2RXRGa3F0X1M3cw?oc=5",
+          "desc": "",
+          "title_en": "[Maeil Economy TV] The secret of 'K Food', the largest export",
+          "title_ja": "【メイルエコノミーTV】最大の輸出品「Kフード」の秘密",
+          "title_zh": "[Maeil Economy TV] 'K Food'的秘密，最大的出口"
+        },
+        {
           "title": "[게시판] 수출입은행·aT, K-푸드 수출 지원 업무협약",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yTUpUOE5yNDBudEJxWW92emFqXzRCOVBfLVdQMUJ1RHRLTjVNNVBXV2pMaWt2Z0FQdy1HYWJMS002cDgzZmE5YzYtZ1pNRFo4TXc?oc=5",
           "desc": "",
           "title_en": "[Bulletin] Export-Import Bank · aT, K-Food Export Support Business Agreement",
           "title_ja": "【速報】輸出入銀行・aT, K - Food輸出支援事業契約書",
           "title_zh": "【公告】进出口银行· aT, K-Food出口支持业务协议"
-        },
-        {
-          "title": "[샷!] \"배달 중독 치료…이건 혁명이다\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yN0J6VGxHbEJ1Uk5TcW5mYUJEaE9rY2VxNjJYUm1EZ2ZVMjNQdFVtR2QySUpVeEkzNTRyMENfVFdKcXFSb2UyVlZJWmc1ekJBUUE?oc=5",
-          "desc": "",
-          "title_en": "[Shot!] \"Delivery Addiction Treatment... This is a Revolution\"",
-          "title_ja": "【ショット！】「出産依存症治療・・・これは革命だ」",
-          "title_zh": "【开枪！】“分娩成瘾治疗……这是一场革命”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "以杏仁和大枣为原料……德国，避免甜酱"
         },
         {
-          "title": "참치 소비 많은 프랑스, 통조림 수은 논란 확산",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VRUxnR2ZjWm4yUnZXUTNxbENnX2pFR0ljU1NjalJUWm5yOVZLZ2MwWEkwZGNBV0pPZXlmSndhWDlMeUFyVXdVLWZFNDh0WTExRC13NExTUQ?oc=5",
-          "desc": "",
-          "title_en": "Tuna-consuming France spreads controversy over canned mercury",
-          "title_ja": "マグロを消費するフランス、缶詰の水銀をめぐる論争を広める",
-          "title_zh": "消费金枪鱼的法国因罐装汞而引发争议"
-        },
-        {
           "title": "지방 태우는 세포가 저장 세포로…패스트푸드의 위험성",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80Qnh4YmNuT3ROOXZFbTR3eW5YUzhTWEhYeVRpYU5pb1FVZFF6MXl5NTd6RWQxUDRWUGFoRXc2aWZwM0FJdVFzVE1HYllEenR2N1VpMUN6MA?oc=5",
           "desc": "",
           "title_en": "Fat-burning cells as storage cells… The dangers of fast food",
           "title_ja": "貯蔵細胞としての脂肪燃焼細胞…ファーストフードの危険性",
           "title_zh": "燃烧脂肪的细胞作为储存细胞……快餐的危险"
+        },
+        {
+          "title": "‘K-푸드 체험 공간’ 베트남 편의점, GS25 성장에 주목",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBMlE5VTVvYnAxVVFVc2JvckdGSk9hdjNFRkxWWEFPY25DV0ZUYUJfNWw3VzF5SVc3cFdqRk5kZVdMQW8tUldJSDdHUTFNZVBRX3NoMlRpSQ?oc=5",
+          "desc": "",
+          "title_en": "‘K-Food Experience Space’ Vietnamese Convenience Store Focuses on GS25 Growth",
+          "title_ja": "「K - Food Experience Space」ベトナムのコンビニエンスストアはGS 25の成長に焦点を当てています",
+          "title_zh": "“K-Food Experience Space”越南便利店专注于GS25的增长"
         }
       ]
     }
