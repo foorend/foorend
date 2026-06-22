@@ -1,95 +1,20 @@
 {
-  "lastUpdated": "2026-06-21T22:14:50Z",
+  "lastUpdated": "2026-06-22T04:19:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "Twin Peaks franchisees have a path to take ownership of the brand",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjZMLXlZdXBZQUtNTG0zOFE3TC1TcERGWjllcDlRX2s2UDJOdkNhZ3pvMHAtOWpYUmFLcHB2emlQWmM4SzdRNVZoTlRqcERoWHBFWHBGRTlyejd1ZEI4ZzFuZjZINjJweW9tQmtXamk3a2I2ZmYxbWp3T3F2UjNCODJUZjJSNU5oZTVmVUZWX19yRTVCQnZhR2RPazBjNlBCblE?oc=5",
-          "desc": "",
-          "title_ko": "Twin Peaks 프랜차이즈 가맹점은 브랜드를 소유할 수 있는 경로가 있습니다.",
-          "title_ja": "ツインピークスのフランチャイズ加盟店は、ブランドの所有権を得るためのパスを持っています",
-          "title_zh": "Twin Peaks加盟商拥有品牌所有权"
-        },
-        {
-          "title": "KFC unveils its ‘next chapter,’ focused on menu innovation, modernized restaurants, refreshed branding",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOTlJckxsNWJrSmFQV3dobnBfT2haRlg2Z3lTQUNJWVNteGNBSlpYMkJFUGVIMzdYWDBrVHQ0cS1neEM3V1JfRjhqYTFwQkJpelpBTmtGV01KdjN6S3R2WkZEdTdiMnZxRDNKSXMySm94UnVPNXhsUFRzcXhxZ1o4aU85aVVzU3R0aHUtdHB3V2NEOXRCREl4ZmlLMHBLekEwUUswMUdLUEk3Y1VrSTg0YnRjelJEU0dTYm5PNHUwenY0aUROeUNSdzdLT2Y?oc=5",
-          "desc": "",
-          "title_ko": "KFC, 메뉴 혁신, 현대화된 레스토랑, 상쾌한 브랜딩에 초점을 맞춘 ‘넥스트 챕터' 공개",
-          "title_ja": "KFCは、メニューの革新、レストランの近代化、ブランドの刷新に焦点を当てた「次の章」を発表",
-          "title_zh": "肯德基推出“新篇章” ，专注于菜单创新、餐厅现代化、品牌更新"
-        },
-        {
-          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
-          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
-          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": [
-        {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
-        {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
-          "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        }
-      ]
+      "items": []
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": [
-        {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
-          "desc": "",
-          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
-          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        }
-      ]
+      "items": []
     },
     "eater": {
       "label": "Eater",
@@ -126,122 +51,22 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "\"K팝·뷰티·푸드 총출동\"…더현대 서울, 'K콘텐츠 페어' 개최",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRzE3Z1dEZlZRSEFZUHRITExRc0ltZWF0X243dFdZdDEyd010SzU5RlVIV0ZUQXdCamFTd2p2TS0wUWxXRjdTN0NpbzEtVGlWdmd0b29abzFWQdIBVEFVX3lxTE1JQTBhNlZpVWxrVjVidzRMRy00c3dLa1pyZy1vTTFZNEVYd1kwTzNEZERSYktYWl90aUdsQjBmcW52MkdnWGczVEdmRUFCb1JBMEhERg?oc=5",
-          "desc": "",
-          "title_en": "\"K-pop, beauty, and food in general\" … The Hyundai Seoul hosts' K Contents Fair '",
-          "title_ja": "「K - POP、美容、食べ物全般」…現代ソウルでは「Kコンテンツフェア」が開催されます",
-          "title_zh": "「韩国流行音乐、美容和美食」……现代首尔举办「韩国内容展」"
-        },
-        {
-          "title": "초복도 전인데 벌써 불티…삼계탕 간편식 55% 뛰었다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSQ19iR285RnExMlN6cXVrMWVHTXJUX3p4S2g1MmphRl9WUFdPcE1xdUtMeDRGaE1meGNUdmRJRkZVekh1NDBqTTJUcV81Qm1fQnd6MXJPaV9Kd9IBVEFVX3lxTE5TVjladE5oUkV2NTIzWTBlMEM4WHFnZmg1aDVUWFRqNkloMzFYWDYtdGJxeGdGLVNiMWpfRmtJeU5lY0pieE5uQkN4bkl3WmpoMmtrMw?oc=5",
-          "desc": "",
-          "title_en": "It's before Chokbok-do, and already it's bulti... Samgyetang simple food 55% jumped",
-          "title_ja": "Chokbok - doの前にあり、すでにbultiです... Samgyetang簡単な食べ物55 ％ジャンプしました",
-          "title_zh": "在Chokbok-do之前，已经是bulti了...... Samgyetang简单的食物跳了55 ％"
-        },
-        {
-          "title": "'황홀한 맛' 北 주민 귀순시킨 그 음식…5000원대에 쫙 깔렸다 [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUjg3bVhCVEJMYU9vQWlfVnhRU2ZuWHRwVnZ6eExLM0dTVzlKUFFOREpEbEdtSC1wb0NndzBRWHc4aFoxZTllYXZWczVLdWtYaU5Sb1VJaURxamFFc28xMUVoSnhYTU8xS0hiLW5wZzdBcmhibHh3Q2p1eHg5bnh4RW9DcnBDWU1DV05kMmg0NHl0LTVBVDF5Y0t0eXhyZw?oc=5",
-          "desc": "",
-          "title_en": "'Fantastic taste' The food that North Koreans returned to... It was spread over 5,000 won [Kwon Yong-hoon's Trend Watch]",
-          "title_ja": "「すばらしい味」北朝鮮人が帰ってきた食べ物… 5,000ウォン以上に広がっていた【クォン・ヨンフンのトレンドウォッチ】",
-          "title_zh": "「美味佳肴」朝鲜人回归的美食……分布在5000多韩元【权永勋的潮流观察】"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": [
-        {
-          "title": "“치킨·떡볶이보다 훨씬 더 안 좋다”…약사가 꼽은 피부에 ‘최악 음식’은 바로 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PUVVLQy1jZFJ3SmU5by1XVFQyRzMxR2NsUUhkdjNmMUNraHZRMmxJQkJYTFpPSGtrZXNMUUR2ZUpJY3BiRkt0ektRRE1mcGkybXfSAVNBVV95cUxOMm80UFZpbUFwTFFpSDFIMlhSNFVhSF9jSm10NTg5NjBYb0xKdHBaQnhqUkpnSHBtYnFqNTdmamMzQXljUHBGai1kQTc3NVpqc2dNUQ?oc=5",
-          "desc": "",
-          "title_en": "“Much worse than chicken and tteokbokki” … The ‘worst food‘ for the skin according to the pharmacist is [Health Time]",
-          "title_ja": "「鶏肉やtteokbokkiよりもはるかに悪い」…薬剤師によると、肌にとって「最悪の食べ物」は[Health Time]です",
-          "title_zh": "“比鸡肉和tteokbokki更糟糕” ……根据药剂师的说法，对皮肤来说“最糟糕的食物”是[健康时间]"
-        },
-        {
-          "title": "삼계탕 한 그릇 2만원 시대…신세계푸드 간편식 판매 38% 늘었다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rZ28zQll5TlhNZnVoS2syUGItTk1WQ2lfRjRBVkMyWmtQRE42QWdrQVc1Wk02SEhScmc5Rm0tV0J1NHE0YzJIRlVqR1NjY2RFYXfSAVNBVV95cUxPNkhtRWdIb19nb2RFRnZKSUZOUWJnbl91cjZrRW1kTV9vQzJ5clJjOGhnRDdmcVE4andpeFN1VV9FRXRvYVd5bmpGbnF5TDRfRjc4Yw?oc=5",
-          "desc": "",
-          "title_en": "In the era of 20,000 won for a bowl of Samgyetang… Shinsegae Food sales increased 38%",
-          "title_ja": "サムゲタン1杯2万ウォンの時代に…新世界食の売り上げが38 ％増",
-          "title_zh": "在三溪堂一碗20,000韩元的时代……新世界食品销售额增长了38%"
-        },
-        {
-          "title": "\"예술이 된 한식\" 생각보다 훨씬 미친 K푸드 월드클래스! #미식 #파인다이닝 #한식 #해외반응 #미슐랭가이드 #한류 #kfood #koreanculture #미미상인 #강의",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LUkJNeUFNbWZpS00tVDlJZmxtMnRUeVdtY3ZUV2hKZmtnX0xFUnZWcGZzbDlIc3VyRUg0cVhnMUUwQTBuQXpZTm1jZw?oc=5",
-          "desc": "",
-          "title_en": "\"Korean Food Becomes Art\" K Food World Class is even crazier than you think! # Gastronomy # Fine Dining # Korean Food # Overseas Reaction # Michelin Guide # Hallyu # kfood # koreanculture # unknown # Lecture",
-          "title_ja": "「韓国料理がアートになる」Kフードワールドクラスは想像以上にクレイジー！ #ガストロノミー#ファインダイニング#韓国料理#海外からの反応#ミシュランガイド#ハリウ# kfood #韓国文化#不明#講義",
-          "title_zh": "「韩国美食成为艺术」K Food World Class比您想象的更疯狂！ #美食#精致餐饮#韩国美食#海外反应#米其林指南# Hallyu # kfood #韩国文化#未知#讲座"
-        }
-      ]
+      "items": []
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": [
-        {
-          "title": "[게시판] 수출입은행·aT, K-푸드 수출 지원 업무협약",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yTUpUOE5yNDBudEJxWW92emFqXzRCOVBfLVdQMUJ1RHRLTjVNNVBXV2pMaWt2Z0FQdy1HYWJMS002cDgzZmE5YzYtZ1pNRFo4TXc?oc=5",
-          "desc": "",
-          "title_en": "[Bulletin] Export-Import Bank · aT, K-Food Export Support Business Agreement",
-          "title_ja": "【速報】輸出入銀行・aT, K - Food輸出支援事業契約書",
-          "title_zh": "【公告】进出口银行· aT, K-Food出口支持业务协议"
-        },
-        {
-          "title": "외국에서 인기라는 K푸드, 우리랑 입맛 똑같잖아",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1dEtNNlEwcGFyZVMtUWlvS3BTamFiZmt5VVRzMDRxMWh5NnVPMGN2MkNHM20zSWo3TlZDMXc1YkdhdW1HTlN3VFZTTUMxVFZYUnJMN0RURFZFZFpFOXNma21iY25kVE9WUUZqX0xETVhCVzhV0gF0QVVfeXFMUHV0S002UTBwYXJlUy1RaW9LcFNqYWJma3lVVHMwNHExaHk2dU8wY3YyQ0czbTNJajdOVkMxdzViR2F1bUdOU3dUVlNNQzFUVlhSckw3RFREVkVkWkU5c2ZrbWJjbmRUT1ZRRmpfTERNWEJXOFU?oc=5",
-          "desc": "",
-          "title_en": "K-food called popular in foreign countries, it's the same as our taste buds",
-          "title_ja": "海外で人気と言われるK - food、味蕾と同じ",
-          "title_zh": "K-food在国外很受欢迎，和我们的味蕾一样"
-        },
-        {
-          "title": "[오늘의 급등주] 한진칼우·컬러레이·공구우먼·푸드나무·드래곤플라이, 급등 마감",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uSEIzNkdmZmNFVkFKYlVVWTUyUzB0RHFLNlNzaGU0V2FydWJzOFFzb0pGNVNQclk4enZJUDdkS3c4SU5ZNmRUeVNpaXJHVmEzUThnNFFwREpXVEl3bExHY0VvaU8?oc=5",
-          "desc": "",
-          "title_en": "[Today's skyrocketing share] Hanjin Calwoo, Color Lay, Tool Woman, Food Tree, Dragonfly, skyrocketing closing",
-          "title_ja": "【今日の急上昇シェア】韓進カルウー、カラーレイ、道具女、フードツリー、トンボ、急上昇クロージング",
-          "title_zh": "【今日飙升份额】韩进Calwoo ，彩妆，刀女，食树，蜻蜓，飙升收盘"
-        }
-      ]
+      "items": []
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "아몬드·대추 기반…독일, 달콤한 스프레드 피한다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zVl9DNDRYcFV6amhUVDIwbjJDWWZIUHFNZGFzWUNBc2EzVTRZMVlycmRuY0YyT0t3bDdIN1JqQkNZajhtdXd4MXNLejFuMDBGLTVIc2c3TQ?oc=5",
-          "desc": "",
-          "title_en": "Almond and jujube based… Germany, avoiding sweet spreads",
-          "title_ja": "アーモンドとナツメのベース…ドイツ、甘いスプレッドを避けて",
-          "title_zh": "以杏仁和大枣为原料……德国，避免甜酱"
-        },
-        {
-          "title": "참치 소비 많은 프랑스, 통조림 수은 논란 확산",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VRUxnR2ZjWm4yUnZXUTNxbENnX2pFR0ljU1NjalJUWm5yOVZLZ2MwWEkwZGNBV0pPZXlmSndhWDlMeUFyVXdVLWZFNDh0WTExRC13NExTUQ?oc=5",
-          "desc": "",
-          "title_en": "Tuna-consuming France spreads controversy over canned mercury",
-          "title_ja": "マグロを消費するフランス、缶詰の水銀をめぐる論争を広める",
-          "title_zh": "消费金枪鱼的法国因罐装汞而引发争议"
-        },
-        {
-          "title": "‘K-푸드 체험 공간’ 베트남 편의점, GS25 성장에 주목",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBMlE5VTVvYnAxVVFVc2JvckdGSk9hdjNFRkxWWEFPY25DV0ZUYUJfNWw3VzF5SVc3cFdqRk5kZVdMQW8tUldJSDdHUTFNZVBRX3NoMlRpSQ?oc=5",
-          "desc": "",
-          "title_en": "‘K-Food Experience Space’ Vietnamese Convenience Store Focuses on GS25 Growth",
-          "title_ja": "「K - Food Experience Space」ベトナムのコンビニエンスストアはGS 25の成長に焦点を当てています",
-          "title_zh": "“K-Food Experience Space”越南便利店专注于GS25的增长"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
