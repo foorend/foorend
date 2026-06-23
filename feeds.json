@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T03:38:01Z",
+  "lastUpdated": "2026-06-23T09:39:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Outback Steakhouse希望修复其价值观"
         },
         {
-          "title": "KFC unveils its ‘next chapter,’ focused on menu innovation, modernized restaurants, refreshed branding",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOTlJckxsNWJrSmFQV3dobnBfT2haRlg2Z3lTQUNJWVNteGNBSlpYMkJFUGVIMzdYWDBrVHQ0cS1neEM3V1JfRjhqYTFwQkJpelpBTmtGV01KdjN6S3R2WkZEdTdiMnZxRDNKSXMySm94UnVPNXhsUFRzcXhxZ1o4aU85aVVzU3R0aHUtdHB3V2NEOXRCREl4ZmlLMHBLekEwUUswMUdLUEk3Y1VrSTg0YnRjelJEU0dTYm5PNHUwenY0aUROeUNSdzdLT2Y?oc=5",
+          "title": "More tough data on restaurant sales",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUQtR2lRTmVMSldZNGhXWkM5ZERsVlFydGRScEU3WFdUWkUxTUJDS0RGbmRpTHJIdXVvY0FDaGsxREJOZUJDUHhNb01tVU5ldXNJUGVnZlFuc3BYZGhUX0ZVdjRRRUZBaHYxLU1YRGpxU0FMU09NSVBfMnl5NWNFdENHczBzdw?oc=5",
           "desc": "",
-          "title_ko": "KFC, 메뉴 혁신, 현대화된 레스토랑, 상쾌한 브랜딩에 초점을 맞춘 ‘넥스트 챕터' 공개",
-          "title_ja": "KFCは、メニューの革新、レストランの近代化、ブランドの刷新に焦点を当てた「次の章」を発表",
-          "title_zh": "肯德基推出“新篇章” ，专注于菜单创新、餐厅现代化、品牌更新"
+          "title_ko": "레스토랑 매출에 대한 더 까다로운 데이터",
+          "title_ja": "レストランの売り上げに関するより厳しいデータ",
+          "title_zh": "餐厅销售额数据更为严峻"
         }
       ]
     },
@@ -36,28 +36,28 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
+          "title": "Food Court",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fQjJ5VTFvblVVOUppVzFKeWRXdkh2eDFnX1g3V3pIZktySkxCV2hCTGF3WE1zdDBsOWlhNVBwNjJBZGI5eENfMkNxQm5UQWZVS2NNcERR?oc=5",
           "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+          "title_ko": "푸드 코트",
+          "title_ja": "フードコート（飲食売店）",
+          "title_zh": "美食广场"
         },
         {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "title": "Tomato Lust",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LU1U1XzlPY0s2SFlxbmNWR3BvYlBwQWd1TWVNdTZ0VVRDdDlRNTh4VlJ5ZlJ3WUREb0xZbDdqTl92VkJsN201aFh6cl9Hb0JvalR6cG14dw?oc=5",
           "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+          "title_ko": "토마토 욕망",
+          "title_ja": "トマトラスト",
+          "title_zh": "番茄欲望"
         },
         {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "title": "Miami Vice",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hWmRPSE1lNTY2S004TWl1RHI3SVhJUXFKLXZmaUdpUTJGQ0puVG1sUDZzUHB2U3hYSE8tYjhTV3lEZml6VndHTmpfWEVRRnY5UG5CZUh3?oc=5",
           "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
+          "title_ko": "마이애미 바이스",
+          "title_ja": "特捜刑事マイアミ・バイス",
+          "title_zh": "Miami Vice"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "奉栋之后，销量大幅飙升……销量飙升170% ， “时令美食”停滞不前"
         },
         {
-          "title": "큰돈 쓰던 중국인 안 오는데…면세점 대박 터진 '숨은 이유'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04cnhqbTg1Q2lMRVViVndKR1NwNEc1ZnJzVHVyRUhMb08zYWtNcURBbGpYcGdvREVqTXM1SnZtbUtoamMwdU9ZSkVCXzNyRXBockVIR3NWNF84QdIBVEFVX3lxTFB4allFNGZraVNPY3Q3bFlRUHRkcTZWTmJXZFZGN0RDVS01aXhyOFBnNWNSa0wyOU5NelhJRzF0QjNaOWw4dUp2T3pzSzlOMGpaQWswRg?oc=5",
+          "title": "트레이더스, '푸드 페스티벌'로 릴레이 할인 연다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SXlZZVlCWmZCVlNsd05TSWZ3ejhZSTRxTlhKWWpreUhUV3hONmxuVFp1YnNwNzdyZG9VSElqLXhnUWNxRnlHVWN2ZVRYZUxWdmlMcUZEOTV0d9IBVEFVX3lxTE0xdXVEZXZRNVBiWVZxX0M4RDVMblpBMFM5NUhHQkUxdkZCM2JsLTJ0bDhUam9mTVJkZk5iOEdEOGhKMjBtRnBhbTRkaHpZNEZFb3VBWA?oc=5",
           "desc": "",
-          "title_en": "Chinese people who used to spend a lot of money aren't coming... 'Hidden reasons' for the great burst of duty-free shops",
-          "title_ja": "かつて多額のお金を使っていた中国人は来ない…免税店の大爆発の「隠された理由」",
-          "title_zh": "曾经花很多钱的中国人不来了……免税店大爆发的“隐藏原因”"
+          "title_en": "Traders open relay sale with 'Food Festival'",
+          "title_ja": "トレーダーが「フードフェスティバル」でリレーセールを開始",
+          "title_zh": "贸易商通过“美食节”开启接力促销"
         },
         {
-          "title": "미국서도 K푸드 먹고 대표팀 응원…대규모 마케팅 확산",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PNU42ZmVaTHhjUTNabUJ5NWItTHFyNUp2WE82dTVzbGZjU09Rbmd0cUZmNFhGYVctaGlxWk9BWEVGUlM2aWU0WThXbEF1MUV0LV9zZk9XRlQ5Z9IBVEFVX3lxTE1mRjlJd1N3bVVGajR6VDNHX2prbkFtM2I2VEh1QmFiOUsyXzVrS2FfRzZ0VjRoRDhSaUhweWM0cW53UGZiSUFsdWJGbXNyMW9MSXBtdA?oc=5",
+          "title": "\"K팝·뷰티·푸드 총출동\"…더현대 서울, 'K콘텐츠 페어' 개최",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWM0VGw0NjN3RXI0c1JNLXVUQkdWazNSWW8zaVIyU3lpeFVWXy1ZVWVjbVpEV05vRGs0eEJZQkJjZENiR2Q0WDVCZ0FVUnMtVWdZY200ejQ1YlFmSUpOdGRnUUt2ZEQ1QjNqRHhuMVpSamFEcElfVWxHdm54Z0JFZG9kRUR6UDA?oc=5",
           "desc": "",
-          "title_en": "Cheer for the national team after eating K-food in the US, too… Massive marketing spread",
-          "title_ja": "米国でもK - foodを食べた後、代表チームのために応援しましょう…大規模なマーケティングの普及",
-          "title_zh": "在美国吃完K-food后，为国家队加油……大规模的营销传播"
+          "title_en": "\"K-pop, beauty, and food in general\" … The Hyundai Seoul hosts' K Contents Fair '",
+          "title_ja": "「K - POP、美容、食べ物全般」…現代ソウルでは「Kコンテンツフェア」が開催されます",
+          "title_zh": "「韩国流行音乐、美容和美食」……现代首尔举办「韩国内容展」"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "춘천지역먹거리직매장, 전국 로컬푸드 우수사례 공모전 대상",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtMU1lX3NjN29JQnl2OW44eDFCczFDdjFUV0ZJNDl4UEt1R2Z4VW5RamcwUXFlZE5iS0UtdGhLVTdpRk12X1k4dFVoQWNwWndmTEE?oc=5",
+          "desc": "",
+          "title_en": "Chuncheon area food store, national local food best practice contest target",
+          "title_ja": "春川地区の食料品店、全国地元の食のベストプラクティスコンテストのターゲット",
+          "title_zh": "春川地区食品商店，全国本地食品最佳实践竞赛目标"
+        },
+        {
           "title": "신세계푸드, '우리산지 레시피' 캠페인…보성 말차 디저트 출시",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zMjdOTG81Mno4M2c5blRtSEpTMUpubnduRmxCYWxwS3JLQU43RXVGSk5SNTZwVEtaMzR4RmlzM0lLOWxuRnl3TjZuSUxnbnA2LVE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "HF Food Group Appoints Independent Director Taylor Brown.. Expands to Five Directors",
           "title_ja": "HFフードグループ、独立取締役テイラー・ブラウンを任命。5人の取締役に拡大",
           "title_zh": "HF Food Group任命独立董事Taylor Brown.扩大至五名董事"
-        },
-        {
-          "title": "[매일경제TV] 역대 최대 수출 'K푸드' 비결은",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfUTZyc1lzV1JRQkdFZFl2b1VtVjVWdDNORDBCNW9HZ1ZBb1hKcGNOQ1o2Nmw4eGRiMUp6M0N6R0pnbnVkN0FVRmR2RXRGa3F0X1M3cw?oc=5",
-          "desc": "",
-          "title_en": "[Maeil Economy TV] The secret of 'K Food', the largest export",
-          "title_ja": "【メイルエコノミーTV】最大の輸出品「Kフード」の秘密",
-          "title_zh": "[Maeil Economy TV] 'K Food'的秘密，最大的出口"
         }
       ]
     },
