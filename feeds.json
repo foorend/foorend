@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T14:50:06Z",
+  "lastUpdated": "2026-06-23T17:17:42Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,12 +96,12 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "Switching to Counter Service Made my Restaurant More Sustainable",
+          "title": "Switching to Counter Service Made My Restaurant More Sustainable",
           "link": "https://www.eater.com/pre-shift/969944/rye-bunny-dc-restaurant-pre-shift",
           "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
           "title_ko": "카운터 서비스로 전환하여 레스토랑의 지속 가능성을 높였습니다.",
           "title_ja": "カウンターサービスへの切り替えにより、レストランはより持続可能になりました",
-          "title_zh": "改用柜台服务让我的餐厅更环保"
+          "title_zh": "改用柜台服务，让我的餐厅更环保"
         },
         {
           "title": "The 16 Best Restaurants in Cannes",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 '이 음식' [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
+          "desc": "",
+          "title_en": "\"I look ugly when I eat this\" … 'This food' according to a plastic surgeon [Health! Talk]",
+          "title_ja": "「これを食べると醜く見える」…整形外科医によると「この食べ物」【健康！話す】",
+          "title_zh": "“我吃这个看起来很丑” ……整形外科医生说'这个食物'【健康！说话】"
+        },
+        {
           "title": "봄동 이어 대박 터졌다…매출 170% 폭등한 '제철음식' 정체",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SZ2xSMG00V0FXb3Vobm9TVzBKNl9abmJZMkttdzQ5cVlYeVlGNjFRY29LTlV3U29YLXV0MmliSjEzUDZiWU5TSUZYbXdoWVp1Q3dnYWNqZGNvUdIBVEFVX3lxTE5mQWtoTTJxeGxMZFA3MlA2S3NkUGs4dkQ2N3FDTUh3UGNMR1FZSGpGR1FaQ0hQbzFwNmNvblgzLXRHeW1aUUJYQ3BHSWtPbVA0T3AzYw?oc=5",
           "desc": "",
           "title_en": "After Bom-dong, it exploded in a big way… Sales soared 170%, stagnating 'seasonal food'",
           "title_ja": "Bom - dongの後、それは大きな方法で爆発しました...売上は170 ％急上昇し、「季節の食べ物」を停滞させました",
           "title_zh": "奉栋之后，销量大幅飙升……销量飙升170% ， “时令美食”停滞不前"
-        },
-        {
-          "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 '이 음식'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
-          "desc": "",
-          "title_en": "\"I look ugly when I eat this\" … 'This food' according to a plastic surgeon",
-          "title_ja": "「これを食べると醜く見える」…整形外科医によると「この食べ物」",
-          "title_zh": "“我吃这个的时候看起来很丑” ……根据整形外科医生的说法， '这种食物'"
         },
         {
           "title": "트레이더스, '푸드 페스티벌'로 릴레이 할인 연다",
@@ -166,12 +166,12 @@
           "title_zh": "「相信釜山美食」夏季旺季特别打压美食"
         },
         {
-          "title": "윙입푸드, 매수잔량 400% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ia05wWVVpZzFDamI3SnUydHVDdjlhWnJLSWZVZzd5dnQzaEJkRHJFYVVuNHlpSlE5Q0dCSTV2VlEydUYyRFVGRDNoN2FPT3JLUFN3?oc=5",
+          "title": "청년 지원 연령 확대·푸드트럭 주류 허용…서울시, 생활밀착 규제 6건 손질",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54Q1pLM1pxbWxUcGVFODRqamZNNmJDWHBLZUROM2hmZEtBUlBQbFRTMDFDMVRLd21scjMzcUhrbjhoUW9HXzhxUzVmb1dQWDAybkHSAVNBVV95cUxQTHVIUklLWllKeHI1WWpJTTM1UDUtcHMzZ3pIWmZ6T0ZmNVlmTkI4ZTNBMVM4UXBMMHB6Yml1bGtYY2lLWEg5SE1QYnJBWlE4Ul82dw?oc=5",
           "desc": "",
-          "title_en": "Wing Yip Food, Buying Residual 400% Surge",
-          "title_ja": "ウィングイップフード、残余400 ％のサージを購入",
-          "title_zh": "永业食品，购买剩余400%激增"
+          "title_en": "Expansion of the age of youth support · Allowance of alcoholic beverages in food trucks… Seoul City, 6 cases of life tightness regulation",
+          "title_ja": "青少年支援年齢の拡大・フードトラックでのアルコール飲料の許容量…ソウル市、生活保護規制6件",
+          "title_zh": "青少年支持年龄的扩大·食品卡车中酒精饮料的补贴……首尔市， 6例生活紧张法规"
         },
         {
           "title": "“햄·라면 보다 훨씬 안 좋았다”…의사가 꼽은 못생겨지는 음식 1위는 [헬시타임]",
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "아몬드·대추 기반…독일, 달콤한 스프레드 피한다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zVl9DNDRYcFV6amhUVDIwbjJDWWZIUHFNZGFzWUNBc2EzVTRZMVlycmRuY0YyT0t3bDdIN1JqQkNZajhtdXd4MXNLejFuMDBGLTVIc2c3TQ?oc=5",
-          "desc": "",
-          "title_en": "Almond and jujube based… Germany, avoiding sweet spreads",
-          "title_ja": "アーモンドとナツメのベース…ドイツ、甘いスプレッドを避けて",
-          "title_zh": "以杏仁和大枣为原料……德国，避免甜酱"
-        },
-        {
           "title": "지방 태우는 세포가 저장 세포로…패스트푸드의 위험성",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80Qnh4YmNuT3ROOXZFbTR3eW5YUzhTWEhYeVRpYU5pb1FVZFF6MXl5NTd6RWQxUDRWUGFoRXc2aWZwM0FJdVFzVE1HYllEenR2N1VpMUN6MA?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "‘K-Food Experience Space’ Vietnamese Convenience Store Focuses on GS25 Growth",
           "title_ja": "「K - Food Experience Space」ベトナムのコンビニエンスストアはGS 25の成長に焦点を当てています",
           "title_zh": "“K-Food Experience Space”越南便利店专注于GS25的增长"
+        },
+        {
+          "title": "‘축구보며 바나나’…돌코리아 ‘응원 간식템’ 이벤트 전개",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UbEhVV0tDN29HdUxZNlhCTDVqbmZmS1JsQWpmWVlzRWdRc2xpRk1LVGNXM3BqRWEyN2piZmlyMnR4VlZncDdOalcza25nOS1tazJaZ2RaOA?oc=5",
+          "desc": "",
+          "title_en": "‘Bananas while watching soccer’ … Dol Korea ‘Cheerful Snack Item’ event developed",
+          "title_ja": "「サッカーを見ながらバナナ」…ドルコリア「陽気なスナックアイテム」イベント開催",
+          "title_zh": "“观看足球比赛的同时享用香蕉” …… Dol Korea开发了“快乐小吃”活动"
         }
       ]
     }
