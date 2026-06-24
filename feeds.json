@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T17:04:30Z",
+  "lastUpdated": "2026-06-24T19:46:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Hot Takes from One of the Largest Bar Trade Shows",
+          "link": "https://www.eater.com/pre-shift/970913/hot-takes-from-one-of-the-largest-bar-trade-shows",
+          "desc": "Earlier this month, Pre Shift readers joined us for a special event at Bar Convent Brooklyn in partnership with Square. The Pre Shift Lounge offered a",
+          "title_ko": "가장 큰 바 전시회 중 하나에서 뜨거운 테이크",
+          "title_ja": "最大級のバートレードショーで熱いおもてなし",
+          "title_zh": "最大的酒吧贸易展之一的热门景点"
+        },
+        {
           "title": "We’re in a Golden Era of Fancy Jell-O Shots",
           "link": "https://www.eater.com/dining-out/970608/jello-shot-trend-solid-wiggles",
           "desc": "There was a time when the words “do you want a Jell-O shot?” were synonymous with fratty bonding rituals surrounding Flubber green masses in paper Dix",
@@ -110,14 +118,6 @@
           "title_ko": "카운터 서비스로 전환하여 레스토랑의 지속 가능성을 높였습니다.",
           "title_ja": "カウンターサービスへの切り替えにより、レストランはより持続可能になりました",
           "title_zh": "改用柜台服务，让我的餐厅更环保"
-        },
-        {
-          "title": "The 16 Best Restaurants in Cannes",
-          "link": "https://www.eater.com/maps/best-restaurants-cannes-france",
-          "desc": "During the last few years, there’s been a major evolution in the geography of Cannes’s restaurant scene. Formerly, the restaurants of the glamorous ho",
-          "title_ko": "칸 최고의 레스토랑 16곳",
-          "title_ja": "カンヌでおすすめのレストラン16選",
-          "title_zh": "戛纳16家最佳餐厅"
         }
       ]
     }
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "‘K-푸드 체험 공간’ 베트남 편의점, GS25 성장에 주목",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBMlE5VTVvYnAxVVFVc2JvckdGSk9hdjNFRkxWWEFPY25DV0ZUYUJfNWw3VzF5SVc3cFdqRk5kZVdMQW8tUldJSDdHUTFNZVBRX3NoMlRpSQ?oc=5",
-          "desc": "",
-          "title_en": "‘K-Food Experience Space’ Vietnamese Convenience Store Focuses on GS25 Growth",
-          "title_ja": "「K - Food Experience Space」ベトナムのコンビニエンスストアはGS 25の成長に焦点を当てています",
-          "title_zh": "“K-Food Experience Space”越南便利店专注于GS25的增长"
-        },
-        {
           "title": "‘축구보며 바나나’…돌코리아 ‘응원 간식템’ 이벤트 전개",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UbEhVV0tDN29HdUxZNlhCTDVqbmZmS1JsQWpmWVlzRWdRc2xpRk1LVGNXM3BqRWEyN2piZmlyMnR4VlZncDdOalcza25nOS1tazJaZ2RaOA?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "Black and White Sweets Bags Appear… Japan's ‘Packaged Diet’",
           "title_ja": "黒と白のスイーツバッグが登場…日本の「パッケージダイエット」",
           "title_zh": "黑白糖果袋出现……日本的“包装饮食”"
+        },
+        {
+          "title": "“트와이스도 콤부차”…티젠, ‘콤부차 랩’ 열어",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XdUo1WjhFQ1E5WnVaQ0RSNVlOUjVRZ3lpZUdaTHktLXdTN3ljYVNRaGFvRnU5eE9Zal9HX0R1T0lfb3BTaWhQa3hIVmNNd0xnUktrdG1SMA?oc=5",
+          "desc": "",
+          "title_en": "“Twice also kombucha” … Tizen opens‘ Kombucha Lab ’",
+          "title_ja": "「TWICE also kombucha」… Tizenが「Kombucha Lab」をオープン",
+          "title_zh": "“两次康普茶” …… Tizen开设了“康普茶实验室”"
         }
       ]
     }
