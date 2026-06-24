@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T19:46:33Z",
+  "lastUpdated": "2026-06-24T22:18:04Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "观看、品尝、享受……釜山美食电影节十周年庆典"
         },
         {
-          "title": "“부산 음식 믿고 드세요” 여름 성수기 먹거리 특별단속",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Hc3NITnp4RVRLdmJOUUk3bVpzYmZhX0JoYW5PSlpxdml1R3dIT01wb3RXWkotVlYwaDNJcDJRRmpSODFCUnlmLUp2Q3RHMGZ5ZmlR0gFTQVVfeXFMTkdzc0hOenhFVEt2Yk5RSTdtWnNiZmFfQmhhbk9KWnF2aXVHd0hPTXBvdFdaSi1WVjBoM0lwMlFGalI4MUJSeWYtSnZDdEcwZnlmaVE?oc=5",
+          "title": "음식 주문에 GPS 권한 요구…‘QR오더’ 위치정보 수집 논란",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xbm81cTc2Vlp6QTYwZ25kbTR6SndydHRJNHIza2NUTVdJUU55eFBKWmpXRWNhU2dCbG81MVhtYkh5MEpBdUdRTTI5Zm9QNGRPeXfSAVNBVV95cUxQaGc1djNiMUNwZHJiRTYxMGUxQXBLeml6VkpieWwyZjZlNC1vM3JDYXZWR1MtVHdIMERnanJDa3N4eXRnSzN3bUZtTGRNWFdEWFBMdw?oc=5",
           "desc": "",
-          "title_en": "“Believe in Busan food” Special crackdown on food during the summer peak season",
-          "title_ja": "「釜山の食べ物を信じる」夏のピークシーズン中の食べ物に対する特別な取り締まり",
-          "title_zh": "「相信釜山美食」夏季旺季特别打压美食"
+          "title_en": "GPS Permission Required for Ordering Food… ‘QR Order’ Location Collection Controversy",
+          "title_ja": "料理の注文にはGPS許可が必要です…「QR注文」位置情報収集に関する論争",
+          "title_zh": "订餐需要GPS权限… “二维码订单”位置收集争议"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Carmine Foods扩大董事会，任命10名董事，并任命两名新的独立董事"
         },
         {
+          "title": "“이번 주 한우, 다음 주 과자”…릴레이 푸드 페스티벌 연다는 ‘이곳’",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aaUhUdWNKdktoUHRBZUJRcGxINWtJSDl5QmdPQy1HS3BQOFhMcm1vbU1sQ1psbUdDbWZjM0JBV04zMGllTGFfcy1uWEdHQVF4R1VYWjR3?oc=5",
+          "desc": "",
+          "title_en": "“This week's Korean beef, next week's sweets” … ‘here‘ to open Relay Food Festival",
+          "title_ja": "「今週の韓国牛、来週のお菓子」…リレーフードフェスティバルのオープニングはこちら",
+          "title_zh": "“本周的韩国牛肉，下周的糖果” …… “这里”开启Relay美食节"
+        },
+        {
           "title": "[생생한 주식쇼 생쇼] 관심종목: 윙입푸드(900340), 이엠넷(123570), 아이컴포넌트(059100), 기가레인(049080)",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zMVA1N2Y4WnI3QWhJbDBJLS14eDZ6V096UTlZSWt4V2RXNkZreG5xNFhoN1BoUnI5TFV5RGdMblNab1JEWGt5bjE1RzZwZDdDSVN4dEVNV05TeUR5ZmFsd19SY3g?oc=5",
           "desc": "",
           "title_en": "[Vivid stock show live show] Items of Interest: Wing Yip Food (900340), EMnet (123570), ICOM Components (059100), Giga Lane (049080)",
           "title_ja": "【VIVID STOCK SHOW LIVE SHOW】注目商品： Wing Yip Food （ 900340 ）、EMnet （ 123570 ）、ICOM Components （ 059100 ）、Giga Lane （ 049080 ）",
           "title_zh": "【VIVID STOCK SHOW LIVE SHOW】关注项目：永业食品（ 900340 ）、EMnet （ 123570 ）、ICOM Components （ 059100 ）、Giga Lane （ 049080 ）"
-        },
-        {
-          "title": "춘천지역먹거리직매장, 전국 로컬푸드 우수사례 공모전 대상",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtMU1lX3NjN29JQnl2OW44eDFCczFDdjFUV0ZJNDl4UEt1R2Z4VW5RamcwUXFlZE5iS0UtdGhLVTdpRk12X1k4dFVoQWNwWndmTEE?oc=5",
-          "desc": "",
-          "title_en": "Chuncheon area food store, national local food best practice contest target",
-          "title_ja": "春川地区の食料品店、全国地元の食のベストプラクティスコンテストのターゲット",
-          "title_zh": "春川地区食品商店，全国本地食品最佳实践竞赛目标"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "‘축구보며 바나나’…돌코리아 ‘응원 간식템’ 이벤트 전개",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UbEhVV0tDN29HdUxZNlhCTDVqbmZmS1JsQWpmWVlzRWdRc2xpRk1LVGNXM3BqRWEyN2piZmlyMnR4VlZncDdOalcza25nOS1tazJaZ2RaOA?oc=5",
-          "desc": "",
-          "title_en": "‘Bananas while watching soccer’ … Dol Korea ‘Cheerful Snack Item’ event developed",
-          "title_ja": "「サッカーを見ながらバナナ」…ドルコリア「陽気なスナックアイテム」イベント開催",
-          "title_zh": "“观看足球比赛的同时享用香蕉” …… Dol Korea开发了“快乐小吃”活动"
-        },
         {
           "title": "흑백 과자 봉지 등장…일본의 ‘포장 다이어트’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRWFAzamtuVFVhQUcySXN2VEVMaWg2UFF6N3BkdjNQcDR0dHlKbDQtZFNvaHdCVzRuN2had2R5Qmp5WFUzOEhHcXdEemhGR2JhaWZVWm5yNA?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "“Twice also kombucha” … Tizen opens‘ Kombucha Lab ’",
           "title_ja": "「TWICE also kombucha」… Tizenが「Kombucha Lab」をオープン",
           "title_zh": "“两次康普茶” …… Tizen开设了“康普茶实验室”"
+        },
+        {
+          "title": "미세플라스틱 배출에 체지방 감소까지…김치의 재발견",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4SUZUWXFSYU9DUjNCTkp3V2t3UHJIWTlxYkptWHM3YmtvbW9mc2owXzJCOGdrbGtJSzJUVnd4ZFhYTWY1M204STFKZV93NXR2ZFRnTU1Bbw?oc=5",
+          "desc": "",
+          "title_en": "From microplastic emissions to reduced body fat… Rediscover kimchi",
+          "title_ja": "マイクロプラスチックの排出から体脂肪の減少まで…キムチを再発見",
+          "title_zh": "从微塑料排放到减少体脂肪……重新发现泡菜"
         }
       ]
     }
