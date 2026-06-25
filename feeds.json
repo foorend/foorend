@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T17:11:40Z",
+  "lastUpdated": "2026-06-25T20:00:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "正在下订单，但没有食物...... Z世代“0赢得夜间零食应用程序”激增"
         },
         {
+          "title": "하이랜드푸드그룹, 수산물 시장 진출한다",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWJyeHYwOEpEZDM3MU4ycUdhcEFFT3FSbUhWMF9BSDBJUXhtYXlUemNDMkhHMHBiVGUtMV9DZU13MkJIc3VmVk01WlhrNnNEWFotYTBSRzVDcndrUU9pektJUTNCb3VvNnhJNkdIMEV6RVdrN3VIRWtrY3NtNFpRVFctd1BWZTA?oc=5",
+          "desc": "",
+          "title_en": "Highland Foods Group Enters Seafood Market",
+          "title_ja": "ハイランド・フーズ・グループがシーフードマーケットに参入",
+          "title_zh": "Highland Foods集团进军海鲜市场"
+        },
+        {
           "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 음식 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
           "desc": "",
           "title_en": "\"I look ugly when I eat this\" … Food selected by a plastic surgeon [Health! Talk]",
           "title_ja": "「これを食べると醜く見える」…整形外科医が選んだ食べ物【健康！トーク】",
           "title_zh": "“我吃这个看起来很丑” ……整形外科医生挑选的食物【健康！说话】"
-        },
-        {
-          "title": "현대그린푸드, 아주대학교의료원과 암 예방·치료 식단 전시회 진행",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZ2hvUTJnMTZWcVN1RUhQWjhpU0p1VFZETlN0NHFDd2tscUJyWUVhODg2SFBmakRMWTU2UkpDRDNmM1p5NEtLeVlVZllwbUFLRGNpV1BjTDZ2UdIBVEFVX3lxTE9VcUVQd01OMjhjRi1ramNNNmdNV1JGTXJJQ1Z6N0hVcnQzQUJma3QwVTVRUEFEenVFdXNJSDczQjhrWm5QSTBEcmJNa1p6OFgwYTZLYw?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, Ajou University Medical Center and Cancer Prevention and Treatment Diet Exhibition",
-          "title_ja": "Hyundai Green Food、Ajou University Medical Center、Cancer Prevention and Treatment Diet Exhibition",
-          "title_zh": "现代绿色食品、阿州大学医学中心、癌症防治饮食展"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "“玛格丽特穿着bokhodu” ……乐天健康食品，甜点合作新产品选择"
         },
         {
-          "title": "영화 보고 맛보고 즐기고…부산푸드필름페스타 10주년 축제 열린다",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fSmhVcVJHbXZvUTFwRE9FakFtblk0Rjd1ZWJHNGthRHVjUVdYY3hYR0xEaVoxVDlEOTdzNXFKU3VMSklBbmR2Mm9KUm5LQlI4R01n0gFTQVVfeXFMTl9KaFVxUkdtdm9RMXBET0VqQW1uWTRGN3VlYkc0a2FEdWNRV1hjeFhHTERpWjFUOUQ5N3M1cUpTdUxKSUFuZHYyb0pSbktCUjhHTWc?oc=5",
+          "title": "음식 주문에 GPS 권한 요구…‘QR오더’ 위치정보 수집 논란",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoZzV2M2IxQ3BkcmJFNjEwZTFBcEt6aXpWSmJ5bDJmNmU0LW8zckNhdlZHUy1Ud0gwRGdqckNrc3h5dGdLM3dtRm1MZE1YV0RYUEx30gFTQVVfeXFMUGhnNXYzYjFDcGRyYkU2MTBlMUFwS3ppelZKYnlsMmY2ZTQtbzNyQ2F2VkdTLVR3SDBEZ2pyQ2tzeHl0Z0szd21GbUxkTVhXRFhQTHc?oc=5",
           "desc": "",
-          "title_en": "Watch, taste, enjoy… Busan Food Film Festa 10th Anniversary Festival",
-          "title_ja": "観て、味わって、楽しんで…釜山フードフィルムフェスタ10周年記念フェスティバル",
-          "title_zh": "观看、品尝、享受……釜山美食电影节十周年庆典"
+          "title_en": "GPS Permission Required for Ordering Food… ‘QR Order’ Location Collection Controversy",
+          "title_ja": "料理の注文にはGPS許可が必要です…「QR注文」位置情報収集に関する論争",
+          "title_zh": "订餐需要GPS权限… “二维码订单”位置收集争议"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "신세계푸드, 고물가시대 가성비 샌드위치 … 원재료 맛 그대로",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53WlVKR3ZaMlZZTkV6WmZuNWRERTZQWWx4eXhISjJ5TUJ1WHdPbE5ScDJMUG1iMnpVU2V1aTN4VmFvZ0ZEbzdzTl9XWUxIaGpIclJYTU1zRDVSN2Jhcjc0dmx6U2U?oc=5",
+          "title": "현대그린푸드, 냉동빵 인기에 온라인 베이커리 매출 ‘훈풍’",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kNWhiS2lubnNYSnJieXl4LWdtcjNtVFRpdnVsRklWZ2l4M05nTnM3bEFUNkZnTWQ4eE1TaVhpM0l6OE42OEZ2WEthZ3Z6R3Ztd1hYSWhYekE2Y0FaTjRIRUcxdkE?oc=5",
           "desc": "",
-          "title_en": "Shinsegae Food, Junk Price Era Cost-effective Sandwich… As Raw Flavor Is",
-          "title_ja": "新世界の食べ物、ジャンク価格時代の費用対効果の高いサンドイッチ…生の味として",
-          "title_zh": "Shinsegae食品，垃圾价格时代性价比高的三明治……因为生味是"
+          "title_en": "Hyundai Green Food, online bakery sales‘ Hoonpung ‘due to the popularity of frozen bread",
+          "title_ja": "現代グリーンフード、冷凍パンの人気によるオンラインベーカリーセール「Hoonpung」",
+          "title_zh": "现代绿色食品，由于冷冻面包的普及，在线面包店销售“Hoonpung”"
         },
         {
-          "title": "신세계푸드 노브랜드버거 'NBB 어메이징 더블 치즈' 정식 출시",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fYTEzbkxjRzhRclJocHVUOXFTOGR3bG5Xd0U2VDZaYWFhcGVWWVNxLU1rLVV2SmZCX3JKY003SkpKQ1ZZZDJVWEM5cEx2Tnh3a3d0ZGNSYnlFc3ZsbzQzN3UwR18?oc=5",
+          "title": "\"한식 로봇, 美 공항까지 점령 … K푸드 전성기는 이제 시작\"",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2NzZzVFdCMDJFU2RWOWJ3OUZfcmxyZDZDdXFLbE9NZ3BxSWxaVVJ3NEdiaEwzZDY4MHF3Zk1yRzR6eEtwczAtcHhXMVZDeVVuVDd0Z1V4TG94Z0F2Wk50cjNkWS0?oc=5",
           "desc": "",
-          "title_en": "Shinsegae Food No Brand Burger 'NBB Amazing Double Cheese' Officially Released",
-          "title_ja": "新世界フードノーブランドハンバーガー「NBBアメイジングダブルチーズ」正式発売",
-          "title_zh": "Shinsegae Food无品牌汉堡“NBB Amazing Double Cheese”正式发布"
+          "title_en": "\"Korean food robot occupies US airport... The peak of K-Food has begun\"",
+          "title_ja": "「韓国のフードロボットが米国空港を占拠… K - Foodのピークが始まった」",
+          "title_zh": "“韩国美食机器人占领美国机场…… K-Food高峰已经开始”"
         },
         {
-          "title": "[골드의 종목관리] 에이치엘비(028300), 신세계푸드(031440), 대유에이피(090120), GKL(114090), OCI(010060)",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GSjRYbm9FaFJvUEowMDY5bmtkclhLanppT2ZjSlRjblpwaldIam94Q19fc2F0NFZNUmNPWDFWM2Jjb2JBZVNPVzlYUTlUbzRFTlJTS3FDZklOcmg0QjlnUHhKdmI?oc=5",
+          "title": "하나증권 “롯데웰푸드, 단기 실적 모멘텀 부재…해외 성장은 지속”",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pYkZlZWFYZldTbHJnNXBlVG5LYXg5N0NkbWVYb1RCUlUwd1Q1Y2UzZWpkRERJSzgxV2dNSm1PcWc0UGVNTlA0OE10Z05zRnFVR1phY19RZzktR1NYRVdwQzY1NF8?oc=5",
           "desc": "",
-          "title_en": "[Gold's discipline management] HLB (028300), Shinsegae Food (031440), DaeyuAP (090120), GKL (114090), OCI (010060)",
-          "title_ja": "【Gold's discipline management】HLB (028300 )、Shinsegae Food (031440 )、DaeyuAP (090120 )、GKL (114090 )、OCI (010060)",
-          "title_zh": "【黄金纪律管理】HLB （ 028300 ）、Shinsegae Food （ 031440 ）、DaeyuAP （ 090120 ）、GKL （ 114090 ）、OCI （ 010060 ）"
+          "title_en": "Hana Securities “Lotte Well Food lacks momentum for short-term performance… Overseas growth continues”",
+          "title_ja": "ハナ証券「ロッテウェルフードは短期的な業績の勢いを欠いています…海外の成長は続いています」",
+          "title_zh": "韩亚证券“乐天健康食品缺乏短期业绩的动力……海外增长仍在继续”"
         }
       ]
     },
