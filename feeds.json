@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T03:38:20Z",
+  "lastUpdated": "2026-06-25T09:22:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "주문은 되는데 음식은 안 온다… Z세대 '0원 야식 앱' 확산",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4M1JNQW1peHk5eWloSWFBXzdCbHpFQ3UzWVF3aEdaT0ZQOFRhMVYwRVlKOEZTbGFkSlgxZlZ6VFpFUmZVWVFrREZrZnlXaEU1YXQ4MWwtTUVqN2tkWTRUaEZzYWZJekZjb1dnaA?oc=5",
+          "desc": "",
+          "title_en": "Orders are being placed, but no food is coming... Gen Z '0 won night snack app' proliferation",
+          "title_ja": "注文は行われていますが、食べ物は届きません... Z世代「0ウォンナイトスナックアプリ」の拡散",
+          "title_zh": "正在下订单，但没有食物...... Z世代“0赢得夜间零食应用程序”激增"
+        },
+        {
           "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 음식 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food, Ajou University Medical Center and Cancer Prevention and Treatment Diet Exhibition",
           "title_ja": "Hyundai Green Food、Ajou University Medical Center、Cancer Prevention and Treatment Diet Exhibition",
           "title_zh": "现代绿色食品、阿州大学医学中心、癌症防治饮食展"
-        },
-        {
-          "title": "26일부터 부산푸드필름페스타",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90OTdfMWE0Qk83UTFramRsanl3VmNldFNaRHR5LTllZ3dxVkFXeEVDcjRPenJmT0RJc0RoS2JoUi1NTmNTTjFuLVlEQmpzakVpUlVWajJRZV93dw?oc=5",
-          "desc": "",
-          "title_en": "Busan Food Film Festa from the 26th",
-          "title_ja": "26日から釜山のフードフィルムフェスタ",
-          "title_zh": "26日釜山美食电影节"
         }
       ]
     },
@@ -175,7 +175,7 @@
         },
         {
           "title": "영화 보고 맛보고 즐기고…부산푸드필름페스타 10주년 축제 열린다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0YWcycDdaSkJ0UHI5bTQ5aEVkRDJwSkg4RFU5VmJLOXBQX1ZubkVjYjliZkN5c29aVkxtYUx5amdfNEdPek9HTXpPalEtYlFYQlHSAVNBVV95cUxOX0poVXFSR212b1ExcERPRWpBbW5ZNEY3dWViRzRrYUR1Y1FXWGN4WEdMRGlaMVQ5RDk3czVxSlN1TEpJQW5kdjJvSlJuS0JSOEdNZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fSmhVcVJHbXZvUTFwRE9FakFtblk0Rjd1ZWJHNGthRHVjUVdYY3hYR0xEaVoxVDlEOTdzNXFKU3VMSklBbmR2Mm9KUm5LQlI4R01n0gFTQVVfeXFMTl9KaFVxUkdtdm9RMXBET0VqQW1uWTRGN3VlYkc0a2FEdWNRV1hjeFhHTERpWjFUOUQ5N3M1cUpTdUxKSUFuZHYyb0pSbktCUjhHTWc?oc=5",
           "desc": "",
           "title_en": "Watch, taste, enjoy… Busan Food Film Festa 10th Anniversary Festival",
           "title_ja": "観て、味わって、楽しんで…釜山フードフィルムフェスタ10周年記念フェスティバル",
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "“이번 주 한우, 다음 주 과자”…릴레이 푸드 페스티벌 연다는 ‘이곳’",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aaUhUdWNKdktoUHRBZUJRcGxINWtJSDl5QmdPQy1HS3BQOFhMcm1vbU1sQ1psbUdDbWZjM0JBV04zMGllTGFfcy1uWEdHQVF4R1VYWjR3?oc=5",
+          "title": "신세계푸드, 고물가시대 가성비 샌드위치 … 원재료 맛 그대로",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53WlVKR3ZaMlZZTkV6WmZuNWRERTZQWWx4eXhISjJ5TUJ1WHdPbE5ScDJMUG1iMnpVU2V1aTN4VmFvZ0ZEbzdzTl9XWUxIaGpIclJYTU1zRDVSN2Jhcjc0dmx6U2U?oc=5",
           "desc": "",
-          "title_en": "“This week's Korean beef, next week's sweets” … ‘here‘ to open Relay Food Festival",
-          "title_ja": "「今週の韓国牛、来週のお菓子」…リレーフードフェスティバルのオープニングはこちら",
-          "title_zh": "“本周的韩国牛肉，下周的糖果” …… “这里”开启Relay美食节"
+          "title_en": "Shinsegae Food, Junk Price Era Cost-effective Sandwich… As Raw Flavor Is",
+          "title_ja": "新世界の食べ物、ジャンク価格時代の費用対効果の高いサンドイッチ…生の味として",
+          "title_zh": "Shinsegae食品，垃圾价格时代性价比高的三明治……因为生味是"
         },
         {
-          "title": "칼마인 푸드, 이사회 10명 확대·독립이사 2명 신규 선임",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPZURPbjd0NGthRG40SExsaGtZZENQLW1RMGNCUVRJeklfeERJeHExeUdBbFJaOEpJV3ljUGhuQ2d4eGc1eUpLcUdlcmdpT2xjNVE?oc=5",
+          "title": "노브랜드 버거 제주 상륙 … 신세계푸드, 제주 1호점 오픈",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ERmlYQjhMbWJOS2lyem1ZX3BnUF9vU3FpX2JmV1NNWExQTm5sZG9aR2Jlc3h1VkFaaUt3Zm1TTmVsM3E2ZE53YWpDY2xvQmpKVmsybmd4X1BOLUU4endYb1FjWTA?oc=5",
           "desc": "",
-          "title_en": "Carmine Foods Expands Board of Directors with 10 Directors and Appoints Two New Independent Directors",
-          "title_ja": "Carmine Foodsが取締役会を10人の取締役で拡大し、2人の新しい独立取締役を任命",
-          "title_zh": "Carmine Foods扩大董事会，任命10名董事，并任命两名新的独立董事"
+          "title_en": "Novel brand burger landed in Jeju… Shinsegae Food opens its first store in Jeju",
+          "title_ja": "新ブランドのハンバーガーが済州に登場…新世界食品が済州に初出店",
+          "title_zh": "新品牌汉堡登陆济州岛……新世界食品在济州岛开设第一家门店"
         },
         {
-          "title": "[생생한 주식쇼 생쇼] 관심종목: 윙입푸드(900340), 이엠넷(123570), 아이컴포넌트(059100), 기가레인(049080)",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zMVA1N2Y4WnI3QWhJbDBJLS14eDZ6V096UTlZSWt4V2RXNkZreG5xNFhoN1BoUnI5TFV5RGdMblNab1JEWGt5bjE1RzZwZDdDSVN4dEVNV05TeUR5ZmFsd19SY3g?oc=5",
+          "title": "[골드의 종목관리] 해마로푸드서비스(220630), 동국S&C(100130), 녹십자엠에스(142280), 알파홀딩스(117670), 대성미생물(036480), 삼성전기(009150)",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54NzRUQm4ySlhncmx5b0RpYlFxUDRjUEtmZ0V2WDlWeFVIanhLRmRiaDhob2h4WkUzRmt1RklpTFZhU0hnVC1EbS01R1c2RWhtYmhvaUVDdDNpWEpHTXpVZnlFcjA?oc=5",
           "desc": "",
-          "title_en": "[Vivid stock show live show] Items of Interest: Wing Yip Food (900340), EMnet (123570), ICOM Components (059100), Giga Lane (049080)",
-          "title_ja": "【VIVID STOCK SHOW LIVE SHOW】注目商品： Wing Yip Food （ 900340 ）、EMnet （ 123570 ）、ICOM Components （ 059100 ）、Giga Lane （ 049080 ）",
-          "title_zh": "【VIVID STOCK SHOW LIVE SHOW】关注项目：永业食品（ 900340 ）、EMnet （ 123570 ）、ICOM Components （ 059100 ）、Giga Lane （ 049080 ）"
+          "title_en": "[Gold's Stock Management] Haemaro Food Service (220630), Dongguk S&C (100130), Green Cross MS (142280), Alpha Holdings (117670), Daesung Microorganism (036480), Samsung Electro-Mechanics (009150)",
+          "title_ja": "【Gold's Stock Management】Haemaro Food Service (220630 )、Dongguk S&C (100130 )、Green Cross MS (142280 )、Alpha Holdings (117670 )、Daesung Microorganism (036480)、Samsung Electro - Mechanics (009150)",
+          "title_zh": "【Gold's Stock Management】Haemaro Food Service (220630)、Dongguk S&C (100130)、Green Cross MS (142280)、Alpha Holdings (117670)、Daesung Microorganism (036480), Samsung Electro-Mechanics (009150)"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“观看足球比赛的同时享用香蕉” …… Dol Korea开发了“快乐小吃”活动"
         },
         {
-          "title": "흑백 과자 봉지 등장…일본의 ‘포장 다이어트’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRWFAzamtuVFVhQUcySXN2VEVMaWg2UFF6N3BkdjNQcDR0dHlKbDQtZFNvaHdCVzRuN2had2R5Qmp5WFUzOEhHcXdEemhGR2JhaWZVWm5yNA?oc=5",
+          "title": "“트와이스도 콤부차”…티젠, ‘콤부차 랩’ 열어",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XdUo1WjhFQ1E5WnVaQ0RSNVlOUjVRZ3lpZUdaTHktLXdTN3ljYVNRaGFvRnU5eE9Zal9HX0R1T0lfb3BTaWhQa3hIVmNNd0xnUktrdG1SMA?oc=5",
           "desc": "",
-          "title_en": "Black and White Sweets Bags Appear… Japan's ‘Packaged Diet’",
-          "title_ja": "黒と白のスイーツバッグが登場…日本の「パッケージダイエット」",
-          "title_zh": "黑白糖果袋出现……日本的“包装饮食”"
+          "title_en": "“Twice also kombucha” … Tizen opens‘ Kombucha Lab ’",
+          "title_ja": "「TWICE also kombucha」… Tizenが「Kombucha Lab」をオープン",
+          "title_zh": "“两次康普茶” …… Tizen开设了“康普茶实验室”"
         }
       ]
     }
