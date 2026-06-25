@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T09:22:23Z",
+  "lastUpdated": "2026-06-25T14:34:28Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "What ‘The Bear’ Did Right, According to Industry Experts",
+          "link": "https://www.eater.com/food-culture/970985/chefs-reflect-on-the-bear-final-fifth-season",
+          "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
+          "title_ko": "업계 전문가에 따르면 ’곰’ 이 옳은 일을 한 것",
+          "title_ja": "業界の専門家によると、「熊」は何が正しかったのか",
+          "title_zh": "根据行业专家的说法， “熊”做对了什么"
+        },
+        {
+          "title": "Join Eater for an Epic Bang Bang",
+          "link": "https://www.eater.com/press-room/970993/join-eater-for-an-epic-bang-bang",
+          "desc": "We know you love restaurants — now join us for a Bang Bang. The Bang Bang, aka the double dinner, is when a great night out starts at one restaurant a",
+          "title_ko": "Eater에 가입하여 특급 Bang Bang을 즐겨보세요",
+          "title_ja": "Eaterに参加して壮大なBang Bangを手に入れよう",
+          "title_zh": "与食客一起体验史诗般的砰砰声"
+        },
+        {
           "title": "Hot Takes from One of the Largest Bar Trade Shows",
           "link": "https://www.eater.com/pre-shift/970913/hot-takes-from-one-of-the-largest-bar-trade-shows",
           "desc": "Earlier this month, Pre Shift readers joined us for a special event at Bar Convent Brooklyn in partnership with Square. The Pre Shift Lounge offered a",
           "title_ko": "가장 큰 바 전시회 중 하나에서 뜨거운 테이크",
           "title_ja": "最大級のバートレードショーで熱いおもてなし",
           "title_zh": "最大的酒吧贸易展之一的热门景点"
-        },
-        {
-          "title": "We’re in a Golden Era of Fancy Jell-O Shots",
-          "link": "https://www.eater.com/dining-out/970608/jello-shot-trend-solid-wiggles",
-          "desc": "There was a time when the words “do you want a Jell-O shot?” were synonymous with fratty bonding rituals surrounding Flubber green masses in paper Dix",
-          "title_ko": "우리는 화려한 젤오 샷의 황금 시대에 있습니다",
-          "title_ja": "私たちは豪華なジェロショットの黄金時代にいます",
-          "title_zh": "我们正处于花哨果冻拍摄的黄金时代"
-        },
-        {
-          "title": "Switching to Counter Service Made My Restaurant More Sustainable",
-          "link": "https://www.eater.com/pre-shift/969944/rye-bunny-dc-restaurant-pre-shift",
-          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "카운터 서비스로 전환하여 레스토랑의 지속 가능성을 높였습니다.",
-          "title_ja": "カウンターサービスへの切り替えにより、レストランはより持続可能になりました",
-          "title_zh": "改用柜台服务，让我的餐厅更环保"
         }
       ]
     }
@@ -196,20 +196,20 @@
           "title_zh": "Shinsegae食品，垃圾价格时代性价比高的三明治……因为生味是"
         },
         {
-          "title": "노브랜드 버거 제주 상륙 … 신세계푸드, 제주 1호점 오픈",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ERmlYQjhMbWJOS2lyem1ZX3BnUF9vU3FpX2JmV1NNWExQTm5sZG9aR2Jlc3h1VkFaaUt3Zm1TTmVsM3E2ZE53YWpDY2xvQmpKVmsybmd4X1BOLUU4endYb1FjWTA?oc=5",
+          "title": "신세계푸드 노브랜드버거 'NBB 어메이징 더블 치즈' 정식 출시",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fYTEzbkxjRzhRclJocHVUOXFTOGR3bG5Xd0U2VDZaYWFhcGVWWVNxLU1rLVV2SmZCX3JKY003SkpKQ1ZZZDJVWEM5cEx2Tnh3a3d0ZGNSYnlFc3ZsbzQzN3UwR18?oc=5",
           "desc": "",
-          "title_en": "Novel brand burger landed in Jeju… Shinsegae Food opens its first store in Jeju",
-          "title_ja": "新ブランドのハンバーガーが済州に登場…新世界食品が済州に初出店",
-          "title_zh": "新品牌汉堡登陆济州岛……新世界食品在济州岛开设第一家门店"
+          "title_en": "Shinsegae Food No Brand Burger 'NBB Amazing Double Cheese' Officially Released",
+          "title_ja": "新世界フードノーブランドハンバーガー「NBBアメイジングダブルチーズ」正式発売",
+          "title_zh": "Shinsegae Food无品牌汉堡“NBB Amazing Double Cheese”正式发布"
         },
         {
-          "title": "[골드의 종목관리] 해마로푸드서비스(220630), 동국S&C(100130), 녹십자엠에스(142280), 알파홀딩스(117670), 대성미생물(036480), 삼성전기(009150)",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54NzRUQm4ySlhncmx5b0RpYlFxUDRjUEtmZ0V2WDlWeFVIanhLRmRiaDhob2h4WkUzRmt1RklpTFZhU0hnVC1EbS01R1c2RWhtYmhvaUVDdDNpWEpHTXpVZnlFcjA?oc=5",
+          "title": "[골드의 종목관리] 에이치엘비(028300), 신세계푸드(031440), 대유에이피(090120), GKL(114090), OCI(010060)",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GSjRYbm9FaFJvUEowMDY5bmtkclhLanppT2ZjSlRjblpwaldIam94Q19fc2F0NFZNUmNPWDFWM2Jjb2JBZVNPVzlYUTlUbzRFTlJTS3FDZklOcmg0QjlnUHhKdmI?oc=5",
           "desc": "",
-          "title_en": "[Gold's Stock Management] Haemaro Food Service (220630), Dongguk S&C (100130), Green Cross MS (142280), Alpha Holdings (117670), Daesung Microorganism (036480), Samsung Electro-Mechanics (009150)",
-          "title_ja": "【Gold's Stock Management】Haemaro Food Service (220630 )、Dongguk S&C (100130 )、Green Cross MS (142280 )、Alpha Holdings (117670 )、Daesung Microorganism (036480)、Samsung Electro - Mechanics (009150)",
-          "title_zh": "【Gold's Stock Management】Haemaro Food Service (220630)、Dongguk S&C (100130)、Green Cross MS (142280)、Alpha Holdings (117670)、Daesung Microorganism (036480), Samsung Electro-Mechanics (009150)"
+          "title_en": "[Gold's discipline management] HLB (028300), Shinsegae Food (031440), DaeyuAP (090120), GKL (114090), OCI (010060)",
+          "title_ja": "【Gold's discipline management】HLB (028300 )、Shinsegae Food (031440 )、DaeyuAP (090120 )、GKL (114090 )、OCI (010060)",
+          "title_zh": "【黄金纪律管理】HLB （ 028300 ）、Shinsegae Food （ 031440 ）、DaeyuAP （ 090120 ）、GKL （ 114090 ）、OCI （ 010060 ）"
         }
       ]
     },
