@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T09:28:02Z",
+  "lastUpdated": "2026-06-26T14:25:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "26일부터 부산푸드필름페스타",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTQ3RXV6V3EzWVpQQ09CbmJ1OFNrT1ZoYlo3eUh1S0JWN1NCVUo1WFl4cUotbmlmVGc3UldFWXpQcy1XaEJPR2dpYlp5Z0JMeW9ncGV1YzNhakpfQmowUV9heVVGbGFINWFIWHZ1Y1hySWswZm02ejVtczdlbGtkNkMwcllnZzJfTWR1b3hBeEdtTUR3eUJ4bV9oam1LTGpIVUdHZXJPVXgxV09mb05v?oc=5",
+          "desc": "",
+          "title_en": "Busan Food Film Festa from the 26th",
+          "title_ja": "26日から釜山のフードフィルムフェスタ",
+          "title_zh": "26日釜山美食电影节"
+        },
+        {
           "title": "동국대 '사찰음식 명장' 선재스님 석좌교수 임용",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ycjJWeW04U2V1ektlUDFhajhuWnNGNlpiV1NCOWxoZk03YlBxMjRRQjFlbkhZY19Xb2Q2RFowXzFpUmYtc3JieHBxRWhBcUNLT3k4bEpoYk5Ld9IBVEFVX3lxTE4tZnpWbnd2QVpJLU9SVGlTd0hDUFV6Z2lqRy0yR3VZMmNTUnBIcld0VHI5SnFjUmI1dXo0OUk4WWwtRFhUaUl6NXNDRTdmTllqckVTXw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Orders are being placed, but no food is coming... Gen Z '0 won night snack app' proliferation",
           "title_ja": "注文は行われていますが、食べ物は届きません... Z世代「0ウォンナイトスナックアプリ」の拡散",
           "title_zh": "正在下订单，但没有食物...... Z世代“0赢得夜间零食应用程序”激增"
-        },
-        {
-          "title": "하이랜드푸드그룹, 수산물 시장 진출한다",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWJyeHYwOEpEZDM3MU4ycUdhcEFFT3FSbUhWMF9BSDBJUXhtYXlUemNDMkhHMHBiVGUtMV9DZU13MkJIc3VmVk01WlhrNnNEWFotYTBSRzVDcndrUU9pektJUTNCb3VvNnhJNkdIMEV6RVdrN3VIRWtrY3NtNFpRVFctd1BWZTA?oc=5",
-          "desc": "",
-          "title_en": "Highland Foods Group Enters Seafood Market",
-          "title_ja": "ハイランド・フーズ・グループがシーフードマーケットに参入",
-          "title_zh": "Highland Foods集团进军海鲜市场"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
         },
         {
+          "title": "외식 통합 솔루션社 글로벌푸드테크, 핀테크 기업 위지온 인수 [시그널]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iTnQ0MVZlcFd2NFZzVEFCQlRrZGlTbzQ0R2hPWDRROWFiYzBFSDZqNWdicHdVWmNadWpYcjJxcUo2ZUVIZU5aelB2NDFyUi0zdkHSAVNBVV95cUxONXE3N0dmZDV6Q1FwUEliaV92WUFSYThmUXR4dUNhUXV0S2JHVWlVRlhKZEdxclBGYzVSemk1b3dJTlJCdjRfbUhKYUlkbXNkUkNUUQ?oc=5",
+          "desc": "",
+          "title_en": "Global Food Tech Acquires Wizion, a FinTech Company, by Dining Integration Solutions [Signal]",
+          "title_ja": "Global Food Tech、Dining Integration Solutionsによりフィンテック企業のWizionを買収[Signal]",
+          "title_zh": "Global Food Tech通过餐饮集成解决方案收购金融科技公司Wizion [Signal]"
+        },
+        {
           "title": "“마가렛트에 복호두 입혔다”…롯데웰푸드, 디저트 협업 신제품 선봬",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUDBHSWk0dWZJaXNOQXRrR2RSamRyS1FfMVRrR2lkNXE0NzNLbXQyOW1ubkdFa1ZkXzdKWV8yZWVDQmc5dFZOMkRQZGVKY3JfN1HSAVNBVV95cUxOUzNaLV9ianVtZ0p1SlBaMlF1RU83b3ZsYkp6YTRPUkNvTmgzVHZyZFRFckFualdlM1FPaFh4bmtHZFJlX0lYY3FCdU11ejhtMkdRSQ?oc=5",
           "desc": "",
           "title_en": "“Margaret was dressed with bokhodu” … Lotte Well Food, Dessert Collaboration New Product Selection",
           "title_ja": "「Margaret was dressed with bokhodu」…ロッテウェルフード、デザートコラボ新商品セレクション",
           "title_zh": "“玛格丽特穿着bokhodu” ……乐天健康食品，甜点合作新产品选择"
-        },
-        {
-          "title": "음식 주문에 GPS 권한 요구…‘QR오더’ 위치정보 수집 논란",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xbm81cTc2Vlp6QTYwZ25kbTR6SndydHRJNHIza2NUTVdJUU55eFBKWmpXRWNhU2dCbG81MVhtYkh5MEpBdUdRTTI5Zm9QNGRPeXfSAVNBVV95cUxQaGc1djNiMUNwZHJiRTYxMGUxQXBLeml6VkpieWwyZjZlNC1vM3JDYXZWR1MtVHdIMERnanJDa3N4eXRnSzN3bUZtTGRNWFdEWFBMdw?oc=5",
-          "desc": "",
-          "title_en": "GPS Permission Required for Ordering Food… ‘QR Order’ Location Collection Controversy",
-          "title_ja": "料理の注文にはGPS許可が必要です…「QR注文」位置情報収集に関する論争",
-          "title_zh": "订餐需要GPS权限… “二维码订单”位置收集争议"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "깨끗한나라 포포몽, 펫푸드 시장 진출…반려견 간식 출시",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1cE9DcU1pREw4M0t0X3VrTEstNERuVVlDZnpTNGVlaGNlYVJXazdnNHRjckdqUDhZRE01TWdiWFA2Q3NVSEU2VHZ0Ymc2LWNvV2c?oc=5",
+          "desc": "",
+          "title_en": "Clean Country Popomont Enters the Pet Food Market… Launches Dog Treats",
+          "title_ja": "クリーンカントリーポポモントがペットフード市場に参入…犬用おやつを発売",
+          "title_zh": "Clean Country Popomont进入宠物食品市场…推出狗粮"
+        },
         {
           "title": "거제에 삼겹살 테마 미식·관광거리 조성…'K-푸드로드' 선정",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLeWk0aWk3QXhqUTRUQ3VFU3A4eUZXM1ZiYlFnb015QV9KNjZYbTJjcll1TlBvd3NtNWRNMXNqWWRoMFg2dkJNQTRON1REckpuWWc?oc=5",
@@ -196,20 +204,12 @@
           "title_zh": "在Geoje以猪肚为主题打造美食和旅游景点...被选为「K-Food Road」"
         },
         {
-          "title": "“챗GPT 안에서 과자 산다”…롯데웰푸드, AI 커머스 실험 본격화",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMUEyR0RkS1BaWW1jWGRiMmJIZkgwSy1sSDB6Ul9KbnlHRHZjSnYxTHB2Z1ZMczFHclJmblJ4V25NR1J0MXJQd0pTRzFCYjFnY3p1VFlQbTE5bUh3TnN0cUxYX3I?oc=5",
+          "title": "“만원 중반에 랍스터 샌드위치 세트”…팀홀튼, 프리미엄 푸드 승부수 [현장]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wSTlOcHFvUlduR3lITm82bW1UN0c1RHZBQi04TDF1YTBnNmdBTnNCNGNlY1JEVkNWeWlmLTZiUG8zT0doSkJjUXlveG5YNEJxb1RXRQ?oc=5",
           "desc": "",
-          "title_en": "“Buy cookies in ChatGPT” … Lotte Well Food intensifies AI commerce experiment",
-          "title_ja": "「ChatGPTでクッキーを購入」…ロッテウェルフードがAIコマース実験を強化",
-          "title_zh": "“在ChatGPT中购买cookie” ……乐天健康食品加强了人工智能商务实验"
-        },
-        {
-          "title": "현대그린푸드, 냉동빵 인기에 온라인 베이커리 매출 ‘훈풍’",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kNWhiS2lubnNYSnJieXl4LWdtcjNtVFRpdnVsRklWZ2l4M05nTnM3bEFUNkZnTWQ4eE1TaVhpM0l6OE42OEZ2WEthZ3Z6R3Ztd1hYSWhYekE2Y0FaTjRIRUcxdkE?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, online bakery sales‘ Hoonpung ‘due to the popularity of frozen bread",
-          "title_ja": "現代グリーンフード、冷凍パンの人気によるオンラインベーカリーセール「Hoonpung」",
-          "title_zh": "现代绿色食品，由于冷冻面包的普及，在线面包店销售“Hoonpung”"
+          "title_en": "“Lobster sandwich set in the middle of 10,000 won” … Tim Houlton, premium food champion [on-site]",
+          "title_ja": "「10,000ウォンのロブスターサンドイッチセット」… Tim Houlton、プレミアムフードチャンピオン[オンサイト]",
+          "title_zh": "“1万韩元龙虾三明治套餐” …… Tim Houlton ，优质美食冠军[现场]"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "“SNS 보고 샀어요”…브로콜리니를 아시나요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13SHFJbEtvemhKOUpTNTc2TUZBc2pUQm53emppVlQ2SFdhSExCTi1pajFCVU1yNzQtMUk2U0h0QmY2T2ZmY1JKWWJSbWxwYnNRblA4S2lmNA?oc=5",
+          "desc": "",
+          "title_en": "“I bought it through SNS” … Do you know Broccolini?",
+          "title_ja": "「SNSで購入しました」…ブロッコリーニをご存知ですか？",
+          "title_zh": "“我通过SNS买的” ……你知道西兰花吗？"
+        },
+        {
+          "title": "지방 태우는 세포가 저장 세포로…패스트푸드의 위험성",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80Qnh4YmNuT3ROOXZFbTR3eW5YUzhTWEhYeVRpYU5pb1FVZFF6MXl5NTd6RWQxUDRWUGFoRXc2aWZwM0FJdVFzVE1HYllEenR2N1VpMUN6MA?oc=5",
+          "desc": "",
+          "title_en": "Fat-burning cells as storage cells… The dangers of fast food",
+          "title_ja": "貯蔵細胞としての脂肪燃焼細胞…ファーストフードの危険性",
+          "title_zh": "燃烧脂肪的细胞作为储存细胞……快餐的危险"
+        },
+        {
           "title": "필코노미 시대, 한우도 기분 따라 골라 쓴다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16TFlkWjJZTl9qSUhWemFZUTV0aFlZUkVUa2J5cVNodXR0ZXdyUk1fVHd3dU1YU3gzLW8wMXBKcFhnQlJsS2dzN00wWFRDbmV5cVRaMXcwbw?oc=5",
           "desc": "",
           "title_en": "In the Philkonomy Era, Hanwoo chooses to write according to his mood",
           "title_ja": "フィルコノミー時代、ハンウーは自分の気分に合わせて書くことを選ぶ",
           "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
-        },
-        {
-          "title": "“브라우니에 고추장 넣어라” 못 말리는 해외 한식 활용법",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XZDRnNnRXZmVhWmo3UmpTTXBqQUhCdXp1b3Y2YkhYc3hqMEtVTWRXWFo1ZWllYTNxeTBDTUFqYU1qOU0taUpDRk0yZHRhdEZiZmtBSUJUbw?oc=5",
-          "desc": "",
-          "title_en": "How to Use Overseas Korean Food That Can't Be Dried “Put Gochujang in Brownie”",
-          "title_ja": "乾燥できない海外韓国料理の使い方「ブラウニーにゴチュジャンを入れる」",
-          "title_zh": "如何使用无法干燥的海外韩国食品「把韩式辣椒酱放入布朗尼」"
-        },
-        {
-          "title": "흑백 과자 봉지 등장…일본의 ‘포장 다이어트’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRWFAzamtuVFVhQUcySXN2VEVMaWg2UFF6N3BkdjNQcDR0dHlKbDQtZFNvaHdCVzRuN2had2R5Qmp5WFUzOEhHcXdEemhGR2JhaWZVWm5yNA?oc=5",
-          "desc": "",
-          "title_en": "Black and White Sweets Bags Appear… Japan's ‘Packaged Diet’",
-          "title_ja": "黒と白のスイーツバッグが登場…日本の「パッケージダイエット」",
-          "title_zh": "黑白糖果袋出现……日本的“包装饮食”"
         }
       ]
     }
