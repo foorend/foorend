@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T22:21:08Z",
+  "lastUpdated": "2026-06-26T03:46:42Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "认识麦当劳苹果派制作公司"
         },
         {
-          "title": "Chain shutdowns become more common after the pandemic",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlI5eXRTdm5kakxEeHlmLVVReFMyYzJDTnBHc3NRVVZaZG5kU1lUelVLb0JJZGVMdW41M1NxMndiaWpjUVppNWZ2eFJmSWdnNmFtVzhCM09qeDdPN0U2RE9ORlNBSF96bEpaMUJvenM5MEt0Y290ZnJrSk45UVAxN0dOMWpVTVVJalFlNHlIb0tJRXpJYVhuUEFZLXMxZGhaSHc?oc=5",
-          "desc": "",
-          "title_ko": "팬데믹 이후 체인 셧다운이 더 흔해짐",
-          "title_ja": "パンデミック後、チェーンのシャットダウンがより一般的になります",
-          "title_zh": "疫情后，连锁关机变得更加普遍"
-        },
-        {
           "title": "Starbucks plans to hire thousands of new ‘coffeehouse coach’ roles",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2JuTzcyeHMwbjJNQzVMNWVVUlo1aUVuWm5tZWw3UEV4cG5ISUwwUzI5b0pRRDlGZzRaQnp2QWhGNTBQUlFkVzEzaGpYMXlBd3hYQjBSME5VVGd2enUzZXA0MXViMWstc3gtQktaaVZwVWZNUzRTS3AtWnkwVDVFRUkxRUxEN2lnclNYamd6UkRndkVNZ1NjQnN0WVMwQjVqV3lKejZqNGc?oc=5",
           "desc": "",
           "title_ko": "스타벅스는 수천 명의 새로운 ‘커피 전문점 코치‘ 역할을 고용할 계획입니다.",
           "title_ja": "スターバックスは、何千もの新しい「コーヒーハウスコーチ」の役割を雇う予定です",
           "title_zh": "星巴克计划雇佣数千名新的“咖啡馆教练”"
+        },
+        {
+          "title": "Chain shutdowns become more common after the pandemic",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlI5eXRTdm5kakxEeHlmLVVReFMyYzJDTnBHc3NRVVZaZG5kU1lUelVLb0JJZGVMdW41M1NxMndiaWpjUVppNWZ2eFJmSWdnNmFtVzhCM09qeDdPN0U2RE9ORlNBSF96bEpaMUJvenM5MEt0Y290ZnJrSk45UVAxN0dOMWpVTVVJalFlNHlIb0tJRXpJYVhuUEFZLXMxZGhaSHc?oc=5",
+          "desc": "",
+          "title_ko": "팬데믹 이후 체인 셧다운이 더 흔해짐",
+          "title_ja": "パンデミック後、チェーンのシャットダウンがより一般的になります",
+          "title_zh": "疫情后，连锁关机变得更加普遍"
         }
       ]
     },
@@ -175,7 +175,7 @@
         },
         {
           "title": "음식 주문에 GPS 권한 요구…‘QR오더’ 위치정보 수집 논란",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoZzV2M2IxQ3BkcmJFNjEwZTFBcEt6aXpWSmJ5bDJmNmU0LW8zckNhdlZHUy1Ud0gwRGdqckNrc3h5dGdLM3dtRm1MZE1YV0RYUEx30gFTQVVfeXFMUGhnNXYzYjFDcGRyYkU2MTBlMUFwS3ppelZKYnlsMmY2ZTQtbzNyQ2F2VkdTLVR3SDBEZ2pyQ2tzeHl0Z0szd21GbUxkTVhXRFhQTHc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xbm81cTc2Vlp6QTYwZ25kbTR6SndydHRJNHIza2NUTVdJUU55eFBKWmpXRWNhU2dCbG81MVhtYkh5MEpBdUdRTTI5Zm9QNGRPeXfSAVNBVV95cUxQaGc1djNiMUNwZHJiRTYxMGUxQXBLeml6VkpieWwyZjZlNC1vM3JDYXZWR1MtVHdIMERnanJDa3N4eXRnSzN3bUZtTGRNWFdEWFBMdw?oc=5",
           "desc": "",
           "title_en": "GPS Permission Required for Ordering Food… ‘QR Order’ Location Collection Controversy",
           "title_ja": "料理の注文にはGPS許可が必要です…「QR注文」位置情報収集に関する論争",
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "노브랜드 버거 제주 상륙 … 신세계푸드, 제주 1호점 오픈",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ERmlYQjhMbWJOS2lyem1ZX3BnUF9vU3FpX2JmV1NNWExQTm5sZG9aR2Jlc3h1VkFaaUt3Zm1TTmVsM3E2ZE53YWpDY2xvQmpKVmsybmd4X1BOLUU4endYb1FjWTA?oc=5",
+          "title": "거제에 삼겹살 테마 미식·관광거리 조성…'K-푸드로드' 선정",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLeWk0aWk3QXhqUTRUQ3VFU3A4eUZXM1ZiYlFnb015QV9KNjZYbTJjcll1TlBvd3NtNWRNMXNqWWRoMFg2dkJNQTRON1REckpuWWc?oc=5",
           "desc": "",
-          "title_en": "Novel brand burger landed in Jeju… Shinsegae Food opens its first store in Jeju",
-          "title_ja": "新ブランドのハンバーガーが済州に登場…新世界食品が済州に初出店",
-          "title_zh": "新品牌汉堡登陆济州岛……新世界食品在济州岛开设第一家门店"
+          "title_en": "Creation of gourmet and tourist attractions with the theme of pork belly in Geoje... Selected as' K-Food Road '",
+          "title_ja": "Geojeの豚バラをテーマにしたグルメや観光スポットの創造…「Kフードロード」に選ばれました",
+          "title_zh": "在Geoje以猪肚为主题打造美食和旅游景点...被选为「K-Food Road」"
         },
         {
-          "title": "신세계푸드, 고물가시대 가성비 샌드위치 … 원재료 맛 그대로",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53WlVKR3ZaMlZZTkV6WmZuNWRERTZQWWx4eXhISjJ5TUJ1WHdPbE5ScDJMUG1iMnpVU2V1aTN4VmFvZ0ZEbzdzTl9XWUxIaGpIclJYTU1zRDVSN2Jhcjc0dmx6U2U?oc=5",
+          "title": "\"한식 로봇, 美 공항까지 점령 … K푸드 전성기는 이제 시작\"",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2NzZzVFdCMDJFU2RWOWJ3OUZfcmxyZDZDdXFLbE9NZ3BxSWxaVVJ3NEdiaEwzZDY4MHF3Zk1yRzR6eEtwczAtcHhXMVZDeVVuVDd0Z1V4TG94Z0F2Wk50cjNkWS0?oc=5",
           "desc": "",
-          "title_en": "Shinsegae Food, Junk Price Era Cost-effective Sandwich… As Raw Flavor Is",
-          "title_ja": "新世界の食べ物、ジャンク価格時代の費用対効果の高いサンドイッチ…生の味として",
-          "title_zh": "Shinsegae食品，垃圾价格时代性价比高的三明治……因为生味是"
+          "title_en": "\"Korean food robot occupies US airport... The peak of K-Food has begun\"",
+          "title_ja": "「韓国のフードロボットが米国空港を占拠… K - Foodのピークが始まった」",
+          "title_zh": "“韩国美食机器人占领美国机场…… K-Food高峰已经开始”"
         },
         {
-          "title": "[골드의 종목관리] 에이치엘비(028300), 신세계푸드(031440), 대유에이피(090120), GKL(114090), OCI(010060)",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GSjRYbm9FaFJvUEowMDY5bmtkclhLanppT2ZjSlRjblpwaldIam94Q19fc2F0NFZNUmNPWDFWM2Jjb2JBZVNPVzlYUTlUbzRFTlJTS3FDZklOcmg0QjlnUHhKdmI?oc=5",
+          "title": "롯데웰푸드, 세이브더칠드런과 ‘해피홈 14호’ 업무협약 체결",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51NjkyNG43RFB4SEhwYWxmdTdGZGpoUHZoRFhRQU1hRjl0WWhGYXdjTlVyRGhnaE1ZTGg2ZTdRRmpwNHN3ellTNVNpTHhGRzBFRkFHNHlsMDZsMzgwUlgyYXBmd1o?oc=5",
           "desc": "",
-          "title_en": "[Gold's discipline management] HLB (028300), Shinsegae Food (031440), DaeyuAP (090120), GKL (114090), OCI (010060)",
-          "title_ja": "【Gold's discipline management】HLB (028300 )、Shinsegae Food (031440 )、DaeyuAP (090120 )、GKL (114090 )、OCI (010060)",
-          "title_zh": "【黄金纪律管理】HLB （ 028300 ）、Shinsegae Food （ 031440 ）、DaeyuAP （ 090120 ）、GKL （ 114090 ）、OCI （ 010060 ）"
+          "title_en": "Lotte Well Food Signs' Happy Home No. 14 ’Business Agreement with Save the Children",
+          "title_ja": "ロッテウェルフード、セーブ・ザ・チルドレンと「ハッピーホームNo.14」事業契約を締結",
+          "title_zh": "乐天健康食品与救助儿童会签署“14号幸福之家”商业协议"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "‘K-푸드 체험 공간’ 베트남 편의점, GS25 성장에 주목",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBMlE5VTVvYnAxVVFVc2JvckdGSk9hdjNFRkxWWEFPY25DV0ZUYUJfNWw3VzF5SVc3cFdqRk5kZVdMQW8tUldJSDdHUTFNZVBRX3NoMlRpSQ?oc=5",
+          "title": "필코노미 시대, 한우도 기분 따라 골라 쓴다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16TFlkWjJZTl9qSUhWemFZUTV0aFlZUkVUa2J5cVNodXR0ZXdyUk1fVHd3dU1YU3gzLW8wMXBKcFhnQlJsS2dzN00wWFRDbmV5cVRaMXcwbw?oc=5",
           "desc": "",
-          "title_en": "‘K-Food Experience Space’ Vietnamese Convenience Store Focuses on GS25 Growth",
-          "title_ja": "「K - Food Experience Space」ベトナムのコンビニエンスストアはGS 25の成長に焦点を当てています",
-          "title_zh": "“K-Food Experience Space”越南便利店专注于GS25的增长"
+          "title_en": "In the Philkonomy Era, Hanwoo chooses to write according to his mood",
+          "title_ja": "フィルコノミー時代、ハンウーは自分の気分に合わせて書くことを選ぶ",
+          "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
         },
         {
-          "title": "‘축구보며 바나나’…돌코리아 ‘응원 간식템’ 이벤트 전개",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UbEhVV0tDN29HdUxZNlhCTDVqbmZmS1JsQWpmWVlzRWdRc2xpRk1LVGNXM3BqRWEyN2piZmlyMnR4VlZncDdOalcza25nOS1tazJaZ2RaOA?oc=5",
+          "title": "“브라우니에 고추장 넣어라” 못 말리는 해외 한식 활용법",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XZDRnNnRXZmVhWmo3UmpTTXBqQUhCdXp1b3Y2YkhYc3hqMEtVTWRXWFo1ZWllYTNxeTBDTUFqYU1qOU0taUpDRk0yZHRhdEZiZmtBSUJUbw?oc=5",
           "desc": "",
-          "title_en": "‘Bananas while watching soccer’ … Dol Korea ‘Cheerful Snack Item’ event developed",
-          "title_ja": "「サッカーを見ながらバナナ」…ドルコリア「陽気なスナックアイテム」イベント開催",
-          "title_zh": "“观看足球比赛的同时享用香蕉” …… Dol Korea开发了“快乐小吃”活动"
+          "title_en": "How to Use Overseas Korean Food That Can't Be Dried “Put Gochujang in Brownie”",
+          "title_ja": "乾燥できない海外韓国料理の使い方「ブラウニーにゴチュジャンを入れる」",
+          "title_zh": "如何使用无法干燥的海外韩国食品「把韩式辣椒酱放入布朗尼」"
         },
         {
-          "title": "“트와이스도 콤부차”…티젠, ‘콤부차 랩’ 열어",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XdUo1WjhFQ1E5WnVaQ0RSNVlOUjVRZ3lpZUdaTHktLXdTN3ljYVNRaGFvRnU5eE9Zal9HX0R1T0lfb3BTaWhQa3hIVmNNd0xnUktrdG1SMA?oc=5",
+          "title": "흑백 과자 봉지 등장…일본의 ‘포장 다이어트’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRWFAzamtuVFVhQUcySXN2VEVMaWg2UFF6N3BkdjNQcDR0dHlKbDQtZFNvaHdCVzRuN2had2R5Qmp5WFUzOEhHcXdEemhGR2JhaWZVWm5yNA?oc=5",
           "desc": "",
-          "title_en": "“Twice also kombucha” … Tizen opens‘ Kombucha Lab ’",
-          "title_ja": "「TWICE also kombucha」… Tizenが「Kombucha Lab」をオープン",
-          "title_zh": "“两次康普茶” …… Tizen开设了“康普茶实验室”"
+          "title_en": "Black and White Sweets Bags Appear… Japan's ‘Packaged Diet’",
+          "title_ja": "黒と白のスイーツバッグが登場…日本の「パッケージダイエット」",
+          "title_zh": "黑白糖果袋出现……日本的“包装饮食”"
         }
       ]
     }
