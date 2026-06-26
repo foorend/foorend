@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T03:46:42Z",
+  "lastUpdated": "2026-06-26T09:28:02Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "동국대 '사찰음식 명장' 선재스님 석좌교수 임용",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ycjJWeW04U2V1ektlUDFhajhuWnNGNlpiV1NCOWxoZk03YlBxMjRRQjFlbkhZY19Xb2Q2RFowXzFpUmYtc3JieHBxRWhBcUNLT3k4bEpoYk5Ld9IBVEFVX3lxTE4tZnpWbnd2QVpJLU9SVGlTd0hDUFV6Z2lqRy0yR3VZMmNTUnBIcld0VHI5SnFjUmI1dXo0OUk4WWwtRFhUaUl6NXNDRTdmTllqckVTXw?oc=5",
+          "desc": "",
+          "title_en": "Appointment of Seon Jae-sun, Chair Professor, 'Master of Temple Food', Dongguk University",
+          "title_ja": "東国大学「寺院食のマスター」教授Seon Jae - sunの任命",
+          "title_zh": "任命Seon Jae-sun为东国大学“寺庙美食大师”讲座教授"
+        },
+        {
           "title": "주문은 되는데 음식은 안 온다… Z세대 '0원 야식 앱' 확산",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4M1JNQW1peHk5eWloSWFBXzdCbHpFQ3UzWVF3aEdaT0ZQOFRhMVYwRVlKOEZTbGFkSlgxZlZ6VFpFUmZVWVFrREZrZnlXaEU1YXQ4MWwtTUVqN2tkWTRUaEZzYWZJekZjb1dnaA?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Highland Foods Group Enters Seafood Market",
           "title_ja": "ハイランド・フーズ・グループがシーフードマーケットに参入",
           "title_zh": "Highland Foods集团进军海鲜市场"
-        },
-        {
-          "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 음식 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
-          "desc": "",
-          "title_en": "\"I look ugly when I eat this\" … Food selected by a plastic surgeon [Health! Talk]",
-          "title_ja": "「これを食べると醜く見える」…整形外科医が選んだ食べ物【健康！トーク】",
-          "title_zh": "“我吃这个看起来很丑” ……整形外科医生挑选的食物【健康！说话】"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "在Geoje以猪肚为主题打造美食和旅游景点...被选为「K-Food Road」"
         },
         {
-          "title": "\"한식 로봇, 美 공항까지 점령 … K푸드 전성기는 이제 시작\"",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2NzZzVFdCMDJFU2RWOWJ3OUZfcmxyZDZDdXFLbE9NZ3BxSWxaVVJ3NEdiaEwzZDY4MHF3Zk1yRzR6eEtwczAtcHhXMVZDeVVuVDd0Z1V4TG94Z0F2Wk50cjNkWS0?oc=5",
+          "title": "“챗GPT 안에서 과자 산다”…롯데웰푸드, AI 커머스 실험 본격화",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMUEyR0RkS1BaWW1jWGRiMmJIZkgwSy1sSDB6Ul9KbnlHRHZjSnYxTHB2Z1ZMczFHclJmblJ4V25NR1J0MXJQd0pTRzFCYjFnY3p1VFlQbTE5bUh3TnN0cUxYX3I?oc=5",
           "desc": "",
-          "title_en": "\"Korean food robot occupies US airport... The peak of K-Food has begun\"",
-          "title_ja": "「韓国のフードロボットが米国空港を占拠… K - Foodのピークが始まった」",
-          "title_zh": "“韩国美食机器人占领美国机场…… K-Food高峰已经开始”"
+          "title_en": "“Buy cookies in ChatGPT” … Lotte Well Food intensifies AI commerce experiment",
+          "title_ja": "「ChatGPTでクッキーを購入」…ロッテウェルフードがAIコマース実験を強化",
+          "title_zh": "“在ChatGPT中购买cookie” ……乐天健康食品加强了人工智能商务实验"
         },
         {
-          "title": "롯데웰푸드, 세이브더칠드런과 ‘해피홈 14호’ 업무협약 체결",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51NjkyNG43RFB4SEhwYWxmdTdGZGpoUHZoRFhRQU1hRjl0WWhGYXdjTlVyRGhnaE1ZTGg2ZTdRRmpwNHN3ellTNVNpTHhGRzBFRkFHNHlsMDZsMzgwUlgyYXBmd1o?oc=5",
+          "title": "현대그린푸드, 냉동빵 인기에 온라인 베이커리 매출 ‘훈풍’",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kNWhiS2lubnNYSnJieXl4LWdtcjNtVFRpdnVsRklWZ2l4M05nTnM3bEFUNkZnTWQ4eE1TaVhpM0l6OE42OEZ2WEthZ3Z6R3Ztd1hYSWhYekE2Y0FaTjRIRUcxdkE?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Signs' Happy Home No. 14 ’Business Agreement with Save the Children",
-          "title_ja": "ロッテウェルフード、セーブ・ザ・チルドレンと「ハッピーホームNo.14」事業契約を締結",
-          "title_zh": "乐天健康食品与救助儿童会签署“14号幸福之家”商业协议"
+          "title_en": "Hyundai Green Food, online bakery sales‘ Hoonpung ‘due to the popularity of frozen bread",
+          "title_ja": "現代グリーンフード、冷凍パンの人気によるオンラインベーカリーセール「Hoonpung」",
+          "title_zh": "现代绿色食品，由于冷冻面包的普及，在线面包店销售“Hoonpung”"
         }
       ]
     },
