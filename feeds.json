@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T14:25:33Z",
+  "lastUpdated": "2026-06-26T17:00:32Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "26일부터 부산푸드필름페스타",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTQ3RXV6V3EzWVpQQ09CbmJ1OFNrT1ZoYlo3eUh1S0JWN1NCVUo1WFl4cUotbmlmVGc3UldFWXpQcy1XaEJPR2dpYlp5Z0JMeW9ncGV1YzNhakpfQmowUV9heVVGbGFINWFIWHZ1Y1hySWswZm02ejVtczdlbGtkNkMwcllnZzJfTWR1b3hBeEdtTUR3eUJ4bV9oam1LTGpIVUdHZXJPVXgxV09mb05v?oc=5",
-          "desc": "",
-          "title_en": "Busan Food Film Festa from the 26th",
-          "title_ja": "26日から釜山のフードフィルムフェスタ",
-          "title_zh": "26日釜山美食电影节"
-        },
-        {
           "title": "동국대 '사찰음식 명장' 선재스님 석좌교수 임용",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ycjJWeW04U2V1ektlUDFhajhuWnNGNlpiV1NCOWxoZk03YlBxMjRRQjFlbkhZY19Xb2Q2RFowXzFpUmYtc3JieHBxRWhBcUNLT3k4bEpoYk5Ld9IBVEFVX3lxTE4tZnpWbnd2QVpJLU9SVGlTd0hDUFV6Z2lqRy0yR3VZMmNTUnBIcld0VHI5SnFjUmI1dXo0OUk4WWwtRFhUaUl6NXNDRTdmTllqckVTXw?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "Orders are being placed, but no food is coming... Gen Z '0 won night snack app' proliferation",
           "title_ja": "注文は行われていますが、食べ物は届きません... Z世代「0ウォンナイトスナックアプリ」の拡散",
           "title_zh": "正在下订单，但没有食物...... Z世代“0赢得夜间零食应用程序”激增"
+        },
+        {
+          "title": "봄동 이어 대박 터졌다…매출 170% 폭등한 '제철음식' 정체",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SZ2xSMG00V0FXb3Vobm9TVzBKNl9abmJZMkttdzQ5cVlYeVlGNjFRY29LTlV3U29YLXV0MmliSjEzUDZiWU5TSUZYbXdoWVp1Q3dnYWNqZGNvUdIBVEFVX3lxTE5mQWtoTTJxeGxMZFA3MlA2S3NkUGs4dkQ2N3FDTUh3UGNMR1FZSGpGR1FaQ0hQbzFwNmNvblgzLXRHeW1aUUJYQ3BHSWtPbVA0T3AzYw?oc=5",
+          "desc": "",
+          "title_en": "After Bom-dong, it exploded in a big way… Sales soared 170%, stagnating 'seasonal food'",
+          "title_ja": "Bom - dongの後、それは大きな方法で爆発しました...売上は170 ％急上昇し、「季節の食べ物」を停滞させました",
+          "title_zh": "奉栋之后，销量大幅飙升……销量飙升170% ， “时令美食”停滞不前"
         }
       ]
     },
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "“SNS 보고 샀어요”…브로콜리니를 아시나요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13SHFJbEtvemhKOUpTNTc2TUZBc2pUQm53emppVlQ2SFdhSExCTi1pajFCVU1yNzQtMUk2U0h0QmY2T2ZmY1JKWWJSbWxwYnNRblA4S2lmNA?oc=5",
+          "title": "참치 소비 많은 프랑스, 통조림 수은 논란 확산",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VRUxnR2ZjWm4yUnZXUTNxbENnX2pFR0ljU1NjalJUWm5yOVZLZ2MwWEkwZGNBV0pPZXlmSndhWDlMeUFyVXdVLWZFNDh0WTExRC13NExTUQ?oc=5",
           "desc": "",
-          "title_en": "“I bought it through SNS” … Do you know Broccolini?",
-          "title_ja": "「SNSで購入しました」…ブロッコリーニをご存知ですか？",
-          "title_zh": "“我通过SNS买的” ……你知道西兰花吗？"
+          "title_en": "Tuna-consuming France spreads controversy over canned mercury",
+          "title_ja": "マグロを消費するフランス、缶詰の水銀をめぐる論争を広める",
+          "title_zh": "消费金枪鱼的法国因罐装汞而引发争议"
         },
         {
           "title": "지방 태우는 세포가 저장 세포로…패스트푸드의 위험성",
