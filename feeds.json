@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T19:48:53Z",
+  "lastUpdated": "2026-06-26T22:13:55Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "26일부터 부산푸드필름페스타",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTQ3RXV6V3EzWVpQQ09CbmJ1OFNrT1ZoYlo3eUh1S0JWN1NCVUo1WFl4cUotbmlmVGc3UldFWXpQcy1XaEJPR2dpYlp5Z0JMeW9ncGV1YzNhakpfQmowUV9heVVGbGFINWFIWHZ1Y1hySWswZm02ejVtczdlbGtkNkMwcllnZzJfTWR1b3hBeEdtTUR3eUJ4bV9oam1LTGpIVUdHZXJPVXgxV09mb05v?oc=5",
-          "desc": "",
-          "title_en": "Busan Food Film Festa from the 26th",
-          "title_ja": "26日から釜山のフードフィルムフェスタ",
-          "title_zh": "26日釜山美食电影节"
-        },
-        {
           "title": "동국대 '사찰음식 명장' 선재스님 석좌교수 임용",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ycjJWeW04U2V1ektlUDFhajhuWnNGNlpiV1NCOWxoZk03YlBxMjRRQjFlbkhZY19Xb2Q2RFowXzFpUmYtc3JieHBxRWhBcUNLT3k4bEpoYk5Ld9IBVEFVX3lxTE4tZnpWbnd2QVpJLU9SVGlTd0hDUFV6Z2lqRy0yR3VZMmNTUnBIcld0VHI5SnFjUmI1dXo0OUk4WWwtRFhUaUl6NXNDRTdmTllqckVTXw?oc=5",
           "desc": "",
           "title_en": "Appointment of Seon Jae-sun, Chair Professor, 'Master of Temple Food', Dongguk University",
           "title_ja": "東国大学「寺院食のマスター」教授Seon Jae - sunの任命",
           "title_zh": "任命Seon Jae-sun为东国大学“寺庙美食大师”讲座教授"
+        },
+        {
+          "title": "주문은 되는데 음식은 안 온다… Z세대 '0원 야식 앱' 확산",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4M1JNQW1peHk5eWloSWFBXzdCbHpFQ3UzWVF3aEdaT0ZQOFRhMVYwRVlKOEZTbGFkSlgxZlZ6VFpFUmZVWVFrREZrZnlXaEU1YXQ4MWwtTUVqN2tkWTRUaEZzYWZJekZjb1dnaA?oc=5",
+          "desc": "",
+          "title_en": "Orders are being placed, but no food is coming... Gen Z '0 won night snack app' proliferation",
+          "title_ja": "注文は行われていますが、食べ物は届きません... Z世代「0ウォンナイトスナックアプリ」の拡散",
+          "title_zh": "正在下订单，但没有食物...... Z世代“0赢得夜间零食应用程序”激增"
         },
         {
           "title": "봄동 이어 대박 터졌다…매출 170% 폭등한 '제철음식' 정체",
@@ -174,12 +174,12 @@
           "title_zh": "Global Food Tech通过餐饮集成解决方案收购金融科技公司Wizion [Signal]"
         },
         {
-          "title": "음식 주문에 GPS 권한 요구…‘QR오더’ 위치정보 수집 논란",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xbm81cTc2Vlp6QTYwZ25kbTR6SndydHRJNHIza2NUTVdJUU55eFBKWmpXRWNhU2dCbG81MVhtYkh5MEpBdUdRTTI5Zm9QNGRPeXfSAVNBVV95cUxQaGc1djNiMUNwZHJiRTYxMGUxQXBLeml6VkpieWwyZjZlNC1vM3JDYXZWR1MtVHdIMERnanJDa3N4eXRnSzN3bUZtTGRNWFdEWFBMdw?oc=5",
+          "title": "“마가렛트에 복호두 입혔다”…롯데웰푸드, 디저트 협업 신제품 선봬",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUDBHSWk0dWZJaXNOQXRrR2RSamRyS1FfMVRrR2lkNXE0NzNLbXQyOW1ubkdFa1ZkXzdKWV8yZWVDQmc5dFZOMkRQZGVKY3JfN1HSAVNBVV95cUxOUzNaLV9ianVtZ0p1SlBaMlF1RU83b3ZsYkp6YTRPUkNvTmgzVHZyZFRFckFualdlM1FPaFh4bmtHZFJlX0lYY3FCdU11ejhtMkdRSQ?oc=5",
           "desc": "",
-          "title_en": "GPS Permission Required for Ordering Food… ‘QR Order’ Location Collection Controversy",
-          "title_ja": "料理の注文にはGPS許可が必要です…「QR注文」位置情報収集に関する論争",
-          "title_zh": "订餐需要GPS权限… “二维码订单”位置收集争议"
+          "title_en": "“Margaret was dressed with bokhodu” … Lotte Well Food, Dessert Collaboration New Product Selection",
+          "title_ja": "「Margaret was dressed with bokhodu」…ロッテウェルフード、デザートコラボ新商品セレクション",
+          "title_zh": "“玛格丽特穿着bokhodu” ……乐天健康食品，甜点合作新产品选择"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
         },
         {
+          "title": "“한식 고기 메뉴 맛보세요”…미국육류수출협회 ‘서울푸드 2026’ 참가",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90SXpuWVZTMkVlakhSUlNoYVZqNkloN1M3UzV5NEl1ZVdDQW14bzE0RVg2RWJmM2dQZkQtUmtOODdrajc4S0FfODNqYUFPVjl2akUxVUR2WQ?oc=5",
+          "desc": "",
+          "title_en": "“Try the Korean Meat Menu” … Participated in 'Seoul Food 2026‘, the American Meat Export Association",
+          "title_ja": "「韓国肉メニューを試す」…米国食肉輸出協会「ソウルフード2026」に参加",
+          "title_zh": "“尝试韩国肉类菜单” ……参加美国肉类出口协会“首尔食品2026”"
+        },
+        {
           "title": "“브라우니에 고추장 넣어라” 못 말리는 해외 한식 활용법",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XZDRnNnRXZmVhWmo3UmpTTXBqQUhCdXp1b3Y2YkhYc3hqMEtVTWRXWFo1ZWllYTNxeTBDTUFqYU1qOU0taUpDRk0yZHRhdEZiZmtBSUJUbw?oc=5",
           "desc": "",
           "title_en": "How to Use Overseas Korean Food That Can't Be Dried “Put Gochujang in Brownie”",
           "title_ja": "乾燥できない海外韓国料理の使い方「ブラウニーにゴチュジャンを入れる」",
           "title_zh": "如何使用无法干燥的海外韩国食品「把韩式辣椒酱放入布朗尼」"
-        },
-        {
-          "title": "흑백 과자 봉지 등장…일본의 ‘포장 다이어트’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRWFAzamtuVFVhQUcySXN2VEVMaWg2UFF6N3BkdjNQcDR0dHlKbDQtZFNvaHdCVzRuN2had2R5Qmp5WFUzOEhHcXdEemhGR2JhaWZVWm5yNA?oc=5",
-          "desc": "",
-          "title_en": "Black and White Sweets Bags Appear… Japan's ‘Packaged Diet’",
-          "title_ja": "黒と白のスイーツバッグが登場…日本の「パッケージダイエット」",
-          "title_zh": "黑白糖果袋出现……日本的“包装饮食”"
         }
       ]
     }
