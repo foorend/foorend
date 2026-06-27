@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T16:04:59Z",
+  "lastUpdated": "2026-06-27T19:21:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "필코노미 시대, 한우도 기분 따라 골라 쓴다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16TFlkWjJZTl9qSUhWemFZUTV0aFlZUkVUa2J5cVNodXR0ZXdyUk1fVHd3dU1YU3gzLW8wMXBKcFhnQlJsS2dzN00wWFRDbmV5cVRaMXcwbw?oc=5",
-          "desc": "",
-          "title_en": "In the Philkonomy Era, Hanwoo chooses to write according to his mood",
-          "title_ja": "フィルコノミー時代、ハンウーは自分の気分に合わせて書くことを選ぶ",
-          "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
-        },
-        {
           "title": "“브라우니에 고추장 넣어라” 못 말리는 해외 한식 활용법",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XZDRnNnRXZmVhWmo3UmpTTXBqQUhCdXp1b3Y2YkhYc3hqMEtVTWRXWFo1ZWllYTNxeTBDTUFqYU1qOU0taUpDRk0yZHRhdEZiZmtBSUJUbw?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "“Twice also kombucha” … Tizen opens‘ Kombucha Lab ’",
           "title_ja": "「TWICE also kombucha」… Tizenが「Kombucha Lab」をオープン",
           "title_zh": "“两次康普茶” …… Tizen开设了“康普茶实验室”"
+        },
+        {
+          "title": "고수들의 아이템 ‘대파청’, 새우볶음밥에도 굿",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQY0VCOXVHdS1ySnN2Q0ZjWjhNQXBZNmRwdmZudEpCc0Ezb0VsdnlZT1RMYWt6Rk1GUkF2bEtrbjF6bUdGN3dLeFZUazh4WnJ1emRrSUlCaw?oc=5",
+          "desc": "",
+          "title_en": "Cilantro items‘ Daepachung ‘, good for fried shrimp rice",
+          "title_ja": "エビチャーハンにおすすめのコリアンダー「Daepachung」",
+          "title_zh": "香菜“Daepachung” ，适合炒虾米"
         }
       ]
     }
