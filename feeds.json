@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-27T22:02:43Z",
+  "lastUpdated": "2026-06-28T03:54:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Meet the company that makes McDonald's apple pies",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2RfZlVvd2xZYWh2elR6akNOS2NfdVo2WFI5bGhyWnI4TE1ZenFTaGtQanpKUUQ2Z0p1OFYtMXpuaVk1blp3R09kYTBmMVVlX1BMYjI4WFVkSThpRWgycHFGQ0FQRnZ2bDZMNEtVcFRPMDZ0YkNuc0VzRFppUGNJSXlmd0hGV2owRXFUd1Z4TQ?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드 애플파이를 만드는 회사를 만나보세요",
-          "title_ja": "マクドナルドのアップルパイを作っている会社に会おう",
-          "title_zh": "认识麦当劳苹果派制作公司"
-        },
         {
           "title": "Starbucks plans to hire thousands of new ‘coffeehouse coach’ roles",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2JuTzcyeHMwbjJNQzVMNWVVUlo1aUVuWm5tZWw3UEV4cG5ISUwwUzI5b0pRRDlGZzRaQnp2QWhGNTBQUlFkVzEzaGpYMXlBd3hYQjBSME5VVGd2enUzZXA0MXViMWstc3gtQktaaVZwVWZNUzRTS3AtWnkwVDVFRUkxRUxEN2lnclNYamd6UkRndkVNZ1NjQnN0WVMwQjVqV3lKejZqNGc?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
           "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
           "title_zh": "餐厅商业杂志-趋势、创意和新闻"
+        },
+        {
+          "title": "Which restaurant brand is the GOAT at social media?",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2JMSFpzMmlBSk9sWEJfVDBFWm9qVDlVWDRiY1duWEprTkx5VTNHbWJXYXp0dVAzdXhBMzJHMFdqMGZpbUJIcnZGZTBCTkhsam1UZm1zS251dTY5ZnVqaGVZTzlYZ2FGNHFnZnR3TWVELXh5M2dZMERBbk9zVGIyX2tBQ1Y3dkdzcFA1SmFnN3Q5Zw?oc=5",
+          "desc": "",
+          "title_ko": "소셜 미디어에서 염소는 어떤 레스토랑 브랜드입니까?",
+          "title_ja": "ソーシャルメディアでヤギはどのレストランブランドですか？",
+          "title_zh": "社交媒体上的GOAT是哪个餐厅品牌？"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "正在下订单，但没有食物...... Z世代“0赢得夜间零食应用程序”激增"
         },
         {
-          "title": "동국대 '사찰음식 명장' 선재스님 석좌교수 임용",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ycjJWeW04U2V1ektlUDFhajhuWnNGNlpiV1NCOWxoZk03YlBxMjRRQjFlbkhZY19Xb2Q2RFowXzFpUmYtc3JieHBxRWhBcUNLT3k4bEpoYk5Ld9IBVEFVX3lxTE4tZnpWbnd2QVpJLU9SVGlTd0hDUFV6Z2lqRy0yR3VZMmNTUnBIcld0VHI5SnFjUmI1dXo0OUk4WWwtRFhUaUl6NXNDRTdmTllqckVTXw?oc=5",
+          "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 음식 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
           "desc": "",
-          "title_en": "Appointment of Seon Jae-sun, Chair Professor, 'Master of Temple Food', Dongguk University",
-          "title_ja": "東国大学「寺院食のマスター」教授Seon Jae - sunの任命",
-          "title_zh": "任命Seon Jae-sun为东国大学“寺庙美食大师”讲座教授"
+          "title_en": "\"I look ugly when I eat this\" … Food selected by a plastic surgeon [Health! Talk]",
+          "title_ja": "「これを食べると醜く見える」…整形外科医が選んだ食べ物【健康！トーク】",
+          "title_zh": "“我吃这个看起来很丑” ……整形外科医生挑选的食物【健康！说话】"
         },
         {
-          "title": "여성들 즐겨 먹는 음식인데…\"사망 위험 높다\" 무서운 경고",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xRkE1QUdUSWlaMnJuOTl0blRLdm1ZV3lSaFIySU5ROWlPcW5ITENOUVJjOEVmckVWQlJjaHJwemYzWDltOUxFLW5ZWDNNUm5YYTNMUdIBVEFVX3lxTE1xRkE1QUdUSWlaMnJuOTl0blRLdm1ZV3lSaFIySU5ROWlPcW5ITENOUVJjOEVmckVWQlJjaHJwemYzWDltOUxFLW5ZWDNNUm5YYTNMUQ?oc=5",
+          "title": "26일부터 부산푸드필름페스타",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTQ3RXV6V3EzWVpQQ09CbmJ1OFNrT1ZoYlo3eUh1S0JWN1NCVUo1WFl4cUotbmlmVGc3UldFWXpQcy1XaEJPR2dpYlp5Z0JMeW9ncGV1YzNhakpfQmowUV9heVVGbGFINWFIWHZ1Y1hySWswZm02ejVtczdlbGtkNkMwcllnZzJfTWR1b3hBeEdtTUR3eUJ4bV9oam1LTGpIVUdHZXJPVXgxV09mb05v?oc=5",
           "desc": "",
-          "title_en": "It is a favorite food of women... \"High risk of death\" scary warning",
-          "title_ja": "女性の大好きな食べ物…「死の危険性が高い」恐ろしい警告",
-          "title_zh": "这是女性最喜欢的食物…… “高死亡风险”可怕的警告"
+          "title_en": "Busan Food Film Festa from the 26th",
+          "title_ja": "26日から釜山のフードフィルムフェスタ",
+          "title_zh": "26日釜山美食电影节"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "코트라, 콜롬비아서 첫 K-푸드 판촉전…50만달러 계약 성과",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0a2JxN1ljM3dFeWdHcjJLNm9xaEJ2dEJTNEJEdWFvd0NQMEs0akJ1WE1QWk0wckZOQXNVRG00d0xPVDk4RkVYVGlGaDhVWnE0ZEE?oc=5",
+          "desc": "",
+          "title_en": "KOTRA, Colombia's First K-Food Promotion… $500,000 Contract Performance",
+          "title_ja": "KOTRA、コロンビア初のK - Foodプロモーション… 50万ドルの契約履行",
+          "title_zh": "KOTRA ，哥伦比亚首个K-Food促销… 50万美元的合同履行"
+        },
+        {
+          "title": "강릉 초당두부, 문체부 'K-푸드로드' 선정…3년간 30억원 확보",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nNnZYbktUUEdvMkVhbFZPZ19mYzlsQ284SGJHMjlyWkVZaTlxaWpDcHNuMHdOQ2xwVnpBaEg4VDZFVU0zZzFTTVlJOEVaVzkyalE?oc=5",
+          "desc": "",
+          "title_en": "Gangneung Chodang Tofu Selected as' K-Food Road 'by the Ministry of Culture… Secured 3 billion won over 3 years",
+          "title_ja": "江陵朝堂豆腐文化省「Kフードロード」に選定… 3年間で30億ウォン確保",
+          "title_zh": "江陵超当豆腐被文化部选为“K-Food Road” … 3年内担保30亿韩元"
+        },
+        {
           "title": "세계이탈리아음식주간 Archives",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNEdRMnlyNGJiRE5seUUxSk8xVGxUak1lWEtxZmxLbm4wM0VVczJELUc3QzVYdnA4RGxVa1doY2ozNkxCYU96MFczdzVzY0pZVWhSWVFjRUd5Q1JjSEgybUZLdWhhREFPckJ5SHlNNGFDRW5HMUVYY2VOUWRJUURZMnBvWkxwVWVBanRvMlVBVnNGQktGV3Z3SVdUMkxUX2gydGdPaEUzMnlGbXNUWEhaQ2VpQkQ5R2ctRW5MQjFyZGVjVjlNR0E?oc=5",
           "desc": "",
           "title_en": "World Italian Food Week Archives",
           "title_ja": "世界イタリアンフードウィークのアーカイブ",
           "title_zh": "世界意大利美食周档案"
-        },
-        {
-          "title": "깨끗한나라 포포몽, 펫푸드 시장 진출…반려견 간식 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1cE9DcU1pREw4M0t0X3VrTEstNERuVVlDZnpTNGVlaGNlYVJXazdnNHRjckdqUDhZRE01TWdiWFA2Q3NVSEU2VHZ0Ymc2LWNvV2c?oc=5",
-          "desc": "",
-          "title_en": "Clean Country Popomont Enters the Pet Food Market… Launches Dog Treats",
-          "title_ja": "クリーンカントリーポポモントがペットフード市場に参入…犬用おやつを発売",
-          "title_zh": "Clean Country Popomont进入宠物食品市场…推出狗粮"
-        },
-        {
-          "title": "[관심종목] 현대그린푸드(005440)",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FS2duZklHWXpvSmRMYmJPUHowNFJ3bFpVVjUxbEEyeG9ncXBKVFMyR3hnclBNTklCWHdWUGhzLTBpaG16WGxzamRjTnlxVXVWY0M3SENaa0c1LU03SFh1bjl5NnU?oc=5",
-          "desc": "",
-          "title_en": "[Items of Interest] Hyundai Green Food (005440)",
-          "title_ja": "【注目商品】現代グリーンフード(005440)",
-          "title_zh": "【关注项目】现代绿色食品(005440)"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "필코노미 시대, 한우도 기분 따라 골라 쓴다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16TFlkWjJZTl9qSUhWemFZUTV0aFlZUkVUa2J5cVNodXR0ZXdyUk1fVHd3dU1YU3gzLW8wMXBKcFhnQlJsS2dzN00wWFRDbmV5cVRaMXcwbw?oc=5",
+          "desc": "",
+          "title_en": "In the Philkonomy Era, Hanwoo chooses to write according to his mood",
+          "title_ja": "フィルコノミー時代、ハンウーは自分の気分に合わせて書くことを選ぶ",
+          "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
+        },
         {
           "title": "“브라우니에 고추장 넣어라” 못 말리는 해외 한식 활용법",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XZDRnNnRXZmVhWmo3UmpTTXBqQUhCdXp1b3Y2YkhYc3hqMEtVTWRXWFo1ZWllYTNxeTBDTUFqYU1qOU0taUpDRk0yZHRhdEZiZmtBSUJUbw?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "“Twice also kombucha” … Tizen opens‘ Kombucha Lab ’",
           "title_ja": "「TWICE also kombucha」… Tizenが「Kombucha Lab」をオープン",
           "title_zh": "“两次康普茶” …… Tizen开设了“康普茶实验室”"
-        },
-        {
-          "title": "고수들의 아이템 ‘대파청’, 새우볶음밥에도 굿",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQY0VCOXVHdS1ySnN2Q0ZjWjhNQXBZNmRwdmZudEpCc0Ezb0VsdnlZT1RMYWt6Rk1GUkF2bEtrbjF6bUdGN3dLeFZUazh4WnJ1emRrSUlCaw?oc=5",
-          "desc": "",
-          "title_en": "Cilantro items‘ Daepachung ‘, good for fried shrimp rice",
-          "title_ja": "エビチャーハンにおすすめのコリアンダー「Daepachung」",
-          "title_zh": "香菜“Daepachung” ，适合炒虾米"
         }
       ]
     }
