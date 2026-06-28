@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-06-28T11:07:44Z",
+  "lastUpdated": "2026-06-28T13:47:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Chain shutdowns become more common after the pandemic",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQTd3Zkx0T01LNl9Dd093Z05EcGl4V3ppVDZ3RGNjYW91SG00UUp1ZWhZclFyWmFvOFo5VjFsZUdfb0dlbnlPZXR2enhCdVNXVjVYcmN6dHlHT2lCU2d6eGxvTFd1WnVpNXpaaTZyWWlyZE4xTUVpRU5yQ2xBdVZ3TW10ZHZlLUxHaTV5WG9Bd0lvZnV6REloeDhid3o?oc=5",
+          "desc": "",
+          "title_ko": "팬데믹 이후 체인 셧다운이 더 흔해짐",
+          "title_ja": "パンデミック後、チェーンのシャットダウンがより一般的になります",
+          "title_zh": "疫情后，连锁关机变得更加普遍"
+        },
         {
           "title": "Restaurant Business Magazine - Trends, Ideas and News",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "소셜 미디어에서 염소는 어떤 레스토랑 브랜드입니까?",
           "title_ja": "ソーシャルメディアでヤギはどのレストランブランドですか？",
           "title_zh": "社交媒体上的GOAT是哪个餐厅品牌？"
-        },
-        {
-          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
-          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
-          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         }
       ]
     },
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "주문은 되는데 음식은 안 온다… Z세대 '0원 야식 앱' 확산",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4M1JNQW1peHk5eWloSWFBXzdCbHpFQ3UzWVF3aEdaT0ZQOFRhMVYwRVlKOEZTbGFkSlgxZlZ6VFpFUmZVWVFrREZrZnlXaEU1YXQ4MWwtTUVqN2tkWTRUaEZzYWZJekZjb1dnaA?oc=5",
-          "desc": "",
-          "title_en": "Orders are being placed, but no food is coming... Gen Z '0 won night snack app' proliferation",
-          "title_ja": "注文は行われていますが、食べ物は届きません... Z世代「0ウォンナイトスナックアプリ」の拡散",
-          "title_zh": "正在下订单，但没有食物...... Z世代“0赢得夜间零食应用程序”激增"
-        },
-        {
           "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 음식 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "Busan Food Film Festa from the 26th",
           "title_ja": "26日から釜山のフードフィルムフェスタ",
           "title_zh": "26日釜山美食电影节"
+        },
+        {
+          "title": "\"더운 태국서 웬 샤브샤브\"…삼성 출신 CEO의 '큰 그림' [장서우의 하입:hype]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pNC02YkttdFl0Rzd6TDJPOXE5VmZGS2VESVg1bUYtRUtEZ05ZSGlXSk0zeUxWVFphTTh2VHJmTlI5Q3NtVlBHVXluY1hHa05CNzVNY2k2WU5pd9IBVEFVX3lxTE5YMDBfa0ZZNTB3ZU9LSEhaVS1XdHNyb2szcDdSaWJOS09WR25YTkhKdzlLUG9PbXFkclVfTzBwQzVFQm5NTzlNUW1KdkE1X09fbFEwZQ?oc=5",
+          "desc": "",
+          "title_en": "“Hot Thai wen shabu shabu” … Samsung CEO's 'The Big Picture' [Submission of Zhang Shouu: hype]",
+          "title_ja": "「Hot Thai wen shabu shabu」… Samsung CEOの「The Big Picture」【Zhang Shouu氏の投稿： HYPE】",
+          "title_zh": "“Hot Thai wen shabu shabu” …三星首席执行官的“The Big Picture” [张首乌的提交： HYPE]"
         }
       ]
     },
@@ -159,11 +159,19 @@
       "items": [
         {
           "title": "[열린송현] 푸드테크 산업 ‘창발 생태계’에 달려",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wUjJyaXZfaGJoWFg3cmFjbUp2UmZjY25UanV0R1NVNVFRcXFXXzlHdmIzVThBUzNaN2N0YVU2aEhkLXJ0djBsX0tvVTcyMVVNbmfSAVNBVV95cUxNVW15Qi1aZElTc0paekRHWGpHRXlWMk1yNFRqdXNNMmgwRWUzU3BUbTE1RUdpUHJKNUpSX2YzOTA4ZzlwbjA0LWlDRDRQU0NzSk9PMA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VbXlCLVpkSVNzSlp6REdYakdFeVYyTXI0VGp1c00yaDBFZTNTcFRtMTVFR2lQcko1SlJfZjM5MDhnOXBuMDQtaUNENFBTQ3NKT08w0gFTQVVfeXFMTVVteUItWmRJU3NKWnpER1hqR0V5VjJNcjRUanVzTTJoMEVlM1NwVG0xNUVHaVBySjVKUl9mMzkwOGc5cG4wNC1pQ0Q0UFNDc0pPTzA?oc=5",
           "desc": "",
           "title_en": "[Won Song-hyun] It depends on the food tech industry ‘emerging ecosystem’",
           "title_ja": "【ウォン・ソンヒョン】フードテック業界の「新興エコシステム」次第",
           "title_zh": "【Won Song-hyun】这取决于食品科技行业的“新兴生态系统”"
+        },
+        {
+          "title": "외식 통합 솔루션社 글로벌푸드테크, 핀테크 기업 위지온 인수 [시그널]",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vWVFXYlg3bTI0MnloTmxDZmJCWldRT1dJVHFKOTE1N1YtdjV1X1o0bWhxYjN0ei1ISjZUWWl2X3Z1VmtrcE51R2hjWVVFN2xNTzgwQWtPZw?oc=5",
+          "desc": "",
+          "title_en": "Global Food Tech Acquires Wizion, a FinTech Company, by Dining Integration Solutions [Signal]",
+          "title_ja": "Global Food Tech、Dining Integration Solutionsによりフィンテック企業のWizionを買収[Signal]",
+          "title_zh": "Global Food Tech通过餐饮集成解决方案收购金融科技公司Wizion [Signal]"
         },
         {
           "title": "“건강식인 줄 알았는데 아니었다”…의사들은 절대 안 먹는다는 음식, 뭐길래? [헬시타임]",
@@ -172,14 +180,6 @@
           "title_en": "“I thought it was a healthy diet, but it wasn't” … What kind of food do doctors never eat? [Health Time]",
           "title_ja": "「健康的な食事だと思っていましたが、そうではありませんでした」…医者はどのような食べ物を食べることはありませんか？ [Health Time]",
           "title_zh": "“我认为这是一种健康的饮食，但事实并非如此” ……医生从不吃什么样的食物？ [健康时间]"
-        },
-        {
-          "title": "“햄·라면 보다 훨씬 안 좋았다”…의사가 꼽은 못생겨지는 음식 1위는 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QktVYkMtelU3UUV2T0IxQkllRkxvTTNmc2FWeGZxazY3M3otWWlRbU9fUkZEdS1qWVFkWmZEVTU1ZW5KYnBxSk1rTEdxWXd1dFHSAVNBVV95cUxNblZ2M0NOT3U5cHk0QWhmZmZGN2ZwYVdwdlZtUm1UTl9NVlNuU1huZTk3OGZXZmhNbXVIVGFYcHlDZXFXbEJTY1dRTmk1bW5paWdGcw?oc=5",
-          "desc": "",
-          "title_en": "“It was much worse than ham and ramen” … The number one ugly food according to the doctor was [Healthy Time]",
-          "title_ja": "「ハムやラーメンよりもずっとひどかった」…医者によると、醜い食べ物のナンバーワンは[Healthy Time]でした",
-          "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
         }
       ]
     },
