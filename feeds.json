@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-06-28T13:47:23Z",
+  "lastUpdated": "2026-06-28T16:10:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Starbucks plans to hire thousands of new ‘coffeehouse coach’ roles",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2JuTzcyeHMwbjJNQzVMNWVVUlo1aUVuWm5tZWw3UEV4cG5ISUwwUzI5b0pRRDlGZzRaQnp2QWhGNTBQUlFkVzEzaGpYMXlBd3hYQjBSME5VVGd2enUzZXA0MXViMWstc3gtQktaaVZwVWZNUzRTS3AtWnkwVDVFRUkxRUxEN2lnclNYamd6UkRndkVNZ1NjQnN0WVMwQjVqV3lKejZqNGc?oc=5",
+          "desc": "",
+          "title_ko": "스타벅스는 수천 명의 새로운 ‘커피 전문점 코치‘ 역할을 고용할 계획입니다.",
+          "title_ja": "スターバックスは、何千もの新しい「コーヒーハウスコーチ」の役割を雇う予定です",
+          "title_zh": "星巴克计划雇佣数千名新的“咖啡馆教练”"
+        },
         {
           "title": "Chain shutdowns become more common after the pandemic",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQTd3Zkx0T01LNl9Dd093Z05EcGl4V3ppVDZ3RGNjYW91SG00UUp1ZWhZclFyWmFvOFo5VjFsZUdfb0dlbnlPZXR2enhCdVNXVjVYcmN6dHlHT2lCU2d6eGxvTFd1WnVpNXpaaTZyWWlyZE4xTUVpRU5yQ2xBdVZ3TW10ZHZlLUxHaTV5WG9Bd0lvZnV6REloeDhid3o?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
           "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
           "title_zh": "餐厅商业杂志-趋势、创意和新闻"
-        },
-        {
-          "title": "Which restaurant brand is the GOAT at social media?",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2JMSFpzMmlBSk9sWEJfVDBFWm9qVDlVWDRiY1duWEprTkx5VTNHbWJXYXp0dVAzdXhBMzJHMFdqMGZpbUJIcnZGZTBCTkhsam1UZm1zS251dTY5ZnVqaGVZTzlYZ2FGNHFnZnR3TWVELXh5M2dZMERBbk9zVGIyX2tBQ1Y3dkdzcFA1SmFnN3Q5Zw?oc=5",
-          "desc": "",
-          "title_ko": "소셜 미디어에서 염소는 어떤 레스토랑 브랜드입니까?",
-          "title_ja": "ソーシャルメディアでヤギはどのレストランブランドですか？",
-          "title_zh": "社交媒体上的GOAT是哪个餐厅品牌？"
         }
       ]
     },
@@ -166,12 +166,12 @@
           "title_zh": "【Won Song-hyun】这取决于食品科技行业的“新兴生态系统”"
         },
         {
-          "title": "외식 통합 솔루션社 글로벌푸드테크, 핀테크 기업 위지온 인수 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vWVFXYlg3bTI0MnloTmxDZmJCWldRT1dJVHFKOTE1N1YtdjV1X1o0bWhxYjN0ei1ISjZUWWl2X3Z1VmtrcE51R2hjWVVFN2xNTzgwQWtPZw?oc=5",
+          "title": "“햄·라면 보다 훨씬 안 좋았다”…의사가 꼽은 못생겨지는 음식 1위는 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QktVYkMtelU3UUV2T0IxQkllRkxvTTNmc2FWeGZxazY3M3otWWlRbU9fUkZEdS1qWVFkWmZEVTU1ZW5KYnBxSk1rTEdxWXd1dFHSAVNBVV95cUxNblZ2M0NOT3U5cHk0QWhmZmZGN2ZwYVdwdlZtUm1UTl9NVlNuU1huZTk3OGZXZmhNbXVIVGFYcHlDZXFXbEJTY1dRTmk1bW5paWdGcw?oc=5",
           "desc": "",
-          "title_en": "Global Food Tech Acquires Wizion, a FinTech Company, by Dining Integration Solutions [Signal]",
-          "title_ja": "Global Food Tech、Dining Integration Solutionsによりフィンテック企業のWizionを買収[Signal]",
-          "title_zh": "Global Food Tech通过餐饮集成解决方案收购金融科技公司Wizion [Signal]"
+          "title_en": "“It was much worse than ham and ramen” … The number one ugly food according to the doctor was [Healthy Time]",
+          "title_ja": "「ハムやラーメンよりもずっとひどかった」…医者によると、醜い食べ物のナンバーワンは[Healthy Time]でした",
+          "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
         },
         {
           "title": "“건강식인 줄 알았는데 아니었다”…의사들은 절대 안 먹는다는 음식, 뭐길래? [헬시타임]",
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "\"K푸드에 대한 호기심을 습관으로 연결시켜야\"",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84dkxjYW4yMWwtTzdxQkFpM1FSRjAzeGZJSUpKTkZNdzA5ajNNSFFkLWZZRzg5cjRKaWNaMjVuUkVjcVZlZUE?oc=5",
-          "desc": "",
-          "title_en": "\"Habituate your curiosity about K foods\"",
-          "title_ja": "「K食への好奇心を慣れる」",
-          "title_zh": "“习惯你对K食品的好奇心”"
-        },
-        {
           "title": "코트라, 콜롬비아서 첫 K-푸드 판촉전…50만달러 계약 성과",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0a2JxN1ljM3dFeWdHcjJLNm9xaEJ2dEJTNEJEdWFvd0NQMEs0akJ1WE1QWk0wckZOQXNVRG00d0xPVDk4RkVYVGlGaDhVWnE0ZEE?oc=5",
           "desc": "",
           "title_en": "KOTRA, Colombia's First K-Food Promotion… $500,000 Contract Performance",
           "title_ja": "KOTRA、コロンビア初のK - Foodプロモーション… 50万ドルの契約履行",
           "title_zh": "KOTRA ，哥伦比亚首个K-Food促销… 50万美元的合同履行"
+        },
+        {
+          "title": "\"K푸드에 대한 호기심을 습관으로 연결시켜야\"",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84dkxjYW4yMWwtTzdxQkFpM1FSRjAzeGZJSUpKTkZNdzA5ajNNSFFkLWZZRzg5cjRKaWNaMjVuUkVjcVZlZUE?oc=5",
+          "desc": "",
+          "title_en": "\"Habituate your curiosity about K foods\"",
+          "title_ja": "「K食への好奇心を慣れる」",
+          "title_zh": "“习惯你对K食品的好奇心”"
         },
         {
           "title": "강릉 초당두부, 문체부 'K-푸드로드' 선정…3년간 30억원 확보",
