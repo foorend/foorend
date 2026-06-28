@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-28T08:52:32Z",
+  "lastUpdated": "2026-06-28T11:07:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Starbucks plans to hire thousands of new ‘coffeehouse coach’ roles",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2JuTzcyeHMwbjJNQzVMNWVVUlo1aUVuWm5tZWw3UEV4cG5ISUwwUzI5b0pRRDlGZzRaQnp2QWhGNTBQUlFkVzEzaGpYMXlBd3hYQjBSME5VVGd2enUzZXA0MXViMWstc3gtQktaaVZwVWZNUzRTS3AtWnkwVDVFRUkxRUxEN2lnclNYamd6UkRndkVNZ1NjQnN0WVMwQjVqV3lKejZqNGc?oc=5",
-          "desc": "",
-          "title_ko": "스타벅스는 수천 명의 새로운 ‘커피 전문점 코치‘ 역할을 고용할 계획입니다.",
-          "title_ja": "スターバックスは、何千もの新しい「コーヒーハウスコーチ」の役割を雇う予定です",
-          "title_zh": "星巴克计划雇佣数千名新的“咖啡馆教练”"
-        },
         {
           "title": "Restaurant Business Magazine - Trends, Ideas and News",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "소셜 미디어에서 염소는 어떤 레스토랑 브랜드입니까?",
           "title_ja": "ソーシャルメディアでヤギはどのレストランブランドですか？",
           "title_zh": "社交媒体上的GOAT是哪个餐厅品牌？"
+        },
+        {
+          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
+          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
+          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         }
       ]
     },
@@ -158,12 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "외식 통합 솔루션社 글로벌푸드테크, 핀테크 기업 위지온 인수 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vWVFXYlg3bTI0MnloTmxDZmJCWldRT1dJVHFKOTE1N1YtdjV1X1o0bWhxYjN0ei1ISjZUWWl2X3Z1VmtrcE51R2hjWVVFN2xNTzgwQWtPZw?oc=5",
+          "title": "[열린송현] 푸드테크 산업 ‘창발 생태계’에 달려",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wUjJyaXZfaGJoWFg3cmFjbUp2UmZjY25UanV0R1NVNVFRcXFXXzlHdmIzVThBUzNaN2N0YVU2aEhkLXJ0djBsX0tvVTcyMVVNbmfSAVNBVV95cUxNVW15Qi1aZElTc0paekRHWGpHRXlWMk1yNFRqdXNNMmgwRWUzU3BUbTE1RUdpUHJKNUpSX2YzOTA4ZzlwbjA0LWlDRDRQU0NzSk9PMA?oc=5",
           "desc": "",
-          "title_en": "Global Food Tech Acquires Wizion, a FinTech Company, by Dining Integration Solutions [Signal]",
-          "title_ja": "Global Food Tech、Dining Integration Solutionsによりフィンテック企業のWizionを買収[Signal]",
-          "title_zh": "Global Food Tech通过餐饮集成解决方案收购金融科技公司Wizion [Signal]"
+          "title_en": "[Won Song-hyun] It depends on the food tech industry ‘emerging ecosystem’",
+          "title_ja": "【ウォン・ソンヒョン】フードテック業界の「新興エコシステム」次第",
+          "title_zh": "【Won Song-hyun】这取决于食品科技行业的“新兴生态系统”"
         },
         {
           "title": "“건강식인 줄 알았는데 아니었다”…의사들은 절대 안 먹는다는 음식, 뭐길래? [헬시타임]",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "\"K푸드에 대한 호기심을 습관으로 연결시켜야\"",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84dkxjYW4yMWwtTzdxQkFpM1FSRjAzeGZJSUpKTkZNdzA5ajNNSFFkLWZZRzg5cjRKaWNaMjVuUkVjcVZlZUE?oc=5",
+          "desc": "",
+          "title_en": "\"Habituate your curiosity about K foods\"",
+          "title_ja": "「K食への好奇心を慣れる」",
+          "title_zh": "“习惯你对K食品的好奇心”"
+        },
+        {
           "title": "코트라, 콜롬비아서 첫 K-푸드 판촉전…50만달러 계약 성과",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0a2JxN1ljM3dFeWdHcjJLNm9xaEJ2dEJTNEJEdWFvd0NQMEs0akJ1WE1QWk0wckZOQXNVRG00d0xPVDk4RkVYVGlGaDhVWnE0ZEE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Gangneung Chodang Tofu Selected as' K-Food Road 'by the Ministry of Culture… Secured 3 billion won over 3 years",
           "title_ja": "江陵朝堂豆腐文化省「Kフードロード」に選定… 3年間で30億ウォン確保",
           "title_zh": "江陵超当豆腐被文化部选为“K-Food Road” … 3年内担保30亿韩元"
-        },
-        {
-          "title": "세계이탈리아음식주간 Archives",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNEdRMnlyNGJiRE5seUUxSk8xVGxUak1lWEtxZmxLbm4wM0VVczJELUc3QzVYdnA4RGxVa1doY2ozNkxCYU96MFczdzVzY0pZVWhSWVFjRUd5Q1JjSEgybUZLdWhhREFPckJ5SHlNNGFDRW5HMUVYY2VOUWRJUURZMnBvWkxwVWVBanRvMlVBVnNGQktGV3Z3SVdUMkxUX2gydGdPaEUzMnlGbXNUWEhaQ2VpQkQ5R2ctRW5MQjFyZGVjVjlNR0E?oc=5",
-          "desc": "",
-          "title_en": "World Italian Food Week Archives",
-          "title_ja": "世界イタリアンフードウィークのアーカイブ",
-          "title_zh": "世界意大利美食周档案"
         }
       ]
     },
