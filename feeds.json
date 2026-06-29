@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T19:58:31Z",
+  "lastUpdated": "2026-06-29T22:08:20Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "동국대 '사찰음식 명장' 선재스님 석좌교수 임용",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmcySkh5dWF0R2dJUWU1VVdxd1h1c0hQMjRSbHBhZ1AwZDlDNDVaRzZ4ODhjZ1ZGLWpncEF0Rl8td0k4YWdoU1NpQzdzSWExN0N4S1BGS0NjUUdDakRicGljV3NmV0dOMWxzWkItUm1JTXk1NkdORnRfdmE2RFhtMkFRWHJRb1dCdThQcmtkdFJlTXlqM0RrbXE2TUdmV1ZmR0NXX3kxc0ZvSVlZMHc?oc=5",
-          "desc": "",
-          "title_en": "Appointment of Seon Jae-sun, Chair Professor, 'Master of Temple Food', Dongguk University",
-          "title_ja": "東国大学「寺院食のマスター」教授Seon Jae - sunの任命",
-          "title_zh": "任命Seon Jae-sun为东国大学“寺庙美食大师”讲座教授"
-        },
-        {
           "title": "bhc, 미국 버지니아 진출…윙·텐더·K푸드 메뉴 선보여",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wMzNpOGsyWnZOcDN6ZkhiRl9jYW1OemFuUEgxNmRIVlByRlVGWXVYM2x0ZWJyNnRFVzZZeVhUMzhuakI4TUFMVE04WnFSeDVKdDFGQUFFeWZ3UdIBVEFVX3lxTE9aNnNUTlA1NTUtOXNTcDc0MFV4aHZUN1lUeVpMaXhjVkxXWTNFc19KNndITzk3dzJkcUFZQm8wbFlMWEx3QzZOUXQ5M1ZzVHRjYWJfYg?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "Dong-A Pharmaceutical Launches Superfood Wellness Solution Brand ‘PHYTERA’",
           "title_ja": "Dong - A Pharmaceutical、スーパーフードウェルネスソリューションブランド「PHYTERA」を発売",
           "title_zh": "东亚药业推出超级食品健康解决方案品牌“PHYTERA”"
+        },
+        {
+          "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 음식 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
+          "desc": "",
+          "title_en": "\"I look ugly when I eat this\" … Food selected by a plastic surgeon [Health! Talk]",
+          "title_ja": "「これを食べると醜く見える」…整形外科医が選んだ食べ物【健康！トーク】",
+          "title_zh": "“我吃这个看起来很丑” ……整形外科医生挑选的食物【健康！说话】"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
         },
         {
-          "title": "외식 통합 솔루션社 글로벌푸드테크, 핀테크 기업 위지온 인수 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vWVFXYlg3bTI0MnloTmxDZmJCWldRT1dJVHFKOTE1N1YtdjV1X1o0bWhxYjN0ei1ISjZUWWl2X3Z1VmtrcE51R2hjWVVFN2xNTzgwQWtPZw?oc=5",
+          "title": "“건강식인 줄 알았는데 아니었다”…의사들은 절대 안 먹는다는 음식, 뭐길래? [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRmtFaUhvTndoYU02UlZJRnkzQ3AtMjdQOHVQTUpxRm9tTmpBejdIQlpHbUx1YU92M3dKaEo5emlybFlBbklsWnJORWVoTzA5RFHSAVNBVV95cUxPMDlwb0NyVXhXdFNjT0Z6LXBRUzd5VG9pZGdwNUNaMWE5YXEtVElpN2xRUFB6b3NCOXAzRWh1Wk1rdnZTMk1CV2N3NXVtRG1kaXUwWQ?oc=5",
           "desc": "",
-          "title_en": "Global Food Tech Acquires Wizion, a FinTech Company, by Dining Integration Solutions [Signal]",
-          "title_ja": "Global Food Tech、Dining Integration Solutionsによりフィンテック企業のWizionを買収[Signal]",
-          "title_zh": "Global Food Tech通过餐饮集成解决方案收购金融科技公司Wizion [Signal]"
+          "title_en": "“I thought it was a healthy diet, but it wasn't” … What kind of food do doctors never eat? [Health Time]",
+          "title_ja": "「健康的な食事だと思っていましたが、そうではありませんでした」…医者はどのような食べ物を食べることはありませんか？ [Health Time]",
+          "title_zh": "“我认为这是一种健康的饮食，但事实并非如此” ……医生从不吃什么样的食物？ [健康时间]"
         }
       ]
     },
@@ -187,14 +187,6 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
-        {
-          "title": "#네팔음식 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xMC1NMUxhZ3RuWmNPY0xTSWRKX2NpTGhvRnFnOFMyQzNneVpiRFNCbVlOWXM0WVVFeFJQT3BDMEJlNngxbHNyYTBnNVd5a3h5aUh1MXFHTGhGcXpEZGIyNE92Umpia0dxQ0RLeHNYV2NvYXJoSkE?oc=5",
-          "desc": "",
-          "title_en": "# Nepalese Food (1 Posts)",
-          "title_ja": "#ネパール料理（ 1件の投稿）",
-          "title_zh": "#尼泊尔美食（ 1篇帖子）"
-        },
         {
           "title": "마가렛트와 복호두가 만났다…롯데웰푸드, 디저트 협업",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZazNxUFpoNkZuaE0tVUkzQ2FCMjlhWng2ZndQdk5BR0ZyLVNmSUhZelZFWUNzaEpsZjNLdEFsQVdSaGlHd3VwUHo3X1Yya1k?oc=5",
@@ -210,6 +202,14 @@
           "title_en": "\"Habituate your curiosity about K foods\"",
           "title_ja": "「K食への好奇心を慣れる」",
           "title_zh": "“习惯你对K食品的好奇心”"
+        },
+        {
+          "title": "코트라, 콜롬비아서 첫 K-푸드 판촉전…50만달러 계약 성과",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0a2JxN1ljM3dFeWdHcjJLNm9xaEJ2dEJTNEJEdWFvd0NQMEs0akJ1WE1QWk0wckZOQXNVRG00d0xPVDk4RkVYVGlGaDhVWnE0ZEE?oc=5",
+          "desc": "",
+          "title_en": "KOTRA, Colombia's First K-Food Promotion… $500,000 Contract Performance",
+          "title_ja": "KOTRA、コロンビア初のK - Foodプロモーション… 50万ドルの契約履行",
+          "title_zh": "KOTRA ，哥伦比亚首个K-Food促销… 50万美元的合同履行"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "지방 태우는 세포가 저장 세포로…패스트푸드의 위험성",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80Qnh4YmNuT3ROOXZFbTR3eW5YUzhTWEhYeVRpYU5pb1FVZFF6MXl5NTd6RWQxUDRWUGFoRXc2aWZwM0FJdVFzVE1HYllEenR2N1VpMUN6MA?oc=5",
+          "desc": "",
+          "title_en": "Fat-burning cells as storage cells… The dangers of fast food",
+          "title_ja": "貯蔵細胞としての脂肪燃焼細胞…ファーストフードの危険性",
+          "title_zh": "燃烧脂肪的细胞作为储存细胞……快餐的危险"
+        },
         {
           "title": "필코노미 시대, 한우도 기분 따라 골라 쓴다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16TFlkWjJZTl9qSUhWemFZUTV0aFlZUkVUa2J5cVNodXR0ZXdyUk1fVHd3dU1YU3gzLW8wMXBKcFhnQlJsS2dzN00wWFRDbmV5cVRaMXcwbw?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "Olive oil, perilla oil, sesame oil, what oil is effective for Koreans?",
           "title_ja": "オリーブオイル、シソオイル、ゴマ油、韓国人にとって効果的なオイルは何ですか？",
           "title_zh": "橄榄油、紫苏油、芝麻油，什么油对韩国人有效？"
-        },
-        {
-          "title": "“7일간 매일 달라지는 혜택”…팀홀튼 ‘캐나다 데이 위크’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ubTZaUk4wajNPYWc4LTVEekZDWWxzQzdHblVaZkRZTFItZWloam92S0dzQ28wYzE0YmxDUVlVTGY3WGVFZXhJSVZoSGIxZ0RfeW1RQVZTSQ?oc=5",
-          "desc": "",
-          "title_en": "“Benefits Vary Every Day for 7 Days” … Timholton ‘Canada Day Week’",
-          "title_ja": "「福利厚生は7日間毎日異なります」…ティムホルトン「カナダ・デー・ウィーク」",
-          "title_zh": "“福利在7天内每天都有所不同” …… Timholton “加拿大日周”"
         }
       ]
     }
