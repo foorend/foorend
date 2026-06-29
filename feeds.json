@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T22:02:32Z",
+  "lastUpdated": "2026-06-29T04:00:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "동아제약, 슈퍼푸드 웰니스 솔루션 브랜드 ‘파이테라(PHYTERA)’ 론칭",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxdk9CV2hSRVBjWHNKZGJySF95Q3dsTEw5bnVjZDBWcFJ5alVwM1c1UUQ1ald1SEVMeDQ2NVJfTDZ5ZzlNemhwMGFLaUNDRGFqVmNKckpZZk5aQdIBVEFVX3lxTFB6N0prWGpVcmJEUVBjS0RkRDRic2NpMGZMNEpsNmZ2Sl9sbzAtM0pjRkc3bWFmZ3BabVl6QU5OZUlCUElYZmYyTjU5RmRSQ3czUFZ2NQ?oc=5",
+          "desc": "",
+          "title_en": "Dong-A Pharmaceutical Launches Superfood Wellness Solution Brand ‘PHYTERA’",
+          "title_ja": "Dong - A Pharmaceutical、スーパーフードウェルネスソリューションブランド「PHYTERA」を発売",
+          "title_zh": "东亚药业推出超级食品健康解决方案品牌“PHYTERA”"
+        },
+        {
           "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 음식 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "“Hot Thai wen shabu shabu” … Samsung CEO's 'The Big Picture' [Submission of Zhang Shouu: hype]",
           "title_ja": "「Hot Thai wen shabu shabu」… Samsung CEOの「The Big Picture」【Zhang Shouu氏の投稿： HYPE】",
           "title_zh": "“Hot Thai wen shabu shabu” …三星首席执行官的“The Big Picture” [张首乌的提交： HYPE]"
-        },
-        {
-          "title": "26일부터 부산푸드필름페스타",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTQ3RXV6V3EzWVpQQ09CbmJ1OFNrT1ZoYlo3eUh1S0JWN1NCVUo1WFl4cUotbmlmVGc3UldFWXpQcy1XaEJPR2dpYlp5Z0JMeW9ncGV1YzNhakpfQmowUV9heVVGbGFINWFIWHZ1Y1hySWswZm02ejVtczdlbGtkNkMwcllnZzJfTWR1b3hBeEdtTUR3eUJ4bV9oam1LTGpIVUdHZXJPVXgxV09mb05v?oc=5",
-          "desc": "",
-          "title_en": "Busan Food Film Festa from the 26th",
-          "title_ja": "26日から釜山のフードフィルムフェスタ",
-          "title_zh": "26日釜山美食电影节"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
         },
         {
-          "title": "“건강식인 줄 알았는데 아니었다”…의사들은 절대 안 먹는다는 음식, 뭐길래? [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRmtFaUhvTndoYU02UlZJRnkzQ3AtMjdQOHVQTUpxRm9tTmpBejdIQlpHbUx1YU92M3dKaEo5emlybFlBbklsWnJORWVoTzA5RFHSAVNBVV95cUxPMDlwb0NyVXhXdFNjT0Z6LXBRUzd5VG9pZGdwNUNaMWE5YXEtVElpN2xRUFB6b3NCOXAzRWh1Wk1rdnZTMk1CV2N3NXVtRG1kaXUwWQ?oc=5",
+          "title": "외식 통합 솔루션社 글로벌푸드테크, 핀테크 기업 위지온 인수 [시그널]",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vWVFXYlg3bTI0MnloTmxDZmJCWldRT1dJVHFKOTE1N1YtdjV1X1o0bWhxYjN0ei1ISjZUWWl2X3Z1VmtrcE51R2hjWVVFN2xNTzgwQWtPZw?oc=5",
           "desc": "",
-          "title_en": "“I thought it was a healthy diet, but it wasn't” … What kind of food do doctors never eat? [Health Time]",
-          "title_ja": "「健康的な食事だと思っていましたが、そうではありませんでした」…医者はどのような食べ物を食べることはありませんか？ [Health Time]",
-          "title_zh": "“我认为这是一种健康的饮食，但事实并非如此” ……医生从不吃什么样的食物？ [健康时间]"
+          "title_en": "Global Food Tech Acquires Wizion, a FinTech Company, by Dining Integration Solutions [Signal]",
+          "title_ja": "Global Food Tech、Dining Integration Solutionsによりフィンテック企業のWizionを買収[Signal]",
+          "title_zh": "Global Food Tech通过餐饮集成解决方案收购金融科技公司Wizion [Signal]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "마가렛트와 복호두가 만났다…롯데웰푸드, 디저트 협업",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZazNxUFpoNkZuaE0tVUkzQ2FCMjlhWng2ZndQdk5BR0ZyLVNmSUhZelZFWUNzaEpsZjNLdEFsQVdSaGlHd3VwUHo3X1Yya1k?oc=5",
+          "desc": "",
+          "title_en": "Margaret and Bok Ho Doo Meet… Lotte Well Food and Dessert Collaboration",
+          "title_ja": "MargaretとBok Ho Dooが出会う…ロッテウェルフードとデザートのコラボレーション",
+          "title_zh": "Margaret和Bok Ho Doo见面……乐天美食和甜点合作"
+        },
         {
           "title": "코트라, 콜롬비아서 첫 K-푸드 판촉전…50만달러 계약 성과",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0a2JxN1ljM3dFeWdHcjJLNm9xaEJ2dEJTNEJEdWFvd0NQMEs0akJ1WE1QWk0wckZOQXNVRG00d0xPVDk4RkVYVGlGaDhVWnE0ZEE?oc=5",
@@ -197,19 +205,11 @@
         },
         {
           "title": "\"K푸드에 대한 호기심을 습관으로 연결시켜야\"",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84dkxjYW4yMWwtTzdxQkFpM1FSRjAzeGZJSUpKTkZNdzA5ajNNSFFkLWZZRzg5cjRKaWNaMjVuUkVjcVZlZUE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iby1USVF5eUhVdk1PUEtSRW85TGxONWNjblFNZERyLS1XaDhuRGxvQU40ODhPcldMOUJxMDdQdEo2MEVJYk9hc2VFN1NvWXFiZ192My1B?oc=5",
           "desc": "",
           "title_en": "\"Habituate your curiosity about K foods\"",
           "title_ja": "「K食への好奇心を慣れる」",
           "title_zh": "“习惯你对K食品的好奇心”"
-        },
-        {
-          "title": "강릉 초당두부, 문체부 'K-푸드로드' 선정…3년간 30억원 확보",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nNnZYbktUUEdvMkVhbFZPZ19mYzlsQ284SGJHMjlyWkVZaTlxaWpDcHNuMHdOQ2xwVnpBaEg4VDZFVU0zZzFTTVlJOEVaVzkyalE?oc=5",
-          "desc": "",
-          "title_en": "Gangneung Chodang Tofu Selected as' K-Food Road 'by the Ministry of Culture… Secured 3 billion won over 3 years",
-          "title_ja": "江陵朝堂豆腐文化省「Kフードロード」に選定… 3年間で30億ウォン確保",
-          "title_zh": "江陵超当豆腐被文化部选为“K-Food Road” … 3年内担保30亿韩元"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
         },
         {
+          "title": "올리브유·들기름·참기름, 한국인에게 효과적인 기름은?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tM2ZpbjBLcEQtSFdIRVl4S0x6aUdlVEZTUlFSYjNJSnExaWxpZGM2LW01Tl9KdnlfNHNKNlpqVy1aRktjRHFsNXZ0VFlpUnFJZXFjQWEyZw?oc=5",
+          "desc": "",
+          "title_en": "Olive oil, perilla oil, sesame oil, what oil is effective for Koreans?",
+          "title_ja": "オリーブオイル、シソオイル、ゴマ油、韓国人にとって効果的なオイルは何ですか？",
+          "title_zh": "橄榄油、紫苏油、芝麻油，什么油对韩国人有效？"
+        },
+        {
           "title": "“브라우니에 고추장 넣어라” 못 말리는 해외 한식 활용법",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XZDRnNnRXZmVhWmo3UmpTTXBqQUhCdXp1b3Y2YkhYc3hqMEtVTWRXWFo1ZWllYTNxeTBDTUFqYU1qOU0taUpDRk0yZHRhdEZiZmtBSUJUbw?oc=5",
           "desc": "",
           "title_en": "How to Use Overseas Korean Food That Can't Be Dried “Put Gochujang in Brownie”",
           "title_ja": "乾燥できない海外韓国料理の使い方「ブラウニーにゴチュジャンを入れる」",
           "title_zh": "如何使用无法干燥的海外韩国食品「把韩式辣椒酱放入布朗尼」"
-        },
-        {
-          "title": "상하농원 진 유정란, 현대카드 ‘2층 구독’ 입점",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uU3NvcVJWbEktZFRPZTQ5NzAwdUdtUFllZUx2ZUVEejA3bm5SVnRXTnVJeHJDakNKN2JxRUhkY0cyNl9oazk1QnJJdDV2M0EtU09vNEtOdw?oc=5",
-          "desc": "",
-          "title_en": "Sang-ha Farmers' Garden Jin Yu Jeong-ran, Hyundai Card ‘2nd Floor Subscription’ Entrance",
-          "title_ja": "Sang - ha Farmers 'Garden Jin Yu Jeong - ran, Hyundai Card‘ 2 nd Floor Subscription ’Entrance",
-          "title_zh": "Sang-ha Farmers 'Garden Jin Yu Jeong-ran ，现代卡“2楼订阅”入口"
         }
       ]
     }
