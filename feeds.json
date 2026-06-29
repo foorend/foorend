@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T15:48:06Z",
+  "lastUpdated": "2026-06-29T19:58:31Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "星巴克计划雇佣数千名新的“咖啡馆教练”"
         },
         {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
-          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
-        },
-        {
           "title": "Chain shutdowns become more common after the pandemic",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQTd3Zkx0T01LNl9Dd093Z05EcGl4V3ppVDZ3RGNjYW91SG00UUp1ZWhZclFyWmFvOFo5VjFsZUdfb0dlbnlPZXR2enhCdVNXVjVYcmN6dHlHT2lCU2d6eGxvTFd1WnVpNXpaaTZyWWlyZE4xTUVpRU5yQ2xBdVZ3TW10ZHZlLUxHaTV5WG9Bd0lvZnV6REloeDhid3o?oc=5",
           "desc": "",
           "title_ko": "팬데믹 이후 체인 셧다운이 더 흔해짐",
           "title_ja": "パンデミック後、チェーンのシャットダウンがより一般的になります",
           "title_zh": "疫情后，连锁关机变得更加普遍"
+        },
+        {
+          "title": "Which restaurant brand is the GOAT at social media?",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2JMSFpzMmlBSk9sWEJfVDBFWm9qVDlVWDRiY1duWEprTkx5VTNHbWJXYXp0dVAzdXhBMzJHMFdqMGZpbUJIcnZGZTBCTkhsam1UZm1zS251dTY5ZnVqaGVZTzlYZ2FGNHFnZnR3TWVELXh5M2dZMERBbk9zVGIyX2tBQ1Y3dkdzcFA1SmFnN3Q5Zw?oc=5",
+          "desc": "",
+          "title_ko": "소셜 미디어에서 염소는 어떤 레스토랑 브랜드입니까?",
+          "title_ja": "ソーシャルメディアでヤギはどのレストランブランドですか？",
+          "title_zh": "社交媒体上的GOAT是哪个餐厅品牌？"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "#네팔음식 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xMC1NMUxhZ3RuWmNPY0xTSWRKX2NpTGhvRnFnOFMyQzNneVpiRFNCbVlOWXM0WVVFeFJQT3BDMEJlNngxbHNyYTBnNVd5a3h5aUh1MXFHTGhGcXpEZGIyNE92Umpia0dxQ0RLeHNYV2NvYXJoSkE?oc=5",
+          "desc": "",
+          "title_en": "# Nepalese Food (1 Posts)",
+          "title_ja": "#ネパール料理（ 1件の投稿）",
+          "title_zh": "#尼泊尔美食（ 1篇帖子）"
+        },
+        {
           "title": "마가렛트와 복호두가 만났다…롯데웰푸드, 디저트 협업",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZazNxUFpoNkZuaE0tVUkzQ2FCMjlhWng2ZndQdk5BR0ZyLVNmSUhZelZFWUNzaEpsZjNLdEFsQVdSaGlHd3VwUHo3X1Yya1k?oc=5",
           "desc": "",
           "title_en": "Margaret and Bok Ho Doo Meet… Lotte Well Food and Dessert Collaboration",
           "title_ja": "MargaretとBok Ho Dooが出会う…ロッテウェルフードとデザートのコラボレーション",
           "title_zh": "Margaret和Bok Ho Doo见面……乐天美食和甜点合作"
-        },
-        {
-          "title": "코트라, 콜롬비아서 첫 K-푸드 판촉전…50만달러 계약 성과",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0a2JxN1ljM3dFeWdHcjJLNm9xaEJ2dEJTNEJEdWFvd0NQMEs0akJ1WE1QWk0wckZOQXNVRG00d0xPVDk4RkVYVGlGaDhVWnE0ZEE?oc=5",
-          "desc": "",
-          "title_en": "KOTRA, Colombia's First K-Food Promotion… $500,000 Contract Performance",
-          "title_ja": "KOTRA、コロンビア初のK - Foodプロモーション… 50万ドルの契約履行",
-          "title_zh": "KOTRA ，哥伦比亚首个K-Food促销… 50万美元的合同履行"
         },
         {
           "title": "\"K푸드에 대한 호기심을 습관으로 연결시켜야\"",
