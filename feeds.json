@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T11:00:44Z",
+  "lastUpdated": "2026-06-29T15:48:06Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "동국대 '사찰음식 명장' 선재스님 석좌교수 임용",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmcySkh5dWF0R2dJUWU1VVdxd1h1c0hQMjRSbHBhZ1AwZDlDNDVaRzZ4ODhjZ1ZGLWpncEF0Rl8td0k4YWdoU1NpQzdzSWExN0N4S1BGS0NjUUdDakRicGljV3NmV0dOMWxzWkItUm1JTXk1NkdORnRfdmE2RFhtMkFRWHJRb1dCdThQcmtkdFJlTXlqM0RrbXE2TUdmV1ZmR0NXX3kxc0ZvSVlZMHc?oc=5",
+          "desc": "",
+          "title_en": "Appointment of Seon Jae-sun, Chair Professor, 'Master of Temple Food', Dongguk University",
+          "title_ja": "東国大学「寺院食のマスター」教授Seon Jae - sunの任命",
+          "title_zh": "任命Seon Jae-sun为东国大学“寺庙美食大师”讲座教授"
+        },
+        {
           "title": "bhc, 미국 버지니아 진출…윙·텐더·K푸드 메뉴 선보여",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wMzNpOGsyWnZOcDN6ZkhiRl9jYW1OemFuUEgxNmRIVlByRlVGWXVYM2x0ZWJyNnRFVzZZeVhUMzhuakI4TUFMVE04WnFSeDVKdDFGQUFFeWZ3UdIBVEFVX3lxTE9aNnNUTlA1NTUtOXNTcDc0MFV4aHZUN1lUeVpMaXhjVkxXWTNFc19KNndITzk3dzJkcUFZQm8wbFlMWEx3QzZOUXQ5M1ZzVHRjYWJfYg?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Dong-A Pharmaceutical Launches Superfood Wellness Solution Brand ‘PHYTERA’",
           "title_ja": "Dong - A Pharmaceutical、スーパーフードウェルネスソリューションブランド「PHYTERA」を発売",
           "title_zh": "东亚药业推出超级食品健康解决方案品牌“PHYTERA”"
-        },
-        {
-          "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 음식 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
-          "desc": "",
-          "title_en": "\"I look ugly when I eat this\" … Food selected by a plastic surgeon [Health! Talk]",
-          "title_ja": "「これを食べると醜く見える」…整形外科医が選んだ食べ物【健康！トーク】",
-          "title_zh": "“我吃这个看起来很丑” ……整形外科医生挑选的食物【健康！说话】"
         }
       ]
     },
