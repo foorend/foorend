@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-06-30T19:59:05Z",
+  "lastUpdated": "2026-06-30T22:14:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Starbucks plans to hire thousands of new ‘coffeehouse coach’ roles",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2JuTzcyeHMwbjJNQzVMNWVVUlo1aUVuWm5tZWw3UEV4cG5ISUwwUzI5b0pRRDlGZzRaQnp2QWhGNTBQUlFkVzEzaGpYMXlBd3hYQjBSME5VVGd2enUzZXA0MXViMWstc3gtQktaaVZwVWZNUzRTS3AtWnkwVDVFRUkxRUxEN2lnclNYamd6UkRndkVNZ1NjQnN0WVMwQjVqV3lKejZqNGc?oc=5",
-          "desc": "",
-          "title_ko": "스타벅스는 수천 명의 새로운 ‘커피 전문점 코치‘ 역할을 고용할 계획입니다.",
-          "title_ja": "スターバックスは、何千もの新しい「コーヒーハウスコーチ」の役割を雇う予定です",
-          "title_zh": "星巴克计划雇佣数千名新的“咖啡馆教练”"
-        },
         {
           "title": "3 restaurant tech fads that faded",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb3ZURk5pdlFCb0NBc2p2MUhOTFhZRlhpZG1xdmRPbG5wTTlieXhPcTJENm0wQUxlaHRqLUsyTXJBTHJPajhtQWpSYWpuS1ltUnMybUFrdlJjdlVVR0xiTXMwcnNuN05Pdl93UWZibXZzbFVxYzhtdlM0QmYzQ1ZVWWhn?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "레스토랑 체인은 인플레이션으로 인해 패배하고 있습니다.",
           "title_ja": "レストランチェーンはインフレとの戦いで敗北しています",
           "title_zh": "连锁餐厅正在与通货膨胀进行一场失败的斗争"
+        },
+        {
+          "title": "Olive Garden's smaller siblings take on a bigger role",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnk1ZHRmeWZVX1hHQTg3c2dSbXpCX2tKTGVXeEF6RlE3dkd6MXNtcjQwTnlUdUdEN085eEhaZU1YTDRSOUc0UU9CeGlJUFJkcjg5dmtzUDdzNkxral9xU080UUhpWGxCSS1uQlhqWTRZTlFSand6aGp2clNHYUJkREo5NWkwUVVpeTY1ZXhVaGtZUVFlUVBLVFNB?oc=5",
+          "desc": "",
+          "title_ko": "올리브 가든의 작은 형제자매가 더 큰 역할을 맡습니다.",
+          "title_ja": "オリーブガーデンの小さな兄弟が大きな役割を果たします",
+          "title_zh": "橄榄园的小兄弟姐妹扮演着更重要的角色"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "现代绿色食品翻新，配有内部咖啡馆「Cafe Greeting」...健康菜单扩展"
         },
         {
-          "title": "롯데웰푸드·日 롯데제과, 합작법인 세운다…신유열 의장 선임",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aWU53dTRSNUtTLU0xQlRqTHhiemZnMHgyY3g2TlphaWRvZEpQRkZZRTVNUEJjNWsyb1VrRmFfVnBQV3Z1YlVHYWJvcW03WHk2RnfSAVNBVV95cUxPTVpTblFkX0lyWnFGMC1mTmdydFBObGF6eUtxZEpqV2Y5aWdLSzFCSTdRSWd3SmY5QzVjeUYtT3ZXd3JCUFNKckp2MTZfSVFMblVMdw?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food and Japan Lotte Confectionery Establish a Joint Venture… Shin Yoo-yeol appointed Chairman",
-          "title_ja": "ロッテウェルフードと日本ロッテ菓子が合弁会社を設立…シン・ユヨルが会長に就任",
-          "title_zh": "乐天Well Food和日本乐天糖果成立合资企业…… Shin Yoo-yeol被任命为董事长"
-        },
-        {
           "title": "“햄·라면 보다 훨씬 안 좋았다”…의사가 꼽은 못생겨지는 음식 1위는 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QktVYkMtelU3UUV2T0IxQkllRkxvTTNmc2FWeGZxazY3M3otWWlRbU9fUkZEdS1qWVFkWmZEVTU1ZW5KYnBxSk1rTEdxWXd1dFHSAVNBVV95cUxNblZ2M0NOT3U5cHk0QWhmZmZGN2ZwYVdwdlZtUm1UTl9NVlNuU1huZTk3OGZXZmhNbXVIVGFYcHlDZXFXbEJTY1dRTmk1bW5paWdGcw?oc=5",
           "desc": "",
           "title_en": "“It was much worse than ham and ramen” … The number one ugly food according to the doctor was [Healthy Time]",
           "title_ja": "「ハムやラーメンよりもずっとひどかった」…医者によると、醜い食べ物のナンバーワンは[Healthy Time]でした",
           "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
+        },
+        {
+          "title": "[열린송현] 푸드테크 산업 ‘창발 생태계’에 달려",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VbXlCLVpkSVNzSlp6REdYakdFeVYyTXI0VGp1c00yaDBFZTNTcFRtMTVFR2lQcko1SlJfZjM5MDhnOXBuMDQtaUNENFBTQ3NKT08w0gFTQVVfeXFMTVVteUItWmRJU3NKWnpER1hqR0V5VjJNcjRUanVzTTJoMEVlM1NwVG0xNUVHaVBySjVKUl9mMzkwOGc5cG4wNC1pQ0Q0UFNDc0pPTzA?oc=5",
+          "desc": "",
+          "title_en": "[Won Song-hyun] It depends on the food tech industry ‘emerging ecosystem’",
+          "title_ja": "【ウォン・ソンヒョン】フードテック業界の「新興エコシステム」次第",
+          "title_zh": "【Won Song-hyun】这取决于食品科技行业的“新兴生态系统”"
         }
       ]
     },
