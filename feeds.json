@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T03:42:29Z",
+  "lastUpdated": "2026-06-30T09:36:59Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -52,12 +52,12 @@
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         },
         {
-          "title": "Here Are the Winners of This Year's National Gingerbread House Competition",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPalpVaFlUdmlLTDRxWGtRQm53Ri1rWHhhenRaaTlHUnZSNU1TOFRkVUt2b3YzV3dHcEVGZ1pNcDdUX2piTzN1WmpkaUgtcE5Jai1sZ1NQc2RUaTFhMG1fazF4NERxd0kzRUY3MzBhTFgxWUJyak1pSk9ITGx2OU9XNVBERXlpZUk?oc=5",
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
           "desc": "",
-          "title_ko": "올해 전국 진저브레드 하우스 대회 우승자는 다음과 같습니다.",
-          "title_ja": "今年の全国ジンジャーブレッドハウスコンペティションの受賞者はこちら",
-          "title_zh": "以下是今年全国姜饼屋比赛的获胜者"
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드, 급식 넘어 사내 카페에도 힘 싣는다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMMWMyWF9uV016MG12Z1BMVFJoNzBsZkNTaUhkOV9fQ2gySlV5NzlhdzJxcjNtRWFZaUZRVTc4NkdvTnRtSWl1X0dWb3piNlJWOGFIdV9ndGpIUdIBVEFVX3lxTE9jbDBCaThKUGxQU00waE9aYVFDSFV4SXg3LURVcUpDb19jaHQydkpSZGRpcm9tR2RiS0FncjZHRWFTV1djWEwtNUZIMmNuWDY5M0lHcw?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, Beyond Feeding, Also Powering In-house Cafes",
+          "title_ja": "ヒュンダイグリーンフード、給餌を超えて、社内カフェにも電力を供給",
+          "title_zh": "现代绿色食品，超越喂养，也为内部咖啡馆提供动力"
+        },
+        {
           "title": "韓 롯데웰푸드·日 롯데제과, 아시아 총괄 합작법인 출범",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TTXFUVmE0ZTZfVFFFRWMzTGQ0QUdpX2w1bE5GaU1BT2x6RzlNS255cm9ibjUwQnl0Skl0WDg3a0h2NXpIRFJKSm96Y2lBZDRtd1BoYlN2NnJvZ9IBVEFVX3lxTE5NSzNCLUxQNFFtLTRZc3IzM1h4MU1GRGxjUG0yWXh1X1NVSC0yVFFCekI3UFQzcUlqaS1USGZESTZYdlA0N2NGdVBFLU5wUUE2Z292SA?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food, in-house cafe business‘ Drive ’… “Strengthen the health concept and renew it completely”",
           "title_ja": "現代グリーンフード、社内カフェ事業「ドライブ」…「健康コンセプトを強化し、完全に刷新する」",
           "title_zh": "现代绿色食品，内部咖啡馆业务“Drive” …… “强化健康理念并彻底更新”"
-        },
-        {
-          "title": "bhc, 미국 버지니아 진출…윙·텐더·K푸드 메뉴 선보여",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wMzNpOGsyWnZOcDN6ZkhiRl9jYW1OemFuUEgxNmRIVlByRlVGWXVYM2x0ZWJyNnRFVzZZeVhUMzhuakI4TUFMVE04WnFSeDVKdDFGQUFFeWZ3UdIBVEFVX3lxTE9aNnNUTlA1NTUtOXNTcDc0MFV4aHZUN1lUeVpMaXhjVkxXWTNFc19KNndITzk3dzJkcUFZQm8wbFlMWEx3QzZOUXQ5M1ZzVHRjYWJfYg?oc=5",
-          "desc": "",
-          "title_en": "bhc launches Wing, Tender, and K-Food menus in Virginia, USA",
-          "title_ja": "bhc、米国バージニア州でウィング、テンダー、Kフードのメニューを開始",
-          "title_zh": "bhc在美国弗吉尼亚州推出Wing、Tender和K-Food菜单"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "외식 통합 솔루션社 글로벌푸드테크, 핀테크 기업 위지온 인수 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vWVFXYlg3bTI0MnloTmxDZmJCWldRT1dJVHFKOTE1N1YtdjV1X1o0bWhxYjN0ei1ISjZUWWl2X3Z1VmtrcE51R2hjWVVFN2xNTzgwQWtPZw?oc=5",
+          "title": "현대그린푸드, 사내 카페 ‘카페 그리팅’으로 새단장...건강 메뉴 확대",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tMzFiaGNYZ0ZicGlnUXE3MXdKQl9YaU9XMWVGYmtOY2gxc2JCbHpqdC0wMW9OdGJ3aWM3VjB3MUNnbGxIWEV0U21hNElQemtjNFJn0gFTQVVfeXFMTi0zMWJoY1hnRmJwaWdRcTcxd0pCX1hpT1cxZUZia05jaDFzYkJsemp0LTAxb050YndpYzdWMHcxQ2dsbEhYRXRTbWE0SVB6a2M0Umc?oc=5",
           "desc": "",
-          "title_en": "Global Food Tech Acquires Wizion, a FinTech Company, by Dining Integration Solutions [Signal]",
-          "title_ja": "Global Food Tech、Dining Integration Solutionsによりフィンテック企業のWizionを買収[Signal]",
-          "title_zh": "Global Food Tech通过餐饮集成解决方案收购金融科技公司Wizion [Signal]"
+          "title_en": "Hyundai Green Food refurbished with in-house cafe ‘Cafe Greeting’... Health menu expanded",
+          "title_ja": "社内カフェ「Cafe Greeting」をリニューアルした現代グリーンフード…健康メニュー拡大",
+          "title_zh": "现代绿色食品翻新，配有内部咖啡馆「Cafe Greeting」...健康菜单扩展"
         },
         {
-          "title": "‘마이케이페스타’ 현장서 만난 김영수 차관 “뷰티·푸드와 함께 제대로 된 K컬처를 보여줘”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fVFI3aWM5Z0N3Q3dpUWpRc1Q2aU5pTWhaT2s1dHloSjdzd05DSkd4WjVoOWZnbDdmVm1kTFg3NGtiajNCVXg1bnhqS3lzbFFFbWfSAVNBVV95cUxNQThrZEtGb3FRV2k3aDVQdktGNlpFS3hXeHVPSkNBWV90WVRxUVhGZTVCemYyQS1PTjVpNmUxNldRRXBWYXRWd0VzRkY0S0FWeHpUTQ?oc=5",
+          "title": "롯데웰푸드·日 롯데제과, 합작법인 세운다…신유열 의장 선임",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aWU53dTRSNUtTLU0xQlRqTHhiemZnMHgyY3g2TlphaWRvZEpQRkZZRTVNUEJjNWsyb1VrRmFfVnBQV3Z1YlVHYWJvcW03WHk2RnfSAVNBVV95cUxPTVpTblFkX0lyWnFGMC1mTmdydFBObGF6eUtxZEpqV2Y5aWdLSzFCSTdRSWd3SmY5QzVjeUYtT3ZXd3JCUFNKckp2MTZfSVFMblVMdw?oc=5",
           "desc": "",
-          "title_en": "Deputy Kim Young-soo, who met at the ’My K-Pesta' site, said, \"Show me the proper K-culture with beauty and food.\"",
-          "title_ja": "「My K - Pesta」サイトで会ったKim Young - soo保安官代理は、「美しさと食べ物を備えた適切なK文化を見せてください」と言いました。",
-          "title_zh": "在“My K-Pesta”网站上见面的副手Kim Young-soo说： “向我展示适当的K文化，美容和美食。”"
+          "title_en": "Lotte Well Food and Japan Lotte Confectionery Establish a Joint Venture… Shin Yoo-yeol appointed Chairman",
+          "title_ja": "ロッテウェルフードと日本ロッテ菓子が合弁会社を設立…シン・ユヨルが会長に就任",
+          "title_zh": "乐天Well Food和日本乐天糖果成立合资企业…… Shin Yoo-yeol被任命为董事长"
         },
         {
-          "title": "외식 통합 솔루션社 글로벌푸드테크, 핀테크 기업 위지온 인수 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iTnQ0MVZlcFd2NFZzVEFCQlRrZGlTbzQ0R2hPWDRROWFiYzBFSDZqNWdicHdVWmNadWpYcjJxcUo2ZUVIZU5aelB2NDFyUi0zdkHSAVNBVV95cUxONXE3N0dmZDV6Q1FwUEliaV92WUFSYThmUXR4dUNhUXV0S2JHVWlVRlhKZEdxclBGYzVSemk1b3dJTlJCdjRfbUhKYUlkbXNkUkNUUQ?oc=5",
+          "title": "“햄·라면 보다 훨씬 안 좋았다”…의사가 꼽은 못생겨지는 음식 1위는 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QktVYkMtelU3UUV2T0IxQkllRkxvTTNmc2FWeGZxazY3M3otWWlRbU9fUkZEdS1qWVFkWmZEVTU1ZW5KYnBxSk1rTEdxWXd1dFHSAVNBVV95cUxNblZ2M0NOT3U5cHk0QWhmZmZGN2ZwYVdwdlZtUm1UTl9NVlNuU1huZTk3OGZXZmhNbXVIVGFYcHlDZXFXbEJTY1dRTmk1bW5paWdGcw?oc=5",
           "desc": "",
-          "title_en": "Global Food Tech Acquires Wizion, a FinTech Company, by Dining Integration Solutions [Signal]",
-          "title_ja": "Global Food Tech、Dining Integration Solutionsによりフィンテック企業のWizionを買収[Signal]",
-          "title_zh": "Global Food Tech通过餐饮集成解决方案收购金融科技公司Wizion [Signal]"
+          "title_en": "“It was much worse than ham and ramen” … The number one ugly food according to the doctor was [Healthy Time]",
+          "title_ja": "「ハムやラーメンよりもずっとひどかった」…医者によると、醜い食べ物のナンバーワンは[Healthy Time]でした",
+          "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
         },
         {
-          "title": "올리브유·들기름·참기름, 한국인에게 효과적인 기름은?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tM2ZpbjBLcEQtSFdIRVl4S0x6aUdlVEZTUlFSYjNJSnExaWxpZGM2LW01Tl9KdnlfNHNKNlpqVy1aRktjRHFsNXZ0VFlpUnFJZXFjQWEyZw?oc=5",
-          "desc": "",
-          "title_en": "Olive oil, perilla oil, sesame oil, what oil is effective for Koreans?",
-          "title_ja": "オリーブオイル、シソオイル、ゴマ油、韓国人にとって効果的なオイルは何ですか？",
-          "title_zh": "橄榄油、紫苏油、芝麻油，什么油对韩国人有效？"
-        },
-        {
           "title": "“7일간 매일 달라지는 혜택”…팀홀튼 ‘캐나다 데이 위크’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ubTZaUk4wajNPYWc4LTVEekZDWWxzQzdHblVaZkRZTFItZWloam92S0dzQ28wYzE0YmxDUVlVTGY3WGVFZXhJSVZoSGIxZ0RfeW1RQVZTSQ?oc=5",
           "desc": "",
           "title_en": "“Benefits Vary Every Day for 7 Days” … Timholton ‘Canada Day Week’",
           "title_ja": "「福利厚生は7日間毎日異なります」…ティムホルトン「カナダ・デー・ウィーク」",
           "title_zh": "“福利在7天内每天都有所不同” …… Timholton “加拿大日周”"
+        },
+        {
+          "title": "이디야도 콤부차…트렌드 맞춘 신제품 선봬",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YUC1BZUxQTUJXTTd0LUFkWFA2MFJCMTdrTVZoUENXUC1FYzhVMnhVMHFRNWcxQXRvNnBlUUpwanpGZENWajJpeU1neFlkam5JZ0RuSEhlYw?oc=5",
+          "desc": "",
+          "title_en": "Ediya too Kombucha… A new product selection tailored to the trend",
+          "title_ja": "EDIYA TOOコンブチャ…トレンドに合わせた新商品セレクション",
+          "title_zh": "Ediya太康普茶……根据潮流量身定制的新产品选择"
         }
       ]
     }
