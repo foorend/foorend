@@ -1,26 +1,10 @@
 {
-  "lastUpdated": "2026-07-01T09:48:04Z",
+  "lastUpdated": "2026-07-01T14:37:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "When it comes to closures, restaurant chains are back to 2019 again",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
-          "desc": "",
-          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
-          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
-          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
-        },
-        {
-          "title": "Restaurant chains are in a losing battle with inflation",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalFsM2FPTHZZYzl3NGE3LTFUVVlUV1cxWEhXa0JaTDhNV21GS0JjNVBxVU1OMHJOQXRtX0lnQzZuckNWRkFENllLSnZoZlFQdlNNUl9kaDB2dnEta2NaRktldHZuSDg2VWY1S2FSeXZZbWpfUFB4aWhFTU9EZ1ZSbWhwckxsN3h2b0M5UnZiUFVVZUpIYkJB?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 체인은 인플레이션으로 인해 패배하고 있습니다.",
-          "title_ja": "レストランチェーンはインフレとの戦いで敗北しています",
-          "title_zh": "连锁餐厅正在与通货膨胀进行一场失败的斗争"
-        },
         {
           "title": "Olive Garden's smaller siblings take on a bigger role",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnk1ZHRmeWZVX1hHQTg3c2dSbXpCX2tKTGVXeEF6RlE3dkd6MXNtcjQwTnlUdUdEN085eEhaZU1YTDRSOUc0UU9CeGlJUFJkcjg5dmtzUDdzNkxral9xU080UUhpWGxCSS1uQlhqWTRZTlFSand6aGp2clNHYUJkREo5NWkwUVVpeTY1ZXhVaGtZUVFlUVBLVFNB?oc=5",
@@ -28,6 +12,22 @@
           "title_ko": "올리브 가든의 작은 형제자매가 더 큰 역할을 맡습니다.",
           "title_ja": "オリーブガーデンの小さな兄弟が大きな役割を果たします",
           "title_zh": "橄榄园的小兄弟姐妹扮演着更重要的角色"
+        },
+        {
+          "title": "Which restaurant brand is the GOAT at social media?",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2JMSFpzMmlBSk9sWEJfVDBFWm9qVDlVWDRiY1duWEprTkx5VTNHbWJXYXp0dVAzdXhBMzJHMFdqMGZpbUJIcnZGZTBCTkhsam1UZm1zS251dTY5ZnVqaGVZTzlYZ2FGNHFnZnR3TWVELXh5M2dZMERBbk9zVGIyX2tBQ1Y3dkdzcFA1SmFnN3Q5Zw?oc=5",
+          "desc": "",
+          "title_ko": "소셜 미디어에서 염소는 어떤 레스토랑 브랜드입니까?",
+          "title_ja": "ソーシャルメディアでヤギはどのレストランブランドですか？",
+          "title_zh": "社交媒体上的GOAT是哪个餐厅品牌？"
+        },
+        {
+          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
+          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
+          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         }
       ]
     },
@@ -74,20 +74,20 @@
           "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
         },
         {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
+          "title": "14 Startups That Will Change The Way You Eat",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtYjlSSW84eEVMTy1xTEhzWkYwQlh2d3ZvYTZSNXBPWTMtc2VNSWJjSjVia2tGOG1kWmZrREg3TlNkbHdPaGtMd3BBM1dacVF6Rms2c2ZJVnFCVnVaZFlweXJn?oc=5",
           "desc": "",
-          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
-          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+          "title_ko": "당신이 먹는 방식을 바꿀 14가지 스타트업",
+          "title_ja": "食べ方を変える14のスタートアップ",
+          "title_zh": "14家将改变您饮食方式的初创公司"
         },
         {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "title": "The oldest restaurant in every state",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDJuV2ZLQWVLdEdPbnNpZ1U3M0JuNnZfTDEtYmNIRzZJUXRSQjl3VS1iZGgyWHRxa0FjQjlKeDBaZWYwV0hnWWlGc0NyVDFJZGI2ZG9WU3pyRTVpOTYybEJadmF5SDloaFB4RmJZQVRxOGZlLWd3Y2xnMVliVkJiTWdySGsxMm1NWnV3ZA?oc=5",
           "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
+          "title_ko": "모든 주에서 가장 오래된 레스토랑",
+          "title_ja": "すべての州で最も古いレストラン",
+          "title_zh": "每个州最古老的餐厅"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "선진, 안성 특산물 활용한 '로컬푸드 상생 사업' 강화",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUGVkNmlGb1ZZMzBkN3NVY2JVa0J0c0N1S2Eyd2ZzMEhFRkVEYVhRZU0zNGYtUmIzTTJWbHRjeUlxNENEMmpNWkF6THVjQ1NQV3paZkhYMUJFUdIBVEFVX3lxTE85Vmd0WFNaNUtzMENZcXVFYkxzRDhkTGNld2lKSzcxVFVVcUkwZ3BSUFJZbWdMTzZNVWJRak16MkpXekFJWUFkcVNtRHdKRGVTNDNMRg?oc=5",
-          "desc": "",
-          "title_en": "Sunjin strengthens' local food win-win business' using Anseong specialty products",
-          "title_ja": "安城特産品を活用した「地元食のウィンウィンビジネス」を強化",
-          "title_zh": "Sunjin利用安城特产加强“本地美食双赢业务”"
-        },
-        {
           "title": "일미푸드, \"미국 시장 겨냥 'K-컵피클' 본격 제품화에 나선다\"",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HdDdsN0prYXdWeFRhY01oa0ZZbXdLNE9uMGJyY0Q2NUxhVHQ5d0ExdDJXc2NtdHV4aXVSYmNKNDUwaVhObmlWZTJUR2cwcXdTSFNVci1zRFFZZ9IBVEFVX3lxTE8temVpOGptVUpLSzIwWmItMTFqNzRBN0xhNWd5YUlnRG5sdXhfSENXOExTTVNlMW1kTXdiTTBDLXFsc2VKb1FfQWlnQXdCVTNmT21PNw?oc=5",
           "desc": "",
           "title_en": "Ilmi Foods, \"K-Cup Pickles will be fully commercialized for the US market\"",
           "title_ja": "Ilmi Foods、「Kカップピクルスは米国市場向けに完全に商品化されます」",
           "title_zh": "Ilmi Foods ， “K-Cup Pickles将在美国市场完全商业化”"
+        },
+        {
+          "title": "선진, 안성 특산물 활용한 '로컬푸드 상생 사업' 강화",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUGVkNmlGb1ZZMzBkN3NVY2JVa0J0c0N1S2Eyd2ZzMEhFRkVEYVhRZU0zNGYtUmIzTTJWbHRjeUlxNENEMmpNWkF6THVjQ1NQV3paZkhYMUJFUdIBVEFVX3lxTE85Vmd0WFNaNUtzMENZcXVFYkxzRDhkTGNld2lKSzcxVFVVcUkwZ3BSUFJZbWdMTzZNVWJRak16MkpXekFJWUFkcVNtRHdKRGVTNDNMRg?oc=5",
+          "desc": "",
+          "title_en": "Sunjin strengthens' local food win-win business' using Anseong specialty products",
+          "title_ja": "安城特産品を活用した「地元食のウィンウィンビジネス」を強化",
+          "title_zh": "Sunjin利用安城特产加强“本地美食双赢业务”"
         },
         {
           "title": "'차세대 수출 효자' K뷰티·K푸드도 잘나간다",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“3초 안에 주우면 괜찮아” 믿었는데…바닥에 떨어진 음식, 먹어도 될까? 실험해 보니 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRG8tVTBXUjBBVmhFLUU5Mm9Rb2ZGOVItUFVycFlINzA4UGllanN5bzRNdER3NUx3Ul9STDctVDdpQ3RjaGRid3lXbTlPaG54ZFHSAVNBVV95cUxNS2NvSWNZUE00YUxkTXAxb3pPVUI5VGtST3ZKRGJwY0RHWnF2Q2IwQmdwbVcwN2JwVkxBY3Y4WjB2Qkg4elQ2OGNZTllSMzZ1NXd4bw?oc=5",
+          "desc": "",
+          "title_en": "I believed “if I pick it up in 3 seconds, I'll be fine”... Can I eat the food that fell on the floor? I experimented with [Health Time].",
+          "title_ja": "「3秒で拾えば大丈夫」と思っていました。床に落ちた食べ物を食べることはできますか？ [Health Time]を試してみました。",
+          "title_zh": "我相信“如果我在3秒钟内拿起它，我会没事的”......我可以吃掉在地板上的食物吗？我尝试过【生命值时间】。"
+        },
+        {
           "title": "롯데웰푸드, 美 팬시푸드쇼서 K푸드 알렸다…북미 공략 가속",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCQ0U5UlE4czBocG84VVZSdVcwbzVKdnFWVzVPZnBYRk1FUmc5RENEMS02ZGtIX2RZWWNNQnUzUzVXWURScFhNcWVlVk5GNkE4Zmtr0gFTQVVfeXFMUEJDRTlSUThzMGhwbzhVVlJ1VzBvNUp2cVZXNU9mcFhGTUVSZzlEQ0QxLTZka0hfZFlZY01CdTNTNVdZRFJwWE1xZWVWTkY2QThma2s?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Hyundai Green Food refurbished with in-house cafe ‘Cafe Greeting’... Health menu expanded",
           "title_ja": "社内カフェ「Cafe Greeting」をリニューアルした現代グリーンフード…健康メニュー拡大",
           "title_zh": "现代绿色食品翻新，配有内部咖啡馆「Cafe Greeting」...健康菜单扩展"
-        },
-        {
-          "title": "롯데웰푸드·日 롯데제과, 합작법인 세운다…신유열 의장 선임",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aWU53dTRSNUtTLU0xQlRqTHhiemZnMHgyY3g2TlphaWRvZEpQRkZZRTVNUEJjNWsyb1VrRmFfVnBQV3Z1YlVHYWJvcW03WHk2RnfSAVNBVV95cUxPTVpTblFkX0lyWnFGMC1mTmdydFBObGF6eUtxZEpqV2Y5aWdLSzFCSTdRSWd3SmY5QzVjeUYtT3ZXd3JCUFNKckp2MTZfSVFMblVMdw?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food and Japan Lotte Confectionery Establish a Joint Venture… Shin Yoo-yeol appointed Chairman",
-          "title_ja": "ロッテウェルフードと日本ロッテ菓子が合弁会社を設立…シン・ユヨルが会長に就任",
-          "title_zh": "乐天Well Food和日本乐天糖果成立合资企业…… Shin Yoo-yeol被任命为董事长"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
         },
         {
+          "title": "올리브유·들기름·참기름, 한국인에게 효과적인 기름은?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tM2ZpbjBLcEQtSFdIRVl4S0x6aUdlVEZTUlFSYjNJSnExaWxpZGM2LW01Tl9KdnlfNHNKNlpqVy1aRktjRHFsNXZ0VFlpUnFJZXFjQWEyZw?oc=5",
+          "desc": "",
+          "title_en": "Olive oil, perilla oil, sesame oil, what oil is effective for Koreans?",
+          "title_ja": "オリーブオイル、シソオイル、ゴマ油、韓国人にとって効果的なオイルは何ですか？",
+          "title_zh": "橄榄油、紫苏油、芝麻油，什么油对韩国人有效？"
+        },
+        {
           "title": "보양식 메뉴 강화…JW 메리어트 동대문 스퀘어 서울, ‘웰니스 셀렉션’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SUjhfUlVOMWxXa2xZV29mOTVuT0VSd0E0d0xobmhNbi1nZDU0d0xhMk81TVNWbF9TZjdXNlJaNVFsSUo1OWtUTTdrYW82ZXFJWVFZTzdFaw?oc=5",
           "desc": "",
           "title_en": "Enhance your menu… JW Marriott Dongdaemun Square Seoul, ‘Wellness Selection’",
           "title_ja": "メニューを充実させよう… JWマリオット東大門スクエアソウル、「ウェルネスセレクション」",
           "title_zh": "提升您的菜单……首尔东大门广场JW万豪酒店， “健康精选”"
-        },
-        {
-          "title": "“7일간 매일 달라지는 혜택”…팀홀튼 ‘캐나다 데이 위크’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ubTZaUk4wajNPYWc4LTVEekZDWWxzQzdHblVaZkRZTFItZWloam92S0dzQ28wYzE0YmxDUVlVTGY3WGVFZXhJSVZoSGIxZ0RfeW1RQVZTSQ?oc=5",
-          "desc": "",
-          "title_en": "“Benefits Vary Every Day for 7 Days” … Timholton ‘Canada Day Week’",
-          "title_ja": "「福利厚生は7日間毎日異なります」…ティムホルトン「カナダ・デー・ウィーク」",
-          "title_zh": "“福利在7天内每天都有所不同” …… Timholton “加拿大日周”"
         }
       ]
     }
