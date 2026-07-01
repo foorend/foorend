@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-07-01T14:37:10Z",
+  "lastUpdated": "2026-07-01T17:13:59Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "When it comes to closures, restaurant chains are back to 2019 again",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
+          "desc": "",
+          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
+          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
+          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
+        },
         {
           "title": "Olive Garden's smaller siblings take on a bigger role",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnk1ZHRmeWZVX1hHQTg3c2dSbXpCX2tKTGVXeEF6RlE3dkd6MXNtcjQwTnlUdUdEN085eEhaZU1YTDRSOUc0UU9CeGlJUFJkcjg5dmtzUDdzNkxral9xU080UUhpWGxCSS1uQlhqWTRZTlFSand6aGp2clNHYUJkREo5NWkwUVVpeTY1ZXhVaGtZUVFlUVBLVFNB?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "소셜 미디어에서 염소는 어떤 레스토랑 브랜드입니까?",
           "title_ja": "ソーシャルメディアでヤギはどのレストランブランドですか？",
           "title_zh": "社交媒体上的GOAT是哪个餐厅品牌？"
-        },
-        {
-          "title": "McDonald’s next evolution includes menu, service and technology upgrades",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQampvYUxxMV90UVBiWmMxa3NTWVNFZnltV3l3NERBd25VbmgydXE4VHE3NWF5My05c3NLR3FURGd2b1RQSmFFREpLVE96WU5ZYzRjNWt2amhleHFYQWlCRVJjUHJXdXU1N244STFfU2J0cnhDWUJjRW5vYjlrWlpVbFVDbTNwazR5X0FhSzVmaWZJWDQxc01vclpsNEpscW9HR1o0QWdjenBJcUJHekZFQXg1aw?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드의 다음 진화에는 메뉴, 서비스 및 기술 업그레이드가 포함됩니다.",
-          "title_ja": "マクドナルドの次の進化には、メニュー、サービス、テクノロジーのアップグレードが含まれます",
-          "title_zh": "麦当劳的下一步发展包括菜单、服务和技术升级"
         }
       ]
     },
@@ -74,20 +74,20 @@
           "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
         },
         {
-          "title": "14 Startups That Will Change The Way You Eat",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtYjlSSW84eEVMTy1xTEhzWkYwQlh2d3ZvYTZSNXBPWTMtc2VNSWJjSjVia2tGOG1kWmZrREg3TlNkbHdPaGtMd3BBM1dacVF6Rms2c2ZJVnFCVnVaZFlweXJn?oc=5",
+          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
           "desc": "",
-          "title_ko": "당신이 먹는 방식을 바꿀 14가지 스타트업",
-          "title_ja": "食べ方を変える14のスタートアップ",
-          "title_zh": "14家将改变您饮食方式的初创公司"
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
         },
         {
-          "title": "The oldest restaurant in every state",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDJuV2ZLQWVLdEdPbnNpZ1U3M0JuNnZfTDEtYmNIRzZJUXRSQjl3VS1iZGgyWHRxa0FjQjlKeDBaZWYwV0hnWWlGc0NyVDFJZGI2ZG9WU3pyRTVpOTYybEJadmF5SDloaFB4RmJZQVRxOGZlLWd3Y2xnMVliVkJiTWdySGsxMm1NWnV3ZA?oc=5",
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
           "desc": "",
-          "title_ko": "모든 주에서 가장 오래된 레스토랑",
-          "title_ja": "すべての州で最も古いレストラン",
-          "title_zh": "每个州最古老的餐厅"
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -196,12 +196,12 @@
           "title_zh": "Carmine Foods同意与美国司法部达成价格一致的指控。无需处罚即可解决"
         },
         {
-          "title": "#미국음식 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xUkVPblptczN6R0lUTkdKdlM4UHM0Qy1MQ0tCNVFmc1gxY1llWEhNcWQ4ek85VU4zUk9qTVNFWHZISk5CV3pWSzJ6UDE0WE9jYmJnc2dad3dBWVE0dVNQQVRUblZfYmJJYjZZVU9OeWRva2JfT1E?oc=5",
+          "title": "#우즈베키스탄음식 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFpKRVJDRl9qRDRSeDdmT21Kdm9TeGMyX2RIa3VvUXk3Nm1VNG1PQndfNFpHRktVLVB5VUdnaDZXaWhFanBCZVBWa0ZOYlpIaFNMMDN2MmdZMmZ6RjI4cHhUZm82OGxENlhybGlrejAxc1haU25hY1doS0licjdjLU9rS0ZUVW5nb2JQNFJkaEpwY1JxbGN6Tk4zWXkzaUdZdnNYNVlNYUt2dlk?oc=5",
           "desc": "",
-          "title_en": "# American (1 Posts)",
-          "title_ja": "# American (1件の投稿)",
-          "title_zh": "# American (1 Posts)"
+          "title_en": "# Uzbek food (1 Posts)",
+          "title_ja": "#ウズベキスタン料理（ 1件の投稿）",
+          "title_zh": "#乌兹别克美食（ 1篇文章）"
         },
         {
           "title": "현대그린푸드, 전국 140곳 … 사내 카페 내달부터 리뉴얼",
