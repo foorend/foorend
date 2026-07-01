@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-07-01T17:13:59Z",
+  "lastUpdated": "2026-07-01T19:56:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "When it comes to closures, restaurant chains are back to 2019 again",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
-          "desc": "",
-          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
-          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
-          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
-        },
         {
           "title": "Olive Garden's smaller siblings take on a bigger role",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnk1ZHRmeWZVX1hHQTg3c2dSbXpCX2tKTGVXeEF6RlE3dkd6MXNtcjQwTnlUdUdEN085eEhaZU1YTDRSOUc0UU9CeGlJUFJkcjg5dmtzUDdzNkxral9xU080UUhpWGxCSS1uQlhqWTRZTlFSand6aGp2clNHYUJkREo5NWkwUVVpeTY1ZXhVaGtZUVFlUVBLVFNB?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "올리브 가든의 작은 형제자매가 더 큰 역할을 맡습니다.",
           "title_ja": "オリーブガーデンの小さな兄弟が大きな役割を果たします",
           "title_zh": "橄榄园的小兄弟姐妹扮演着更重要的角色"
+        },
+        {
+          "title": "When it comes to closures, restaurant chains are back to 2019 again",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
+          "desc": "",
+          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
+          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
+          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
         },
         {
           "title": "Which restaurant brand is the GOAT at social media?",
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "You’re Invited to Eater World’s Fare: A Global Culinary Celebration",
+          "link": "https://www.eater.com/press-room/972262/eater-worlds-fare-announcement",
+          "desc": "Grab your soccer jersey and TSA-approved bottle of ranch, because Eater is hosting a sprawling, one-day-only culinary event — our largest ever! — to c",
+          "title_ko": "세계 음식 맛보기: 글로벌 요리 축제에 초대받으셨습니다.",
+          "title_ja": "注文者の世界的な料理のお祝いに招待されました",
+          "title_zh": "诚邀您参加全球美食盛宴，畅享全球美食盛宴"
+        },
+        {
+          "title": "Overheard at the James Beard Awards",
+          "link": "https://www.eater.com/pre-shift/972376/pre-shift-overheard-james-beard-awards-2026",
+          "desc": "Recently, we partnered with Square for a special Pre Shift Lounge in Chicago before the James Beard Awards. The Pre Shift Lounge is a community hub. W",
+          "title_ko": "제임스 비어드 어워드에서 우연히 들은 이야기",
+          "title_ja": "ジェームズ・ビアード・アワードで聞きました",
+          "title_zh": "无意中听到詹姆斯·比尔德奖"
+        },
+        {
           "title": "After Leading the Kitchen at Atomix, Chef Hasung Lee Debuts His Own NY Restaurant",
           "link": "https://www.eater.com/dining-out/971994/oyatte-now-open-nyc-restaurant",
           "desc": "After more than a decade of working in Michelin-starred kitchens — including helping Atomix earn two Michelin stars and, most recently, a stint at thr",
           "title_ko": "Atomix에서 주방을 이끈 후, Hasung Lee 셰프가 뉴욕 레스토랑 데뷔",
           "title_ja": "Atomixでキッチンをリードした後、シェフのHasung Leeが自身のニューヨークレストランをデビューさせました",
           "title_zh": "在Atomix担任厨房主管后，大厨Hasung Lee开设了自己的纽约餐厅"
-        },
-        {
-          "title": "What ‘The Bear’ Did Right, According to Industry Experts",
-          "link": "https://www.eater.com/food-culture/970985/chefs-reflect-on-the-bear-final-fifth-season",
-          "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
-          "title_ko": "업계 전문가에 따르면 ’곰’ 이 옳은 일을 한 것",
-          "title_ja": "業界の専門家によると、「熊」は何が正しかったのか",
-          "title_zh": "根据行业专家的说法， “熊”做对了什么"
-        },
-        {
-          "title": "Join Eater for an Epic Bang Bang",
-          "link": "https://www.eater.com/press-room/970993/join-eater-for-an-epic-bang-bang",
-          "desc": "We know you love restaurants — now join us for a Bang Bang. The Bang Bang, aka the double dinner, is when a great night out starts at one restaurant a",
-          "title_ko": "Eater에 가입하여 특급 Bang Bang을 즐겨보세요",
-          "title_ja": "Eaterに参加して壮大なBang Bangを手に入れよう",
-          "title_zh": "与食客一起体验史诗般的砰砰声"
         }
       ]
     }
@@ -174,12 +174,12 @@
           "title_zh": "乐天Well Food宣布美国花式食品展K-Food…加速北美攻击"
         },
         {
-          "title": "현대그린푸드, 사내 카페 ‘카페 그리팅’으로 새단장...건강 메뉴 확대",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UeUotUDBoMXZtMjk3SHFTOGtJQ0VvQzQ5UE43a01rb1JMUEFoS2R5cE1GWEp2aE5CSUFDTDZTZWhTY1poRUFnRkhfcE1jWjNOVXfSAVNBVV95cUxOLTMxYmhjWGdGYnBpZ1FxNzF3SkJfWGlPVzFlRmJrTmNoMXNiQmx6anQtMDFvTnRid2ljN1YwdzFDZ2xsSFhFdFNtYTRJUHprYzRSZw?oc=5",
+          "title": "‘79세 최고령 출전’ 오윤생 “맛있는 음식 골고루 먹되 과식 안 하는 게 건강 비결”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44MWVhWmpWVHc0TUJ2MktRUi1LUVNESDhlTE1STWY5TEY1RHNqdDZnT0pwcm9ob3F5SDNOTjRJZGlCRldDb2ZJd1JHRnplWXd5RGw40gFTQVVfeXFMTjgxZWFaalZUdzRNQnYyS1FSLUtRU0RIOGVMTVJNZjlMRjVEc2p0NmdPSnByb2hvcXlIM05ONElkaUJGV0NvZkl3UkdGemVZd3lEbDg?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food refurbished with in-house cafe ‘Cafe Greeting’... Health menu expanded",
-          "title_ja": "社内カフェ「Cafe Greeting」をリニューアルした現代グリーンフード…健康メニュー拡大",
-          "title_zh": "现代绿色食品翻新，配有内部咖啡馆「Cafe Greeting」...健康菜单扩展"
+          "title_en": "‘Exhibiting at the age of 79,’ Oh Yoon-saeng said, “The secret to health is to eat delicious food evenly but not overeat”",
+          "title_ja": "「79歳で出展する」と、オ・ユンセンは「健康の秘訣は、美味しい食べ物を均等に食べることだが、食べ過ぎないことだ」と語った。",
+          "title_zh": "“79岁参展，”吴尹生说， “健康的秘诀是吃均匀的美味食物，但不要吃得太多。”"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Carmine Foods同意与美国司法部达成价格一致的指控。无需处罚即可解决"
         },
         {
+          "title": "#필리핀음식-2 (2 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjgzMjlQakRyR1hrVTNZb0dJeDVaUkFXXzN0TXBUUXhFTU5RYndSSndqVWVfYzNnYXF4bEg5bk4zQUV2MExYMDNPS1ZxWm1xbXJoaXFLa0ZZbzEzd0w5c0x5cjh1Q1FFeVFjTm0yM1diaERlaDNSY0Zud2o1VVRmazQ0TmVJb1Z6b3c?oc=5",
+          "desc": "",
+          "title_en": "# Filipino Food-2 (2 Posts)",
+          "title_ja": "#フィリピン料理-2 （ 2投稿）",
+          "title_zh": "#菲律宾美食-2 （ 2个帖子）"
+        },
+        {
           "title": "#우즈베키스탄음식 (1 Posts)",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFpKRVJDRl9qRDRSeDdmT21Kdm9TeGMyX2RIa3VvUXk3Nm1VNG1PQndfNFpHRktVLVB5VUdnaDZXaWhFanBCZVBWa0ZOYlpIaFNMMDN2MmdZMmZ6RjI4cHhUZm82OGxENlhybGlrejAxc1haU25hY1doS0licjdjLU9rS0ZUVW5nb2JQNFJkaEpwY1JxbGN6Tk4zWXkzaUdZdnNYNVlNYUt2dlk?oc=5",
           "desc": "",
           "title_en": "# Uzbek food (1 Posts)",
           "title_ja": "#ウズベキスタン料理（ 1件の投稿）",
           "title_zh": "#乌兹别克美食（ 1篇文章）"
-        },
-        {
-          "title": "현대그린푸드, 전국 140곳 … 사내 카페 내달부터 리뉴얼",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdmFzS2ZlT1VwNTR1Zm1OM1Y5YklHcGw3d2xNbHpiLUdPMDNrUllVd1RfSEdUYzJrNkdzMlNMZlVhSVhwVDB2bEcyYUFnN083YmRSd2Rn?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, 140 nationwide... In-house cafe renewed from the next month",
-          "title_ja": "ヒュンダイグリーンフード全国140店舗…翌月より社内カフェリニューアル",
-          "title_zh": "现代绿色食品，全国140家......内部咖啡馆从下个月开始续订"
         }
       ]
     },
