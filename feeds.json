@@ -1,95 +1,20 @@
 {
-  "lastUpdated": "2026-07-01T19:56:52Z",
+  "lastUpdated": "2026-07-01T22:17:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "Olive Garden's smaller siblings take on a bigger role",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnk1ZHRmeWZVX1hHQTg3c2dSbXpCX2tKTGVXeEF6RlE3dkd6MXNtcjQwTnlUdUdEN085eEhaZU1YTDRSOUc0UU9CeGlJUFJkcjg5dmtzUDdzNkxral9xU080UUhpWGxCSS1uQlhqWTRZTlFSand6aGp2clNHYUJkREo5NWkwUVVpeTY1ZXhVaGtZUVFlUVBLVFNB?oc=5",
-          "desc": "",
-          "title_ko": "올리브 가든의 작은 형제자매가 더 큰 역할을 맡습니다.",
-          "title_ja": "オリーブガーデンの小さな兄弟が大きな役割を果たします",
-          "title_zh": "橄榄园的小兄弟姐妹扮演着更重要的角色"
-        },
-        {
-          "title": "When it comes to closures, restaurant chains are back to 2019 again",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
-          "desc": "",
-          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
-          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
-          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
-        },
-        {
-          "title": "Which restaurant brand is the GOAT at social media?",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2JMSFpzMmlBSk9sWEJfVDBFWm9qVDlVWDRiY1duWEprTkx5VTNHbWJXYXp0dVAzdXhBMzJHMFdqMGZpbUJIcnZGZTBCTkhsam1UZm1zS251dTY5ZnVqaGVZTzlYZ2FGNHFnZnR3TWVELXh5M2dZMERBbk9zVGIyX2tBQ1Y3dkdzcFA1SmFnN3Q5Zw?oc=5",
-          "desc": "",
-          "title_ko": "소셜 미디어에서 염소는 어떤 레스토랑 브랜드입니까?",
-          "title_ja": "ソーシャルメディアでヤギはどのレストランブランドですか？",
-          "title_zh": "社交媒体上的GOAT是哪个餐厅品牌？"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": [
-        {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
-          "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
-        }
-      ]
+      "items": []
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": [
-        {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
-          "desc": "",
-          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
-          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        }
-      ]
+      "items": []
     },
     "eater": {
       "label": "Eater",
@@ -126,122 +51,22 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "일미푸드, \"미국 시장 겨냥 'K-컵피클' 본격 제품화에 나선다\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HdDdsN0prYXdWeFRhY01oa0ZZbXdLNE9uMGJyY0Q2NUxhVHQ5d0ExdDJXc2NtdHV4aXVSYmNKNDUwaVhObmlWZTJUR2cwcXdTSFNVci1zRFFZZ9IBVEFVX3lxTE8temVpOGptVUpLSzIwWmItMTFqNzRBN0xhNWd5YUlnRG5sdXhfSENXOExTTVNlMW1kTXdiTTBDLXFsc2VKb1FfQWlnQXdCVTNmT21PNw?oc=5",
-          "desc": "",
-          "title_en": "Ilmi Foods, \"K-Cup Pickles will be fully commercialized for the US market\"",
-          "title_ja": "Ilmi Foods、「Kカップピクルスは米国市場向けに完全に商品化されます」",
-          "title_zh": "Ilmi Foods ， “K-Cup Pickles将在美国市场完全商业化”"
-        },
-        {
-          "title": "선진, 안성 특산물 활용한 '로컬푸드 상생 사업' 강화",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUGVkNmlGb1ZZMzBkN3NVY2JVa0J0c0N1S2Eyd2ZzMEhFRkVEYVhRZU0zNGYtUmIzTTJWbHRjeUlxNENEMmpNWkF6THVjQ1NQV3paZkhYMUJFUdIBVEFVX3lxTE85Vmd0WFNaNUtzMENZcXVFYkxzRDhkTGNld2lKSzcxVFVVcUkwZ3BSUFJZbWdMTzZNVWJRak16MkpXekFJWUFkcVNtRHdKRGVTNDNMRg?oc=5",
-          "desc": "",
-          "title_en": "Sunjin strengthens' local food win-win business' using Anseong specialty products",
-          "title_ja": "安城特産品を活用した「地元食のウィンウィンビジネス」を強化",
-          "title_zh": "Sunjin利用安城特产加强“本地美食双赢业务”"
-        },
-        {
-          "title": "'차세대 수출 효자' K뷰티·K푸드도 잘나간다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SbXhrVGFVeFhYOTZnZGphTXREalR6WjZIbmprVVh2NUhRR3lmaDVfTHdEcVVVbUFHWk5fOG4tc0FoaFJuQ000UEpOci1LdUIxTmtFQVBJNlJHZ9IBVEFVX3lxTE9mTTZvNTFGLVhUYXBIN0JHbmRlYU94bkMzM09YTFVmN3lWOW1iOGU5NElGX1EzMENDSDBFTmQ5ZHdEU3RWWE8tMjhxNlppY0dRN1dXVQ?oc=5",
-          "desc": "",
-          "title_en": "'Next-generation export Hyoja' K-beauty · K-food is also good",
-          "title_ja": "「次世代輸出ひょうじゃ」Kビューティー・Kフードもおいしい",
-          "title_zh": "「NEXT GENERATION EXPORT HYOJA」K-beauty · K-food也很好"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": [
-        {
-          "title": "“3초 안에 주우면 괜찮아” 믿었는데…바닥에 떨어진 음식, 먹어도 될까? 실험해 보니 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRG8tVTBXUjBBVmhFLUU5Mm9Rb2ZGOVItUFVycFlINzA4UGllanN5bzRNdER3NUx3Ul9STDctVDdpQ3RjaGRid3lXbTlPaG54ZFHSAVNBVV95cUxNS2NvSWNZUE00YUxkTXAxb3pPVUI5VGtST3ZKRGJwY0RHWnF2Q2IwQmdwbVcwN2JwVkxBY3Y4WjB2Qkg4elQ2OGNZTllSMzZ1NXd4bw?oc=5",
-          "desc": "",
-          "title_en": "I believed “if I pick it up in 3 seconds, I'll be fine”... Can I eat the food that fell on the floor? I experimented with [Health Time].",
-          "title_ja": "「3秒で拾えば大丈夫」と思っていました。床に落ちた食べ物を食べることはできますか？ [Health Time]を試してみました。",
-          "title_zh": "我相信“如果我在3秒钟内拿起它，我会没事的”......我可以吃掉在地板上的食物吗？我尝试过【生命值时间】。"
-        },
-        {
-          "title": "롯데웰푸드, 美 팬시푸드쇼서 K푸드 알렸다…북미 공략 가속",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCQ0U5UlE4czBocG84VVZSdVcwbzVKdnFWVzVPZnBYRk1FUmc5RENEMS02ZGtIX2RZWWNNQnUzUzVXWURScFhNcWVlVk5GNkE4Zmtr0gFTQVVfeXFMUEJDRTlSUThzMGhwbzhVVlJ1VzBvNUp2cVZXNU9mcFhGTUVSZzlEQ0QxLTZka0hfZFlZY01CdTNTNVdZRFJwWE1xZWVWTkY2QThma2s?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Announces US Fancy Food Show K-Food… Accelerating North American Attack",
-          "title_ja": "ロッテウェルフードが米国のファンシーフードショーK - Foodを発表…北米の攻撃を加速",
-          "title_zh": "乐天Well Food宣布美国花式食品展K-Food…加速北美攻击"
-        },
-        {
-          "title": "‘79세 최고령 출전’ 오윤생 “맛있는 음식 골고루 먹되 과식 안 하는 게 건강 비결”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44MWVhWmpWVHc0TUJ2MktRUi1LUVNESDhlTE1STWY5TEY1RHNqdDZnT0pwcm9ob3F5SDNOTjRJZGlCRldDb2ZJd1JHRnplWXd5RGw40gFTQVVfeXFMTjgxZWFaalZUdzRNQnYyS1FSLUtRU0RIOGVMTVJNZjlMRjVEc2p0NmdPSnByb2hvcXlIM05ONElkaUJGV0NvZkl3UkdGemVZd3lEbDg?oc=5",
-          "desc": "",
-          "title_en": "‘Exhibiting at the age of 79,’ Oh Yoon-saeng said, “The secret to health is to eat delicious food evenly but not overeat”",
-          "title_ja": "「79歳で出展する」と、オ・ユンセンは「健康の秘訣は、美味しい食べ物を均等に食べることだが、食べ過ぎないことだ」と語った。",
-          "title_zh": "“79岁参展，”吴尹生说， “健康的秘诀是吃均匀的美味食物，但不要吃得太多。”"
-        }
-      ]
+      "items": []
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": [
-        {
-          "title": "칼마인 푸드, 미 법무부와 가격담합 의혹 합의..벌금 없이 해결",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45VlQ2OXAtMXBxN3FISFFfVzRheHZsU3l0RTBKUEZidkUwY3RBaFBvU052X0UyeDdLdVdMaEZkQ0paY2VCQzMyNlFUX0FZbTVaOHc?oc=5",
-          "desc": "",
-          "title_en": "Carmine Foods Agrees to Allegations of Price Alignment with US Department of Justice.. Resolves Without Penalty",
-          "title_ja": "Carmine Foodsは、米国司法省との価格調整の申し立てに同意します。罰則なしで解決します",
-          "title_zh": "Carmine Foods同意与美国司法部达成价格一致的指控。无需处罚即可解决"
-        },
-        {
-          "title": "#필리핀음식-2 (2 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjgzMjlQakRyR1hrVTNZb0dJeDVaUkFXXzN0TXBUUXhFTU5RYndSSndqVWVfYzNnYXF4bEg5bk4zQUV2MExYMDNPS1ZxWm1xbXJoaXFLa0ZZbzEzd0w5c0x5cjh1Q1FFeVFjTm0yM1diaERlaDNSY0Zud2o1VVRmazQ0TmVJb1Z6b3c?oc=5",
-          "desc": "",
-          "title_en": "# Filipino Food-2 (2 Posts)",
-          "title_ja": "#フィリピン料理-2 （ 2投稿）",
-          "title_zh": "#菲律宾美食-2 （ 2个帖子）"
-        },
-        {
-          "title": "#우즈베키스탄음식 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFpKRVJDRl9qRDRSeDdmT21Kdm9TeGMyX2RIa3VvUXk3Nm1VNG1PQndfNFpHRktVLVB5VUdnaDZXaWhFanBCZVBWa0ZOYlpIaFNMMDN2MmdZMmZ6RjI4cHhUZm82OGxENlhybGlrejAxc1haU25hY1doS0licjdjLU9rS0ZUVW5nb2JQNFJkaEpwY1JxbGN6Tk4zWXkzaUdZdnNYNVlNYUt2dlk?oc=5",
-          "desc": "",
-          "title_en": "# Uzbek food (1 Posts)",
-          "title_ja": "#ウズベキスタン料理（ 1件の投稿）",
-          "title_zh": "#乌兹别克美食（ 1篇文章）"
-        }
-      ]
+      "items": []
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "필코노미 시대, 한우도 기분 따라 골라 쓴다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16TFlkWjJZTl9qSUhWemFZUTV0aFlZUkVUa2J5cVNodXR0ZXdyUk1fVHd3dU1YU3gzLW8wMXBKcFhnQlJsS2dzN00wWFRDbmV5cVRaMXcwbw?oc=5",
-          "desc": "",
-          "title_en": "In the Philkonomy Era, Hanwoo chooses to write according to his mood",
-          "title_ja": "フィルコノミー時代、ハンウーは自分の気分に合わせて書くことを選ぶ",
-          "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
-        },
-        {
-          "title": "올리브유·들기름·참기름, 한국인에게 효과적인 기름은?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tM2ZpbjBLcEQtSFdIRVl4S0x6aUdlVEZTUlFSYjNJSnExaWxpZGM2LW01Tl9KdnlfNHNKNlpqVy1aRktjRHFsNXZ0VFlpUnFJZXFjQWEyZw?oc=5",
-          "desc": "",
-          "title_en": "Olive oil, perilla oil, sesame oil, what oil is effective for Koreans?",
-          "title_ja": "オリーブオイル、シソオイル、ゴマ油、韓国人にとって効果的なオイルは何ですか？",
-          "title_zh": "橄榄油、紫苏油、芝麻油，什么油对韩国人有效？"
-        },
-        {
-          "title": "보양식 메뉴 강화…JW 메리어트 동대문 스퀘어 서울, ‘웰니스 셀렉션’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SUjhfUlVOMWxXa2xZV29mOTVuT0VSd0E0d0xobmhNbi1nZDU0d0xhMk81TVNWbF9TZjdXNlJaNVFsSUo1OWtUTTdrYW82ZXFJWVFZTzdFaw?oc=5",
-          "desc": "",
-          "title_en": "Enhance your menu… JW Marriott Dongdaemun Square Seoul, ‘Wellness Selection’",
-          "title_ja": "メニューを充実させよう… JWマリオット東大門スクエアソウル、「ウェルネスセレクション」",
-          "title_zh": "提升您的菜单……首尔东大门广场JW万豪酒店， “健康精选”"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
