@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-07-02T14:01:28Z",
+  "lastUpdated": "2026-07-02T16:49:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "When it comes to closures, restaurant chains are back to 2019 again",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
+          "desc": "",
+          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
+          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
+          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
+        },
         {
           "title": "Restaurant chains are in a losing battle with inflation",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalFsM2FPTHZZYzl3NGE3LTFUVVlUV1cxWEhXa0JaTDhNV21GS0JjNVBxVU1OMHJOQXRtX0lnQzZuckNWRkFENllLSnZoZlFQdlNNUl9kaDB2dnEta2NaRktldHZuSDg2VWY1S2FSeXZZbWpfUFB4aWhFTU9EZ1ZSbWhwckxsN3h2b0M5UnZiUFVVZUpIYkJB?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
-        },
-        {
-          "title": "Canadian chain Moxies aims to fill upscale-casual void in the U.S.",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMURGdGdUWUhkRGp6U2pmX1VNcHE2TzRsX1ZmVzY5OHIyeUwtVmlZZmdvYnkyOXM5cmgtV1pOQjhKaEx3S3NvRnlBUzBYa2s5OVRnWW50Um1rcWQ3ODRtMW5OaTkzcFVlRXZ5aGVFelpLTXhrS0hMaS1xZjlJdU5NQ29STU11TWFma1BMZElVVzdUS2JIWWc?oc=5",
-          "desc": "",
-          "title_ko": "캐나다 체인 Moxies는 미국에서 고급 캐주얼 공백을 채우는 것을 목표로합니다.",
-          "title_ja": "カナダのチェーンMoxiesは、米国の高級カジュアルな空白を埋めることを目指しています。",
-          "title_zh": "加拿大连锁店Moxies旨在填补美国的高档休闲空白。"
         }
       ]
     },
@@ -35,6 +35,14 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
+        {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -50,14 +58,6 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "When Did Making Reservations Get So Annoying?",
+          "link": "https://www.eater.com/trends/972511/why-its-so-annoying-to-make-reservations-now-resy-opentable-doordash-tock",
+          "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
+          "title_ko": "언제부터 예약이 귀찮아졌나요?",
+          "title_ja": "予約が面倒くさいようになったのはいつですか？",
+          "title_zh": "预订什么时候变得如此烦人？"
+        },
+        {
           "title": "You’re Invited to Eater World’s Fare: A Global Culinary Celebration",
           "link": "https://www.eater.com/press-room/972262/eater-worlds-fare-announcement",
           "desc": "Grab your soccer jersey and TSA-approved bottle of ranch, because Eater is hosting a sprawling, one-day-only culinary event — our largest ever! — to c",
@@ -110,14 +118,6 @@
           "title_ko": "제임스 비어드 어워드에서 우연히 들은 이야기",
           "title_ja": "ジェームズ・ビアード・アワードで聞きました",
           "title_zh": "无意中听到詹姆斯·比尔德奖"
-        },
-        {
-          "title": "After Leading the Kitchen at Atomix, Chef Hasung Lee Debuts His Own NY Restaurant",
-          "link": "https://www.eater.com/dining-out/971994/oyatte-now-open-nyc-restaurant",
-          "desc": "After more than a decade of working in Michelin-starred kitchens — including helping Atomix earn two Michelin stars and, most recently, a stint at thr",
-          "title_ko": "Atomix에서 주방을 이끈 후, Hasung Lee 셰프가 뉴욕 레스토랑 데뷔",
-          "title_ja": "Atomixでキッチンをリードした後、シェフのHasung Leeが自身のニューヨークレストランをデビューさせました",
-          "title_zh": "在Atomix担任厨房主管后，大厨Hasung Lee开设了自己的纽约餐厅"
         }
       ]
     }
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "#필리핀음식-2 (2 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2NQQ3YxVnl6TjhRQWdzZEdMSkgtVGRDcUNGa0VtLUxKQXA2eElTaVkyVnhWVG0zcGZkLVFyWEpFMTZYWVM2X2w2U1h0OFI1NmRDbDhDc29OakNZc2VoTlJVNklhVGJNcUZJVm5zRzJFdzhtdzN3SW1ETGtCRmhYUGlHMEU?oc=5",
-          "desc": "",
-          "title_en": "# Filipino Food-2 (2 Posts)",
-          "title_ja": "#フィリピン料理-2 （ 2投稿）",
-          "title_zh": "#菲律宾美食-2 （ 2个帖子）"
-        },
-        {
           "title": "#스페인음식 (1 Posts)",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkdiUkZIY3dnOWdQenlPU09LcFc4RjlaTG1GM09SaHNVRjU1QjJXU3pFSl9adDlOZVBIU1ZMVmNHSzB0Yi1RczRyWDRfYjFyaWJwMFdjNlFVV0JMc1dEZllXQUVmV3F1YVVhS2lBWlg0NWppTjROaWhrODFfWDY0VVNR?oc=5",
           "desc": "",
@@ -204,12 +196,20 @@
           "title_zh": "# Spanish (1 Posts)"
         },
         {
-          "title": "현대그린푸드, 전국 140곳 사내 카페 이달부터 리뉴얼",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdmFzS2ZlT1VwNTR1Zm1OM1Y5YklHcGw3d2xNbHpiLUdPMDNrUllVd1RfSEdUYzJrNkdzMlNMZlVhSVhwVDB2bEcyYUFnN083YmRSd2Rn?oc=5",
+          "title": "칼마인 푸드, 미 법무부와 가격담합 의혹 합의..벌금 없이 해결",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45VlQ2OXAtMXBxN3FISFFfVzRheHZsU3l0RTBKUEZidkUwY3RBaFBvU052X0UyeDdLdVdMaEZkQ0paY2VCQzMyNlFUX0FZbTVaOHc?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food, 140 in-house cafes nationwide renewed this month",
-          "title_ja": "ヒュンダイグリーンフード、全国140店舗のカフェが今月リニューアル",
-          "title_zh": "现代绿色食品，本月在全国范围内更新了140家内部咖啡馆"
+          "title_en": "Carmine Foods Agrees to Allegations of Price Alignment with US Department of Justice.. Resolves Without Penalty",
+          "title_ja": "Carmine Foodsは、米国司法省との価格調整の申し立てに同意します。罰則なしで解決します",
+          "title_zh": "Carmine Foods同意与美国司法部达成价格一致的指控。无需处罚即可解决"
+        },
+        {
+          "title": "#필리핀음식-2 (2 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjgzMjlQakRyR1hrVTNZb0dJeDVaUkFXXzN0TXBUUXhFTU5RYndSSndqVWVfYzNnYXF4bEg5bk4zQUV2MExYMDNPS1ZxWm1xbXJoaXFLa0ZZbzEzd0w5c0x5cjh1Q1FFeVFjTm0yM1diaERlaDNSY0Zud2o1VVRmazQ0TmVJb1Z6b3c?oc=5",
+          "desc": "",
+          "title_en": "# Filipino Food-2 (2 Posts)",
+          "title_ja": "#フィリピン料理-2 （ 2投稿）",
+          "title_zh": "#菲律宾美食-2 （ 2个帖子）"
         }
       ]
     },
