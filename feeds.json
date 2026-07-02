@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T03:39:07Z",
+  "lastUpdated": "2026-07-02T08:56:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
         },
         {
+          "title": "Restaurant chains are in a losing battle with inflation",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalFsM2FPTHZZYzl3NGE3LTFUVVlUV1cxWEhXa0JaTDhNV21GS0JjNVBxVU1OMHJOQXRtX0lnQzZuckNWRkFENllLSnZoZlFQdlNNUl9kaDB2dnEta2NaRktldHZuSDg2VWY1S2FSeXZZbWpfUFB4aWhFTU9EZ1ZSbWhwckxsN3h2b0M5UnZiUFVVZUpIYkJB?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑 체인은 인플레이션으로 인해 패배하고 있습니다.",
+          "title_ja": "レストランチェーンはインフレとの戦いで敗北しています",
+          "title_zh": "连锁餐厅正在与通货膨胀进行一场失败的斗争"
+        },
+        {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
-        },
-        {
-          "title": "Canadian chain Moxies aims to fill upscale-casual void in the U.S.",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMURGdGdUWUhkRGp6U2pmX1VNcHE2TzRsX1ZmVzY5OHIyeUwtVmlZZmdvYnkyOXM5cmgtV1pOQjhKaEx3S3NvRnlBUzBYa2s5OVRnWW50Um1rcWQ3ODRtMW5OaTkzcFVlRXZ5aGVFelpLTXhrS0hMaS1xZjlJdU5NQ29STU11TWFma1BMZElVVzdUS2JIWWc?oc=5",
-          "desc": "",
-          "title_ko": "캐나다 체인 Moxies는 미국에서 고급 캐주얼 공백을 채우는 것을 목표로합니다.",
-          "title_ja": "カナダのチェーンMoxiesは、米国の高級カジュアルな空白を埋めることを目指しています。",
-          "title_zh": "加拿大连锁店Moxies旨在填补美国的高档休闲空白。"
         }
       ]
     },
@@ -35,14 +35,6 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
-        {
-          "title": "How to Make a Negroni, According to Stanley Tucci",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpZGZJdkRHeDlJZWdnQVpTV01sTTc3cnJQNERvY25qNTdCbENYbF9VekZVdDhQWGxNbUVEWVJUR1UtanFvcW1sWkJmcm5LdlJpMDRqUElrWGhiSjNVM0ZHeE9HZXFiZnFMbWw4?oc=5",
-          "desc": "",
-          "title_ko": "스탠리 투치 (Stanley Tucci) 가 알려주는 네그로니 만드는 법",
-          "title_ja": "Stanley Tucciによるネグローニの作り方",
-          "title_zh": "根据Stanley Tucci的说法，如何制作Negroni"
-        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "급락장 속 피난처 된 소비재...'K푸드' 식품주 강세",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sMnFXcUUtWEdqcXVEaTRia05vY1R4ek5FY2NZUGVkclNtUTRCb0Nkc2RnWHhZb2lOZHJ3RU9jTVZsYTJpOU1LbVVVWHBkQzNJYVBLU3ZwdnNnd9IBVEFVX3lxTE9FaFpoakhFT3QzZk1XMFJIaEJQcjg1WG5pcGVzQkJOOVJpR0dIbFVwUktQOFpPYlFySm81djJhbnNySEFnWTZFaG1mbFUzeXlfdTJEUw?oc=5",
+          "desc": "",
+          "title_en": "Consumer goods sheltered in plunges... 'K Foods' food stocks strong",
+          "title_ja": "急落の中で保護された消費財...「K Foods」の食料在庫は好調",
+          "title_zh": "消费品躲在暴跌中... 'K Foods'食品库存强劲"
+        },
+        {
           "title": "롯데웰푸드 설레임, 기안84와 3000명 규모 '설레임런' 개최",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZaER1MmZ4Qmgxak1mRXMtclpCaVZIcnpqZGFJZlFQdC1tRTJrRlgxdWNGWHVyV1NBWTRVRUlxSDVMQkUxRngtMHFRZGxWMzhYczQxV1VhcTBjQdIBVEFVX3lxTFBMZklOdG1YN2dFTFFvck9KNVl2cDdSMmZyYTM5azFPLUVDRlRILUhKSmUwcTNlei1qMXdXMVl2a2ozVGRrV3F1UlZxRi1HNmJPRjd5Sw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food Opens Basil Festa at ‘Italy’",
           "title_ja": "現代グリーンフードが「イタリア」でバジルフェスタをオープン",
           "title_zh": "现代绿色食品在“意大利”开设罗勒节"
-        },
-        {
-          "title": "일미푸드, \"미국 시장 겨냥 'K-컵피클' 본격 제품화에 나선다\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HdDdsN0prYXdWeFRhY01oa0ZZbXdLNE9uMGJyY0Q2NUxhVHQ5d0ExdDJXc2NtdHV4aXVSYmNKNDUwaVhObmlWZTJUR2cwcXdTSFNVci1zRFFZZ9IBVEFVX3lxTE8temVpOGptVUpLSzIwWmItMTFqNzRBN0xhNWd5YUlnRG5sdXhfSENXOExTTVNlMW1kTXdiTTBDLXFsc2VKb1FfQWlnQXdCVTNmT21PNw?oc=5",
-          "desc": "",
-          "title_en": "Ilmi Foods, \"K-Cup Pickles will be fully commercialized for the US market\"",
-          "title_ja": "Ilmi Foods、「Kカップピクルスは米国市場向けに完全に商品化されます」",
-          "title_zh": "Ilmi Foods ， “K-Cup Pickles将在美国市场完全商业化”"
         }
       ]
     },
@@ -189,7 +189,7 @@
       "items": [
         {
           "title": "#스페인음식 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaXhMZDBEZ2kyQ3pFaWh5TUVGbVZBYVJOSlZaY1gxWUhIV0s1SHBHb3ZaSmdHVXBCM0VnU1Q2ZHhlV1FJVFlsTF9mNWwtWm52ZXNxNXliWG9hdzJsQjRCODFLajRXcVZsMFNIM19LUjJuWGJka0YzNzVDRW1VRjhuV1BLSy1pQ00?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkdiUkZIY3dnOWdQenlPU09LcFc4RjlaTG1GM09SaHNVRjU1QjJXU3pFSl9adDlOZVBIU1ZMVmNHSzB0Yi1RczRyWDRfYjFyaWJwMFdjNlFVV0JMc1dEZllXQUVmV3F1YVVhS2lBWlg0NWppTjROaWhrODFfWDY0VVNR?oc=5",
           "desc": "",
           "title_en": "# Spanish (1 Posts)",
           "title_ja": "#スペイン語(1件の投稿)",
@@ -226,12 +226,12 @@
           "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
         },
         {
-          "title": "올리브유·들기름·참기름, 한국인에게 효과적인 기름은?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tM2ZpbjBLcEQtSFdIRVl4S0x6aUdlVEZTUlFSYjNJSnExaWxpZGM2LW01Tl9KdnlfNHNKNlpqVy1aRktjRHFsNXZ0VFlpUnFJZXFjQWEyZw?oc=5",
+          "title": "‘배홍동막국수’, 인천공항 라운지서 즐긴다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MS1pHOHhVZGlyS2ZqdDQ1MFpHTUhWQm9NamFSZmR3NjRnUy1US0VRaDlqaXpabkpqNTFQMVk2SWtQeE40Tk83SXQxQnJmMGlZdU5Sb3k5TQ?oc=5",
           "desc": "",
-          "title_en": "Olive oil, perilla oil, sesame oil, what oil is effective for Koreans?",
-          "title_ja": "オリーブオイル、シソオイル、ゴマ油、韓国人にとって効果的なオイルは何ですか？",
-          "title_zh": "橄榄油、紫苏油、芝麻油，什么油对韩国人有效？"
+          "title_en": "‘Baehongdongmakguksu‘, I enjoy in the lounge of Incheon Airport",
+          "title_ja": "「Baehongdongmakguksu」、仁川空港のラウンジで楽しむ",
+          "title_zh": "「Baehongdongmakguksu」，我在仁川机场的休息室享受"
         },
         {
           "title": "보양식 메뉴 강화…JW 메리어트 동대문 스퀘어 서울, ‘웰니스 셀렉션’",
