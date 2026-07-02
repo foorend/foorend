@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-07-02T16:49:17Z",
+  "lastUpdated": "2026-07-02T19:24:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "When it comes to closures, restaurant chains are back to 2019 again",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
-          "desc": "",
-          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
-          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
-          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
-        },
         {
           "title": "Restaurant chains are in a losing battle with inflation",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalFsM2FPTHZZYzl3NGE3LTFUVVlUV1cxWEhXa0JaTDhNV21GS0JjNVBxVU1OMHJOQXRtX0lnQzZuckNWRkFENllLSnZoZlFQdlNNUl9kaDB2dnEta2NaRktldHZuSDg2VWY1S2FSeXZZbWpfUFB4aWhFTU9EZ1ZSbWhwckxsN3h2b0M5UnZiUFVVZUpIYkJB?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "레스토랑 체인은 인플레이션으로 인해 패배하고 있습니다.",
           "title_ja": "レストランチェーンはインフレとの戦いで敗北しています",
           "title_zh": "连锁餐厅正在与通货膨胀进行一场失败的斗争"
+        },
+        {
+          "title": "When it comes to closures, restaurant chains are back to 2019 again",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
+          "desc": "",
+          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
+          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
+          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
         },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
@@ -96,14 +96,6 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "When Did Making Reservations Get So Annoying?",
-          "link": "https://www.eater.com/trends/972511/why-its-so-annoying-to-make-reservations-now-resy-opentable-doordash-tock",
-          "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
-          "title_ko": "언제부터 예약이 귀찮아졌나요?",
-          "title_ja": "予約が面倒くさいようになったのはいつですか？",
-          "title_zh": "预订什么时候变得如此烦人？"
-        },
-        {
           "title": "You’re Invited to Eater World’s Fare: A Global Culinary Celebration",
           "link": "https://www.eater.com/press-room/972262/eater-worlds-fare-announcement",
           "desc": "Grab your soccer jersey and TSA-approved bottle of ranch, because Eater is hosting a sprawling, one-day-only culinary event — our largest ever! — to c",
@@ -118,6 +110,14 @@
           "title_ko": "제임스 비어드 어워드에서 우연히 들은 이야기",
           "title_ja": "ジェームズ・ビアード・アワードで聞きました",
           "title_zh": "无意中听到詹姆斯·比尔德奖"
+        },
+        {
+          "title": "After Leading the Kitchen at Atomix, Chef Hasung Lee Debuts His Own NY Restaurant",
+          "link": "https://www.eater.com/dining-out/971994/oyatte-now-open-nyc-restaurant",
+          "desc": "After more than a decade of working in Michelin-starred kitchens — including helping Atomix earn two Michelin stars and, most recently, a stint at thr",
+          "title_ko": "Atomix에서 주방을 이끈 후, Hasung Lee 셰프가 뉴욕 레스토랑 데뷔",
+          "title_ja": "Atomixでキッチンをリードした後、シェフのHasung Leeが自身のニューヨークレストランをデビューさせました",
+          "title_zh": "在Atomix担任厨房主管后，大厨Hasung Lee开设了自己的纽约餐厅"
         }
       ]
     }
@@ -188,12 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "#스페인음식 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkdiUkZIY3dnOWdQenlPU09LcFc4RjlaTG1GM09SaHNVRjU1QjJXU3pFSl9adDlOZVBIU1ZMVmNHSzB0Yi1RczRyWDRfYjFyaWJwMFdjNlFVV0JMc1dEZllXQUVmV3F1YVVhS2lBWlg0NWppTjROaWhrODFfWDY0VVNR?oc=5",
+          "title": "주식회사 현대그린푸드 기업설명회(IR) 개최(안내공시)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FQWx6a0Rjam9pV0JKRThiMlVWdFRESmVoUTdZSGJVMXREOXJld1YtNWRYY1F2RHc0WEFHMzJkYWs5WU1ya05JZVdTcVVLbGJiNFFJZ1FVbUFGUkE?oc=5",
           "desc": "",
-          "title_en": "# Spanish (1 Posts)",
-          "title_ja": "#スペイン語(1件の投稿)",
-          "title_zh": "# Spanish (1 Posts)"
+          "title_en": "Hyundai Green Food Co., Ltd. (IR) Holding (Guidance Disclosure)",
+          "title_ja": "現代グリーンフード株式会社（ IR ）ホールディングス（ガイダンス開示）",
+          "title_zh": "现代绿色食品股份有限公司（ IR ）控股（指引披露）"
         },
         {
           "title": "칼마인 푸드, 미 법무부와 가격담합 의혹 합의..벌금 없이 해결",
@@ -204,12 +204,12 @@
           "title_zh": "Carmine Foods同意与美国司法部达成价格一致的指控。无需处罚即可解决"
         },
         {
-          "title": "#필리핀음식-2 (2 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjgzMjlQakRyR1hrVTNZb0dJeDVaUkFXXzN0TXBUUXhFTU5RYndSSndqVWVfYzNnYXF4bEg5bk4zQUV2MExYMDNPS1ZxWm1xbXJoaXFLa0ZZbzEzd0w5c0x5cjh1Q1FFeVFjTm0yM1diaERlaDNSY0Zud2o1VVRmazQ0TmVJb1Z6b3c?oc=5",
+          "title": "현대그린푸드, 전국 140곳 사내 카페 이달부터 리뉴얼",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdmFzS2ZlT1VwNTR1Zm1OM1Y5YklHcGw3d2xNbHpiLUdPMDNrUllVd1RfSEdUYzJrNkdzMlNMZlVhSVhwVDB2bEcyYUFnN083YmRSd2Rn?oc=5",
           "desc": "",
-          "title_en": "# Filipino Food-2 (2 Posts)",
-          "title_ja": "#フィリピン料理-2 （ 2投稿）",
-          "title_zh": "#菲律宾美食-2 （ 2个帖子）"
+          "title_en": "Hyundai Green Food, 140 in-house cafes nationwide renewed this month",
+          "title_ja": "ヒュンダイグリーンフード、全国140店舗のカフェが今月リニューアル",
+          "title_zh": "现代绿色食品，本月在全国范围内更新了140家内部咖啡馆"
         }
       ]
     },
