@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-07-02T11:37:45Z",
+  "lastUpdated": "2026-07-02T14:01:28Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "When it comes to closures, restaurant chains are back to 2019 again",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
-          "desc": "",
-          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
-          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
-          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
-        },
         {
           "title": "Restaurant chains are in a losing battle with inflation",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalFsM2FPTHZZYzl3NGE3LTFUVVlUV1cxWEhXa0JaTDhNV21GS0JjNVBxVU1OMHJOQXRtX0lnQzZuckNWRkFENllLSnZoZlFQdlNNUl9kaDB2dnEta2NaRktldHZuSDg2VWY1S2FSeXZZbWpfUFB4aWhFTU9EZ1ZSbWhwckxsN3h2b0M5UnZiUFVVZUpIYkJB?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+        },
+        {
+          "title": "Canadian chain Moxies aims to fill upscale-casual void in the U.S.",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMURGdGdUWUhkRGp6U2pmX1VNcHE2TzRsX1ZmVzY5OHIyeUwtVmlZZmdvYnkyOXM5cmgtV1pOQjhKaEx3S3NvRnlBUzBYa2s5OVRnWW50Um1rcWQ3ODRtMW5OaTkzcFVlRXZ5aGVFelpLTXhrS0hMaS1xZjlJdU5NQ29STU11TWFma1BMZElVVzdUS2JIWWc?oc=5",
+          "desc": "",
+          "title_ko": "캐나다 체인 Moxies는 미국에서 고급 캐주얼 공백을 채우는 것을 목표로합니다.",
+          "title_ja": "カナダのチェーンMoxiesは、米国の高級カジュアルな空白を埋めることを目指しています。",
+          "title_zh": "加拿大连锁店Moxies旨在填补美国的高档休闲空白。"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "现代绿色食品在“意大利”开设罗勒节"
         },
         {
-          "title": "선진, 안성 특산물 활용한 '로컬푸드 상생 사업' 강화",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUGVkNmlGb1ZZMzBkN3NVY2JVa0J0c0N1S2Eyd2ZzMEhFRkVEYVhRZU0zNGYtUmIzTTJWbHRjeUlxNENEMmpNWkF6THVjQ1NQV3paZkhYMUJFUdIBVEFVX3lxTE85Vmd0WFNaNUtzMENZcXVFYkxzRDhkTGNld2lKSzcxVFVVcUkwZ3BSUFJZbWdMTzZNVWJRak16MkpXekFJWUFkcVNtRHdKRGVTNDNMRg?oc=5",
+          "title": "'차세대 수출 효자' K뷰티·K푸드도 잘나간다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SbXhrVGFVeFhYOTZnZGphTXREalR6WjZIbmprVVh2NUhRR3lmaDVfTHdEcVVVbUFHWk5fOG4tc0FoaFJuQ000UEpOci1LdUIxTmtFQVBJNlJHZ9IBVEFVX3lxTE9mTTZvNTFGLVhUYXBIN0JHbmRlYU94bkMzM09YTFVmN3lWOW1iOGU5NElGX1EzMENDSDBFTmQ5ZHdEU3RWWE8tMjhxNlppY0dRN1dXVQ?oc=5",
           "desc": "",
-          "title_en": "Sunjin strengthens' local food win-win business' using Anseong specialty products",
-          "title_ja": "安城特産品を活用した「地元食のウィンウィンビジネス」を強化",
-          "title_zh": "Sunjin利用安城特产加强“本地美食双赢业务”"
+          "title_en": "'Next-generation export Hyoja' K-beauty · K-food is also good",
+          "title_ja": "「次世代輸出ひょうじゃ」Kビューティー・Kフードもおいしい",
+          "title_zh": "「NEXT GENERATION EXPORT HYOJA」K-beauty · K-food也很好"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "【旋转】味觉半导体， K食品"
         },
         {
+          "title": "[로터리] 맛의 반도체, K푸드",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dHBoTVNma2EwQUNtcW4wdVc1eDJrYWZrYmluaUl2RmdieEFmbW9fbGl3d3Fwc244QW9XZnlrS3NhcXRGUzJnVWh1WHA5RldrZ0E40gFTQVVfeXFMUHV0cGhNU2ZrYTBBQ21xbjB1VzV4MmthZmtiaW5pSXZGZ2J4QWZtb19saXd3cXBzbjhBb1dmeWtLc2FxdEZTMmdVaHVYcDlGV2tnQTg?oc=5",
+          "desc": "",
+          "title_en": "[Rotary] Taste semiconductor, K food",
+          "title_ja": "【ロータリー】味覚半導体、K食",
+          "title_zh": "【旋转】味觉半导体， K食品"
+        },
+        {
           "title": "“3초 안에 주우면 괜찮아” 믿었는데…바닥에 떨어진 음식, 먹어도 될까? 실험해 보니 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRG8tVTBXUjBBVmhFLUU5Mm9Rb2ZGOVItUFVycFlINzA4UGllanN5bzRNdER3NUx3Ul9STDctVDdpQ3RjaGRid3lXbTlPaG54ZFHSAVNBVV95cUxNS2NvSWNZUE00YUxkTXAxb3pPVUI5VGtST3ZKRGJwY0RHWnF2Q2IwQmdwbVcwN2JwVkxBY3Y4WjB2Qkg4elQ2OGNZTllSMzZ1NXd4bw?oc=5",
           "desc": "",
           "title_en": "I believed “if I pick it up in 3 seconds, I'll be fine”... Can I eat the food that fell on the floor? I experimented with [Health Time].",
           "title_ja": "「3秒で拾えば大丈夫」と思っていました。床に落ちた食べ物を食べることはできますか？ [Health Time]を試してみました。",
           "title_zh": "我相信“如果我在3秒钟内拿起它，我会没事的”......我可以吃掉在地板上的食物吗？我尝试过【生命值时间】。"
-        },
-        {
-          "title": "농협은행의 푸드테크 지원…매출 300억대 기업 키웠다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TWTREN2xWYWtiN0RFOXpoRXE3WG1HNXNSYUZRTzI5N1E0a0JQdjFVRVp5WmxpQjY4dHZrS1lmQm5JTEtISVZIX2NScXY0SmFfaFHSAVNBVV95cUxQdjhacENrbjdzRHVpR1htRUNKY3RXLWhrWWxXdUNVTy12Q2JxS3l1ZV82bmNMQ0g4SEJkRFVmSE42dTNQMG4yMjdxbURSUTRIRm9vMA?oc=5",
-          "desc": "",
-          "title_en": "Nonghyup Bank's Food Tech Support… Raised Revenue to 30 Billion Companies",
-          "title_ja": "ノンヒュップ銀行のフードテクニカルサポート… 300億社に収益を上げました",
-          "title_zh": "Nonghyup银行的食品技术支持…为300亿公司增加了收入"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "# Spanish (1 Posts)"
         },
         {
-          "title": "칼마인 푸드, 미 법무부와 가격담합 의혹 합의..벌금 없이 해결",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45VlQ2OXAtMXBxN3FISFFfVzRheHZsU3l0RTBKUEZidkUwY3RBaFBvU052X0UyeDdLdVdMaEZkQ0paY2VCQzMyNlFUX0FZbTVaOHc?oc=5",
+          "title": "현대그린푸드, 전국 140곳 사내 카페 이달부터 리뉴얼",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdmFzS2ZlT1VwNTR1Zm1OM1Y5YklHcGw3d2xNbHpiLUdPMDNrUllVd1RfSEdUYzJrNkdzMlNMZlVhSVhwVDB2bEcyYUFnN083YmRSd2Rn?oc=5",
           "desc": "",
-          "title_en": "Carmine Foods Agrees to Allegations of Price Alignment with US Department of Justice.. Resolves Without Penalty",
-          "title_ja": "Carmine Foodsは、米国司法省との価格調整の申し立てに同意します。罰則なしで解決します",
-          "title_zh": "Carmine Foods同意与美国司法部达成价格一致的指控。无需处罚即可解决"
+          "title_en": "Hyundai Green Food, 140 in-house cafes nationwide renewed this month",
+          "title_ja": "ヒュンダイグリーンフード、全国140店舗のカフェが今月リニューアル",
+          "title_zh": "现代绿色食品，本月在全国范围内更新了140家内部咖啡馆"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
         },
         {
+          "title": "올리브유·들기름·참기름, 한국인에게 효과적인 기름은?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tM2ZpbjBLcEQtSFdIRVl4S0x6aUdlVEZTUlFSYjNJSnExaWxpZGM2LW01Tl9KdnlfNHNKNlpqVy1aRktjRHFsNXZ0VFlpUnFJZXFjQWEyZw?oc=5",
+          "desc": "",
+          "title_en": "Olive oil, perilla oil, sesame oil, what oil is effective for Koreans?",
+          "title_ja": "オリーブオイル、シソオイル、ゴマ油、韓国人にとって効果的なオイルは何ですか？",
+          "title_zh": "橄榄油、紫苏油、芝麻油，什么油对韩国人有效？"
+        },
+        {
           "title": "‘배홍동막국수’, 인천공항 라운지서 즐긴다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MS1pHOHhVZGlyS2ZqdDQ1MFpHTUhWQm9NamFSZmR3NjRnUy1US0VRaDlqaXpabkpqNTFQMVk2SWtQeE40Tk83SXQxQnJmMGlZdU5Sb3k5TQ?oc=5",
           "desc": "",
           "title_en": "‘Baehongdongmakguksu‘, I enjoy in the lounge of Incheon Airport",
           "title_ja": "「Baehongdongmakguksu」、仁川空港のラウンジで楽しむ",
           "title_zh": "「Baehongdongmakguksu」，我在仁川机场的休息室享受"
-        },
-        {
-          "title": "보양식 메뉴 강화…JW 메리어트 동대문 스퀘어 서울, ‘웰니스 셀렉션’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SUjhfUlVOMWxXa2xZV29mOTVuT0VSd0E0d0xobmhNbi1nZDU0d0xhMk81TVNWbF9TZjdXNlJaNVFsSUo1OWtUTTdrYW82ZXFJWVFZTzdFaw?oc=5",
-          "desc": "",
-          "title_en": "Enhance your menu… JW Marriott Dongdaemun Square Seoul, ‘Wellness Selection’",
-          "title_ja": "メニューを充実させよう… JWマリオット東大門スクエアソウル、「ウェルネスセレクション」",
-          "title_zh": "提升您的菜单……首尔东大门广场JW万豪酒店， “健康精选”"
         }
       ]
     }
