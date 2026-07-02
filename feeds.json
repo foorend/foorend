@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T08:56:54Z",
+  "lastUpdated": "2026-07-02T11:37:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "급락장 속 피난처 된 소비재...'K푸드' 식품주 강세",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sMnFXcUUtWEdqcXVEaTRia05vY1R4ek5FY2NZUGVkclNtUTRCb0Nkc2RnWHhZb2lOZHJ3RU9jTVZsYTJpOU1LbVVVWHBkQzNJYVBLU3ZwdnNnd9IBVEFVX3lxTE9FaFpoakhFT3QzZk1XMFJIaEJQcjg1WG5pcGVzQkJOOVJpR0dIbFVwUktQOFpPYlFySm81djJhbnNySEFnWTZFaG1mbFUzeXlfdTJEUw?oc=5",
-          "desc": "",
-          "title_en": "Consumer goods sheltered in plunges... 'K Foods' food stocks strong",
-          "title_ja": "急落の中で保護された消費財...「K Foods」の食料在庫は好調",
-          "title_zh": "消费品躲在暴跌中... 'K Foods'食品库存强劲"
-        },
-        {
           "title": "롯데웰푸드 설레임, 기안84와 3000명 규모 '설레임런' 개최",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZaER1MmZ4Qmgxak1mRXMtclpCaVZIcnpqZGFJZlFQdC1tRTJrRlgxdWNGWHVyV1NBWTRVRUlxSDVMQkUxRngtMHFRZGxWMzhYczQxV1VhcTBjQdIBVEFVX3lxTFBMZklOdG1YN2dFTFFvck9KNVl2cDdSMmZyYTM5azFPLUVDRlRILUhKSmUwcTNlei1qMXdXMVl2a2ozVGRrV3F1UlZxRi1HNmJPRjd5Sw?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "Hyundai Green Food Opens Basil Festa at ‘Italy’",
           "title_ja": "現代グリーンフードが「イタリア」でバジルフェスタをオープン",
           "title_zh": "现代绿色食品在“意大利”开设罗勒节"
+        },
+        {
+          "title": "선진, 안성 특산물 활용한 '로컬푸드 상생 사업' 강화",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUGVkNmlGb1ZZMzBkN3NVY2JVa0J0c0N1S2Eyd2ZzMEhFRkVEYVhRZU0zNGYtUmIzTTJWbHRjeUlxNENEMmpNWkF6THVjQ1NQV3paZkhYMUJFUdIBVEFVX3lxTE85Vmd0WFNaNUtzMENZcXVFYkxzRDhkTGNld2lKSzcxVFVVcUkwZ3BSUFJZbWdMTzZNVWJRak16MkpXekFJWUFkcVNtRHdKRGVTNDNMRg?oc=5",
+          "desc": "",
+          "title_en": "Sunjin strengthens' local food win-win business' using Anseong specialty products",
+          "title_ja": "安城特産品を活用した「地元食のウィンウィンビジネス」を強化",
+          "title_zh": "Sunjin利用安城特产加强“本地美食双赢业务”"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "[로터리] 맛의 반도체, K푸드",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Mck0zN3ZxT0YzTDhoRFVGYWxZckRMbVhxRDh3Vm9NUGZ4Nk1HZElFeTBXVnM0QXJ4LXV3ay1aXzhvaGJfTk5lUzh6NllGRkVMR1HSAVNBVV95cUxQdXRwaE1TZmthMEFDbXFuMHVXNXgya2Fma2JpbmlJdkZnYnhBZm1vX2xpd3dxcHNuOEFvV2Z5a0tzYXF0RlMyZ1VodVhwOUZXa2dBOA?oc=5",
+          "desc": "",
+          "title_en": "[Rotary] Taste semiconductor, K food",
+          "title_ja": "【ロータリー】味覚半導体、K食",
+          "title_zh": "【旋转】味觉半导体， K食品"
+        },
         {
           "title": "“3초 안에 주우면 괜찮아” 믿었는데…바닥에 떨어진 음식, 먹어도 될까? 실험해 보니 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRG8tVTBXUjBBVmhFLUU5Mm9Rb2ZGOVItUFVycFlINzA4UGllanN5bzRNdER3NUx3Ul9STDctVDdpQ3RjaGRid3lXbTlPaG54ZFHSAVNBVV95cUxNS2NvSWNZUE00YUxkTXAxb3pPVUI5VGtST3ZKRGJwY0RHWnF2Q2IwQmdwbVcwN2JwVkxBY3Y4WjB2Qkg4elQ2OGNZTllSMzZ1NXd4bw?oc=5",
@@ -166,20 +174,12 @@
           "title_zh": "我相信“如果我在3秒钟内拿起它，我会没事的”......我可以吃掉在地板上的食物吗？我尝试过【生命值时间】。"
         },
         {
-          "title": "롯데웰푸드, 美 팬시푸드쇼서 K푸드 알렸다…북미 공략 가속",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCQ0U5UlE4czBocG84VVZSdVcwbzVKdnFWVzVPZnBYRk1FUmc5RENEMS02ZGtIX2RZWWNNQnUzUzVXWURScFhNcWVlVk5GNkE4Zmtr0gFTQVVfeXFMUEJDRTlSUThzMGhwbzhVVlJ1VzBvNUp2cVZXNU9mcFhGTUVSZzlEQ0QxLTZka0hfZFlZY01CdTNTNVdZRFJwWE1xZWVWTkY2QThma2s?oc=5",
+          "title": "농협은행의 푸드테크 지원…매출 300억대 기업 키웠다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TWTREN2xWYWtiN0RFOXpoRXE3WG1HNXNSYUZRTzI5N1E0a0JQdjFVRVp5WmxpQjY4dHZrS1lmQm5JTEtISVZIX2NScXY0SmFfaFHSAVNBVV95cUxQdjhacENrbjdzRHVpR1htRUNKY3RXLWhrWWxXdUNVTy12Q2JxS3l1ZV82bmNMQ0g4SEJkRFVmSE42dTNQMG4yMjdxbURSUTRIRm9vMA?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Announces US Fancy Food Show K-Food… Accelerating North American Attack",
-          "title_ja": "ロッテウェルフードが米国のファンシーフードショーK - Foodを発表…北米の攻撃を加速",
-          "title_zh": "乐天Well Food宣布美国花式食品展K-Food…加速北美攻击"
-        },
-        {
-          "title": "‘79세 최고령 출전’ 오윤생 “맛있는 음식 골고루 먹되 과식 안 하는 게 건강 비결”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44MWVhWmpWVHc0TUJ2MktRUi1LUVNESDhlTE1STWY5TEY1RHNqdDZnT0pwcm9ob3F5SDNOTjRJZGlCRldDb2ZJd1JHRnplWXd5RGw40gFTQVVfeXFMTjgxZWFaalZUdzRNQnYyS1FSLUtRU0RIOGVMTVJNZjlMRjVEc2p0NmdPSnByb2hvcXlIM05ONElkaUJGV0NvZkl3UkdGemVZd3lEbDg?oc=5",
-          "desc": "",
-          "title_en": "‘Exhibiting at the age of 79,’ Oh Yoon-saeng said, “The secret to health is to eat delicious food evenly but not overeat”",
-          "title_ja": "「79歳で出展する」と、オ・ユンセンは「健康の秘訣は、美味しい食べ物を均等に食べることだが、食べ過ぎないことだ」と語った。",
-          "title_zh": "“79岁参展，”吴尹生说， “健康的秘诀是吃均匀的美味食物，但不要吃得太多。”"
+          "title_en": "Nonghyup Bank's Food Tech Support… Raised Revenue to 30 Billion Companies",
+          "title_ja": "ノンヒュップ銀行のフードテクニカルサポート… 300億社に収益を上げました",
+          "title_zh": "Nonghyup银行的食品技术支持…为300亿公司增加了收入"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "#필리핀음식-2 (2 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2NQQ3YxVnl6TjhRQWdzZEdMSkgtVGRDcUNGa0VtLUxKQXA2eElTaVkyVnhWVG0zcGZkLVFyWEpFMTZYWVM2X2w2U1h0OFI1NmRDbDhDc29OakNZc2VoTlJVNklhVGJNcUZJVm5zRzJFdzhtdzN3SW1ETGtCRmhYUGlHMEU?oc=5",
+          "desc": "",
+          "title_en": "# Filipino Food-2 (2 Posts)",
+          "title_ja": "#フィリピン料理-2 （ 2投稿）",
+          "title_zh": "#菲律宾美食-2 （ 2个帖子）"
+        },
         {
           "title": "#스페인음식 (1 Posts)",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkdiUkZIY3dnOWdQenlPU09LcFc4RjlaTG1GM09SaHNVRjU1QjJXU3pFSl9adDlOZVBIU1ZMVmNHSzB0Yi1RczRyWDRfYjFyaWJwMFdjNlFVV0JMc1dEZllXQUVmV3F1YVVhS2lBWlg0NWppTjROaWhrODFfWDY0VVNR?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Carmine Foods Agrees to Allegations of Price Alignment with US Department of Justice.. Resolves Without Penalty",
           "title_ja": "Carmine Foodsは、米国司法省との価格調整の申し立てに同意します。罰則なしで解決します",
           "title_zh": "Carmine Foods同意与美国司法部达成价格一致的指控。无需处罚即可解决"
-        },
-        {
-          "title": "현대그린푸드, 전국 140곳 사내 카페 이달부터 리뉴얼",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdmFzS2ZlT1VwNTR1Zm1OM1Y5YklHcGw3d2xNbHpiLUdPMDNrUllVd1RfSEdUYzJrNkdzMlNMZlVhSVhwVDB2bEcyYUFnN083YmRSd2Rn?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, 140 in-house cafes nationwide renewed this month",
-          "title_ja": "ヒュンダイグリーンフード、全国140店舗のカフェが今月リニューアル",
-          "title_zh": "现代绿色食品，本月在全国范围内更新了140家内部咖啡馆"
         }
       ]
     },
