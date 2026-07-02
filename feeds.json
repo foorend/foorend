@@ -1,20 +1,95 @@
 {
-  "lastUpdated": "2026-07-01T22:17:25Z",
+  "lastUpdated": "2026-07-02T03:39:07Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": []
+      "items": [
+        {
+          "title": "When it comes to closures, restaurant chains are back to 2019 again",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
+          "desc": "",
+          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
+          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
+          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+        },
+        {
+          "title": "Canadian chain Moxies aims to fill upscale-casual void in the U.S.",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMURGdGdUWUhkRGp6U2pmX1VNcHE2TzRsX1ZmVzY5OHIyeUwtVmlZZmdvYnkyOXM5cmgtV1pOQjhKaEx3S3NvRnlBUzBYa2s5OVRnWW50Um1rcWQ3ODRtMW5OaTkzcFVlRXZ5aGVFelpLTXhrS0hMaS1xZjlJdU5NQ29STU11TWFma1BMZElVVzdUS2JIWWc?oc=5",
+          "desc": "",
+          "title_ko": "캐나다 체인 Moxies는 미국에서 고급 캐주얼 공백을 채우는 것을 목표로합니다.",
+          "title_ja": "カナダのチェーンMoxiesは、米国の高級カジュアルな空白を埋めることを目指しています。",
+          "title_zh": "加拿大连锁店Moxies旨在填补美国的高档休闲空白。"
+        }
+      ]
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": []
+      "items": [
+        {
+          "title": "How to Make a Negroni, According to Stanley Tucci",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpZGZJdkRHeDlJZWdnQVpTV01sTTc3cnJQNERvY25qNTdCbENYbF9VekZVdDhQWGxNbUVEWVJUR1UtanFvcW1sWkJmcm5LdlJpMDRqUElrWGhiSjNVM0ZHeE9HZXFiZnFMbWw4?oc=5",
+          "desc": "",
+          "title_ko": "스탠리 투치 (Stanley Tucci) 가 알려주는 네그로니 만드는 법",
+          "title_ja": "Stanley Tucciによるネグローニの作り方",
+          "title_zh": "根据Stanley Tucci的说法，如何制作Negroni"
+        },
+        {
+          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
+          "desc": "",
+          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
+          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
+          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        }
+      ]
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": []
+      "items": [
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
+          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+        },
+        {
+          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
+          "desc": "",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
+        }
+      ]
     },
     "eater": {
       "label": "Eater",
@@ -51,22 +126,122 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": []
+      "items": [
+        {
+          "title": "롯데웰푸드 설레임, 기안84와 3000명 규모 '설레임런' 개최",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZaER1MmZ4Qmgxak1mRXMtclpCaVZIcnpqZGFJZlFQdC1tRTJrRlgxdWNGWHVyV1NBWTRVRUlxSDVMQkUxRngtMHFRZGxWMzhYczQxV1VhcTBjQdIBVEFVX3lxTFBMZklOdG1YN2dFTFFvck9KNVl2cDdSMmZyYTM5azFPLUVDRlRILUhKSmUwcTNlei1qMXdXMVl2a2ozVGRrV3F1UlZxRi1HNmJPRjd5Sw?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Seolleim Holds' Seolleim Run 'for Gyan 84 and 3000 People",
+          "title_ja": "Lotte Well Food SeolleimがGyan 84と3000人のために「Seolleim Run」を開催",
+          "title_zh": "Lotte Well Food Seolleim为Gyan 84和3000人举办“Seolleim Run”"
+        },
+        {
+          "title": "현대그린푸드, ‘이탈리’에서 바질 페스타 연다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95bjZZRTNvRjRYMnpsNElYcWVDNF95YkQwc2NRcFZLdXdwbkxaZ1ZueVVqUVA1anVIYWhuOVl0bDZpVGRMdFM2cGZsX2VjVjFUcUhKMVBUTDZjQdIBVEFVX3lxTE5wRFhuUzAyYmdHUVRLbTY2RVFUS0tmaVpXVlpJVnFHRjdSa1phSWNGNHN3S2o3V0RaNlZVSzJrYzAzZHdEd2plM3lRbWdEVUlPeHNabA?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food Opens Basil Festa at ‘Italy’",
+          "title_ja": "現代グリーンフードが「イタリア」でバジルフェスタをオープン",
+          "title_zh": "现代绿色食品在“意大利”开设罗勒节"
+        },
+        {
+          "title": "일미푸드, \"미국 시장 겨냥 'K-컵피클' 본격 제품화에 나선다\"",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HdDdsN0prYXdWeFRhY01oa0ZZbXdLNE9uMGJyY0Q2NUxhVHQ5d0ExdDJXc2NtdHV4aXVSYmNKNDUwaVhObmlWZTJUR2cwcXdTSFNVci1zRFFZZ9IBVEFVX3lxTE8temVpOGptVUpLSzIwWmItMTFqNzRBN0xhNWd5YUlnRG5sdXhfSENXOExTTVNlMW1kTXdiTTBDLXFsc2VKb1FfQWlnQXdCVTNmT21PNw?oc=5",
+          "desc": "",
+          "title_en": "Ilmi Foods, \"K-Cup Pickles will be fully commercialized for the US market\"",
+          "title_ja": "Ilmi Foods、「Kカップピクルスは米国市場向けに完全に商品化されます」",
+          "title_zh": "Ilmi Foods ， “K-Cup Pickles将在美国市场完全商业化”"
+        }
+      ]
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": []
+      "items": [
+        {
+          "title": "“3초 안에 주우면 괜찮아” 믿었는데…바닥에 떨어진 음식, 먹어도 될까? 실험해 보니 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRG8tVTBXUjBBVmhFLUU5Mm9Rb2ZGOVItUFVycFlINzA4UGllanN5bzRNdER3NUx3Ul9STDctVDdpQ3RjaGRid3lXbTlPaG54ZFHSAVNBVV95cUxNS2NvSWNZUE00YUxkTXAxb3pPVUI5VGtST3ZKRGJwY0RHWnF2Q2IwQmdwbVcwN2JwVkxBY3Y4WjB2Qkg4elQ2OGNZTllSMzZ1NXd4bw?oc=5",
+          "desc": "",
+          "title_en": "I believed “if I pick it up in 3 seconds, I'll be fine”... Can I eat the food that fell on the floor? I experimented with [Health Time].",
+          "title_ja": "「3秒で拾えば大丈夫」と思っていました。床に落ちた食べ物を食べることはできますか？ [Health Time]を試してみました。",
+          "title_zh": "我相信“如果我在3秒钟内拿起它，我会没事的”......我可以吃掉在地板上的食物吗？我尝试过【生命值时间】。"
+        },
+        {
+          "title": "롯데웰푸드, 美 팬시푸드쇼서 K푸드 알렸다…북미 공략 가속",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCQ0U5UlE4czBocG84VVZSdVcwbzVKdnFWVzVPZnBYRk1FUmc5RENEMS02ZGtIX2RZWWNNQnUzUzVXWURScFhNcWVlVk5GNkE4Zmtr0gFTQVVfeXFMUEJDRTlSUThzMGhwbzhVVlJ1VzBvNUp2cVZXNU9mcFhGTUVSZzlEQ0QxLTZka0hfZFlZY01CdTNTNVdZRFJwWE1xZWVWTkY2QThma2s?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Announces US Fancy Food Show K-Food… Accelerating North American Attack",
+          "title_ja": "ロッテウェルフードが米国のファンシーフードショーK - Foodを発表…北米の攻撃を加速",
+          "title_zh": "乐天Well Food宣布美国花式食品展K-Food…加速北美攻击"
+        },
+        {
+          "title": "‘79세 최고령 출전’ 오윤생 “맛있는 음식 골고루 먹되 과식 안 하는 게 건강 비결”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44MWVhWmpWVHc0TUJ2MktRUi1LUVNESDhlTE1STWY5TEY1RHNqdDZnT0pwcm9ob3F5SDNOTjRJZGlCRldDb2ZJd1JHRnplWXd5RGw40gFTQVVfeXFMTjgxZWFaalZUdzRNQnYyS1FSLUtRU0RIOGVMTVJNZjlMRjVEc2p0NmdPSnByb2hvcXlIM05ONElkaUJGV0NvZkl3UkdGemVZd3lEbDg?oc=5",
+          "desc": "",
+          "title_en": "‘Exhibiting at the age of 79,’ Oh Yoon-saeng said, “The secret to health is to eat delicious food evenly but not overeat”",
+          "title_ja": "「79歳で出展する」と、オ・ユンセンは「健康の秘訣は、美味しい食べ物を均等に食べることだが、食べ過ぎないことだ」と語った。",
+          "title_zh": "“79岁参展，”吴尹生说， “健康的秘诀是吃均匀的美味食物，但不要吃得太多。”"
+        }
+      ]
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "#스페인음식 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaXhMZDBEZ2kyQ3pFaWh5TUVGbVZBYVJOSlZaY1gxWUhIV0s1SHBHb3ZaSmdHVXBCM0VnU1Q2ZHhlV1FJVFlsTF9mNWwtWm52ZXNxNXliWG9hdzJsQjRCODFLajRXcVZsMFNIM19LUjJuWGJka0YzNzVDRW1VRjhuV1BLSy1pQ00?oc=5",
+          "desc": "",
+          "title_en": "# Spanish (1 Posts)",
+          "title_ja": "#スペイン語(1件の投稿)",
+          "title_zh": "# Spanish (1 Posts)"
+        },
+        {
+          "title": "칼마인 푸드, 미 법무부와 가격담합 의혹 합의..벌금 없이 해결",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45VlQ2OXAtMXBxN3FISFFfVzRheHZsU3l0RTBKUEZidkUwY3RBaFBvU052X0UyeDdLdVdMaEZkQ0paY2VCQzMyNlFUX0FZbTVaOHc?oc=5",
+          "desc": "",
+          "title_en": "Carmine Foods Agrees to Allegations of Price Alignment with US Department of Justice.. Resolves Without Penalty",
+          "title_ja": "Carmine Foodsは、米国司法省との価格調整の申し立てに同意します。罰則なしで解決します",
+          "title_zh": "Carmine Foods同意与美国司法部达成价格一致的指控。无需处罚即可解决"
+        },
+        {
+          "title": "현대그린푸드, 전국 140곳 사내 카페 이달부터 리뉴얼",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdmFzS2ZlT1VwNTR1Zm1OM1Y5YklHcGw3d2xNbHpiLUdPMDNrUllVd1RfSEdUYzJrNkdzMlNMZlVhSVhwVDB2bEcyYUFnN083YmRSd2Rn?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, 140 in-house cafes nationwide renewed this month",
+          "title_ja": "ヒュンダイグリーンフード、全国140店舗のカフェが今月リニューアル",
+          "title_zh": "现代绿色食品，本月在全国范围内更新了140家内部咖啡馆"
+        }
+      ]
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "필코노미 시대, 한우도 기분 따라 골라 쓴다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16TFlkWjJZTl9qSUhWemFZUTV0aFlZUkVUa2J5cVNodXR0ZXdyUk1fVHd3dU1YU3gzLW8wMXBKcFhnQlJsS2dzN00wWFRDbmV5cVRaMXcwbw?oc=5",
+          "desc": "",
+          "title_en": "In the Philkonomy Era, Hanwoo chooses to write according to his mood",
+          "title_ja": "フィルコノミー時代、ハンウーは自分の気分に合わせて書くことを選ぶ",
+          "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
+        },
+        {
+          "title": "올리브유·들기름·참기름, 한국인에게 효과적인 기름은?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tM2ZpbjBLcEQtSFdIRVl4S0x6aUdlVEZTUlFSYjNJSnExaWxpZGM2LW01Tl9KdnlfNHNKNlpqVy1aRktjRHFsNXZ0VFlpUnFJZXFjQWEyZw?oc=5",
+          "desc": "",
+          "title_en": "Olive oil, perilla oil, sesame oil, what oil is effective for Koreans?",
+          "title_ja": "オリーブオイル、シソオイル、ゴマ油、韓国人にとって効果的なオイルは何ですか？",
+          "title_zh": "橄榄油、紫苏油、芝麻油，什么油对韩国人有效？"
+        },
+        {
+          "title": "보양식 메뉴 강화…JW 메리어트 동대문 스퀘어 서울, ‘웰니스 셀렉션’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SUjhfUlVOMWxXa2xZV29mOTVuT0VSd0E0d0xobmhNbi1nZDU0d0xhMk81TVNWbF9TZjdXNlJaNVFsSUo1OWtUTTdrYW82ZXFJWVFZTzdFaw?oc=5",
+          "desc": "",
+          "title_en": "Enhance your menu… JW Marriott Dongdaemun Square Seoul, ‘Wellness Selection’",
+          "title_ja": "メニューを充実させよう… JWマリオット東大門スクエアソウル、「ウェルネスセレクション」",
+          "title_zh": "提升您的菜单……首尔东大门广场JW万豪酒店， “健康精选”"
+        }
+      ]
     }
   },
   "korean_articles": [
