@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T03:19:48Z",
+  "lastUpdated": "2026-07-03T09:18:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "连锁餐厅正在与通货膨胀进行一场失败的斗争"
         },
         {
-          "title": "When it comes to closures, restaurant chains are back to 2019 again",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZER2TVZrMWdWS1F6c0lZcVZXUU5zU0QtYjU0eE1iYXd2MXZ6QnY3NEROMVB5SzR5WURXTk9FNTFvbjRvbXN2Q095V3ItV1NhdHBiM0tSeENwcXM1TkZsVkxTV2hqejhjWFFObGszTjhyUG56ZVNvN21oRElLWGhwdFk1QXJDdG14ZWdBOENQRXZ6SjdHQnhjdm9qQWdKbDczallEOGRpVkNucFU?oc=5",
-          "desc": "",
-          "title_ko": "폐업과 관련하여 레스토랑 체인은 다시 2019년으로 돌아왔습니다.",
-          "title_ja": "閉店に関して言えば、レストランチェーンは再び2019年に戻っています",
-          "title_zh": "在关闭方面，连锁餐厅又回到了2019年"
-        },
-        {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+        },
+        {
+          "title": "Order cancellations cost the typical restaurant up to 3% of digital sales, new data show",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa21GRUdKSG1LcjFDc29GU3UyVFVQbEM3TWJJZGRGc1ZHcnkySjhLdHJDNklIcEZoYURZRnUzUEp2VEhVb0tHT09DTm1qUXJFMG1kV3F1cjcteDNYTHpqNngtS1JWUWNENnphYVplZW43VVN3OUV0cjF1dzBGNVk1YzhEY0d3SDRqdkh6OEZOWDhqSnhtMmpvdVk5WWIxMUpjNERjaUhjVnJadEp4NFBMSjZkXzJ4NGs5WTVqcHJ3?oc=5",
+          "desc": "",
+          "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
+          "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
+          "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "증권사 리포트 '0건' 굴욕…K푸드 열풍에도 소외된 프랜차이즈株",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjN01kS09GSVI4czFkMEpTLXR3bjdRRWxsOFp6Wmw4Tkc4R0l2ZGRvWWE1UzdtdHV1OEhhd1BWekdOZEJQRFBOTDZfS0lpX1BRcmNBU0lxSVJ1UdIBVEFVX3lxTE91SEpNN2treWlsdXA4YkZOYV9icWJBRXdMbEYtX0JwanJ3WEdWYVR5Rjk2eWE4SEg5akEzMlBTMnB5NXRvRmRReUFac3B5ck1vVXdlNA?oc=5",
+          "desc": "",
+          "title_en": "'0 Securities Company Reports' Humiliation… Franchises Alienated by K-Food Fever",
+          "title_ja": "「0証券会社が報告する」屈辱… K - Food Feverによって疎外されたフランチャイズ",
+          "title_zh": "“0证券公司报告”羞辱…被K-Food Fever疏远的特许经营权"
+        },
+        {
           "title": "롯데웰푸드 설레임, 기안84와 3000명 규모 '설레임런' 개최",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZaER1MmZ4Qmgxak1mRXMtclpCaVZIcnpqZGFJZlFQdC1tRTJrRlgxdWNGWHVyV1NBWTRVRUlxSDVMQkUxRngtMHFRZGxWMzhYczQxV1VhcTBjQdIBVEFVX3lxTFBMZklOdG1YN2dFTFFvck9KNVl2cDdSMmZyYTM5azFPLUVDRlRILUhKSmUwcTNlei1qMXdXMVl2a2ozVGRrV3F1UlZxRi1HNmJPRjd5Sw?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Seolleim Holds' Seolleim Run 'for Gyan 84 and 3000 People",
           "title_ja": "Lotte Well Food SeolleimがGyan 84と3000人のために「Seolleim Run」を開催",
           "title_zh": "Lotte Well Food Seolleim为Gyan 84和3000人举办“Seolleim Run”"
-        },
-        {
-          "title": "현대그린푸드, ‘이탈리’에서 바질 페스타 연다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95bjZZRTNvRjRYMnpsNElYcWVDNF95YkQwc2NRcFZLdXdwbkxaZ1ZueVVqUVA1anVIYWhuOVl0bDZpVGRMdFM2cGZsX2VjVjFUcUhKMVBUTDZjQdIBVEFVX3lxTE5wRFhuUzAyYmdHUVRLbTY2RVFUS0tmaVpXVlpJVnFHRjdSa1phSWNGNHN3S2o3V0RaNlZVSzJrYzAzZHdEd2plM3lRbWdEVUlPeHNabA?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food Opens Basil Festa at ‘Italy’",
-          "title_ja": "現代グリーンフードが「イタリア」でバジルフェスタをオープン",
-          "title_zh": "现代绿色食品在“意大利”开设罗勒节"
         },
         {
           "title": "지엠에프, 창립 20주년 기념식 개최… K-푸드 재도약 의지 다져",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "#남도음식-2 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WUjRKVXNLbWdOSHA3c1VGcmItZmt6RU56UkFmZm1IaE5QNHZvQ1p2U1lhRG1iX1BzYlNSZ0gtOVRibXRwZmt2N0UyZmtrbHBwQlVyaEtKR2tZMUNOVHFfZ05qdFJhblM4THhVeXl2V2x6aGxYaXdEdA?oc=5",
+          "desc": "",
+          "title_en": "# Namdo Food-2 (1 Posts)",
+          "title_ja": "# Namdo Food -2 (1投稿)",
+          "title_zh": "#南岛美食-2 （ 1个帖子）"
+        },
+        {
           "title": "#필리핀음식-2 (2 Posts)",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2NQQ3YxVnl6TjhRQWdzZEdMSkgtVGRDcUNGa0VtLUxKQXA2eElTaVkyVnhWVG0zcGZkLVFyWEpFMTZYWVM2X2w2U1h0OFI1NmRDbDhDc29OakNZc2VoTlJVNklhVGJNcUZJVm5zRzJFdzhtdzN3SW1ETGtCRmhYUGlHMEU?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Seoul Milk, Susie Lee on 'One Meal Daily Care' Model… Targeting Care Foods",
           "title_ja": "ソウルミルク、スージー・リーが語る「One Meal Daily Care」モデル…ケアフードをターゲットに",
           "title_zh": "首尔牛奶， Susie Lee谈“一餐日常护理”模式…针对护理食品"
-        },
-        {
-          "title": "#스페인음식 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkdiUkZIY3dnOWdQenlPU09LcFc4RjlaTG1GM09SaHNVRjU1QjJXU3pFSl9adDlOZVBIU1ZMVmNHSzB0Yi1RczRyWDRfYjFyaWJwMFdjNlFVV0JMc1dEZllXQUVmV3F1YVVhS2lBWlg0NWppTjROaWhrODFfWDY0VVNR?oc=5",
-          "desc": "",
-          "title_en": "# Spanish (1 Posts)",
-          "title_ja": "#スペイン語(1件の投稿)",
-          "title_zh": "# Spanish (1 Posts)"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "필코노미 시대, 한우도 기분 따라 골라 쓴다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16TFlkWjJZTl9qSUhWemFZUTV0aFlZUkVUa2J5cVNodXR0ZXdyUk1fVHd3dU1YU3gzLW8wMXBKcFhnQlJsS2dzN00wWFRDbmV5cVRaMXcwbw?oc=5",
-          "desc": "",
-          "title_en": "In the Philkonomy Era, Hanwoo chooses to write according to his mood",
-          "title_ja": "フィルコノミー時代、ハンウーは自分の気分に合わせて書くことを選ぶ",
-          "title_zh": "在Philkonomy时代， Hanwoo根据自己的心情选择写作"
-        },
         {
           "title": "올리브유·들기름·참기름, 한국인에게 효과적인 기름은?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tM2ZpbjBLcEQtSFdIRVl4S0x6aUdlVEZTUlFSYjNJSnExaWxpZGM2LW01Tl9KdnlfNHNKNlpqVy1aRktjRHFsNXZ0VFlpUnFJZXFjQWEyZw?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "‘Baehongdongmakguksu‘, I enjoy in the lounge of Incheon Airport",
           "title_ja": "「Baehongdongmakguksu」、仁川空港のラウンジで楽しむ",
           "title_zh": "「Baehongdongmakguksu」，我在仁川机场的休息室享受"
+        },
+        {
+          "title": "보양식 메뉴 강화…JW 메리어트 동대문 스퀘어 서울, ‘웰니스 셀렉션’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SUjhfUlVOMWxXa2xZV29mOTVuT0VSd0E0d0xobmhNbi1nZDU0d0xhMk81TVNWbF9TZjdXNlJaNVFsSUo1OWtUTTdrYW82ZXFJWVFZTzdFaw?oc=5",
+          "desc": "",
+          "title_en": "Enhance your menu… JW Marriott Dongdaemun Square Seoul, ‘Wellness Selection’",
+          "title_ja": "メニューを充実させよう… JWマリオット東大門スクエアソウル、「ウェルネスセレクション」",
+          "title_zh": "提升您的菜单……首尔东大门广场JW万豪酒店， “健康精选”"
         }
       ]
     }
