@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T16:24:06Z",
+  "lastUpdated": "2026-07-03T19:23:29Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "설날음식테이크아웃서비스 Archives",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTYwY05nUU5DcjdiYmxmcFN1dFVBckY4U0w2UVlKUmhvdWVweDlLeG9VLW5FM3otSkZKU21LUHdFLUdLV2hOZEF5RFZERW1TZnBJcDFZYUMweWlXYmRWVVluTm5IT2NUQlFscnhpQm9tWFZlSHRMSTFDMzI3T0Q1bzRBWXgyOFRTVGVVSE5PU1lVVWk0TWNnUjNLREFNNnlZeFNEWUtQQmJhOFpkOU5VOXVfRXRBcjFNQ2t3a01DNTF5MXJPYlo0SGhhSFZQcnJQalNMN05B?oc=5",
-          "desc": "",
-          "title_en": "Lunar New Year Food Takeout Service Archives",
-          "title_ja": "旧正月フードテイクアウトサービスアーカイブ",
-          "title_zh": "农历新年外卖服务档案"
-        },
-        {
-          "title": "#남도음식-2 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WUjRKVXNLbWdOSHA3c1VGcmItZmt6RU56UkFmZm1IaE5QNHZvQ1p2U1lhRG1iX1BzYlNSZ0gtOVRibXRwZmt2N0UyZmtrbHBwQlVyaEtKR2tZMUNOVHFfZ05qdFJhblM4THhVeXl2V2x6aGxYaXdEdA?oc=5",
-          "desc": "",
-          "title_en": "# Namdo Food-2 (1 Posts)",
-          "title_ja": "# Namdo Food -2 (1投稿)",
-          "title_zh": "#南岛美食-2 （ 1个帖子）"
-        },
-        {
           "title": "서울우유, '한끼식사 데일리케어' 모델에 이수지…케어푸드 공략",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85M19qcUluLU1aWmstNmF4aVFocGJ2SExnbktScTYyb05VcTRPRXA0QndleG9POWlscDdrcENrTUtkMzRBLTdCU2Jmck5oTFBhTmc?oc=5",
           "desc": "",
           "title_en": "Seoul Milk, Susie Lee on 'One Meal Daily Care' Model… Targeting Care Foods",
           "title_ja": "ソウルミルク、スージー・リーが語る「One Meal Daily Care」モデル…ケアフードをターゲットに",
           "title_zh": "首尔牛奶， Susie Lee谈“一餐日常护理”模式…针对护理食品"
+        },
+        {
+          "title": "칼마인 푸드, 미 법무부와 가격담합 의혹 합의..벌금 없이 해결",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45VlQ2OXAtMXBxN3FISFFfVzRheHZsU3l0RTBKUEZidkUwY3RBaFBvU052X0UyeDdLdVdMaEZkQ0paY2VCQzMyNlFUX0FZbTVaOHc?oc=5",
+          "desc": "",
+          "title_en": "Carmine Foods Agrees to Allegations of Price Alignment with US Department of Justice.. Resolves Without Penalty",
+          "title_ja": "Carmine Foodsは、米国司法省との価格調整の申し立てに同意します。罰則なしで解決します",
+          "title_zh": "Carmine Foods同意与美国司法部达成价格一致的指控。无需处罚即可解决"
+        },
+        {
+          "title": "현대그린푸드, 전국 140곳 사내 카페 이달부터 리뉴얼",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdmFzS2ZlT1VwNTR1Zm1OM1Y5YklHcGw3d2xNbHpiLUdPMDNrUllVd1RfSEdUYzJrNkdzMlNMZlVhSVhwVDB2bEcyYUFnN083YmRSd2Rn?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, 140 in-house cafes nationwide renewed this month",
+          "title_ja": "ヒュンダイグリーンフード、全国140店舗のカフェが今月リニューアル",
+          "title_zh": "现代绿色食品，本月在全国范围内更新了140家内部咖啡馆"
         }
       ]
     },
