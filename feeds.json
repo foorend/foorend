@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-07-04T10:53:56Z",
+  "lastUpdated": "2026-07-04T13:27:00Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Restaurant chains are in a losing battle with inflation",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalFsM2FPTHZZYzl3NGE3LTFUVVlUV1cxWEhXa0JaTDhNV21GS0JjNVBxVU1OMHJOQXRtX0lnQzZuckNWRkFENllLSnZoZlFQdlNNUl9kaDB2dnEta2NaRktldHZuSDg2VWY1S2FSeXZZbWpfUFB4aWhFTU9EZ1ZSbWhwckxsN3h2b0M5UnZiUFVVZUpIYkJB?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 체인은 인플레이션으로 인해 패배하고 있습니다.",
-          "title_ja": "レストランチェーンはインフレとの戦いで敗北しています",
-          "title_zh": "连锁餐厅正在与通货膨胀进行一场失败的斗争"
-        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
           "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
           "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
+        },
+        {
+          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
+          "desc": "",
+          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
+          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
+          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "GMF举行20周年庆典……愿意重新创造K-Food"
         },
         {
-          "title": "롯데웰푸드 설레임, 기안84와 3000명 규모 '설레임런' 개최",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZaER1MmZ4Qmgxak1mRXMtclpCaVZIcnpqZGFJZlFQdC1tRTJrRlgxdWNGWHVyV1NBWTRVRUlxSDVMQkUxRngtMHFRZGxWMzhYczQxV1VhcTBjQdIBVEFVX3lxTFBMZklOdG1YN2dFTFFvck9KNVl2cDdSMmZyYTM5azFPLUVDRlRILUhKSmUwcTNlei1qMXdXMVl2a2ozVGRrV3F1UlZxRi1HNmJPRjd5Sw?oc=5",
+          "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 음식 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Seolleim Holds' Seolleim Run 'for Gyan 84 and 3000 People",
-          "title_ja": "Lotte Well Food SeolleimがGyan 84と3000人のために「Seolleim Run」を開催",
-          "title_zh": "Lotte Well Food Seolleim为Gyan 84和3000人举办“Seolleim Run”"
+          "title_en": "\"I look ugly when I eat this\" … Food selected by a plastic surgeon [Health! Talk]",
+          "title_ja": "「これを食べると醜く見える」…整形外科医が選んだ食べ物【健康！トーク】",
+          "title_zh": "“我吃这个看起来很丑” ……整形外科医生挑选的食物【健康！说话】"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "【旋转】味觉半导体， K食品"
         },
         {
-          "title": "“3초 안에 주우면 괜찮아” 믿었는데…바닥에 떨어진 음식, 먹어도 될까? 실험해 보니 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRG8tVTBXUjBBVmhFLUU5Mm9Rb2ZGOVItUFVycFlINzA4UGllanN5bzRNdER3NUx3Ul9STDctVDdpQ3RjaGRid3lXbTlPaG54ZFHSAVNBVV95cUxNS2NvSWNZUE00YUxkTXAxb3pPVUI5VGtST3ZKRGJwY0RHWnF2Q2IwQmdwbVcwN2JwVkxBY3Y4WjB2Qkg4elQ2OGNZTllSMzZ1NXd4bw?oc=5",
+          "title": "“햄·라면 보다 훨씬 안 좋았다”…의사가 꼽은 못생겨지는 음식 1위는 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QktVYkMtelU3UUV2T0IxQkllRkxvTTNmc2FWeGZxazY3M3otWWlRbU9fUkZEdS1qWVFkWmZEVTU1ZW5KYnBxSk1rTEdxWXd1dFHSAVNBVV95cUxNblZ2M0NOT3U5cHk0QWhmZmZGN2ZwYVdwdlZtUm1UTl9NVlNuU1huZTk3OGZXZmhNbXVIVGFYcHlDZXFXbEJTY1dRTmk1bW5paWdGcw?oc=5",
           "desc": "",
-          "title_en": "I believed “if I pick it up in 3 seconds, I'll be fine”... Can I eat the food that fell on the floor? I experimented with [Health Time].",
-          "title_ja": "「3秒で拾えば大丈夫」と思っていました。床に落ちた食べ物を食べることはできますか？ [Health Time]を試してみました。",
-          "title_zh": "我相信“如果我在3秒钟内拿起它，我会没事的”......我可以吃掉在地板上的食物吗？我尝试过【生命值时间】。"
+          "title_en": "“It was much worse than ham and ramen” … The number one ugly food according to the doctor was [Healthy Time]",
+          "title_ja": "「ハムやラーメンよりもずっとひどかった」…医者によると、醜い食べ物のナンバーワンは[Healthy Time]でした",
+          "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
         }
       ]
     },
