@@ -1,10 +1,26 @@
 {
-  "lastUpdated": "2026-07-04T19:14:19Z",
+  "lastUpdated": "2026-07-04T21:58:42Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Fat Brands lenders take over the company",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjREUVNEalEyRURGXzVEblBPemRtUm9FTU95ckc2MmRKVFowRzdlcHd1WXc3R1Y4eGcxbkNWY3ZkeGw3MWFfZ25sYnpFY1R6S2tPc1BrQ18ybzRaZ1MzTjFJMzExem9mVnNpekRDak13QzBvM01nTjhTMndQQW5LSkxWalZyUVZ2Yjdz?oc=5",
+          "desc": "",
+          "title_ko": "지방 브랜드 대출 기관이 회사를 인수합니다",
+          "title_ja": "ファットブランドの貸し手が会社を引き継ぐ",
+          "title_zh": "Fat Brands贷款人接管公司"
+        },
+        {
+          "title": "Court OKs a $38B credit card swipe fee settlement, but restaurants aren’t impressed",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkM2REpCRF9vMkNRNEI0Y3ZOLTE4TXR5Ykg1NWFIYnNMdVoyaHRzWm82T0pfLXc3Ny1tVm1seTRPSXR4V2RZd1VDOERmcGpMZk9mQTVNbW56Sl91N3VpLTc3Wm1YMjhpOVVLUHhEd29uTVBjWkp0TUNrekMzY0FEcHdaY1BiWVNYZGtUejNRbE1hODNzZXpvMHlsU19HNVJVVmtHaXpXdXI5clRHVEE0T0h5RkladHhKWWFBc05n?oc=5",
+          "desc": "",
+          "title_ko": "법원은 $ 38B 신용 카드 스와이프 수수료 정산을 허용하지만 레스토랑은 인상적이지 않습니다.",
+          "title_ja": "裁判所は380億$のクレジットカードのスワイプ手数料の決済を承認しますが、レストランは感心していません",
+          "title_zh": "法院认可380亿美元的信用卡刷卡费结算，但餐厅并不令人印象深刻"
+        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -12,22 +28,6 @@
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
-        },
-        {
-          "title": "Order cancellations cost the typical restaurant up to 3% of digital sales, new data show",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa21GRUdKSG1LcjFDc29GU3UyVFVQbEM3TWJJZGRGc1ZHcnkySjhLdHJDNklIcEZoYURZRnUzUEp2VEhVb0tHT09DTm1qUXJFMG1kV3F1cjcteDNYTHpqNngtS1JWUWNENnphYVplZW43VVN3OUV0cjF1dzBGNVk1YzhEY0d3SDRqdkh6OEZOWDhqSnhtMmpvdVk5WWIxMUpjNERjaUhjVnJadEp4NFBMSjZkXzJ4NGs5WTVqcHJ3?oc=5",
-          "desc": "",
-          "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
-          "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
-          "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
-        },
-        {
-          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
-          "desc": "",
-          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
-          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
-          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드, 급식 넘어 사내 카페에도 힘 싣는다",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZeW9qS0VWV2dRZG9Vb1AtRzI2X2J4SVBWZnhwSVVXMVYxUUt6NDJTWWNfWVF3eGxmZ1l3LVpnZHlreFoyVl9GblE1Tm5NbXlBVVVMVk0xY3R5dXhTUENFVGU4dmlsa0hBNXZPbmw4RUREay1NdGRUUTd5cmxhWDg?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, Beyond Feeding, Also Powering In-house Cafes",
+          "title_ja": "ヒュンダイグリーンフード、給餌を超えて、社内カフェにも電力を供給",
+          "title_zh": "现代绿色食品，超越喂养，也为内部咖啡馆提供动力"
+        },
+        {
+          "title": "지엠에프, 창립 20주년 기념식 개최… K-푸드 재도약 의지 다져",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51U1ZnMENVRDdfWkh1U1JRR1hPYUtHTVhVeDRWZGF6UGtuaUtxSHJKcUFlN1pieW9RNXZoZVRFbklOVllFVXItejdFTXd5YXdPemFIRWQ5UEdSZG11dVl6WFVzMEZlWjEtWk9WNg?oc=5",
+          "desc": "",
+          "title_en": "GMF Holds 20th Anniversary Ceremony… Willingness to Recreate K-Food",
+          "title_ja": "GMFが20周年記念式典を開催… K - Foodを再創造する意欲",
+          "title_zh": "GMF举行20周年庆典……愿意重新创造K-Food"
+        },
+        {
           "title": "증권사 리포트 '0건' 굴욕…K푸드 열풍에도 소외된 프랜차이즈株",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjN01kS09GSVI4czFkMEpTLXR3bjdRRWxsOFp6Wmw4Tkc4R0l2ZGRvWWE1UzdtdHV1OEhhd1BWekdOZEJQRFBOTDZfS0lpX1BRcmNBU0lxSVJ1UdIBVEFVX3lxTE91SEpNN2treWlsdXA4YkZOYV9icWJBRXdMbEYtX0JwanJ3WEdWYVR5Rjk2eWE4SEg5akEzMlBTMnB5NXRvRmRReUFac3B5ck1vVXdlNA?oc=5",
           "desc": "",
           "title_en": "'0 Securities Company Reports' Humiliation… Franchises Alienated by K-Food Fever",
           "title_ja": "「0証券会社が報告する」屈辱… K - Food Feverによって疎外されたフランチャイズ",
           "title_zh": "“0证券公司报告”羞辱…被K-Food Fever疏远的特许经营权"
-        },
-        {
-          "title": "\"이거 먹으면 못생겨져요\"…성형외과 의사가 꼽은 음식 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd1R5S2ZJb1E4RTY0RldVX2hIejl0TUF2ZXhJQkowelF6dUpVd0xtZ24tSmFpV1J3ellHaGs0ZF9NT1l1NWJWaG1oaWlvN2h2ZklrbzluN29vUdIBVEFVX3lxTE1ObUZrOE41UFJ6elh4WEJhekx2UGVreVBJRE5oR01QZGJQRmZXNTA5QXJ1VXF0MzhsRkprNWRWQ3JQUE1mN20wcTlFQThpRWJOeDZhRQ?oc=5",
-          "desc": "",
-          "title_en": "\"I look ugly when I eat this\" … Food selected by a plastic surgeon [Health! Talk]",
-          "title_ja": "「これを食べると醜く見える」…整形外科医が選んだ食べ物【健康！トーク】",
-          "title_zh": "“我吃这个看起来很丑” ……整形外科医生挑选的食物【健康！说话】"
-        },
-        {
-          "title": "급락장 속 피난처 된 소비재...'K푸드' 식품주 강세",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FaFpoakhFT3QzZk1XMFJIaEJQcjg1WG5pcGVzQkJOOVJpR0dIbFVwUktQOFpPYlFySm81djJhbnNySEFnWTZFaG1mbFUzeXlfdTJEU9IBVEFVX3lxTE9FaFpoakhFT3QzZk1XMFJIaEJQcjg1WG5pcGVzQkJOOVJpR0dIbFVwUktQOFpPYlFySm81djJhbnNySEFnWTZFaG1mbFUzeXlfdTJEUw?oc=5",
-          "desc": "",
-          "title_en": "Consumer goods sheltered in plunges... 'K Foods' food stocks strong",
-          "title_ja": "急落の中で保護された消費財...「K Foods」の食料在庫は好調",
-          "title_zh": "消费品躲在暴跌中... 'K Foods'食品库存强劲"
         }
       ]
     },
