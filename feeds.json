@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T03:28:48Z",
+  "lastUpdated": "2026-07-05T08:53:13Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "말레이시아, 커피 한잔으로 단백질 충전",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nWldqNnBTZWl1ZkwyXzVUMUtULVVJTl8tNGZ6QzNuY2pGSW5tMFpIa0N2T0pqTEp3MlV5cEFvR3ZkOG4ycTdWc1BDQl9TdHVsc2dCb2FhZw?oc=5",
+          "desc": "",
+          "title_en": "Malaysia, protein filling with a cup of coffee",
+          "title_ja": "マレーシア、コーヒーでたんぱく質を詰め込もう",
+          "title_zh": "马来西亚，一杯咖啡填充蛋白质"
+        },
+        {
           "title": "이디야커피, ‘유엔참전국 미래세대 교류캠프’ 발대식 후원",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BX0RHaWFLQU1hZFpXNVgwTDFwYko5ajZWTElFRWhNaTUxcDEta2Z4cjdkanNnQ2dGdHlqZDd5T1lqSDlmbG5SLXhLMk5jeFNIakNfblYwcw?oc=5",
           "desc": "",
@@ -226,20 +234,12 @@
           "title_zh": "Ediya Coffee赞助联合国参与国的子孙后代交流营"
         },
         {
-          "title": "보양식 메뉴 강화…JW 메리어트 동대문 스퀘어 서울, ‘웰니스 셀렉션’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SUjhfUlVOMWxXa2xZV29mOTVuT0VSd0E0d0xobmhNbi1nZDU0d0xhMk81TVNWbF9TZjdXNlJaNVFsSUo1OWtUTTdrYW82ZXFJWVFZTzdFaw?oc=5",
+          "title": "일본 간식 시장, 맛보다 ‘경험’ 설계한다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tUnZrMk1pWEVQbWlUUVBfY0oyN0Y0bGk1RTItbEF6V1pzWk1CdDJsY2ZmbDFLV1FyVTkxSTN3VWtudWtuckM4Y25HNVc2eGp0VlYyTXZyRQ?oc=5",
           "desc": "",
-          "title_en": "Enhance your menu… JW Marriott Dongdaemun Square Seoul, ‘Wellness Selection’",
-          "title_ja": "メニューを充実させよう… JWマリオット東大門スクエアソウル、「ウェルネスセレクション」",
-          "title_zh": "提升您的菜单……首尔东大门广场JW万豪酒店， “健康精选”"
-        },
-        {
-          "title": "“7일간 매일 달라지는 혜택”…팀홀튼 ‘캐나다 데이 위크’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ubTZaUk4wajNPYWc4LTVEekZDWWxzQzdHblVaZkRZTFItZWloam92S0dzQ28wYzE0YmxDUVlVTGY3WGVFZXhJSVZoSGIxZ0RfeW1RQVZTSQ?oc=5",
-          "desc": "",
-          "title_en": "“Benefits Vary Every Day for 7 Days” … Timholton ‘Canada Day Week’",
-          "title_ja": "「福利厚生は7日間毎日異なります」…ティムホルトン「カナダ・デー・ウィーク」",
-          "title_zh": "“福利在7天内每天都有所不同” …… Timholton “加拿大日周”"
+          "title_en": "Japanese Snack Market Designs‘ Experience ‘Over Taste",
+          "title_ja": "日本のスナックマーケットで「体験」を味わおう",
+          "title_zh": "日式小吃市场设计「体验」而非品味"
         }
       ]
     }
