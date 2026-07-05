@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T08:53:13Z",
+  "lastUpdated": "2026-07-05T11:04:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         },
         {
+          "title": "Canadian chain Moxies aims to fill upscale-casual void in the U.S.",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMURGdGdUWUhkRGp6U2pmX1VNcHE2TzRsX1ZmVzY5OHIyeUwtVmlZZmdvYnkyOXM5cmgtV1pOQjhKaEx3S3NvRnlBUzBYa2s5OVRnWW50Um1rcWQ3ODRtMW5OaTkzcFVlRXZ5aGVFelpLTXhrS0hMaS1xZjlJdU5NQ29STU11TWFma1BMZElVVzdUS2JIWWc?oc=5",
+          "desc": "",
+          "title_ko": "캐나다 체인 Moxies는 미국에서 고급 캐주얼 공백을 채우는 것을 목표로합니다.",
+          "title_ja": "カナダのチェーンMoxiesは、米国の高級カジュアルな空白を埋めることを目指しています。",
+          "title_zh": "加拿大连锁店Moxies旨在填补美国的高档休闲空白。"
+        },
+        {
           "title": "Order cancellations cost the typical restaurant up to 3% of digital sales, new data show",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa21GRUdKSG1LcjFDc29GU3UyVFVQbEM3TWJJZGRGc1ZHcnkySjhLdHJDNklIcEZoYURZRnUzUEp2VEhVb0tHT09DTm1qUXJFMG1kV3F1cjcteDNYTHpqNngtS1JWUWNENnphYVplZW43VVN3OUV0cjF1dzBGNVk1YzhEY0d3SDRqdkh6OEZOWDhqSnhtMmpvdVk5WWIxMUpjNERjaUhjVnJadEp4NFBMSjZkXzJ4NGs5WTVqcHJ3?oc=5",
           "desc": "",
           "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
           "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
           "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
-        },
-        {
-          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
-          "desc": "",
-          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
-          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
-          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드, 저탄소 돼지고기 쓴다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LZkVLRDdXY0IzX1pzZTU5VFAyU0JIdm9yWFVoRW1hb2VjZmdodWFZOWh2X21uSU5SSml1clo2NDdIallQblFQczROSFVtMUF1Um56VzBiQmpqUdIBVEFVX3lxTE9ZTkk0djgyRkxqQ0FiWW4weWdjS1ZNRHlLTVJMeHRhMk5KbmJxUVJ1SGtIZzVyZldtZUZwR3FRTXBxZkt0a0JNN0g4ODhMaVRMdmF2Mw?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food uses low-carbon pork",
+          "title_ja": "現代グリーンフードは低炭素豚肉を使用",
+          "title_zh": "现代绿色食品使用低碳猪肉"
+        },
+        {
           "title": "현대그린푸드, 업계 최초로 ‘저탄소 돈육’ 식단 선보인다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HY1A0QUdtdU80NDJNd1YzQkp6OEVaZWlMb1NXcWlyeW9DSHdWRExMbm9iSFF1RlAxTk1pY1RhdFNpVkVURGR2UnFSSEtJN2s1WEI0OHJxV2lNQdIBVEFVX3lxTE96MUdoNG9VU1hYUUxvMGJQS0V2WDNla0d2VHVZc2pYcUVYMEhVcnZtVG5Sd29OYjR0Mk01THVGS1hFTEFDMkplQ1d5Yng1OVc5amdfUg?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food, Beyond Feeding, Also Powering In-house Cafes",
           "title_ja": "ヒュンダイグリーンフード、給餌を超えて、社内カフェにも電力を供給",
           "title_zh": "现代绿色食品，超越喂养，也为内部咖啡馆提供动力"
-        },
-        {
-          "title": "지엠에프, 창립 20주년 기념식 개최… K-푸드 재도약 의지 다져",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51U1ZnMENVRDdfWkh1U1JRR1hPYUtHTVhVeDRWZGF6UGtuaUtxSHJKcUFlN1pieW9RNXZoZVRFbklOVllFVXItejdFTXd5YXdPemFIRWQ5UEdSZG11dVl6WFVzMEZlWjEtWk9WNg?oc=5",
-          "desc": "",
-          "title_en": "GMF Holds 20th Anniversary Ceremony… Willingness to Recreate K-Food",
-          "title_ja": "GMFが20周年記念式典を開催… K - Foodを再創造する意欲",
-          "title_zh": "GMF举行20周年庆典……愿意重新创造K-Food"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "'K-로컬 푸드 헌터스 33'… 한국 맛 세계에 알린다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SX1I0OFFQSnlLTUhHTW9ZNWgwdUc5TDFvTUMwRnBOaHhpS0p1Y050ZzVFNVBsUFg1YWt6MVkxaXBRTVRKalE?oc=5",
+          "desc": "",
+          "title_en": "'K-Local Food Hunters 33' … Announcing to the Korean Flavor World",
+          "title_ja": "「Kローカルフードハンター33」…韓国のフレーバーの世界に発表",
+          "title_zh": "“K-Local Food Hunters 33” …向韩国风味世界宣布"
+        },
+        {
           "title": "\"한류로 수출 확대\"…하노이서 박람회·아세안 K-푸드페어",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oVWRPTzEybjdsQUx5VmhEdXdoM0cxWmYxcVFmc1NDRWZONTM0QUd4azhydzBNU1c1YUxLdkN6NEsxdFFWNldRdmt1U244WG9GUWc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Hyundai Green Food Introduces' Low Carbon Meat for Group Food 'for the First Time in the Industry",
           "title_ja": "現代グリーンフード、業界で初めて「グループ食の低炭素肉」を導入",
           "title_zh": "现代绿色食品首次在行业内推出“团体食品低碳肉”"
-        },
-        {
-          "title": "주식회사 현대그린푸드 결산실적공시 예고(안내공시)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tdmJKYnVGZEt0M1VvNFFWeDB4bW9VYmdCUnZnWlFkYWo5UGtDR1hOazBJU1BQVzZhQklhT1pVd282Y2N5NEdYdE1BM2hOXy1OWHpOUXQySi1Ia28?oc=5",
-          "desc": "",
-          "title_en": "Announcement of the closing results of Hyundai Green Food Co., Ltd. (Guidance Disclosure)",
-          "title_ja": "現代グリーンフード株式会社決算発表（ガイダンス開示）",
-          "title_zh": "现代绿色食品股份有限公司收盘结果公告（指引披露）"
         }
       ]
     },
