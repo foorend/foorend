@@ -1,26 +1,10 @@
 {
-  "lastUpdated": "2026-07-04T21:58:42Z",
+  "lastUpdated": "2026-07-05T03:28:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Fat Brands lenders take over the company",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjREUVNEalEyRURGXzVEblBPemRtUm9FTU95ckc2MmRKVFowRzdlcHd1WXc3R1Y4eGcxbkNWY3ZkeGw3MWFfZ25sYnpFY1R6S2tPc1BrQ18ybzRaZ1MzTjFJMzExem9mVnNpekRDak13QzBvM01nTjhTMndQQW5LSkxWalZyUVZ2Yjdz?oc=5",
-          "desc": "",
-          "title_ko": "지방 브랜드 대출 기관이 회사를 인수합니다",
-          "title_ja": "ファットブランドの貸し手が会社を引き継ぐ",
-          "title_zh": "Fat Brands贷款人接管公司"
-        },
-        {
-          "title": "Court OKs a $38B credit card swipe fee settlement, but restaurants aren’t impressed",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkM2REpCRF9vMkNRNEI0Y3ZOLTE4TXR5Ykg1NWFIYnNMdVoyaHRzWm82T0pfLXc3Ny1tVm1seTRPSXR4V2RZd1VDOERmcGpMZk9mQTVNbW56Sl91N3VpLTc3Wm1YMjhpOVVLUHhEd29uTVBjWkp0TUNrekMzY0FEcHdaY1BiWVNYZGtUejNRbE1hODNzZXpvMHlsU19HNVJVVmtHaXpXdXI5clRHVEE0T0h5RkladHhKWWFBc05n?oc=5",
-          "desc": "",
-          "title_ko": "법원은 $ 38B 신용 카드 스와이프 수수료 정산을 허용하지만 레스토랑은 인상적이지 않습니다.",
-          "title_ja": "裁判所は380億$のクレジットカードのスワイプ手数料の決済を承認しますが、レストランは感心していません",
-          "title_zh": "法院认可380亿美元的信用卡刷卡费结算，但餐厅并不令人印象深刻"
-        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -28,6 +12,22 @@
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+        },
+        {
+          "title": "Order cancellations cost the typical restaurant up to 3% of digital sales, new data show",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa21GRUdKSG1LcjFDc29GU3UyVFVQbEM3TWJJZGRGc1ZHcnkySjhLdHJDNklIcEZoYURZRnUzUEp2VEhVb0tHT09DTm1qUXJFMG1kV3F1cjcteDNYTHpqNngtS1JWUWNENnphYVplZW43VVN3OUV0cjF1dzBGNVk1YzhEY0d3SDRqdkh6OEZOWDhqSnhtMmpvdVk5WWIxMUpjNERjaUhjVnJadEp4NFBMSjZkXzJ4NGs5WTVqcHJ3?oc=5",
+          "desc": "",
+          "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
+          "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
+          "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
+        },
+        {
+          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
+          "desc": "",
+          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
+          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
+          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드, 업계 최초로 ‘저탄소 돈육’ 식단 선보인다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HY1A0QUdtdU80NDJNd1YzQkp6OEVaZWlMb1NXcWlyeW9DSHdWRExMbm9iSFF1RlAxTk1pY1RhdFNpVkVURGR2UnFSSEtJN2s1WEI0OHJxV2lNQdIBVEFVX3lxTE96MUdoNG9VU1hYUUxvMGJQS0V2WDNla0d2VHVZc2pYcUVYMEhVcnZtVG5Sd29OYjR0Mk01THVGS1hFTEFDMkplQ1d5Yng1OVc5amdfUg?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food Introduces Industry's First Low-Carbon Meat Diet",
+          "title_ja": "現代グリーンフード、業界初の低炭素肉ダイエットを導入",
+          "title_zh": "现代绿色食品推出业界首个低碳肉类饮食"
+        },
+        {
           "title": "현대그린푸드, 급식 넘어 사내 카페에도 힘 싣는다",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZeW9qS0VWV2dRZG9Vb1AtRzI2X2J4SVBWZnhwSVVXMVYxUUt6NDJTWWNfWVF3eGxmZ1l3LVpnZHlreFoyVl9GblE1Tm5NbXlBVVVMVk0xY3R5dXhTUENFVGU4dmlsa0hBNXZPbmw4RUREay1NdGRUUTd5cmxhWDg?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "GMF Holds 20th Anniversary Ceremony… Willingness to Recreate K-Food",
           "title_ja": "GMFが20周年記念式典を開催… K - Foodを再創造する意欲",
           "title_zh": "GMF举行20周年庆典……愿意重新创造K-Food"
-        },
-        {
-          "title": "증권사 리포트 '0건' 굴욕…K푸드 열풍에도 소외된 프랜차이즈株",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjN01kS09GSVI4czFkMEpTLXR3bjdRRWxsOFp6Wmw4Tkc4R0l2ZGRvWWE1UzdtdHV1OEhhd1BWekdOZEJQRFBOTDZfS0lpX1BRcmNBU0lxSVJ1UdIBVEFVX3lxTE91SEpNN2treWlsdXA4YkZOYV9icWJBRXdMbEYtX0JwanJ3WEdWYVR5Rjk2eWE4SEg5akEzMlBTMnB5NXRvRmRReUFac3B5ck1vVXdlNA?oc=5",
-          "desc": "",
-          "title_en": "'0 Securities Company Reports' Humiliation… Franchises Alienated by K-Food Fever",
-          "title_ja": "「0証券会社が報告する」屈辱… K - Food Feverによって疎外されたフランチャイズ",
-          "title_zh": "“0证券公司报告”羞辱…被K-Food Fever疏远的特许经营权"
         }
       ]
     },
@@ -158,12 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "[로터리] 맛의 반도체, K푸드",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Mck0zN3ZxT0YzTDhoRFVGYWxZckRMbVhxRDh3Vm9NUGZ4Nk1HZElFeTBXVnM0QXJ4LXV3ay1aXzhvaGJfTk5lUzh6NllGRkVMR1HSAVNBVV95cUxQdXRwaE1TZmthMEFDbXFuMHVXNXgya2Fma2JpbmlJdkZnYnhBZm1vX2xpd3dxcHNuOEFvV2Z5a0tzYXF0RlMyZ1VodVhwOUZXa2dBOA?oc=5",
+          "title": "현대그린푸드, 식품업계 첫 ‘저탄소 돈육’ 단체급식 도입",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92QVE0Z0ZpY0FnOGpHQV9iOE55SEk2Yk5KWjFpZUE3Uk1PSEk4eG15SEk1TFNHdUdsMXpWZEg0TThLU2xPLTMwZWZRV2tXNkp6WnfSAVNBVV95cUxPcjNQX0VuSEF4ZjN2dWFxN3h6bjdCak9oM2tNXzJockEwOGdzc0dxREg0Y2lBcEVqZDduV1lwTUVJb3JGOTI4ZkpEaDVNc25KM1lCaw?oc=5",
           "desc": "",
-          "title_en": "[Rotary] Taste semiconductor, K food",
-          "title_ja": "【ロータリー】味覚半導体、K食",
-          "title_zh": "【旋转】味觉半导体， K食品"
+          "title_en": "Hyundai Green Food introduces the first ‘low carbon pork’ group meal in the food industry",
+          "title_ja": "現代グリーンフード、食品業界初の「低炭素豚肉」グループミールを発表",
+          "title_zh": "现代绿色食品推出食品行业首个“低碳猪肉”团体餐"
         },
         {
           "title": "[로터리] 맛의 반도체, K푸드",
@@ -174,12 +174,12 @@
           "title_zh": "【旋转】味觉半导体， K食品"
         },
         {
-          "title": "“햄·라면 보다 훨씬 안 좋았다”…의사가 꼽은 못생겨지는 음식 1위는 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QktVYkMtelU3UUV2T0IxQkllRkxvTTNmc2FWeGZxazY3M3otWWlRbU9fUkZEdS1qWVFkWmZEVTU1ZW5KYnBxSk1rTEdxWXd1dFHSAVNBVV95cUxNblZ2M0NOT3U5cHk0QWhmZmZGN2ZwYVdwdlZtUm1UTl9NVlNuU1huZTk3OGZXZmhNbXVIVGFYcHlDZXFXbEJTY1dRTmk1bW5paWdGcw?oc=5",
+          "title": "[로터리] 맛의 반도체, K푸드",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Mck0zN3ZxT0YzTDhoRFVGYWxZckRMbVhxRDh3Vm9NUGZ4Nk1HZElFeTBXVnM0QXJ4LXV3ay1aXzhvaGJfTk5lUzh6NllGRkVMR1HSAVNBVV95cUxQdXRwaE1TZmthMEFDbXFuMHVXNXgya2Fma2JpbmlJdkZnYnhBZm1vX2xpd3dxcHNuOEFvV2Z5a0tzYXF0RlMyZ1VodVhwOUZXa2dBOA?oc=5",
           "desc": "",
-          "title_en": "“It was much worse than ham and ramen” … The number one ugly food according to the doctor was [Healthy Time]",
-          "title_ja": "「ハムやラーメンよりもずっとひどかった」…医者によると、醜い食べ物のナンバーワンは[Healthy Time]でした",
-          "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
+          "title_en": "[Rotary] Taste semiconductor, K food",
+          "title_ja": "【ロータリー】味覚半導体、K食",
+          "title_zh": "【旋转】味觉半导体， K食品"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "설날음식테이크아웃서비스 Archives",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTYwY05nUU5DcjdiYmxmcFN1dFVBckY4U0w2UVlKUmhvdWVweDlLeG9VLW5FM3otSkZKU21LUHdFLUdLV2hOZEF5RFZERW1TZnBJcDFZYUMweWlXYmRWVVluTm5IT2NUQlFscnhpQm9tWFZlSHRMSTFDMzI3T0Q1bzRBWXgyOFRTVGVVSE5PU1lVVWk0TWNnUjNLREFNNnlZeFNEWUtQQmJhOFpkOU5VOXVfRXRBcjFNQ2t3a01DNTF5MXJPYlo0SGhhSFZQcnJQalNMN05B?oc=5",
+          "title": "\"한류로 수출 확대\"…하노이서 박람회·아세안 K-푸드페어",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oVWRPTzEybjdsQUx5VmhEdXdoM0cxWmYxcVFmc1NDRWZONTM0QUd4azhydzBNU1c1YUxLdkN6NEsxdFFWNldRdmt1U244WG9GUWc?oc=5",
           "desc": "",
-          "title_en": "Lunar New Year Food Takeout Service Archives",
-          "title_ja": "旧正月フードテイクアウトサービスアーカイブ",
-          "title_zh": "农历新年外卖服务档案"
+          "title_en": "“Expanding Exports to Hallyu” … Hanoi Exposition and ASEAN K-Food Fair",
+          "title_ja": "「ハリウへの輸出拡大」…ハノイ博覧会とASEAN K - Food Fair",
+          "title_zh": "“扩大对Hallyu的出口” ……河内博览会和东盟K-Food博览会"
         },
         {
-          "title": "#남도음식-2 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WUjRKVXNLbWdOSHA3c1VGcmItZmt6RU56UkFmZm1IaE5QNHZvQ1p2U1lhRG1iX1BzYlNSZ0gtOVRibXRwZmt2N0UyZmtrbHBwQlVyaEtKR2tZMUNOVHFfZ05qdFJhblM4THhVeXl2V2x6aGxYaXdEdA?oc=5",
+          "title": "현대그린푸드, 업계 최초 단체급식에 '저탄소 돈육' 도입",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0RVdVT3UzQzFMQUJaTEhjZ1JvZHBjX3o0T24wWU1QLW0yQTVHRW1oZ0JlMktxcUI0OWJfM0tIa3JTcXJ0RUJjYzJ3dmNGVjZQamc?oc=5",
           "desc": "",
-          "title_en": "# Namdo Food-2 (1 Posts)",
-          "title_ja": "# Namdo Food -2 (1投稿)",
-          "title_zh": "#南岛美食-2 （ 1个帖子）"
+          "title_en": "Hyundai Green Food Introduces' Low Carbon Meat for Group Food 'for the First Time in the Industry",
+          "title_ja": "現代グリーンフード、業界で初めて「グループ食の低炭素肉」を導入",
+          "title_zh": "现代绿色食品首次在行业内推出“团体食品低碳肉”"
         },
         {
-          "title": "(주)신세계푸드 배당락 기준가격 안내",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcklZeXM5UjRTbWpKaGliRzE3SGZlNG9TNHlfSXBNekFVamY0MmVTWkFBVTNBQ2xiTFA5VzhMaHZHR0VWY2hTakF0dFpvNlZNTmRSamF0X0s2Zw?oc=5",
+          "title": "주식회사 현대그린푸드 결산실적공시 예고(안내공시)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tdmJKYnVGZEt0M1VvNFFWeDB4bW9VYmdCUnZnWlFkYWo5UGtDR1hOazBJU1BQVzZhQklhT1pVd282Y2N5NEdYdE1BM2hOXy1OWHpOUXQySi1Ia28?oc=5",
           "desc": "",
-          "title_en": "Shinsegae Food Bae Dangrak Standard Price Information",
-          "title_ja": "Shinsegae Food Bae Dangrak標準価格情報",
-          "title_zh": "Shinsegae Food Bae Dangrak标准价格信息"
+          "title_en": "Announcement of the closing results of Hyundai Green Food Co., Ltd. (Guidance Disclosure)",
+          "title_ja": "現代グリーンフード株式会社決算発表（ガイダンス開示）",
+          "title_zh": "现代绿色食品股份有限公司收盘结果公告（指引披露）"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "이디야커피, ‘유엔참전국 미래세대 교류캠프’ 발대식 후원",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BX0RHaWFLQU1hZFpXNVgwTDFwYko5ajZWTElFRWhNaTUxcDEta2Z4cjdkanNnQ2dGdHlqZDd5T1lqSDlmbG5SLXhLMk5jeFNIakNfblYwcw?oc=5",
+          "desc": "",
+          "title_en": "Ediya Coffee Sponsors Future Generations Exchange Camp in UN Participating Countries",
+          "title_ja": "Ediya Coffeeが国連加盟国で次世代交流キャンプを後援",
+          "title_zh": "Ediya Coffee赞助联合国参与国的子孙后代交流营"
+        },
+        {
+          "title": "보양식 메뉴 강화…JW 메리어트 동대문 스퀘어 서울, ‘웰니스 셀렉션’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SUjhfUlVOMWxXa2xZV29mOTVuT0VSd0E0d0xobmhNbi1nZDU0d0xhMk81TVNWbF9TZjdXNlJaNVFsSUo1OWtUTTdrYW82ZXFJWVFZTzdFaw?oc=5",
+          "desc": "",
+          "title_en": "Enhance your menu… JW Marriott Dongdaemun Square Seoul, ‘Wellness Selection’",
+          "title_ja": "メニューを充実させよう… JWマリオット東大門スクエアソウル、「ウェルネスセレクション」",
+          "title_zh": "提升您的菜单……首尔东大门广场JW万豪酒店， “健康精选”"
+        },
+        {
           "title": "“7일간 매일 달라지는 혜택”…팀홀튼 ‘캐나다 데이 위크’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ubTZaUk4wajNPYWc4LTVEekZDWWxzQzdHblVaZkRZTFItZWloam92S0dzQ28wYzE0YmxDUVlVTGY3WGVFZXhJSVZoSGIxZ0RfeW1RQVZTSQ?oc=5",
           "desc": "",
           "title_en": "“Benefits Vary Every Day for 7 Days” … Timholton ‘Canada Day Week’",
           "title_ja": "「福利厚生は7日間毎日異なります」…ティムホルトン「カナダ・デー・ウィーク」",
           "title_zh": "“福利在7天内每天都有所不同” …… Timholton “加拿大日周”"
-        },
-        {
-          "title": "7월은 ‘블루베리의 달’, 얼려 드세요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JM3lIeHYtRTdwSzM5andTdy13WDh2Y0VZejVtaXBEMnFPQy04ZXgzOFMxZFpnbEJmejlHOFVoQ05qcHZFR3VHNFZRcWxHc3duTlpnMGFuOA?oc=5",
-          "desc": "",
-          "title_en": "Freeze July is Blueberry Month",
-          "title_ja": "フリーズ7月はブルーベリー月間",
-          "title_zh": "冻结7月是蓝莓月"
-        },
-        {
-          "title": "김밥·달걀, 여름엔 ‘살모넬라’ 주의하세요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PSy1lWjFiSjFKQkI0MFRreFE5cVZFc3c2YlZTWF9CV2tERjZCOW1kUDRQYkVOYldtTktBS2E5N1Nac3A1ckJDOXhmS0xUbDI2R2pGdjF3VQ?oc=5",
-          "desc": "",
-          "title_en": "Watch out for gimbap, eggs, and ‘salmonella’ in the summer",
-          "title_ja": "夏にはギンバプ、卵、「サルモネラ菌」に気をつけよう",
-          "title_zh": "夏季注意沙门氏菌、鸡蛋和沙门氏菌"
         }
       ]
     }
