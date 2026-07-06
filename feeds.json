@@ -1,25 +1,108 @@
 {
-  "lastUpdated": "2026-07-06T10:23:06Z",
+  "lastUpdated": "2026-07-06T15:34:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": []
+      "items": [
+        {
+          "title": "Sweetgreen seeks advice from a turnaround expert: Chili's CEO Kevin Hochman",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1RPdEpMa3RoQUREeE1OVG0wX0RKWkZycTVVcWdta1ZaT09wNmgyaWxXcWprcmlkYnBTbloxdjFtaTd5ZEllR1BzVEZLSGxJdTJFdmkxS0ZSck5hTTAxTFRWYTBhM3dnZVl2anhMbVZ3b3lsMFBUSmpPNm44Zy1QQWJsSjFaZzh6VHBLaWRya0tyMTRYSFJHNGs0aVVscW9ZcmpoUVcxdno2M3BRLW5hTFpwYmg?oc=5",
+          "desc": "",
+          "title_ko": "Sweetgreen은 턴어라운드 전문가의 조언을 구합니다: Chili의 CEO Kevin Hochman",
+          "title_ja": "Sweetgreenは、ターンアラウンドの専門家であるChiliのCEOであるKevin Hochmanにアドバイスを求めています",
+          "title_zh": "Sweetgreen寻求转型专家的建议： Chili首席执行官Kevin Hochman"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+        },
+        {
+          "title": "Order cancellations cost the typical restaurant up to 3% of digital sales, new data show",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa21GRUdKSG1LcjFDc29GU3UyVFVQbEM3TWJJZGRGc1ZHcnkySjhLdHJDNklIcEZoYURZRnUzUEp2VEhVb0tHT09DTm1qUXJFMG1kV3F1cjcteDNYTHpqNngtS1JWUWNENnphYVplZW43VVN3OUV0cjF1dzBGNVk1YzhEY0d3SDRqdkh6OEZOWDhqSnhtMmpvdVk5WWIxMUpjNERjaUhjVnJadEp4NFBMSjZkXzJ4NGs5WTVqcHJ3?oc=5",
+          "desc": "",
+          "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
+          "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
+          "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
+        }
+      ]
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": []
+      "items": [
+        {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
+          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
+          "desc": "",
+          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
+          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
+          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        }
+      ]
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": []
+      "items": [
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
+          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+        },
+        {
+          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
+          "desc": "",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
+        }
+      ]
     },
     "eater": {
       "label": "Eater",
       "site": "https://www.eater.com/trends",
       "items": [
+        {
+          "title": "Chicago’s Buzziest Restaurant Is Betting On “Casual Prix Fixe”",
+          "link": "https://www.eater.com/pre-shift/972897/all-well-chicago-restaurant-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "시카고에서 가장 분주한 레스토랑이 '캐주얼 프릭스 픽스' 에 베팅 중입니다.",
+          "title_ja": "シカゴで最も賑やかなレストランが「カジュアルプリフィックス」に賭けています",
+          "title_zh": "芝加哥最热闹的餐厅正在押注“休闲大奖赛”"
+        },
         {
           "title": "Eater Nominated for 2026 New York Emmy",
           "link": "https://www.eater.com/press-room/972900/eater-nominated-for-2026-new-york-emmy",
@@ -35,14 +118,6 @@
           "title_ko": "푸드 러너의 역할은 변하고 있습니다. 보상이 맞습니까?",
           "title_ja": "フードランナーの役割は変化しています。報酬ですか？",
           "title_zh": "食物跑步者的角色正在发生变化。是薪酬吗？"
-        },
-        {
-          "title": "When Did Making Reservations Get So Annoying?",
-          "link": "https://www.eater.com/trends/972511/why-its-so-annoying-to-make-reservations-now-resy-opentable-doordash-tock",
-          "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
-          "title_ko": "언제부터 예약이 귀찮아졌나요?",
-          "title_ja": "予約が面倒くさいようになったのはいつですか？",
-          "title_zh": "预订什么时候变得如此烦人？"
         }
       ]
     }
@@ -51,22 +126,122 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": []
+      "items": [
+        {
+          "title": "\"과일만 1kg?\"…신세계푸드, 3만원대 '가성비 폭탄' 케이크 출시",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rNmZNWHhxdG1WdFlYd3dPcjJXbk5MRFY2b0RHTEFpNkcxVExVaE90WDh5Nnk3SFBxSmxRdFZqQW42UlhBUFhSTklmbUFXRWVrV3dWSkVDNWMzQdIBVEFVX3lxTE1WRDlXSmpYSnhJc1BTVWZtSWRQX1ZVcXotWWFCYnNXakx6dDdTWlZmUXd0NnV1MmdBa25ET05NQmM0cEhDMG95TzBXQWxaTHBhNm9xdw?oc=5",
+          "desc": "",
+          "title_en": "\"Only 1kg of fruit?\" … Shinsegae Foods Launches' Cost-effective Bomb 'Cake for 30,000 KRW",
+          "title_ja": "「たった1 kgの果物？」…新世界食品が3万ウォンで「費用対効果の高い爆弾ケーキ」を発売",
+          "title_zh": "“只需1公斤水果？” …… Shinsegae Foods推出“高性价比炸弹”蛋糕，售价3万韩元"
+        },
+        {
+          "title": "장마철 실온에 두면 '독'이 되는 음식 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMEhvN29hVFdvNTF5YjdnaEZJcDRIYi1yX2VCQTBtZ2ZFUXYxRC0xTVEzaTBxSzdsSXNKTDRBWVlHOVY4Z256OV9vSWdTbHZSNTQ4cXYydk1oUdIBVEFVX3lxTFB4S1B2TWZCY1ZqRUN1a3ZRNWI1dkhYRDVsTWhhOXBBeTJBdDJkWlNuTDJlNUxadFJjUGhQMUo2QzJtZ19FNF9lZ3hkenBMRmswaDdoYg?oc=5",
+          "desc": "",
+          "title_en": "Foods that become 'poison' when left at room temperature during the rainy season [Health! Talk]",
+          "title_ja": "梅雨時期に室温で放置すると「毒」になる食品【健康！トーク】",
+          "title_zh": "雨季在室温下放置会变成“毒药”的食物[健康！谈话]"
+        },
+        {
+          "title": "현대그린푸드, 저탄소 돼지고기 쓴다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LZkVLRDdXY0IzX1pzZTU5VFAyU0JIdm9yWFVoRW1hb2VjZmdodWFZOWh2X21uSU5SSml1clo2NDdIallQblFQczROSFVtMUF1Um56VzBiQmpqUdIBVEFVX3lxTE9ZTkk0djgyRkxqQ0FiWW4weWdjS1ZNRHlLTVJMeHRhMk5KbmJxUVJ1SGtIZzVyZldtZUZwR3FRTXBxZkt0a0JNN0g4ODhMaVRMdmF2Mw?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food uses low-carbon pork",
+          "title_ja": "現代グリーンフードは低炭素豚肉を使用",
+          "title_zh": "现代绿色食品使用低碳猪肉"
+        }
+      ]
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": []
+      "items": [
+        {
+          "title": "“비싸서 못 먹는다” 했는데…외국인들 푹 빠진 韓음식, 세계 1위 우뚝",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zaV9XYkw3N1JQeVNtQ18zMEhTT3lDcXN2a1NBYm9xU0xlb3V3NHM4cl9XNk5mZzY2U1hsbVJmMWU0SW1vVUFLckpQUG8zR1gwUUHSAVNBVV95cUxPV19nR0RjZ3hWYWR4OEt2V3ZNcWxUMVJmU2RNRGplV1JkNXBYbndPa3Q0c3AxZ09lWWZRTkU3ZVNCWHBXeUZqTEZHb2NsVWEtQi1pbw?oc=5",
+          "desc": "",
+          "title_en": "They said “I can't eat it because it's expensive”... Foreigners are obsessed with Korean food, the world's number one",
+          "title_ja": "「値段が高いから食べられない」と言われた・・・外国人は世界ナンバーワンの韓国料理に夢中になっている",
+          "title_zh": "他们说“我不能吃，因为它很贵” ……外国人对韩国菜很着迷，世界第一"
+        },
+        {
+          "title": "“‘미투 창업’ K푸드 발전에 걸림돌…레시피 보호장치 필요해”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53cjdjemNTSG1MNk1ObEh6WUhtcGY0TTV1eXJJdkVFc0laS245aDY5N1pONUhuRXVuUnNVREhHXzBQV2tXOC13RG51MEpiOVdraWJB0gFTQVVfeXFMTndyN2N6Y1NIbUw2TU5sSHpZSG1wZjRNNXV5ckl2RUVzSVpLbjloNjk3Wk41SG5FdW5Sc1VESEdfMFBXa1c4LXdEbnUwSmI5V2tpYkE?oc=5",
+          "desc": "",
+          "title_en": "“‘Me2 Startup’ is an obstacle to the development of K-Food... I need a recipe protection device.”",
+          "title_ja": "「Me 2 Startup」はK - Foodの開発の障害です...レシピ保護デバイスが必要です。」",
+          "title_zh": "“‘Me2 Startup’是K-Food发展的障碍……我需要一个食谱保护装置。”"
+        },
+        {
+          "title": "[로터리] 맛의 반도체, K푸드",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dHBoTVNma2EwQUNtcW4wdVc1eDJrYWZrYmluaUl2RmdieEFmbW9fbGl3d3Fwc244QW9XZnlrS3NhcXRGUzJnVWh1WHA5RldrZ0E40gFTQVVfeXFMUHV0cGhNU2ZrYTBBQ21xbjB1VzV4MmthZmtiaW5pSXZGZ2J4QWZtb19saXd3cXBzbjhBb1dmeWtLc2FxdEZTMmdVaHVYcDlGV2tnQTg?oc=5",
+          "desc": "",
+          "title_en": "[Rotary] Taste semiconductor, K food",
+          "title_ja": "【ロータリー】味覚半導体、K食",
+          "title_zh": "【旋转】味觉半导体， K食品"
+        }
+      ]
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "농식품부, '푸드테크 육성 기본계획' 발표…정책펀드 1천억원 확대",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2MWlRa1F3dHE5dll1YkE3b2ZBUXQ4bUJNczlTYktnemlzSGVVY2lOVExoQXY3bVVRTDJyNHQ2M2UySWF1aWg1Q29teFlfeUVKa1E?oc=5",
+          "desc": "",
+          "title_en": "Ministry of Agriculture and Food announces' Basic Plan to Cultivate Food Tech '… Policy fund expands by 100 billion won",
+          "title_ja": "農林水産省が「食品技術育成基本計画」を発表…政策資金が1000億ウォン拡大",
+          "title_zh": "农业和食品部宣布“培育食品技术基本计划” …政策资金扩大1000亿韩元"
+        },
+        {
+          "title": "K-푸드 전문기업 스마일에프엔디, 캐나다 증시 상장 추진",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14cEtKNnFGNWY4dkNFLWZlakdLdThOZmswckd0dER3b1ZwcHB3cFlUaUlxSnlrRTZuR0FzbWE3bWctLS1hQ0pscWtHdTA5Zy0tZnc?oc=5",
+          "desc": "",
+          "title_en": "K-Food specialist SMILE FND promotes listing on Canadian stock market",
+          "title_ja": "K - FoodスペシャリストSMILE FNDがカナダ株式市場への上場を促進",
+          "title_zh": "K-Food专家SMILE FND推动在加拿大股市上市"
+        },
+        {
+          "title": "\"한류로 수출 확대\"…하노이서 박람회·아세안 K-푸드페어",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oVWRPTzEybjdsQUx5VmhEdXdoM0cxWmYxcVFmc1NDRWZONTM0QUd4azhydzBNU1c1YUxLdkN6NEsxdFFWNldRdmt1U244WG9GUWc?oc=5",
+          "desc": "",
+          "title_en": "“Expanding Exports to Hallyu” … Hanoi Exposition and ASEAN K-Food Fair",
+          "title_ja": "「ハリウへの輸出拡大」…ハノイ博覧会とASEAN K - Food Fair",
+          "title_zh": "“扩大对Hallyu的出口” ……河内博览会和东盟K-Food博览会"
+        }
+      ]
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "이디야커피, ‘유엔참전국 미래세대 교류캠프’ 발대식 후원",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BX0RHaWFLQU1hZFpXNVgwTDFwYko5ajZWTElFRWhNaTUxcDEta2Z4cjdkanNnQ2dGdHlqZDd5T1lqSDlmbG5SLXhLMk5jeFNIakNfblYwcw?oc=5",
+          "desc": "",
+          "title_en": "Ediya Coffee Sponsors Future Generations Exchange Camp in UN Participating Countries",
+          "title_ja": "Ediya Coffeeが国連加盟国で次世代交流キャンプを後援",
+          "title_zh": "Ediya Coffee赞助联合国参与国的子孙后代交流营"
+        },
+        {
+          "title": "주말 홈브런치로 딱!…‘구운 치즈 달걀 토스트’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiTHRGLUsxUjVLdUk5UUNzZVM1dndxRkhoZ19JeXV1bWhlMjJfb0x0aDhtbWFZU3U2ZncwSkhtd09HaUpDRW5EZ1kycWdVeUN5WW5mVmFKbw?oc=5",
+          "desc": "",
+          "title_en": "Perfect for a weekend home brunch! … ‘Grilled Cheese Egg Toast’",
+          "title_ja": "週末のホームブランチにぴったり！ …「グリルチーズエッグトースト」",
+          "title_zh": "非常适合周末在家享用早午餐！ ……「烤奶酪蛋吐司」"
+        },
+        {
+          "title": "약국에서 두부를?…식품 늘리는 일본 드럭스토어",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1la0VBbGpQbG1qMTlmblNBd0stbDFXTW1OQ0pPMFF2cUxnVE9sT2hldU90N2R0U3ZScjJsZWw4VzRFS01Qd0dDcjl3NklCNFlNWmgyUmVOdw?oc=5",
+          "desc": "",
+          "title_en": "Tofu in pharmacies? … Japanese drugstore to increase food",
+          "title_ja": "薬局の豆腐？ …食材を増やす日本のドラッグストア",
+          "title_zh": "药店里的豆腐？ ……增加食物的日本药店"
+        }
+      ]
     }
   },
   "korean_articles": [
