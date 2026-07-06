@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T15:34:05Z",
+  "lastUpdated": "2026-07-06T19:57:50Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,14 +36,6 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
-        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“비싸서 못 먹는다” 했는데…외국인들 푹 빠진 韓음식, 세계 1위 우뚝",
+          "title": "“한국선 없어서 못 먹는데” 외국인들 푹 빠진 이 음식, 세계 1위 우뚝",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zaV9XYkw3N1JQeVNtQ18zMEhTT3lDcXN2a1NBYm9xU0xlb3V3NHM4cl9XNk5mZzY2U1hsbVJmMWU0SW1vVUFLckpQUG8zR1gwUUHSAVNBVV95cUxPV19nR0RjZ3hWYWR4OEt2V3ZNcWxUMVJmU2RNRGplV1JkNXBYbndPa3Q0c3AxZ09lWWZRTkU3ZVNCWHBXeUZqTEZHb2NsVWEtQi1pbw?oc=5",
           "desc": "",
-          "title_en": "They said “I can't eat it because it's expensive”... Foreigners are obsessed with Korean food, the world's number one",
-          "title_ja": "「値段が高いから食べられない」と言われた・・・外国人は世界ナンバーワンの韓国料理に夢中になっている",
-          "title_zh": "他们说“我不能吃，因为它很贵” ……外国人对韩国菜很着迷，世界第一"
+          "title_en": "This food that foreigners are obsessed with “I can't eat because there is no Korean line”, the number one food in the world",
+          "title_ja": "世界ナンバーワンの食べ物である「韓国系がいないから食べられない」にこだわっている外国人の食べ物",
+          "title_zh": "这种外国人痴迷的食物“我不能吃，因为没有韩国线路” ，世界第一的食物"
         },
         {
           "title": "“‘미투 창업’ K푸드 발전에 걸림돌…레시피 보호장치 필요해”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53cjdjemNTSG1MNk1ObEh6WUhtcGY0TTV1eXJJdkVFc0laS245aDY5N1pONUhuRXVuUnNVREhHXzBQV2tXOC13RG51MEpiOVdraWJB0gFTQVVfeXFMTndyN2N6Y1NIbUw2TU5sSHpZSG1wZjRNNXV5ckl2RUVzSVpLbjloNjk3Wk41SG5FdW5Sc1VESEdfMFBXa1c4LXdEbnUwSmI5V2tpYkE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XRjdKVFd2RmpCX3RfQzB3dVkxN1diczJFTXFLdWpmY2oteERNN3NxU1BhWlE2RWtLa0wwYmhsZFFZSXB3dldFeWJYZ1pJamtYcHfSAVNBVV95cUxOd3I3Y3pjU0htTDZNTmxIellIbXBmNE01dXlySXZFRXNJWktuOWg2OTdaTjVIbkV1blJzVURIR18wUFdrVzgtd0RudTBKYjlXa2liQQ?oc=5",
           "desc": "",
           "title_en": "“‘Me2 Startup’ is an obstacle to the development of K-Food... I need a recipe protection device.”",
           "title_ja": "「Me 2 Startup」はK - Foodの開発の障害です...レシピ保護デバイスが必要です。」",
           "title_zh": "“‘Me2 Startup’是K-Food发展的障碍……我需要一个食谱保护装置。”"
         },
         {
-          "title": "[로터리] 맛의 반도체, K푸드",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dHBoTVNma2EwQUNtcW4wdVc1eDJrYWZrYmluaUl2RmdieEFmbW9fbGl3d3Fwc244QW9XZnlrS3NhcXRGUzJnVWh1WHA5RldrZ0E40gFTQVVfeXFMUHV0cGhNU2ZrYTBBQ21xbjB1VzV4MmthZmtiaW5pSXZGZ2J4QWZtb19saXd3cXBzbjhBb1dmeWtLc2FxdEZTMmdVaHVYcDlGV2tnQTg?oc=5",
+          "title": "“햄·라면 보다 훨씬 안 좋았다”…의사가 꼽은 못생겨지는 음식 1위는 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QktVYkMtelU3UUV2T0IxQkllRkxvTTNmc2FWeGZxazY3M3otWWlRbU9fUkZEdS1qWVFkWmZEVTU1ZW5KYnBxSk1rTEdxWXd1dFHSAVNBVV95cUxNblZ2M0NOT3U5cHk0QWhmZmZGN2ZwYVdwdlZtUm1UTl9NVlNuU1huZTk3OGZXZmhNbXVIVGFYcHlDZXFXbEJTY1dRTmk1bW5paWdGcw?oc=5",
           "desc": "",
-          "title_en": "[Rotary] Taste semiconductor, K food",
-          "title_ja": "【ロータリー】味覚半導体、K食",
-          "title_zh": "【旋转】味觉半导体， K食品"
+          "title_en": "“It was much worse than ham and ramen” … The number one ugly food according to the doctor was [Healthy Time]",
+          "title_ja": "「ハムやラーメンよりもずっとひどかった」…医者によると、醜い食べ物のナンバーワンは[Healthy Time]でした",
+          "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "K-Food专家SMILE FND推动在加拿大股市上市"
         },
         {
-          "title": "\"한류로 수출 확대\"…하노이서 박람회·아세안 K-푸드페어",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oVWRPTzEybjdsQUx5VmhEdXdoM0cxWmYxcVFmc1NDRWZONTM0QUd4azhydzBNU1c1YUxLdkN6NEsxdFFWNldRdmt1U244WG9GUWc?oc=5",
+          "title": "선샤인푸드(주) 기타시장안내(상장폐지결정 등 효력정지 가처분 신청 기각결정에 따른 정리매매절차 재개)",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45Wnl3LWhNdThoNklvNzVMcXJna2FxbnRaRG9oMlRHbTBSblYyYVk3amo0M2ZSWmVscnRJbTJXQUZBTlExeGYzMzBjUGlnUFhqTUVkYWtwLUMyZw?oc=5",
           "desc": "",
-          "title_en": "“Expanding Exports to Hallyu” … Hanoi Exposition and ASEAN K-Food Fair",
-          "title_ja": "「ハリウへの輸出拡大」…ハノイ博覧会とASEAN K - Food Fair",
-          "title_zh": "“扩大对Hallyu的出口” ……河内博览会和东盟K-Food博览会"
+          "title_en": "Sunshine Foods Co., Ltd. Other Market Information (Resumption of Clearance Sale Procedure following the dismissal of the motion for injunction to suspend its effect, such as the decision to delist)",
+          "title_ja": "サンシャインフーズ株式会社その他の市場情報（上場廃止の決定等、差止命令の効力停止の申立てが却下された後のクリアランス販売手続きの再開）",
+          "title_zh": "Sunshine Foods Co., Ltd.其他市场信息（驳回中止其效力的禁令动议后恢复清关销售程序，例如决定退市）"
         }
       ]
     },
