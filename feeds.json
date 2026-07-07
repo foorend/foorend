@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-07-07T14:35:23Z",
+  "lastUpdated": "2026-07-07T17:14:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Fat Brands lenders take over the company",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjREUVNEalEyRURGXzVEblBPemRtUm9FTU95ckc2MmRKVFowRzdlcHd1WXc3R1Y4eGcxbkNWY3ZkeGw3MWFfZ25sYnpFY1R6S2tPc1BrQ18ybzRaZ1MzTjFJMzExem9mVnNpekRDak13QzBvM01nTjhTMndQQW5LSkxWalZyUVZ2Yjdz?oc=5",
+          "desc": "",
+          "title_ko": "지방 브랜드 대출 기관이 회사를 인수합니다",
+          "title_ja": "ファットブランドの貸し手が会社を引き継ぐ",
+          "title_zh": "Fat Brands贷款人接管公司"
+        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -14,20 +22,12 @@
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         },
         {
-          "title": "Order cancellations cost the typical restaurant up to 3% of digital sales, new data show",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa21GRUdKSG1LcjFDc29GU3UyVFVQbEM3TWJJZGRGc1ZHcnkySjhLdHJDNklIcEZoYURZRnUzUEp2VEhVb0tHT09DTm1qUXJFMG1kV3F1cjcteDNYTHpqNngtS1JWUWNENnphYVplZW43VVN3OUV0cjF1dzBGNVk1YzhEY0d3SDRqdkh6OEZOWDhqSnhtMmpvdVk5WWIxMUpjNERjaUhjVnJadEp4NFBMSjZkXzJ4NGs5WTVqcHJ3?oc=5",
+          "title": "Canadian chain Moxies aims to fill upscale-casual void in the U.S.",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMURGdGdUWUhkRGp6U2pmX1VNcHE2TzRsX1ZmVzY5OHIyeUwtVmlZZmdvYnkyOXM5cmgtV1pOQjhKaEx3S3NvRnlBUzBYa2s5OVRnWW50Um1rcWQ3ODRtMW5OaTkzcFVlRXZ5aGVFelpLTXhrS0hMaS1xZjlJdU5NQ29STU11TWFma1BMZElVVzdUS2JIWWc?oc=5",
           "desc": "",
-          "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
-          "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
-          "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
-        },
-        {
-          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
-          "desc": "",
-          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
-          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
-          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
+          "title_ko": "캐나다 체인 Moxies는 미국에서 고급 캐주얼 공백을 채우는 것을 목표로합니다.",
+          "title_ja": "カナダのチェーンMoxiesは、米国の高級カジュアルな空白を埋めることを目指しています。",
+          "title_zh": "加拿大连锁店Moxies旨在填补美国的高档休闲空白。"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "삼양식품 11% 급등…K푸드株 저가매수세에 동반 강세[코주부]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95YllxTFZmcEtYNDVZRjNsZmdtbjA4ZHM3bWVZOUdNaTRqYlI3eVNIX3ZWMWRoNldkQU1qLURCUkRNdnpEVnBtbllKaGNQS1ExV1HSAVNBVV95cUxOQjJ1ZE9sRVpFUWdlM2ZTaS1HbUZXUzdmRmt2VlZvN1BxYzZvUVRiYTlLY09lTWFmZ0ZvQkIwQVc2aVUwa1RsRk1QVUVOcmpGZnhrVQ?oc=5",
+          "desc": "",
+          "title_en": "Samyang Foods surged 11% … K-Foods low-cost purchase tax accompanied by strong [head of housewife]",
+          "title_ja": "Samyang Foodsが11 ％急増…強い【主婦長】を伴うK - Foodsの低価格購入税",
+          "title_zh": "Samyang Foods飙升11% … K-Foods低成本采购税伴随强势【家庭主妇主管】"
+        },
+        {
+          "title": "“한국선 없어서 못 먹는데” 외국인들 푹 빠진 이 음식, 세계 1위 우뚝",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zaV9XYkw3N1JQeVNtQ18zMEhTT3lDcXN2a1NBYm9xU0xlb3V3NHM4cl9XNk5mZzY2U1hsbVJmMWU0SW1vVUFLckpQUG8zR1gwUUHSAVNBVV95cUxPV19nR0RjZ3hWYWR4OEt2V3ZNcWxUMVJmU2RNRGplV1JkNXBYbndPa3Q0c3AxZ09lWWZRTkU3ZVNCWHBXeUZqTEZHb2NsVWEtQi1pbw?oc=5",
+          "desc": "",
+          "title_en": "This food that foreigners are obsessed with “I can't eat because there is no Korean line”, the number one food in the world",
+          "title_ja": "世界ナンバーワンの食べ物である「韓国系がいないから食べられない」にこだわっている外国人の食べ物",
+          "title_zh": "这种外国人痴迷的食物“我不能吃，因为没有韩国线路” ，世界第一的食物"
+        },
+        {
           "title": "“‘미투 창업’ K푸드 발전에 걸림돌…레시피 보호장치 필요해”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XRjdKVFd2RmpCX3RfQzB3dVkxN1diczJFTXFLdWpmY2oteERNN3NxU1BhWlE2RWtLa0wwYmhsZFFZSXB3dldFeWJYZ1pJamtYcHfSAVNBVV95cUxOd3I3Y3pjU0htTDZNTmxIellIbXBmNE01dXlySXZFRXNJWktuOWg2OTdaTjVIbkV1blJzVURIR18wUFdrVzgtd0RudTBKYjlXa2liQQ?oc=5",
           "desc": "",
           "title_en": "“‘Me2 Startup’ is an obstacle to the development of K-Food... I need a recipe protection device.”",
           "title_ja": "「Me 2 Startup」はK - Foodの開発の障害です...レシピ保護デバイスが必要です。」",
           "title_zh": "“‘Me2 Startup’是K-Food发展的障碍……我需要一个食谱保护装置。”"
-        },
-        {
-          "title": "“마가렛트에 복호두 입혔다”…롯데웰푸드, 디저트 협업 신제품 선봬",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUDBHSWk0dWZJaXNOQXRrR2RSamRyS1FfMVRrR2lkNXE0NzNLbXQyOW1ubkdFa1ZkXzdKWV8yZWVDQmc5dFZOMkRQZGVKY3JfN1HSAVNBVV95cUxOUzNaLV9ianVtZ0p1SlBaMlF1RU83b3ZsYkp6YTRPUkNvTmgzVHZyZFRFckFualdlM1FPaFh4bmtHZFJlX0lYY3FCdU11ejhtMkdRSQ?oc=5",
-          "desc": "",
-          "title_en": "“Margaret was dressed with bokhodu” … Lotte Well Food, Dessert Collaboration New Product Selection",
-          "title_ja": "「Margaret was dressed with bokhodu」…ロッテウェルフード、デザートコラボ新商品セレクション",
-          "title_zh": "“玛格丽特穿着bokhodu” ……乐天健康食品，甜点合作新产品选择"
-        },
-        {
-          "title": "영화 보고 맛보고 즐기고…부산푸드필름페스타 10주년 축제 열린다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0YWcycDdaSkJ0UHI5bTQ5aEVkRDJwSkg4RFU5VmJLOXBQX1ZubkVjYjliZkN5c29aVkxtYUx5amdfNEdPek9HTXpPalEtYlFYQlHSAVNBVV95cUxOX0poVXFSR212b1ExcERPRWpBbW5ZNEY3dWViRzRrYUR1Y1FXWGN4WEdMRGlaMVQ5RDk3czVxSlN1TEpJQW5kdjJvSlJuS0JSOEdNZw?oc=5",
-          "desc": "",
-          "title_en": "Watch, taste, enjoy… Busan Food Film Festa 10th Anniversary Festival",
-          "title_ja": "観て、味わって、楽しんで…釜山フードフィルムフェスタ10周年記念フェスティバル",
-          "title_zh": "观看、品尝、享受……釜山美食电影节十周年庆典"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "“密阳之星旅游2026”奖…… 4个住宿、美食、咖啡馆和体验区"
         },
         {
-          "title": "농식품부, '푸드테크 육성 기본계획' 발표…정책펀드 1천억원 확대",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2MWlRa1F3dHE5dll1YkE3b2ZBUXQ4bUJNczlTYktnemlzSGVVY2lOVExoQXY3bVVRTDJyNHQ2M2UySWF1aWg1Q29teFlfeUVKa1E?oc=5",
+          "title": "[K-VIBE] 최만순의 약이 되는 K-푸드…바다와 강을 오가는 여름 농어",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FYVg0UHZnc3ZKN1NJemp1aUxnemlkVzMtOVZrVkJXQnRiczUwQnlFdE5weXVXRW4zQzZwbE5BZWozX2RDcnZGVDVfdTMzc2VBaVE?oc=5",
           "desc": "",
-          "title_en": "Ministry of Agriculture and Food announces' Basic Plan to Cultivate Food Tech '… Policy fund expands by 100 billion won",
-          "title_ja": "農林水産省が「食品技術育成基本計画」を発表…政策資金が1000億ウォン拡大",
-          "title_zh": "农业和食品部宣布“培育食品技术基本计划” …政策资金扩大1000亿韩元"
+          "title_en": "[K-VIBE] K-food that is the medicine of Choi Man-soon… Summer sea bass that travels to and from the sea and the river",
+          "title_ja": "[K - VIBE]チェ・マンソンの薬であるK - food…海と川を行き来する夏のシーバス",
+          "title_zh": "[K-VIBE] K-food是Choi Man-soon的药方……往返于大海和河流的夏季海鲈鱼"
         }
       ]
     },
