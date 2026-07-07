@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T22:13:23Z",
+  "lastUpdated": "2026-07-07T03:27:38Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "포항시, 푸드테크 로봇 거점 구축…국비 등 19억 확보",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTSThzLTRMODlNOXZIX2J4bEdmM3JUYmNqLTF6NWNtQmdsUUFIVkNtVlZvYzY3TlBtTTdOdXJKRkcwRnRqY2ZiWmI5RklfelpoYVVEcS1wandHZ9IBVEFVX3lxTE5IMlRhZzZHeHdvdkItY0d1UzA2ODJITER4TG13WkdYMnJDa2lKLXhacTMxNnF6LW5XRndwbURhMVo3R3R0cjVlZERzaUkxMnpZaS1PTQ?oc=5",
+          "desc": "",
+          "title_en": "Pohang City establishes food tech robot base… Secures 1.9 billion won in national expenses, etc.",
+          "title_ja": "浦項市がフードテックロボットの拠点を確立…国費等で19億ウォンを確保",
+          "title_zh": "浦项市建立食品科技机器人基地…保障国家支出19亿韩元等"
+        },
+        {
           "title": "현대그린푸드, 저탄소 돼지고기 쓴다",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWdqRXdXV1Fvb0VDV0VRaVJJZEVNcUUyaUJpWlo2dllRNVRDaHJYUXZFY1lVeHJneWlvckx5VzVzNmhDNjVwM20zMFAycTRfcnc3dmU0SE5UcE8xS1EtRXBqaERxZEZpcGxKZHEzc1kzcVpRTHJqQUxoeXlrbUh2SWV3Q3NSY2ZjOVd5RTllbHF0SFN5ZDRtck5tSnNJVlJrSTB6eTA2SzVZc3ZKd0E?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "\"Only 1kg of fruit?\" … Shinsegae Foods Launches' Cost-effective Bomb 'Cake for 30,000 KRW",
           "title_ja": "「たった1 kgの果物？」…新世界食品が3万ウォンで「費用対効果の高い爆弾ケーキ」を発売",
           "title_zh": "“只需1公斤水果？” …… Shinsegae Foods推出“高性价比炸弹”蛋糕，售价3万韩元"
-        },
-        {
-          "title": "장마철 실온에 두면 '독'이 되는 음식 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMEhvN29hVFdvNTF5YjdnaEZJcDRIYi1yX2VCQTBtZ2ZFUXYxRC0xTVEzaTBxSzdsSXNKTDRBWVlHOVY4Z256OV9vSWdTbHZSNTQ4cXYydk1oUdIBVEFVX3lxTFB4S1B2TWZCY1ZqRUN1a3ZRNWI1dkhYRDVsTWhhOXBBeTJBdDJkWlNuTDJlNUxadFJjUGhQMUo2QzJtZ19FNF9lZ3hkenBMRmswaDdoYg?oc=5",
-          "desc": "",
-          "title_en": "Foods that become 'poison' when left at room temperature during the rainy season [Health! Talk]",
-          "title_ja": "梅雨時期に室温で放置すると「毒」になる食品【健康！トーク】",
-          "title_zh": "雨季在室温下放置会变成“毒药”的食物[健康！谈话]"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "“‘Me2 Startup’是K-Food发展的障碍……我需要一个食谱保护装置。”"
         },
         {
-          "title": "“햄·라면 보다 훨씬 안 좋았다”…의사가 꼽은 못생겨지는 음식 1위는 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QktVYkMtelU3UUV2T0IxQkllRkxvTTNmc2FWeGZxazY3M3otWWlRbU9fUkZEdS1qWVFkWmZEVTU1ZW5KYnBxSk1rTEdxWXd1dFHSAVNBVV95cUxNblZ2M0NOT3U5cHk0QWhmZmZGN2ZwYVdwdlZtUm1UTl9NVlNuU1huZTk3OGZXZmhNbXVIVGFYcHlDZXFXbEJTY1dRTmk1bW5paWdGcw?oc=5",
+          "title": "기보, 한국식품산업협회·농협은행과 식품산업 경쟁력 강화…“K-푸드 글로벌 확산”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41aVZheVVXaTRmUkQtdlhkcUpyVkwyLWxGa3BHZUpvVXh2b1M4LUVOMExsNFN5TWxucGJ6SW42NzQwRjJnQnYtUzNHanlVVVh2T2fSAVNBVV95cUxOVlBzeUNZNHBpOXhtc3hyejRzRzdTQnN6XzZ0QVBsWDJCdHNaUUtuRkZtSUZYNENXTFBwNEdBMW9aTmdVVDNFYlN3ZThrM2s4SXpQNA?oc=5",
           "desc": "",
-          "title_en": "“It was much worse than ham and ramen” … The number one ugly food according to the doctor was [Healthy Time]",
-          "title_ja": "「ハムやラーメンよりもずっとひどかった」…医者によると、醜い食べ物のナンバーワンは[Healthy Time]でした",
-          "title_zh": "“它比火腿和拉面糟糕得多” ……根据医生的说法，头号丑陋食物是[健康时光]"
+          "title_en": "Kibo, Korea Food Industry Association, Nonghyup Bank and Food Industry Competitiveness Strengthening… “Global Spread of K-Food”",
+          "title_ja": "きぼう、韓国食品工業会、ノンヒュップ銀行、食品業界の競争力強化…「K - Foodの世界展開」",
+          "title_zh": "Kibo ，韩国食品工业协会， Nonghyup银行和食品行业竞争力增强...... “K-Food的全球传播”"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "포항시, 푸드테크 로봇 거점 구축…국비 등 19억 확보",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Q2RYSDRQMllyWXJVRE5OUi12bXpXZkp4SzliazVQSzRrVGs0T1VFMHdOOTdRYk11dzdjVlZvLTJkQWNZYXpBVnptSlpVXzhxVmc?oc=5",
+          "desc": "",
+          "title_en": "Pohang City establishes food tech robot base… Secures 1.9 billion won in national expenses, etc.",
+          "title_ja": "浦項市がフードテックロボットの拠点を確立…国費等で19億ウォンを確保",
+          "title_zh": "浦项市建立食品科技机器人基地…保障国家支出19亿韩元等"
+        },
         {
           "title": "농식품부, '푸드테크 육성 기본계획' 발표…정책펀드 1천억원 확대",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2MWlRa1F3dHE5dll1YkE3b2ZBUXQ4bUJNczlTYktnemlzSGVVY2lOVExoQXY3bVVRTDJyNHQ2M2UySWF1aWg1Q29teFlfeUVKa1E?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "K-Food specialist SMILE FND promotes listing on Canadian stock market",
           "title_ja": "K - FoodスペシャリストSMILE FNDがカナダ株式市場への上場を促進",
           "title_zh": "K-Food专家SMILE FND推动在加拿大股市上市"
-        },
-        {
-          "title": "선샤인푸드(주) 기타시장안내(상장폐지결정 등 효력정지 가처분 신청 기각결정에 따른 정리매매절차 재개)",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45Wnl3LWhNdThoNklvNzVMcXJna2FxbnRaRG9oMlRHbTBSblYyYVk3amo0M2ZSWmVscnRJbTJXQUZBTlExeGYzMzBjUGlnUFhqTUVkYWtwLUMyZw?oc=5",
-          "desc": "",
-          "title_en": "Sunshine Foods Co., Ltd. Other Market Information (Resumption of Clearance Sale Procedure following the dismissal of the motion for injunction to suspend its effect, such as the decision to delist)",
-          "title_ja": "サンシャインフーズ株式会社その他の市場情報（上場廃止の決定等、差止命令の効力停止の申立てが却下された後のクリアランス販売手続きの再開）",
-          "title_zh": "Sunshine Foods Co., Ltd.其他市场信息（驳回中止其效力的禁令动议后恢复清关销售程序，例如决定退市）"
         }
       ]
     },
