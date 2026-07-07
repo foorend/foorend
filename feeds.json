@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-07-07T17:14:10Z",
+  "lastUpdated": "2026-07-07T19:55:36Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Fat Brands lenders take over the company",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjREUVNEalEyRURGXzVEblBPemRtUm9FTU95ckc2MmRKVFowRzdlcHd1WXc3R1Y4eGcxbkNWY3ZkeGw3MWFfZ25sYnpFY1R6S2tPc1BrQ18ybzRaZ1MzTjFJMzExem9mVnNpekRDak13QzBvM01nTjhTMndQQW5LSkxWalZyUVZ2Yjdz?oc=5",
-          "desc": "",
-          "title_ko": "지방 브랜드 대출 기관이 회사를 인수합니다",
-          "title_ja": "ファットブランドの貸し手が会社を引き継ぐ",
-          "title_zh": "Fat Brands贷款人接管公司"
-        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -22,12 +14,20 @@
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         },
         {
-          "title": "Canadian chain Moxies aims to fill upscale-casual void in the U.S.",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMURGdGdUWUhkRGp6U2pmX1VNcHE2TzRsX1ZmVzY5OHIyeUwtVmlZZmdvYnkyOXM5cmgtV1pOQjhKaEx3S3NvRnlBUzBYa2s5OVRnWW50Um1rcWQ3ODRtMW5OaTkzcFVlRXZ5aGVFelpLTXhrS0hMaS1xZjlJdU5NQ29STU11TWFma1BMZElVVzdUS2JIWWc?oc=5",
+          "title": "Order cancellations cost the typical restaurant up to 3% of digital sales, new data show",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa21GRUdKSG1LcjFDc29GU3UyVFVQbEM3TWJJZGRGc1ZHcnkySjhLdHJDNklIcEZoYURZRnUzUEp2VEhVb0tHT09DTm1qUXJFMG1kV3F1cjcteDNYTHpqNngtS1JWUWNENnphYVplZW43VVN3OUV0cjF1dzBGNVk1YzhEY0d3SDRqdkh6OEZOWDhqSnhtMmpvdVk5WWIxMUpjNERjaUhjVnJadEp4NFBMSjZkXzJ4NGs5WTVqcHJ3?oc=5",
           "desc": "",
-          "title_ko": "캐나다 체인 Moxies는 미국에서 고급 캐주얼 공백을 채우는 것을 목표로합니다.",
-          "title_ja": "カナダのチェーンMoxiesは、米国の高級カジュアルな空白を埋めることを目指しています。",
-          "title_zh": "加拿大连锁店Moxies旨在填补美国的高档休闲空白。"
+          "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
+          "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
+          "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
+        },
+        {
+          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
+          "desc": "",
+          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
+          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
+          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Eater Is Coming to Netflix",
+          "link": "https://www.eater.com/press-room/972821/eater-is-coming-to-netflix",
+          "desc": "You’ll soon be able to watch your favorite Eater videos, from Mise en Place to Smoke Point, on one of the world’s biggest streamers. Today, Netflix an",
+          "title_ko": "고객이 넷플릭스에 오고 있습니다",
+          "title_ja": "注文者がNetflixに登場",
+          "title_zh": "顾客即将加入Netflix"
+        },
+        {
           "title": "Chicago’s Buzziest Restaurant Is Betting On “Casual Prix Fixe”",
           "link": "https://www.eater.com/pre-shift/972897/all-well-chicago-restaurant-pre-shift",
           "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
@@ -110,14 +118,6 @@
           "title_ko": "Eater 2026년 뉴욕 에미상 후보",
           "title_ja": "2026年ニューヨークエミー賞にノミネートされた注文者",
           "title_zh": "2026年纽约艾美奖提名顾客"
-        },
-        {
-          "title": "The Role of a Food Runner Is Changing. Is the Compensation?",
-          "link": "https://www.eater.com/dining-out/972882/how-much-do-food-runners-get-paid-delivery-takeout-orders",
-          "desc": "I recently popped into a small Vietnamese restaurant in Brooklyn for an afternoon coffee. The ambiance was inviting, and the space was decorated with ",
-          "title_ko": "푸드 러너의 역할은 변하고 있습니다. 보상이 맞습니까?",
-          "title_ja": "フードランナーの役割は変化しています。報酬ですか？",
-          "title_zh": "食物跑步者的角色正在发生变化。是薪酬吗？"
         }
       ]
     }
@@ -127,14 +127,6 @@
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
       "items": [
-        {
-          "title": "축제로 사람 모으고 로컬푸드로 돈 번다…지역경제 해법",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KQkhKSmNnSnE3ZkR0YjdvdWRlZmJZWTlVMzJKR3ZlVFg5VVlFODZwXy1pQk1NS2l1UHZlbE5qR3ZoUm95OUZDS083ZGtwRE5uTGRMczRLUWtIUdIBVEFVX3lxTFBkV2xESlNJX3ItdUw3SFc5S0FSbmpadE1MZThOaTJFcm51cUs4YWFhYkhsb3Q1S1hmWU5pOXNlakpjdjdmMHpFc2ltOEN5WTFzOEEtZw?oc=5",
-          "desc": "",
-          "title_en": "People gather for festivals and make money with local food… A regional economic solution",
-          "title_ja": "人々はお祭りのために集まり、地元の食べ物でお金を稼ぎます…地域の経済的解決策",
-          "title_zh": "人们聚集在一起庆祝节日，用当地美食赚钱……区域经济解决方案"
-        },
         {
           "title": "포항시, 푸드테크 로봇 거점 구축…국비 등 19억 확보",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTSThzLTRMODlNOXZIX2J4bEdmM3JUYmNqLTF6NWNtQmdsUUFIVkNtVlZvYzY3TlBtTTdOdXJKRkcwRnRqY2ZiWmI5RklfelpoYVVEcS1wandHZ9IBVEFVX3lxTE5IMlRhZzZHeHdvdkItY0d1UzA2ODJITER4TG13WkdYMnJDa2lKLXhacTMxNnF6LW5XRndwbURhMVo3R3R0cjVlZERzaUkxMnpZaS1PTQ?oc=5",
@@ -150,6 +142,14 @@
           "title_en": "Hyundai Green Food uses low-carbon pork",
           "title_ja": "現代グリーンフードは低炭素豚肉を使用",
           "title_zh": "现代绿色食品使用低碳猪肉"
+        },
+        {
+          "title": "\"축제만으론 안 된다\"…우르르 몰린 관광객들 돈 쓰는 곳",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KQkhKSmNnSnE3ZkR0YjdvdWRlZmJZWTlVMzJKR3ZlVFg5VVlFODZwXy1pQk1NS2l1UHZlbE5qR3ZoUm95OUZDS083ZGtwRE5uTGRMczRLUWtIUdIBVEFVX3lxTFBkV2xESlNJX3ItdUw3SFc5S0FSbmpadE1MZThOaTJFcm51cUs4YWFhYkhsb3Q1S1hmWU5pOXNlakpjdjdmMHpFc2ltOEN5WTFzOEEtZw?oc=5",
+          "desc": "",
+          "title_en": "“Festivals aren't enough” … Where tourists spend their money",
+          "title_ja": "「フェスティバルだけでは不十分」…観光客がお金を使う場所",
+          "title_zh": "“仅有节日是不够的” ……游客花钱的地方"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "浦项市建立食品科技机器人基地…保障国家支出19亿韩元等"
         },
         {
-          "title": "'2026 밀양 관광의 별' 시상…숙박·음식·카페·체험분야 4곳",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVcHd6clVoR3FSSzAwSmpwQWd6dmZnNG5aSDFhMVRoUENldDB2R084WEY1QnlTbzhjYV85SnpVYVJTVHhXZ3NpV29GV3RPNHVGanc?oc=5",
+          "title": "#명절음식-2 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaSGNzbGtLS3F3SjhvcVZ3cnEtZXVZV0R6dTRpWDFfbnR1NUw1WkhUemhmelV2c29fb29HcXoxUjF4c3lnZ2FwekJua3Z0ai02RjlSTzUxMzJidjZIa3Jvd1hBMHl3NTQzdzFUV01NQWpINHk0LUdfLQ?oc=5",
           "desc": "",
-          "title_en": "'Star of Miryang Tourism 2026' award… 4 accommodation, food, cafe, and experience areas",
-          "title_ja": "「Star of Miryang Tourism 2026」賞… 4つの宿泊施設、食べ物、カフェ、体験エリア",
-          "title_zh": "“密阳之星旅游2026”奖…… 4个住宿、美食、咖啡馆和体验区"
+          "title_en": "# Holiday Food-2 (1 Posts)",
+          "title_ja": "#ホリデーフード-2 (1投稿)",
+          "title_zh": "#假日美食-2 （ 1个帖子）"
         },
         {
-          "title": "[K-VIBE] 최만순의 약이 되는 K-푸드…바다와 강을 오가는 여름 농어",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FYVg0UHZnc3ZKN1NJemp1aUxnemlkVzMtOVZrVkJXQnRiczUwQnlFdE5weXVXRW4zQzZwbE5BZWozX2RDcnZGVDVfdTMzc2VBaVE?oc=5",
+          "title": "K-푸드 글로벌 진출에 팔 걷어붙인 농협은행",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fbElLRjhFbFpoOFlvbzVVVkcwREc2OHVRNko0OGFYSXVpOExFbjNIaW1mNU4yX2xIdmRCdGgxdkN1anFFWWV2cDRvNGk3RlkyOUxTSA?oc=5",
           "desc": "",
-          "title_en": "[K-VIBE] K-food that is the medicine of Choi Man-soon… Summer sea bass that travels to and from the sea and the river",
-          "title_ja": "[K - VIBE]チェ・マンソンの薬であるK - food…海と川を行き来する夏のシーバス",
-          "title_zh": "[K-VIBE] K-food是Choi Man-soon的药方……往返于大海和河流的夏季海鲈鱼"
+          "title_en": "Nonghyup Bank wraps its arms around K-Food's global expansion",
+          "title_ja": "ノンヒュップ銀行がK - Foodのグローバル展開を取り巻く",
+          "title_zh": "Nonghyup Bank拥抱K-Food的全球扩张"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "登大邦以新BI进军全球市场"
         },
         {
-          "title": "주말 홈브런치로 딱!…‘구운 치즈 달걀 토스트’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiTHRGLUsxUjVLdUk5UUNzZVM1dndxRkhoZ19JeXV1bWhlMjJfb0x0aDhtbWFZU3U2ZncwSkhtd09HaUpDRW5EZ1kycWdVeUN5WW5mVmFKbw?oc=5",
+          "title": "약국에서 두부를?…식품 늘리는 일본 드럭스토어",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1la0VBbGpQbG1qMTlmblNBd0stbDFXTW1OQ0pPMFF2cUxnVE9sT2hldU90N2R0U3ZScjJsZWw4VzRFS01Qd0dDcjl3NklCNFlNWmgyUmVOdw?oc=5",
           "desc": "",
-          "title_en": "Perfect for a weekend home brunch! … ‘Grilled Cheese Egg Toast’",
-          "title_ja": "週末のホームブランチにぴったり！ …「グリルチーズエッグトースト」",
-          "title_zh": "非常适合周末在家享用早午餐！ ……「烤奶酪蛋吐司」"
+          "title_en": "Tofu in pharmacies? … Japanese drugstore to increase food",
+          "title_ja": "薬局の豆腐？ …食材を増やす日本のドラッグストア",
+          "title_zh": "药店里的豆腐？ ……增加食物的日本药店"
         }
       ]
     }
