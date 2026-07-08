@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-07-08T19:25:32Z",
+  "lastUpdated": "2026-07-08T22:05:56Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Restaurants should brace for a value proposition reset",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXNPY0NDLTVMQWJCMUpveHRlQzdLamlwYVJVdWhTSTF6WFFid3NxZm5nSUlqTUF4VWZ3ZlpWaHgweW9xYXctM1Vud2NWNURYdmNDc3pXS3VDRlE4OG41SHBlYlRJbkQyQkNyOEV1cVVFWGc5eDVDd0pVN1RYb2wyLVhHSnBZLXZZTERjTng0dWlPWWZvYWk1U3k3cw?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑은 가치 제안 재설정을 지지해야 합니다",
+          "title_ja": "レストランはバリュープロポジションのリセットに備えておく必要があります",
+          "title_zh": "餐厅应为价值主张重置做好准备"
+        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
           "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
           "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
-        },
-        {
-          "title": "McDonald's accuses top meat processors of fixing pork prices",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0VxaGVQWkVUVGF5V1FlQmdOdnJMNUVHYzNfS24zSWo0d3NWRXp4eFFTOGNlVDU2WXYtQllRRzFLbV9NT3NLSW9BR3BoWHVZa0Y0UVMzOW92Y3lJR3lIZ2VsbzFfX3QyNUpHTWlFVWswVUM3QXo4NWtyLVBSNHBmc1NRRjZVRFp1WFpHc0pDSWpLV3p3RGUwR2RGX1I1SG5hZUNhUzNR?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드는 최고 육류 가공업체들이 돼지고기 가격을 담합했다고 비난합니다.",
-          "title_ja": "マクドナルドは、豚肉の価格を固定していると一流の肉加工業者を非難",
-          "title_zh": "麦当劳指责顶级肉类加工商操纵猪肉价格"
         }
       ]
     },
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“건강에 좋대서 자주 먹었는데”…‘이 음식’ 속 기생충 감염 급증, 美서 무슨 일이 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kenI5c184S09Gc0VlVW81SGYxNUxBalRPdHByUFNCNzRMZThELThSSF9Cb3JUWnpBR0p4THFhTjh2cnIzTW9ueThqQ29ldWlGRnfSAVNBVV95cUxNWVFOd2Q2OHVLV1pzQ1VFVDhKRElON2lkTVNYeTV6WFl5THNnQVJDMExxNGpkT3pWUnlGcnE4RHlRUkFCcmloY2lDUlFSQ2t4M252TQ?oc=5",
+          "desc": "",
+          "title_en": "“I used to eat often because it was good for my health” … What happened to the surge of parasitic infections in ‘this food’? [Health time]",
+          "title_ja": "「健康に良かったので、よく食べていました」…「この食べ物」の寄生虫感染症の急増はどうなりましたか？【健康時間】",
+          "title_zh": "“我以前经常吃东西，因为它对我的健康有好处” …… “这种食物”中寄生虫感染的激增是怎么回事？ [健康时间]"
+        },
+        {
           "title": "신세계푸드, ‘영양 삼계탕’ 미국 첫 수출...초도물량 8000봉",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80bGJxNjI3QWw4VlRCVUdxVTFxOTV4YUNCcXJwdGFBOVJtR0I4X09FdWRiYzJFVzY3ZGRNVUFKeWkzd3BCd1RHZXNERldBNHJycnfSAVNBVV95cUxNNGNZNE5MZjRIZHdzb2M0R3lvaWRFWG5NQWd3NEJlTWpKQ0lhU3V6Zm02a1o0TmRsdl9uMk56bUpHYzJrQjJPdVVUTW9LLUxkM051MA?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Samyang Foods surged 11% … K-Foods low-cost purchase tax accompanied by strong [head of housewife]",
           "title_ja": "Samyang Foodsが11 ％急増…強い【主婦長】を伴うK - Foodsの低価格購入税",
           "title_zh": "Samyang Foods飙升11% … K-Foods低成本采购税伴随强势【家庭主妇主管】"
-        },
-        {
-          "title": "“롯데마트서 김밥·닭강정 먹고 장도 봐요”…꽌의 나라 홀린 ‘K푸드 한 끼’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85bW1lMGRHMlRuUXliMEhaX2JINmJhS3EtcUplWEFBTGJEM0p6RDkyM0Z1a0hPbXlieGN1QWpIQnpnOHJRZjFfeTZEbWdfVHFPaXfSAVNBVV95cUxPWFJtZlpsSWY3Ylc4U3BpQ1p2R3hlSVFnWG5QTFR0X3RxYldISHhHNFZhMVBfR3dLQlQ2Z1J5eVgwcVEyLTNRSWNvU0hjVEpNWkR2dw?oc=5",
-          "desc": "",
-          "title_en": "“Eat Gimbap and Chicken Kangjung at Lotte Mart and go to the grocery store” … ‘K-food one meal‘ in the country of ’",
-          "title_ja": "「ロッテマートでギンバップとチキンカンジュンを食べて、食料品店に行く」…「K - food one meal」",
-          "title_zh": "“在乐天超市吃Gimbap和Chicken Kangjung ，然后去杂货店” …… ‘K-food one meal‘ in the country of ’"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Shinsegae Food ， “Nutrition Samgyetang”首次出口到美国......本月出货8,000 Bong"
         },
         {
-          "title": "포항시, 푸드테크 로봇 거점 구축…국비 등 19억 확보",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Q2RYSDRQMllyWXJVRE5OUi12bXpXZkp4SzliazVQSzRrVGs0T1VFMHdOOTdRYk11dzdjVlZvLTJkQWNZYXpBVnptSlpVXzhxVmc?oc=5",
-          "desc": "",
-          "title_en": "Pohang City establishes food tech robot base… Secures 1.9 billion won in national expenses, etc.",
-          "title_ja": "浦項市がフードテックロボットの拠点を確立…国費等で19億ウォンを確保",
-          "title_zh": "浦项市建立食品科技机器人基地…保障国家支出19亿韩元等"
-        },
-        {
           "title": "신기루 “모친상 후 미각 상실…이틀 동안 20가지 음식 먹어” (‘동상이몽’)",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fNnY2QlpXcUpMTXBCNVh3MVB1TWlzMnVhMFZueW1leE9wVXFvTWkwQjJLd0hUS1lpT0cyM1hhM29ua3ZmWVhQNFd3eTNrakF4aGo0dmlrYjBQcGJmbDdwUTB4Znh4Zw?oc=5",
           "desc": "",
           "title_en": "Mirage “Lost taste after motherhood… eat 20 foods in 2 days” (‘Frostbite’)",
           "title_ja": "ミラージュ「母親になった後の味覚の喪失… 2日間で20の食べ物を食べる」（「凍傷」）",
           "title_zh": "海市蜃楼“做母亲后失去的味道……在2天内吃20种食物” （ “冻伤” ）"
+        },
+        {
+          "title": "'2026 밀양 관광의 별' 시상…숙박·음식·카페·체험분야 4곳",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVcHd6clVoR3FSSzAwSmpwQWd6dmZnNG5aSDFhMVRoUENldDB2R084WEY1QnlTbzhjYV85SnpVYVJTVHhXZ3NpV29GV3RPNHVGanc?oc=5",
+          "desc": "",
+          "title_en": "'Star of Miryang Tourism 2026' award… 4 accommodation, food, cafe, and experience areas",
+          "title_ja": "「Star of Miryang Tourism 2026」賞… 4つの宿泊施設、食べ物、カフェ、体験エリア",
+          "title_zh": "“密阳之星旅游2026”奖…… 4个住宿、美食、咖啡馆和体验区"
         }
       ]
     },
