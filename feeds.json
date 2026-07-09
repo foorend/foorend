@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-07-09T15:10:31Z",
+  "lastUpdated": "2026-07-09T19:46:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "McDonald's tries its hand at hand-breaded chicken",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa25PZXVFRTdtWThwNVVrQ0dDMUNrTFppbzFKd29sLWpTUUQ5OGhURGxvTjZ4V1g3OWhMWWZCSW9IcUpIek5kV2VsOUxlUmtJOXRmZnFZYmJiMmxudFNrUVpIazhaYy1DMFkxc1lGQmlVb1R6TGxmdEcyME1yeWxuNy1MVEJqWjhSclpnWVFubENqR3hkcUpMYjdvYTA?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드는 수제빵 치킨을 시도합니다.",
+          "title_ja": "マクドナルドは手打ちの鶏肉を試しています",
+          "title_zh": "麦当劳尝试手工烘焙鸡肉"
+        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
           "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
           "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
-        },
-        {
-          "title": "McDonald's accuses top meat processors of fixing pork prices",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0VxaGVQWkVUVGF5V1FlQmdOdnJMNUVHYzNfS24zSWo0d3NWRXp4eFFTOGNlVDU2WXYtQllRRzFLbV9NT3NLSW9BR3BoWHVZa0Y0UVMzOW92Y3lJR3lIZ2VsbzFfX3QyNUpHTWlFVWswVUM3QXo4NWtyLVBSNHBmc1NRRjZVRFp1WFpHc0pDSWpLV3p3RGUwR2RGX1I1SG5hZUNhUzNR?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드는 최고 육류 가공업체들이 돼지고기 가격을 담합했다고 비난합니다.",
-          "title_ja": "マクドナルドは、豚肉の価格を固定していると一流の肉加工業者を非難",
-          "title_zh": "麦当劳指责顶级肉类加工商操纵猪肉价格"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Latest Gig Economy Hustle? Restaurant Line-Sitting",
+          "link": "https://www.eater.com/dining-out/973730/line-sitters-standers-restaurant-waitlist",
+          "desc": "How long would you wait in line for dessert? For food lovers craving this summer’s TikTok-viral dot cakes, the lines in front of Manhattan’s Butterfie",
+          "title_ko": "최신 긱 이코노미 허슬? 레스토랑 라인 시팅",
+          "title_ja": "最新のギグエコノミーハッスル？レストランのラインシッティング",
+          "title_zh": "最新的零工经济喧嚣？餐厅排队"
+        },
+        {
           "title": "Eater Is Coming to Netflix",
           "link": "https://www.eater.com/press-room/972821/eater-is-coming-to-netflix",
           "desc": "You’ll soon be able to watch your favorite Eater videos, from Mise en Place to Smoke Point, on one of the world’s biggest streamers. Today, Netflix an",
@@ -110,14 +118,6 @@
           "title_ko": "시카고에서 가장 분주한 레스토랑이 '캐주얼 프릭스 픽스' 에 베팅 중입니다.",
           "title_ja": "シカゴで最も賑やかなレストランが「カジュアルプリフィックス」に賭けています",
           "title_zh": "芝加哥最热闹的餐厅正在押注“休闲大奖赛”"
-        },
-        {
-          "title": "Eater Nominated for 2026 New York Emmy",
-          "link": "https://www.eater.com/press-room/972900/eater-nominated-for-2026-new-york-emmy",
-          "desc": "Eater has been nominated once again for a New York Emmy Award, its eighteenth in nine years. The 2026 nominations, announced today, recognized an epis",
-          "title_ko": "Eater 2026년 뉴욕 에미상 후보",
-          "title_ja": "2026年ニューヨークエミー賞にノミネートされた注文者",
-          "title_zh": "2026年纽约艾美奖提名顾客"
         }
       ]
     }
@@ -136,12 +136,12 @@
           "title_zh": "50年代的个人悲观情绪……丈夫在餐厅将化学物质与食物混合而中毒"
         },
         {
-          "title": "포항시, 푸드테크 로봇 거점 구축…국비 등 19억 확보",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTSThzLTRMODlNOXZIX2J4bEdmM3JUYmNqLTF6NWNtQmdsUUFIVkNtVlZvYzY3TlBtTTdOdXJKRkcwRnRqY2ZiWmI5RklfelpoYVVEcS1wandHZ9IBVEFVX3lxTE5IMlRhZzZHeHdvdkItY0d1UzA2ODJITER4TG13WkdYMnJDa2lKLXhacTMxNnF6LW5XRndwbURhMVo3R3R0cjVlZERzaUkxMnpZaS1PTQ?oc=5",
+          "title": "축제로 사람 모으고 로컬푸드로 돈 번다…지역경제 해법",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkV2xESlNJX3ItdUw3SFc5S0FSbmpadE1MZThOaTJFcm51cUs4YWFhYkhsb3Q1S1hmWU5pOXNlakpjdjdmMHpFc2ltOEN5WTFzOEEtZ9IBVEFVX3lxTFBkV2xESlNJX3ItdUw3SFc5S0FSbmpadE1MZThOaTJFcm51cUs4YWFhYkhsb3Q1S1hmWU5pOXNlakpjdjdmMHpFc2ltOEN5WTFzOEEtZw?oc=5",
           "desc": "",
-          "title_en": "Pohang City establishes food tech robot base… Secures 1.9 billion won in national expenses, etc.",
-          "title_ja": "浦項市がフードテックロボットの拠点を確立…国費等で19億ウォンを確保",
-          "title_zh": "浦项市建立食品科技机器人基地…保障国家支出19亿韩元等"
+          "title_en": "People gather for festivals and make money with local food… A regional economic solution",
+          "title_ja": "人々はお祭りのために集まり、地元の食べ物でお金を稼ぎます…地域の経済的解決策",
+          "title_zh": "人们聚集在一起庆祝节日，用当地美食赚钱……区域经济解决方案"
         },
         {
           "title": "'한 끼 20만원' 뭐가 다르길래…호텔 뷔페 갔다가 깜짝 놀랐다 [트렌드+]",
@@ -196,20 +196,20 @@
           "title_zh": "农粮大臣宋美亮“支持K-Food扩大对蒙古出口”"
         },
         {
-          "title": "[왜요왜요 만두와 음식탐험] 떡볶이 이야기 | KBS 260521 방송",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JQ25NaHJvUTktcFZybTRTWURRdW1TcmI3dmtMNTNUanFEX1BIV05rWGJxR05scV83aTJDa2YtWERfbUYxR0ZkXzF6ME1NTlJkOXdWRA?oc=5",
-          "desc": "",
-          "title_en": "[Exploring Why Why Dumplings and Food] Tteokbokki Story | KBS 260521",
-          "title_ja": "【なぜ餃子と食べ物なのか探る】Tteokbokki Story ｜ KBS 260521",
-          "title_zh": "[探索为什么选择饺子和美食] Tteokbokki故事| KBS 260521"
-        },
-        {
           "title": "버거킹 “여름 한정판매 ‘보일링 씨푸드 버거’ 목표 판매량 165% 달성”",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNSTZMcmtha2lyblNNSzV1MFhNbXRhU2oxZ3pwZWx6UHF6TWVPYnpIQVgzTGVUVU9QamxoclItanRkRllPQlpnSi0yN01wYzJvUFV6Qg?oc=5",
           "desc": "",
           "title_en": "Burger King “Exclusive Summer Sale ‘Boiling Seafood Burger’ Target Sales Reached 165%”",
           "title_ja": "ハンバーガーキング「夏季限定セール『ゆでシーフードバーガー』目標売上165%達成」",
           "title_zh": "汉堡王“独家夏季促销‘沸腾海鲜汉堡’目标销售额达到165%”"
+        },
+        {
+          "title": "신세계푸드, '영양 삼계탕' 미국에 첫 수출…이달 8천봉 선적",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yVWRiTVUyY1dGNDdmelg1SE8zUXN3NDBGdm4wek9BSmFtZjZmSS12Wjd1ZGFvcEJxN0RYSDkzYlRhQUdlbEtaSnhuZnFtWDNYT1E?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Food, 'Nutrition Samgyetang' Exported to the United States for the First Time… Shipped 8,000 Bong This Month",
+          "title_ja": "新世界食品「Nutrition Samgyetang」、初めて米国に輸出…今月8,000本出荷",
+          "title_zh": "Shinsegae Food ， “Nutrition Samgyetang”首次出口到美国......本月出货8,000 Bong"
         }
       ]
     },
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "이디야커피, ‘유엔참전국 미래세대 교류캠프’ 발대식 후원",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BX0RHaWFLQU1hZFpXNVgwTDFwYko5ajZWTElFRWhNaTUxcDEta2Z4cjdkanNnQ2dGdHlqZDd5T1lqSDlmbG5SLXhLMk5jeFNIakNfblYwcw?oc=5",
+          "title": "롯데호텔 보양식, 간편하게 산다…롯데백화점 본점서 팝업",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ITG9RRVZtbXpMLXg1UGxVUTdZb1poeGNlSWVuamtPc2dzblZrcXkwSy04X2VYSzJmMFJJVnBNdk1DMjRVMnFNRTNJaTJiRDZmOVB5LU9WMA?oc=5",
           "desc": "",
-          "title_en": "Ediya Coffee Sponsors Future Generations Exchange Camp in UN Participating Countries",
-          "title_ja": "Ediya Coffeeが国連加盟国で次世代交流キャンプを後援",
-          "title_zh": "Ediya Coffee赞助联合国参与国的子孙后代交流营"
+          "title_en": "Lotte Hotel Soyangsik, Living Easily… Lotte Department Store Main Store Pop-up",
+          "title_ja": "ロッテホテルソヤンシク、暮らしやすい…ロッテ百貨店本店ポップアップ",
+          "title_zh": "乐天Soyangsik酒店，轻松生活……乐天百货主店快闪"
         },
         {
           "title": "빽다방, 신규 BI로 글로벌 시장 본격 진출",
