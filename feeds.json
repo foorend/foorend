@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-07-09T03:20:59Z",
+  "lastUpdated": "2026-07-09T15:10:31Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Restaurants should brace for a value proposition reset",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXNPY0NDLTVMQWJCMUpveHRlQzdLamlwYVJVdWhTSTF6WFFid3NxZm5nSUlqTUF4VWZ3ZlpWaHgweW9xYXctM1Vud2NWNURYdmNDc3pXS3VDRlE4OG41SHBlYlRJbkQyQkNyOEV1cVVFWGc5eDVDd0pVN1RYb2wyLVhHSnBZLXZZTERjTng0dWlPWWZvYWk1U3k3cw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑은 가치 제안 재설정을 지지해야 합니다",
-          "title_ja": "レストランはバリュープロポジションのリセットに備えておく必要があります",
-          "title_zh": "餐厅应为价值主张重置做好准备"
-        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
           "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
           "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
+        },
+        {
+          "title": "McDonald's accuses top meat processors of fixing pork prices",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0VxaGVQWkVUVGF5V1FlQmdOdnJMNUVHYzNfS24zSWo0d3NWRXp4eFFTOGNlVDU2WXYtQllRRzFLbV9NT3NLSW9BR3BoWHVZa0Y0UVMzOW92Y3lJR3lIZ2VsbzFfX3QyNUpHTWlFVWswVUM3QXo4NWtyLVBSNHBmc1NRRjZVRFp1WFpHc0pDSWpLV3p3RGUwR2RGX1I1SG5hZUNhUzNR?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드는 최고 육류 가공업체들이 돼지고기 가격을 담합했다고 비난합니다.",
+          "title_ja": "マクドナルドは、豚肉の価格を固定していると一流の肉加工業者を非難",
+          "title_zh": "麦当劳指责顶级肉类加工商操纵猪肉价格"
         }
       ]
     },
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"축제만으론 안 된다\"…우르르 몰린 관광객들 돈 쓰는 곳",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KQkhKSmNnSnE3ZkR0YjdvdWRlZmJZWTlVMzJKR3ZlVFg5VVlFODZwXy1pQk1NS2l1UHZlbE5qR3ZoUm95OUZDS083ZGtwRE5uTGRMczRLUWtIUdIBVEFVX3lxTFBkV2xESlNJX3ItdUw3SFc5S0FSbmpadE1MZThOaTJFcm51cUs4YWFhYkhsb3Q1S1hmWU5pOXNlakpjdjdmMHpFc2ltOEN5WTFzOEEtZw?oc=5",
+          "title": "신변 비관 50대 女…식당서 음식에 화학물질 섞어 남편 독살",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12OVpJdzM5NC1mbjZzWVNFNWo0ODFHVV9TMl9vYTQtUWROa3RxVVZSanlsS1pGaVYxN0hHMExpZTRiUDhWd1JsXzJaZkVERnhGa1g5Zm52THMwQdIBVEFVX3lxTE1Oek1LMnVVNm5qaU03UW4yeHVNdFBGcFVUX2NtbnhKZndwUUo5SnpoUlFmRjNtUWFjMXMxamVZakkxVmxnZUtLU21sREx2ZFMyV2lpQQ?oc=5",
           "desc": "",
-          "title_en": "“Festivals aren't enough” … Where tourists spend their money",
-          "title_ja": "「フェスティバルだけでは不十分」…観光客がお金を使う場所",
-          "title_zh": "“仅有节日是不够的” ……游客花钱的地方"
+          "title_en": "Personal pessimism in the 50s… Husband poisoned by mixing chemicals with food in a restaurant",
+          "title_ja": "50年代の個人的な悲観論…レストランで食べ物と化学物質を混ぜて毒を盛られた夫",
+          "title_zh": "50年代的个人悲观情绪……丈夫在餐厅将化学物质与食物混合而中毒"
         },
         {
           "title": "포항시, 푸드테크 로봇 거점 구축…국비 등 19억 확보",
@@ -144,12 +144,12 @@
           "title_zh": "浦项市建立食品科技机器人基地…保障国家支出19亿韩元等"
         },
         {
-          "title": "현대그린푸드, 저탄소 돼지고기 쓴다",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWdqRXdXV1Fvb0VDV0VRaVJJZEVNcUUyaUJpWlo2dllRNVRDaHJYUXZFY1lVeHJneWlvckx5VzVzNmhDNjVwM20zMFAycTRfcnc3dmU0SE5UcE8xS1EtRXBqaERxZEZpcGxKZHEzc1kzcVpRTHJqQUxoeXlrbUh2SWV3Q3NSY2ZjOVd5RTllbHF0SFN5ZDRtck5tSnNJVlJrSTB6eTA2SzVZc3ZKd0E?oc=5",
+          "title": "'한 끼 20만원' 뭐가 다르길래…호텔 뷔페 갔다가 깜짝 놀랐다 [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaHE1cjNpUUg4dlJ1QWZZNk9RVjB2ZDdEemFNb2M0NUVuV3RQMlhHZUN4ZmUxQTVBY09XTjZpckptSndxUlE3QXpURlFjM3lYbTJhZTM3Ty11UdIBVEFVX3lxTFBRRGJHZ3J0YXN1UEtmc1I5UjJzSXloQXFBYTRTTGtkREtSSjRWV21PQlRWTllHZktmOW5wZ2tRQzBDVXdTNFdITm9DWUZ1NDJiWnMxaA?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food uses low-carbon pork",
-          "title_ja": "現代グリーンフードは低炭素豚肉を使用",
-          "title_zh": "现代绿色食品使用低碳猪肉"
+          "title_en": "'200,000 won a meal' What was different... I was surprised when I went to the hotel buffet [Trend +]",
+          "title_ja": "「20万ウォンの食事」何が違うのか…ホテルのビュッフェに行ったらびっくりした[トレンド+]",
+          "title_zh": "「20万韩元一顿饭」有什么不同......当我去酒店自助餐时，我很惊讶[趋势+]"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "[로터리] K-푸드 새 선봉장, 이제는 발효식품",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13OUVJVngxdkZBS2JhSHpFdWE3Q1hFVE5wckNoTXdrLTlkZTRZdmNCVkp2QkI1bkozQ3c4RmhmeHU0M2pCS2NScEVid1ZiSmlGY0HSAVNBVV95cUxPQkM0WWJFVTU3TTgzQ0xKcGxTNC0xZ1JKNnZIeXBoVzVWMHFpUjFTR3ZOd2Z4cU12cWh3a3JoN0p3NVpOekpIZ0FBRlU2M2c5V1JuTQ?oc=5",
+          "desc": "",
+          "title_en": "[Rotary] K-Food new vanguard, now fermented food",
+          "title_ja": "【ロータリー】K - Food新ヴァンガード発酵食品",
+          "title_zh": "[Rotary] K-Food新先锋，现为发酵食品"
+        },
         {
           "title": "“건강에 좋대서 자주 먹었는데”…‘이 음식’ 속 기생충 감염 급증, 美서 무슨 일이 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kenI5c184S09Gc0VlVW81SGYxNUxBalRPdHByUFNCNzRMZThELThSSF9Cb3JUWnpBR0p4THFhTjh2cnIzTW9ueThqQ29ldWlGRnfSAVNBVV95cUxNWVFOd2Q2OHVLV1pzQ1VFVDhKRElON2lkTVNYeTV6WFl5THNnQVJDMExxNGpkT3pWUnlGcnE4RHlRUkFCcmloY2lDUlFSQ2t4M252TQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Shinsegae Food, ‘Nutrition Samgyetang’ America's first export... Initial volume 8,000 won",
           "title_ja": "Shinsegae Food、「Nutrition Samgyetang」アメリカ初の輸出...初回ボリューム8,000ウォン",
           "title_zh": "Shinsegae Food ， “Nutrition Samgyetang”美国首次出口...初始量8,000韩元"
-        },
-        {
-          "title": "삼양식품 11% 급등…K푸드株 저가매수세에 동반 강세[코주부]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95YllxTFZmcEtYNDVZRjNsZmdtbjA4ZHM3bWVZOUdNaTRqYlI3eVNIX3ZWMWRoNldkQU1qLURCUkRNdnpEVnBtbllKaGNQS1ExV1HSAVNBVV95cUxOQjJ1ZE9sRVpFUWdlM2ZTaS1HbUZXUzdmRmt2VlZvN1BxYzZvUVRiYTlLY09lTWFmZ0ZvQkIwQVc2aVUwa1RsRk1QVUVOcmpGZnhrVQ?oc=5",
-          "desc": "",
-          "title_en": "Samyang Foods surged 11% … K-Foods low-cost purchase tax accompanied by strong [head of housewife]",
-          "title_ja": "Samyang Foodsが11 ％急増…強い【主婦長】を伴うK - Foodsの低価格購入税",
-          "title_zh": "Samyang Foods飙升11% … K-Foods低成本采购税伴随强势【家庭主妇主管】"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "송미령 농식품 장관 \"몽골에 K푸드 수출 확대 지원\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRd3o1d20wY25qclo5Wm9ocFBKYTlLQW14NWF0c0l3WUZJVTRHcnJyWEFJbW9oWjh5U25IZEtreXc2aDhsT0JlOWtYZE0zZDBlNmc?oc=5",
+          "desc": "",
+          "title_en": "Song Mi Ryeong, Minister of Agriculture and Food, \"Supporting the Expansion of K-Food Exports to Mongolia\"",
+          "title_ja": "ソン・ミリョン農食大臣「モンゴルへのK - Food輸出拡大支援」",
+          "title_zh": "农粮大臣宋美亮“支持K-Food扩大对蒙古出口”"
+        },
         {
           "title": "[왜요왜요 만두와 음식탐험] 떡볶이 이야기 | KBS 260521 방송",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JQ25NaHJvUTktcFZybTRTWURRdW1TcmI3dmtMNTNUanFEX1BIV05rWGJxR05scV83aTJDa2YtWERfbUYxR0ZkXzF6ME1NTlJkOXdWRA?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Burger King “Exclusive Summer Sale ‘Boiling Seafood Burger’ Target Sales Reached 165%”",
           "title_ja": "ハンバーガーキング「夏季限定セール『ゆでシーフードバーガー』目標売上165%達成」",
           "title_zh": "汉堡王“独家夏季促销‘沸腾海鲜汉堡’目标销售额达到165%”"
-        },
-        {
-          "title": "신세계푸드, '영양 삼계탕' 미국에 첫 수출…이달 8천봉 선적",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yVWRiTVUyY1dGNDdmelg1SE8zUXN3NDBGdm4wek9BSmFtZjZmSS12Wjd1ZGFvcEJxN0RYSDkzYlRhQUdlbEtaSnhuZnFtWDNYT1E?oc=5",
-          "desc": "",
-          "title_en": "Shinsegae Food, 'Nutrition Samgyetang' Exported to the United States for the First Time… Shipped 8,000 Bong This Month",
-          "title_ja": "新世界食品「Nutrition Samgyetang」、初めて米国に輸出…今月8,000本出荷",
-          "title_zh": "Shinsegae Food ， “Nutrition Samgyetang”首次出口到美国......本月出货8,000 Bong"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "登大邦以新BI进军全球市场"
         },
         {
-          "title": "약국에서 두부를?…식품 늘리는 일본 드럭스토어",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1la0VBbGpQbG1qMTlmblNBd0stbDFXTW1OQ0pPMFF2cUxnVE9sT2hldU90N2R0U3ZScjJsZWw4VzRFS01Qd0dDcjl3NklCNFlNWmgyUmVOdw?oc=5",
+          "title": "주말 홈브런치로 딱!…‘구운 치즈 달걀 토스트’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiTHRGLUsxUjVLdUk5UUNzZVM1dndxRkhoZ19JeXV1bWhlMjJfb0x0aDhtbWFZU3U2ZncwSkhtd09HaUpDRW5EZ1kycWdVeUN5WW5mVmFKbw?oc=5",
           "desc": "",
-          "title_en": "Tofu in pharmacies? … Japanese drugstore to increase food",
-          "title_ja": "薬局の豆腐？ …食材を増やす日本のドラッグストア",
-          "title_zh": "药店里的豆腐？ ……增加食物的日本药店"
+          "title_en": "Perfect for a weekend home brunch! … ‘Grilled Cheese Egg Toast’",
+          "title_ja": "週末のホームブランチにぴったり！ …「グリルチーズエッグトースト」",
+          "title_zh": "非常适合周末在家享用早午餐！ ……「烤奶酪蛋吐司」"
         }
       ]
     }
