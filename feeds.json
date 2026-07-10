@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T09:35:54Z",
+  "lastUpdated": "2026-07-10T14:27:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Thoughtful Kitchen Prep Helps This NYC Hotel Feed Thousands of Guests",
+          "link": "https://www.eater.com/video/973741/how-arlo-williamsburg-hotel-preps-for-service",
+          "desc": "This episode of Large Format goes inside the dining rush at Arlo Williamsburg, where hundreds of diners stream into the onsite restaurant, Sungold, wh",
+          "title_ko": "세심한 주방 준비는 이 뉴욕 호텔이 수천 명의 게스트에게 음식을 제공하는 데 도움이 됩니다.",
+          "title_ja": "思いやりのあるキッチンの準備が、このニューヨーク市のホテルが何千人ものゲストを養うのに役立ちます",
+          "title_zh": "周到的厨房准备有助于这家纽约市酒店为成千上万的房客提供食物"
+        },
+        {
           "title": "The Latest Gig Economy Hustle? Restaurant Line-Sitting",
           "link": "https://www.eater.com/dining-out/973730/line-sitters-standers-restaurant-waitlist",
           "desc": "How long would you wait in line for dessert? For food lovers craving this summer’s TikTok-viral dot cakes, the lines in front of Manhattan’s Butterfie",
@@ -110,14 +118,6 @@
           "title_ko": "고객이 넷플릭스에 오고 있습니다",
           "title_ja": "注文者がNetflixに登場",
           "title_zh": "顾客即将加入Netflix"
-        },
-        {
-          "title": "Chicago’s Buzziest Restaurant Is Betting On “Casual Prix Fixe”",
-          "link": "https://www.eater.com/pre-shift/972897/all-well-chicago-restaurant-pre-shift",
-          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "시카고에서 가장 분주한 레스토랑이 '캐주얼 프릭스 픽스' 에 베팅 중입니다.",
-          "title_ja": "シカゴで最も賑やかなレストランが「カジュアルプリフィックス」に賭けています",
-          "title_zh": "芝加哥最热闹的餐厅正在押注“休闲大奖赛”"
         }
       ]
     }
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "[로터리] K-푸드 새 선봉장, 이제는 발효식품",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13OUVJVngxdkZBS2JhSHpFdWE3Q1hFVE5wckNoTXdrLTlkZTRZdmNCVkp2QkI1bkozQ3c4RmhmeHU0M2pCS2NScEVid1ZiSmlGY0HSAVNBVV95cUxPQkM0WWJFVTU3TTgzQ0xKcGxTNC0xZ1JKNnZIeXBoVzVWMHFpUjFTR3ZOd2Z4cU12cWh3a3JoN0p3NVpOekpIZ0FBRlU2M2c5V1JuTQ?oc=5",
-          "desc": "",
-          "title_en": "[Rotary] K-Food new vanguard, now fermented food",
-          "title_ja": "【ロータリー】K - Food新ヴァンガード発酵食品",
-          "title_zh": "[Rotary] K-Food新先锋，现为发酵食品"
-        },
-        {
           "title": "남양유업, 몽골에 K푸드 수출길 넓힌다…100억 수출 협약",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uMzlzMlF3bndjQ296RldIRDZKNnhtSk1RaTlyN1FoMW9JUTl3a1pNaldnSlZNVHZDenhLVkZLRlgwMjNhOEhsdUh5Y1hPSXBMb3fSAVNBVV95cUxNOVh0dXBBbTk3VnUtSDI4NnEyNFpOc0R2b2pLakxRYTJ2bmJFbmNtQWYtTWlXeERUYWU4RzhQX2dqYTV0MmZma3cxeWJRVTJLUGlyNA?oc=5",
           "desc": "",
           "title_en": "Namyang Oil Business Expands K-Food Export Road to Mongolia… 10 Billion Export Agreement",
           "title_ja": "南洋石油事業、モンゴルへのK - Food輸出路を拡大… 100億ドルの輸出契約",
           "title_zh": "南阳石油业务拓展蒙古国K-Food出口路线… 100亿元出口协议"
+        },
+        {
+          "title": "[로터리] K-푸드 새 선봉장, 이제는 발효식품",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13OUVJVngxdkZBS2JhSHpFdWE3Q1hFVE5wckNoTXdrLTlkZTRZdmNCVkp2QkI1bkozQ3c4RmhmeHU0M2pCS2NScEVid1ZiSmlGY0HSAVNBVV95cUxPQkM0WWJFVTU3TTgzQ0xKcGxTNC0xZ1JKNnZIeXBoVzVWMHFpUjFTR3ZOd2Z4cU12cWh3a3JoN0p3NVpOekpIZ0FBRlU2M2c5V1JuTQ?oc=5",
+          "desc": "",
+          "title_en": "[Rotary] K-Food new vanguard, now fermented food",
+          "title_ja": "【ロータリー】K - Food新ヴァンガード発酵食品",
+          "title_zh": "[Rotary] K-Food新先锋，现为发酵食品"
         },
         {
           "title": "“건강에 좋대서 자주 먹었는데”…‘이 음식’ 속 기생충 감염 급증, 美서 무슨 일이 [헬시타임]",
@@ -204,12 +204,12 @@
           "title_zh": "农粮大臣宋美亮“支持K-Food扩大对蒙古出口”"
         },
         {
-          "title": "[왜요왜요 만두와 음식탐험] 떡볶이 이야기 | KBS 260521 방송",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JQ25NaHJvUTktcFZybTRTWURRdW1TcmI3dmtMNTNUanFEX1BIV05rWGJxR05scV83aTJDa2YtWERfbUYxR0ZkXzF6ME1NTlJkOXdWRA?oc=5",
+          "title": "음식으로 남편 독살한 50대 여성…이유묻자 “먼저 떠난 딸에 미안해서”",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02UWxxQ1JGNlZXNldJZ21KckxTME5pT0NWM2lTbW1yYWFQVHloYzZFSHlISV8wVjJua2VQb3hzbklxam9wTC1tNlluRFBiUmNPM251UQ?oc=5",
           "desc": "",
-          "title_en": "[Exploring Why Why Dumplings and Food] Tteokbokki Story | KBS 260521",
-          "title_ja": "【なぜ餃子と食べ物なのか探る】Tteokbokki Story ｜ KBS 260521",
-          "title_zh": "[探索为什么选择饺子和美食] Tteokbokki故事| KBS 260521"
+          "title_en": "A woman in her 50s who poisoned her husband with food… When asked why, “I'm sorry for my daughter who left first”",
+          "title_ja": "夫に食べ物で毒を盛った50代の女性…「先に去ってしまった娘に申し訳ありません」と尋ねられたとき",
+          "title_zh": "一位50多岁的女士用食物毒害了她的丈夫……当被问及为什么时， “我很抱歉我的女儿先离开了”"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "乐天Soyangsik酒店，轻松生活……乐天百货主店快闪"
         },
         {
-          "title": "빽다방, 신규 BI로 글로벌 시장 본격 진출",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLcUhxTU5SamxKT0xzOWhBLUlRaklqREdzaTczakFzWHR3RnloRU5iMThjaWt0X0NJQ0E2bXFWMWExdUdfWUt0MkpKS0JvNlNqNG1Xb0FtTQ?oc=5",
+          "title": "이디야커피, ‘유엔참전국 미래세대 교류캠프’ 발대식 후원",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BX0RHaWFLQU1hZFpXNVgwTDFwYko5ajZWTElFRWhNaTUxcDEta2Z4cjdkanNnQ2dGdHlqZDd5T1lqSDlmbG5SLXhLMk5jeFNIakNfblYwcw?oc=5",
           "desc": "",
-          "title_en": "Dengdabang enters global market with new BI",
-          "title_ja": "Dengdabang、新しいBIでグローバル市場に参入",
-          "title_zh": "登大邦以新BI进军全球市场"
+          "title_en": "Ediya Coffee Sponsors Future Generations Exchange Camp in UN Participating Countries",
+          "title_ja": "Ediya Coffeeが国連加盟国で次世代交流キャンプを後援",
+          "title_zh": "Ediya Coffee赞助联合国参与国的子孙后代交流营"
         }
       ]
     }
