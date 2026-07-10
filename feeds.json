@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T03:22:56Z",
+  "lastUpdated": "2026-07-10T09:35:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "고속도로 휴게소 음식값",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TDVSNDJHRklabmZuTDY0bFBWNkRTQ2JUeEpSYVlweG9kOS00RlFNclY0X1ptcDk3UkZpYkdySDNFWGlSQlJ6bFpBSkM2Q0JianpKbVpkQnh4Z9IBVEFVX3lxTFA0MnU1QVltOWVYMmdoY2V6cmVhQXRQanN0dW5DenBTTXV3dzZtNE85TXRwT0w3aTVsdF9JQzJSZkZwWnRIb2RhRk5jeXVZR05FRng5Xw?oc=5",
+          "desc": "",
+          "title_en": "Highway rest area food prices",
+          "title_ja": "ハイウェイ休憩エリアの食品価格",
+          "title_zh": "公路休息区食品价格"
+        },
+        {
           "title": "신변 비관 50대 女…식당서 음식에 화학물질 섞어 남편 독살",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12OVpJdzM5NC1mbjZzWVNFNWo0ODFHVV9TMl9vYTQtUWROa3RxVVZSanlsS1pGaVYxN0hHMExpZTRiUDhWd1JsXzJaZkVERnhGa1g5Zm52THMwQdIBVEFVX3lxTE1Oek1LMnVVNm5qaU03UW4yeHVNdFBGcFVUX2NtbnhKZndwUUo5SnpoUlFmRjNtUWFjMXMxamVZakkxVmxnZUtLU21sREx2ZFMyV2lpQQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "'200,000 won a meal' What was different... I was surprised when I went to the hotel buffet [Trend +]",
           "title_ja": "「20万ウォンの食事」何が違うのか…ホテルのビュッフェに行ったらびっくりした[トレンド+]",
           "title_zh": "「20万韩元一顿饭」有什么不同......当我去酒店自助餐时，我很惊讶[趋势+]"
-        },
-        {
-          "title": "\"축제만으론 안 된다\"…우르르 몰린 관광객들 돈 쓰는 곳",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KQkhKSmNnSnE3ZkR0YjdvdWRlZmJZWTlVMzJKR3ZlVFg5VVlFODZwXy1pQk1NS2l1UHZlbE5qR3ZoUm95OUZDS083ZGtwRE5uTGRMczRLUWtIUdIBVEFVX3lxTFBkV2xESlNJX3ItdUw3SFc5S0FSbmpadE1MZThOaTJFcm51cUs4YWFhYkhsb3Q1S1hmWU5pOXNlakpjdjdmMHpFc2ltOEN5WTFzOEEtZw?oc=5",
-          "desc": "",
-          "title_en": "“Festivals aren't enough” … Where tourists spend their money",
-          "title_ja": "「フェスティバルだけでは不十分」…観光客がお金を使う場所",
-          "title_zh": "“仅有节日是不够的” ……游客花钱的地方"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "[Rotary] K-Food新先锋，现为发酵食品"
         },
         {
+          "title": "남양유업, 몽골에 K푸드 수출길 넓힌다…100억 수출 협약",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uMzlzMlF3bndjQ296RldIRDZKNnhtSk1RaTlyN1FoMW9JUTl3a1pNaldnSlZNVHZDenhLVkZLRlgwMjNhOEhsdUh5Y1hPSXBMb3fSAVNBVV95cUxNOVh0dXBBbTk3VnUtSDI4NnEyNFpOc0R2b2pLakxRYTJ2bmJFbmNtQWYtTWlXeERUYWU4RzhQX2dqYTV0MmZma3cxeWJRVTJLUGlyNA?oc=5",
+          "desc": "",
+          "title_en": "Namyang Oil Business Expands K-Food Export Road to Mongolia… 10 Billion Export Agreement",
+          "title_ja": "南洋石油事業、モンゴルへのK - Food輸出路を拡大… 100億ドルの輸出契約",
+          "title_zh": "南阳石油业务拓展蒙古国K-Food出口路线… 100亿元出口协议"
+        },
+        {
           "title": "“건강에 좋대서 자주 먹었는데”…‘이 음식’ 속 기생충 감염 급증, 美서 무슨 일이 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kenI5c184S09Gc0VlVW81SGYxNUxBalRPdHByUFNCNzRMZThELThSSF9Cb3JUWnpBR0p4THFhTjh2cnIzTW9ueThqQ29ldWlGRnfSAVNBVV95cUxNWVFOd2Q2OHVLV1pzQ1VFVDhKRElON2lkTVNYeTV6WFl5THNnQVJDMExxNGpkT3pWUnlGcnE4RHlRUkFCcmloY2lDUlFSQ2t4M252TQ?oc=5",
           "desc": "",
           "title_en": "“I used to eat often because it was good for my health” … What happened to the surge of parasitic infections in ‘this food’? [Health time]",
           "title_ja": "「健康に良かったので、よく食べていました」…「この食べ物」の寄生虫感染症の急増はどうなりましたか？【健康時間】",
           "title_zh": "“我以前经常吃东西，因为它对我的健康有好处” …… “这种食物”中寄生虫感染的激增是怎么回事？ [健康时间]"
-        },
-        {
-          "title": "신세계푸드, ‘영양 삼계탕’ 미국 첫 수출...초도물량 8000봉",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80bGJxNjI3QWw4VlRCVUdxVTFxOTV4YUNCcXJwdGFBOVJtR0I4X09FdWRiYzJFVzY3ZGRNVUFKeWkzd3BCd1RHZXNERldBNHJycnfSAVNBVV95cUxNNGNZNE5MZjRIZHdzb2M0R3lvaWRFWG5NQWd3NEJlTWpKQ0lhU3V6Zm02a1o0TmRsdl9uMk56bUpHYzJrQjJPdVVUTW9LLUxkM051MA?oc=5",
-          "desc": "",
-          "title_en": "Shinsegae Food, ‘Nutrition Samgyetang’ America's first export... Initial volume 8,000 won",
-          "title_ja": "Shinsegae Food、「Nutrition Samgyetang」アメリカ初の輸出...初回ボリューム8,000ウォン",
-          "title_zh": "Shinsegae Food ， “Nutrition Samgyetang”美国首次出口...初始量8,000韩元"
         }
       ]
     },
@@ -188,12 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "음식으로 남편 독살한 50대 여성…이유묻자 “먼저 떠난 딸에 미안해서”",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02UWxxQ1JGNlZXNldJZ21KckxTME5pT0NWM2lTbW1yYWFQVHloYzZFSHlISV8wVjJua2VQb3hzbklxam9wTC1tNlluRFBiUmNPM251UQ?oc=5",
+          "title": "양산 상북면에 로컬푸드 직매장 개장…농산물·먹거리 복합공간",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEYlJTbjZnRjJEbkFqUm5iSkRrZl83Y205bFlleXJHSDJkdDNNX21vbW1yQl93cEVBcl9oTUhYZmIwdElOd2NoYl9nWWk4cFZZYWc?oc=5",
           "desc": "",
-          "title_en": "A woman in her 50s who poisoned her husband with food… When asked why, “I'm sorry for my daughter who left first”",
-          "title_ja": "夫に食べ物で毒を盛った50代の女性…「先に去ってしまった娘に申し訳ありません」と尋ねられたとき",
-          "title_zh": "一位50多岁的女士用食物毒害了她的丈夫……当被问及为什么时， “我很抱歉我的女儿先离开了”"
+          "title_en": "Opened a local food direct store in Sangbuk-myeon, Yangsan… Agricultural products and food complex",
+          "title_ja": "揚山市上北面に地元の食料直営店を開店…農産物と食品複合施設",
+          "title_zh": "在Yangsan的Sangbuk-myeon开设了当地食品直营店……农产品和食品综合体"
         },
         {
           "title": "송미령 농식품 장관 \"몽골에 K푸드 수출 확대 지원\"",
