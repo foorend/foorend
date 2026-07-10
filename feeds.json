@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-07-10T14:27:17Z",
+  "lastUpdated": "2026-07-10T16:55:47Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Inside McDonald’s new see-through prototype restaurant",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1hJc3hfbWNFUW4yTldLMEdER3o5M0UyeUVvWXZiVnllcXl5dk9OeVZQMlFKUmdseDF4Z0FXMHN2NnBBeVBrUC1faUZwQThSckFoS3o0RDF0QV9Sblowekp2cVQ2OG05QTJYXzJzXzZVVTBsYnp6SjFIVndxY0dNbkQxQnI0akY1ay02ZVBUbmMyMmlPb2YyaVV1VDQxOHpYWm9jLVNSYw?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드의 새로운 시스루 프로토타입 레스토랑 내부",
+          "title_ja": "マクドナルドの新しいシースループロトタイプレストランの中",
+          "title_zh": "走进麦当劳全新的透明原型餐厅"
+        },
         {
           "title": "McDonald's tries its hand at hand-breaded chicken",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa25PZXVFRTdtWThwNVVrQ0dDMUNrTFppbzFKd29sLWpTUUQ5OGhURGxvTjZ4V1g3OWhMWWZCSW9IcUpIek5kV2VsOUxlUmtJOXRmZnFZYmJiMmxudFNrUVpIazhaYy1DMFkxc1lGQmlVb1R6TGxmdEcyME1yeWxuNy1MVEJqWjhSclpnWVFubENqR3hkcUpMYjdvYTA?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "루비 화요일은 14개의 새로운 메뉴 아이템으로 더 크고 대담하게 진행됩니다",
           "title_ja": "ルビーの火曜日は、14の新しいメニューアイテムでより大きく大胆になります",
           "title_zh": "Ruby Tuesday推出14种新菜单餐点，让您的体验更加丰富大胆"
-        },
-        {
-          "title": "Why careful growth is vital for restaurant chains",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHM3dkRBV19OU2p6VDhzcDl2bzNabElBT1BTUVJGbXE3alNjb0ZnTWVCZVJKWFhMRHI1TUVfTmlnT3ZDSlk0X21sbTRWQnhob3FjY2NtVjJ3UkZfbVZ6SWxiYW4tSG94U2xtYW5BRklRSkxlOVMyRFBJaW1odkZydmxrYkF6YVFHNWJMNlotUXl2YUN0UGFEbw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 체인에 신중한 성장이 중요한 이유",
-          "title_ja": "レストランチェーンにとって慎重な成長が不可欠な理由",
-          "title_zh": "为什么谨慎增长对连锁餐厅至关重要"
         }
       ]
     },
@@ -104,12 +104,12 @@
           "title_zh": "周到的厨房准备有助于这家纽约市酒店为成千上万的房客提供食物"
         },
         {
-          "title": "The Latest Gig Economy Hustle? Restaurant Line-Sitting",
+          "title": "The Latest Gig Economy Hustle? Restaurant Line-Sitting.",
           "link": "https://www.eater.com/dining-out/973730/line-sitters-standers-restaurant-waitlist",
           "desc": "How long would you wait in line for dessert? For food lovers craving this summer’s TikTok-viral dot cakes, the lines in front of Manhattan’s Butterfie",
-          "title_ko": "최신 긱 이코노미 허슬? 레스토랑 라인 시팅",
-          "title_ja": "最新のギグエコノミーハッスル？レストランのラインシッティング",
-          "title_zh": "最新的零工经济喧嚣？餐厅排队"
+          "title_ko": "최신 긱 이코노미 허슬? 레스토랑 라인 시팅.",
+          "title_ja": "最新のギグエコノミーハッスル？レストランのラインシッティング。",
+          "title_zh": "最新的零工经济喧嚣？餐厅排队。"
         },
         {
           "title": "Eater Is Coming to Netflix",
