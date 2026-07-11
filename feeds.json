@@ -1,20 +1,95 @@
 {
-  "lastUpdated": "2026-07-11T05:41:20Z",
+  "lastUpdated": "2026-07-11T07:56:43Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": []
+      "items": [
+        {
+          "title": "Inside McDonald’s new see-through prototype restaurant",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1hJc3hfbWNFUW4yTldLMEdER3o5M0UyeUVvWXZiVnllcXl5dk9OeVZQMlFKUmdseDF4Z0FXMHN2NnBBeVBrUC1faUZwQThSckFoS3o0RDF0QV9Sblowekp2cVQ2OG05QTJYXzJzXzZVVTBsYnp6SjFIVndxY0dNbkQxQnI0akY1ay02ZVBUbmMyMmlPb2YyaVV1VDQxOHpYWm9jLVNSYw?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드의 새로운 시스루 프로토타입 레스토랑 내부",
+          "title_ja": "マクドナルドの新しいシースループロトタイプレストランの中",
+          "title_zh": "走进麦当劳全新的透明原型餐厅"
+        },
+        {
+          "title": "McDonald's tries its hand at hand-breaded chicken",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVRGT3NVVzYybUlOczJCcmtBdHpWQjJWTzRMd3NHS3hOLVJPWVJVcENpRUlfempDaVEwWE1nWTBOclNTYkc4QlZyaG5NbVljbW15eFFEeF9VYm5RbnNnZFVYaWJIOVdZNzFzaFFsS3BSZEprN29aa25pdkpPb1lWeHNBUzRmaUdxUzdoNUVBRExlYkxRYW80?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드는 수제빵 치킨을 시도합니다.",
+          "title_ja": "マクドナルドは手打ちの鶏肉を試しています",
+          "title_zh": "麦当劳尝试手工烘焙鸡肉"
+        },
+        {
+          "title": "Why careful growth is vital for restaurant chains",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHM3dkRBV19OU2p6VDhzcDl2bzNabElBT1BTUVJGbXE3alNjb0ZnTWVCZVJKWFhMRHI1TUVfTmlnT3ZDSlk0X21sbTRWQnhob3FjY2NtVjJ3UkZfbVZ6SWxiYW4tSG94U2xtYW5BRklRSkxlOVMyRFBJaW1odkZydmxrYkF6YVFHNWJMNlotUXl2YUN0UGFEbw?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑 체인에 신중한 성장이 중요한 이유",
+          "title_ja": "レストランチェーンにとって慎重な成長が不可欠な理由",
+          "title_zh": "为什么谨慎增长对连锁餐厅至关重要"
+        }
+      ]
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": []
+      "items": [
+        {
+          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
+          "desc": "",
+          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
+          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
+          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
+        }
+      ]
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": []
+      "items": [
+        {
+          "title": "Food",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
+          "desc": "",
+          "title_ko": "식료품비",
+          "title_ja": "食料",
+          "title_zh": "食物"
+        },
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
+          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+        },
+        {
+          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
+          "desc": "",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        }
+      ]
     },
     "eater": {
       "label": "Eater",
@@ -24,25 +99,25 @@
           "title": "Thoughtful Kitchen Prep Helps This NYC Hotel Feed Thousands of Guests",
           "link": "https://www.eater.com/video/973741/how-arlo-williamsburg-hotel-preps-for-service",
           "desc": "This episode of Large Format goes inside the dining rush at Arlo Williamsburg, where hundreds of diners stream into the onsite restaurant, Sungold, wh",
-          "title_ko": "Thoughtful Kitchen Prep Helps This NYC Hotel Feed Thousands of Guests",
-          "title_ja": "Thoughtful Kitchen Prep Helps This NYC Hotel Feed Thousands of Guests",
-          "title_zh": "Thoughtful Kitchen Prep Helps This NYC Hotel Feed Thousands of Guests"
+          "title_ko": "세심한 주방 준비는 이 뉴욕 호텔이 수천 명의 게스트에게 음식을 제공하는 데 도움이 됩니다.",
+          "title_ja": "思いやりのあるキッチンの準備が、このニューヨーク市のホテルが何千人ものゲストを養うのに役立ちます",
+          "title_zh": "周到的厨房准备有助于这家纽约市酒店为成千上万的房客提供食物"
         },
         {
           "title": "The Latest Gig Economy Hustle? Restaurant Line-Sitting.",
           "link": "https://www.eater.com/dining-out/973730/line-sitters-standers-restaurant-waitlist",
           "desc": "How long would you wait in line for dessert? For food lovers craving this summer’s TikTok-viral dot cakes, the lines in front of Manhattan’s Butterfie",
-          "title_ko": "The Latest Gig Economy Hustle? Restaurant Line-Sitting.",
-          "title_ja": "The Latest Gig Economy Hustle? Restaurant Line-Sitting.",
-          "title_zh": "The Latest Gig Economy Hustle? Restaurant Line-Sitting."
+          "title_ko": "최신 긱 이코노미 허슬? 레스토랑 라인 시팅.",
+          "title_ja": "最新のギグエコノミーハッスル？レストランのラインシッティング。",
+          "title_zh": "最新的零工经济喧嚣？餐厅排队。"
         },
         {
           "title": "Eater Is Coming to Netflix",
           "link": "https://www.eater.com/press-room/972821/eater-is-coming-to-netflix",
           "desc": "You’ll soon be able to watch your favorite Eater videos, from Mise en Place to Smoke Point, on one of the world’s biggest streamers. Today, Netflix an",
-          "title_ko": "Eater Is Coming to Netflix",
-          "title_ja": "Eater Is Coming to Netflix",
-          "title_zh": "Eater Is Coming to Netflix"
+          "title_ko": "고객이 넷플릭스에 오고 있습니다",
+          "title_ja": "注文者がNetflixに登場",
+          "title_zh": "顾客即将加入Netflix"
         }
       ]
     }
@@ -51,22 +126,122 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": []
+      "items": [
+        {
+          "title": "고속도로 휴게소 음식값",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TDVSNDJHRklabmZuTDY0bFBWNkRTQ2JUeEpSYVlweG9kOS00RlFNclY0X1ptcDk3UkZpYkdySDNFWGlSQlJ6bFpBSkM2Q0JianpKbVpkQnh4Z9IBVEFVX3lxTFA0MnU1QVltOWVYMmdoY2V6cmVhQXRQanN0dW5DenBTTXV3dzZtNE85TXRwT0w3aTVsdF9JQzJSZkZwWnRIb2RhRk5jeXVZR05FRng5Xw?oc=5",
+          "desc": "",
+          "title_en": "Highway rest area food prices",
+          "title_ja": "ハイウェイ休憩エリアの食品価格",
+          "title_zh": "公路休息区食品价格"
+        },
+        {
+          "title": "신변 비관 50대 女…식당서 음식에 화학물질 섞어 남편 독살",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12OVpJdzM5NC1mbjZzWVNFNWo0ODFHVV9TMl9vYTQtUWROa3RxVVZSanlsS1pGaVYxN0hHMExpZTRiUDhWd1JsXzJaZkVERnhGa1g5Zm52THMwQdIBVEFVX3lxTE1Oek1LMnVVNm5qaU03UW4yeHVNdFBGcFVUX2NtbnhKZndwUUo5SnpoUlFmRjNtUWFjMXMxamVZakkxVmxnZUtLU21sREx2ZFMyV2lpQQ?oc=5",
+          "desc": "",
+          "title_en": "Personal pessimism in the 50s… Husband poisoned by mixing chemicals with food in a restaurant",
+          "title_ja": "50年代の個人的な悲観論…レストランで食べ物と化学物質を混ぜて毒を盛られた夫",
+          "title_zh": "50年代的个人悲观情绪……丈夫在餐厅将化学物质与食物混合而中毒"
+        },
+        {
+          "title": "'한 끼 20만원' 뭐가 다르길래…호텔 뷔페 갔다가 깜짝 놀랐다 [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaHE1cjNpUUg4dlJ1QWZZNk9RVjB2ZDdEemFNb2M0NUVuV3RQMlhHZUN4ZmUxQTVBY09XTjZpckptSndxUlE3QXpURlFjM3lYbTJhZTM3Ty11UdIBVEFVX3lxTFBRRGJHZ3J0YXN1UEtmc1I5UjJzSXloQXFBYTRTTGtkREtSSjRWV21PQlRWTllHZktmOW5wZ2tRQzBDVXdTNFdITm9DWUZ1NDJiWnMxaA?oc=5",
+          "desc": "",
+          "title_en": "'200,000 won a meal' What was different... I was surprised when I went to the hotel buffet [Trend +]",
+          "title_ja": "「20万ウォンの食事」何が違うのか…ホテルのビュッフェに行ったらびっくりした[トレンド+]",
+          "title_zh": "「20万韩元一顿饭」有什么不同......当我去酒店自助餐时，我很惊讶[趋势+]"
+        }
+      ]
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": []
+      "items": [
+        {
+          "title": "남양유업, 몽골에 K푸드 수출길 넓힌다…100억 수출 협약",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uMzlzMlF3bndjQ296RldIRDZKNnhtSk1RaTlyN1FoMW9JUTl3a1pNaldnSlZNVHZDenhLVkZLRlgwMjNhOEhsdUh5Y1hPSXBMb3fSAVNBVV95cUxNOVh0dXBBbTk3VnUtSDI4NnEyNFpOc0R2b2pLakxRYTJ2bmJFbmNtQWYtTWlXeERUYWU4RzhQX2dqYTV0MmZma3cxeWJRVTJLUGlyNA?oc=5",
+          "desc": "",
+          "title_en": "Namyang Oil Business Expands K-Food Export Road to Mongolia… 10 Billion Export Agreement",
+          "title_ja": "南洋石油事業、モンゴルへのK - Food輸出路を拡大… 100億ドルの輸出契約",
+          "title_zh": "南阳石油业务拓展蒙古国K-Food出口路线… 100亿元出口协议"
+        },
+        {
+          "title": "[로터리] K-푸드 새 선봉장, 이제는 발효식품",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13OUVJVngxdkZBS2JhSHpFdWE3Q1hFVE5wckNoTXdrLTlkZTRZdmNCVkp2QkI1bkozQ3c4RmhmeHU0M2pCS2NScEVid1ZiSmlGY0HSAVNBVV95cUxPQkM0WWJFVTU3TTgzQ0xKcGxTNC0xZ1JKNnZIeXBoVzVWMHFpUjFTR3ZOd2Z4cU12cWh3a3JoN0p3NVpOekpIZ0FBRlU2M2c5V1JuTQ?oc=5",
+          "desc": "",
+          "title_en": "[Rotary] K-Food new vanguard, now fermented food",
+          "title_ja": "【ロータリー】K - Food新ヴァンガード発酵食品",
+          "title_zh": "[Rotary] K-Food新先锋，现为发酵食品"
+        },
+        {
+          "title": "“건강에 좋대서 자주 먹었는데”…‘이 음식’ 속 기생충 감염 급증, 美서 무슨 일이 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kenI5c184S09Gc0VlVW81SGYxNUxBalRPdHByUFNCNzRMZThELThSSF9Cb3JUWnpBR0p4THFhTjh2cnIzTW9ueThqQ29ldWlGRnfSAVNBVV95cUxNWVFOd2Q2OHVLV1pzQ1VFVDhKRElON2lkTVNYeTV6WFl5THNnQVJDMExxNGpkT3pWUnlGcnE4RHlRUkFCcmloY2lDUlFSQ2t4M252TQ?oc=5",
+          "desc": "",
+          "title_en": "“I used to eat often because it was good for my health” … What happened to the surge of parasitic infections in ‘this food’? [Health time]",
+          "title_ja": "「健康に良かったので、よく食べていました」…「この食べ物」の寄生虫感染症の急増はどうなりましたか？【健康時間】",
+          "title_zh": "“我以前经常吃东西，因为它对我的健康有好处” …… “这种食物”中寄生虫感染的激增是怎么回事？ [健康时间]"
+        }
+      ]
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "양산 상북면에 로컬푸드 직매장 개장…농산물·먹거리 복합공간",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEYlJTbjZnRjJEbkFqUm5iSkRrZl83Y205bFlleXJHSDJkdDNNX21vbW1yQl93cEVBcl9oTUhYZmIwdElOd2NoYl9nWWk4cFZZYWc?oc=5",
+          "desc": "",
+          "title_en": "Opened a local food direct store in Sangbuk-myeon, Yangsan… Agricultural products and food complex",
+          "title_ja": "揚山市上北面に地元の食料直営店を開店…農産物と食品複合施設",
+          "title_zh": "在Yangsan的Sangbuk-myeon开设了当地食品直营店……农产品和食品综合体"
+        },
+        {
+          "title": "송미령 농식품 장관 \"몽골에 K푸드 수출 확대 지원\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRd3o1d20wY25qclo5Wm9ocFBKYTlLQW14NWF0c0l3WUZJVTRHcnJyWEFJbW9oWjh5U25IZEtreXc2aDhsT0JlOWtYZE0zZDBlNmc?oc=5",
+          "desc": "",
+          "title_en": "Song Mi Ryeong, Minister of Agriculture and Food, \"Supporting the Expansion of K-Food Exports to Mongolia\"",
+          "title_ja": "ソン・ミリョン農食大臣「モンゴルへのK - Food輸出拡大支援」",
+          "title_zh": "农粮大臣宋美亮“支持K-Food扩大对蒙古出口”"
+        },
+        {
+          "title": "살롱·샤또 라투르·샤또 디켐과 어울리는 음식은?",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IbllvQ0tVZXJOZ1FUZWZmZVNwa1VyRUdlZHpFWi1PblFmYmJZenF5bTNCUXlSamh2MFdKaGEtU0pLTldabGhiUXZIUXhMbzVUVWg0RnpR?oc=5",
+          "desc": "",
+          "title_en": "What food goes well with Salon, Château Latour, Château Dichem?",
+          "title_ja": "サロン、シャトー・ラトゥール、シャトー・ディシェムに合う料理は何ですか？",
+          "title_zh": "沙龙、Château Latour、Château Dichem适合哪些美食？"
+        }
+      ]
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "영양사가 권하는 변비 해소 음료 2가지",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82UGpRclBHaXNRVVIwYnJPSm55Z1VLd0t4RDRVVmZZYWFsUVBnUWZzd0lHakNyaWxhWUY1aFpIc0MzNTNHSTJqSVJQTnhKcXoyenhJeS01MA?oc=5",
+          "desc": "",
+          "title_en": "2 Constipation-Relieving Drinks from a Nutritionist",
+          "title_ja": "栄養士による2種類の便秘緩和ドリンク",
+          "title_zh": "2营养学家提供的缓解便秘饮料"
+        },
+        {
+          "title": "롯데호텔 보양식, 간편하게 산다…롯데백화점 본점서 팝업",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ITG9RRVZtbXpMLXg1UGxVUTdZb1poeGNlSWVuamtPc2dzblZrcXkwSy04X2VYSzJmMFJJVnBNdk1DMjRVMnFNRTNJaTJiRDZmOVB5LU9WMA?oc=5",
+          "desc": "",
+          "title_en": "Lotte Hotel Soyangsik, Living Easily… Lotte Department Store Main Store Pop-up",
+          "title_ja": "ロッテホテルソヤンシク、暮らしやすい…ロッテ百貨店本店ポップアップ",
+          "title_zh": "乐天Soyangsik酒店，轻松生活……乐天百货主店快闪"
+        },
+        {
+          "title": "옥수수가 톡톡, 팬 하나로 끝나는 ‘초당옥수수 원팬밥’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwOHBoblVCWnBFRU13cURDcnIyTHlua3FLYWdVYTJFQlQ0emdta21MWDVqQlQyT2plaGtJSzVRaHphR2wzZUY5V0RaTVRuWWdTenpLS1BvMA?oc=5",
+          "desc": "",
+          "title_en": "'Chodang Corn One Pan Rice‘ where corn ends with one toktok, pan",
+          "title_ja": "トウモロコシが1つのトクトックで終わる「朝唐コーンワンパンライス」、パン",
+          "title_zh": "“Chodang Corn One Pan Rice” ，玉米末端有一个toktok ，平底锅"
+        }
+      ]
     }
   },
   "korean_articles": [
