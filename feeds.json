@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T13:19:51Z",
+  "lastUpdated": "2026-07-11T15:56:29Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "走进麦当劳全新的透明原型餐厅"
         },
         {
+          "title": "Is Wingstop cannibalizing itself?",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1ZEcDRibTg3VUNhTGFnWmJTWHlLVHlIZHc0N1hJQV9WVFRmUHluemNNVkdzWDVoT2x1WVlENEEzdXNjcGc0SXpscVlrdkNSd1ZrbW90N1RDYnR1dGJfUldaajRLcFEwOGZNbEhLZGI2ZW5ISWc0eWZZTlotRUc5dFFvT0RWTEU?oc=5",
+          "desc": "",
+          "title_ko": "윙스탑은 스스로를 식인화하고 있는가?",
+          "title_ja": "ウイングストップは自分自身を食いしばっているのか？",
+          "title_zh": "Wingstop是否在蚕食自己？"
+        },
+        {
           "title": "McDonald's tries its hand at hand-breaded chicken",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVRGT3NVVzYybUlOczJCcmtBdHpWQjJWTzRMd3NHS3hOLVJPWVJVcENpRUlfempDaVEwWE1nWTBOclNTYkc4QlZyaG5NbVljbW15eFFEeF9VYm5RbnNnZFVYaWJIOVdZNzFzaFFsS3BSZEprN29aa25pdkpPb1lWeHNBUzRmaUdxUzdoNUVBRExlYkxRYW80?oc=5",
           "desc": "",
           "title_ko": "맥도날드는 수제빵 치킨을 시도합니다.",
           "title_ja": "マクドナルドは手打ちの鶏肉を試しています",
           "title_zh": "麦当劳尝试手工烘焙鸡肉"
-        },
-        {
-          "title": "Why careful growth is vital for restaurant chains",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHM3dkRBV19OU2p6VDhzcDl2bzNabElBT1BTUVJGbXE3alNjb0ZnTWVCZVJKWFhMRHI1TUVfTmlnT3ZDSlk0X21sbTRWQnhob3FjY2NtVjJ3UkZfbVZ6SWxiYW4tSG94U2xtYW5BRklRSkxlOVMyRFBJaW1odkZydmxrYkF6YVFHNWJMNlotUXl2YUN0UGFEbw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 체인에 신중한 성장이 중요한 이유",
-          "title_ja": "レストランチェーンにとって慎重な成長が不可欠な理由",
-          "title_zh": "为什么谨慎增长对连锁餐厅至关重要"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "50年代的个人悲观情绪……丈夫在餐厅将化学物质与食物混合而中毒"
         },
         {
-          "title": "'한 끼 20만원' 뭐가 다르길래…호텔 뷔페 갔다가 깜짝 놀랐다 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaHE1cjNpUUg4dlJ1QWZZNk9RVjB2ZDdEemFNb2M0NUVuV3RQMlhHZUN4ZmUxQTVBY09XTjZpckptSndxUlE3QXpURlFjM3lYbTJhZTM3Ty11UdIBVEFVX3lxTFBRRGJHZ3J0YXN1UEtmc1I5UjJzSXloQXFBYTRTTGtkREtSSjRWV21PQlRWTllHZktmOW5wZ2tRQzBDVXdTNFdITm9DWUZ1NDJiWnMxaA?oc=5",
+          "title": "\"축제만으론 안 된다\"…우르르 몰린 관광객들 돈 쓰는 곳",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KQkhKSmNnSnE3ZkR0YjdvdWRlZmJZWTlVMzJKR3ZlVFg5VVlFODZwXy1pQk1NS2l1UHZlbE5qR3ZoUm95OUZDS083ZGtwRE5uTGRMczRLUWtIUdIBVEFVX3lxTFBkV2xESlNJX3ItdUw3SFc5S0FSbmpadE1MZThOaTJFcm51cUs4YWFhYkhsb3Q1S1hmWU5pOXNlakpjdjdmMHpFc2ltOEN5WTFzOEEtZw?oc=5",
           "desc": "",
-          "title_en": "'200,000 won a meal' What was different... I was surprised when I went to the hotel buffet [Trend +]",
-          "title_ja": "「20万ウォンの食事」何が違うのか…ホテルのビュッフェに行ったらびっくりした[トレンド+]",
-          "title_zh": "「20万韩元一顿饭」有什么不同......当我去酒店自助餐时，我很惊讶[趋势+]"
+          "title_en": "“Festivals aren't enough” … Where tourists spend their money",
+          "title_ja": "「フェスティバルだけでは不十分」…観光客がお金を使う場所",
+          "title_zh": "“仅有节日是不够的” ……游客花钱的地方"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "在Yangsan的Sangbuk-myeon开设了当地食品直营店……农产品和食品综合体"
         },
         {
-          "title": "송미령 농식품 장관 \"몽골에 K푸드 수출 확대 지원\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRd3o1d20wY25qclo5Wm9ocFBKYTlLQW14NWF0c0l3WUZJVTRHcnJyWEFJbW9oWjh5U25IZEtreXc2aDhsT0JlOWtYZE0zZDBlNmc?oc=5",
-          "desc": "",
-          "title_en": "Song Mi Ryeong, Minister of Agriculture and Food, \"Supporting the Expansion of K-Food Exports to Mongolia\"",
-          "title_ja": "ソン・ミリョン農食大臣「モンゴルへのK - Food輸出拡大支援」",
-          "title_zh": "农粮大臣宋美亮“支持K-Food扩大对蒙古出口”"
-        },
-        {
           "title": "살롱·샤또 라투르·샤또 디켐과 어울리는 음식은?",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IbllvQ0tVZXJOZ1FUZWZmZVNwa1VyRUdlZHpFWi1PblFmYmJZenF5bTNCUXlSamh2MFdKaGEtU0pLTldabGhiUXZIUXhMbzVUVWg0RnpR?oc=5",
           "desc": "",
           "title_en": "What food goes well with Salon, Château Latour, Château Dichem?",
           "title_ja": "サロン、シャトー・ラトゥール、シャトー・ディシェムに合う料理は何ですか？",
           "title_zh": "沙龙、Château Latour、Château Dichem适合哪些美食？"
+        },
+        {
+          "title": "송미령 농식품 장관 \"몽골에 K푸드 수출 확대 지원\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRd3o1d20wY25qclo5Wm9ocFBKYTlLQW14NWF0c0l3WUZJVTRHcnJyWEFJbW9oWjh5U25IZEtreXc2aDhsT0JlOWtYZE0zZDBlNmc?oc=5",
+          "desc": "",
+          "title_en": "Song Mi Ryeong, Minister of Agriculture and Food, \"Supporting the Expansion of K-Food Exports to Mongolia\"",
+          "title_ja": "ソン・ミリョン農食大臣「モンゴルへのK - Food輸出拡大支援」",
+          "title_zh": "农粮大臣宋美亮“支持K-Food扩大对蒙古出口”"
         }
       ]
     },
