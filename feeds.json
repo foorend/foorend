@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T10:27:47Z",
+  "lastUpdated": "2026-07-12T13:20:18Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Wingstop是否在蚕食自己？"
         },
         {
-          "title": "McDonald's tries its hand at hand-breaded chicken",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVRGT3NVVzYybUlOczJCcmtBdHpWQjJWTzRMd3NHS3hOLVJPWVJVcENpRUlfempDaVEwWE1nWTBOclNTYkc4QlZyaG5NbVljbW15eFFEeF9VYm5RbnNnZFVYaWJIOVdZNzFzaFFsS3BSZEprN29aa25pdkpPb1lWeHNBUzRmaUdxUzdoNUVBRExlYkxRYW80?oc=5",
+          "title": "Jersey Mike's is going public",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkRXQjZpOGhXWkxGTUZhN1dlNnQwWGxid0Y2T1FCdHNkWmtkYWZwUmh1dEhsSVQyUERRN1dxRHNNeXZQeEZKNWVmM2Fkd2U3bGdEV01hVFZjUGN3T0JtU0dGOHp4Q0poQUFOUjFIN1ZwX2xTQnB6OGtGbnk0bnpwY0VR?oc=5",
           "desc": "",
-          "title_ko": "맥도날드는 수제빵 치킨을 시도합니다.",
-          "title_ja": "マクドナルドは手打ちの鶏肉を試しています",
-          "title_zh": "麦当劳尝试手工烘焙鸡肉"
+          "title_ko": "Jersey Mike 's가 공개됩니다",
+          "title_ja": "Jersey Mike'sが公開されます",
+          "title_zh": "Jersey Mike's即将上市"
         }
       ]
     },
@@ -128,8 +128,16 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"일본 가서도 생각날 맛\" 외국인도 반했다…MZ 줄 세운 음식 [김기자의 알고리즘]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYmFlSHFqUk50a2xha0J4ZVdBS1ItbDFYSFZSZDVmcjl5S19UME1YeC1KbmtuUnRuQU5rRTdhMFY5Ml8zYlNkR1ZNNndWY0hGTVVBWmVjTEZPZ9IBVEFVX3lxTE9wbDRPMHFGal9JMkptWGNvb29id09fQW1BNEpsb1FydXRZSnFxVDJIalhTMmZRdVByc3MtZzdEb3ByUlJUN0lNV0ZwSXZGd0JNLTV0Qw?oc=5",
+          "desc": "",
+          "title_en": "\"Taste when you think of going to Japan\" The foreigner also had a crush... MZ lined food [Kim Giza's algorithm]",
+          "title_ja": "「日本に行こうと思ったら味わう」外国人もめちゃくちゃ… MZ裏地の食べ物【キム・ギザのアルゴリズム】",
+          "title_zh": "「一想到去日本就尝尝」外国人也迷恋上了…… MZ内衬的食物[Kim Giza的算法]"
+        },
+        {
           "title": "고속도로 휴게소 음식값",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TDVSNDJHRklabmZuTDY0bFBWNkRTQ2JUeEpSYVlweG9kOS00RlFNclY0X1ptcDk3UkZpYkdySDNFWGlSQlJ6bFpBSkM2Q0JianpKbVpkQnh4Z9IBVEFVX3lxTFA0MnU1QVltOWVYMmdoY2V6cmVhQXRQanN0dW5DenBTTXV3dzZtNE85TXRwT0w3aTVsdF9JQzJSZkZwWnRIb2RhRk5jeXVZR05FRng5Xw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0MnU1QVltOWVYMmdoY2V6cmVhQXRQanN0dW5DenBTTXV3dzZtNE85TXRwT0w3aTVsdF9JQzJSZkZwWnRIb2RhRk5jeXVZR05FRng5X9IBVEFVX3lxTFA0MnU1QVltOWVYMmdoY2V6cmVhQXRQanN0dW5DenBTTXV3dzZtNE85TXRwT0w3aTVsdF9JQzJSZkZwWnRIb2RhRk5jeXVZR05FRng5Xw?oc=5",
           "desc": "",
           "title_en": "Highway rest area food prices",
           "title_ja": "ハイウェイ休憩エリアの食品価格",
@@ -142,14 +150,6 @@
           "title_en": "Personal pessimism in the 50s… Husband poisoned by mixing chemicals with food in a restaurant",
           "title_ja": "50年代の個人的な悲観論…レストランで食べ物と化学物質を混ぜて毒を盛られた夫",
           "title_zh": "50年代的个人悲观情绪……丈夫在餐厅将化学物质与食物混合而中毒"
-        },
-        {
-          "title": "'한 끼 20만원' 뭐가 다르길래…호텔 뷔페 갔다가 깜짝 놀랐다 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaHE1cjNpUUg4dlJ1QWZZNk9RVjB2ZDdEemFNb2M0NUVuV3RQMlhHZUN4ZmUxQTVBY09XTjZpckptSndxUlE3QXpURlFjM3lYbTJhZTM3Ty11UdIBVEFVX3lxTFBRRGJHZ3J0YXN1UEtmc1I5UjJzSXloQXFBYTRTTGtkREtSSjRWV21PQlRWTllHZktmOW5wZ2tRQzBDVXdTNFdITm9DWUZ1NDJiWnMxaA?oc=5",
-          "desc": "",
-          "title_en": "'200,000 won a meal' What was different... I was surprised when I went to the hotel buffet [Trend +]",
-          "title_ja": "「20万ウォンの食事」何が違うのか…ホテルのビュッフェに行ったらびっくりした[トレンド+]",
-          "title_zh": "「20万韩元一顿饭」有什么不同......当我去酒店自助餐时，我很惊讶[趋势+]"
         }
       ]
     },
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "영양사가 권하는 변비 해소 음료 2가지",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82UGpRclBHaXNRVVIwYnJPSm55Z1VLd0t4RDRVVmZZYWFsUVBnUWZzd0lHakNyaWxhWUY1aFpIc0MzNTNHSTJqSVJQTnhKcXoyenhJeS01MA?oc=5",
+          "desc": "",
+          "title_en": "2 Constipation-Relieving Drinks from a Nutritionist",
+          "title_ja": "栄養士による2種類の便秘緩和ドリンク",
+          "title_zh": "2营养学家提供的缓解便秘饮料"
+        },
+        {
           "title": "옥수수가 톡톡, 팬 하나로 끝나는 ‘초당옥수수 원팬밥’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwOHBoblVCWnBFRU13cURDcnIyTHlua3FLYWdVYTJFQlQ0emdta21MWDVqQlQyT2plaGtJSzVRaHphR2wzZUY5V0RaTVRuWWdTenpLS1BvMA?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "Dengdabang enters global market with new BI",
           "title_ja": "Dengdabang、新しいBIでグローバル市場に参入",
           "title_zh": "登大邦以新BI进军全球市场"
-        },
-        {
-          "title": "약국에서 두부를?…식품 늘리는 일본 드럭스토어",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1la0VBbGpQbG1qMTlmblNBd0stbDFXTW1OQ0pPMFF2cUxnVE9sT2hldU90N2R0U3ZScjJsZWw4VzRFS01Qd0dDcjl3NklCNFlNWmgyUmVOdw?oc=5",
-          "desc": "",
-          "title_en": "Tofu in pharmacies? … Japanese drugstore to increase food",
-          "title_ja": "薬局の豆腐？ …食材を増やす日本のドラッグストア",
-          "title_zh": "药店里的豆腐？ ……增加食物的日本药店"
         }
       ]
     }
