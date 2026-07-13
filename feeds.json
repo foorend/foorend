@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T02:50:41Z",
+  "lastUpdated": "2026-07-13T06:20:01Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "Food",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
-          "desc": "",
-          "title_ko": "식료품비",
-          "title_ja": "食料",
-          "title_zh": "食物"
-        },
-        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -129,7 +129,7 @@
       "items": [
         {
           "title": "\"일본 가서도 생각날 맛\" 외국인도 반했다…MZ 줄 세운 음식 [김기자의 알고리즘]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYmFlSHFqUk50a2xha0J4ZVdBS1ItbDFYSFZSZDVmcjl5S19UME1YeC1KbmtuUnRuQU5rRTdhMFY5Ml8zYlNkR1ZNNndWY0hGTVVBWmVjTEZPZ9IBVEFVX3lxTE9wbDRPMHFGal9JMkptWGNvb29id09fQW1BNEpsb1FydXRZSnFxVDJIalhTMmZRdVByc3MtZzdEb3ByUlJUN0lNV0ZwSXZGd0JNLTV0Qw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYmFlSHFqUk50a2xha0J4ZVdBS1ItbDFYSFZSZDVmcjl5S19UME1YeC1KbmtuUnRuQU5rRTdhMFY5Ml8zYlNkR1ZNNndWY0hGTVVBWmVjTEZPZw?oc=5",
           "desc": "",
           "title_en": "\"Taste when you think of going to Japan\" The foreigner also had a crush... MZ lined food [Kim Giza's algorithm]",
           "title_ja": "「日本に行こうと思ったら味わう」外国人もめちゃくちゃ… MZ裏地の食べ物【キム・ギザのアルゴリズム】",
@@ -175,7 +175,7 @@
         },
         {
           "title": "“냉장고에 있다면 먹지 말고 당장 버려라”…치명률 20% 식중독균 있다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5reThWc0hOc0dnMzZ3ZVdTbjk4cFlJV0VZMVZKRF85TlVYWWsyUzJaNG9kTk9FMWRZZjlHeDlDM09tN0dMLXZnMlc3V0ozTkkzREE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5reThWc0hOc0dnMzZ3ZVdTbjk4cFlJV0VZMVZKRF85TlVYWWsyUzJaNG9kTk9FMWRZZjlHeDlDM09tN0dMLXZnMlc3V0ozTkkzREHSAVNBVV95cUxNZUFqWXFvcGhrR1RrWklaaU5fVUc2b1BJLTFOZ211TnFRZ0JJU2ZsN0VPSHRibTFsYWd3Q1B4SE1iclBIZmd5MFk4UHlNNmVPd2VGWQ?oc=5",
           "desc": "",
           "title_en": "“If you are in the refrigerator, don't eat it and throw it away immediately” … ‘This food‘ has a fatality rate of 20% food poisoning bacteria [Health Time]",
           "title_ja": "「冷蔵庫に入っている場合は、すぐに食べて捨てないでください」…「この食べ物」の致死率は食中毒菌の20 ％です[Health Time]",
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "롯데웰푸드, '체질 개선으로 불확실성 극복 중' 증권사 발표에 강세",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PVHJiWTlDY2J1bXp4eHRid21tbldjVFluUXkyVUdlTTlmR25RTGRlYnpIaFNlLUVic3NBTVdBTWphY1BGMHNHMFdKWFd2bW5aTEE?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Strong in Announcing Securities Company 'Overcoming Uncertainty by Improving Body Composition'",
+          "title_ja": "ロッテウェルフード、証券会社「体組成改善による不確実性克服」を発表",
+          "title_zh": "乐天健康食品强势宣布证券公司“通过改善身体成分克服不确定性”"
+        },
+        {
+          "title": "롯데웰푸드, 인도 통합 법인 1주년…\"상반기 매출 28% 성장\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0UUdCczBWcXdCdkVSMC1rb2g1Y090bWRjeHItcnlEc29HR1V1OUxVdkl6cEVLb0c4NGZnbDh1QjYzZTR4X3g1b2JRNWR5UVlFdEE?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Celebrates First Anniversary of Unified Incorporation in India… \"Sales Grow 28% in First Half\"",
+          "title_ja": "ロッテウェルフード、インド統一法人設立1周年を祝う「上半期の売上高は28 ％増」",
+          "title_zh": "乐天健康食品庆祝印度统一注册一周年…… “上半年销售额增长28%”"
+        },
+        {
           "title": "“인도에서 K아이스크림 인기”…롯데웰푸드 인도 법인 2032년 연매출 1조원 목표",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5uV1RHTzV0MkJyNzZyWlhtZUpzUkx6N3p4Qi1jZ3ZxbXphcGk0bFUxR2FCOENZWmFPYTlTR01YS0VUU2p6bEE?oc=5",
           "desc": "",
           "title_en": "“K-ice cream popularity in India” … Lotte Well Food India aims to achieve annual sales of KRW 1 trillion in 2032",
           "title_ja": "「インドでのK - ICEクリームの人気」…ロッテウェルフードインドは、2032年に年間1兆ウォンの売上を達成することを目指しています",
           "title_zh": "“K冰淇淋在印度受欢迎” ……乐天Well Food India的目标是到2032年实现年销售额1万亿韩元"
-        },
-        {
-          "title": "#로컬푸드 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaG5IN1A4Q2VyckttbnBlR1hrWHpXUkhJMkxCTnMtamFUWUFmU1lrQTVuMkQ4cGp3a2FMUC04b0s2eUtyZGlWcmdPajk3UDRkZnFLc3JyWnpyYUZWVW1maVJxblBVYmRRUHpmUDJJMFpiazkzS1E?oc=5",
-          "desc": "",
-          "title_en": "# Local Food (1 Posts)",
-          "title_ja": "#ローカルフード（ 1件の投稿）",
-          "title_zh": "#当地美食（ 1个帖子）"
-        },
-        {
-          "title": "구내식당에 홍삼삼계탕…현대그린푸드, 정관장과 홍삼 식단 선봬",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ha0lLU3VhNzFHcW1rN3hIeUp3YVRuczFGblpXcUNyemJzeEZUNkJLeHlWQ0tIa1l4VHJaQVlJVmNRZWd3TF9nbThGSE5kQy1aTlE?oc=5",
-          "desc": "",
-          "title_en": "Red ginseng sashimi in the cafeteria… Hyundai Green Food, Jeong Kwan Jang and Red ginseng diet",
-          "title_ja": "カフェテリアの赤人参刺身…ヒュンダイグリーンフード、チョンクワンジャン、赤人参ダイエット",
-          "title_zh": "自助餐厅的红参生鱼片……现代绿色食品、Jeong Kwan Jang和红参饮食"
         }
       ]
     },
