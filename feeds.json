@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T21:51:21Z",
+  "lastUpdated": "2026-07-13T02:50:41Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Wingstop是否在蚕食自己？"
         },
         {
-          "title": "Jersey Mike's is going public",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkRXQjZpOGhXWkxGTUZhN1dlNnQwWGxid0Y2T1FCdHNkWmtkYWZwUmh1dEhsSVQyUERRN1dxRHNNeXZQeEZKNWVmM2Fkd2U3bGdEV01hVFZjUGN3T0JtU0dGOHp4Q0poQUFOUjFIN1ZwX2xTQnB6OGtGbnk0bnpwY0VR?oc=5",
+          "title": "McDonald's tries its hand at hand-breaded chicken",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVRGT3NVVzYybUlOczJCcmtBdHpWQjJWTzRMd3NHS3hOLVJPWVJVcENpRUlfempDaVEwWE1nWTBOclNTYkc4QlZyaG5NbVljbW15eFFEeF9VYm5RbnNnZFVYaWJIOVdZNzFzaFFsS3BSZEprN29aa25pdkpPb1lWeHNBUzRmaUdxUzdoNUVBRExlYkxRYW80?oc=5",
           "desc": "",
-          "title_ko": "Jersey Mike 's가 공개됩니다",
-          "title_ja": "Jersey Mike'sが公開されます",
-          "title_zh": "Jersey Mike's即将上市"
+          "title_ko": "맥도날드는 수제빵 치킨을 시도합니다.",
+          "title_ja": "マクドナルドは手打ちの鶏肉を試しています",
+          "title_zh": "麦当劳尝试手工烘焙鸡肉"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "「一想到去日本就尝尝」外国人也迷恋上了…… MZ内衬的食物[Kim Giza的算法]"
         },
         {
+          "title": "롯데웰푸드 인도 통합 법인 1주년…상반기 매출 28% '함박웃음'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wNE1ad1FQWG11ZTdPSWhQWTAyYzRXazR4emw0di1WaWRxeWo5THFyLTVsV1d3VHpIM01VQTVRODFfb2ozbThLbFA5RlFCckQtV05QTkZlWEVHUdIBVEFVX3lxTE9qb3RXSU5hc2VFUTNrVHlKY0hZdzA0OGhreHkzSnRwc2tHdVBLdVVNaXVfNHcxRmJ5OUVmQ2haSzc0OElKc3NFVW5wSjFhd0RWbVlTNw?oc=5",
+          "desc": "",
+          "title_en": "1st Anniversary of Lotte Well Food India Integrated Corporation… 28% of sales in the first half of the year 'Strong laughter'",
+          "title_ja": "ロッテウェルフードインドインテグレーテッドコーポレーション1周年…上半期の売上高の28 ％が「強い笑い」",
+          "title_zh": "乐天健康食品印度综合公司成立1周年......上半年销售额的28 ％ “强笑声”"
+        },
+        {
           "title": "고속도로 휴게소 음식값",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TDVSNDJHRklabmZuTDY0bFBWNkRTQ2JUeEpSYVlweG9kOS00RlFNclY0X1ptcDk3UkZpYkdySDNFWGlSQlJ6bFpBSkM2Q0JianpKbVpkQnh4Z9IBVEFVX3lxTFA0MnU1QVltOWVYMmdoY2V6cmVhQXRQanN0dW5DenBTTXV3dzZtNE85TXRwT0w3aTVsdF9JQzJSZkZwWnRIb2RhRk5jeXVZR05FRng5Xw?oc=5",
           "desc": "",
           "title_en": "Highway rest area food prices",
           "title_ja": "ハイウェイ休憩エリアの食品価格",
           "title_zh": "公路休息区食品价格"
-        },
-        {
-          "title": "신변 비관 50대 女…식당서 음식에 화학물질 섞어 남편 독살",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12OVpJdzM5NC1mbjZzWVNFNWo0ODFHVV9TMl9vYTQtUWROa3RxVVZSanlsS1pGaVYxN0hHMExpZTRiUDhWd1JsXzJaZkVERnhGa1g5Zm52THMwQdIBVEFVX3lxTE1Oek1LMnVVNm5qaU03UW4yeHVNdFBGcFVUX2NtbnhKZndwUUo5SnpoUlFmRjNtUWFjMXMxamVZakkxVmxnZUtLU21sREx2ZFMyV2lpQQ?oc=5",
-          "desc": "",
-          "title_en": "Personal pessimism in the 50s… Husband poisoned by mixing chemicals with food in a restaurant",
-          "title_ja": "50年代の個人的な悲観論…レストランで食べ物と化学物質を混ぜて毒を盛られた夫",
-          "title_zh": "50年代的个人悲观情绪……丈夫在餐厅将化学物质与食物混合而中毒"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "롯데웰푸드, 인도 통합법인 출범 1년…상반기 매출 28% ‘껑충’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1INjdEbl91eS1VUWlReVp2ZEVOT3U5S0w2T3pkbmU4aDVVTjNvMlYwNjZPbS1nYUswQmFqaDFmdjRHc3RlbTREcUdXbHpfRXhpQnfSAVNBVV95cUxNcUVGZVRXZ2RRel85UFdRaXRGa1FWWC1wT3BDS0hZa0tHel80eG5qYnlCSDlVcFZDVXRUc3NhMmlkZmNvajI3VTc4Z09qSWpnMWp4NA?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Launches India Integrated Corporation for 1 Year… Sales in the First Half of the Year: 28%",
+          "title_ja": "ロッテウェルフード、インド統合企業を1年間立ち上げ…上半期の売上高： 28 ％",
+          "title_zh": "乐天Well Food推出为期1年的印度综合公司…上半年销售额： 28%"
+        },
+        {
           "title": "카톡 1원 송금에 음식 배달까지…전 남친 스토킹한 30대女의 최후",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ONU9wdjdMSjhSVTJKblRlWlo2UjRjVlVYVU54SW43RWlQcGMza3VNMDRteGF2eXU2OGZwUWQ4aThZa2tRaFNUN0R0N3d0MVhHREHSAVNBVV95cUxPcFFoRjl2Q2xRc3hWQUdKdFNpRExMV3JKaWpzejFkUmtkUDhLNXFNTXpmaWVaX1MtV3A4eUhadUNkQXliUlF4S3Vuek1hSmV3YmJtRQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wUWhGOXZDbFFzeFZBR0p0U2lETExXckppanN6MWRSa2RQOEs1cU1NemZpZVpfUy1XcDh5SFp1Q2RBeWJSUXhLdW56TWFKZXdiYm1F0gFTQVVfeXFMT3BRaEY5dkNsUXN4VkFHSnRTaURMTFdySmlqc3oxZFJrZFA4SzVxTU16ZmllWl9TLVdwOHlIWnVDZEF5YlJReEt1bnpNYUpld2JibUU?oc=5",
           "desc": "",
           "title_en": "Kakao Talk 1 won transfer and food delivery... The last of a woman in her 30s who stalked her ex-boyfriend",
           "title_ja": "カカオトーク1が乗り換えとフードデリバリーを勝ち取った…元ボーイフレンドをストーカーした最後の30代女性",
           "title_zh": "Kakao Talk 1赢得了接送和送餐服务......最后一位30多岁的女性跟踪她的前男友"
         },
         {
-          "title": "남양유업, 몽골에 K푸드 수출길 넓힌다…100억 수출 협약",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05WHR1cEFtOTdWdS1IMjg2cTI0Wk5zRHZvaktqTFFhMnZuYkVuY21BZi1NaVd4RFRhZThHOFBfZ2phNXQyZmZrdzF5YlFVMktQaXI00gFTQVVfeXFMTTlYdHVwQW05N1Z1LUgyODZxMjRaTnNEdm9qS2pMUWEydm5iRW5jbUFmLU1pV3hEVGFlOEc4UF9namE1dDJmZmt3MXliUVUyS1BpcjQ?oc=5",
+          "title": "“냉장고에 있다면 먹지 말고 당장 버려라”…치명률 20% 식중독균 있다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5reThWc0hOc0dnMzZ3ZVdTbjk4cFlJV0VZMVZKRF85TlVYWWsyUzJaNG9kTk9FMWRZZjlHeDlDM09tN0dMLXZnMlc3V0ozTkkzREE?oc=5",
           "desc": "",
-          "title_en": "Namyang Oil Business Expands K-Food Export Road to Mongolia… 10 Billion Export Agreement",
-          "title_ja": "南洋石油事業、モンゴルへのK - Food輸出路を拡大… 100億ドルの輸出契約",
-          "title_zh": "南阳石油业务拓展蒙古国K-Food出口路线… 100亿元出口协议"
-        },
-        {
-          "title": "[로터리] K-푸드 새 선봉장, 이제는 발효식품",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13OUVJVngxdkZBS2JhSHpFdWE3Q1hFVE5wckNoTXdrLTlkZTRZdmNCVkp2QkI1bkozQ3c4RmhmeHU0M2pCS2NScEVid1ZiSmlGY0HSAVNBVV95cUxPQkM0WWJFVTU3TTgzQ0xKcGxTNC0xZ1JKNnZIeXBoVzVWMHFpUjFTR3ZOd2Z4cU12cWh3a3JoN0p3NVpOekpIZ0FBRlU2M2c5V1JuTQ?oc=5",
-          "desc": "",
-          "title_en": "[Rotary] K-Food new vanguard, now fermented food",
-          "title_ja": "【ロータリー】K - Food新ヴァンガード発酵食品",
-          "title_zh": "[Rotary] K-Food新先锋，现为发酵食品"
+          "title_en": "“If you are in the refrigerator, don't eat it and throw it away immediately” … ‘This food‘ has a fatality rate of 20% food poisoning bacteria [Health Time]",
+          "title_ja": "「冷蔵庫に入っている場合は、すぐに食べて捨てないでください」…「この食べ物」の致死率は食中毒菌の20 ％です[Health Time]",
+          "title_zh": "“如果你在冰箱里，不要吃它，马上把它扔掉” …… ‘这种食物‘的致死率为20%食物中毒细菌[健康时间]"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“인도에서 K아이스크림 인기”…롯데웰푸드 인도 법인 2032년 연매출 1조원 목표",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5uV1RHTzV0MkJyNzZyWlhtZUpzUkx6N3p4Qi1jZ3ZxbXphcGk0bFUxR2FCOENZWmFPYTlTR01YS0VUU2p6bEE?oc=5",
+          "desc": "",
+          "title_en": "“K-ice cream popularity in India” … Lotte Well Food India aims to achieve annual sales of KRW 1 trillion in 2032",
+          "title_ja": "「インドでのK - ICEクリームの人気」…ロッテウェルフードインドは、2032年に年間1兆ウォンの売上を達成することを目指しています",
+          "title_zh": "“K冰淇淋在印度受欢迎” ……乐天Well Food India的目标是到2032年实现年销售额1万亿韩元"
+        },
+        {
+          "title": "#로컬푸드 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaG5IN1A4Q2VyckttbnBlR1hrWHpXUkhJMkxCTnMtamFUWUFmU1lrQTVuMkQ4cGp3a2FMUC04b0s2eUtyZGlWcmdPajk3UDRkZnFLc3JyWnpyYUZWVW1maVJxblBVYmRRUHpmUDJJMFpiazkzS1E?oc=5",
+          "desc": "",
+          "title_en": "# Local Food (1 Posts)",
+          "title_ja": "#ローカルフード（ 1件の投稿）",
+          "title_zh": "#当地美食（ 1个帖子）"
+        },
+        {
           "title": "구내식당에 홍삼삼계탕…현대그린푸드, 정관장과 홍삼 식단 선봬",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ha0lLU3VhNzFHcW1rN3hIeUp3YVRuczFGblpXcUNyemJzeEZUNkJLeHlWQ0tIa1l4VHJaQVlJVmNRZWd3TF9nbThGSE5kQy1aTlE?oc=5",
           "desc": "",
           "title_en": "Red ginseng sashimi in the cafeteria… Hyundai Green Food, Jeong Kwan Jang and Red ginseng diet",
           "title_ja": "カフェテリアの赤人参刺身…ヒュンダイグリーンフード、チョンクワンジャン、赤人参ダイエット",
           "title_zh": "自助餐厅的红参生鱼片……现代绿色食品、Jeong Kwan Jang和红参饮食"
-        },
-        {
-          "title": "중년 이후 \"이 음식\" 꼭 챙겨보세요, 지친 간을 돕는 건강식입니다. | 인삼군의 건강정보",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2dmRiZDNEYzBhWUFpYzJ5RlJvTjRBQndaM2t3UXY0RWFNQWhORWFzSV84SEdXMlBHVlc2azVSako4YU1odWRadkcyQ3ZlSVZQM1VnQ29Bc0NtUdIBWkFVX3lxTFA2dmRiZDNEYzBhWUFpYzJ5RlJvTjRBQndaM2t3UXY0RWFNQWhORWFzSV84SEdXMlBHVlc2azVSako4YU1odWRadkcyQ3ZlSVZQM1VnQ29Bc0NtUQ?oc=5",
-          "desc": "",
-          "title_en": "Be sure to take care of \"this food\" since middle age, it is a healthy food that helps the tired liver. | Health Information of Ginseng Group",
-          "title_ja": "中年から「この食べ物」を大切にして、疲れた肝臓に役立つ健康食品です。｜高麗人参グループの健康情報",
-          "title_zh": "从中年起，一定要爱护“这种食物” ，它是一种帮助疲劳肝脏的健康食品。|人参集团健康信息"
-        },
-        {
-          "title": "양산 상북면에 로컬푸드 직매장 개장…농산물·먹거리 복합공간",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEYlJTbjZnRjJEbkFqUm5iSkRrZl83Y205bFlleXJHSDJkdDNNX21vbW1yQl93cEVBcl9oTUhYZmIwdElOd2NoYl9nWWk4cFZZYWc?oc=5",
-          "desc": "",
-          "title_en": "Opened a local food direct store in Sangbuk-myeon, Yangsan… Agricultural products and food complex",
-          "title_ja": "揚山市上北面に地元の食料直営店を開店…農産物と食品複合施設",
-          "title_zh": "在Yangsan的Sangbuk-myeon开设了当地食品直营店……农产品和食品综合体"
         }
       ]
     },
