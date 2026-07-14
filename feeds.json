@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T19:20:21Z",
+  "lastUpdated": "2026-07-14T21:57:28Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "영양사가 권하는 변비 해소 음료 2가지",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82UGpRclBHaXNRVVIwYnJPSm55Z1VLd0t4RDRVVmZZYWFsUVBnUWZzd0lHakNyaWxhWUY1aFpIc0MzNTNHSTJqSVJQTnhKcXoyenhJeS01MA?oc=5",
+          "desc": "",
+          "title_en": "2 Constipation-Relieving Drinks from a Nutritionist",
+          "title_ja": "栄養士による2種類の便秘緩和ドリンク",
+          "title_zh": "2营养学家提供的缓解便秘饮料"
+        },
+        {
+          "title": "약국에서 두부를?…식품 늘리는 일본 드럭스토어",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1la0VBbGpQbG1qMTlmblNBd0stbDFXTW1OQ0pPMFF2cUxnVE9sT2hldU90N2R0U3ZScjJsZWw4VzRFS01Qd0dDcjl3NklCNFlNWmgyUmVOdw?oc=5",
+          "desc": "",
+          "title_en": "Tofu in pharmacies? … Japanese drugstore to increase food",
+          "title_ja": "薬局の豆腐？ …食材を増やす日本のドラッグストア",
+          "title_zh": "药店里的豆腐？ ……增加食物的日本药店"
+        },
+        {
           "title": "쿠팡이츠에선 더 싸게…설빙 여름 프로모션",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tVFpxTVBpUktlNGsxcWRpV2RKMDJRQXpVYzVQdnl0Nnp0dU9yNFpiaHU4cUI0bDVkOTlVMTVpdWp5RU5WUmV6ejhnbDlSdTAwUzg2Q2VxMA?oc=5",
           "desc": "",
           "title_en": "Cheaper in Coupangites… Snowy Summer Promotion",
           "title_ja": "クーパンでお得に…雪の降る夏のプロモーション",
           "title_zh": "在Coupangites体验更便宜……夏季雪景促销"
-        },
-        {
-          "title": "윤기나고 찰지다, ‘K-프리미엄 쌀’ 왜 다를까",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OM2tQeC1kRmQ0UVpYWGp4VkNWUWRWenJMZHJhTmVuSjlOTXBhdHRDaHowM1hIcVlkYWU5ZlZsalhTNXVPcHZyZHNNRHFNa1dTX2tLT0lqSQ?oc=5",
-          "desc": "",
-          "title_en": "It's lustrous and scrumptious, ‘K-Premium Rice’ Why it's different",
-          "title_ja": "それは光沢があり、おいしいです。「Kプレミアムライス」なぜそれが違うのですか",
-          "title_zh": "它有光泽和美味， “K-Premium Rice”为什么它与众不同"
-        },
-        {
-          "title": "롯데호텔 보양식, 간편하게 산다…롯데백화점 본점서 팝업",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ITG9RRVZtbXpMLXg1UGxVUTdZb1poeGNlSWVuamtPc2dzblZrcXkwSy04X2VYSzJmMFJJVnBNdk1DMjRVMnFNRTNJaTJiRDZmOVB5LU9WMA?oc=5",
-          "desc": "",
-          "title_en": "Lotte Hotel Soyangsik, Living Easily… Lotte Department Store Main Store Pop-up",
-          "title_ja": "ロッテホテルソヤンシク、暮らしやすい…ロッテ百貨店本店ポップアップ",
-          "title_zh": "乐天Soyangsik酒店，轻松生活……乐天百货主店快闪"
         }
       ]
     }
