@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T21:56:53Z",
+  "lastUpdated": "2026-07-14T02:31:42Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드, 마이데이터 기반 ‘헬스케어 혁신’ 시동",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPNHN2bElBUkJxa0RlSE0teVo2Wm10aEJUZW9tSVhXQm5xdVg4WWhWVmpXUUcyUW5RTUh5MHN3T1JBbFM4Z2NFcTk4MGhIU0c0UFdSSFZoZTZHQQ?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food launches‘ Healthcare Innovation ’based on MyData",
+          "title_ja": "Hyundai Green Food、MyDataに基づく「ヘルスケアイノベーション」を開始",
+          "title_zh": "现代绿色食品推出基于MyData的“医疗保健创新”"
+        },
+        {
           "title": "\"일본 가서도 생각날 맛\" 외국인도 반했다…MZ 줄 세운 음식 [김기자의 알고리즘]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYmFlSHFqUk50a2xha0J4ZVdBS1ItbDFYSFZSZDVmcjl5S19UME1YeC1KbmtuUnRuQU5rRTdhMFY5Ml8zYlNkR1ZNNndWY0hGTVVBWmVjTEZPZw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "1st Anniversary of Lotte Well Food India Integrated Corporation… 28% of sales in the first half of the year 'Strong laughter'",
           "title_ja": "ロッテウェルフードインドインテグレーテッドコーポレーション1周年…上半期の売上高の28 ％が「強い笑い」",
           "title_zh": "乐天健康食品印度综合公司成立1周年......上半年销售额的28 ％ “强笑声”"
-        },
-        {
-          "title": "고속도로 휴게소 음식값",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TDVSNDJHRklabmZuTDY0bFBWNkRTQ2JUeEpSYVlweG9kOS00RlFNclY0X1ptcDk3UkZpYkdySDNFWGlSQlJ6bFpBSkM2Q0JianpKbVpkQnh4Z9IBVEFVX3lxTFA0MnU1QVltOWVYMmdoY2V6cmVhQXRQanN0dW5DenBTTXV3dzZtNE85TXRwT0w3aTVsdF9JQzJSZkZwWnRIb2RhRk5jeXVZR05FRng5Xw?oc=5",
-          "desc": "",
-          "title_en": "Highway rest area food prices",
-          "title_ja": "ハイウェイ休憩エリアの食品価格",
-          "title_zh": "公路休息区食品价格"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "현대그린푸드, 의료 마이데이터 사업 선정…초개인화 영양관리 서비스 선보인다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WV1dSdERxNTExMGl1ZVRnVUFyY09fRHR1Nnp2ZzJtdzM5QktQM1pFU0t6bEdfMDhDM3N3a1pta0UtSjc5UVR0cmRxcUdrTkp6d0HSAVNBVV95cUxQdEVSOUJGN0xaajFaSmVVZWRtc1Y3Wm9oUVpKSkdpQ1NMTm5VWnR3RUdLQXM1U0hzV0xGSDY2Ym1MRHpNelpFXzFWX2YzRWJ2c3BQYw?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food Selects Medical MyData Project… Introduces Hyperpersonalized Nutrition Management Service",
+          "title_ja": "Hyundai Green Food、医療用MyDataプロジェクトを選択…ハイパーソナライズされた栄養管理サービスを導入",
+          "title_zh": "现代绿色食品选择医疗MyData项目…推出超个性化营养管理服务"
+        },
         {
           "title": "롯데웰푸드, 인도 통합법인 출범 1년…상반기 매출 28% ‘껑충’",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1INjdEbl91eS1VUWlReVp2ZEVOT3U5S0w2T3pkbmU4aDVVTjNvMlYwNjZPbS1nYUswQmFqaDFmdjRHc3RlbTREcUdXbHpfRXhpQnfSAVNBVV95cUxNcUVGZVRXZ2RRel85UFdRaXRGa1FWWC1wT3BDS0hZa0tHel80eG5qYnlCSDlVcFZDVXRUc3NhMmlkZmNvajI3VTc4Z09qSWpnMWp4NA?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "“If you are in the refrigerator, don't eat it and throw it away immediately” … ‘This food‘ has a fatality rate of 20% food poisoning bacteria [Health Time]",
           "title_ja": "「冷蔵庫に入っている場合は、すぐに食べて捨てないでください」…「この食べ物」の致死率は食中毒菌の20 ％です[Health Time]",
           "title_zh": "“如果你在冰箱里，不要吃它，马上把它扔掉” …… ‘这种食物‘的致死率为20%食物中毒细菌[健康时间]"
-        },
-        {
-          "title": "카톡 1원 송금에 음식 배달까지…전 남친 스토킹한 30대女의 최후",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wUWhGOXZDbFFzeFZBR0p0U2lETExXckppanN6MWRSa2RQOEs1cU1NemZpZVpfUy1XcDh5SFp1Q2RBeWJSUXhLdW56TWFKZXdiYm1F0gFTQVVfeXFMT3BRaEY5dkNsUXN4VkFHSnRTaURMTFdySmlqc3oxZFJrZFA4SzVxTU16ZmllWl9TLVdwOHlIWnVDZEF5YlJReEt1bnpNYUpld2JibUU?oc=5",
-          "desc": "",
-          "title_en": "Kakao Talk 1 won transfer and food delivery... The last of a woman in her 30s who stalked her ex-boyfriend",
-          "title_ja": "カカオトーク1が乗り換えとフードデリバリーを勝ち取った…元ボーイフレンドをストーカーした最後の30代女性",
-          "title_zh": "Kakao Talk 1赢得了接送和送餐服务......最后一位30多岁的女性跟踪她的前男友"
         }
       ]
     },
@@ -188,12 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "“인도에서 K아이스크림 인기”…롯데웰푸드 인도 법인 2032년 연매출 1조원 목표",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5uV1RHTzV0MkJyNzZyWlhtZUpzUkx6N3p4Qi1jZ3ZxbXphcGk0bFUxR2FCOENZWmFPYTlTR01YS0VUU2p6bEE?oc=5",
+          "title": "구미시, 박정희 생가 인근에 관광형 로컬푸드 직매장 건립",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JR05SVU9xd0Mtc2h5WnRUeTRDWXlqZzh3NWpKdTJCdnB1Q2R0RFpFY3RVbEl2TnA1b051d3p0MGN3Vk44TWg1aHBoNTFBQVJJc0E?oc=5",
           "desc": "",
-          "title_en": "“K-ice cream popularity in India” … Lotte Well Food India aims to achieve annual sales of KRW 1 trillion in 2032",
-          "title_ja": "「インドでのK - ICEクリームの人気」…ロッテウェルフードインドは、2032年に年間1兆ウォンの売上を達成することを目指しています",
-          "title_zh": "“K冰淇淋在印度受欢迎” ……乐天Well Food India的目标是到2032年实现年销售额1万亿韩元"
+          "title_en": "Establishment of tourist-type local food outlets near Gumi-si and Park Chung-hee's birthplace",
+          "title_ja": "Gumi - siとPark Chung - heeの発祥の地の近くに観光タイプの地元の食料品店を設立",
+          "title_zh": "在Gumi-si和Park Chung-hee的出生地附近建立旅游型当地美食店"
         },
         {
           "title": "롯데웰푸드, '체질 개선으로 불확실성 극복 중' 증권사 발표에 강세",
@@ -226,20 +226,20 @@
           "title_zh": "2营养学家提供的缓解便秘饮料"
         },
         {
-          "title": "옥수수가 톡톡, 팬 하나로 끝나는 ‘초당옥수수 원팬밥’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwOHBoblVCWnBFRU13cURDcnIyTHlua3FLYWdVYTJFQlQ0emdta21MWDVqQlQyT2plaGtJSzVRaHphR2wzZUY5V0RaTVRuWWdTenpLS1BvMA?oc=5",
-          "desc": "",
-          "title_en": "'Chodang Corn One Pan Rice‘ where corn ends with one toktok, pan",
-          "title_ja": "トウモロコシが1つのトクトックで終わる「朝唐コーンワンパンライス」、パン",
-          "title_zh": "“Chodang Corn One Pan Rice” ，玉米末端有一个toktok ，平底锅"
-        },
-        {
           "title": "빽다방, 신규 BI로 글로벌 시장 본격 진출",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLcUhxTU5SamxKT0xzOWhBLUlRaklqREdzaTczakFzWHR3RnloRU5iMThjaWt0X0NJQ0E2bXFWMWExdUdfWUt0MkpKS0JvNlNqNG1Xb0FtTQ?oc=5",
           "desc": "",
           "title_en": "Dengdabang enters global market with new BI",
           "title_ja": "Dengdabang、新しいBIでグローバル市場に参入",
           "title_zh": "登大邦以新BI进军全球市场"
+        },
+        {
+          "title": "약국에서 두부를?…식품 늘리는 일본 드럭스토어",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1la0VBbGpQbG1qMTlmblNBd0stbDFXTW1OQ0pPMFF2cUxnVE9sT2hldU90N2R0U3ZScjJsZWw4VzRFS01Qd0dDcjl3NklCNFlNWmgyUmVOdw?oc=5",
+          "desc": "",
+          "title_en": "Tofu in pharmacies? … Japanese drugstore to increase food",
+          "title_ja": "薬局の豆腐？ …食材を増やす日本のドラッグストア",
+          "title_zh": "药店里的豆腐？ ……增加食物的日本药店"
         }
       ]
     }
