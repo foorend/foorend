@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T05:30:42Z",
+  "lastUpdated": "2026-07-14T08:05:19Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“왕의 밥상은 정치”…음식으로 깊이 더한 ‘왕은 무얼 자셨는가’[현장 LIVE]",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9nekpfMl9rNC1NakVuNVBNbWlHLTNFalF4MnVDdmsxSHN5U2Q5elBIMUNBcExCbk13c29hZ0VMc2NDUjhNT3c?oc=5",
+          "desc": "",
+          "title_en": "“The king's table is politics” … ‘What did the king sleep on?’ deep with food [live on site]",
+          "title_ja": "「王様のテーブルは政治です」…「王様は何を寝ていましたか？」食べ物で深く[現場に住んでいます]",
+          "title_zh": "“国王的餐桌就是政治” …… “国王睡在什么地方？”吃得很深[现场直播]"
+        },
+        {
           "title": "“건강검진 결과 보고 식단 추천”…현대그린푸드, 의료 마이데이터 사업 첫 진출",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KT01UZS1jdk9ETEo1SFBKQTAxaDZ5X0JDWFpobXpYVGdQTWF1LThaS1FwVE1qb3oxbXJZUGMxaHlORkg4Y2c?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Establishment of tourist-type local food outlets near Gumi-si and Park Chung-hee's birthplace",
           "title_ja": "Gumi - siとPark Chung - heeの発祥の地の近くに観光タイプの地元の食料品店を設立",
           "title_zh": "在Gumi-si和Park Chung-hee的出生地附近建立旅游型当地美食店"
-        },
-        {
-          "title": "롯데웰푸드, '체질 개선으로 불확실성 극복 중' 증권사 발표에 강세",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PVHJiWTlDY2J1bXp4eHRid21tbldjVFluUXkyVUdlTTlmR25RTGRlYnpIaFNlLUVic3NBTVdBTWphY1BGMHNHMFdKWFd2bW5aTEE?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Strong in Announcing Securities Company 'Overcoming Uncertainty by Improving Body Composition'",
-          "title_ja": "ロッテウェルフード、証券会社「体組成改善による不確実性克服」を発表",
-          "title_zh": "乐天健康食品强势宣布证券公司“通过改善身体成分克服不确定性”"
         }
       ]
     },
