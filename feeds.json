@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T02:31:42Z",
+  "lastUpdated": "2026-07-14T05:30:42Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "현대그린푸드, 의료 마이데이터 사업 선정…초개인화 영양관리 서비스 선보인다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WV1dSdERxNTExMGl1ZVRnVUFyY09fRHR1Nnp2ZzJtdzM5QktQM1pFU0t6bEdfMDhDM3N3a1pta0UtSjc5UVR0cmRxcUdrTkp6d0HSAVNBVV95cUxQdEVSOUJGN0xaajFaSmVVZWRtc1Y3Wm9oUVpKSkdpQ1NMTm5VWnR3RUdLQXM1U0hzV0xGSDY2Ym1MRHpNelpFXzFWX2YzRWJ2c3BQYw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0RVI5QkY3TFpqMVpKZVVlZG1zVjdab2hRWkpKR2lDU0xOblVadHdFR0tBczVTSHNXTEZINjZibUxEek16WkVfMVZfZjNFYnZzcFBj0gFTQVVfeXFMUHRFUjlCRjdMWmoxWkplVWVkbXNWN1pvaFFaSkpHaUNTTE5uVVp0d0VHS0FzNVNIc1dMRkg2NmJtTER6TXpaRV8xVl9mM0VidnNwUGM?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Food Selects Medical MyData Project… Introduces Hyperpersonalized Nutrition Management Service",
           "title_ja": "Hyundai Green Food、医療用MyDataプロジェクトを選択…ハイパーソナライズされた栄養管理サービスを導入",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“건강검진 결과 보고 식단 추천”…현대그린푸드, 의료 마이데이터 사업 첫 진출",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KT01UZS1jdk9ETEo1SFBKQTAxaDZ5X0JDWFpobXpYVGdQTWF1LThaS1FwVE1qb3oxbXJZUGMxaHlORkg4Y2c?oc=5",
+          "desc": "",
+          "title_en": "“Dietary recommendations based on health examination results” … Hyundai Green Food to enter medical MyData business for the first time",
+          "title_ja": "「健康診断結果に基づく食事の推奨」…現代グリーンフードが初めて医療用MyData事業に参入",
+          "title_zh": "“基于健康检查结果的饮食建议” …现代绿色食品首次进入医疗MyData业务"
+        },
+        {
           "title": "구미시, 박정희 생가 인근에 관광형 로컬푸드 직매장 건립",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JR05SVU9xd0Mtc2h5WnRUeTRDWXlqZzh3NWpKdTJCdnB1Q2R0RFpFY3RVbEl2TnA1b051d3p0MGN3Vk44TWg1aHBoNTFBQVJJc0E?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Lotte Well Food Strong in Announcing Securities Company 'Overcoming Uncertainty by Improving Body Composition'",
           "title_ja": "ロッテウェルフード、証券会社「体組成改善による不確実性克服」を発表",
           "title_zh": "乐天健康食品强势宣布证券公司“通过改善身体成分克服不确定性”"
-        },
-        {
-          "title": "롯데웰푸드, 인도 통합 법인 1주년…\"상반기 매출 28% 성장\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0UUdCczBWcXdCdkVSMC1rb2g1Y090bWRjeHItcnlEc29HR1V1OUxVdkl6cEVLb0c4NGZnbDh1QjYzZTR4X3g1b2JRNWR5UVlFdEE?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Celebrates First Anniversary of Unified Incorporation in India… \"Sales Grow 28% in First Half\"",
-          "title_ja": "ロッテウェルフード、インド統一法人設立1周年を祝う「上半期の売上高は28 ％増」",
-          "title_zh": "乐天健康食品庆祝印度统一注册一周年…… “上半年销售额增长28%”"
         }
       ]
     },
