@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-07-14T16:15:02Z",
+  "lastUpdated": "2026-07-14T19:20:21Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Taco Bell is reportedly being investigated as potential source of cyclosporiasis outbreak",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0xraEE5S2d1bTROdHg1SEViQTQxb1M4Q0xtWkFrcTdqcHJvTEVzd2R6MWozeTJ6MlNPZ0dCTDNMQjlQZWZhTFBsWVoxaktkVlNuWHJoX1dGX21GejJPcFd5V29maEhNbUt2b1NHUUNEWmJFRkFHQ19fTEFuYjBUcFJXdGdpejV3VThZcDJTZlBGTnVNSEd5TGl0SW5pWEd5N21oX21XQTg2R1lqWEhvWTJ5YzJwdUJSbUlERzFTY0E0cU4zcGlhZVQyYw?oc=5",
+          "desc": "",
+          "title_ko": "Taco Bell은 cyclosporiasis 발생의 잠재적 원인으로 조사되고 있습니다.",
+          "title_ja": "タコベルは、サイクロスポラ症のアウトブレイクの潜在的な原因として調査されていると報告されています",
+          "title_zh": "据报道， Taco Bell正在作为环孢子虫病爆发的潜在来源进行调查"
+        },
         {
           "title": "Inside McDonald’s new see-through prototype restaurant",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1hJc3hfbWNFUW4yTldLMEdER3o5M0UyeUVvWXZiVnllcXl5dk9OeVZQMlFKUmdseDF4Z0FXMHN2NnBBeVBrUC1faUZwQThSckFoS3o0RDF0QV9Sblowekp2cVQ2OG05QTJYXzJzXzZVVTBsYnp6SjFIVndxY0dNbkQxQnI0akY1ay02ZVBUbmMyMmlPb2YyaVV1VDQxOHpYWm9jLVNSYw?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "윙스탑은 스스로를 식인화하고 있는가?",
           "title_ja": "ウイングストップは自分自身を食いしばっているのか？",
           "title_zh": "Wingstop是否在蚕食自己？"
-        },
-        {
-          "title": "McDonald's tries its hand at hand-breaded chicken",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVRGT3NVVzYybUlOczJCcmtBdHpWQjJWTzRMd3NHS3hOLVJPWVJVcENpRUlfempDaVEwWE1nWTBOclNTYkc4QlZyaG5NbVljbW15eFFEeF9VYm5RbnNnZFVYaWJIOVdZNzFzaFFsS3BSZEprN29aa25pdkpPb1lWeHNBUzRmaUdxUzdoNUVBRExlYkxRYW80?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드는 수제빵 치킨을 시도합니다.",
-          "title_ja": "マクドナルドは手打ちの鶏肉を試しています",
-          "title_zh": "麦当劳尝试手工烘焙鸡肉"
         }
       ]
     },
@@ -35,14 +35,6 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
-        {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -58,6 +50,14 @@
           "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
           "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
           "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
         }
       ]
     },
@@ -129,7 +129,7 @@
       "items": [
         {
           "title": "㈜삼진푸드-㈜푸드패커, 발효 기술 및 진천 지역 상생 위한 업무협약 체결",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwQmtZV1ZWc2l2SThjRG9vQ3llcW9JUDdrZlBtTmRRQm5Qcmw5V0p3UzlYQjQtcjMycTZScC1FYy1OMHVhd1lHVTZOVTFXbXQ4bmRQYUlWMXJTY3FhMXJvM1BEekRXdGtNem4wVw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Eb0VQandzQXBUblZ4dnMtUWV0LTkwOWEtQ0hKMWNSQzBkOHlycjlKeTVSZFlxd05CQU9fQU1GY0tpUjg2dnVFNjQ2TUlGaTE0VVNPVzVWNkV1MnZOOHRvYzJHbGtkTUE?oc=5",
           "desc": "",
           "title_en": "Samjin Food Co., Ltd. - Food Packer Co., Ltd. Signs a Business Agreement for Fermentation Technology and Coexistence in Jincheon",
           "title_ja": "Samjin Food Co., Ltd. - Food Packer Co., Ltd.がJincheonで発酵技術と共存のためのビジネス契約を締結",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“냉장고에 있다면 먹지 말고 당장 버려라”…치명률 20% 식중독균 있다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5reThWc0hOc0dnMzZ3ZVdTbjk4cFlJV0VZMVZKRF85TlVYWWsyUzJaNG9kTk9FMWRZZjlHeDlDM09tN0dMLXZnMlc3V0ozTkkzREHSAVNBVV95cUxNZUFqWXFvcGhrR1RrWklaaU5fVUc2b1BJLTFOZ211TnFRZ0JJU2ZsN0VPSHRibTFsYWd3Q1B4SE1iclBIZmd5MFk4UHlNNmVPd2VGWQ?oc=5",
+          "desc": "",
+          "title_en": "“If you are in the refrigerator, don't eat it and throw it away immediately” … ‘This food‘ has a fatality rate of 20% food poisoning bacteria [Health Time]",
+          "title_ja": "「冷蔵庫に入っている場合は、すぐに食べて捨てないでください」…「この食べ物」の致死率は食中毒菌の20 ％です[Health Time]",
+          "title_zh": "“如果你在冰箱里，不要吃它，马上把它扔掉” …… ‘这种食物‘的致死率为20%食物中毒细菌[健康时间]"
+        },
+        {
           "title": "맛칼럼니스트·어남선생·음식PD가 문체부 장관과 만났는데…",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYQmpwNDl6Y2RDWXltekx2dmFqUjlaZDItQk14djc1TTNTU2hDZzJCSGJnb29mWXE0Zi1iQ0tjckRwcnZRXzZEN1kyXzlJTVdrREhV0gFTQVVfeXFMUFhCanA0OXpjZENZeW16THZ2YWpSOVpkMi1CTXh2NzVNM1NTaENnMkJIYmdvb2ZZcTRmLWJDS2NyRHBydlFfNkQ3WTJfOUlNV2tESFU?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Hyundai Green Food, the first medical my-data operator in the food industry,",
           "title_ja": "食品業界初の医療用マイデータオペレーターであるHyundai Green Foodは、",
           "title_zh": "现代绿色食品（ Hyundai Green Food ）是食品行业第一家医疗my-data运营商，"
-        },
-        {
-          "title": "현대그린푸드, 의료 마이데이터 사업 선정…초개인화 영양관리 서비스 선보인다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WV1dSdERxNTExMGl1ZVRnVUFyY09fRHR1Nnp2ZzJtdzM5QktQM1pFU0t6bEdfMDhDM3N3a1pta0UtSjc5UVR0cmRxcUdrTkp6d0HSAVNBVV95cUxQdEVSOUJGN0xaajFaSmVVZWRtc1Y3Wm9oUVpKSkdpQ1NMTm5VWnR3RUdLQXM1U0hzV0xGSDY2Ym1MRHpNelpFXzFWX2YzRWJ2c3BQYw?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food Selects Medical MyData Project… Introduces Hyperpersonalized Nutrition Management Service",
-          "title_ja": "Hyundai Green Food、医療用MyDataプロジェクトを選択…ハイパーソナライズされた栄養管理サービスを導入",
-          "title_zh": "现代绿色食品选择医疗MyData项目…推出超个性化营养管理服务"
         }
       ]
     },
@@ -187,14 +187,6 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
-        {
-          "title": "“건강검진 결과 보고 식단 추천”…현대그린푸드, 의료 마이데이터 사업 첫 진출",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KT01UZS1jdk9ETEo1SFBKQTAxaDZ5X0JDWFpobXpYVGdQTWF1LThaS1FwVE1qb3oxbXJZUGMxaHlORkg4Y2c?oc=5",
-          "desc": "",
-          "title_en": "“Dietary recommendations based on health examination results” … Hyundai Green Food to enter medical MyData business for the first time",
-          "title_ja": "「健康診断結果に基づく食事の推奨」…現代グリーンフードが初めて医療用MyData事業に参入",
-          "title_zh": "“基于健康检查结果的饮食建议” …现代绿色食品首次进入医疗MyData业务"
-        },
         {
           "title": "“왕의 밥상은 정치”…음식으로 깊이 더한 ‘왕은 무얼 자셨는가’[현장 LIVE] - 스타투데이",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vMUI4WVlaeVF1MkFqanJNeE0zT0ZLMkp5NVZ5cHNBcW9XclQ5M1VVbEcwblIzTEtrNmdSU1VOVWNjaDdTT3hWUFNmemwxVmd6dW9tX0puRkxyTkxfYktsOFh4LU1rUQ?oc=5",
@@ -210,6 +202,14 @@
           "title_en": "Establishment of tourist-type local food outlets near Gumi-si and Park Chung-hee's birthplace",
           "title_ja": "Gumi - siとPark Chung - heeの発祥の地の近くに観光タイプの地元の食料品店を設立",
           "title_zh": "在Gumi-si和Park Chung-hee的出生地附近建立旅游型当地美食店"
+        },
+        {
+          "title": "“건강검진 결과 보고 식단 추천”…현대그린푸드, 의료 마이데이터 사업 첫 진출",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zTENhX2Z2XzBVTVNGMm9oT29ES2czRThBT0swTkNCaElJUzNFN2VQbVh4a2tPMzh3YjdLSTlqTjlVUUxVTHJieW5jbHk1T1lPR3N0ekZB?oc=5",
+          "desc": "",
+          "title_en": "“Dietary recommendations based on health examination results” … Hyundai Green Food to enter medical MyData business for the first time",
+          "title_ja": "「健康診断結果に基づく食事の推奨」…現代グリーンフードが初めて医療用MyData事業に参入",
+          "title_zh": "“基于健康检查结果的饮食建议” …现代绿色食品首次进入医疗MyData业务"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "영양사가 권하는 변비 해소 음료 2가지",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82UGpRclBHaXNRVVIwYnJPSm55Z1VLd0t4RDRVVmZZYWFsUVBnUWZzd0lHakNyaWxhWUY1aFpIc0MzNTNHSTJqSVJQTnhKcXoyenhJeS01MA?oc=5",
-          "desc": "",
-          "title_en": "2 Constipation-Relieving Drinks from a Nutritionist",
-          "title_ja": "栄養士による2種類の便秘緩和ドリンク",
-          "title_zh": "2营养学家提供的缓解便秘饮料"
-        },
-        {
-          "title": "약국에서 두부를?…식품 늘리는 일본 드럭스토어",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1la0VBbGpQbG1qMTlmblNBd0stbDFXTW1OQ0pPMFF2cUxnVE9sT2hldU90N2R0U3ZScjJsZWw4VzRFS01Qd0dDcjl3NklCNFlNWmgyUmVOdw?oc=5",
-          "desc": "",
-          "title_en": "Tofu in pharmacies? … Japanese drugstore to increase food",
-          "title_ja": "薬局の豆腐？ …食材を増やす日本のドラッグストア",
-          "title_zh": "药店里的豆腐？ ……增加食物的日本药店"
-        },
-        {
           "title": "쿠팡이츠에선 더 싸게…설빙 여름 프로모션",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tVFpxTVBpUktlNGsxcWRpV2RKMDJRQXpVYzVQdnl0Nnp0dU9yNFpiaHU4cUI0bDVkOTlVMTVpdWp5RU5WUmV6ejhnbDlSdTAwUzg2Q2VxMA?oc=5",
           "desc": "",
           "title_en": "Cheaper in Coupangites… Snowy Summer Promotion",
           "title_ja": "クーパンでお得に…雪の降る夏のプロモーション",
           "title_zh": "在Coupangites体验更便宜……夏季雪景促销"
+        },
+        {
+          "title": "윤기나고 찰지다, ‘K-프리미엄 쌀’ 왜 다를까",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OM2tQeC1kRmQ0UVpYWGp4VkNWUWRWenJMZHJhTmVuSjlOTXBhdHRDaHowM1hIcVlkYWU5ZlZsalhTNXVPcHZyZHNNRHFNa1dTX2tLT0lqSQ?oc=5",
+          "desc": "",
+          "title_en": "It's lustrous and scrumptious, ‘K-Premium Rice’ Why it's different",
+          "title_ja": "それは光沢があり、おいしいです。「Kプレミアムライス」なぜそれが違うのですか",
+          "title_zh": "它有光泽和美味， “K-Premium Rice”为什么它与众不同"
+        },
+        {
+          "title": "롯데호텔 보양식, 간편하게 산다…롯데백화점 본점서 팝업",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ITG9RRVZtbXpMLXg1UGxVUTdZb1poeGNlSWVuamtPc2dzblZrcXkwSy04X2VYSzJmMFJJVnBNdk1DMjRVMnFNRTNJaTJiRDZmOVB5LU9WMA?oc=5",
+          "desc": "",
+          "title_en": "Lotte Hotel Soyangsik, Living Easily… Lotte Department Store Main Store Pop-up",
+          "title_ja": "ロッテホテルソヤンシク、暮らしやすい…ロッテ百貨店本店ポップアップ",
+          "title_zh": "乐天Soyangsik酒店，轻松生活……乐天百货主店快闪"
         }
       ]
     }
