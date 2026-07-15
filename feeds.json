@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T13:43:53Z",
+  "lastUpdated": "2026-07-15T16:22:06Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Eater Lands 2026 Daytime Emmy Nomination",
+          "link": "https://www.eater.com/press-room/974239/eater-daytime-emmy-2026-nomination",
+          "desc": "A week after being nominated for its 18th New York Emmy, Eater has been nominated for a Daytime Emmy. The 2026 nominations, announced on Tuesday, reco",
+          "title_ko": "Eater Lands 2026 데이타임 에미상 후보",
+          "title_ja": "Eater Lands 2026昼間エミー賞ノミネート",
+          "title_zh": "Eater Lands 2026日间艾美奖提名"
+        },
+        {
           "title": "Thoughtful Kitchen Prep Helps This NYC Hotel Feed Thousands of Guests",
           "link": "https://www.eater.com/video/973741/how-arlo-williamsburg-hotel-preps-for-service",
           "desc": "This episode of Large Format goes inside the dining rush at Arlo Williamsburg, where hundreds of diners stream into the onsite restaurant, Sungold, wh",
@@ -110,14 +118,6 @@
           "title_ko": "최신 긱 이코노미 허슬? 레스토랑 라인 시팅.",
           "title_ja": "最新のギグエコノミーハッスル？レストランのラインシッティング。",
           "title_zh": "最新的零工经济喧嚣？餐厅排队。"
-        },
-        {
-          "title": "Eater Is Coming to Netflix",
-          "link": "https://www.eater.com/press-room/972821/eater-is-coming-to-netflix",
-          "desc": "You’ll soon be able to watch your favorite Eater videos, from Mise en Place to Smoke Point, on one of the world’s biggest streamers. Today, Netflix an",
-          "title_ko": "고객이 넷플릭스에 오고 있습니다",
-          "title_ja": "注文者がNetflixに登場",
-          "title_zh": "顾客即将加入Netflix"
         }
       ]
     }
@@ -144,12 +144,12 @@
           "title_zh": "Amose Foods推出“橙色志愿者小组” ，这是一个社会贡献组织......在社会贡献活动之后"
         },
         {
-          "title": "급식 넘어 '의료 데이터' 사업…현대그린푸드의 큰 그림",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54RktFZ2QySVpZVzJEYkhBYkk3dWxxY3JHR19OVmFIWVJuWVJxVHZIZERTNC1kYWlsZ0Z3MVJ0bnJ5ZTJ1T0x3U0g3eW0tOW9iZTdzb3hxaGlVdw?oc=5",
+          "title": "\"일본 가서도 생각날 맛\" 외국인도 반했다…MZ 줄 세운 음식 [김기자의 알고리즘]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYmFlSHFqUk50a2xha0J4ZVdBS1ItbDFYSFZSZDVmcjl5S19UME1YeC1KbmtuUnRuQU5rRTdhMFY5Ml8zYlNkR1ZNNndWY0hGTVVBWmVjTEZPZw?oc=5",
           "desc": "",
-          "title_en": "Beyond feeding, 'medical data' business… Hyundai Green Food's big picture",
-          "title_ja": "給餌以外にも、「医療データ」ビジネス…現代グリーンフードの全体像",
-          "title_zh": "除了喂养， “医疗数据”业务……现代绿色食品的大局"
+          "title_en": "\"Taste when you think of going to Japan\" The foreigner also had a crush... MZ lined food [Kim Giza's algorithm]",
+          "title_ja": "「日本に行こうと思ったら味わう」外国人もめちゃくちゃ… MZ裏地の食べ物【キム・ギザのアルゴリズム】",
+          "title_zh": "「一想到去日本就尝尝」外国人也迷恋上了…… MZ内衬的食物[Kim Giza的算法]"
         }
       ]
     },
