@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T02:30:05Z",
+  "lastUpdated": "2026-07-15T05:31:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -166,20 +166,20 @@
           "title_zh": "“如果你在冰箱里，不要吃它，马上把它扔掉” …… ‘这种食物‘的致死率为20%食物中毒细菌[健康时间]"
         },
         {
+          "title": "“기안84랑 뛰자”…롯데웰푸드, ‘설레임런’ 참가권 2시간 만에 완판",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wX1dnOGFhV0hKc05TclBuSDhibXpxTHpaM1NRY0F2UHQ2QnZnOFZObFV6NHg4MHpIOE9Bd2lqSEZkZGRwRVB0bG0wUUlkSWxKUUHSAVNBVV95cUxNSS1tTGNlck1qMGNndm9vQnM1WnlSQzJSWE0xQ3Z5VUkxMlc1NzJWZkR3WDdhZVZXeFdBOURCVFFZOENYYW9BVWJEa2MtazBTY2lfRQ?oc=5",
+          "desc": "",
+          "title_en": "“Let's Run with Gian 84” … Lotte Well Food Completed Within 2 Hours of Participating in ’Seolleim Run'",
+          "title_ja": "「LET 'S RUN WITH GIAN 84」…「ソレイムラン」参加後2時間以内にロッテウェルフードが完成",
+          "title_zh": "“Let's Run with Gian 84” …参加“Seolleim Run” 2小时内完成乐天健康食品"
+        },
+        {
           "title": "맛칼럼니스트·어남선생·음식PD가 문체부 장관과 만났는데…",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYQmpwNDl6Y2RDWXltekx2dmFqUjlaZDItQk14djc1TTNTU2hDZzJCSGJnb29mWXE0Zi1iQ0tjckRwcnZRXzZEN1kyXzlJTVdrREhV0gFTQVVfeXFMUFhCanA0OXpjZENZeW16THZ2YWpSOVpkMi1CTXh2NzVNM1NTaENnMkJIYmdvb2ZZcTRmLWJDS2NyRHBydlFfNkQ3WTJfOUlNV2tESFU?oc=5",
           "desc": "",
           "title_en": "The taste columnist, teacher Ernam, and food PD met with the Minister of Style...",
           "title_ja": "味覚コラムニスト、エルナム教師、フードPDがスタイル大臣に会いました...",
           "title_zh": "品味专栏作家、Ernam老师和食品PD会见了风格部长……"
-        },
-        {
-          "title": "현대그린푸드, 식품업 첫 의료 마이데이터 사업자로",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0RVI5QkY3TFpqMVpKZVVlZG1zVjdab2hRWkpKR2lDU0xOblVadHdFR0tBczVTSHNXTEZINjZibUxEek16WkVfMVZfZjNFYnZzcFBj0gFTQVVfeXFMUHRFUjlCRjdMWmoxWkplVWVkbXNWN1pvaFFaSkpHaUNTTE5uVVp0d0VHS0FzNVNIc1dMRkg2NmJtTER6TXpaRV8xVl9mM0VidnNwUGM?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, the first medical my-data operator in the food industry,",
-          "title_ja": "食品業界初の医療用マイデータオペレーターであるHyundai Green Foodは、",
-          "title_zh": "现代绿色食品（ Hyundai Green Food ）是食品行业第一家医疗my-data运营商，"
         }
       ]
     },
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "영양사가 권하는 변비 해소 음료 2가지",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82UGpRclBHaXNRVVIwYnJPSm55Z1VLd0t4RDRVVmZZYWFsUVBnUWZzd0lHakNyaWxhWUY1aFpIc0MzNTNHSTJqSVJQTnhKcXoyenhJeS01MA?oc=5",
+          "title": "옥수수가 톡톡, 팬 하나로 끝나는 ‘초당옥수수 원팬밥’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwOHBoblVCWnBFRU13cURDcnIyTHlua3FLYWdVYTJFQlQ0emdta21MWDVqQlQyT2plaGtJSzVRaHphR2wzZUY5V0RaTVRuWWdTenpLS1BvMA?oc=5",
           "desc": "",
-          "title_en": "2 Constipation-Relieving Drinks from a Nutritionist",
-          "title_ja": "栄養士による2種類の便秘緩和ドリンク",
-          "title_zh": "2营养学家提供的缓解便秘饮料"
+          "title_en": "'Chodang Corn One Pan Rice‘ where corn ends with one toktok, pan",
+          "title_ja": "トウモロコシが1つのトクトックで終わる「朝唐コーンワンパンライス」、パン",
+          "title_zh": "“Chodang Corn One Pan Rice” ，玉米末端有一个toktok ，平底锅"
         },
         {
           "title": "약국에서 두부를?…식품 늘리는 일본 드럭스토어",
