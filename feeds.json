@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T05:41:03Z",
+  "lastUpdated": "2026-07-16T08:14:01Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "푸드엔, 부산 안락점 22일 개장...신선식품 매장 확대",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DNHVHb1BqNFhlN3p3YWVLcXdqd2tpdEI5UEVUM0JlNmZkd2ViNjUyc05XUWxQWmpJaXlHYTYycmNPSGhFSmJjTUV1aUtpU2hHc3BqTldqNWRDQ2FWUm9jd1FHcGVaUk9zb2k0?oc=5",
+          "desc": "",
+          "title_en": "Fooden opens 22 days of comfort stores in Busan... Expands fresh food stores",
+          "title_ja": "Fooden、釜山に22日間のコンフォートストアをオープン...生鮮食品店を拡大",
+          "title_zh": "Fooden在釜山开设为期22天的舒适商店...扩大新鲜食品商店"
+        },
+        {
           "title": "롯데벤처스, AFPRO 2026서 푸드테크 스타트업 공동관 운영",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nYWhLQ0J2bUhCT1FfN3Q4aXhYR0d5NDlfWElnNTNoX3ZkUmdYbjNpX3lVdlUzcjZqY2VLaTFUZ1gyTkQ0UGV4b2VhdjZVY0EzRFJTVTk2V3pBUWtUUUR4bWF4YXpPR3RRSjBR?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Gwanghwamun and Dancheong are included in the exclusion road… Lotte Well Food Introduces Traditional Korean Beauty",
           "title_ja": "光化門とダンチョンは除外道路に含まれています…ロッテウェルフードは伝統的な韓国の美しさを紹介します",
           "title_zh": "光化门（ Gwanghwamun ）和丹清（ Dancheong ）被列入排斥之路……乐天井美食（ Lotte Well Food ）介绍传统的韩国美"
-        },
-        {
-          "title": "\"일본 가서도 생각날 맛\" 외국인도 반했다…MZ 줄 세운 음식 [김기자의 알고리즘]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYmFlSHFqUk50a2xha0J4ZVdBS1ItbDFYSFZSZDVmcjl5S19UME1YeC1KbmtuUnRuQU5rRTdhMFY5Ml8zYlNkR1ZNNndWY0hGTVVBWmVjTEZPZw?oc=5",
-          "desc": "",
-          "title_en": "\"Taste when you think of going to Japan\" The foreigner also had a crush... MZ lined food [Kim Giza's algorithm]",
-          "title_ja": "「日本に行こうと思ったら味わう」外国人もめちゃくちゃ… MZ裏地の食べ物【キム・ギザのアルゴリズム】",
-          "title_zh": "「一想到去日本就尝尝」外国人也迷恋上了…… MZ内衬的食物[Kim Giza的算法]"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "乐天Well Food “选秀84参赛'精彩跑'门票2小时售罄”"
         },
         {
-          "title": "“왕의 밥상은 정치”…음식으로 깊이 더한 ‘왕은 무얼 자셨는가’[현장 LIVE] - 스타투데이",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vMUI4WVlaeVF1MkFqanJNeE0zT0ZLMkp5NVZ5cHNBcW9XclQ5M1VVbEcwblIzTEtrNmdSU1VOVWNjaDdTT3hWUFNmemwxVmd6dW9tX0puRkxyTkxfYktsOFh4LU1rUQ?oc=5",
+          "title": "“팬이라서 음식 챙겨줬는데, 7년간을”…스토킹 경험 고백한 카라 허영지",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aU01UQlN2YV9jcVFYSFJXTTRsV2RDdzMteENIVDM1MXlnYjFKS0Jnb0xiaGpEUHpsWUdqVVZ3bGVFTzhNMTBQSWJweFdYWFZKcnkxdw?oc=5",
           "desc": "",
-          "title_en": "“The King's Table Is Political” … ‘What the King Slept Doing' Deeply with Food [Onsite live] - StarToday",
-          "title_ja": "「王様のテーブルは政治的です」…「王様が眠っていること」を食べ物で深く感じる[オンサイトライブ] - StarToday",
-          "title_zh": "“The King's Table Is Political” … ‘What the King Slept Doing' Deeply with Food [Onsite live] - StarToday"
+          "title_en": "“I took care of the food because I was a fan, but I spent seven years” … Kara vanity who confessed her stalking experience",
+          "title_ja": "「私はファンだったので食べ物の世話をしましたが、私は7年間を過ごしました」...彼女のストーカー体験を告白したKaraの虚栄心",
+          "title_zh": "「我照顾食物是因为我是粉丝，但我花了七年时间」…… Kara虚荣心坦白了她的跟踪经历"
         }
       ]
     },
