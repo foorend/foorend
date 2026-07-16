@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-07-15T22:00:42Z",
+  "lastUpdated": "2026-07-16T02:38:14Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Inside McDonald’s new see-through prototype restaurant",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHpMcUNZcGVENkZIRy1xa3dodlo1eURvTnRYMEg2X0RKdTQ5aUNJME1lY2RENU5Udy1EMVJGMzdKeWY5TnppdzZRdE5XblB4NG8waEQxMDdKc250SVAwU2ZnX0Y3S2otdEJDQmZLWmlxUEVUdVBtazYyeG5TUzNWSzU1dW53RFl1Y0Fhdmo4Sndqd3lCcnFOeHB4RlpibXZNNEE?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드의 새로운 시스루 프로토타입 레스토랑 내부",
+          "title_ja": "マクドナルドの新しいシースループロトタイプレストランの中",
+          "title_zh": "走进麦当劳全新的透明原型餐厅"
+        },
         {
           "title": "Taco Bell is reportedly being investigated as potential source of cyclosporiasis outbreak",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1dYU3hBTzVkQk1TQzZJMVdPbExtNU0yVVkyTi1JMUxwd05EZzJOU3hCa3NhQWFOZENnSGY0cS03cEdaRkt5c2lURk91QnFoeElpN21KOTdTU0NON0o3dHFRcms5RVhmR3pCNEpjdGRxMFF2SGxDNEFrWkFjZVpQNVUzWjVWYlVLUWFxOG03cFd3eXlUeHg5T1IwWHlqYUt5Zi1LVmFONjc1c3VUOV9tNGtZTnB3Y2hKTmx1V2d4NWRKcjNQSXc?oc=5",
@@ -14,20 +22,12 @@
           "title_zh": "据报道， Taco Bell正在作为环孢子虫病爆发的潜在来源进行调查"
         },
         {
-          "title": "Inside McDonald’s new see-through prototype restaurant",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1hJc3hfbWNFUW4yTldLMEdER3o5M0UyeUVvWXZiVnllcXl5dk9OeVZQMlFKUmdseDF4Z0FXMHN2NnBBeVBrUC1faUZwQThSckFoS3o0RDF0QV9Sblowekp2cVQ2OG05QTJYXzJzXzZVVTBsYnp6SjFIVndxY0dNbkQxQnI0akY1ay02ZVBUbmMyMmlPb2YyaVV1VDQxOHpYWm9jLVNSYw?oc=5",
+          "title": "McDonald's tries its hand at hand-breaded chicken",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVRGT3NVVzYybUlOczJCcmtBdHpWQjJWTzRMd3NHS3hOLVJPWVJVcENpRUlfempDaVEwWE1nWTBOclNTYkc4QlZyaG5NbVljbW15eFFEeF9VYm5RbnNnZFVYaWJIOVdZNzFzaFFsS3BSZEprN29aa25pdkpPb1lWeHNBUzRmaUdxUzdoNUVBRExlYkxRYW80?oc=5",
           "desc": "",
-          "title_ko": "맥도날드의 새로운 시스루 프로토타입 레스토랑 내부",
-          "title_ja": "マクドナルドの新しいシースループロトタイプレストランの中",
-          "title_zh": "走进麦当劳全新的透明原型餐厅"
-        },
-        {
-          "title": "Is Wingstop cannibalizing itself?",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOVhTNzVUMm1aSXR4Q2pIYmhueHRFODlCaXZvaTlLLXN5Qk4tanlzVGlVM3RYVFBlVjVRbDNiZHc0YUhUR1YyelZXY1RuNzV3dTdkZ2hrVy1OYnRsbDVHY1U3VEdlQkZJdXNlWE9tbDMxWllramp4LXExLURmZHV4OE9n?oc=5",
-          "desc": "",
-          "title_ko": "윙스탑은 스스로를 식인화하고 있는가?",
-          "title_ja": "ウイングストップは自分自身を食いしばっているのか？",
-          "title_zh": "Wingstop是否在蚕食自己？"
+          "title_ko": "맥도날드는 수제빵 치킨을 시도합니다.",
+          "title_ja": "マクドナルドは手打ちの鶏肉を試しています",
+          "title_zh": "麦当劳尝试手工烘焙鸡肉"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "㈜삼진푸드-㈜푸드패커, 발효 기술 및 진천 지역 상생 위한 업무협약 체결",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Eb0VQandzQXBUblZ4dnMtUWV0LTkwOWEtQ0hKMWNSQzBkOHlycjlKeTVSZFlxd05CQU9fQU1GY0tpUjg2dnVFNjQ2TUlGaTE0VVNPVzVWNkV1MnZOOHRvYzJHbGtkTUE?oc=5",
+          "title": "롯데벤처스, AFPRO 2026서 푸드테크 스타트업 공동관 운영",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nYWhLQ0J2bUhCT1FfN3Q4aXhYR0d5NDlfWElnNTNoX3ZkUmdYbjNpX3lVdlUzcjZqY2VLaTFUZ1gyTkQ0UGV4b2VhdjZVY0EzRFJTVTk2V3pBUWtUUUR4bWF4YXpPR3RRSjBR?oc=5",
           "desc": "",
-          "title_en": "Samjin Food Co., Ltd. - Food Packer Co., Ltd. Signs a Business Agreement for Fermentation Technology and Coexistence in Jincheon",
-          "title_ja": "Samjin Food Co., Ltd. - Food Packer Co., Ltd.がJincheonで発酵技術と共存のためのビジネス契約を締結",
-          "title_zh": "Samjin Food Co., Ltd. - Food Packer Co., Ltd.在晋川签署发酵技术和共存业务协议"
+          "title_en": "Lotte Ventures jointly operates AFPRO 2026 food tech startup",
+          "title_ja": "ロッテベンチャーズが共同でAFPRO 2026フードテックスタートアップを運営",
+          "title_zh": "Lotte Ventures联合运营AFPRO 2026食品科技初创公司"
         },
         {
-          "title": "아모제푸드, 사회공헌 조직 '오렌지 봉사단' 출범…사회 공헌 활동 나서",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TY05CLWFraW1lTFBFYXFIZjV3djBZOUZiNENkOEZaakRfYUtWSkxuT2hFZ2J5Mm4wc2lTZjh3Y1F0dmFsbVgxbjNtWUt1Unp1WWloZjNJZDJ4U1V3NTF2VmtKREJXa2pJQkxrZA?oc=5",
+          "title": "인도서 빙과 불티나게 팔리는데...저평가된 롯데웰푸드",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOajBqWEloaDJWSlJkY0h0amdUVTJNZzZJTlNxNVFvdkRCa3VZZ1pyTEpCcElJdXcxMW5VMl9jLW9XdVpJMmJ2bWR0ZDZKVlRERXVXVkhJYUpOUQ?oc=5",
           "desc": "",
-          "title_en": "Amose Foods Launches' Orange Volunteer Group ', a Social Contribution Organization… After Social Contribution Activities",
-          "title_ja": "社会貢献活動を経て、社会貢献団体「オレンジボランティアグループ」を立ち上げ",
-          "title_zh": "Amose Foods推出“橙色志愿者小组” ，这是一个社会贡献组织......在社会贡献活动之后"
+          "title_en": "It sells well with Bing in India... Undervalued Lotte Well Food",
+          "title_ja": "インドではBingとよく売れている…ロッテウェルフードが過小評価されている",
+          "title_zh": "它在印度与必应一起卖得很好……被低估的乐天健康食品"
         },
         {
-          "title": "\"일본 가서도 생각날 맛\" 외국인도 반했다…MZ 줄 세운 음식 [김기자의 알고리즘]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYmFlSHFqUk50a2xha0J4ZVdBS1ItbDFYSFZSZDVmcjl5S19UME1YeC1KbmtuUnRuQU5rRTdhMFY5Ml8zYlNkR1ZNNndWY0hGTVVBWmVjTEZPZw?oc=5",
+          "title": "빼빼로에 광화문·단청 담았다…롯데웰푸드, 한국 전통미 소개",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLWHFCcWN3cXR0UGljRU0zVFY1ZUFZcnNKUzhDM1FzWmVtc1ZPMVROZnJaS2JqY3hfXzZQMkFVa3RjamhqVW45aXV3RkQ2eVRMN0ZfS3lTbDEyQQ?oc=5",
           "desc": "",
-          "title_en": "\"Taste when you think of going to Japan\" The foreigner also had a crush... MZ lined food [Kim Giza's algorithm]",
-          "title_ja": "「日本に行こうと思ったら味わう」外国人もめちゃくちゃ… MZ裏地の食べ物【キム・ギザのアルゴリズム】",
-          "title_zh": "「一想到去日本就尝尝」外国人也迷恋上了…… MZ内衬的食物[Kim Giza的算法]"
+          "title_en": "Gwanghwamun and Dancheong are included in the exclusion road… Lotte Well Food Introduces Traditional Korean Beauty",
+          "title_ja": "光化門とダンチョンは除外道路に含まれています…ロッテウェルフードは伝統的な韓国の美しさを紹介します",
+          "title_zh": "光化门（ Gwanghwamun ）和丹清（ Dancheong ）被列入排斥之路……乐天井美食（ Lotte Well Food ）介绍传统的韩国美"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“如果你在冰箱里，不要吃它，马上把它扔掉” …… ‘这种食物‘的致死率为20%食物中毒细菌[健康时间]"
         },
         {
+          "title": "삼성웰스토리, 포스텍·연세대와 맞손…급식 푸드테크 기술 공동 연구",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jcXowSUJzRXhqV0I1UzYwN3N3NzF0ZHN6ekpITlc1dE1HbzlmYTFNbUFOR2pxeEg3emRPb3UtMzB2MU51ckdVVG45V19qOGRHdHfSAVNBVV95cUxNSHVZVDFFRWtxaGdYNjZmZ0p3Q0lUMmx4RlJIUFRtS3dlbmI2SzhwY00wOFlIRzVJRjltWFVFODVXUTA2VTdENHE2aU5hNEk3ZkhJdw?oc=5",
+          "desc": "",
+          "title_en": "Samsung Well Story, POSTECH, Yonsei University… Joint research on feeding food tech technology",
+          "title_ja": "Samsung Well Story、POSTECH、延世大学…フードテックテクノロジーの供給に関する共同研究",
+          "title_zh": "三星Well Story、POSTECH、延世大学……饲料食品技术联合研究"
+        },
+        {
           "title": "맛의 소프트 파워: 한-인도 음식의 글로컬화 [라훌 라즈의 칩에서 코드까지]",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzendZSGtzX21zZldENWExSEdCTDNtM1JJWWlMSzNPdERSTVo2emNITWx0SDBUNU9OdUtyWEFnTmZkX1JuaDJBU2l1bC1VTXp6ZHQw0gFTQVVfeXFMUHN6d1lIa3NfbXNmV0Q1YTFIR0JMM20zUklZaUxLM090RFJNWjZ6Y0hNbHRIMFQ1T051S3JYQWdOZmRfUm5oMkFTaXVsLVVNenpkdDA?oc=5",
           "desc": "",
           "title_en": "Soft Power of Flavor: Glocalization of Korean-Indian Food [From Chips to Codes by Rahul Raj]",
           "title_ja": "Soft Power of Flavor: Glocalization of Korean - Indian Food [From Chips to Codes by Rahul Raj]",
           "title_zh": "风味的软实力：韩国-印度食品的全球本地化[从薯片到代码， Rahul Raj著]"
-        },
-        {
-          "title": "“기안84랑 뛰자”…롯데웰푸드, ‘설레임런’ 참가권 2시간 만에 완판",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wX1dnOGFhV0hKc05TclBuSDhibXpxTHpaM1NRY0F2UHQ2QnZnOFZObFV6NHg4MHpIOE9Bd2lqSEZkZGRwRVB0bG0wUUlkSWxKUUHSAVNBVV95cUxNSS1tTGNlck1qMGNndm9vQnM1WnlSQzJSWE0xQ3Z5VUkxMlc1NzJWZkR3WDdhZVZXeFdBOURCVFFZOENYYW9BVWJEa2MtazBTY2lfRQ?oc=5",
-          "desc": "",
-          "title_en": "“Let's Run with Gian 84” … Lotte Well Food Completed Within 2 Hours of Participating in ’Seolleim Run'",
-          "title_ja": "「LET 'S RUN WITH GIAN 84」…「ソレイムラン」参加後2時間以内にロッテウェルフードが完成",
-          "title_zh": "“Let's Run with Gian 84” …参加“Seolleim Run” 2小时内完成乐天健康食品"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "“The King's Table Is Political” … ‘What the King Slept Doing' Deeply with Food [Onsite live] - StarToday"
         },
         {
-          "title": "“건강검진 결과 보고 식단 추천”…현대그린푸드, 의료 마이데이터 사업 첫 진출",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zTENhX2Z2XzBVTVNGMm9oT29ES2czRThBT0swTkNCaElJUzNFN2VQbVh4a2tPMzh3YjdLSTlqTjlVUUxVTHJieW5jbHk1T1lPR3N0ekZB?oc=5",
+          "title": "삼성웰스토리, 포스텍·연세대 손잡고 미래 푸드테크 개발 나선다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6Y2VEbW04MklicnpfZU9KOHJfVDhNeDlxSm5abFlRU09Od3VyMUQxZ2ZOeWlPTmd0X3RKeW9oTzJQakhvcktBUEJkSGV4b3FSNERlVlV3?oc=5",
           "desc": "",
-          "title_en": "“Dietary recommendations based on health examination results” … Hyundai Green Food to enter medical MyData business for the first time",
-          "title_ja": "「健康診断結果に基づく食事の推奨」…現代グリーンフードが初めて医療用MyData事業に参入",
-          "title_zh": "“基于健康检查结果的饮食建议” …现代绿色食品首次进入医疗MyData业务"
+          "title_en": "Samsung Well Story joins forces with POSTECH and Yonsei University to develop future food tech",
+          "title_ja": "Samsung Well StoryがPOSTECHと延世大学と協力して将来のフードテクノロジーを開発",
+          "title_zh": "三星Well Story与POSTECH和延世大学合作开发未来食品技术"
         }
       ]
     },
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "옥수수가 톡톡, 팬 하나로 끝나는 ‘초당옥수수 원팬밥’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwOHBoblVCWnBFRU13cURDcnIyTHlua3FLYWdVYTJFQlQ0emdta21MWDVqQlQyT2plaGtJSzVRaHphR2wzZUY5V0RaTVRuWWdTenpLS1BvMA?oc=5",
+          "title": "불면증에 다리가 ‘덜덜덜’…마그네슘 부족하신가요?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vX0FGNllwV250Ymh1MEJFcy02WHZ6R1htRkEzbzI1am9jek1tM2xldFNQN3pTZ0RnbTByUkJwTXVmV1dlOGlpRjZTUTVqZ0xHc1lsSTJFWQ?oc=5",
           "desc": "",
-          "title_en": "'Chodang Corn One Pan Rice‘ where corn ends with one toktok, pan",
-          "title_ja": "トウモロコシが1つのトクトックで終わる「朝唐コーンワンパンライス」、パン",
-          "title_zh": "“Chodang Corn One Pan Rice” ，玉米末端有一个toktok ，平底锅"
+          "title_en": "Do you have insomnia and your legs are ‘less’ … magnesium deficient?",
+          "title_ja": "不眠症を患っていて、足が「少ない」…マグネシウム欠乏症ですか？",
+          "title_zh": "您是否患有失眠症，腿部“较少” ……缺镁？"
         },
         {
           "title": "약국에서 두부를?…식품 늘리는 일본 드럭스토어",
