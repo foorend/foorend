@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-07-16T08:14:01Z",
+  "lastUpdated": "2026-07-16T11:00:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Red Robin says its latest turnaround plan is working",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXk2eUxfQ3R0anZMRlZwdUVZMGdtWEc4RlVVVTc4MXA2V2doNG1WcThVVWJHbXJ0WGxDcTgxY2J1bmNQRFM2NTdVa3p1WkNkYmZnNTVMRHVLRlNzaWdFMXJGMmk1dWJ5eHV6RHBYN3BuQ3JQOF9tWndhdGltMFFfRTZJT1FrT3hUeTN6VjNVSk0yYWkzMUVDaWJTcTE?oc=5",
+          "desc": "",
+          "title_ko": "레드 로빈 (Red Robin) 은 최신 턴어라운드 계획이 효과가 있다고 말합니다.",
+          "title_ja": "レッドロビンは、最新のターンアラウンドプランが機能していると言います",
+          "title_zh": "Red Robin表示，其最新的扭亏为盈计划正在发挥作用"
+        },
         {
           "title": "Inside McDonald’s new see-through prototype restaurant",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHpMcUNZcGVENkZIRy1xa3dodlo1eURvTnRYMEg2X0RKdTQ5aUNJME1lY2RENU5Udy1EMVJGMzdKeWY5TnppdzZRdE5XblB4NG8waEQxMDdKc250SVAwU2ZnX0Y3S2otdEJDQmZLWmlxUEVUdVBtazYyeG5TUzNWSzU1dW53RFl1Y0Fhdmo4Sndqd3lCcnFOeHB4RlpibXZNNEE?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "Taco Bell은 cyclosporiasis 발생의 잠재적 원인으로 조사되고 있습니다.",
           "title_ja": "タコベルは、サイクロスポラ症のアウトブレイクの潜在的な原因として調査されていると報告されています",
           "title_zh": "据报道， Taco Bell正在作为环孢子虫病爆发的潜在来源进行调查"
-        },
-        {
-          "title": "McDonald's tries its hand at hand-breaded chicken",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVRGT3NVVzYybUlOczJCcmtBdHpWQjJWTzRMd3NHS3hOLVJPWVJVcENpRUlfempDaVEwWE1nWTBOclNTYkc4QlZyaG5NbVljbW15eFFEeF9VYm5RbnNnZFVYaWJIOVdZNzFzaFFsS3BSZEprN29aa25pdkpPb1lWeHNBUzRmaUdxUzdoNUVBRExlYkxRYW80?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드는 수제빵 치킨을 시도합니다.",
-          "title_ja": "マクドナルドは手打ちの鶏肉を試しています",
-          "title_zh": "麦当劳尝试手工烘焙鸡肉"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“快餐占心脏病原因的37%”"
         },
         {
+          "title": "삼성웰스토리·포스텍·연세대 … 미래 푸드테크 개발 나선다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1UmE4RjFObS15MmVyTVRib2s5bkhZRVZfZWs4OW9LRGRDakhqM2xROWRkSTdRT3ZJdGVmRDhwNmJxeXpyRnc?oc=5",
+          "desc": "",
+          "title_en": "Samsung Well Story, POSTECH, Yonsei University… We will develop future food tech",
+          "title_ja": "Samsung Well Story、POSTECH、延世大学…私たちは未来のフードテクノロジーを開発します",
+          "title_zh": "三星Well Story、POSTECH、延世大学……我们将开发未来的食品技术"
+        },
+        {
           "title": "롯데웰푸드 \"기안84 참여 '설레임런' 티켓 2시간 만에 매진\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wNXA1VkFpSDJ5cWMtdlVTS0k1bkVTWUpidG9ZaW1lVm1xZWtIUXBrdFJjRWY0bG91bTFnZGtZWUs3em1iTEZjQXRUNTFjVDU0cWc?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food \"Draft 84 Participation 'Excitement Run' Ticket Sold Out in 2 Hours\"",
           "title_ja": "ロッテウェルフード「ドラフト84参加『エキサイティングラン』チケット2時間で完売」",
           "title_zh": "乐天Well Food “选秀84参赛'精彩跑'门票2小时售罄”"
-        },
-        {
-          "title": "“팬이라서 음식 챙겨줬는데, 7년간을”…스토킹 경험 고백한 카라 허영지",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aU01UQlN2YV9jcVFYSFJXTTRsV2RDdzMteENIVDM1MXlnYjFKS0Jnb0xiaGpEUHpsWUdqVVZ3bGVFTzhNMTBQSWJweFdYWFZKcnkxdw?oc=5",
-          "desc": "",
-          "title_en": "“I took care of the food because I was a fan, but I spent seven years” … Kara vanity who confessed her stalking experience",
-          "title_ja": "「私はファンだったので食べ物の世話をしましたが、私は7年間を過ごしました」...彼女のストーカー体験を告白したKaraの虚栄心",
-          "title_zh": "「我照顾食物是因为我是粉丝，但我花了七年时间」…… Kara虚荣心坦白了她的跟踪经历"
         }
       ]
     },
