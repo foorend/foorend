@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T13:38:18Z",
+  "lastUpdated": "2026-07-17T16:15:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "A Small Texas Barbecue Joint Prepares 20,000 Pounds of Brisket for World Cup Visitors",
+          "link": "https://www.eater.com/dining-out/974680/zavalas-video-barbecue-texas-world-cup-large-format",
+          "desc": "In this episode of Large Format, Zavala’s Barbecue in Grand Prairie, Texas, handles an influx of 3 million tourists visiting the town for FIFA’s 2026 ",
+          "title_ko": "작은 텍사스 바비큐 조인트가 월드컵 방문객을 위해 2만 파운드의 브리스켓을 준비합니다",
+          "title_ja": "小さなテキサスバーベキュージョイントは、ワールドカップの訪問者のために20,000ポンドのブリスケットを準備します",
+          "title_zh": "德克萨斯州的一家小型烧烤店为世界杯观众准备了2万磅的胸围"
+        },
+        {
           "title": "Eater Lands 2026 Daytime Emmy Nomination",
           "link": "https://www.eater.com/press-room/974239/eater-daytime-emmy-2026-nomination",
           "desc": "A week after being nominated for its 18th New York Emmy, Eater has been nominated for a Daytime Emmy. The 2026 nominations, announced on Tuesday, reco",
@@ -110,14 +118,6 @@
           "title_ko": "세심한 주방 준비는 이 뉴욕 호텔이 수천 명의 게스트에게 음식을 제공하는 데 도움이 됩니다.",
           "title_ja": "思いやりのあるキッチンの準備が、このニューヨーク市のホテルが何千人ものゲストを養うのに役立ちます",
           "title_zh": "周到的厨房准备有助于这家纽约市酒店为成千上万的房客提供食物"
-        },
-        {
-          "title": "The Latest Gig Economy Hustle? Restaurant Line-Sitting.",
-          "link": "https://www.eater.com/dining-out/973730/line-sitters-standers-restaurant-waitlist",
-          "desc": "How long would you wait in line for dessert? For food lovers craving this summer’s TikTok-viral dot cakes, the lines in front of Manhattan’s Butterfie",
-          "title_ko": "최신 긱 이코노미 허슬? 레스토랑 라인 시팅.",
-          "title_ja": "最新のギグエコノミーハッスル？レストランのラインシッティング。",
-          "title_zh": "最新的零工经济喧嚣？餐厅排队。"
         }
       ]
     }
@@ -144,12 +144,12 @@
           "title_zh": "Lotte Ventures联合运营AFPRO 2026食品科技初创公司"
         },
         {
-          "title": "\"5년 뒤 동남아 매출 1조\"…대상, K푸드 영토확장",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1lCZE5hUGNLdEtlMDRLY3hldU83X1ZzRGVMdUI5VTB5MFVMamU5MDRyTjBEZTI2czdhdFQwQk5PbGM5ZlZXX2lKUFdydlFKTGE3ZTkzUnNEc3FCSTNzblY5akZEeDZCQ3UxRlNRSURlWS1LWW1WaExVbTc4cE5Ua3l1d2g3QlE?oc=5",
+          "title": "빼빼로에 광화문·단청 담았다…롯데웰푸드, 한국 전통미 소개",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLWHFCcWN3cXR0UGljRU0zVFY1ZUFZcnNKUzhDM1FzWmVtc1ZPMVROZnJaS2JqY3hfXzZQMkFVa3RjamhqVW45aXV3RkQ2eVRMN0ZfS3lTbDEyQQ?oc=5",
           "desc": "",
-          "title_en": "\"Southeast Asia Sales in 5 Years Trillion\" … Target Expands K-Food Territory",
-          "title_ja": "「5年間で東南アジアの売上高は1兆」…ターゲットがK - Foodのテリトリーを拡大",
-          "title_zh": "“5年内东南亚销售额达万亿” … Target拓展K-Food区域"
+          "title_en": "Gwanghwamun and Dancheong are included in the exclusion road… Lotte Well Food Introduces Traditional Korean Beauty",
+          "title_ja": "光化門とダンチョンは除外道路に含まれています…ロッテウェルフードは伝統的な韓国の美しさを紹介します",
+          "title_zh": "光化门（ Gwanghwamun ）和丹清（ Dancheong ）被列入排斥之路……乐天井美食（ Lotte Well Food ）介绍传统的韩国美"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "三星Well Story、POSTECH、延世大学……我们将开发未来的食品技术"
         },
         {
-          "title": "“패스트푸드가 심장질환 원인 최대 37% 차지”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41ZUtPVElNczloNFRFMUVfSXVWbEJSLUt3Y0J2VVdFYlc3bGRSc0NGVV9Jd0JPV25wcjN1UHBNY0pIVEotOW1yc3ZhSjZLLURRQmc?oc=5",
-          "desc": "",
-          "title_en": "“Fast food accounts for up to 37% of heart disease causes”",
-          "title_ja": "「ファーストフードは心臓病の原因の最大37 ％を占めています」",
-          "title_zh": "“快餐占心脏病原因的37%”"
-        },
-        {
           "title": "“팬이라서 음식 챙겨줬는데, 7년간을”…스토킹 경험 고백한 카라 허영지",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aU01UQlN2YV9jcVFYSFJXTTRsV2RDdzMteENIVDM1MXlnYjFKS0Jnb0xiaGpEUHpsWUdqVVZ3bGVFTzhNMTBQSWJweFdYWFZKcnkxdw?oc=5",
           "desc": "",
           "title_en": "“I took care of the food because I was a fan, but I spent seven years” … Kara vanity who confessed her stalking experience",
           "title_ja": "「私はファンだったので食べ物の世話をしましたが、私は7年間を過ごしました」...彼女のストーカー体験を告白したKaraの虚栄心",
           "title_zh": "「我照顾食物是因为我是粉丝，但我花了七年时间」…… Kara虚荣心坦白了她的跟踪经历"
+        },
+        {
+          "title": "“패스트푸드가 심장질환 원인 최대 37% 차지”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41ZUtPVElNczloNFRFMUVfSXVWbEJSLUt3Y0J2VVdFYlc3bGRSc0NGVV9Jd0JPV25wcjN1UHBNY0pIVEotOW1yc3ZhSjZLLURRQmc?oc=5",
+          "desc": "",
+          "title_en": "“Fast food accounts for up to 37% of heart disease causes”",
+          "title_ja": "「ファーストフードは心臓病の原因の最大37 ％を占めています」",
+          "title_zh": "“快餐占心脏病原因的37%”"
         }
       ]
     },
