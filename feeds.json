@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T19:09:28Z",
+  "lastUpdated": "2026-07-17T21:54:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"5년 뒤 동남아 매출 1조\"…대상, K푸드 영토확장",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1lCZE5hUGNLdEtlMDRLY3hldU83X1ZzRGVMdUI5VTB5MFVMamU5MDRyTjBEZTI2czdhdFQwQk5PbGM5ZlZXX2lKUFdydlFKTGE3ZTkzUnNEc3FCSTNzblY5akZEeDZCQ3UxRlNRSURlWS1LWW1WaExVbTc4cE5Ua3l1d2g3QlE?oc=5",
+          "desc": "",
+          "title_en": "\"Southeast Asia Sales in 5 Years Trillion\" … Target Expands K-Food Territory",
+          "title_ja": "「5年間で東南アジアの売上高は1兆」…ターゲットがK - Foodのテリトリーを拡大",
+          "title_zh": "“5年内东南亚销售额达万亿” … Target拓展K-Food区域"
+        },
+        {
           "title": "푸드엔, 부산 안락점 22일 개장...신선식품 매장 확대",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DNHVHb1BqNFhlN3p3YWVLcXdqd2tpdEI5UEVUM0JlNmZkd2ViNjUyc05XUWxQWmpJaXlHYTYycmNPSGhFSmJjTUV1aUtpU2hHc3BqTldqNWRDQ2FWUm9jd1FHcGVaUk9zb2k0?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Lotte Ventures jointly operates AFPRO 2026 food tech startup",
           "title_ja": "ロッテベンチャーズが共同でAFPRO 2026フードテックスタートアップを運営",
           "title_zh": "Lotte Ventures联合运营AFPRO 2026食品科技初创公司"
-        },
-        {
-          "title": "빼빼로에 광화문·단청 담았다…롯데웰푸드, 한국 전통미 소개",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLWHFCcWN3cXR0UGljRU0zVFY1ZUFZcnNKUzhDM1FzWmVtc1ZPMVROZnJaS2JqY3hfXzZQMkFVa3RjamhqVW45aXV3RkQ2eVRMN0ZfS3lTbDEyQQ?oc=5",
-          "desc": "",
-          "title_en": "Gwanghwamun and Dancheong are included in the exclusion road… Lotte Well Food Introduces Traditional Korean Beauty",
-          "title_ja": "光化門とダンチョンは除外道路に含まれています…ロッテウェルフードは伝統的な韓国の美しさを紹介します",
-          "title_zh": "光化门（ Gwanghwamun ）和丹清（ Dancheong ）被列入排斥之路……乐天井美食（ Lotte Well Food ）介绍传统的韩国美"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "레어드 슈퍼푸드, 2025년 매출 15% 증가한 4990만 달러..순손실 330만 달러",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZWZFQm5xbWtDTHBaZ0J5eFlwbEQxd0dHZHVHLXNOUHdrdG1EcDdHck5wN3V2UzNnVm1ENGI5WjdlVml2Rk43WDZVazU2TmpRTFE?oc=5",
+          "desc": "",
+          "title_en": "Laird Superfoods Increases Revenue by 15% to $49.9 Million in 2025.. Net Loss of $3.3 Million",
+          "title_ja": "Laird Superfoods、2025年に売上高を15 ％増の4990万ドルに..純損失は330万ドル",
+          "title_zh": "Laird Superfoods在2025年将收入增加15%至4990万美元..净亏损330万美元"
+        },
+        {
           "title": "“패스트푸드가 심장질환 원인 최대 37% 차지”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41ZUtPVElNczloNFRFMUVfSXVWbEJSLUt3Y0J2VVdFYlc3bGRSc0NGVV9Jd0JPV25wcjN1UHBNY0pIVEotOW1yc3ZhSjZLLURRQmc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "“I took care of the food because I was a fan, but I spent seven years” … Kara vanity who confessed her stalking experience",
           "title_ja": "「私はファンだったので食べ物の世話をしましたが、私は7年間を過ごしました」...彼女のストーカー体験を告白したKaraの虚栄心",
           "title_zh": "「我照顾食物是因为我是粉丝，但我花了七年时间」…… Kara虚荣心坦白了她的跟踪经历"
-        },
-        {
-          "title": "삼성웰스토리·포스텍·연세대 … 미래 푸드테크 개발 나선다",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZOXVjOWZhN1JEeTd3enk3TE5fWlJBNkJ2OGl2WmFvcXhfMFdPdkxwelprWU1UWkZZVGhKT2pJUXY1NkxFSFY5VmRGXzNvaHlqYXBVWENR?oc=5",
-          "desc": "",
-          "title_en": "Samsung Well Story, POSTECH, Yonsei University… We will develop future food tech",
-          "title_ja": "Samsung Well Story、POSTECH、延世大学…私たちは未来のフードテクノロジーを開発します",
-          "title_zh": "三星Well Story、POSTECH、延世大学……我们将开发未来的食品技术"
         }
       ]
     },
