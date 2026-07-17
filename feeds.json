@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T16:15:48Z",
+  "lastUpdated": "2026-07-17T19:09:28Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,12 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "삼성웰스토리·포스텍·연세대 … 미래 푸드테크 개발 나선다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1UmE4RjFObS15MmVyTVRib2s5bkhZRVZfZWs4OW9LRGRDakhqM2xROWRkSTdRT3ZJdGVmRDhwNmJxeXpyRnc?oc=5",
+          "title": "“패스트푸드가 심장질환 원인 최대 37% 차지”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41ZUtPVElNczloNFRFMUVfSXVWbEJSLUt3Y0J2VVdFYlc3bGRSc0NGVV9Jd0JPV25wcjN1UHBNY0pIVEotOW1yc3ZhSjZLLURRQmc?oc=5",
           "desc": "",
-          "title_en": "Samsung Well Story, POSTECH, Yonsei University… We will develop future food tech",
-          "title_ja": "Samsung Well Story、POSTECH、延世大学…私たちは未来のフードテクノロジーを開発します",
-          "title_zh": "三星Well Story、POSTECH、延世大学……我们将开发未来的食品技术"
+          "title_en": "“Fast food accounts for up to 37% of heart disease causes”",
+          "title_ja": "「ファーストフードは心臓病の原因の最大37 ％を占めています」",
+          "title_zh": "“快餐占心脏病原因的37%”"
         },
         {
           "title": "“팬이라서 음식 챙겨줬는데, 7년간을”…스토킹 경험 고백한 카라 허영지",
@@ -204,12 +204,12 @@
           "title_zh": "「我照顾食物是因为我是粉丝，但我花了七年时间」…… Kara虚荣心坦白了她的跟踪经历"
         },
         {
-          "title": "“패스트푸드가 심장질환 원인 최대 37% 차지”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41ZUtPVElNczloNFRFMUVfSXVWbEJSLUt3Y0J2VVdFYlc3bGRSc0NGVV9Jd0JPV25wcjN1UHBNY0pIVEotOW1yc3ZhSjZLLURRQmc?oc=5",
+          "title": "삼성웰스토리·포스텍·연세대 … 미래 푸드테크 개발 나선다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZOXVjOWZhN1JEeTd3enk3TE5fWlJBNkJ2OGl2WmFvcXhfMFdPdkxwelprWU1UWkZZVGhKT2pJUXY1NkxFSFY5VmRGXzNvaHlqYXBVWENR?oc=5",
           "desc": "",
-          "title_en": "“Fast food accounts for up to 37% of heart disease causes”",
-          "title_ja": "「ファーストフードは心臓病の原因の最大37 ％を占めています」",
-          "title_zh": "“快餐占心脏病原因的37%”"
+          "title_en": "Samsung Well Story, POSTECH, Yonsei University… We will develop future food tech",
+          "title_ja": "Samsung Well Story、POSTECH、延世大学…私たちは未来のフードテクノロジーを開発します",
+          "title_zh": "三星Well Story、POSTECH、延世大学……我们将开发未来的食品技术"
         }
       ]
     },
