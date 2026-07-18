@@ -1,20 +1,95 @@
 {
-  "lastUpdated": "2026-07-18T15:57:18Z",
+  "lastUpdated": "2026-07-18T19:04:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": []
+      "items": [
+        {
+          "title": "Red Robin says its latest turnaround plan is working",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXk2eUxfQ3R0anZMRlZwdUVZMGdtWEc4RlVVVTc4MXA2V2doNG1WcThVVWJHbXJ0WGxDcTgxY2J1bmNQRFM2NTdVa3p1WkNkYmZnNTVMRHVLRlNzaWdFMXJGMmk1dWJ5eHV6RHBYN3BuQ3JQOF9tWndhdGltMFFfRTZJT1FrT3hUeTN6VjNVSk0yYWkzMUVDaWJTcTE?oc=5",
+          "desc": "",
+          "title_ko": "레드 로빈 (Red Robin) 은 최신 턴어라운드 계획이 효과가 있다고 말합니다.",
+          "title_ja": "レッドロビンは、最新のターンアラウンドプランが機能していると言います",
+          "title_zh": "Red Robin表示，其最新的扭亏为盈计划正在发挥作用"
+        },
+        {
+          "title": "The impending end of Temporary Protected Status for workers has restaurant employers in turmoil",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSF9xSFFDTmdnYl9RRXRFNVY4eTI0SUVZcG1CRUVESDVpZUZBbjFsS21fM1VWSm1XbmxnX0xZX1h5RW80M0xWWHI2bHVLQmdIQUlEMGRhdi1Kc284ZEFqZ050ejJrclFmQUg3S3ZDa2E1bmc1RmtuUEI3b1RaTnhSeUhBQzM3TUlIYmlrMXdzWlAtNmVEM3dCVUtrX1JVWFcxUHNmajNGTm9zYlJfc1lmaEtZVEZtRXFZeUZRaFVCUjhLdHV4VXVr?oc=5",
+          "desc": "",
+          "title_ko": "근로자를 위한 임시 보호 상태의 임박한 종료로 인해 레스토랑 고용주가 혼란에 빠지고 있습니다.",
+          "title_ja": "労働者の一時的な保護ステータスの差し迫った終了により、レストランの雇用主は混乱しています",
+          "title_zh": "工人临时保护身份即将结束，餐厅雇主陷入动荡"
+        },
+        {
+          "title": "A judge rules for franchisee in Dickey’s arbitration case",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeGlfQURaUVdUSHBVX09MOGF5eVJ5Qmo5bENrb0drclpWSkpLWnh6ZWFZZ080Xy15cmo0T3c3RlZiZlp4MDdadVVZOVZHRV8wNDNZeFFLOVJTSkx1ZDg0Xy1rMm82UTF4Rkpqa21ZbXo5bW1SWS01cUpZN3B3RDNOOW1famNGRHhNVWgxeWlUeHJQbGQyM1FsSnBB?oc=5",
+          "desc": "",
+          "title_ko": "Dickey의 중재 사건에서 프랜차이즈 가맹점에 대한 판사 규칙",
+          "title_ja": "ディッキーの仲裁事件のフランチャイズ加盟店の裁判官規則",
+          "title_zh": "Dickey仲裁案件加盟商的法官规则"
+        }
+      ]
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": []
+      "items": [
+        {
+          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
+          "desc": "",
+          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
+          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
+          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        },
+        {
+          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
+          "desc": "",
+          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
+          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
+          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
+        }
+      ]
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": []
+      "items": [
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
+          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+        },
+        {
+          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
+          "desc": "",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
+        }
+      ]
     },
     "eater": {
       "label": "Eater",
@@ -51,22 +126,122 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": []
+      "items": [
+        {
+          "title": "\"5년 뒤 동남아 매출 1조\"…대상, K푸드 영토확장",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1lCZE5hUGNLdEtlMDRLY3hldU83X1ZzRGVMdUI5VTB5MFVMamU5MDRyTjBEZTI2czdhdFQwQk5PbGM5ZlZXX2lKUFdydlFKTGE3ZTkzUnNEc3FCSTNzblY5akZEeDZCQ3UxRlNRSURlWS1LWW1WaExVbTc4cE5Ua3l1d2g3QlE?oc=5",
+          "desc": "",
+          "title_en": "\"Southeast Asia Sales in 5 Years Trillion\" … Target Expands K-Food Territory",
+          "title_ja": "「5年間で東南アジアの売上高は1兆」…ターゲットがK - Foodのテリトリーを拡大",
+          "title_zh": "“5年内东南亚销售额达万亿” … Target拓展K-Food区域"
+        },
+        {
+          "title": "롯데벤처스, AFPRO 2026서 푸드테크 스타트업 공동관 운영",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nYWhLQ0J2bUhCT1FfN3Q4aXhYR0d5NDlfWElnNTNoX3ZkUmdYbjNpX3lVdlUzcjZqY2VLaTFUZ1gyTkQ0UGV4b2VhdjZVY0EzRFJTVTk2V3pBUWtUUUR4bWF4YXpPR3RRSjBR?oc=5",
+          "desc": "",
+          "title_en": "Lotte Ventures jointly operates AFPRO 2026 food tech startup",
+          "title_ja": "ロッテベンチャーズが共同でAFPRO 2026フードテックスタートアップを運営",
+          "title_zh": "Lotte Ventures联合运营AFPRO 2026食品科技初创公司"
+        },
+        {
+          "title": "\"일본 가서도 생각날 맛\" 외국인도 반했다…MZ 줄 세운 음식 [김기자의 알고리즘]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYmFlSHFqUk50a2xha0J4ZVdBS1ItbDFYSFZSZDVmcjl5S19UME1YeC1KbmtuUnRuQU5rRTdhMFY5Ml8zYlNkR1ZNNndWY0hGTVVBWmVjTEZPZw?oc=5",
+          "desc": "",
+          "title_en": "\"Taste when you think of going to Japan\" The foreigner also had a crush... MZ lined food [Kim Giza's algorithm]",
+          "title_ja": "「日本に行こうと思ったら味わう」外国人もめちゃくちゃ… MZ裏地の食べ物【キム・ギザのアルゴリズム】",
+          "title_zh": "「一想到去日本就尝尝」外国人也迷恋上了…… MZ内衬的食物[Kim Giza的算法]"
+        }
+      ]
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": []
+      "items": [
+        {
+          "title": "“냉장고에 있다면 먹지 말고 당장 버려라”…치명률 20% 식중독균 있다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5reThWc0hOc0dnMzZ3ZVdTbjk4cFlJV0VZMVZKRF85TlVYWWsyUzJaNG9kTk9FMWRZZjlHeDlDM09tN0dMLXZnMlc3V0ozTkkzREHSAVNBVV95cUxNZUFqWXFvcGhrR1RrWklaaU5fVUc2b1BJLTFOZ211TnFRZ0JJU2ZsN0VPSHRibTFsYWd3Q1B4SE1iclBIZmd5MFk4UHlNNmVPd2VGWQ?oc=5",
+          "desc": "",
+          "title_en": "“If you are in the refrigerator, don't eat it and throw it away immediately” … ‘This food‘ has a fatality rate of 20% food poisoning bacteria [Health Time]",
+          "title_ja": "「冷蔵庫に入っている場合は、すぐに食べて捨てないでください」…「この食べ物」の致死率は食中毒菌の20 ％です[Health Time]",
+          "title_zh": "“如果你在冰箱里，不要吃它，马上把它扔掉” …… ‘这种食物‘的致死率为20%食物中毒细菌[健康时间]"
+        },
+        {
+          "title": "삼성웰스토리, 포스텍·연세대와 맞손…급식 푸드테크 기술 공동 연구",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jcXowSUJzRXhqV0I1UzYwN3N3NzF0ZHN6ekpITlc1dE1HbzlmYTFNbUFOR2pxeEg3emRPb3UtMzB2MU51ckdVVG45V19qOGRHdHfSAVNBVV95cUxNSHVZVDFFRWtxaGdYNjZmZ0p3Q0lUMmx4RlJIUFRtS3dlbmI2SzhwY00wOFlIRzVJRjltWFVFODVXUTA2VTdENHE2aU5hNEk3ZkhJdw?oc=5",
+          "desc": "",
+          "title_en": "Samsung Well Story, POSTECH, Yonsei University… Joint research on feeding food tech technology",
+          "title_ja": "Samsung Well Story、POSTECH、延世大学…フードテックテクノロジーの供給に関する共同研究",
+          "title_zh": "三星Well Story、POSTECH、延世大学……饲料食品技术联合研究"
+        },
+        {
+          "title": "맛의 소프트 파워: 한-인도 음식의 글로컬화 [라훌 라즈의 칩에서 코드까지]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5udlJCYnZyYndfV2JXcGl1d0xBa18yRk0zMHBUdWpiUTVuVUpXSkVOblphbUtEZEN4YmlBU2otNjJVd0pLOUtIWGR3ZDh6a2UzWGfSAVNBVV95cUxQc3p3WUhrc19tc2ZXRDVhMUhHQkwzbTNSSVlpTEszT3REUk1aNnpjSE1sdEgwVDVPTnVLclhBZ05mZF9SbmgyQVNpdWwtVU16emR0MA?oc=5",
+          "desc": "",
+          "title_en": "Soft Power of Flavor: Glocalization of Korean-Indian Food [From Chips to Codes by Rahul Raj]",
+          "title_ja": "Soft Power of Flavor: Glocalization of Korean - Indian Food [From Chips to Codes by Rahul Raj]",
+          "title_zh": "风味的软实力：韩国-印度食品的全球本地化[从薯片到代码， Rahul Raj著]"
+        }
+      ]
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "레어드 슈퍼푸드, 2025년 매출 15% 증가한 4990만 달러..순손실 330만 달러",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZWZFQm5xbWtDTHBaZ0J5eFlwbEQxd0dHZHVHLXNOUHdrdG1EcDdHck5wN3V2UzNnVm1ENGI5WjdlVml2Rk43WDZVazU2TmpRTFE?oc=5",
+          "desc": "",
+          "title_en": "Laird Superfoods Increases Revenue by 15% to $49.9 Million in 2025.. Net Loss of $3.3 Million",
+          "title_ja": "Laird Superfoods、2025年に売上高を15 ％増の4990万ドルに..純損失は330万ドル",
+          "title_zh": "Laird Superfoods在2025年将收入增加15%至4990万美元..净亏损330万美元"
+        },
+        {
+          "title": "“패스트푸드가 심장질환 원인 최대 37% 차지”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41ZUtPVElNczloNFRFMUVfSXVWbEJSLUt3Y0J2VVdFYlc3bGRSc0NGVV9Jd0JPV25wcjN1UHBNY0pIVEotOW1yc3ZhSjZLLURRQmc?oc=5",
+          "desc": "",
+          "title_en": "“Fast food accounts for up to 37% of heart disease causes”",
+          "title_ja": "「ファーストフードは心臓病の原因の最大37 ％を占めています」",
+          "title_zh": "“快餐占心脏病原因的37%”"
+        },
+        {
+          "title": "“팬이라서 음식 챙겨줬는데, 7년간을”…스토킹 경험 고백한 카라 허영지",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aU01UQlN2YV9jcVFYSFJXTTRsV2RDdzMteENIVDM1MXlnYjFKS0Jnb0xiaGpEUHpsWUdqVVZ3bGVFTzhNMTBQSWJweFdYWFZKcnkxdw?oc=5",
+          "desc": "",
+          "title_en": "“I took care of the food because I was a fan, but I spent seven years” … Kara vanity who confessed her stalking experience",
+          "title_ja": "「私はファンだったので食べ物の世話をしましたが、私は7年間を過ごしました」...彼女のストーカー体験を告白したKaraの虚栄心",
+          "title_zh": "「我照顾食物是因为我是粉丝，但我花了七年时间」…… Kara虚荣心坦白了她的跟踪经历"
+        }
+      ]
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "아침은 단백질, 점심은 생선…한국허벌라이프, 음식 궁합 제안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SSnBpejByZnVWVHJkZGJ5WC1PanNfOWY1aE9UTUdwMzNnUlVnck5kMllMUVd0aEYwQ2Z6dnpuMk53UmxPbjF5UjZMUlBhd3hxaFBNTUNmcw?oc=5",
+          "desc": "",
+          "title_en": "Protein for breakfast, fish for lunch… Korean Herbalife proposes food match",
+          "title_ja": "朝食にタンパク質、昼食に魚…韓国のハーバライフが提案するフードマッチ",
+          "title_zh": "早餐含蛋白质，午餐含鱼类……韩国康宝莱推荐食物搭配"
+        },
+        {
+          "title": "초복엔 ‘돈(豚)보양’ 하세요…선진, 목살 레시피 제안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zWE4xUzV5RTcyQ1dNUWRLMlA1Q1VaOXQtWmExTFJpOVRTS1NIWGRBWHRDX1IyYk90LUdGQm1BZEE2amhkVFp4N2pkQ3NndnJkR3gxUmF3Zw?oc=5",
+          "desc": "",
+          "title_en": "Please ‘nurture money’ in Choboken… Sunjin, Suggest a necklace recipe",
+          "title_ja": "チョボケンで「お金を育てる」…スンジン、ネックレスのレシピを提案",
+          "title_zh": "请在Choboken “养钱” … Sunjin ，推荐项链配方"
+        },
+        {
+          "title": "식품 ·건기식업계, 대학생과 함께 미래 먹거리 찾는다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CUjk0dDREWEVUU3BPNTVNZ0lPdnU5TlZXNndCanVHRDVLZlN1NHFTbnRUVklNQ2hkbE1zNGZDSGgwWlhhaENpYlk0cXZSbUhQelJUX1Ftdw?oc=5",
+          "desc": "",
+          "title_en": "Food, Dry Food Industry, Looking for Future Food with University Students",
+          "title_ja": "食品、ドライフード業界、大学生と一緒に未来の食べ物を探す",
+          "title_zh": "食品，干货行业，与大学生一起寻找未来的食品"
+        }
+      ]
     }
   },
   "korean_articles": [
