@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T08:19:30Z",
+  "lastUpdated": "2026-07-19T10:34:04Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "K푸드 열풍 증류주로 잇다…CJ제일제당 ‘jari’ 2종 첫선",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCZDN4OU5Xa2tGOTIxNHlzMzJjb0tISnJsd19va0U3Tk1VUzZpLW1hektqNE5NV25ZUTVoMVk2Zl9sbzItVF8tS2hfcXJSeHlmUUHSAVNBVV95cUxPWU5WVTYwLW9GMHBJemlsZmV0V1pxV2dFWFNObEplbTZwbGpKc2U0aFhFXzdGWWJvWWFBdUt2aFRsNTJyRWhnUDJyNHMtU1h2Tm4yWQ?oc=5",
+          "desc": "",
+          "title_en": "Connected to K-Food Hot Air Spirits… First choice for CJ CheilJedang ‘jari’ 2 types",
+          "title_ja": "K - Food Hot Air Spiritsに接続… CJ CheilJedang 'jari‘ 2タイプのファーストチョイス",
+          "title_zh": "与K-Food Hot Air Spirits相连… CJ CheilJedang ‘jari‘ 2种类型的首选"
+        },
+        {
           "title": "“냉장고에 있다면 먹지 말고 당장 버려라”…치명률 20% 식중독균 있다는 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5reThWc0hOc0dnMzZ3ZVdTbjk4cFlJV0VZMVZKRF85TlVYWWsyUzJaNG9kTk9FMWRZZjlHeDlDM09tN0dMLXZnMlc3V0ozTkkzREHSAVNBVV95cUxNZUFqWXFvcGhrR1RrWklaaU5fVUc2b1BJLTFOZ211TnFRZ0JJU2ZsN0VPSHRibTFsYWd3Q1B4SE1iclBIZmd5MFk4UHlNNmVPd2VGWQ?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Soft Power of Flavor: Glocalization of Korean-Indian Food [From Chips to Codes by Rahul Raj]",
           "title_ja": "Soft Power of Flavor: Glocalization of Korean - Indian Food [From Chips to Codes by Rahul Raj]",
           "title_zh": "风味的软实力：韩国-印度食品的全球本地化[从薯片到代码， Rahul Raj著]"
-        },
-        {
-          "title": "맛칼럼니스트·어남선생·음식PD가 문체부 장관과 만났는데…",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYQmpwNDl6Y2RDWXltekx2dmFqUjlaZDItQk14djc1TTNTU2hDZzJCSGJnb29mWXE0Zi1iQ0tjckRwcnZRXzZEN1kyXzlJTVdrREhV0gFTQVVfeXFMUFhCanA0OXpjZENZeW16THZ2YWpSOVpkMi1CTXh2NzVNM1NTaENnMkJIYmdvb2ZZcTRmLWJDS2NyRHBydlFfNkQ3WTJfOUlNV2tESFU?oc=5",
-          "desc": "",
-          "title_en": "The taste columnist, teacher Ernam, and food PD met with the Minister of Style...",
-          "title_ja": "味覚コラムニスト、エルナム教師、フードPDがスタイル大臣に会いました...",
-          "title_zh": "品味专栏作家、Ernam老师和食品PD会见了风格部长……"
         }
       ]
     },
