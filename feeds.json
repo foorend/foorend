@@ -1,95 +1,20 @@
 {
-  "lastUpdated": "2026-07-19T19:06:32Z",
+  "lastUpdated": "2026-07-19T21:52:43Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "Red Robin says its latest turnaround plan is working",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXk2eUxfQ3R0anZMRlZwdUVZMGdtWEc4RlVVVTc4MXA2V2doNG1WcThVVWJHbXJ0WGxDcTgxY2J1bmNQRFM2NTdVa3p1WkNkYmZnNTVMRHVLRlNzaWdFMXJGMmk1dWJ5eHV6RHBYN3BuQ3JQOF9tWndhdGltMFFfRTZJT1FrT3hUeTN6VjNVSk0yYWkzMUVDaWJTcTE?oc=5",
-          "desc": "",
-          "title_ko": "레드 로빈 (Red Robin) 은 최신 턴어라운드 계획이 효과가 있다고 말합니다.",
-          "title_ja": "レッドロビンは、最新のターンアラウンドプランが機能していると言います",
-          "title_zh": "Red Robin表示，其最新的扭亏为盈计划正在发挥作用"
-        },
-        {
-          "title": "There's a new No. 2 brand in casual dining",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON1ZoZWJobHFXM0k4SXRnTHo0eUFocUQzOTBsTkhxOVZ5YnFWSmszU1QxcndoVExvSG92WjY2Y0I2TmI3VWhadDAzdGlXT0ZiSFA0SzhsZ3FHZHFrNTYteVRha3hfRGZYWEt2YU9hS0UtaER6T1RuN3R3dWpWNVJXbWNPbzBCOEFYRlE?oc=5",
-          "desc": "",
-          "title_ko": "캐주얼 다이닝에 새로운 2호 브랜드가 생겼습니다",
-          "title_ja": "カジュアルダイニングに新しいNo.2ブランドが登場",
-          "title_zh": "休闲餐饮领域有一个新的2号品牌"
-        },
-        {
-          "title": "The impending end of Temporary Protected Status for workers has restaurant employers in turmoil",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSF9xSFFDTmdnYl9RRXRFNVY4eTI0SUVZcG1CRUVESDVpZUZBbjFsS21fM1VWSm1XbmxnX0xZX1h5RW80M0xWWHI2bHVLQmdIQUlEMGRhdi1Kc284ZEFqZ050ejJrclFmQUg3S3ZDa2E1bmc1RmtuUEI3b1RaTnhSeUhBQzM3TUlIYmlrMXdzWlAtNmVEM3dCVUtrX1JVWFcxUHNmajNGTm9zYlJfc1lmaEtZVEZtRXFZeUZRaFVCUjhLdHV4VXVr?oc=5",
-          "desc": "",
-          "title_ko": "근로자를 위한 임시 보호 상태의 임박한 종료로 인해 레스토랑 고용주가 혼란에 빠지고 있습니다.",
-          "title_ja": "労働者の一時的な保護ステータスの差し迫った終了により、レストランの雇用主は混乱しています",
-          "title_zh": "工人临时保护身份即将结束，餐厅雇主陷入动荡"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": [
-        {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
-          "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Your Morning Coffee Can Help Indicate Whether You Need a COVID-19 Test",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGhDM2lLWTFQRWlmcVZqazlFWms5RXY1dzdLMzd1R2xGNWJqcVBfVzN0VmtaY1FNdzI2VC14b0tfMERjM2FIbVRnQ0p6Ul9xbjdEcXYwbXFQT01yTzhuZW51Tm1pVEpNejB0QlRKV0R6bThwSURYd25R?oc=5",
-          "desc": "",
-          "title_ko": "모닝 커피는 코로나19 검사가 필요한지 여부를 나타내는 데 도움이 될 수 있습니다.",
-          "title_ja": "朝のコーヒーは、新型コロナウイルス検査が必要かどうかを示すのに役立ちます",
-          "title_zh": "晨间咖啡可以帮助判断您是否需要进行新冠肺炎检测"
-        }
-      ]
+      "items": []
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": [
-        {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
-          "desc": "",
-          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
-          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        }
-      ]
+      "items": []
     },
     "eater": {
       "label": "Eater",
@@ -126,122 +51,22 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "\"5년 뒤 동남아 매출 1조\"…대상, K푸드 영토확장",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1lCZE5hUGNLdEtlMDRLY3hldU83X1ZzRGVMdUI5VTB5MFVMamU5MDRyTjBEZTI2czdhdFQwQk5PbGM5ZlZXX2lKUFdydlFKTGE3ZTkzUnNEc3FCSTNzblY5akZEeDZCQ3UxRlNRSURlWS1LWW1WaExVbTc4cE5Ua3l1d2g3QlE?oc=5",
-          "desc": "",
-          "title_en": "\"Southeast Asia Sales in 5 Years Trillion\" … Target Expands K-Food Territory",
-          "title_ja": "「5年間で東南アジアの売上高は1兆」…ターゲットがK - Foodのテリトリーを拡大",
-          "title_zh": "“5年内东南亚销售额达万亿” … Target拓展K-Food区域"
-        },
-        {
-          "title": "\"일본 가서도 생각날 맛\" 외국인도 반했다…MZ 줄 세운 음식 [김기자의 알고리즘]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYmFlSHFqUk50a2xha0J4ZVdBS1ItbDFYSFZSZDVmcjl5S19UME1YeC1KbmtuUnRuQU5rRTdhMFY5Ml8zYlNkR1ZNNndWY0hGTVVBWmVjTEZPZw?oc=5",
-          "desc": "",
-          "title_en": "\"Taste when you think of going to Japan\" The foreigner also had a crush... MZ lined food [Kim Giza's algorithm]",
-          "title_ja": "「日本に行こうと思ったら味わう」外国人もめちゃくちゃ… MZ裏地の食べ物【キム・ギザのアルゴリズム】",
-          "title_zh": "「一想到去日本就尝尝」外国人也迷恋上了…… MZ内衬的食物[Kim Giza的算法]"
-        },
-        {
-          "title": "푸드엔, 부산 안락점 22일 개장...신선식품 매장 확대",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DNHVHb1BqNFhlN3p3YWVLcXdqd2tpdEI5UEVUM0JlNmZkd2ViNjUyc05XUWxQWmpJaXlHYTYycmNPSGhFSmJjTUV1aUtpU2hHc3BqTldqNWRDQ2FWUm9jd1FHcGVaUk9zb2k0?oc=5",
-          "desc": "",
-          "title_en": "Fooden opens 22 days of comfort stores in Busan... Expands fresh food stores",
-          "title_ja": "Fooden、釜山に22日間のコンフォートストアをオープン...生鮮食品店を拡大",
-          "title_zh": "Fooden在釜山开设为期22天的舒适商店...扩大新鲜食品商店"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": [
-        {
-          "title": "K푸드 열풍 증류주로 잇다…CJ제일제당 ‘jari’ 2종 첫선",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCZDN4OU5Xa2tGOTIxNHlzMzJjb0tISnJsd19va0U3Tk1VUzZpLW1hektqNE5NV25ZUTVoMVk2Zl9sbzItVF8tS2hfcXJSeHlmUUHSAVNBVV95cUxPWU5WVTYwLW9GMHBJemlsZmV0V1pxV2dFWFNObEplbTZwbGpKc2U0aFhFXzdGWWJvWWFBdUt2aFRsNTJyRWhnUDJyNHMtU1h2Tm4yWQ?oc=5",
-          "desc": "",
-          "title_en": "Connected to K-Food Hot Air Spirits… First choice for CJ CheilJedang ‘jari’ 2 types",
-          "title_ja": "K - Food Hot Air Spiritsに接続… CJ CheilJedang 'jari‘ 2タイプのファーストチョイス",
-          "title_zh": "与K-Food Hot Air Spirits相连… CJ CheilJedang ‘jari‘ 2种类型的首选"
-        },
-        {
-          "title": "K푸드 열풍 증류주로 잇다…CJ제일제당 ‘jari’ 2종 첫선",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZTlZVNjAtb0YwcEl6aWxmZXRXWnFXZ0VYU05sSmVtNnBsakpzZTRoWEVfN0ZZYm9ZYUF1S3ZoVGw1MnJFaGdQMnI0cy1TWHZObjJZ0gFTQVVfeXFMT1lOVlU2MC1vRjBwSXppbGZldFdacVdnRVhTTmxKZW02cGxqSnNlNGhYRV83Rllib1lhQXVLdmhUbDUyckVoZ1AycjRzLVNYdk5uMlk?oc=5",
-          "desc": "",
-          "title_en": "Connected to K-Food Hot Air Spirits… First choice for CJ CheilJedang ‘jari’ 2 types",
-          "title_ja": "K - Food Hot Air Spiritsに接続… CJ CheilJedang 'jari‘ 2タイプのファーストチョイス",
-          "title_zh": "与K-Food Hot Air Spirits相连… CJ CheilJedang ‘jari‘ 2种类型的首选"
-        },
-        {
-          "title": "“냉장고에 있다면 먹지 말고 당장 버려라”…치명률 20% 식중독균 있다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5reThWc0hOc0dnMzZ3ZVdTbjk4cFlJV0VZMVZKRF85TlVYWWsyUzJaNG9kTk9FMWRZZjlHeDlDM09tN0dMLXZnMlc3V0ozTkkzREHSAVNBVV95cUxNZUFqWXFvcGhrR1RrWklaaU5fVUc2b1BJLTFOZ211TnFRZ0JJU2ZsN0VPSHRibTFsYWd3Q1B4SE1iclBIZmd5MFk4UHlNNmVPd2VGWQ?oc=5",
-          "desc": "",
-          "title_en": "“If you are in the refrigerator, don't eat it and throw it away immediately” … ‘This food‘ has a fatality rate of 20% food poisoning bacteria [Health Time]",
-          "title_ja": "「冷蔵庫に入っている場合は、すぐに食べて捨てないでください」…「この食べ物」の致死率は食中毒菌の20 ％です[Health Time]",
-          "title_zh": "“如果你在冰箱里，不要吃它，马上把它扔掉” …… ‘这种食物‘的致死率为20%食物中毒细菌[健康时间]"
-        }
-      ]
+      "items": []
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": [
-        {
-          "title": "[반려동물] 정부, 내년 펫푸드 수출 5억달러 목표…캐나다 검역 타결로 활로",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05ZzBPRnktMmlBY1RxTFFNdERseWdKNl9BVnQ2ZkRhbEtYMFo4X0liZWRSQzhtTTIxYjVEek5wNkFJLXpiRkFaaWo2eTFsM0V2ZEE?oc=5",
-          "desc": "",
-          "title_en": "[Pets] Government targets $500 million in pet food exports next year… Canada quarantine deal",
-          "title_ja": "[ペット]政府は来年のペットフード輸出額を5億ドルにすることを目標としています…カナダの検疫契約",
-          "title_zh": "【宠物】政府计划明年出口5亿加元的宠物食品……加拿大检疫协议"
-        },
-        {
-          "title": "[게시판] 현대그린푸드, 저소득층 노인에 도시락 나눔 봉사활동",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FMFdXVkE2TUhReDlMNGswMlZYZjVYY1p3VHJTSWZQTUFuSEZKdEFtQm9mTVdRdEhoSWJkbmsydDAtM2Z4VDRxWEJqaDBkSTRnWHc?oc=5",
-          "desc": "",
-          "title_en": "[Bulletin Board] Hyundai Green Food, Lunch Box Sharing Volunteer Activities for Low-Income Seniors",
-          "title_ja": "【掲示板】現代グリーンフード、低所得シニアのためのボランティア活動を共有するお弁当箱",
-          "title_zh": "【公告栏】现代绿色食品，午餐盒为低收入老年人分享志愿者活动"
-        },
-        {
-          "title": "롯데웰푸드(주) 기업설명회(IR) 개최(안내공시)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mLXk4eWpLQXgyWmhxZElkb0lBOHMtN3h0bFcwZE85TDk0S2xXRUhlaTdDQ2RQc1J1RXBWNUl2NDFVdTBwd09PUW9pYUJwWXB0LV9YWVJxSlFnVDQ?oc=5",
-          "desc": "",
-          "title_en": "Held IR meeting of Lotte Well Food Co., Ltd. (Information Disclosure)",
-          "title_ja": "ロッテウェルフード株式会社IR会合開催（情報開示）",
-          "title_zh": "乐天威尔食品股份有限公司召开投资者关系会议（信息披露）"
-        }
-      ]
+      "items": []
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "불면증에 다리가 ‘덜덜덜’…마그네슘 부족하신가요?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vX0FGNllwV250Ymh1MEJFcy02WHZ6R1htRkEzbzI1am9jek1tM2xldFNQN3pTZ0RnbTByUkJwTXVmV1dlOGlpRjZTUTVqZ0xHc1lsSTJFWQ?oc=5",
-          "desc": "",
-          "title_en": "Do you have insomnia and your legs are ‘less’ … magnesium deficient?",
-          "title_ja": "不眠症を患っていて、足が「少ない」…マグネシウム欠乏症ですか？",
-          "title_zh": "您是否患有失眠症，腿部“较少” ……缺镁？"
-        },
-        {
-          "title": "이열치열 vs 이냉치냉…한우자조금, 초복 맞이 레시피 제안",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LU1ZTT2pRVW5UVlNnN3FTdTBudGxVQWtFTG5UbDVvQU9jNFJxdWp3Q3NDTU45MjlYVlRpX0lZRDZ1bmZrZDZ3ZDZEM2J5X1Rvalc3eUN0aw?oc=5",
-          "desc": "",
-          "title_en": "Bi-heated fever vs. bi-cooled refrigeration... A little bit of Korean Wooja, Suggest a recipe for superbok",
-          "title_ja": "二重加熱熱対二重冷却冷蔵...韓国のWoojaの少し、Superbokのレシピを提案",
-          "title_zh": "双热发烧与双冷制冷……一点韩国Wooja ，建议Superbok的食谱"
-        },
-        {
-          "title": "CJ제일제당, 증류주 ‘jari’ 공개…글로벌 시장 공략",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYnc4d1hlSFQ1cmszU3VOTFJiN2VacVU5RzBfSWg2bWZQcUlaLWsyRERlU1BaSHNPOHdycU5oUnRJWURuQ0lUTTNqV1pQOEFIV2Fvb3pldw?oc=5",
-          "desc": "",
-          "title_en": "CJ CheilJedang unveils distilled spirits‘ jari ’… targeting the global market",
-          "title_ja": "CJ CheilJedangが蒸留酒「ジャーリ」を発表…世界市場をターゲットに",
-          "title_zh": "CJ CheilJedang推出蒸馏酒“jari” …瞄准全球市场"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
