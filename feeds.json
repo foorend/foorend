@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T19:22:42Z",
+  "lastUpdated": "2026-07-21T22:03:11Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "休闲餐饮领域有一个新的2号品牌"
         },
         {
-          "title": "The impending end of Temporary Protected Status for workers has restaurant employers in turmoil",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSF9xSFFDTmdnYl9RRXRFNVY4eTI0SUVZcG1CRUVESDVpZUZBbjFsS21fM1VWSm1XbmxnX0xZX1h5RW80M0xWWHI2bHVLQmdIQUlEMGRhdi1Kc284ZEFqZ050ejJrclFmQUg3S3ZDa2E1bmc1RmtuUEI3b1RaTnhSeUhBQzM3TUlIYmlrMXdzWlAtNmVEM3dCVUtrX1JVWFcxUHNmajNGTm9zYlJfc1lmaEtZVEZtRXFZeUZRaFVCUjhLdHV4VXVr?oc=5",
+          "title": "Wonder is valued at more than $9B after latest fundraise",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZVNBZkVxVmZkSzZlOTZiV0tYdHNlTlpZT2NXTlh4WVdVaXg4X3dYdkNEbEZPNnZPM1p1Nks1NEJyZ2RZenYyYzRFelZSaDZmTDZiaXpFclBIdFNONC1jazRlVWhSNWI0UU9HcWtRc3dhNHZULWNJZ1hkdndESG1JdmRSbUlSTW9HSkFzWmFUc0tnd0VWb0Mw?oc=5",
           "desc": "",
-          "title_ko": "근로자를 위한 임시 보호 상태의 임박한 종료로 인해 레스토랑 고용주가 혼란에 빠지고 있습니다.",
-          "title_ja": "労働者の一時的な保護ステータスの差し迫った終了により、レストランの雇用主は混乱しています",
-          "title_zh": "工人临时保护身份即将结束，餐厅雇主陷入动荡"
+          "title_ko": "Wonder는 최근 기금 모금 후 $ 9B 이상으로 평가됩니다.",
+          "title_ja": "最新の資金調達後、Wonderは90億$以上の価値があります",
+          "title_zh": "在最近一次筹款后， Wonder的价值超过$ 90亿"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Eater App Now Lets You Swap Dining Notes",
+          "link": "https://www.eater.com/dining-out/975066/eater-app-dining-notes-new-feature",
+          "desc": "When I ask a friend for restaurant recommendations, I’m rarely asking for something as cut and dry as the operating hours, dress code intel, or whethe",
+          "title_ko": "이제 Eater 앱을 통해 식사 메모를 교환할 수 있습니다.",
+          "title_ja": "注文者アプリでダイニングメモを入れ替えることができるようになりました",
+          "title_zh": "Uber Eats优食应用现在可让您交换用餐备注"
+        },
+        {
           "title": "A Small Texas Barbecue Joint Prepares 20,000 Pounds of Brisket for World Cup Visitors",
           "link": "https://www.eater.com/dining-out/974680/zavalas-video-barbecue-texas-world-cup-large-format",
           "desc": "In this episode of Large Format, Zavala’s Barbecue in Grand Prairie, Texas, handles an influx of 3 million tourists visiting the town for FIFA’s 2026 ",
@@ -110,14 +118,6 @@
           "title_ko": "Eater Lands 2026 데이타임 에미상 후보",
           "title_ja": "Eater Lands 2026昼間エミー賞ノミネート",
           "title_zh": "Eater Lands 2026日间艾美奖提名"
-        },
-        {
-          "title": "Thoughtful Kitchen Prep Helps This NYC Hotel Feed Thousands of Guests",
-          "link": "https://www.eater.com/video/973741/how-arlo-williamsburg-hotel-preps-for-service",
-          "desc": "This episode of Large Format goes inside the dining rush at Arlo Williamsburg, where hundreds of diners stream into the onsite restaurant, Sungold, wh",
-          "title_ko": "세심한 주방 준비는 이 뉴욕 호텔이 수천 명의 게스트에게 음식을 제공하는 데 도움이 됩니다.",
-          "title_ja": "思いやりのあるキッチンの準備が、このニューヨーク市のホテルが何千人ものゲストを養うのに役立ちます",
-          "title_zh": "周到的厨房准备有助于这家纽约市酒店为成千上万的房客提供食物"
         }
       ]
     }
@@ -196,20 +196,20 @@
           "title_zh": "使Iksan当地美食正常化...市长Choi Jeongho “通过准备协商机构寻求方向”"
         },
         {
+          "title": "씨엔 헬시 푸드 테크 그룹, 나스닥 상장폐지 결정 통보..청문 신청 예정",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EU0Z6R3pOaW1UcTE1aTJXSUxTSFg5Qm5PbHM0Nk5xZVBTRHJYcDNvdUM5WHItcEU2LTBZR20xUnZDY2FscWhfSTlodE9adEVqdUE?oc=5",
+          "desc": "",
+          "title_en": "CN Healthy Food Tech Group notifies Nasdaq of its decision to delist.. to apply for hearing",
+          "title_ja": "CN Healthy Food Tech Groupは、Nasdaqに上場廃止の決定を通知し、聴聞会を申請する",
+          "title_zh": "CN Healthy Food Tech Group通知纳斯达克其决定退市..申请听证会"
+        },
+        {
           "title": "세계인이 사랑한 음식, 돈가스 | KBS 260518 방송",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pY0htdkJsbGFHOHlOdndZSG1rcjhha0hEcUtaNm5vcGhYNnF1VXlmQmpuY3g4UDBhTGJQREhOQWpHWlE3MWdqOTlfSXVRWkNhVWhWNA?oc=5",
           "desc": "",
           "title_en": "DONGAS, the food that people around the world love | KBS 260518 Broadcasting",
           "title_ja": "世界中の人々に愛されるドンガス| KBS 260518放送",
           "title_zh": "DONGAS ，全世界人民喜爱的美食| KBS 260518广播"
-        },
-        {
-          "title": "[신상잇슈] 롯데웰푸드 말랑카우 초코볼젤리·농심 포테토칩 교촌간장치킨맛",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9haThBU0VjNmMySGVLdVl3X1lNdTY1b1JUd3dJSlVfcmttd1dRanlsWE55V09YSVFyc2VGajJLV1lnRHdocUtTUW1ncVhvRmtRR3c?oc=5",
-          "desc": "",
-          "title_en": "[Shin Sang-ishu] Lotte Well Food Malangkau Choco Volley Jelly · Nongshim Potato Chips Gyochon Gan Device Kin Flavor",
-          "title_ja": "【シン・サンイシュ】ロッテウェルフードマランカウチョコバレーゼリー・ノンシムポテトチップスぎょうちゃんがんデバイスキンフレーバー",
-          "title_zh": "[Shin Sang-ishu]乐天Well Food Malangkau Choco Volley Jelly · Nongshim薯片Gyochon Gan Device Kin Flavor"
         }
       ]
     },
