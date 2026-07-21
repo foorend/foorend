@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T05:51:08Z",
+  "lastUpdated": "2026-07-21T08:29:21Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "익산로컬푸드 정상화하나…최정호 시장 \"협의체 꾸려 방향 모색\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZWUhKUGdGLW1yN0t5cGtFUkw2Q0J2UUM5ODVVWGJtRnQxWWNvckJGbVdsY0Z6VWFCQjVpQlpCa3dKT3pHVFl3ZlNwQm5HUVVGUmc?oc=5",
+          "desc": "",
+          "title_en": "Normalizing Iksan Local Foods... Mayor Choi Jeongho \"Seeking Direction by Preparing a Consultative Body\"",
+          "title_ja": "イクサン郷土料理の正常化…チェ・ジョンホ市長「諮問機関を準備して方向性を求める」",
+          "title_zh": "使Iksan当地美食正常化...市长Choi Jeongho “通过准备协商机构寻求方向”"
+        },
+        {
           "title": "'익산 로컬푸드 갈등' 재점화…최정호 시장, 시정 시험대",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fLWdKdmN6TGN1ckNtOVVEUWtjMTcyRkIwcm5paXc4bmhYb0hQcFU0UEM0LVFMSlVfYVoxeE1JLWlWdnJNajE3TU5uaERaUHF3a1E?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Iksan City withdraws business report of local food ayang branch… Forced closure enters",
           "title_ja": "イクサン市、地元食品アヤン支店の営業報告を撤回…強制閉鎖に入る",
           "title_zh": "益山市撤回当地食品阿阳分行营业报告…强制关闭进入"
-        },
-        {
-          "title": "호텔김치도 공항서 사간다…K푸드 확대하는 면세점들",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13RlFVeUZ6WVg5ZWQ5d1p4bF94aEEzNXJBVF9uZm9faGJ3eWdaelkySVdsNTl2eVpzdE42dVhCaEhqLW80dm1Fc3hKQ1NLc2F0dzkyTTZR?oc=5",
-          "desc": "",
-          "title_en": "Hotel Kimchido Airport to Buy… Duty Free Stores Expanding K-Food",
-          "title_ja": "ホテルキムチド空港買取…免税店展開K - Food",
-          "title_zh": "泡菜机场酒店（ Hotel Kimchido Airport ）将购买……扩张K-Food的免税店"
         }
       ]
     },
@@ -226,12 +226,12 @@
           "title_zh": "在商店自己做…… 4种Tim Houlton ’Cravel’"
         },
         {
-          "title": "도깨비가 고른 샴페인, 단맛 뺀 ‘드라피에’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Lbktlak5TZ0RHSWdoazkxSzMzanB4bUlZQXdtSTloWTR1S1hIc1JuZk9rSEE4aHJWd3diZzdfZTFGeGZBRDhoX2d6OXlqYTBSaGp1V1N4OA?oc=5",
+          "title": "이열치열 vs 이냉치냉…한우자조금, 초복 맞이 레시피 제안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LU1ZTT2pRVW5UVlNnN3FTdTBudGxVQWtFTG5UbDVvQU9jNFJxdWp3Q3NDTU45MjlYVlRpX0lZRDZ1bmZrZDZ3ZDZEM2J5X1Rvalc3eUN0aw?oc=5",
           "desc": "",
-          "title_en": "Champagne picked by goblins, ‘Drapier‘ minus the sweetness",
-          "title_ja": "ゴブリンが選んだシャンパン、「ドレイピア」から甘さを差し引いたもの",
-          "title_zh": "地精挑选的香槟， “Drapier”减去甜味"
+          "title_en": "Bi-heated fever vs. bi-cooled refrigeration... A little bit of Korean Wooja, Suggest a recipe for superbok",
+          "title_ja": "二重加熱熱対二重冷却冷蔵...韓国のWoojaの少し、Superbokのレシピを提案",
+          "title_zh": "双热发烧与双冷制冷……一点韩国Wooja ，建议Superbok的食谱"
         },
         {
           "title": "아침은 단백질, 점심은 생선…한국허벌라이프, 음식 궁합 제안",
