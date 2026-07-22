@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T11:09:46Z",
+  "lastUpdated": "2026-07-22T13:54:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "In the Age of AI, the Analog Restaurant Feels Radical",
+          "link": "https://www.eater.com/trends/975087/restaurants-lean-into-bespoke-handmade-elements-during-ai-flyer-backlash",
+          "desc": "What spoke to me the most about the Instagram announcement for the new Manhattan restaurant Somssi was the fact that it was done in such an unexpected",
+          "title_ko": "AI 시대에 아날로그 레스토랑은 급진적이라고 느낍니다.",
+          "title_ja": "AIの時代に、アナログレストランは急進的に感じる",
+          "title_zh": "在人工智能时代，模拟餐厅感觉激进"
+        },
+        {
           "title": "The Eater App Now Lets You Swap Dining Notes",
           "link": "https://www.eater.com/dining-out/975066/eater-app-dining-notes-new-feature",
           "desc": "When I ask a friend for restaurant recommendations, I’m rarely asking for something as cut and dry as the operating hours, dress code intel, or whethe",
@@ -110,14 +118,6 @@
           "title_ko": "작은 텍사스 바비큐 조인트가 월드컵 방문객을 위해 2만 파운드의 브리스켓을 준비합니다",
           "title_ja": "小さなテキサスバーベキュージョイントは、ワールドカップの訪問者のために20,000ポンドのブリスケットを準備します",
           "title_zh": "德克萨斯州的一家小型烧烤店为世界杯观众准备了2万磅的胸围"
-        },
-        {
-          "title": "Eater Lands 2026 Daytime Emmy Nomination",
-          "link": "https://www.eater.com/press-room/974239/eater-daytime-emmy-2026-nomination",
-          "desc": "A week after being nominated for its 18th New York Emmy, Eater has been nominated for a Daytime Emmy. The 2026 nominations, announced on Tuesday, reco",
-          "title_ko": "Eater Lands 2026 데이타임 에미상 후보",
-          "title_ja": "Eater Lands 2026昼間エミー賞ノミネート",
-          "title_zh": "Eater Lands 2026日间艾美奖提名"
         }
       ]
     }
