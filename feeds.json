@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T16:19:29Z",
+  "lastUpdated": "2026-07-22T19:19:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Steal My Food Itinerary: 3 Days in London",
+          "link": "https://www.eater.com/dining-out/975009/restaurant-recommendations-london-steal-my-3-day-itinerary",
+          "desc": "British food has long been unfairly maligned as being brown, bread-y, and boring. But stateside, we’ve seen a major shift in attitudes toward British ",
+          "title_ko": "내 음식 훔치기 여행 일정: 런던 3일",
+          "title_ja": "食事の旅程を盗もう：ロンドン3日間",
+          "title_zh": "偷走我的美食行程：伦敦3日游"
+        },
+        {
           "title": "In the Age of AI, the Analog Restaurant Feels Radical",
           "link": "https://www.eater.com/trends/975087/restaurants-lean-into-bespoke-handmade-elements-during-ai-flyer-backlash",
           "desc": "What spoke to me the most about the Instagram announcement for the new Manhattan restaurant Somssi was the fact that it was done in such an unexpected",
@@ -110,14 +118,6 @@
           "title_ko": "이제 Eater 앱을 통해 식사 메모를 교환할 수 있습니다.",
           "title_ja": "注文者アプリでダイニングメモを入れ替えることができるようになりました",
           "title_zh": "Uber Eats优食应用现在可让您交换用餐备注"
-        },
-        {
-          "title": "A Small Texas Barbecue Joint Prepares 20,000 Pounds of Brisket for World Cup Visitors",
-          "link": "https://www.eater.com/dining-out/974680/zavalas-video-barbecue-texas-world-cup-large-format",
-          "desc": "In this episode of Large Format, Zavala’s Barbecue in Grand Prairie, Texas, handles an influx of 3 million tourists visiting the town for FIFA’s 2026 ",
-          "title_ko": "작은 텍사스 바비큐 조인트가 월드컵 방문객을 위해 2만 파운드의 브리스켓을 준비합니다",
-          "title_ja": "小さなテキサスバーベキュージョイントは、ワールドカップの訪問者のために20,000ポンドのブリスケットを準備します",
-          "title_zh": "德克萨斯州的一家小型烧烤店为世界杯观众准备了2万磅的胸围"
         }
       ]
     }
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "[신안] 전라도 토속적인 음식(모시 송편,매생이 떡국등)을",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JQjh2T2FqVlV2T0otZ3dUTUMzcEVVTW5ISk8xTm5nYjI2aG0zYUtvSGk2el9HZjRGc3gxbGFwanZoU2VTM0hoSzMwU01QRzBCamF3d1FRMllEdVB6dXo2TjV5RnJxQnJrZUY0Qk1NZVhXeDVOZzNHZVF0RQ?oc=5",
-          "desc": "",
-          "title_en": "[Sinan] Jeolla-do local food (Moshi Songpyeon, Maeinsang rice cake soup, etc.)",
-          "title_ja": "【シナン】全羅堂郷土料理（もしソンピョン、メインサンライスケーキスープなど）",
-          "title_zh": "[Sinan]全罗道当地美食（ Moshi Songpyeon、Maeinsang年糕汤等）"
-        },
-        {
           "title": "중기중앙회, 올해 첫 식품산업위 개최…K푸드 세계시장 확대논의",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtckhRUHYyM2N1NlRYSjZ6VXd4N3JqeFktUzR1bm9FcU1sS25QUHVJZHZJQmhrV202OHpHcnEzaXl5UG03cHNtZDNTekg3UVlLemc?oc=5",
           "desc": "",
@@ -210,6 +202,14 @@
           "title_en": "Rural Entrepreneurship Competition 'Local Food Entrepreneurship' Participants will be recruited until the 26th of next month",
           "title_ja": "農村アントレプレナーシップコンペティション「ローカルフードアントレプレナーシップ」参加者の募集は来月26日まで",
           "title_zh": "农村创业大赛“本地食品创业”参赛者招募截止日期为下月26日"
+        },
+        {
+          "title": "문세윤·서경덕, '김의 역사' 다국어 영상 공개…K-푸드 알린다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95c0tFcHlZeEZ6ajlGZnJIeGQ4Q3hBdW90TXFjUzA5bGltVzd3TUVtWl9PSTNLYjdmdldSVTR2V1RycVkxY2MxU2JoVVptUFhTVFE?oc=5",
+          "desc": "",
+          "title_en": "Mun Se-yoon and Seo Kyung-deok release multilingual video of 'The History of Kim' … K-Food Announces",
+          "title_ja": "Mun Se - yoonとSeo Kyung - deokが「キムの歴史」の多言語ビデオをリリース… K - Foodが発表",
+          "title_zh": "Mun Se-yoon和Seo Kyung-deok发布了“金正恩的历史”的多语种视频…… K-Food宣布"
         }
       ]
     },
