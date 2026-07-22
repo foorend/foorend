@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T05:50:36Z",
+  "lastUpdated": "2026-07-22T08:29:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“냉장고에 있는지 당장 확인해라”…몸속 노화 늦춘다는 음식들 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wMVNsR255LVpETmdZSXF0bmRJTlZMQ3FxWUFxT1FMc0NXaDdoTzZmZFdGelRlcXh3ZXZmbkJXcTZiLUpPUnBwbzQ0Q2xsek10YXfSAVNBVV95cUxOXzBJbV9DSWZ3WjRlS0h4bDNQOTFRX2JjY2dJZDhuNzM4R0ZZYlJCSlNJTjF0R3JHRnNjdWVPSXFHM3hyUzh2aEItQnNRYlRnRFRnNA?oc=5",
+          "desc": "",
+          "title_en": "“Make sure it's in the fridge right away” … Foods that slow down aging in your body [Health Time]",
+          "title_ja": "「すぐに冷蔵庫に入れてください」…体の老化を遅らせる食べ物[Health Time]",
+          "title_zh": "“确保马上把它放在冰箱里” ……减缓体内衰老的食物[健康时间]"
+        },
+        {
           "title": "K푸드 열풍 증류주로 잇다…CJ제일제당 ‘jari’ 2종 첫선",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZTlZVNjAtb0YwcEl6aWxmZXRXWnFXZ0VYU05sSmVtNnBsakpzZTRoWEVfN0ZZYm9ZYUF1S3ZoVGw1MnJFaGdQMnI0cy1TWHZObjJZ0gFTQVVfeXFMT1lOVlU2MC1vRjBwSXppbGZldFdacVdnRVhTTmxKZW02cGxqSnNlNGhYRV83Rllib1lhQXVLdmhUbDUyckVoZ1AycjRzLVNYdk5uMlk?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Connected to K-Food Hot Air Spirits… First choice for CJ CheilJedang ‘jari’ 2 types",
           "title_ja": "K - Food Hot Air Spiritsに接続… CJ CheilJedang 'jari‘ 2タイプのファーストチョイス",
           "title_zh": "与K-Food Hot Air Spirits相连… CJ CheilJedang ‘jari‘ 2种类型的首选"
-        },
-        {
-          "title": "“전자레인지에 절대 넣지 마라, 세균보다 문제”…전문가 경고 나왔다 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wNTJxTk9YYTd5VDJEQnFKYlBIc1hJVTNEYVh3ZnNvMndtZm5YWk5uOXJuSTl6WmdFazNvZ2xQR21xaEpFdHcwdXFFbFBESktnZ0HSAVNBVV95cUxNV3N5TDhDQzB0dWNSaENkTUh0WFpqVXA5azRwa3hKSmtnRVBuUUpUNHU1MDM5WGMzc2VhSjUxOVJ5aTNFRmYwdGNJOGtJcXg0MXNWVQ?oc=5",
-          "desc": "",
-          "title_en": "“Never put it in the microwave, it's more a problem than a germ” … Expert warned [Health Time]",
-          "title_ja": "「電子レンジに入れないでください。病原菌というよりは問題です」…専門家は警告しました[Health Time]",
-          "title_zh": "“切勿将其放入微波炉，这与其说是一种细菌，不如说是一个问题” ……专家警告说[健康时间]"
         }
       ]
     },
@@ -196,12 +196,12 @@
           "title_zh": "中委今年召开首届食品产业委员会… K-Food世界市场拓展洽谈会"
         },
         {
-          "title": "익산로컬푸드 정상화하나…최정호 시장 \"협의체 꾸려 방향 모색\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZWUhKUGdGLW1yN0t5cGtFUkw2Q0J2UUM5ODVVWGJtRnQxWWNvckJGbVdsY0Z6VWFCQjVpQlpCa3dKT3pHVFl3ZlNwQm5HUVVGUmc?oc=5",
+          "title": "푸드트럭부터 버블쇼까지…여름밤 즐기는 포항 중앙상가 야시장",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwcVBUVi1FUHk0V2l3RC10YnFoeUFxYUZDaVVxUm5xTTZXZVhOSEFKRE1NelV6VGVSOTF3WVRCWEpKVFFkY3p6R0xYb0dQbkdldHc?oc=5",
           "desc": "",
-          "title_en": "Normalizing Iksan Local Foods... Mayor Choi Jeongho \"Seeking Direction by Preparing a Consultative Body\"",
-          "title_ja": "イクサン郷土料理の正常化…チェ・ジョンホ市長「諮問機関を準備して方向性を求める」",
-          "title_zh": "使Iksan当地美食正常化...市长Choi Jeongho “通过准备协商机构寻求方向”"
+          "title_en": "From Food Trucks to Bubble Shows: Summer Night at Pohang Jungang Shopping Street Night Market",
+          "title_ja": "フードトラックからバブルショーまで：浦項中央商店街のナイトマーケットで夏の夜を楽しもう",
+          "title_zh": "从美食车到气泡表演：浦项军港购物街夜市的夏夜"
         },
         {
           "title": "농촌창업 경진대회 '로컬푸드 창업' 참가자 내달 26일까지 모집",
@@ -226,20 +226,20 @@
           "title_zh": "在商店自己做…… 4种Tim Houlton ’Cravel’"
         },
         {
-          "title": "이열치열 vs 이냉치냉…한우자조금, 초복 맞이 레시피 제안",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LU1ZTT2pRVW5UVlNnN3FTdTBudGxVQWtFTG5UbDVvQU9jNFJxdWp3Q3NDTU45MjlYVlRpX0lZRDZ1bmZrZDZ3ZDZEM2J5X1Rvalc3eUN0aw?oc=5",
-          "desc": "",
-          "title_en": "Bi-heated fever vs. bi-cooled refrigeration... A little bit of Korean Wooja, Suggest a recipe for superbok",
-          "title_ja": "二重加熱熱対二重冷却冷蔵...韓国のWoojaの少し、Superbokのレシピを提案",
-          "title_zh": "双热发烧与双冷制冷……一点韩国Wooja ，建议Superbok的食谱"
-        },
-        {
           "title": "CJ제일제당, 증류주 ‘jari’ 공개…글로벌 시장 공략",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYnc4d1hlSFQ1cmszU3VOTFJiN2VacVU5RzBfSWg2bWZQcUlaLWsyRERlU1BaSHNPOHdycU5oUnRJWURuQ0lUTTNqV1pQOEFIV2Fvb3pldw?oc=5",
           "desc": "",
           "title_en": "CJ CheilJedang unveils distilled spirits‘ jari ’… targeting the global market",
           "title_ja": "CJ CheilJedangが蒸留酒「ジャーリ」を発表…世界市場をターゲットに",
           "title_zh": "CJ CheilJedang推出蒸馏酒“jari” …瞄准全球市场"
+        },
+        {
+          "title": "아침은 단백질, 점심은 생선…한국허벌라이프, 음식 궁합 제안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SSnBpejByZnVWVHJkZGJ5WC1PanNfOWY1aE9UTUdwMzNnUlVnck5kMllMUVd0aEYwQ2Z6dnpuMk53UmxPbjF5UjZMUlBhd3hxaFBNTUNmcw?oc=5",
+          "desc": "",
+          "title_en": "Protein for breakfast, fish for lunch… Korean Herbalife proposes food match",
+          "title_ja": "朝食にタンパク質、昼食に魚…韓国のハーバライフが提案するフードマッチ",
+          "title_zh": "早餐含蛋白质，午餐含鱼类……韩国康宝莱推荐食物搭配"
         }
       ]
     }
