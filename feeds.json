@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T08:29:33Z",
+  "lastUpdated": "2026-07-22T11:09:46Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "'하루 1200개 팔렸다'…외국인들 인천공항서 싹쓸이한 상품",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LbjA0QWxFeXVqbW5zNXpHMEZLVlY0RkFEN2xoUVZIZVV2cTY0aFpMMkNLS0dnNWxHOGJtQUdCTzRNczNuMU5uOEs2aUdoOFVPYXI1NFhabjNoZw?oc=5",
-          "desc": "",
-          "title_en": "'1,200 units sold per day' … Foreigners swept up the goods at Incheon Airport",
-          "title_ja": "「1日1,200台販売」…仁川空港で外国人が商品を一掃",
-          "title_zh": "「每天售出1,200台」……外国人在仁川机场扫荡货物"
-        },
-        {
           "title": "함연지도 배우 접고 오뚜기行…K푸드 '90년대생 오너' 등판 [권용훈의 트렌드워치]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNTdhcDF2SmE3ckNHdkxpYzB6ZTdHRFZBbjdyVDcyelVDWjYxVmVaVjI3U3JoQW5BZ3hSeUQ3QXNpajI4NjhIQVczSm5pTk5EN3MyQW5rRHFNUQ?oc=5",
           "desc": "",
@@ -144,12 +136,20 @@
           "title_zh": "演员Ham Yeon-ji折叠和Ottogi…… K-Food '90年代老板'盘子[Kwon Yong-hoon's Trend Watch]"
         },
         {
-          "title": "출국장 아닌 K푸드 격전지…인천공항의 '뜻밖의 변신' [강윤지의 유통 체크인]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzNkZPaDl1b1kwQ29xRUtzSlZKWVJPU1BQMDJSeVBTSDh2ZFI3dWMzT2tZRXFrcXpEZjhqZXl3dmFpT0VVMGQyOE5nMzhaeXVFY05KdERyTWkxQQ?oc=5",
+          "title": "'하루 1200개 팔렸다'…외국인들 인천공항서 싹쓸이한 상품",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LbjA0QWxFeXVqbW5zNXpHMEZLVlY0RkFEN2xoUVZIZVV2cTY0aFpMMkNLS0dnNWxHOGJtQUdCTzRNczNuMU5uOEs2aUdoOFVPYXI1NFhabjNoZw?oc=5",
           "desc": "",
-          "title_en": "K-Food battlefield, not departure… Incheon Airport's 'Unexpected Transformation' [Yoonji Kang's Distribution Check-in]",
-          "title_ja": "出発ではなく、K - Foodの戦場…仁川空港の「予期せぬ変容」【Yoonji Kangの物流チェックイン】",
-          "title_zh": "K-Food战场，不出发……仁川机场的“意想不到的转变” [Yoonji Kang的配送入住]"
+          "title_en": "'1,200 units sold per day' … Foreigners swept up the goods at Incheon Airport",
+          "title_ja": "「1日1,200台販売」…仁川空港で外国人が商品を一掃",
+          "title_zh": "「每天售出1,200台」……外国人在仁川机场扫荡货物"
+        },
+        {
+          "title": "현대그린푸드, 사내 카페 사업 ‘드라이브’ … “건강 콘셉트 강화해 전면 리뉴얼”",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1McFAyQ041ckQ1NGRzRzJBd09Tem5GbHZWdXpNUHJZQkpLTEVNTFF3aTdXT0dtZV9mUGFrd3BEMi1ZQTBjMjJWQk9ZbkxobXNXanVHV2xEajItSGhpcWd3UWZHc2VPWXNYT1BKa0l6U1czblFWUWtsalZCOXVfZEU?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, in-house cafe business‘ Drive ’… “Strengthen the health concept and renew it completely”",
+          "title_ja": "現代グリーンフード、社内カフェ事業「ドライブ」…「健康コンセプトを強化し、完全に刷新する」",
+          "title_zh": "现代绿色食品，内部咖啡馆业务“Drive” …… “强化健康理念并彻底更新”"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "中委今年召开首届食品产业委员会… K-Food世界市场拓展洽谈会"
         },
         {
-          "title": "푸드트럭부터 버블쇼까지…여름밤 즐기는 포항 중앙상가 야시장",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwcVBUVi1FUHk0V2l3RC10YnFoeUFxYUZDaVVxUm5xTTZXZVhOSEFKRE1NelV6VGVSOTF3WVRCWEpKVFFkY3p6R0xYb0dQbkdldHc?oc=5",
-          "desc": "",
-          "title_en": "From Food Trucks to Bubble Shows: Summer Night at Pohang Jungang Shopping Street Night Market",
-          "title_ja": "フードトラックからバブルショーまで：浦項中央商店街のナイトマーケットで夏の夜を楽しもう",
-          "title_zh": "从美食车到气泡表演：浦项军港购物街夜市的夏夜"
-        },
-        {
           "title": "농촌창업 경진대회 '로컬푸드 창업' 참가자 내달 26일까지 모집",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRbkVVcERxUjIxcEpnSGxtcTNrWlNwYmg1RXNVX1ZJRDg3MlJ2a1p3dGlpZWFjTWlselo0ODVOdVRVUGNXcXdNVk9uVlJ6c1dxdkE?oc=5",
           "desc": "",
           "title_en": "Rural Entrepreneurship Competition 'Local Food Entrepreneurship' Participants will be recruited until the 26th of next month",
           "title_ja": "農村アントレプレナーシップコンペティション「ローカルフードアントレプレナーシップ」参加者の募集は来月26日まで",
           "title_zh": "农村创业大赛“本地食品创业”参赛者招募截止日期为下月26日"
+        },
+        {
+          "title": "문세윤·서경덕, '김의 역사' 다국어 영상 공개…K-푸드 알린다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95c0tFcHlZeEZ6ajlGZnJIeGQ4Q3hBdW90TXFjUzA5bGltVzd3TUVtWl9PSTNLYjdmdldSVTR2V1RycVkxY2MxU2JoVVptUFhTVFE?oc=5",
+          "desc": "",
+          "title_en": "Mun Se-yoon and Seo Kyung-deok release multilingual video of 'The History of Kim' … K-Food Announces",
+          "title_ja": "Mun Se - yoonとSeo Kyung - deokが「キムの歴史」の多言語ビデオをリリース… K - Foodが発表",
+          "title_zh": "Mun Se-yoon和Seo Kyung-deok发布了“金正恩的历史”的多语种视频…… K-Food宣布"
         }
       ]
     },
