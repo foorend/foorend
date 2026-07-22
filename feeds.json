@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T19:19:52Z",
+  "lastUpdated": "2026-07-22T22:03:14Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "[신안] 전라도 토속적인 음식(모시 송편,매생이 떡국등)을",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JQjh2T2FqVlV2T0otZ3dUTUMzcEVVTW5ISk8xTm5nYjI2aG0zYUtvSGk2el9HZjRGc3gxbGFwanZoU2VTM0hoSzMwU01QRzBCamF3d1FRMllEdVB6dXo2TjV5RnJxQnJrZUY0Qk1NZVhXeDVOZzNHZVF0RQ?oc=5",
+          "desc": "",
+          "title_en": "[Sinan] Jeolla-do local food (Moshi Songpyeon, Maeinsang rice cake soup, etc.)",
+          "title_ja": "【シナン】全羅堂郷土料理（もしソンピョン、メインサンライスケーキスープなど）",
+          "title_zh": "[Sinan]全罗道当地美食（ Moshi Songpyeon、Maeinsang年糕汤等）"
+        },
+        {
           "title": "중기중앙회, 올해 첫 식품산업위 개최…K푸드 세계시장 확대논의",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtckhRUHYyM2N1NlRYSjZ6VXd4N3JqeFktUzR1bm9FcU1sS25QUHVJZHZJQmhrV202OHpHcnEzaXl5UG03cHNtZDNTekg3UVlLemc?oc=5",
           "desc": "",
           "title_en": "Mid-term Central Committee to hold first food industry committee this year… K-Food World Market Expansion Discussion",
           "title_ja": "今年初の食品産業委員会を開催する中間中央委員会… K - Food World Market Expansion Discussion",
           "title_zh": "中委今年召开首届食品产业委员会… K-Food世界市场拓展洽谈会"
-        },
-        {
-          "title": "농촌창업 경진대회 '로컬푸드 창업' 참가자 내달 26일까지 모집",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRbkVVcERxUjIxcEpnSGxtcTNrWlNwYmg1RXNVX1ZJRDg3MlJ2a1p3dGlpZWFjTWlselo0ODVOdVRVUGNXcXdNVk9uVlJ6c1dxdkE?oc=5",
-          "desc": "",
-          "title_en": "Rural Entrepreneurship Competition 'Local Food Entrepreneurship' Participants will be recruited until the 26th of next month",
-          "title_ja": "農村アントレプレナーシップコンペティション「ローカルフードアントレプレナーシップ」参加者の募集は来月26日まで",
-          "title_zh": "农村创业大赛“本地食品创业”参赛者招募截止日期为下月26日"
         },
         {
           "title": "문세윤·서경덕, '김의 역사' 다국어 영상 공개…K-푸드 알린다",
