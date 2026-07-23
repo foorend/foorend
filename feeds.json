@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T16:25:54Z",
+  "lastUpdated": "2026-07-23T19:18:06Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "休闲餐饮领域有一个新的2号品牌"
         },
         {
-          "title": "The impending end of Temporary Protected Status for workers has restaurant employers in turmoil",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSF9xSFFDTmdnYl9RRXRFNVY4eTI0SUVZcG1CRUVESDVpZUZBbjFsS21fM1VWSm1XbmxnX0xZX1h5RW80M0xWWHI2bHVLQmdIQUlEMGRhdi1Kc284ZEFqZ050ejJrclFmQUg3S3ZDa2E1bmc1RmtuUEI3b1RaTnhSeUhBQzM3TUlIYmlrMXdzWlAtNmVEM3dCVUtrX1JVWFcxUHNmajNGTm9zYlJfc1lmaEtZVEZtRXFZeUZRaFVCUjhLdHV4VXVr?oc=5",
+          "title": "Red Lobster unveils a restaurant refresh program",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTdGbGZFRUZiNVZBWU5jbVdndWQwcDdWWEVwUGZBTlRIYl9BZ282enRaTXRGeUVBb2U0aW8wcjVubWdWcUN3S1hVdEl0YmI0ZTlNWTZWSGl2enlaeGR6dXVob3lEYnJtUHphWXpyVy1jZTdMSkdKemhfSVdLWERlVjVmd0dwc3p6Y3VxSENtSndsdDIySlR4Rg?oc=5",
           "desc": "",
-          "title_ko": "근로자를 위한 임시 보호 상태의 임박한 종료로 인해 레스토랑 고용주가 혼란에 빠지고 있습니다.",
-          "title_ja": "労働者の一時的な保護ステータスの差し迫った終了により、レストランの雇用主は混乱しています",
-          "title_zh": "工人临时保护身份即将结束，餐厅雇主陷入动荡"
+          "title_ko": "Red Lobster, 레스토랑 리프레시 프로그램 공개",
+          "title_ja": "レッドロブスターがレストランのリフレッシュプログラムを発表",
+          "title_zh": "Red Lobster推出餐厅茶点计划"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Eater World’s Fare Was a Global Celebration of Food and Soccer",
+          "link": "https://www.eater.com/press-room/975492/eater-worlds-fare-was-a-global-celebration-of-food-and-soccer",
+          "desc": "On Saturday, on the eve of the world soccer finals, Eater hosted a lively celebration of food and sports in New York City, bringing thousands of atten",
+          "title_ko": "Eater World's Fare는 음식과 축구의 세계적인 축하 행사였습니다.",
+          "title_ja": "注文者の世界の料金は、フードとサッカーの世界的なお祝いでした",
+          "title_zh": "顾客世界的票价是全球食品和足球的庆祝活动"
+        },
+        {
           "title": "Steal My Food Itinerary: 3 Days in London",
           "link": "https://www.eater.com/dining-out/975009/restaurant-recommendations-london-steal-my-3-day-itinerary",
           "desc": "British food has long been unfairly maligned as being brown, bread-y, and boring. But stateside, we’ve seen a major shift in attitudes toward British ",
@@ -110,14 +118,6 @@
           "title_ko": "AI 시대에 아날로그 레스토랑은 급진적이라고 느낍니다.",
           "title_ja": "AIの時代に、アナログレストランは急進的に感じる",
           "title_zh": "在人工智能时代，模拟餐厅感觉激进"
-        },
-        {
-          "title": "The Eater App Now Lets You Swap Dining Notes",
-          "link": "https://www.eater.com/dining-out/975066/eater-app-dining-notes-new-feature",
-          "desc": "When I ask a friend for restaurant recommendations, I’m rarely asking for something as cut and dry as the operating hours, dress code intel, or whethe",
-          "title_ko": "이제 Eater 앱을 통해 식사 메모를 교환할 수 있습니다.",
-          "title_ja": "注文者アプリでダイニングメモを入れ替えることができるようになりました",
-          "title_zh": "Uber Eats优食应用现在可让您交换用餐备注"
         }
       ]
     }
@@ -136,20 +136,20 @@
           "title_zh": "演员Ham Yeon-ji折叠和Ottogi…… K-Food '90年代老板'盘子[Kwon Yong-hoon's Trend Watch]"
         },
         {
+          "title": "롯데웰푸드(280360) 비용 부담의 끝자락, 실적 회복 구간",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NQ2FYak13Q0VIWjFfWi0xdWRGeGRSVlVScjdOc0ZyaUNHd25WaFcyaE9BTWt1ZFY2ZE1aVU5va2Z2dTZrRnU3VElfZ3NoOXdobjlZMEJKTmVZMEVoUmxj?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food (280360) End of cost burden, performance recovery section",
+          "title_ja": "ロッテウェルフード(280360)費用負担終了、性能回復課",
+          "title_zh": "乐天健康食品（ 280360 ）成本负担结束，绩效恢复部分"
+        },
+        {
           "title": "'하루 1200개 팔렸다'…외국인들 인천공항서 싹쓸이한 상품",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LbjA0QWxFeXVqbW5zNXpHMEZLVlY0RkFEN2xoUVZIZVV2cTY0aFpMMkNLS0dnNWxHOGJtQUdCTzRNczNuMU5uOEs2aUdoOFVPYXI1NFhabjNoZw?oc=5",
           "desc": "",
           "title_en": "'1,200 units sold per day' … Foreigners swept up the goods at Incheon Airport",
           "title_ja": "「1日1,200台販売」…仁川空港で外国人が商品を一掃",
           "title_zh": "「每天售出1,200台」……外国人在仁川机场扫荡货物"
-        },
-        {
-          "title": "외국인들 한식 먹을 때마다 찾는다더니…백종원도 꽂혔다 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PR2h4bUVCLVNTX19JQVI0OUZJbVQ0QTBKNW9UQ09kMndmcjVhM1hLSlhGak9TUGZfUGt3cU15M0ZKWjYwTm9Scm5qc0RZV3ptSWR1MEVMbHI1QQ?oc=5",
-          "desc": "",
-          "title_en": "Foreigners looked for Korean food every time they ate it... Baek Jong-won was also plugged in [Trend +]",
-          "title_ja": "外国人は食べるたびに韓国料理を探していました...ペク・ジョンウォンも繋がっていました[トレンド+]",
-          "title_zh": "外国人每次吃韩国菜都会寻找... Baek Jong-won也被插上了[Trend +]"
         }
       ]
     },
