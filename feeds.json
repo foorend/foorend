@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T11:09:54Z",
+  "lastUpdated": "2026-07-23T14:00:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "HF 푸드 그룹, 캐나다 시레이푸드 3500만 달러 인수..첫 해외 진출",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04STk2cEJzMnltcG4tMUhydzlGbUZUeDdBaHR1UUhuMERabEd1ZmdHQUVDRl9NVnViLUp2M01mSjZuSFUyUTc0QXYzVWtHRjNVckE?oc=5",
+          "desc": "",
+          "title_en": "HF Food Group Acquires Siray Food Canada for $35 Million, First Global Expansion",
+          "title_ja": "HF Food Group、Siray Food Canadaを3500万ドルで買収、初のグローバル展開",
+          "title_zh": "HF Food Group以3500万美元收购Siray Food Canada ，实现首次全球扩张"
+        },
+        {
           "title": "더본코리아 홍콩반점, 광주 향토 음식 활용한 ‘애호박찌개짬뽕’ 출시",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1bDc4aDNTdGY0bmVlZG9ra3BjVVgwR3dzZHpLb2ZicmxwZ3RzQjNHckFPTURSdkZwbTNZQWRhS3hCblJRdGc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "[Sinan] Jeolla-do local food (Moshi Songpyeon, Maeinsang rice cake soup, etc.)",
           "title_ja": "【シナン】全羅堂郷土料理（もしソンピョン、メインサンライスケーキスープなど）",
           "title_zh": "[Sinan]全罗道当地美食（ Moshi Songpyeon、Maeinsang年糕汤等）"
-        },
-        {
-          "title": "중기중앙회, 올해 첫 식품산업위 개최…K푸드 세계시장 확대논의",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtckhRUHYyM2N1NlRYSjZ6VXd4N3JqeFktUzR1bm9FcU1sS25QUHVJZHZJQmhrV202OHpHcnEzaXl5UG03cHNtZDNTekg3UVlLemc?oc=5",
-          "desc": "",
-          "title_en": "Mid-term Central Committee to hold first food industry committee this year… K-Food World Market Expansion Discussion",
-          "title_ja": "今年初の食品産業委員会を開催する中間中央委員会… K - Food World Market Expansion Discussion",
-          "title_zh": "中委今年召开首届食品产业委员会… K-Food世界市场拓展洽谈会"
         }
       ]
     },
