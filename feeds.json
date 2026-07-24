@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T13:45:54Z",
+  "lastUpdated": "2026-07-24T16:42:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -52,12 +52,12 @@
           "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
         },
         {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "title": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOENiSW9IR2xIaG9BNkhpYnhEWTNmNVQ1VEhkXzh4a2Z3bWZ5a1UwSDY1Q1RUU0pPZUV2WDZBazJHSUNnTVNuWE02VlZLYVY0RTNGWVpmVl9PWjVrYUpNLXBrM0JMMWlrblZVanlYWEhzdFBycVp6Sml4R2NrTTd0MTJtejNZZw?oc=5",
           "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+          "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
+          "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
+          "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "#야간및음식문화활성화축제 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEVmeXAwZ3BOX3RLQUxnMGN6U3laSUdLVndLeFJ6SWlYVW9nRjlVM2xwYk1HQlNXVE95TDRFNUk3N19ZMTMwWmd3UGtLWElZeE00NmEzOXlNSkRfV0pXTTlUYWRVcFk0anFiQlZoazc4VkFCaWhzdG9RcWE0UFRUejBqUjBEUWk5c05XYmtBQWVrZExmRFV3TzlLaUhzS0JTbVRtanVWbUZvTDRQWHRBeXBFSWVLU2VtcnBvdW1CU0FBLUgxUzU4dUFvV2lKdjlPMHp2NTFn?oc=5",
+          "desc": "",
+          "title_en": "# Night and Food Culture Activation Festival (1 Posts)",
+          "title_ja": "#夜と食文化活性化フェスティバル（ 1投稿）",
+          "title_zh": "#夜间和美食文化激活节（ 1个帖子）"
+        },
+        {
           "title": "HF푸드그룹, 캐나다 냉동 수산물 유통업체 인수로 첫 해외 시장 진출",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCcm9EUWtsNzNzM3oyVlJ6dVpXdEVTbTl5SkNyVVBoR3RrWjdQRDdWY2pOUHNSQWE4ZWljcG9pYllhQkZjV08wVVNXYk0wS3BvOGc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "# Local-food (1 Posts)",
           "title_ja": "#ローカルフード（ 1件の投稿）",
           "title_zh": "#当地美食（ 1个帖子）"
-        },
-        {
-          "title": "HF 푸드 그룹, 캐나다 시레이푸드 3500만 달러 인수..첫 해외 진출",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04STk2cEJzMnltcG4tMUhydzlGbUZUeDdBaHR1UUhuMERabEd1ZmdHQUVDRl9NVnViLUp2M01mSjZuSFUyUTc0QXYzVWtHRjNVckE?oc=5",
-          "desc": "",
-          "title_en": "HF Food Group Acquires Siray Food Canada for $35 Million, First Global Expansion",
-          "title_ja": "HF Food Group、Siray Food Canadaを3500万ドルで買収、初のグローバル展開",
-          "title_zh": "HF Food Group以3500万美元收购Siray Food Canada ，实现首次全球扩张"
         }
       ]
     },
