@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T16:42:05Z",
+  "lastUpdated": "2026-07-24T19:24:59Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "#야간및음식문화활성화축제 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEVmeXAwZ3BOX3RLQUxnMGN6U3laSUdLVndLeFJ6SWlYVW9nRjlVM2xwYk1HQlNXVE95TDRFNUk3N19ZMTMwWmd3UGtLWElZeE00NmEzOXlNSkRfV0pXTTlUYWRVcFk0anFiQlZoazc4VkFCaWhzdG9RcWE0UFRUejBqUjBEUWk5c05XYmtBQWVrZExmRFV3TzlLaUhzS0JTbVRtanVWbUZvTDRQWHRBeXBFSWVLU2VtcnBvdW1CU0FBLUgxUzU4dUFvV2lKdjlPMHp2NTFn?oc=5",
-          "desc": "",
-          "title_en": "# Night and Food Culture Activation Festival (1 Posts)",
-          "title_ja": "#夜と食文化活性化フェスティバル（ 1投稿）",
-          "title_zh": "#夜间和美食文化激活节（ 1个帖子）"
-        },
-        {
           "title": "HF푸드그룹, 캐나다 냉동 수산물 유통업체 인수로 첫 해외 시장 진출",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCcm9EUWtsNzNzM3oyVlJ6dVpXdEVTbTl5SkNyVVBoR3RrWjdQRDdWY2pOUHNSQWE4ZWljcG9pYllhQkZjV08wVVNXYk0wS3BvOGc?oc=5",
           "desc": "",
@@ -210,6 +202,14 @@
           "title_en": "# Local-food (1 Posts)",
           "title_ja": "#ローカルフード（ 1件の投稿）",
           "title_zh": "#当地美食（ 1个帖子）"
+        },
+        {
+          "title": "HF 푸드 그룹, 캐나다 시레이푸드 3500만 달러 인수..첫 해외 진출",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04STk2cEJzMnltcG4tMUhydzlGbUZUeDdBaHR1UUhuMERabEd1ZmdHQUVDRl9NVnViLUp2M01mSjZuSFUyUTc0QXYzVWtHRjNVckE?oc=5",
+          "desc": "",
+          "title_en": "HF Food Group Acquires Siray Food Canada for $35 Million, First Global Expansion",
+          "title_ja": "HF Food Group、Siray Food Canadaを3500万ドルで買収、初のグローバル展開",
+          "title_zh": "HF Food Group以3500万美元收购Siray Food Canada ，实现首次全球扩张"
         }
       ]
     },
