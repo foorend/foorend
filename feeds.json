@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T08:27:37Z",
+  "lastUpdated": "2026-07-24T11:03:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,6 +66,14 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
+          "title": "I work at a food bank. We're getting more produce because of the cyclospora outbreak.",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDVZZ0hGeVoxWENmeVFDaXB1WTU1amVkOW1PS3FFN2dRcjBFV2IyemZmX0pyaV9UeVpNMVMxQVZWVXNKczBib3psVUtsSnlEa0JJZHRqZkNUTk1RRVRSc3RmZVpSelZ3S1pBSUV6dXFoZ0dxcENPMDFnZU1YNUl3RDNqbXJ0cXVQNjNQd3JZS3BRTWt3a24wZTRVTnpCTGs?oc=5",
+          "desc": "",
+          "title_ko": "저는 푸드뱅크에서 일합니다. 사이클로스포라 발생으로 인해 더 많은 농산물이 생산되고 있습니다.",
+          "title_ja": "私はフードバンクで働いています。サイクロスポラの発生により、より多くの農産物が生産されています。",
+          "title_zh": "我在一家食品银行工作。由于环孢子虫的爆发，我们正在获得更多的农产品。"
+        },
+        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -80,14 +88,6 @@
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -205,7 +205,7 @@
         },
         {
           "title": "더본코리아 홍콩반점, 광주 향토 음식 활용한 ‘애호박찌개짬뽕’ 출시",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1bDc4aDNTdGY0bmVlZG9ra3BjVVgwR3dzZHpLb2ZicmxwZ3RzQjNHckFPTURSdkZwbTNZQWRhS3hCblJRdGc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YUnRzekhHWllKd1dUaHdqU1NZQmRoMzVwSVdNOWFmUXNxNTZtS3ZJTnRqMUc3Wm1vZHNLYUtRTzhpQ0tLemRxYXpYUXAzNnk1MnlONQ?oc=5",
           "desc": "",
           "title_en": "The Bonn Korea Hong Kong Spot Launches' Zucchini Stew Champon ‘Using Local Gwangju Food",
           "title_ja": "ボン・コリア香港店、地元の光州料理を使った「ズッキーニシチューちゃんぽん」発売",
