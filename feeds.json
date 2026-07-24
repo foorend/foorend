@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T05:50:24Z",
+  "lastUpdated": "2026-07-24T08:27:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "演员Ham Yeon-ji折叠和Ottogi…… K-Food '90年代老板'盘子[Kwon Yong-hoon's Trend Watch]"
         },
         {
-          "title": "미리 만든 음식 가득 쌓아놓던 뷔페는 '옛말'…호텔 뷔페의 변신",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45eks4VUJ3b19wT0RJS25pejktbjhiaEZxbk42ZWNYcjFqNGtZNDltQy04UlNGemVCMFl0elpTOHZMSGRyc0lCdWhtZmN5QXhwNUstbE90NURmZw?oc=5",
-          "desc": "",
-          "title_en": "The buffet that used to be filled with pre-made food is an 'old saying' … The hotel buffet is transformed",
-          "title_ja": "あらかじめ作られた食べ物で満たされていたビュッフェは「古い諺」です…ホテルのビュッフェは変身しました",
-          "title_zh": "曾经装满预制食物的自助餐是一句“古老的谚语” ……酒店的自助餐被改造了"
-        },
-        {
           "title": "롯데웰푸드, 꼬깔콘 새 얼굴에 오정세 발탁…2030 공략",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ubXVWbHc0RFRIVGNITFdRQnFPUW9EZkN4cU56QlFfRWI5aktJMlFhdnBCOEN2RjEwbm54RTJIWEs1MDVCVnExZWVxUmh2ZFlvR3g2MVdIdTdndw?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Unveils Ojeong Se in Kokkakkon's New Face… Targeted by 2030",
           "title_ja": "ロッテウェルフード、オジョンセをコッカッコンの新しい顔に披露… 2030年を目指す",
           "title_zh": "乐天Well Food在Kokkakkon的新面孔中推出Ojeong Se……目标是到2030年"
+        },
+        {
+          "title": "\"요즘 누가 배 터질 때까지 먹나요\"…호텔 뷔페 확 달라진 이유",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45eks4VUJ3b19wT0RJS25pejktbjhiaEZxbk42ZWNYcjFqNGtZNDltQy04UlNGemVCMFl0elpTOHZMSGRyc0lCdWhtZmN5QXhwNUstbE90NURmZw?oc=5",
+          "desc": "",
+          "title_en": "“Who eats until they're hungry these days” … Why hotel buffets are so different",
+          "title_ja": "「最近、空腹になるまで食べる人」…なぜホテルのビュッフェがこんなに違うのか",
+          "title_zh": "“这些天谁会一直吃到饿” ……为什么酒店自助餐如此不同"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "#로컬-음식 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Wk5PWG1BWm81c1ZqVWxHSnZlM1NlWndubGFWeDJ0OUVwU2hKWUZTMjRHbFUtTXIzTHlldkdXZFpSMGZOcUYtU2dhQzBCaFg2LVlFaGF4RTV4QWwzaEZVVmpQSjczXzlmR0RfNko1d2J3OHA5VkJN?oc=5",
+          "desc": "",
+          "title_en": "# Local-food (1 Posts)",
+          "title_ja": "#ローカルフード（ 1件の投稿）",
+          "title_zh": "#当地美食（ 1个帖子）"
+        },
+        {
           "title": "HF 푸드 그룹, 캐나다 시레이푸드 3500만 달러 인수..첫 해외 진출",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04STk2cEJzMnltcG4tMUhydzlGbUZUeDdBaHR1UUhuMERabEd1ZmdHQUVDRl9NVnViLUp2M01mSjZuSFUyUTc0QXYzVWtHRjNVckE?oc=5",
           "desc": "",
@@ -197,19 +205,11 @@
         },
         {
           "title": "더본코리아 홍콩반점, 광주 향토 음식 활용한 ‘애호박찌개짬뽕’ 출시",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YUnRzekhHWllKd1dUaHdqU1NZQmRoMzVwSVdNOWFmUXNxNTZtS3ZJTnRqMUc3Wm1vZHNLYUtRTzhpQ0tLemRxYXpYUXAzNnk1MnlONQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1bDc4aDNTdGY0bmVlZG9ra3BjVVgwR3dzZHpLb2ZicmxwZ3RzQjNHckFPTURSdkZwbTNZQWRhS3hCblJRdGc?oc=5",
           "desc": "",
           "title_en": "The Bonn Korea Hong Kong Spot Launches' Zucchini Stew Champon ‘Using Local Gwangju Food",
           "title_ja": "ボン・コリア香港店、地元の光州料理を使った「ズッキーニシチューちゃんぽん」発売",
           "title_zh": "波恩韩国香港餐厅推出使用当地光州美食的“西葫芦炖香槟”"
-        },
-        {
-          "title": "칼마인푸드, 4분기 매출 반토막·영업손실 전환 '어닝 쇼크'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jNV9JY0RwZE1Gek0tX09WVHdnSU9aZ2o5X2lpU1dzblBKa0NoM0cyeUJYaDdWWEZVSGFZYm9ibzdEVW5jYXByalRRNEZtMURuS2c?oc=5",
-          "desc": "",
-          "title_en": "Carmine Foods' Awning Shock 'Converts Sales to Half-Total Sales and Operating Loss in Q4",
-          "title_ja": "Carmine Foodsの「オーニングショック」により、第4四半期の売上高と営業損失の半分に変換",
-          "title_zh": "Carmine Foods的“遮阳篷冲击”将第四季度的销售额转化为半数销售额和运营亏损"
         }
       ]
     },
