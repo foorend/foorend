@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T11:03:03Z",
+  "lastUpdated": "2026-07-24T13:45:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "HF푸드그룹, 캐나다 냉동 수산물 유통업체 인수로 첫 해외 시장 진출",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCcm9EUWtsNzNzM3oyVlJ6dVpXdEVTbTl5SkNyVVBoR3RrWjdQRDdWY2pOUHNSQWE4ZWljcG9pYllhQkZjV08wVVNXYk0wS3BvOGc?oc=5",
+          "desc": "",
+          "title_en": "HF Food Group enters its first overseas market with the acquisition of a Canadian frozen seafood distributor",
+          "title_ja": "HF Food Group、カナダの冷凍シーフード販売代理店を買収し、初の海外市場に参入",
+          "title_zh": "HF食品集团通过收购一家加拿大冷冻海鲜经销商进入其首个海外市场"
+        },
+        {
           "title": "#로컬-음식 (1 Posts)",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Wk5PWG1BWm81c1ZqVWxHSnZlM1NlWndubGFWeDJ0OUVwU2hKWUZTMjRHbFUtTXIzTHlldkdXZFpSMGZOcUYtU2dhQzBCaFg2LVlFaGF4RTV4QWwzaEZVVmpQSjczXzlmR0RfNko1d2J3OHA5VkJN?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "HF Food Group Acquires Siray Food Canada for $35 Million, First Global Expansion",
           "title_ja": "HF Food Group、Siray Food Canadaを3500万ドルで買収、初のグローバル展開",
           "title_zh": "HF Food Group以3500万美元收购Siray Food Canada ，实现首次全球扩张"
-        },
-        {
-          "title": "더본코리아 홍콩반점, 광주 향토 음식 활용한 ‘애호박찌개짬뽕’ 출시",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YUnRzekhHWllKd1dUaHdqU1NZQmRoMzVwSVdNOWFmUXNxNTZtS3ZJTnRqMUc3Wm1vZHNLYUtRTzhpQ0tLemRxYXpYUXAzNnk1MnlONQ?oc=5",
-          "desc": "",
-          "title_en": "The Bonn Korea Hong Kong Spot Launches' Zucchini Stew Champon ‘Using Local Gwangju Food",
-          "title_ja": "ボン・コリア香港店、地元の光州料理を使った「ズッキーニシチューちゃんぽん」発売",
-          "title_zh": "波恩韩国香港餐厅推出使用当地光州美食的“西葫芦炖香槟”"
         }
       ]
     },
