@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T22:04:26Z",
+  "lastUpdated": "2026-07-25T02:40:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "休闲餐饮领域有一个新的2号品牌"
         },
         {
-          "title": "The restaurant M&A ‘gold rush’ is over, investors demand proof over promises",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSmJGYzB0X0FWamg3ZFZ2elY4NGRuOVJoS2o0bVo0UEE5WVFJRDAtaWtZLVJXWGIwYXBVR1ZUVFNFSmo2N1hYTFZndDNrczhEcThzU3hpX1dMVjRkTmlHZFJGZ1JxYkhyUGFzT216SV9nNUdWem1fU2R0ZjBOQWdTbXNlQ0RMYTBLa2d4QU96bUVVMk5UMllkN29qVXNtZlBTd3Z0TjA3aHE1MUlqYlMwekhn?oc=5",
+          "title": "Wonder is valued at more than $9B after latest fundraise",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZVNBZkVxVmZkSzZlOTZiV0tYdHNlTlpZT2NXTlh4WVdVaXg4X3dYdkNEbEZPNnZPM1p1Nks1NEJyZ2RZenYyYzRFelZSaDZmTDZiaXpFclBIdFNONC1jazRlVWhSNWI0UU9HcWtRc3dhNHZULWNJZ1hkdndESG1JdmRSbUlSTW9HSkFzWmFUc0tnd0VWb0Mw?oc=5",
           "desc": "",
-          "title_ko": "레스토랑 M&A ‘골드 러시’ 가 끝났습니다. 투자자들은 약속보다 증거를 요구합니다.",
-          "title_ja": "レストランのM&A「ゴールドラッシュ」は終わった、投資家は約束よりも証拠を求めている",
-          "title_zh": "餐厅并购“淘金热”已经结束，投资者要求证明而不是承诺"
+          "title_ko": "Wonder는 최근 기금 모금 후 $ 9B 이상으로 평가됩니다.",
+          "title_ja": "最新の資金調達後、Wonderは90億$以上の価値があります",
+          "title_zh": "在最近一次筹款后， Wonder的价值超过$ 90亿"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "HF食品集团通过收购一家加拿大冷冻海鲜经销商进入其首个海外市场"
         },
         {
-          "title": "HF 푸드 그룹, 캐나다 시레이푸드 3500만 달러 인수..첫 해외 진출",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04STk2cEJzMnltcG4tMUhydzlGbUZUeDdBaHR1UUhuMERabEd1ZmdHQUVDRl9NVnViLUp2M01mSjZuSFUyUTc0QXYzVWtHRjNVckE?oc=5",
-          "desc": "",
-          "title_en": "HF Food Group Acquires Siray Food Canada for $35 Million, First Global Expansion",
-          "title_ja": "HF Food Group、Siray Food Canadaを3500万ドルで買収、初のグローバル展開",
-          "title_zh": "HF Food Group以3500万美元收购Siray Food Canada ，实现首次全球扩张"
-        },
-        {
           "title": "#로컬-음식 (1 Posts)",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Wk5PWG1BWm81c1ZqVWxHSnZlM1NlWndubGFWeDJ0OUVwU2hKWUZTMjRHbFUtTXIzTHlldkdXZFpSMGZOcUYtU2dhQzBCaFg2LVlFaGF4RTV4QWwzaEZVVmpQSjczXzlmR0RfNko1d2J3OHA5VkJN?oc=5",
           "desc": "",
           "title_en": "# Local-food (1 Posts)",
           "title_ja": "#ローカルフード（ 1件の投稿）",
           "title_zh": "#当地美食（ 1个帖子）"
+        },
+        {
+          "title": "HF 푸드 그룹, 캐나다 시레이푸드 3500만 달러 인수..첫 해외 진출",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04STk2cEJzMnltcG4tMUhydzlGbUZUeDdBaHR1UUhuMERabEd1ZmdHQUVDRl9NVnViLUp2M01mSjZuSFUyUTc0QXYzVWtHRjNVckE?oc=5",
+          "desc": "",
+          "title_en": "HF Food Group Acquires Siray Food Canada for $35 Million, First Global Expansion",
+          "title_ja": "HF Food Group、Siray Food Canadaを3500万ドルで買収、初のグローバル展開",
+          "title_zh": "HF Food Group以3500万美元收购Siray Food Canada ，实现首次全球扩张"
         }
       ]
     },
