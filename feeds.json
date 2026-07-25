@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T16:03:54Z",
+  "lastUpdated": "2026-07-25T19:07:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Red Robin表示，其最新的扭亏为盈计划正在发挥作用"
         },
         {
-          "title": "There's a new No. 2 brand in casual dining",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON1ZoZWJobHFXM0k4SXRnTHo0eUFocUQzOTBsTkhxOVZ5YnFWSmszU1QxcndoVExvSG92WjY2Y0I2TmI3VWhadDAzdGlXT0ZiSFA0SzhsZ3FHZHFrNTYteVRha3hfRGZYWEt2YU9hS0UtaER6T1RuN3R3dWpWNVJXbWNPbzBCOEFYRlE?oc=5",
-          "desc": "",
-          "title_ko": "캐주얼 다이닝에 새로운 2호 브랜드가 생겼습니다",
-          "title_ja": "カジュアルダイニングに新しいNo.2ブランドが登場",
-          "title_zh": "休闲餐饮领域有一个新的2号品牌"
-        },
-        {
           "title": "Restaurant Business Magazine - Trends, Ideas and News",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
           "desc": "",
           "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
           "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
           "title_zh": "餐厅商业杂志-趋势、创意和新闻"
+        },
+        {
+          "title": "Wonder is valued at more than $9B after latest fundraise",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZVNBZkVxVmZkSzZlOTZiV0tYdHNlTlpZT2NXTlh4WVdVaXg4X3dYdkNEbEZPNnZPM1p1Nks1NEJyZ2RZenYyYzRFelZSaDZmTDZiaXpFclBIdFNONC1jazRlVWhSNWI0UU9HcWtRc3dhNHZULWNJZ1hkdndESG1JdmRSbUlSTW9HSkFzWmFUc0tnd0VWb0Mw?oc=5",
+          "desc": "",
+          "title_ko": "Wonder는 최근 기금 모금 후 $ 9B 이상으로 평가됩니다.",
+          "title_ja": "最新の資金調達後、Wonderは90億$以上の価値があります",
+          "title_zh": "在最近一次筹款后， Wonder的价值超过$ 90亿"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“피자·술 등 좋아하는 음식 안 끊어도 돼”…30대 英 여성, ‘의외의’ 비결",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQODdpeHQ1ZnZCalF6ZUNLRG1PTHJiNnAwemZvSVZJQkVyQ1FWQ1IxSmdiZmRucUswZjBJVF9QQzR6OVNaNm5kT2xZVDZVYVc1WHc?oc=5",
+          "desc": "",
+          "title_en": "“You don't have to cut out your favorite foods such as pizza and alcohol” … Women in their 30s, ‘Surprised’ Secret",
+          "title_ja": "「ピザやアルコールなどの好きな食べ物を切り取る必要はありません」… 30代の女性、「驚いた」秘密",
+          "title_zh": "“你不必剪掉你最喜欢的食物，如披萨和酒精” …… 30多岁的女性， “惊喜”的秘密"
+        },
+        {
           "title": "#야간및음식문화활성화축제 (1 Posts)",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEVmeXAwZ3BOX3RLQUxnMGN6U3laSUdLVndLeFJ6SWlYVW9nRjlVM2xwYk1HQlNXVE95TDRFNUk3N19ZMTMwWmd3UGtLWElZeE00NmEzOXlNSkRfV0pXTTlUYWRVcFk0anFiQlZoazc4VkFCaWhzdG9RcWE0UFRUejBqUjBEUWk5c05XYmtBQWVrZExmRFV3TzlLaUhzS0JTbVRtanVWbUZvTDRQWHRBeXBFSWVLU2VtcnBvdW1CU0FBLUgxUzU4dUFvV2lKdjlPMHp2NTFn?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "HF Food Group enters its first overseas market with the acquisition of a Canadian frozen seafood distributor",
           "title_ja": "HF Food Group、カナダの冷凍シーフード販売代理店を買収し、初の海外市場に参入",
           "title_zh": "HF食品集团通过收购一家加拿大冷冻海鲜经销商进入其首个海外市场"
-        },
-        {
-          "title": "“피자·술 등 좋아하는 음식 안 끊어도 돼”…30대 英 여성, ‘의외의’ 비결",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQODdpeHQ1ZnZCalF6ZUNLRG1PTHJiNnAwemZvSVZJQkVyQ1FWQ1IxSmdiZmRucUswZjBJVF9QQzR6OVNaNm5kT2xZVDZVYVc1WHc?oc=5",
-          "desc": "",
-          "title_en": "“You don't have to cut out your favorite foods such as pizza and alcohol” … Women in their 30s, ‘Surprised’ Secret",
-          "title_ja": "「ピザやアルコールなどの好きな食べ物を切り取る必要はありません」… 30代の女性、「驚いた」秘密",
-          "title_zh": "“你不必剪掉你最喜欢的食物，如披萨和酒精” …… 30多岁的女性， “惊喜”的秘密"
         }
       ]
     },
