@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T08:06:18Z",
+  "lastUpdated": "2026-07-25T10:27:02Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "“这是我从2岁起就一直在吃的食物” ……在被Bosintang袭击的餐厅里，这是一种常见的反应[现场+]"
         },
         {
-          "title": "롯데웰푸드, 꼬깔콘 새 얼굴에 오정세 발탁…2030 공략",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ubXVWbHc0RFRIVGNITFdRQnFPUW9EZkN4cU56QlFfRWI5aktJMlFhdnBCOEN2RjEwbm54RTJIWEs1MDVCVnExZWVxUmh2ZFlvR3g2MVdIdTdndw?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Unveils Ojeong Se in Kokkakkon's New Face… Targeted by 2030",
-          "title_ja": "ロッテウェルフード、オジョンセをコッカッコンの新しい顔に披露… 2030年を目指す",
-          "title_zh": "乐天Well Food在Kokkakkon的新面孔中推出Ojeong Se……目标是到2030年"
-        },
-        {
           "title": "함연지도 배우 접고 오뚜기行…K푸드 '90년대생 오너' 등판 [권용훈의 트렌드워치]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNTdhcDF2SmE3ckNHdkxpYzB6ZTdHRFZBbjdyVDcyelVDWjYxVmVaVjI3U3JoQW5BZ3hSeUQ3QXNpajI4NjhIQVczSm5pTk5EN3MyQW5rRHFNUQ?oc=5",
           "desc": "",
           "title_en": "Actor Ham Yeon-ji folds and Ottogi… K-Food '90s owner' plate [Kwon Yong-hoon's Trend Watch]",
           "title_ja": "俳優ハム・ヨンジ折りたたみとおとぎ… K - Food「90年代オーナーズ」プレート【クォン・ヨンフンのトレンドウォッチ】",
           "title_zh": "演员Ham Yeon-ji折叠和Ottogi…… K-Food '90年代老板'盘子[Kwon Yong-hoon's Trend Watch]"
+        },
+        {
+          "title": "롯데웰푸드, 꼬깔콘 새 얼굴에 오정세 발탁…2030 공략",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ubXVWbHc0RFRIVGNITFdRQnFPUW9EZkN4cU56QlFfRWI5aktJMlFhdnBCOEN2RjEwbm54RTJIWEs1MDVCVnExZWVxUmh2ZFlvR3g2MVdIdTdndw?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Unveils Ojeong Se in Kokkakkon's New Face… Targeted by 2030",
+          "title_ja": "ロッテウェルフード、オジョンセをコッカッコンの新しい顔に披露… 2030年を目指す",
+          "title_zh": "乐天Well Food在Kokkakkon的新面孔中推出Ojeong Se……目标是到2030年"
         }
       ]
     },
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "“피자·술 등 좋아하는 음식 안 끊어도 돼”…30대 英 여성, ‘의외의’ 비결",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQODdpeHQ1ZnZCalF6ZUNLRG1PTHJiNnAwemZvSVZJQkVyQ1FWQ1IxSmdiZmRucUswZjBJVF9QQzR6OVNaNm5kT2xZVDZVYVc1WHc?oc=5",
-          "desc": "",
-          "title_en": "“You don't have to cut out your favorite foods such as pizza and alcohol” … Women in their 30s, ‘Surprised’ Secret",
-          "title_ja": "「ピザやアルコールなどの好きな食べ物を切り取る必要はありません」… 30代の女性、「驚いた」秘密",
-          "title_zh": "“你不必剪掉你最喜欢的食物，如披萨和酒精” …… 30多岁的女性， “惊喜”的秘密"
-        },
-        {
           "title": "HF푸드그룹, 캐나다 냉동 수산물 유통업체 인수로 첫 해외 시장 진출",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCcm9EUWtsNzNzM3oyVlJ6dVpXdEVTbTl5SkNyVVBoR3RrWjdQRDdWY2pOUHNSQWE4ZWljcG9pYllhQkZjV08wVVNXYk0wS3BvOGc?oc=5",
           "desc": "",
@@ -204,12 +196,20 @@
           "title_zh": "HF食品集团通过收购一家加拿大冷冻海鲜经销商进入其首个海外市场"
         },
         {
-          "title": "#야간및음식문화활성화축제 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa0ZFbzBCbWdEUTZFRnFVcmVZRkEwbkZsNlYyM2VGSTNzc2pQVktlYnp3WGJnYldMRFFXVUhrR3N3Z2FhTUd0OWhJLTh4cjhCZlloQURXU3J6aTZjY3FlcklvQjUyUnA2bXM3Tjh3SkNma3FDeGpneWlRemVEQVdSZUhhSktCdUFiVy00Nm1IVlRTbnBPQmNPMHB2bmdwZDVNeWF0QWtTNUc1MlFLUjMweHNSYnZ5X3labTM5VjFwb09mc0lfdVN4VHBYRl9wWE5VZmxsdzNBZFBublk?oc=5",
+          "title": "“피자·술 등 좋아하는 음식 안 끊어도 돼”…30대 英 여성, ‘의외의’ 비결",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQODdpeHQ1ZnZCalF6ZUNLRG1PTHJiNnAwemZvSVZJQkVyQ1FWQ1IxSmdiZmRucUswZjBJVF9QQzR6OVNaNm5kT2xZVDZVYVc1WHc?oc=5",
           "desc": "",
-          "title_en": "# Night and Food Culture Activation Festival (1 Posts)",
-          "title_ja": "#夜と食文化活性化フェスティバル（ 1投稿）",
-          "title_zh": "#夜间和美食文化激活节（ 1个帖子）"
+          "title_en": "“You don't have to cut out your favorite foods such as pizza and alcohol” … Women in their 30s, ‘Surprised’ Secret",
+          "title_ja": "「ピザやアルコールなどの好きな食べ物を切り取る必要はありません」… 30代の女性、「驚いた」秘密",
+          "title_zh": "“你不必剪掉你最喜欢的食物，如披萨和酒精” …… 30多岁的女性， “惊喜”的秘密"
+        },
+        {
+          "title": "10월 뉴욕 달굴 K스타트업 축제...“K테크·푸드·뷰티 즐긴다”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRS01alMwd2ZXeXYzZ3l3dFRQTzJZVVk2RWcxZUd3Z3pMcGxLOEthQmVhOXB3OVRQSmNPc1BYNnN3Mk1Ta0VXdEZjMjQ4OWFFbVE?oc=5",
+          "desc": "",
+          "title_en": "October K Startup Festival in New York City... “I enjoy K-Tech, Food, and Beauty”",
+          "title_ja": "10月K Startup Festival in New York City…「K - Tech、Food、Beautyを楽しんでいます」",
+          "title_zh": "10月纽约市K Startup Festival... “我喜欢K-Tech、美食和美容”"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "CJ CheilJedang推出蒸馏酒“jari” …瞄准全球市场"
         },
         {
-          "title": "‘크런치 아박’에 더한 말차…투썸플레이스 신메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0cTJFbnh1VWxydC1kaHg4Y2dxSTNndW1vV182TlNJUWRIQ2tpNnZuNUtfc1k5eHFnY1FTMUYwcjF4eHBSdWpueVNoeUlESzhaN2NjZFpjbw?oc=5",
+          "title": "바삭하고 쫄깃해야 뜬다, 미국의 ‘식감 소비’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41RVIzcnhOMWF4R21YZEltVktMQmpSQ2U3RXU4RVVxTlhGeXJodS1oRXlZR0xOenpBZ3VINVlOOEJXZ0ZPZkt3TVBoYTNJVGdoSTMwc3Fibw?oc=5",
           "desc": "",
-          "title_en": "Matcha in addition to ‘Crunchy Abak'... Twosome Place New Menu",
-          "title_ja": "「Crunchy Abak」に加えて抹茶… Twosome Place New Menu",
-          "title_zh": "除了「Crunchy Abak」外，还有抹茶…… Twosome Place新菜单"
+          "title_en": "It has to be crispy and chewy, 'texture consumption‘ in the United States",
+          "title_ja": "米国では、サクサクで歯ごたえのある「食感消費」でなければなりません",
+          "title_zh": "在美国，它必须是酥脆和耐嚼的“质地消耗”"
         }
       ]
     }
