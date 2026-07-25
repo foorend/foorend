@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T05:43:00Z",
+  "lastUpdated": "2026-07-25T08:06:18Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "“这是我从2岁起就一直在吃的食物” ……在被Bosintang袭击的餐厅里，这是一种常见的反应[现场+]"
         },
         {
-          "title": "함연지도 배우 접고 오뚜기行…K푸드 '90년대생 오너' 등판 [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNTdhcDF2SmE3ckNHdkxpYzB6ZTdHRFZBbjdyVDcyelVDWjYxVmVaVjI3U3JoQW5BZ3hSeUQ3QXNpajI4NjhIQVczSm5pTk5EN3MyQW5rRHFNUQ?oc=5",
-          "desc": "",
-          "title_en": "Actor Ham Yeon-ji folds and Ottogi… K-Food '90s owner' plate [Kwon Yong-hoon's Trend Watch]",
-          "title_ja": "俳優ハム・ヨンジ折りたたみとおとぎ… K - Food「90年代オーナーズ」プレート【クォン・ヨンフンのトレンドウォッチ】",
-          "title_zh": "演员Ham Yeon-ji折叠和Ottogi…… K-Food '90年代老板'盘子[Kwon Yong-hoon's Trend Watch]"
-        },
-        {
           "title": "롯데웰푸드, 꼬깔콘 새 얼굴에 오정세 발탁…2030 공략",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ubXVWbHc0RFRIVGNITFdRQnFPUW9EZkN4cU56QlFfRWI5aktJMlFhdnBCOEN2RjEwbm54RTJIWEs1MDVCVnExZWVxUmh2ZFlvR3g2MVdIdTdndw?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Unveils Ojeong Se in Kokkakkon's New Face… Targeted by 2030",
           "title_ja": "ロッテウェルフード、オジョンセをコッカッコンの新しい顔に披露… 2030年を目指す",
           "title_zh": "乐天Well Food在Kokkakkon的新面孔中推出Ojeong Se……目标是到2030年"
+        },
+        {
+          "title": "함연지도 배우 접고 오뚜기行…K푸드 '90년대생 오너' 등판 [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNTdhcDF2SmE3ckNHdkxpYzB6ZTdHRFZBbjdyVDcyelVDWjYxVmVaVjI3U3JoQW5BZ3hSeUQ3QXNpajI4NjhIQVczSm5pTk5EN3MyQW5rRHFNUQ?oc=5",
+          "desc": "",
+          "title_en": "Actor Ham Yeon-ji folds and Ottogi… K-Food '90s owner' plate [Kwon Yong-hoon's Trend Watch]",
+          "title_ja": "俳優ハム・ヨンジ折りたたみとおとぎ… K - Food「90年代オーナーズ」プレート【クォン・ヨンフンのトレンドウォッチ】",
+          "title_zh": "演员Ham Yeon-ji折叠和Ottogi…… K-Food '90年代老板'盘子[Kwon Yong-hoon's Trend Watch]"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“일본 여행서 ‘이 음식’ 먹었다간 큰일”…식중독에 손발 마비까지 올 수도 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0N2ZoM0xKa1BkWkFZTWh0c3dUM3FIQU00dEREZFlydjRzT1g3RElNX0tYWHRSVXVDeGdncnhVQ2pkb2VKMjJPcHhhQmlFMkRkT3fSAVNBVV95cUxPeGp6S0VReXBSUjYwa2Y0dkNSZGE3YkZaUEt3a2RoUW16Q0R3Q0p1Ty1QczZfXzh5ZGNUeUlYWTFHR3JTcTBUMk1pU1JlcU5wR0E5MA?oc=5",
+          "desc": "",
+          "title_en": "“If you eat ‘this food‘ on a trip to Japan, it's a big deal” … Food poisoning can even lead to hand and foot paralysis [Health Time]",
+          "title_ja": "「日本への旅行中に「この食べ物」を食べると、それは大きな問題です」…食中毒は手足の麻痺につながることさえあります[Health Time]",
+          "title_zh": "“如果你在日本旅行时吃‘这种食物‘ ，这是一件大事” ……食物中毒甚至会导致手足麻痹[健康时间]"
+        },
         {
           "title": "롯데중앙연구소, 푸드테크 스타트업 찾는다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NRGJVTkQwaWl1RE9sTW1FSTF5RThXLUlETjRJU1JlSjNLc0VmbjRTeW9SMzNDNWh6OTZ4Z3R6S3RlaXZNZ3pKOXNlV3JMVjVkY1HSAVNBVV95cUxPZDVFMy11VGRBNWNRMzhyZFhrSDlKSzdUdjB2MkdqNXJhdjdyWXIyNWY1U21KOFNlMHVXa0hVblYtVWQxTkFMbTJkSTJCY1RidlBYRQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "CJ Seafood 1W, enter upper price.. +29.89% ↑",
           "title_ja": "CJシーフード1 W、高値を入力.. +29.89% ↑",
           "title_zh": "CJ Seafood 1W ，进入高价.. +29.89% ↑"
-        },
-        {
-          "title": "CJ씨푸드1우, 상한가 진입.. +29.89% ↑",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54MHJIdEdWbXlpbXpydEZXU2RPQktjRjFxSHhWQzFWSGtxUEZ4a2FtX29CUUN5MVh0MTZQNk5JRVN2ZXhWSGJiSXYtbW5Bc085QkE?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood 1W, enter upper price.. +29.89% ↑",
-          "title_ja": "CJシーフード1 W、高値を入力.. +29.89% ↑",
-          "title_zh": "CJ Seafood 1W ，进入高价.. +29.89% ↑"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“피자·술 등 좋아하는 음식 안 끊어도 돼”…30대 英 여성, ‘의외의’ 비결",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQODdpeHQ1ZnZCalF6ZUNLRG1PTHJiNnAwemZvSVZJQkVyQ1FWQ1IxSmdiZmRucUswZjBJVF9QQzR6OVNaNm5kT2xZVDZVYVc1WHc?oc=5",
+          "desc": "",
+          "title_en": "“You don't have to cut out your favorite foods such as pizza and alcohol” … Women in their 30s, ‘Surprised’ Secret",
+          "title_ja": "「ピザやアルコールなどの好きな食べ物を切り取る必要はありません」… 30代の女性、「驚いた」秘密",
+          "title_zh": "“你不必剪掉你最喜欢的食物，如披萨和酒精” …… 30多岁的女性， “惊喜”的秘密"
+        },
+        {
           "title": "HF푸드그룹, 캐나다 냉동 수산물 유통업체 인수로 첫 해외 시장 진출",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCcm9EUWtsNzNzM3oyVlJ6dVpXdEVTbTl5SkNyVVBoR3RrWjdQRDdWY2pOUHNSQWE4ZWljcG9pYllhQkZjV08wVVNXYk0wS3BvOGc?oc=5",
           "desc": "",
           "title_en": "HF Food Group enters its first overseas market with the acquisition of a Canadian frozen seafood distributor",
           "title_ja": "HF Food Group、カナダの冷凍シーフード販売代理店を買収し、初の海外市場に参入",
           "title_zh": "HF食品集团通过收购一家加拿大冷冻海鲜经销商进入其首个海外市场"
-        },
-        {
-          "title": "10월 뉴욕 달굴 K스타트업 축제...“K테크·푸드·뷰티 즐긴다”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRS01alMwd2ZXeXYzZ3l3dFRQTzJZVVk2RWcxZUd3Z3pMcGxLOEthQmVhOXB3OVRQSmNPc1BYNnN3Mk1Ta0VXdEZjMjQ4OWFFbVE?oc=5",
-          "desc": "",
-          "title_en": "October K Startup Festival in New York City... “I enjoy K-Tech, Food, and Beauty”",
-          "title_ja": "10月K Startup Festival in New York City…「K - Tech、Food、Beautyを楽しんでいます」",
-          "title_zh": "10月纽约市K Startup Festival... “我喜欢K-Tech、美食和美容”"
         },
         {
           "title": "#야간및음식문화활성화축제 (1 Posts)",
@@ -234,12 +234,12 @@
           "title_zh": "CJ CheilJedang推出蒸馏酒“jari” …瞄准全球市场"
         },
         {
-          "title": "아침은 단백질, 점심은 생선…한국허벌라이프, 음식 궁합 제안",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SSnBpejByZnVWVHJkZGJ5WC1PanNfOWY1aE9UTUdwMzNnUlVnck5kMllMUVd0aEYwQ2Z6dnpuMk53UmxPbjF5UjZMUlBhd3hxaFBNTUNmcw?oc=5",
+          "title": "‘크런치 아박’에 더한 말차…투썸플레이스 신메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0cTJFbnh1VWxydC1kaHg4Y2dxSTNndW1vV182TlNJUWRIQ2tpNnZuNUtfc1k5eHFnY1FTMUYwcjF4eHBSdWpueVNoeUlESzhaN2NjZFpjbw?oc=5",
           "desc": "",
-          "title_en": "Protein for breakfast, fish for lunch… Korean Herbalife proposes food match",
-          "title_ja": "朝食にタンパク質、昼食に魚…韓国のハーバライフが提案するフードマッチ",
-          "title_zh": "早餐含蛋白质，午餐含鱼类……韩国康宝莱推荐食物搭配"
+          "title_en": "Matcha in addition to ‘Crunchy Abak'... Twosome Place New Menu",
+          "title_ja": "「Crunchy Abak」に加えて抹茶… Twosome Place New Menu",
+          "title_zh": "除了「Crunchy Abak」外，还有抹茶…… Twosome Place新菜单"
         }
       ]
     }
