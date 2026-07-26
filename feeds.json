@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T10:44:14Z",
+  "lastUpdated": "2026-07-26T13:22:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "롯데웰푸드 인도 브랜드 '하브모어' 검색량 급증",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZUlLQ1NwUU82bmdvWXAtSkR5alRFaHBJcG04djJ4SF9jbkVVQVM5aEx1bERTVnZ1eUVpQk5fbV9vZ01SMTlVdVZKTURtNWVRU3ZrTHd4anJKZw?oc=5",
+          "desc": "",
+          "title_en": "Search for Lotte Well Food Indian brand 'Havmore' skyrocketed",
+          "title_ja": "ロッテウェルフードインディアンブランド「Havmore」の検索が急増",
+          "title_zh": "搜索乐天Well Food印度品牌“Havmore”飙升"
+        },
+        {
           "title": "\"2살부터 먹던 음식인데\"…보신탕 대목 맞은 식당 단골 반응 [현장+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lNXp5aDE5TGJhY0NBTWdDMF84bzBOVzJoVHU5cWZfdWdRb3pCc3NWZVdmSUZJUy1ZTW02dmVUeG5RMi1IcGpDQ3ZRWnh1WnI0ZTJTTXA2aHdfQQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Actor Ham Yeon-ji folds and Ottogi… K-Food '90s owner' plate [Kwon Yong-hoon's Trend Watch]",
           "title_ja": "俳優ハム・ヨンジ折りたたみとおとぎ… K - Food「90年代オーナーズ」プレート【クォン・ヨンフンのトレンドウォッチ】",
           "title_zh": "演员Ham Yeon-ji折叠和Ottogi…… K-Food '90年代老板'盘子[Kwon Yong-hoon's Trend Watch]"
-        },
-        {
-          "title": "롯데웰푸드 인도 브랜드 '하브모어' 검색량 급증",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZUlLQ1NwUU82bmdvWXAtSkR5alRFaHBJcG04djJ4SF9jbkVVQVM5aEx1bERTVnZ1eUVpQk5fbV9vZ01SMTlVdVZKTURtNWVRU3ZrTHd4anJKZw?oc=5",
-          "desc": "",
-          "title_en": "Search for Lotte Well Food Indian brand 'Havmore' skyrocketed",
-          "title_ja": "ロッテウェルフードインディアンブランド「Havmore」の検索が急増",
-          "title_zh": "搜索乐天Well Food印度品牌“Havmore”飙升"
         }
       ]
     },
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "앱에서 사면 4000원 싸다…설빙, 여름 메뉴 프로모션",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fNXpJYjhLT3pfMXU2NHZTamVaV3ZkTzdub2dtN01fMmpMXzBDejNxdUt1YmJnajFKS2dmZTFLNTNjb0hDYTFUZm9SM3E5b0RJTTJpOFM5QQ?oc=5",
+          "desc": "",
+          "title_en": "Buying in the app is 4000 won cheap… Sulving, Summer Menu Promotion",
+          "title_ja": "アプリで購入すると4,000ウォン安くなります… Sulving、サマーメニューのプロモーション",
+          "title_zh": "在应用程序中购买便宜4000韩元…… Sulving ，夏季菜单促销"
+        },
+        {
           "title": "‘크런치 아박’에 더한 말차…투썸플레이스 신메뉴",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0cTJFbnh1VWxydC1kaHg4Y2dxSTNndW1vV182TlNJUWRIQ2tpNnZuNUtfc1k5eHFnY1FTMUYwcjF4eHBSdWpueVNoeUlESzhaN2NjZFpjbw?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "New buffet ‘take‘ in line, No. 2 is Jamsil",
           "title_ja": "新しいビュッフェ「TAKE」IN LINE、No.2はジャムシル",
           "title_zh": "全新自助餐“TAKE” IN LINE ， 2号是蚕室"
-        },
-        {
-          "title": "매일 마시는 커피, 간에 미치는 영향은?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKbVZ5elZVQmxGRWVfMS1obW5ieXpEUFpLajlQUjA2aTdJZVU1dmRjbDQ1Y0RRTllPODJMUTk1Um9MdEkzbkV2clladXRCczhYMmxDeXlZUQ?oc=5",
-          "desc": "",
-          "title_en": "Coffee you drink every day, what is the effect on your liver?",
-          "title_ja": "毎日飲むコーヒーは、肝臓にどのような影響を及ぼしますか？",
-          "title_zh": "你每天喝的咖啡，对你的肝脏有什么影响？"
         }
       ]
     }
