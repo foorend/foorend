@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T19:10:50Z",
+  "lastUpdated": "2026-07-26T21:59:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "I work at a food bank. We're getting more produce because of the cyclospora outbreak.",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDVZZ0hGeVoxWENmeVFDaXB1WTU1amVkOW1PS3FFN2dRcjBFV2IyemZmX0pyaV9UeVpNMVMxQVZWVXNKczBib3psVUtsSnlEa0JJZHRqZkNUTk1RRVRSc3RmZVpSelZ3S1pBSUV6dXFoZ0dxcENPMDFnZU1YNUl3RDNqbXJ0cXVQNjNQd3JZS3BRTWt3a24wZTRVTnpCTGs?oc=5",
-          "desc": "",
-          "title_ko": "저는 푸드뱅크에서 일합니다. 사이클로스포라 발생으로 인해 더 많은 농산물이 생산되고 있습니다.",
-          "title_ja": "私はフードバンクで働いています。サイクロスポラの発生により、より多くの農産物が生産されています。",
-          "title_zh": "我在一家食品银行工作。由于环孢子虫的爆发，我们正在获得更多的农产品。"
-        },
-        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "롯데웰푸드 인도 브랜드 '하브모어' 검색량 급증",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZUlLQ1NwUU82bmdvWXAtSkR5alRFaHBJcG04djJ4SF9jbkVVQVM5aEx1bERTVnZ1eUVpQk5fbV9vZ01SMTlVdVZKTURtNWVRU3ZrTHd4anJKZw?oc=5",
-          "desc": "",
-          "title_en": "Search for Lotte Well Food Indian brand 'Havmore' skyrocketed",
-          "title_ja": "ロッテウェルフードインディアンブランド「Havmore」の検索が急増",
-          "title_zh": "搜索乐天Well Food印度品牌“Havmore”飙升"
-        },
-        {
           "title": "\"2살부터 먹던 음식인데\"…보신탕 대목 맞은 식당 단골 반응 [현장+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lNXp5aDE5TGJhY0NBTWdDMF84bzBOVzJoVHU5cWZfdWdRb3pCc3NWZVdmSUZJUy1ZTW02dmVUeG5RMi1IcGpDQ3ZRWnh1WnI0ZTJTTXA2aHdfQQ?oc=5",
           "desc": "",
           "title_en": "\"It's a food that I've been eating since I was 2 years old\" … A regular reaction in a restaurant that was hit by Bosintang [On-site +]",
           "title_ja": "「2歳の頃から食べている食べ物です」…ボシンタンに襲われたレストランでの定期的な反応[オンサイト+]",
           "title_zh": "“这是我从2岁起就一直在吃的食物” ……在被Bosintang袭击的餐厅里，这是一种常见的反应[现场+]"
+        },
+        {
+          "title": "롯데웰푸드 인도 브랜드 '하브모어' 검색량 급증",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZUlLQ1NwUU82bmdvWXAtSkR5alRFaHBJcG04djJ4SF9jbkVVQVM5aEx1bERTVnZ1eUVpQk5fbV9vZ01SMTlVdVZKTURtNWVRU3ZrTHd4anJKZw?oc=5",
+          "desc": "",
+          "title_en": "Search for Lotte Well Food Indian brand 'Havmore' skyrocketed",
+          "title_ja": "ロッテウェルフードインディアンブランド「Havmore」の検索が急増",
+          "title_zh": "搜索乐天Well Food印度品牌“Havmore”飙升"
         },
         {
           "title": "함연지도 배우 접고 오뚜기行…K푸드 '90년대생 오너' 등판 [권용훈의 트렌드워치]",
@@ -174,12 +174,12 @@
           "title_zh": "“如果你在日本旅行时吃‘这种食物‘ ，这是一件大事” ……食物中毒甚至会导致手足麻痹[健康时间]"
         },
         {
-          "title": "롯데중앙연구소, 푸드테크 스타트업 찾는다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NRGJVTkQwaWl1RE9sTW1FSTF5RThXLUlETjRJU1JlSjNLc0VmbjRTeW9SMzNDNWh6OTZ4Z3R6S3RlaXZNZ3pKOXNlV3JMVjVkY1HSAVNBVV95cUxPZDVFMy11VGRBNWNRMzhyZFhrSDlKSzdUdjB2MkdqNXJhdjdyWXIyNWY1U21KOFNlMHVXa0hVblYtVWQxTkFMbTJkSTJCY1RidlBYRQ?oc=5",
+          "title": "CJ씨푸드1우, 상한가 진입.. +29.89% ↑",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55XzJzelE3ejlER3RDOUtBa3MxSzNzOEZKanBIRy1PQlhaOW5qXzBLczd2QTROQ2JJbm8wTTVIM1ZjWEFuckJqRHR3VmFWTjFnR3lr?oc=5",
           "desc": "",
-          "title_en": "Lotte Central Research Institute Seeks Food Tech Startups",
-          "title_ja": "ロッテ中央研究所が食品技術のスタートアップを募集",
-          "title_zh": "乐天中央研究院寻求食品科技创业公司"
+          "title_en": "CJ Seafood 1W, enter upper price.. +29.89% ↑",
+          "title_ja": "CJシーフード1 W、高値を入力.. +29.89% ↑",
+          "title_zh": "CJ Seafood 1W ，进入高价.. +29.89% ↑"
         }
       ]
     },
