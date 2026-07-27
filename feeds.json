@@ -1,10 +1,26 @@
 {
-  "lastUpdated": "2026-07-27T16:57:37Z",
+  "lastUpdated": "2026-07-27T19:26:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "How Wendy's is evolving its loyalty program",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaGpHX3ZMUDJMWDB3cGoyM3VrcDY5Ymxpd3lRZTcyU2lxbml6SmhwNWhPdG9jTGk4T1RobUloNEVnNGhFWUZLYUppdjUwQXJnVUdsbGwxUkkxQUFGZ0RKd2lqeGs3TFB5ZG9fMHRjdXVxbGc5b1hrN29MU1B4c2pFYmdYM2R2cnNNRVRublZtOA?oc=5",
+          "desc": "",
+          "title_ko": "Wendy 's가 로열티 프로그램을 발전시키는 방법",
+          "title_ja": "ウェンディーズがロイヤルティプログラムをどのように進化させているか",
+          "title_zh": "Wendy's如何发展其忠诚度计划"
+        },
+        {
+          "title": "Red Lobster unveils a restaurant refresh program",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTdGbGZFRUZiNVZBWU5jbVdndWQwcDdWWEVwUGZBTlRIYl9BZ282enRaTXRGeUVBb2U0aW8wcjVubWdWcUN3S1hVdEl0YmI0ZTlNWTZWSGl2enlaeGR6dXVob3lEYnJtUHphWXpyVy1jZTdMSkdKemhfSVdLWERlVjVmd0dwc3p6Y3VxSENtSndsdDIySlR4Rg?oc=5",
+          "desc": "",
+          "title_ko": "Red Lobster, 레스토랑 리프레시 프로그램 공개",
+          "title_ja": "レッドロブスターがレストランのリフレッシュプログラムを発表",
+          "title_zh": "Red Lobster推出餐厅茶点计划"
+        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -12,22 +28,6 @@
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
-        },
-        {
-          "title": "Order cancellations cost the typical restaurant up to 3% of digital sales, new data show",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa21GRUdKSG1LcjFDc29GU3UyVFVQbEM3TWJJZGRGc1ZHcnkySjhLdHJDNklIcEZoYURZRnUzUEp2VEhVb0tHT09DTm1qUXJFMG1kV3F1cjcteDNYTHpqNngtS1JWUWNENnphYVplZW43VVN3OUV0cjF1dzBGNVk1YzhEY0d3SDRqdkh6OEZOWDhqSnhtMmpvdVk5WWIxMUpjNERjaUhjVnJadEp4NFBMSjZkXzJ4NGs5WTVqcHJ3?oc=5",
-          "desc": "",
-          "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
-          "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
-          "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
-        },
-        {
-          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
-          "desc": "",
-          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
-          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
-          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
         }
       ]
     },
