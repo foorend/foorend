@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-07-27T06:35:13Z",
+  "lastUpdated": "2026-07-27T12:23:22Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
-          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
-        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
           "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
           "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
+        },
+        {
+          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
+          "desc": "",
+          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
+          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
+          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "농수산식품유통공사, 세계 최대 할랄시장 뚫은 K푸드…라면·인삼 앞세워 수출길 넓혀",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03ei1qS2ZTSXlnNUlDNTJtcGZNeHN3S000YUdmTmt0OUQwZUVTZVZhc2RtblVDSWFrNDM5aTJFSjl2OGUyUTFSSmcwdXNhblZHMGRmUGJFLVd0UQ?oc=5",
+          "desc": "",
+          "title_en": "Agriculture, Fisheries and Food Distribution Corporation, K-food pierced through the world's largest halal market… Expanding the export route in front of ramen and ginseng",
+          "title_ja": "農水食品流通公社、世界最大のハラール市場を貫くK - food…ラーメンと朝鮮人参の前で輸出ルートを拡大",
+          "title_zh": "农业，渔业和食品分销公司， K-food穿过世界上最大的清真市场......扩大拉面和人参前的出口路线"
+        },
+        {
           "title": "\"인도 국민 간식 됐다\"…롯데웰푸드, 초코파이 제4라인 가동",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoWUFtdkdUaHk3WUFORlNsNFF6M1pNcGE2c1JQZDNnWjdJdzFXaEc4YnNEZFVrT05QYzhad1BpZEVPMHUzUndsaUZxdDdqUVJ1ZG5wMnpVQnZGdw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "'Friendship' to eat in line… Shinsegae Foods took home",
           "title_ja": "並んで食べる「友情」…新世界フーズが持ち帰ってきた",
           "title_zh": "排队吃的「友谊」…… Shinsegae Foods带回家"
-        },
-        {
-          "title": "롯데웰푸드 인도 브랜드 '하브모어' 검색량 급증",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZUlLQ1NwUU82bmdvWXAtSkR5alRFaHBJcG04djJ4SF9jbkVVQVM5aEx1bERTVnZ1eUVpQk5fbV9vZ01SMTlVdVZKTURtNWVRU3ZrTHd4anJKZw?oc=5",
-          "desc": "",
-          "title_en": "Search for Lotte Well Food Indian brand 'Havmore' skyrocketed",
-          "title_ja": "ロッテウェルフードインディアンブランド「Havmore」の検索が急増",
-          "title_zh": "搜索乐天Well Food印度品牌“Havmore”飙升"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "胶原蛋白改善皮肤老化，我需要这种营养"
         },
         {
-          "title": "줄서서 먹는 신상 뷔페 ‘테이크’, 2호점은 잠실",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnQXM3b2gwVnhtQWQtOTJySDlZajQ3cHNLZ1VLWjB2T29KLW5UYlBRMlczXzB4Y1VFTHdIa3E2SlZUelBndWdPb21uZ0tlRW55SUVOTmJDRQ?oc=5",
+          "title": "경험한 후 소비한다, 스위스의 K-푸드 바람",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Gc0lMTzZfQi1WNFNKVy1wS09EU0p6VkRiNnQ0ZTJjTnpSUkwtcmduZ1FkZW9Idm5Qc2JmVUMzSE84cy1mWDhkOVpsZ082TE43dUlZeEo1bw?oc=5",
           "desc": "",
-          "title_en": "New buffet ‘take‘ in line, No. 2 is Jamsil",
-          "title_ja": "新しいビュッフェ「TAKE」IN LINE、No.2はジャムシル",
-          "title_zh": "全新自助餐“TAKE” IN LINE ， 2号是蚕室"
+          "title_en": "Consume after experience, K-food breeze in Switzerland",
+          "title_ja": "スイスでK - food breezeを体験した後に飲もう",
+          "title_zh": "体验后消费，瑞士的K-food breeze"
         }
       ]
     }
