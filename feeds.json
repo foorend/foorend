@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-07-26T21:59:12Z",
+  "lastUpdated": "2026-07-27T02:57:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Red Lobster unveils a restaurant refresh program",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTdGbGZFRUZiNVZBWU5jbVdndWQwcDdWWEVwUGZBTlRIYl9BZ282enRaTXRGeUVBb2U0aW8wcjVubWdWcUN3S1hVdEl0YmI0ZTlNWTZWSGl2enlaeGR6dXVob3lEYnJtUHphWXpyVy1jZTdMSkdKemhfSVdLWERlVjVmd0dwc3p6Y3VxSENtSndsdDIySlR4Rg?oc=5",
-          "desc": "",
-          "title_ko": "Red Lobster, 레스토랑 리프레시 프로그램 공개",
-          "title_ja": "レッドロブスターがレストランのリフレッシュプログラムを発表",
-          "title_zh": "Red Lobster推出餐厅茶点计划"
-        },
         {
           "title": "Restaurant Business Magazine - Trends, Ideas and News",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+        },
+        {
+          "title": "Order cancellations cost the typical restaurant up to 3% of digital sales, new data show",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa21GRUdKSG1LcjFDc29GU3UyVFVQbEM3TWJJZGRGc1ZHcnkySjhLdHJDNklIcEZoYURZRnUzUEp2VEhVb0tHT09DTm1qUXJFMG1kV3F1cjcteDNYTHpqNngtS1JWUWNENnphYVplZW43VVN3OUV0cjF1dzBGNVk1YzhEY0d3SDRqdkh6OEZOWDhqSnhtMmpvdVk5WWIxMUpjNERjaUhjVnJadEp4NFBMSjZkXzJ4NGs5WTVqcHJ3?oc=5",
+          "desc": "",
+          "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
+          "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
+          "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"인도 국민 간식 됐다\"…롯데웰푸드, 초코파이 제4라인 가동",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoWUFtdkdUaHk3WUFORlNsNFF6M1pNcGE2c1JQZDNnWjdJdzFXaEc4YnNEZFVrT05QYzhad1BpZEVPMHUzUndsaUZxdDdqUVJ1ZG5wMnpVQnZGdw?oc=5",
+          "desc": "",
+          "title_en": "“It's India's national snack” … Lotte Well Food Launches Choco Pie Line 4",
+          "title_ja": "「インドの国民的軽食」…ロッテウェルフードがチョコパイライン4を発売",
+          "title_zh": "“这是印度的国家小吃” …乐天健康食品推出Choco Pie Line 4"
+        },
+        {
+          "title": "줄 서서 먹는 맛집 '우정'…신세계푸드가 집으로 모셨다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2TEFITV9BSl9pc2pxQnJVc1RMV3R6bk15TllSLTRubTRwUHRNWGpGYWtXdUk4akZqZEZjc0hmZnN2NWo3TmFSaXdyWnVZMzdtbGw4M2c5cWQ0dw?oc=5",
+          "desc": "",
+          "title_en": "'Friendship' to eat in line… Shinsegae Foods took home",
+          "title_ja": "並んで食べる「友情」…新世界フーズが持ち帰ってきた",
+          "title_zh": "排队吃的「友谊」…… Shinsegae Foods带回家"
+        },
+        {
           "title": "\"2살부터 먹던 음식인데\"…보신탕 대목 맞은 식당 단골 반응 [현장+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lNXp5aDE5TGJhY0NBTWdDMF84bzBOVzJoVHU5cWZfdWdRb3pCc3NWZVdmSUZJUy1ZTW02dmVUeG5RMi1IcGpDQ3ZRWnh1WnI0ZTJTTXA2aHdfQQ?oc=5",
           "desc": "",
           "title_en": "\"It's a food that I've been eating since I was 2 years old\" … A regular reaction in a restaurant that was hit by Bosintang [On-site +]",
           "title_ja": "「2歳の頃から食べている食べ物です」…ボシンタンに襲われたレストランでの定期的な反応[オンサイト+]",
           "title_zh": "“这是我从2岁起就一直在吃的食物” ……在被Bosintang袭击的餐厅里，这是一种常见的反应[现场+]"
-        },
-        {
-          "title": "롯데웰푸드 인도 브랜드 '하브모어' 검색량 급증",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZUlLQ1NwUU82bmdvWXAtSkR5alRFaHBJcG04djJ4SF9jbkVVQVM5aEx1bERTVnZ1eUVpQk5fbV9vZ01SMTlVdVZKTURtNWVRU3ZrTHd4anJKZw?oc=5",
-          "desc": "",
-          "title_en": "Search for Lotte Well Food Indian brand 'Havmore' skyrocketed",
-          "title_ja": "ロッテウェルフードインディアンブランド「Havmore」の検索が急増",
-          "title_zh": "搜索乐天Well Food印度品牌“Havmore”飙升"
-        },
-        {
-          "title": "함연지도 배우 접고 오뚜기行…K푸드 '90년대생 오너' 등판 [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNTdhcDF2SmE3ckNHdkxpYzB6ZTdHRFZBbjdyVDcyelVDWjYxVmVaVjI3U3JoQW5BZ3hSeUQ3QXNpajI4NjhIQVczSm5pTk5EN3MyQW5rRHFNUQ?oc=5",
-          "desc": "",
-          "title_en": "Actor Ham Yeon-ji folds and Ottogi… K-Food '90s owner' plate [Kwon Yong-hoon's Trend Watch]",
-          "title_ja": "俳優ハム・ヨンジ折りたたみとおとぎ… K - Food「90年代オーナーズ」プレート【クォン・ヨンフンのトレンドウォッチ】",
-          "title_zh": "演员Ham Yeon-ji折叠和Ottogi…… K-Food '90年代老板'盘子[Kwon Yong-hoon's Trend Watch]"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "롯데웰푸드, 인도 초코파이 생산량 33% 확대…\"수요 증가 대응\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CcHlndGs4VmhqR1lFXzNsUjhOdnpHRG9OdWVPT29pSHlDZXFYUHlJNmNibUhxMzJoQ2N1RWMwS3NTd2FqRXdFa2VZNUFFNkhncmc?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Expands India's Chocolate Pie Production by 33% … “Responding to Increased Demand”",
+          "title_ja": "ロッテウェルフード、インドのチョコレートパイ生産を33 ％拡大…「需要の増加に対応」",
+          "title_zh": "乐天健康食品将印度巧克力馅饼产量扩大33% …… “应对不断增长的需求”"
+        },
+        {
           "title": "김치수출, K푸드 열풍에 美 늘고…현지 브랜드 힘 세진 日서 줄고",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qcHJiMFlsejVQNThiR0I1WFE3dk14WDctby1EcnhZd0RZeEZCOUZSNE5uNjBpV09Cd2VhdmdxUmdJNVFqZFE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "“You don't have to cut out your favorite foods such as pizza and alcohol” … Women in their 30s, ‘Surprised’ Secret",
           "title_ja": "「ピザやアルコールなどの好きな食べ物を切り取る必要はありません」… 30代の女性、「驚いた」秘密",
           "title_zh": "“你不必剪掉你最喜欢的食物，如披萨和酒精” …… 30多岁的女性， “惊喜”的秘密"
-        },
-        {
-          "title": "#야간및음식문화활성화축제 (1 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEVmeXAwZ3BOX3RLQUxnMGN6U3laSUdLVndLeFJ6SWlYVW9nRjlVM2xwYk1HQlNXVE95TDRFNUk3N19ZMTMwWmd3UGtLWElZeE00NmEzOXlNSkRfV0pXTTlUYWRVcFk0anFiQlZoazc4VkFCaWhzdG9RcWE0UFRUejBqUjBEUWk5c05XYmtBQWVrZExmRFV3TzlLaUhzS0JTbVRtanVWbUZvTDRQWHRBeXBFSWVLU2VtcnBvdW1CU0FBLUgxUzU4dUFvV2lKdjlPMHp2NTFn?oc=5",
-          "desc": "",
-          "title_en": "# Night and Food Culture Activation Festival (1 Posts)",
-          "title_ja": "#夜と食文化活性化フェスティバル（ 1投稿）",
-          "title_zh": "#夜间和美食文化激活节（ 1个帖子）"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "在应用程序中购买便宜4000韩元…… Sulving ，夏季菜单促销"
         },
         {
-          "title": "‘크런치 아박’에 더한 말차…투썸플레이스 신메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0cTJFbnh1VWxydC1kaHg4Y2dxSTNndW1vV182TlNJUWRIQ2tpNnZuNUtfc1k5eHFnY1FTMUYwcjF4eHBSdWpueVNoeUlESzhaN2NjZFpjbw?oc=5",
-          "desc": "",
-          "title_en": "Matcha in addition to ‘Crunchy Abak'... Twosome Place New Menu",
-          "title_ja": "「Crunchy Abak」に加えて抹茶… Twosome Place New Menu",
-          "title_zh": "除了「Crunchy Abak」外，还有抹茶…… Twosome Place新菜单"
-        },
-        {
           "title": "줄서서 먹는 신상 뷔페 ‘테이크’, 2호점은 잠실",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnQXM3b2gwVnhtQWQtOTJySDlZajQ3cHNLZ1VLWjB2T29KLW5UYlBRMlczXzB4Y1VFTHdIa3E2SlZUelBndWdPb21uZ0tlRW55SUVOTmJDRQ?oc=5",
           "desc": "",
           "title_en": "New buffet ‘take‘ in line, No. 2 is Jamsil",
           "title_ja": "新しいビュッフェ「TAKE」IN LINE、No.2はジャムシル",
           "title_zh": "全新自助餐“TAKE” IN LINE ， 2号是蚕室"
+        },
+        {
+          "title": "‘K-국밥’은 이렇게 태어났다…한식진흥원 상설전 가보니",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51Rld1Ums1VFNod191ZkR1VGNrcjByUmhEYjhfTGNVTEFmTDNDNnRRNTQ0VXhNOEVORXAwMmE2eWZoTTgwZGlNa0F0THdhNFRldW1FTW9EMA?oc=5",
+          "desc": "",
+          "title_en": "This is how ‘K-Kookbap’ was born… When I went to the permanent exhibition of the Korean Food Promotion Institute,",
+          "title_ja": "こうして「K - Kookbap」は誕生しました…韓国食品振興会の常設展に行ったとき、",
+          "title_zh": "“K-Kookbap”就这样诞生了……当我去韩国食品推广协会的常设展览时，"
         }
       ]
     }
