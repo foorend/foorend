@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T19:24:10Z",
+  "lastUpdated": "2026-07-28T22:03:53Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Wendy's如何发展其忠诚度计划"
         },
         {
-          "title": "Red Lobster unveils a restaurant refresh program",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTdGbGZFRUZiNVZBWU5jbVdndWQwcDdWWEVwUGZBTlRIYl9BZ282enRaTXRGeUVBb2U0aW8wcjVubWdWcUN3S1hVdEl0YmI0ZTlNWTZWSGl2enlaeGR6dXVob3lEYnJtUHphWXpyVy1jZTdMSkdKemhfSVdLWERlVjVmd0dwc3p6Y3VxSENtSndsdDIySlR4Rg?oc=5",
-          "desc": "",
-          "title_ko": "Red Lobster, 레스토랑 리프레시 프로그램 공개",
-          "title_ja": "レッドロブスターがレストランのリフレッシュプログラムを発表",
-          "title_zh": "Red Lobster推出餐厅茶点计划"
-        },
-        {
           "title": "Japan-based multiconcept group acquires Hazelwood Food and Drink in Minnesota",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjAzVGVqenhVTThfMHRxMVpqU0R5VmtweG9BNXJ4ZnVtLWJ6akpMalNyQnNnTGpHekZSby1xajFMbWV0WW5aenJnWFk2VnExc1NOcTRDTWFoZEdJM09aMG1ka2RrRThvblJhTmpVTm9Udi1vcS0zRnZhaHF2UFdUWHY3SFhBejlxTExYZFNhR09VNkF1XzR1OTVBZEJuMGxuWWpEMDBoWHIxQm5jSDJ1ZGFURDFrLUJ2aGNRaFFmU0w?oc=5",
           "desc": "",
           "title_ko": "일본에 본사를 둔 멀티컨셉 그룹, 미네소타의 헤이즐우드 식음료 인수",
           "title_ja": "日本を拠点とするマルチコンセプトグループがミネソタ州のHazelwood Food and Drinkを買収",
           "title_zh": "总部位于日本的多概念集团收购明尼苏达州的Hazelwood Food and Drink"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -167,7 +167,7 @@
         },
         {
           "title": "한끼 음식에 깃든 조상의 삶…국중박 ‘우리들의 밥상’ 연계 강연회",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1abXI0dXk2bjhqMVFxZDBQT29jWVhvZVhydE5PcVUyMnhWaldNNmVzSzBvUmtIYzN0MHYzXzctTGV3NXpJZ3UtRC12Zm1hcWhvWE1R0gFTQVVfeXFMTVptcjR1eTZuOGoxUXFkMFBPb2NZWG9lWHJ0Tk9xVTIyeFZqV002ZXNLMG9Sa0hjM3QwdjNfNy1MZXc1eklndS1ELXZmbWFxaG9YTVE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GV3NIT3dCRkxUeWFtM1Npc2VmSUU1d253YUQ4eHJyUUxqa3VxLW5HdnRmRXJReHdLdmNZNWF0TTlSMmVBdHZrbWxjRGo2cTliV0HSAVNBVV95cUxNWm1yNHV5Nm44ajFRcWQwUE9vY1lYb2VYcnROT3FVMjJ4VmpXTTZlc0swb1JrSGMzdDB2M183LUxldzV6SWd1LUQtdmZtYXFob1hNUQ?oc=5",
           "desc": "",
           "title_en": "The life of an ancestor in a meal… Gukjung Park's ‘Our Food’ Lecture",
           "title_ja": "食事の中の先祖の生涯… Gukjung Parkの「私たちの食べ物」レクチャー",
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "앱에서 사면 4000원 싸다…설빙, 여름 메뉴 프로모션",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fNXpJYjhLT3pfMXU2NHZTamVaV3ZkTzdub2dtN01fMmpMXzBDejNxdUt1YmJnajFKS2dmZTFLNTNjb0hDYTFUZm9SM3E5b0RJTTJpOFM5QQ?oc=5",
+          "desc": "",
+          "title_en": "Buying in the app is 4000 won cheap… Sulving, Summer Menu Promotion",
+          "title_ja": "アプリで購入すると4,000ウォン安くなります… Sulving、サマーメニューのプロモーション",
+          "title_zh": "在应用程序中购买便宜4000韩元…… Sulving ，夏季菜单促销"
+        },
+        {
           "title": "“여기에 더 많아요”…잘못 알았던 식품 영양소",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWG9vY1hoSFlacDBCNFV6dlZ1MXhYWmRnSFRuZnRNUEw3OV9WdzV6VlZfcktWenNGWFpBZ0h4Sm9RbEpGS2diOEs2UEE1cGZWcUMyOTFHYw?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "Collagen improves skin aging, I need this nutrient",
           "title_ja": "コラーゲンは肌の老化を改善します、私はこの栄養素が必要です",
           "title_zh": "胶原蛋白改善皮肤老化，我需要这种营养"
-        },
-        {
-          "title": "경험한 후 소비한다, 스위스의 K-푸드 바람",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Gc0lMTzZfQi1WNFNKVy1wS09EU0p6VkRiNnQ0ZTJjTnpSUkwtcmduZ1FkZW9Idm5Qc2JmVUMzSE84cy1mWDhkOVpsZ082TE43dUlZeEo1bw?oc=5",
-          "desc": "",
-          "title_en": "Consume after experience, K-food breeze in Switzerland",
-          "title_ja": "スイスでK - food breezeを体験した後に飲もう",
-          "title_zh": "体验后消费，瑞士的K-food breeze"
         }
       ]
     }
