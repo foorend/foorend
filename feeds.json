@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T05:46:18Z",
+  "lastUpdated": "2026-07-28T08:33:56Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,14 +36,6 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "The Real Story of the Huge Chunk of Cheese That Sat in the White House for a Year",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGNOQ3dTRFBuTFdZMi1TY3ViM3ZZYnFLNFpvVEJpbWwyRjk5NGF5N2g1eXk1bVpfRWhMazJrSmE5N3Y5cXBDdVk1T1dMUm5LaVFrbmpBVG1fTnhCUERWQ3Z4YVB0TURhX2FSRjYwME5zLWF3ZVNuUjlxdmVWYldpcnNzSFgyeVJkTWc?oc=5",
-          "desc": "",
-          "title_ko": "1년 동안 백악관에 머물렀던 거대한 치즈 덩어리의 진짜 이야기",
-          "title_ja": "ホワイトハウスに1年間置かれた巨大なチーズの実話",
-          "title_zh": "在白宫坐了一年的大块奶酪的真实故事"
-        },
-        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -58,6 +50,14 @@
           "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
           "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
           "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
+          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "앱에서 사면 4000원 싸다…설빙, 여름 메뉴 프로모션",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fNXpJYjhLT3pfMXU2NHZTamVaV3ZkTzdub2dtN01fMmpMXzBDejNxdUt1YmJnajFKS2dmZTFLNTNjb0hDYTFUZm9SM3E5b0RJTTJpOFM5QQ?oc=5",
-          "desc": "",
-          "title_en": "Buying in the app is 4000 won cheap… Sulving, Summer Menu Promotion",
-          "title_ja": "アプリで購入すると4,000ウォン安くなります… Sulving、サマーメニューのプロモーション",
-          "title_zh": "在应用程序中购买便宜4000韩元…… Sulving ，夏季菜单促销"
-        },
-        {
           "title": "“여기에 더 많아요”…잘못 알았던 식품 영양소",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWG9vY1hoSFlacDBCNFV6dlZ1MXhYWmRnSFRuZnRNUEw3OV9WdzV6VlZfcktWenNGWFpBZ0h4Sm9RbEpGS2diOEs2UEE1cGZWcUMyOTFHYw?oc=5",
           "desc": "",
@@ -234,12 +226,20 @@
           "title_zh": "“这里还有更多” ……我误解的食物营养素"
         },
         {
-          "title": "콜라겐의 피부 노화 개선, 이 영양소가 필요해요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdFBGQ0NjWUQ1VFFvRkt6MmcxNDB6YTRCNDV1dUtkM3NYVUhZSjRfTkgyelBVOWVxSzRGeGJjNlVqa0VfdmNUV19EN2VqODhrdmdsWm5Tbw?oc=5",
+          "title": "여름엔 트로피컬 맛…배스킨라빈스, 이달의 신메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44X3Z5NEZ2NER4UUc1OWJvVWR6b05OSHE0M09uQjBoN3hDZjd2ZzFreG9lMVRpOThfZFlGZFpMcmwzbDlBTk1SQmlSRFRidjlIeC13cU4wQQ?oc=5",
           "desc": "",
-          "title_en": "Collagen improves skin aging, I need this nutrient",
-          "title_ja": "コラーゲンは肌の老化を改善します、私はこの栄養素が必要です",
-          "title_zh": "胶原蛋白改善皮肤老化，我需要这种营养"
+          "title_en": "Tropical flavors in summer… Baskin Robbins, new menu of the month",
+          "title_ja": "夏のトロピカルフレーバー…バスキン・ロビンス、今月の新メニュー",
+          "title_zh": "夏季热带风味…… Baskin Robbins ，本月新菜单"
+        },
+        {
+          "title": "미국 이어 태국…설빙, 해외 가맹사업 본격화",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HYm5NV3ZfWER5ZmlLQko0RlZoR2RQZ0Fxbm9wNFFlSXFFSmFiU3VfclR5V0xRQmZBX1Nvb1BnY0VUdVNLVGlmUjJoeHM2ODdYOUFvaTd4aw?oc=5",
+          "desc": "",
+          "title_en": "After the United States, Thailand... Full-fledged snowing, overseas affiliates",
+          "title_ja": "米国、タイに次ぐ…本格的な降雪、海外関連会社",
+          "title_zh": "继美国、泰国之后……全面下雪，海外子公司"
         }
       ]
     }
