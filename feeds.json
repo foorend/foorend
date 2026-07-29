@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T16:21:18Z",
+  "lastUpdated": "2026-07-29T19:16:09Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "앱에서 사면 4000원 싸다…설빙, 여름 메뉴 프로모션",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fNXpJYjhLT3pfMXU2NHZTamVaV3ZkTzdub2dtN01fMmpMXzBDejNxdUt1YmJnajFKS2dmZTFLNTNjb0hDYTFUZm9SM3E5b0RJTTJpOFM5QQ?oc=5",
-          "desc": "",
-          "title_en": "Buying in the app is 4000 won cheap… Sulving, Summer Menu Promotion",
-          "title_ja": "アプリで購入すると4,000ウォン安くなります… Sulving、サマーメニューのプロモーション",
-          "title_zh": "在应用程序中购买便宜4000韩元…… Sulving ，夏季菜单促销"
-        },
-        {
           "title": "“여기에 더 많아요”…잘못 알았던 식품 영양소",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWG9vY1hoSFlacDBCNFV6dlZ1MXhYWmRnSFRuZnRNUEw3OV9WdzV6VlZfcktWenNGWFpBZ0h4Sm9RbEpGS2diOEs2UEE1cGZWcUMyOTFHYw?oc=5",
           "desc": "",
@@ -234,12 +226,20 @@
           "title_zh": "“这里还有更多” ……我误解的食物营养素"
         },
         {
-          "title": "콜라겐의 피부 노화 개선, 이 영양소가 필요해요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdFBGQ0NjWUQ1VFFvRkt6MmcxNDB6YTRCNDV1dUtkM3NYVUhZSjRfTkgyelBVOWVxSzRGeGJjNlVqa0VfdmNUV19EN2VqODhrdmdsWm5Tbw?oc=5",
+          "title": "경험한 후 소비한다, 스위스의 K-푸드 바람",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Gc0lMTzZfQi1WNFNKVy1wS09EU0p6VkRiNnQ0ZTJjTnpSUkwtcmduZ1FkZW9Idm5Qc2JmVUMzSE84cy1mWDhkOVpsZ082TE43dUlZeEo1bw?oc=5",
           "desc": "",
-          "title_en": "Collagen improves skin aging, I need this nutrient",
-          "title_ja": "コラーゲンは肌の老化を改善します、私はこの栄養素が必要です",
-          "title_zh": "胶原蛋白改善皮肤老化，我需要这种营养"
+          "title_en": "Consume after experience, K-food breeze in Switzerland",
+          "title_ja": "スイスでK - food breezeを体験した後に飲もう",
+          "title_zh": "体验后消费，瑞士的K-food breeze"
+        },
+        {
+          "title": "여름엔 트로피컬 맛…배스킨라빈스, 이달의 신메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44X3Z5NEZ2NER4UUc1OWJvVWR6b05OSHE0M09uQjBoN3hDZjd2ZzFreG9lMVRpOThfZFlGZFpMcmwzbDlBTk1SQmlSRFRidjlIeC13cU4wQQ?oc=5",
+          "desc": "",
+          "title_en": "Tropical flavors in summer… Baskin Robbins, new menu of the month",
+          "title_ja": "夏のトロピカルフレーバー…バスキン・ロビンス、今月の新メニュー",
+          "title_zh": "夏季热带风味…… Baskin Robbins ，本月新菜单"
         }
       ]
     }
