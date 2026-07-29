@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T05:52:15Z",
+  "lastUpdated": "2026-07-29T08:40:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "‘노브랜드X복순도가’ 협업, 막걸리와 페어링 푸드 6종 출시",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11LVMzNFZyZTc4ckJ4RktaMEVNNHJLd3FKOTBaMzRDMUpUdkpCT25IYVNlQ0JneGE5Tk43ZWFWQjNRX1FRXzYxWUdZZk0xcDdVdHN2eW15T0xhQQ?oc=5",
+          "desc": "",
+          "title_en": "‘No Brand X Complexity’ Collaboration Launches 6 Pairing Foods with Makgeolli",
+          "title_ja": "「No Brand X Complexity」コラボレーション、Makgeolliとの6つのペアリング食品を発表",
+          "title_zh": "“No Brand X Complexity”合作推出6款与Makgeolli搭配的食品"
+        },
+        {
           "title": "농수산식품유통공사, 세계 최대 할랄시장 뚫은 K푸드…라면·인삼 앞세워 수출길 넓혀",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03ei1qS2ZTSXlnNUlDNTJtcGZNeHN3S000YUdmTmt0OUQwZUVTZVZhc2RtblVDSWFrNDM5aTJFSjl2OGUyUTFSSmcwdXNhblZHMGRmUGJFLVd0UQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "“It's India's national snack” … Lotte Well Food Launches Choco Pie Line 4",
           "title_ja": "「インドの国民的軽食」…ロッテウェルフードがチョコパイライン4を発売",
           "title_zh": "“这是印度的国家小吃” …乐天健康食品推出Choco Pie Line 4"
-        },
-        {
-          "title": "줄 서서 먹는 맛집 '우정'…신세계푸드가 집으로 모셨다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2TEFITV9BSl9pc2pxQnJVc1RMV3R6bk15TllSLTRubTRwUHRNWGpGYWtXdUk4akZqZEZjc0hmZnN2NWo3TmFSaXdyWnVZMzdtbGw4M2c5cWQ0dw?oc=5",
-          "desc": "",
-          "title_en": "'Friendship' to eat in line… Shinsegae Foods took home",
-          "title_ja": "並んで食べる「友情」…新世界フーズが持ち帰ってきた",
-          "title_zh": "排队吃的「友谊」…… Shinsegae Foods带回家"
         }
       ]
     },
