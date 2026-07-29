@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T11:25:54Z",
+  "lastUpdated": "2026-07-29T14:10:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "[단독] ‘K푸드 놀부·화미 마스터즈’ 취소…KLPGA 올해 30개 대회로 줄어",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XU0Vsb1FtYXZSSVM4NHA3RVIxal91c3NJZUFPSVVKVTV3LWQ0QXpZSVFWcnpZUjdnOGF3Y1l6bVZZUjBlYzl5Y2x0WVZCNE1GbHfSAVNBVV95cUxNTUVmNkNUSEV3elN1aW02Rll5ZGM5VWhxVGdiTVU5S2VnX3hRVmZRamV2R1dUMndHeEZXdExmODl4Y2QwaTZtUzJOZ3lMQ3JJSm9oRQ?oc=5",
+          "desc": "",
+          "title_en": "[Exclusive] ‘K-Food Nolbu · Hwami Masters' canceled... KLPGA has been reduced to 30 competitions this year",
+          "title_ja": "【限定】「K - Food Nolbu・Hwami Masters」中止…今年はKLPGAが30大会に縮小",
+          "title_zh": "【专属】《K-Food Nolbu · Hwami Masters》取消…… KLPGA今年已减至30场"
+        },
+        {
           "title": "한끼 음식에 깃든 조상의 삶…국중박 ‘우리들의 밥상’ 연계 강연회",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GV3NIT3dCRkxUeWFtM1Npc2VmSUU1d253YUQ4eHJyUUxqa3VxLW5HdnRmRXJReHdLdmNZNWF0TTlSMmVBdHZrbWxjRGo2cTliV0HSAVNBVV95cUxNWm1yNHV5Nm44ajFRcWQwUE9vY1lYb2VYcnROT3FVMjJ4VmpXTTZlc0swb1JrSGMzdDB2M183LUxldzV6SWd1LUQtdmZtYXFob1hNUQ?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "National Snack Chocolate Pie… Lotte Well Food Expands Production Capacity by 33%",
           "title_ja": "全国スナックチョコレートパイ…ロッテウェルフード、生産能力を33%拡大",
           "title_zh": "全国小吃巧克力派…乐天健康食品产能提升33%"
-        },
-        {
-          "title": "CJ씨푸드1우, 상한가 진입.. +29.83% ↑",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LQnkxdWhfUjN2QTNOWDVKbGhvT0FMUHJMTjg3VEVpTU1qM05VX1dqSVBZS2pMb0ZWZnlmMlRESXZDVWRrdEkzRGd3NjBKRmRJSlFj?oc=5",
-          "desc": "",
-          "title_en": "CJ Seafood 1W, enter upper price.. +29.83% ↑",
-          "title_ja": "CJシーフード1 W、高値を入力.. +29.83% ↑",
-          "title_zh": "CJ Seafood 1W ，进入高价.. +29.83% ↑"
         }
       ]
     },
@@ -197,7 +197,7 @@
         },
         {
           "title": "B2B 식자재 플랫폼 ‘푸드팡’ 2분기 흑자 전환",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqMFhuNWllbG9wRWZCWHFNVWhtMU5QcFQ4S2hYN2tDLTNHUWVEZ0JGbTdRRmNPNDNEb1Z1UDdkZW9UNkxaNlE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5URU9uemZvMXZfYkxDOEJZTzRrY3FjU1I2OFhUR3J2NUpCalE3dHFWMVNvZVM0OXpINEJNQ2YyOE1KczRCYWd0QjQ2N3NDdnQzR2NGeA?oc=5",
           "desc": "",
           "title_en": "Conversion from surplus in Q2 to B2B grocery platform ‘Food Fang'",
           "title_ja": "第2四半期の余剰からB 2 B食料品プラットフォーム「Food Fang」への変換",
