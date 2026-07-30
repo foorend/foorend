@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T22:01:13Z",
+  "lastUpdated": "2026-07-30T02:26:14Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "I work at a food bank. We're getting more produce because of the cyclospora outbreak.",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDVZZ0hGeVoxWENmeVFDaXB1WTU1amVkOW1PS3FFN2dRcjBFV2IyemZmX0pyaV9UeVpNMVMxQVZWVXNKczBib3psVUtsSnlEa0JJZHRqZkNUTk1RRVRSc3RmZVpSelZ3S1pBSUV6dXFoZ0dxcENPMDFnZU1YNUl3RDNqbXJ0cXVQNjNQd3JZS3BRTWt3a24wZTRVTnpCTGs?oc=5",
-          "desc": "",
-          "title_ko": "저는 푸드뱅크에서 일합니다. 사이클로스포라 발생으로 인해 더 많은 농산물이 생산되고 있습니다.",
-          "title_ja": "私はフードバンクで働いています。サイクロスポラの発生により、より多くの農産物が生産されています。",
-          "title_zh": "我在一家食品银行工作。由于环孢子虫的爆发，我们正在获得更多的农产品。"
-        },
-        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
         }
       ]
     },
@@ -101,23 +101,23 @@
           "desc": "On Saturday, on the eve of the world soccer finals, Eater hosted a lively celebration of food and sports in New York City, bringing thousands of atten",
           "title_ko": "Eater World's Fare는 음식과 축구의 세계적인 축하 행사였습니다.",
           "title_ja": "注文者の世界の料金は、フードとサッカーの世界的なお祝いでした",
-          "title_zh": "顾客世界的票价是全球食品和足球的庆祝活动"
+          "title_zh": "Eater World’s Fare Was a Global Celebration of Food and Soccer"
         },
         {
           "title": "Steal My Food Itinerary: 3 Days in London",
           "link": "https://www.eater.com/dining-out/975009/restaurant-recommendations-london-steal-my-3-day-itinerary",
           "desc": "British food has long been unfairly maligned as being brown, bread-y, and boring. But stateside, we’ve seen a major shift in attitudes toward British ",
-          "title_ko": "내 음식 훔치기 여행 일정: 런던 3일",
-          "title_ja": "食事の旅程を盗もう：ロンドン3日間",
-          "title_zh": "偷走我的美食行程：伦敦3日游"
+          "title_ko": "Steal My Food Itinerary: 3 Days in London",
+          "title_ja": "Steal My Food Itinerary: 3 Days in London",
+          "title_zh": "Steal My Food Itinerary: 3 Days in London"
         },
         {
           "title": "In the Age of AI, the Analog Restaurant Feels Radical",
           "link": "https://www.eater.com/trends/975087/restaurants-lean-into-bespoke-handmade-elements-during-ai-flyer-backlash",
           "desc": "What spoke to me the most about the Instagram announcement for the new Manhattan restaurant Somssi was the fact that it was done in such an unexpected",
-          "title_ko": "AI 시대에 아날로그 레스토랑은 급진적이라고 느낍니다.",
-          "title_ja": "AIの時代に、アナログレストランは急進的に感じる",
-          "title_zh": "在人工智能时代，模拟餐厅感觉激进"
+          "title_ko": "In the Age of AI, the Analog Restaurant Feels Radical",
+          "title_ja": "In the Age of AI, the Analog Restaurant Feels Radical",
+          "title_zh": "In the Age of AI, the Analog Restaurant Feels Radical"
         }
       ]
     }
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드, ‘경산 샤인머스캣’·‘영천 산타로사 자두’ 사전 예약 판매 개시",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GVlhiNk9BX2tCc3hjUHRVQ1Vfc2p4c0Qtd3lPMjBaUUZGTEhYXy1jVUdxakVpNFNTZWJOdkFFbHNidFhkQkllVWtwcThwdUJmYllPaWVKVEFzZw?oc=5",
+          "desc": "",
+          "title_en": "현대그린푸드, ‘경산 샤인머스캣’·‘영천 산타로사 자두’ 사전 예약 판매 개시",
+          "title_ja": "현대그린푸드, ‘경산 샤인머스캣’·‘영천 산타로사 자두’ 사전 예약 판매 개시",
+          "title_zh": "현대그린푸드, ‘경산 샤인머스캣’·‘영천 산타로사 자두’ 사전 예약 판매 개시"
+        },
+        {
           "title": "‘노브랜드X복순도가’ 협업, 막걸리와 페어링 푸드 6종 출시",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11LVMzNFZyZTc4ckJ4RktaMEVNNHJLd3FKOTBaMzRDMUpUdkpCT25IYVNlQ0JneGE5Tk43ZWFWQjNRX1FRXzYxWUdZZk0xcDdVdHN2eW15T0xhQQ?oc=5",
           "desc": "",
-          "title_en": "‘No Brand X Complexity’ Collaboration Launches 6 Pairing Foods with Makgeolli",
-          "title_ja": "「No Brand X Complexity」コラボレーション、Makgeolliとの6つのペアリング食品を発表",
-          "title_zh": "“No Brand X Complexity”合作推出6款与Makgeolli搭配的食品"
+          "title_en": "‘노브랜드X복순도가’ 협업, 막걸리와 페어링 푸드 6종 출시",
+          "title_ja": "‘노브랜드X복순도가’ 협업, 막걸리와 페어링 푸드 6종 출시",
+          "title_zh": "‘노브랜드X복순도가’ 협업, 막걸리와 페어링 푸드 6종 출시"
         },
         {
           "title": "\"살 빼려고 물 마셨는데\"…오히려 식사량만 늘리는 이 습관",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VcXZGRDB1d01NWXV5eHVBMmRqT05GM0cxLXJmSkFEZ1Z1eGRuWHlZemFSdTRLUWtpUG9WbTZ2aUJLZnZ3WmFaRm9wbU1sVmRPYzNPdndueG5RUQ?oc=5",
           "desc": "",
-          "title_en": "“I drank water to lose weight” … Rather, this habit of only increasing the amount of food",
-          "title_ja": "「体重を減らすために水を飲んだ」…むしろ、食べ物の量を増やすだけの習慣",
-          "title_zh": "“我喝水是为了减肥” ……相反，这种只增加食物量的习惯"
-        },
-        {
-          "title": "'하루 1200개 팔렸다'…외국인들 인천공항서 싹쓸이한 상품",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LbjA0QWxFeXVqbW5zNXpHMEZLVlY0RkFEN2xoUVZIZVV2cTY0aFpMMkNLS0dnNWxHOGJtQUdCTzRNczNuMU5uOEs2aUdoOFVPYXI1NFhabjNoZw?oc=5",
-          "desc": "",
-          "title_en": "'1,200 units sold per day' … Foreigners swept up the goods at Incheon Airport",
-          "title_ja": "「1日1,200台販売」…仁川空港で外国人が商品を一掃",
-          "title_zh": "「每天售出1,200台」……外国人在仁川机场扫荡货物"
+          "title_en": "\"살 빼려고 물 마셨는데\"…오히려 식사량만 늘리는 이 습관",
+          "title_ja": "\"살 빼려고 물 마셨는데\"…오히려 식사량만 늘리는 이 습관",
+          "title_zh": "\"살 빼려고 물 마셨는데\"…오히려 식사량만 늘리는 이 습관"
         }
       ]
     },
@@ -161,25 +161,25 @@
           "title": "[단독] ‘K푸드 놀부·화미 마스터즈’ 취소…KLPGA 올해 30개 대회로 줄어",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XU0Vsb1FtYXZSSVM4NHA3RVIxal91c3NJZUFPSVVKVTV3LWQ0QXpZSVFWcnpZUjdnOGF3Y1l6bVZZUjBlYzl5Y2x0WVZCNE1GbHfSAVNBVV95cUxNTUVmNkNUSEV3elN1aW02Rll5ZGM5VWhxVGdiTVU5S2VnX3hRVmZRamV2R1dUMndHeEZXdExmODl4Y2QwaTZtUzJOZ3lMQ3JJSm9oRQ?oc=5",
           "desc": "",
-          "title_en": "[Exclusive] ‘K-Food Nolbu · Hwami Masters' canceled... KLPGA has been reduced to 30 competitions this year",
-          "title_ja": "【限定】「K - Food Nolbu・Hwami Masters」中止…今年はKLPGAが30大会に縮小",
-          "title_zh": "【专属】《K-Food Nolbu · Hwami Masters》取消…… KLPGA今年已减至30场"
+          "title_en": "[단독] ‘K푸드 놀부·화미 마스터즈’ 취소…KLPGA 올해 30개 대회로 줄어",
+          "title_ja": "[단독] ‘K푸드 놀부·화미 마스터즈’ 취소…KLPGA 올해 30개 대회로 줄어",
+          "title_zh": "[단독] ‘K푸드 놀부·화미 마스터즈’ 취소…KLPGA 올해 30개 대회로 줄어"
         },
         {
           "title": "한끼 음식에 깃든 조상의 삶…국중박 ‘우리들의 밥상’ 연계 강연회",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GV3NIT3dCRkxUeWFtM1Npc2VmSUU1d253YUQ4eHJyUUxqa3VxLW5HdnRmRXJReHdLdmNZNWF0TTlSMmVBdHZrbWxjRGo2cTliV0HSAVNBVV95cUxNWm1yNHV5Nm44ajFRcWQwUE9vY1lYb2VYcnROT3FVMjJ4VmpXTTZlc0swb1JrSGMzdDB2M183LUxldzV6SWd1LUQtdmZtYXFob1hNUQ?oc=5",
           "desc": "",
-          "title_en": "The life of an ancestor in a meal… Gukjung Park's ‘Our Food’ Lecture",
-          "title_ja": "食事の中の先祖の生涯… Gukjung Parkの「私たちの食べ物」レクチャー",
-          "title_zh": "祖先吃饭的生活…… Gukjung Park的“我们的食物”讲座"
+          "title_en": "한끼 음식에 깃든 조상의 삶…국중박 ‘우리들의 밥상’ 연계 강연회",
+          "title_ja": "한끼 음식에 깃든 조상의 삶…국중박 ‘우리들의 밥상’ 연계 강연회",
+          "title_zh": "한끼 음식에 깃든 조상의 삶…국중박 ‘우리들의 밥상’ 연계 강연회"
         },
         {
           "title": "印 국민간식 된 초코파이…롯데웰푸드, 생산능력 33% 확대",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGWHlRdXFBV0V5bkpBcnZfRkJkYWsxSWltTGw4S0Y0ODZEdVFMbnNpejFaUnJwNU1XaDg0Zmp4amRtWnRTRkktUW5ueExTR3hZR3fSAVNBVV95cUxNU2czSGdiRUxGVWJUWFYxekFrc0NYMTAyajNPel9jNEFlQllVZEF5aFNFV3U1SVppTHRVaERWTUhOQ0JNbFd0NFBWSWE0NDBUeDFzOA?oc=5",
           "desc": "",
-          "title_en": "National Snack Chocolate Pie… Lotte Well Food Expands Production Capacity by 33%",
-          "title_ja": "全国スナックチョコレートパイ…ロッテウェルフード、生産能力を33%拡大",
-          "title_zh": "全国小吃巧克力派…乐天健康食品产能提升33%"
+          "title_en": "印 국민간식 된 초코파이…롯데웰푸드, 생산능력 33% 확대",
+          "title_ja": "印 국민간식 된 초코파이…롯데웰푸드, 생산능력 33% 확대",
+          "title_zh": "印 국민간식 된 초코파이…롯데웰푸드, 생산능력 33% 확대"
         }
       ]
     },
@@ -191,25 +191,25 @@
           "title": "이마트 노브랜드, 복순도가와 협업…막걸리·푸드 6종 출시",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wQkhFY1FxMkt1dmpPaDUyUnV4bG5WQkEyWmJSalJheFhwamgxbVRVdWdmZkxILVJKRnNDSWJOcERvVmo0NS1fcnpHWnFoQmNzbVE?oc=5",
           "desc": "",
-          "title_en": "Emart Novelty Brands Collaborate with Boxundo… Makgeolli · 6 Foods Launched",
-          "title_ja": "エマートノベルティブランドがBoxundoとコラボ… Makgeolli・6食発売",
-          "title_zh": "Emart Novelty Brands与Boxundo合作… Makgeolli ·推出6款食品"
+          "title_en": "이마트 노브랜드, 복순도가와 협업…막걸리·푸드 6종 출시",
+          "title_ja": "이마트 노브랜드, 복순도가와 협업…막걸리·푸드 6종 출시",
+          "title_zh": "이마트 노브랜드, 복순도가와 협업…막걸리·푸드 6종 출시"
         },
         {
           "title": "B2B 식자재 플랫폼 ‘푸드팡’ 2분기 흑자 전환",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5URU9uemZvMXZfYkxDOEJZTzRrY3FjU1I2OFhUR3J2NUpCalE3dHFWMVNvZVM0OXpINEJNQ2YyOE1KczRCYWd0QjQ2N3NDdnQzR2NGeA?oc=5",
           "desc": "",
-          "title_en": "Conversion from surplus in Q2 to B2B grocery platform ‘Food Fang'",
-          "title_ja": "第2四半期の余剰からB 2 B食料品プラットフォーム「Food Fang」への変換",
-          "title_zh": "从第二季度的盈余转换为B2B杂货平台“Food Fang”"
+          "title_en": "B2B 식자재 플랫폼 ‘푸드팡’ 2분기 흑자 전환",
+          "title_ja": "B2B 식자재 플랫폼 ‘푸드팡’ 2분기 흑자 전환",
+          "title_zh": "B2B 식자재 플랫폼 ‘푸드팡’ 2분기 흑자 전환"
         },
         {
           "title": "문희준, 아이브 장원영 다이어트 도전 “상한 음식 먹는 것 같아” (동상이몽)",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnMWpPS05xTTM0QllOSGtFcUVJSXpfWWRyaFVENU1nd0tva3RiVHF2eE9BTGdPQ2VwZC11cTRNVFpUVUdpUWc?oc=5",
           "desc": "",
-          "title_en": "Moon Hee-joon, Ive Jang Won-young Diet Challenge “I feel like eating spoiled food” (Frostbite)",
-          "title_ja": "ムン・ヒジュン、アイヴ・ジャン・ウォンヨンダイエットチャレンジ「腐った食べ物を食べたい気分」（凍傷）",
-          "title_zh": "Moon Hee-joon, Ive Jang Won-young饮食挑战“我想吃变质的食物” （冻伤）"
+          "title_en": "문희준, 아이브 장원영 다이어트 도전 “상한 음식 먹는 것 같아” (동상이몽)",
+          "title_ja": "문희준, 아이브 장원영 다이어트 도전 “상한 음식 먹는 것 같아” (동상이몽)",
+          "title_zh": "문희준, 아이브 장원영 다이어트 도전 “상한 음식 먹는 것 같아” (동상이몽)"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "앱에서 사면 4000원 싸다…설빙, 여름 메뉴 프로모션",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fNXpJYjhLT3pfMXU2NHZTamVaV3ZkTzdub2dtN01fMmpMXzBDejNxdUt1YmJnajFKS2dmZTFLNTNjb0hDYTFUZm9SM3E5b0RJTTJpOFM5QQ?oc=5",
+          "desc": "",
+          "title_en": "앱에서 사면 4000원 싸다…설빙, 여름 메뉴 프로모션",
+          "title_ja": "앱에서 사면 4000원 싸다…설빙, 여름 메뉴 프로모션",
+          "title_zh": "앱에서 사면 4000원 싸다…설빙, 여름 메뉴 프로모션"
+        },
+        {
           "title": "“여기에 더 많아요”…잘못 알았던 식품 영양소",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWG9vY1hoSFlacDBCNFV6dlZ1MXhYWmRnSFRuZnRNUEw3OV9WdzV6VlZfcktWenNGWFpBZ0h4Sm9RbEpGS2diOEs2UEE1cGZWcUMyOTFHYw?oc=5",
           "desc": "",
-          "title_en": "“There's more here” … the food nutrients I misunderstood",
-          "title_ja": "「ここにはもっとあります」…私が誤解していた食品栄養素",
-          "title_zh": "“这里还有更多” ……我误解的食物营养素"
+          "title_en": "“여기에 더 많아요”…잘못 알았던 식품 영양소",
+          "title_ja": "“여기에 더 많아요”…잘못 알았던 식품 영양소",
+          "title_zh": "“여기에 더 많아요”…잘못 알았던 식품 영양소"
         },
         {
           "title": "경험한 후 소비한다, 스위스의 K-푸드 바람",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Gc0lMTzZfQi1WNFNKVy1wS09EU0p6VkRiNnQ0ZTJjTnpSUkwtcmduZ1FkZW9Idm5Qc2JmVUMzSE84cy1mWDhkOVpsZ082TE43dUlZeEo1bw?oc=5",
           "desc": "",
-          "title_en": "Consume after experience, K-food breeze in Switzerland",
-          "title_ja": "スイスでK - food breezeを体験した後に飲もう",
-          "title_zh": "体验后消费，瑞士的K-food breeze"
-        },
-        {
-          "title": "여름엔 트로피컬 맛…배스킨라빈스, 이달의 신메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44X3Z5NEZ2NER4UUc1OWJvVWR6b05OSHE0M09uQjBoN3hDZjd2ZzFreG9lMVRpOThfZFlGZFpMcmwzbDlBTk1SQmlSRFRidjlIeC13cU4wQQ?oc=5",
-          "desc": "",
-          "title_en": "Tropical flavors in summer… Baskin Robbins, new menu of the month",
-          "title_ja": "夏のトロピカルフレーバー…バスキン・ロビンス、今月の新メニュー",
-          "title_zh": "夏季热带风味…… Baskin Robbins ，本月新菜单"
+          "title_en": "경험한 후 소비한다, 스위스의 K-푸드 바람",
+          "title_ja": "경험한 후 소비한다, 스위스의 K-푸드 바람",
+          "title_zh": "경험한 후 소비한다, 스위스의 K-푸드 바람"
         }
       ]
     }
