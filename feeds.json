@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T08:26:36Z",
+  "lastUpdated": "2026-07-30T11:07:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,12 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "농수산식품유통공사, 세계 최대 할랄시장 뚫은 K푸드…라면·인삼 앞세워 수출길 넓혀",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzhyYTBMSlNiWWxmemxsZ3RCVkxPTnJTU1NtYzhfQnhQZWNvQm96cER3R1o0VWtOWXdWSmlzUHRiSzNKR2dfWWdXNGpnZG9yOFl3bFNMMGlYamE5U1ZUVEVud282XzhLVnpHYzBBWFk3Z282clhtQmZEeVd6SmsxWXFPaFRFaWtZc3FWakdVWDA1N2RSSnRZZk84di14M2t2bkREbS1vTWtGdU5x?oc=5",
+          "title": "\"먹으면 꿀잠 자요\"…슬립푸드 제품 눈길",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ndV9QWXRYZU1qTTFIWkVvU3JrVlBfVG1CNm1kMXJUdU5uM1hEVjVsaWp2ZHB6OEdqeHZpempGSUY5ZjdtX1Zkbk9pVEdPbUF4MFl1V3V3NlhrZw?oc=5",
           "desc": "",
-          "title_en": "Agriculture, Fisheries and Food Distribution Corporation, K-food pierced through the world's largest halal market… Expanding the export route in front of ramen and ginseng",
-          "title_ja": "農水食品流通公社、世界最大のハラール市場を貫くK - food…ラーメンと朝鮮人参の前で輸出ルートを拡大",
-          "title_zh": "农业，渔业和食品分销公司， K-food穿过世界上最大的清真市场......扩大拉面和人参前的出口路线"
+          "title_en": "\"Sleep well when you eat\" … Eyes on sleep food products",
+          "title_ja": "「食べるときによく眠る」…睡眠食品に目を向ける",
+          "title_zh": "“吃饭时睡个好觉” ……盯着睡眠食品"
+        },
+        {
+          "title": "사찰 음식부터 연꽃 화장품까지…국제행사, 한국 브랜드 쇼케이스로",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRktPQldFTU5zNGpONzNqdE44LXo0RnVZUTJMb01jdzZ6QWhWbUY0ZUFhSXFrZ2ppT0Z3R3ZZd2VkV2locG14S0w3aVJsLVA1bFZ1aHVvWTJrUQ?oc=5",
+          "desc": "",
+          "title_en": "From temple food to lotus cosmetics… as an international event and showcase for Korean brands",
+          "title_ja": "寺院の食べ物から蓮の化粧品まで、国際的なイベントや韓国ブランドのショーケースとして",
+          "title_zh": "从寺庙美食到莲花化妆品……作为韩国品牌的国际活动和展示"
         },
         {
           "title": "현대그린푸드, ‘경산 샤인머스캣’·‘영천 산타로사 자두’ 사전 예약 판매 개시",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food launches‘ Gyeongsan Shine Muscat ‘and’ Yeongcheon Santa Rosa Plum ’pre-sale",
           "title_ja": "Hyundai Green Food、「Gyeongsan Shine Muscat」と「Yeongcheon Santa Rosa Plum」の先行販売を開始",
           "title_zh": "现代绿色食品推出“Gyeongsan Shine Muscat”和“Yeongcheon Santa Rosa Plum”预售"
-        },
-        {
-          "title": "‘노브랜드X복순도가’ 협업, 막걸리와 페어링 푸드 6종 출시",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11LVMzNFZyZTc4ckJ4RktaMEVNNHJLd3FKOTBaMzRDMUpUdkpCT25IYVNlQ0JneGE5Tk43ZWFWQjNRX1FRXzYxWUdZZk0xcDdVdHN2eW15T0xhQQ?oc=5",
-          "desc": "",
-          "title_en": "‘No Brand X Complexity’ Collaboration Launches 6 Pairing Foods with Makgeolli",
-          "title_ja": "「No Brand X Complexity」コラボレーション、Makgeolliとの6つのペアリング食品を発表",
-          "title_zh": "“No Brand X Complexity”合作推出6款与Makgeolli搭配的食品"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "外国人也吃韩江西送餐“假装” ……首尔市降低了韩国送餐的门槛"
         },
         {
-          "title": "B2B 식자재 플랫폼 ‘푸드팡’ 2분기 흑자 전환",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqMFhuNWllbG9wRWZCWHFNVWhtMU5QcFQ4S2hYN2tDLTNHUWVEZ0JGbTdRRmNPNDNEb1Z1UDdkZW9UNkxaNlE?oc=5",
+          "title": "“시원한 음료·팥빙수 먹고 하세요”…호반그룹, 건설현장서 ‘푸드트럭’ 운영",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fQmFReHo5aDFJUjY5SFVGS0Q0SF9oY1R1Mzh5VENabXZVdnJXYVNPa0pzWmIyVml6R3ZwRDI5UUpsWlZFUzU3SXJVdXZYY3lTOGJMcjRGNWM?oc=5",
           "desc": "",
-          "title_en": "Conversion from surplus in Q2 to B2B grocery platform ‘Food Fang'",
-          "title_ja": "第2四半期の余剰からB 2 B食料品プラットフォーム「Food Fang」への変換",
-          "title_zh": "从第二季度的盈余转换为B2B杂货平台“Food Fang”"
+          "title_en": "“Have a cool drink · Red bean bingsu” … Lakeside Group operates‘ Food Truck ‘at the construction site",
+          "title_ja": "「冷たい飲み物を・紅豆びんす」…レイクサイドグループが工事現場で「フードトラック」を運営",
+          "title_zh": "“喝杯凉爽的饮料·红豆冰苏” ……湖滨集团在施工现场经营“美食车”"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“这里还有更多” ……我误解的食物营养素"
         },
         {
-          "title": "경험한 후 소비한다, 스위스의 K-푸드 바람",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Gc0lMTzZfQi1WNFNKVy1wS09EU0p6VkRiNnQ0ZTJjTnpSUkwtcmduZ1FkZW9Idm5Qc2JmVUMzSE84cy1mWDhkOVpsZ082TE43dUlZeEo1bw?oc=5",
+          "title": "콜라겐의 피부 노화 개선, 이 영양소가 필요해요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdFBGQ0NjWUQ1VFFvRkt6MmcxNDB6YTRCNDV1dUtkM3NYVUhZSjRfTkgyelBVOWVxSzRGeGJjNlVqa0VfdmNUV19EN2VqODhrdmdsWm5Tbw?oc=5",
           "desc": "",
-          "title_en": "Consume after experience, K-food breeze in Switzerland",
-          "title_ja": "スイスでK - food breezeを体験した後に飲もう",
-          "title_zh": "体验后消费，瑞士的K-food breeze"
+          "title_en": "Collagen improves skin aging, I need this nutrient",
+          "title_ja": "コラーゲンは肌の老化を改善します、私はこの栄養素が必要です",
+          "title_zh": "胶原蛋白改善皮肤老化，我需要这种营养"
         }
       ]
     }
