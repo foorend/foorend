@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-07-31T14:07:10Z",
+  "lastUpdated": "2026-07-31T16:45:41Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Jersey Mike's pre-IPO hype proves to be grossly inflated",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenBZcHZTejRrM0k3SG1kTTl3bDVFcXZ6cTRaeTBvbkhHRzY2M1ZNd2xPX0FfdXJ0ZEVHMF9oWWcwNElNR3RKMEJ0YlBLdUMzVmRLQWpMZFNub2tWZFRCSldaRnREOHFGNnVHbnk4aDVLRGlIekZwdlJrbTFZNWMzMnJEQ1JHS1diU0dLRlYxbWh4ZmlMdFAtODVtUUlBTS1f?oc=5",
+          "desc": "",
+          "title_ko": "저지 마이크 (Jersey Mike) 의 상장 전 과대 광고는 크게 부풀려진 것으로 나타났습니다.",
+          "title_ja": "ジャージー・マイクのIPO前の誇大宣伝は大幅に膨らんでいることが判明",
+          "title_zh": "事实证明，泽西迈克的IPO前炒作被严重夸大了"
+        },
         {
           "title": "DoorDash changes how it calculates fees for consumers",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "스타벅스는 리모델링을 너무 좋아해서 더 많은 리모델링을 하고 있습니다.",
           "title_ja": "スターバックスはその改造がとても好きで、より多くの改造を行っています",
           "title_zh": "星巴克非常喜欢它的改造，它正在做更多的改造"
-        },
-        {
-          "title": "Fat Brands' bankruptcy liquidation plan gets court approval",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWd6M0RLZlBibWFqOVhGTEpZV1V1Ukp1dk5KUjIxV2lWQUMtSlZRTmp2aGNfcXJfOXBYTS1jZlcwTmFENjJKeEdfOWJ5YXpPNUFuWTk1VXFWOFZVY1pPUjZiRlBpRnJCNjNtTTlQSVB2R3FPWjdHZ3ljdWdOSjRpbXhfand1OGU0WHgySWRCUlZ1UDJ3UDdMZU1PV293dTdGazlWQXFyaTQ?oc=5",
-          "desc": "",
-          "title_ko": "FAT Brands의 파산 청산 계획이 법원의 승인을 받음",
-          "title_ja": "Fat Brandsの破産清算計画が裁判所の承認を得る",
-          "title_zh": "Fat Brands的破产清算计划获得法院批准"
         }
       ]
     },
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"먹으면 꿀잠 자요\"…슬립푸드 제품 눈길",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ndV9QWXRYZU1qTTFIWkVvU3JrVlBfVG1CNm1kMXJUdU5uM1hEVjVsaWp2ZHB6OEdqeHZpempGSUY5ZjdtX1Zkbk9pVEdPbUF4MFl1V3V3NlhrZw?oc=5",
-          "desc": "",
-          "title_en": "\"Sleep well when you eat\" … Eyes on sleep food products",
-          "title_ja": "「食べるときによく眠る」…睡眠食品に目を向ける",
-          "title_zh": "“吃饭时睡个好觉” ……盯着睡眠食品"
-        },
-        {
           "title": "현대그린푸드, ‘텍사스로드하우스’에서 생맥주와 즐기는 세트메뉴 만나보세요",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50R3pUbnpxcWhzUVR0Z0JCOU1tSmhRZUcwTDBFRTN2RFBWVm82X01jTWRReHJrcXpoUnlSZ293NndPeWJJU3ZTOWlUMUY2NE1zcjFPc0todXhNQQ?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "President Byun visits' Korea's streets' in Chile... \"Is Korean food delicious?\"",
           "title_ja": "ビョン大統領がチリの「韓国の通り」を訪問…「韓国料理はおいしいですか？」",
           "title_zh": "Byun总统访问智利的“韩国街道”...... “韩国菜好吃吗？”"
+        },
+        {
+          "title": "\"먹으면 꿀잠 자요\"…슬립푸드 제품 눈길",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ndV9QWXRYZU1qTTFIWkVvU3JrVlBfVG1CNm1kMXJUdU5uM1hEVjVsaWp2ZHB6OEdqeHZpempGSUY5ZjdtX1Zkbk9pVEdPbUF4MFl1V3V3NlhrZw?oc=5",
+          "desc": "",
+          "title_en": "\"Sleep well when you eat\" … Eyes on sleep food products",
+          "title_ja": "「食べるときによく眠る」…睡眠食品に目を向ける",
+          "title_zh": "“吃饭时睡个好觉” ……盯着睡眠食品"
         }
       ]
     },
