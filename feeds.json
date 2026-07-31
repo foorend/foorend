@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-07-30T22:05:09Z",
+  "lastUpdated": "2026-07-31T02:51:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "How Wendy's is evolving its loyalty program",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaGpHX3ZMUDJMWDB3cGoyM3VrcDY5Ymxpd3lRZTcyU2lxbml6SmhwNWhPdG9jTGk4T1RobUloNEVnNGhFWUZLYUppdjUwQXJnVUdsbGwxUkkxQUFGZ0RKd2lqeGs3TFB5ZG9fMHRjdXVxbGc5b1hrN29MU1B4c2pFYmdYM2R2cnNNRVRublZtOA?oc=5",
-          "desc": "",
-          "title_ko": "Wendy 's가 로열티 프로그램을 발전시키는 방법",
-          "title_ja": "ウェンディーズがロイヤルティプログラムをどのように進化させているか",
-          "title_zh": "Wendy's如何发展其忠诚度计划"
-        },
         {
           "title": "DoorDash changes how it calculates fees for consumers",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "FAT Brands의 파산 청산 계획이 법원의 승인을 받음",
           "title_ja": "Fat Brandsの破産清算計画が裁判所の承認を得る",
           "title_zh": "Fat Brands的破产清算计划获得法院批准"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "“吃饭时睡个好觉” ……盯着睡眠食品"
         },
         {
-          "title": "사찰 음식부터 연꽃 화장품까지…국제행사, 한국 브랜드 쇼케이스로",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRktPQldFTU5zNGpONzNqdE44LXo0RnVZUTJMb01jdzZ6QWhWbUY0ZUFhSXFrZ2ppT0Z3R3ZZd2VkV2locG14S0w3aVJsLVA1bFZ1aHVvWTJrUQ?oc=5",
+          "title": "현대그린푸드, ‘텍사스로드하우스’에서 생맥주와 즐기는 세트메뉴 만나보세요",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50R3pUbnpxcWhzUVR0Z0JCOU1tSmhRZUcwTDBFRTN2RFBWVm82X01jTWRReHJrcXpoUnlSZ293NndPeWJJU3ZTOWlUMUY2NE1zcjFPc0todXhNQQ?oc=5",
           "desc": "",
-          "title_en": "From temple food to lotus cosmetics… as an international event and showcase for Korean brands",
-          "title_ja": "寺院の食べ物から蓮の化粧品まで、国際的なイベントや韓国ブランドのショーケースとして",
-          "title_zh": "从寺庙美食到莲花化妆品……作为韩国品牌的国际活动和展示"
+          "title_en": "Draft beer and a set menu at Hyundai Green Food, ‘Texas Roadhouse'",
+          "title_ja": "ヒュンダイグリーンフード「テキサスロードハウス」で生ビールとセットメニューを楽しもう",
+          "title_zh": "现代绿色食品“德克萨斯路屋” （ Hyundai Green Food ‘Texas Roadhouse‘ ）的生啤酒和套餐"
         },
         {
-          "title": "농수산식품유통공사, 세계 최대 할랄시장 뚫은 K푸드…라면·인삼 앞세워 수출길 넓혀",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzhyYTBMSlNiWWxmemxsZ3RCVkxPTnJTU1NtYzhfQnhQZWNvQm96cER3R1o0VWtOWXdWSmlzUHRiSzNKR2dfWWdXNGpnZG9yOFl3bFNMMGlYamE5U1ZUVEVud282XzhLVnpHYzBBWFk3Z282clhtQmZEeVd6SmsxWXFPaFRFaWtZc3FWakdVWDA1N2RSSnRZZk84di14M2t2bkREbS1vTWtGdU5x?oc=5",
+          "title": "李대통령, 칠레 '한국의 거리' 방문…\"한국음식 맛있나요\"",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpLW9xRWoyUnZjWkFXdGU0blkwZlZIYUprNE1nX2lfM2JycFZBN3pFUHp2enN3azgza3EwMnVZcDA1WS1uZThjSndpbG9qaW1zUzJxdzZPWExWdw?oc=5",
           "desc": "",
-          "title_en": "Agriculture, Fisheries and Food Distribution Corporation, K-food pierced through the world's largest halal market… Expanding the export route in front of ramen and ginseng",
-          "title_ja": "農水食品流通公社、世界最大のハラール市場を貫くK - food…ラーメンと朝鮮人参の前で輸出ルートを拡大",
-          "title_zh": "农业，渔业和食品分销公司， K-food穿过世界上最大的清真市场......扩大拉面和人参前的出口路线"
+          "title_en": "President Byun visits' Korea's streets' in Chile... \"Is Korean food delicious?\"",
+          "title_ja": "ビョン大統領がチリの「韓国の通り」を訪問…「韓国料理はおいしいですか？」",
+          "title_zh": "Byun总统访问智利的“韩国街道”...... “韩国菜好吃吗？”"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "#음식 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tSkRBNWJnRXFLR3AtWW55SzFRODc2MFllVUlySTUwMnFkWWdqbVg2SlNqckZ6SERHQlRsc1BUZHYzUjBRcXUtdkpRMXAxeWpGaVdzWG1DYnNIaVhWMlE?oc=5",
+          "desc": "",
+          "title_en": "# Food (1 Posts)",
+          "title_ja": "# Food (1件の投稿)",
+          "title_zh": "#食物（ 1个帖子）"
+        },
+        {
           "title": "이마트 노브랜드, 복순도가와 협업…막걸리·푸드 6종 출시",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wQkhFY1FxMkt1dmpPaDUyUnV4bG5WQkEyWmJSalJheFhwamgxbVRVdWdmZkxILVJKRnNDSWJOcERvVmo0NS1fcnpHWnFoQmNzbVE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Foreigners also eat Han Gangseo delivery food ‘pretend’ … Seoul City lowers the threshold for K-delivery",
           "title_ja": "外国人も漢江西宅配料理「フリードリップ」を食べる…ソウル市がK宅配の敷居を下げる",
           "title_zh": "外国人也吃韩江西送餐“假装” ……首尔市降低了韩国送餐的门槛"
-        },
-        {
-          "title": "“시원한 음료·팥빙수 먹고 하세요”…호반그룹, 건설현장서 ‘푸드트럭’ 운영",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fQmFReHo5aDFJUjY5SFVGS0Q0SF9oY1R1Mzh5VENabXZVdnJXYVNPa0pzWmIyVml6R3ZwRDI5UUpsWlZFUzU3SXJVdXZYY3lTOGJMcjRGNWM?oc=5",
-          "desc": "",
-          "title_en": "“Have a cool drink · Red bean bingsu” … Lakeside Group operates‘ Food Truck ‘at the construction site",
-          "title_ja": "「冷たい飲み物を・紅豆びんす」…レイクサイドグループが工事現場で「フードトラック」を運営",
-          "title_zh": "“喝杯凉爽的饮料·红豆冰苏” ……湖滨集团在施工现场经营“美食车”"
         }
       ]
     },
