@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T11:29:05Z",
+  "lastUpdated": "2026-07-31T14:07:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The 38 Best Restaurants in Montreal, According to a Local Food Writer",
+          "link": "https://www.eater.com/maps/best-restaurants-montreal-quebec-canada",
+          "desc": "With its offbeat blend of poutine, pikliz, natural wine, and piri-piri, Montreal is a food city hors pair. You’ll find Italian, Jewish, Vietnamese, Le",
+          "title_ko": "현지 음식 전문가가 선정한 몬트리올 최고의 레스토랑 38곳",
+          "title_ja": "地元のフードライターによると、モントリオールで人気のレストラン38選",
+          "title_zh": "当地美食作家评选的蒙特利尔38家最佳餐厅"
+        },
+        {
           "title": "Eater World’s Fare Was a Global Celebration of Food and Soccer",
           "link": "https://www.eater.com/press-room/975492/eater-worlds-fare-was-a-global-celebration-of-food-and-soccer",
           "desc": "On Saturday, on the eve of the world soccer finals, Eater hosted a lively celebration of food and sports in New York City, bringing thousands of atten",
@@ -110,14 +118,6 @@
           "title_ko": "내 음식 훔치기 여행 일정: 런던 3일",
           "title_ja": "食事の旅程を盗もう：ロンドン3日間",
           "title_zh": "偷走我的美食行程：伦敦3日游"
-        },
-        {
-          "title": "In the Age of AI, the Analog Restaurant Feels Radical",
-          "link": "https://www.eater.com/trends/975087/restaurants-lean-into-bespoke-handmade-elements-during-ai-flyer-backlash",
-          "desc": "What spoke to me the most about the Instagram announcement for the new Manhattan restaurant Somssi was the fact that it was done in such an unexpected",
-          "title_ko": "AI 시대에 아날로그 레스토랑은 급진적이라고 느낍니다.",
-          "title_ja": "AIの時代に、アナログレストランは急進的に感じる",
-          "title_zh": "在人工智能时代，模拟餐厅感觉激进"
         }
       ]
     }
@@ -166,20 +166,20 @@
           "title_zh": "【专属】《K-Food Nolbu · Hwami Masters》取消…… KLPGA今年已减至30场"
         },
         {
-          "title": "印 국민간식 된 초코파이…롯데웰푸드, 생산능력 33% 확대",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGWHlRdXFBV0V5bkpBcnZfRkJkYWsxSWltTGw4S0Y0ODZEdVFMbnNpejFaUnJwNU1XaDg0Zmp4amRtWnRTRkktUW5ueExTR3hZR3fSAVNBVV95cUxNU2czSGdiRUxGVWJUWFYxekFrc0NYMTAyajNPel9jNEFlQllVZEF5aFNFV3U1SVppTHRVaERWTUhOQ0JNbFd0NFBWSWE0NDBUeDFzOA?oc=5",
-          "desc": "",
-          "title_en": "National Snack Chocolate Pie… Lotte Well Food Expands Production Capacity by 33%",
-          "title_ja": "全国スナックチョコレートパイ…ロッテウェルフード、生産能力を33%拡大",
-          "title_zh": "全国小吃巧克力派…乐天健康食品产能提升33%"
-        },
-        {
           "title": "한끼 음식에 깃든 조상의 삶…국중박 ‘우리들의 밥상’ 연계 강연회",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GV3NIT3dCRkxUeWFtM1Npc2VmSUU1d253YUQ4eHJyUUxqa3VxLW5HdnRmRXJReHdLdmNZNWF0TTlSMmVBdHZrbWxjRGo2cTliV0HSAVNBVV95cUxNWm1yNHV5Nm44ajFRcWQwUE9vY1lYb2VYcnROT3FVMjJ4VmpXTTZlc0swb1JrSGMzdDB2M183LUxldzV6SWd1LUQtdmZtYXFob1hNUQ?oc=5",
           "desc": "",
           "title_en": "The life of an ancestor in a meal… Gukjung Park's ‘Our Food’ Lecture",
           "title_ja": "食事の中の先祖の生涯… Gukjung Parkの「私たちの食べ物」レクチャー",
           "title_zh": "祖先吃饭的生活…… Gukjung Park的“我们的食物”讲座"
+        },
+        {
+          "title": "CJ씨푸드1우, 상한가 진입.. +29.83% ↑",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LWktReGsxUU9MNUtaQmJ6S083TVhnMmZEQU5EcEc3cWh4OWhZdEI2eDNkOWthY0NueVI1ZENnM3VFS3piZlNJV21pVVFBeEYzQlE?oc=5",
+          "desc": "",
+          "title_en": "CJ Seafood 1W, enter upper price.. +29.83% ↑",
+          "title_ja": "CJシーフード1 W、高値を入力.. +29.83% ↑",
+          "title_zh": "CJ Seafood 1W ，进入高价.. +29.83% ↑"
         }
       ]
     },
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "카페인도 고른다…투썸플레이스 ‘하프 카페인 콜드브루’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OEpRaXlzdko0enhhX2RzV3puWkxRTnJJMjQ4Nl9WZW42UG90akF4d3k5dWw1ODM5TXJ2bzB6a0ljXzdfb1hrUjQwbTNWUGNKbGlXRkFfUQ?oc=5",
+          "desc": "",
+          "title_en": "I also choose caffeine… Twosome Place ‘Half Caffeine Cold Brew’",
+          "title_ja": "私もカフェインを選びます… Twosome Place「ハーフカフェインコールドブリュー」",
+          "title_zh": "我也选择咖啡因…… Twosome Place “半咖啡因冷酿”"
+        },
+        {
           "title": "“여기에 더 많아요”…잘못 알았던 식품 영양소",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWG9vY1hoSFlacDBCNFV6dlZ1MXhYWmRnSFRuZnRNUEw3OV9WdzV6VlZfcktWenNGWFpBZ0h4Sm9RbEpGS2diOEs2UEE1cGZWcUMyOTFHYw?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "Collagen improves skin aging, I need this nutrient",
           "title_ja": "コラーゲンは肌の老化を改善します、私はこの栄養素が必要です",
           "title_zh": "胶原蛋白改善皮肤老化，我需要这种营养"
-        },
-        {
-          "title": "경험한 후 소비한다, 스위스의 K-푸드 바람",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Gc0lMTzZfQi1WNFNKVy1wS09EU0p6VkRiNnQ0ZTJjTnpSUkwtcmduZ1FkZW9Idm5Qc2JmVUMzSE84cy1mWDhkOVpsZ082TE43dUlZeEo1bw?oc=5",
-          "desc": "",
-          "title_en": "Consume after experience, K-food breeze in Switzerland",
-          "title_ja": "スイスでK - food breezeを体験した後に飲もう",
-          "title_zh": "体验后消费，瑞士的K-food breeze"
         }
       ]
     }
