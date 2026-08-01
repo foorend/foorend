@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T19:07:53Z",
+  "lastUpdated": "2026-08-01T21:56:11Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "현대그린푸드, ‘텍사스로드하우스’에서 생맥주와 즐기는 세트메뉴 만나보세요",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50R3pUbnpxcWhzUVR0Z0JCOU1tSmhRZUcwTDBFRTN2RFBWVm82X01jTWRReHJrcXpoUnlSZ293NndPeWJJU3ZTOWlUMUY2NE1zcjFPc0todXhNQQ?oc=5",
-          "desc": "",
-          "title_en": "Draft beer and a set menu at Hyundai Green Food, ‘Texas Roadhouse'",
-          "title_ja": "ヒュンダイグリーンフード「テキサスロードハウス」で生ビールとセットメニューを楽しもう",
-          "title_zh": "现代绿色食品“德克萨斯路屋” （ Hyundai Green Food ‘Texas Roadhouse‘ ）的生啤酒和套餐"
-        },
-        {
           "title": "李대통령, 칠레 '한국의 거리' 방문…\"한국음식 맛있나요\"",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpLW9xRWoyUnZjWkFXdGU0blkwZlZIYUprNE1nX2lfM2JycFZBN3pFUHp2enN3azgza3EwMnVZcDA1WS1uZThjSndpbG9qaW1zUzJxdzZPWExWdw?oc=5",
           "desc": "",
@@ -144,12 +136,20 @@
           "title_zh": "Byun总统访问智利的“韩国街道”...... “韩国菜好吃吗？”"
         },
         {
-          "title": "'눈높이' 대교의 반전…학원 대신 '이 사업'에 꽂혔다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6cldCcWJFN1g4VVRJRGFSR3RrMW8zTHZqM3hzRWstQlNDTS1lWUd3WmNJcV9vNnZlQjMxOXNSczRDRW15b3prRGhMX1FtOURCdW15TTBiN2VkQQ?oc=5",
+          "title": "\"먹으면 꿀잠 자요\"…슬립푸드 제품 눈길",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ndV9QWXRYZU1qTTFIWkVvU3JrVlBfVG1CNm1kMXJUdU5uM1hEVjVsaWp2ZHB6OEdqeHZpempGSUY5ZjdtX1Zkbk9pVEdPbUF4MFl1V3V3NlhrZw?oc=5",
           "desc": "",
-          "title_en": "The reversal of the 'eye-level' bridge... I was plugged into 'this business' instead of the academy",
-          "title_ja": "「目の高さ」の橋の逆転...私はアカデミーではなく「このビジネス」に繋がっていました",
-          "title_zh": "“眼平”桥的逆转……我被插入了“这门生意” ，而不是学院"
+          "title_en": "\"Sleep well when you eat\" … Eyes on sleep food products",
+          "title_ja": "「食べるときによく眠る」…睡眠食品に目を向ける",
+          "title_zh": "“吃饭时睡个好觉” ……盯着睡眠食品"
+        },
+        {
+          "title": "농수산식품유통공사, 세계 최대 할랄시장 뚫은 K푸드…라면·인삼 앞세워 수출길 넓혀",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzhyYTBMSlNiWWxmemxsZ3RCVkxPTnJTU1NtYzhfQnhQZWNvQm96cER3R1o0VWtOWXdWSmlzUHRiSzNKR2dfWWdXNGpnZG9yOFl3bFNMMGlYamE5U1ZUVEVud282XzhLVnpHYzBBWFk3Z282clhtQmZEeVd6SmsxWXFPaFRFaWtZc3FWakdVWDA1N2RSSnRZZk84di14M2t2bkREbS1vTWtGdU5x?oc=5",
+          "desc": "",
+          "title_en": "Agriculture, Fisheries and Food Distribution Corporation, K-food pierced through the world's largest halal market… Expanding the export route in front of ramen and ginseng",
+          "title_ja": "農水食品流通公社、世界最大のハラール市場を貫くK - food…ラーメンと朝鮮人参の前で輸出ルートを拡大",
+          "title_zh": "农业，渔业和食品分销公司， K-food穿过世界上最大的清真市场......扩大拉面和人参前的出口路线"
         }
       ]
     },
