@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T02:49:49Z",
+  "lastUpdated": "2026-08-01T05:54:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "[단독] ‘K푸드 놀부·화미 마스터즈’ 취소…KLPGA 올해 30개 대회로 줄어",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XU0Vsb1FtYXZSSVM4NHA3RVIxal91c3NJZUFPSVVKVTV3LWQ0QXpZSVFWcnpZUjdnOGF3Y1l6bVZZUjBlYzl5Y2x0WVZCNE1GbHfSAVNBVV95cUxNTUVmNkNUSEV3elN1aW02Rll5ZGM5VWhxVGdiTVU5S2VnX3hRVmZRamV2R1dUMndHeEZXdExmODl4Y2QwaTZtUzJOZ3lMQ3JJSm9oRQ?oc=5",
-          "desc": "",
-          "title_en": "[Exclusive] ‘K-Food Nolbu · Hwami Masters' canceled... KLPGA has been reduced to 30 competitions this year",
-          "title_ja": "【限定】「K - Food Nolbu・Hwami Masters」中止…今年はKLPGAが30大会に縮小",
-          "title_zh": "【专属】《K-Food Nolbu · Hwami Masters》取消…… KLPGA今年已减至30场"
-        },
-        {
           "title": "한끼 음식에 깃든 조상의 삶…국중박 ‘우리들의 밥상’ 연계 강연회",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GV3NIT3dCRkxUeWFtM1Npc2VmSUU1d253YUQ4eHJyUUxqa3VxLW5HdnRmRXJReHdLdmNZNWF0TTlSMmVBdHZrbWxjRGo2cTliV0HSAVNBVV95cUxNWm1yNHV5Nm44ajFRcWQwUE9vY1lYb2VYcnROT3FVMjJ4VmpXTTZlc0swb1JrSGMzdDB2M183LUxldzV6SWd1LUQtdmZtYXFob1hNUQ?oc=5",
           "desc": "",
           "title_en": "The life of an ancestor in a meal… Gukjung Park's ‘Our Food’ Lecture",
           "title_ja": "食事の中の先祖の生涯… Gukjung Parkの「私たちの食べ物」レクチャー",
           "title_zh": "祖先吃饭的生活…… Gukjung Park的“我们的食物”讲座"
+        },
+        {
+          "title": "印 사로잡은 초코파이…생산라인 33% 늘려",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YSk1ZeXRwVGlUc3g2NzBvUHgyZDZrbHdKczA2RWthbHRMZFc5UFUwVi1QSEJtbTljVHFKQ1ZvUkxHS2NaVzBPMHYxbnlxcFRmVUHSAVNBVV95cUxOZ1IyVDllOXRYc0tnOEFvSlF5d0IzamlGaU12X09zRUV3QU1BbXdmRU9CLUk0NV9WNFZHRTlNX2F3SVJnOUVzc1N2S0FjTHVROFdQUQ?oc=5",
+          "desc": "",
+          "title_en": "Captivated chocolate pie… production line increased by 33%",
+          "title_ja": "魅惑的なチョコレートパイ…生産ラインが33 ％増加",
+          "title_zh": "迷人的巧克力馅饼…生产线增加了33%"
         },
         {
           "title": "“일본 여행서 ‘이 음식’ 먹었다간 큰일”…식중독에 손발 마비까지 올 수도 [헬시타임]",
