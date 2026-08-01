@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T22:05:26Z",
+  "lastUpdated": "2026-08-01T02:49:49Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "事实证明，泽西迈克的IPO前炒作被严重夸大了"
         },
         {
-          "title": "DoorDash changes how it calculates fees for consumers",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
-          "desc": "",
-          "title_ko": "DoorDash는 소비자의 수수료 계산 방식을 변경합니다",
-          "title_ja": "DoorDashは消費者の手数料の計算方法を変更します",
-          "title_zh": "DoorDash更改了消费者费用的计算方式"
-        },
-        {
           "title": "Starbucks likes its remodels so much it’s doing more of them",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZkY2Zm9SNngtclh3QU5ITzdtcW04dGZpQ3NpMnlGUzFmSTQ1eC0wYlNGMnJ2Ni1DVU1la1c2aFNrTUdVNGx0WFJzSkRCQXdjZ24ycXRFNDdJMm4wSGJuY1FweGM2YlVYcWttbC1ETVR0RnNVZUFHR3JMaUZZUDE2OG1DeFk3R295TmdUS1hDZnZqX28tRGV6MHVrNmhEcnRNaDE0NVh3?oc=5",
           "desc": "",
           "title_ko": "스타벅스는 리모델링을 너무 좋아해서 더 많은 리모델링을 하고 있습니다.",
           "title_ja": "スターバックスはその改造がとても好きで、より多くの改造を行っています",
           "title_zh": "星巴克非常喜欢它的改造，它正在做更多的改造"
+        },
+        {
+          "title": "The Cheesecake Factory targets new, younger customers as positive momentum continues",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0k0Sk9RbjJKLTcxOGc3ejJBeHhEQ19kNi1EeWF3ZUJaOVNHeXllNkJtQXd0OFZ4OUtTa2ZDcktZNl9NUnV0UHgtNElCZWRWSW9EbGVOQ1c0U1hnR2cxbGpGQ2FqYTkxNmpWTUxNX2h0Y2l1ZE5uTHlGVHQyQkpMWHo0SnN0MmVqcThzWk5aa3hrQzdaclJ3Vkl3V1FTaEJPWVBtNm1Mc1dhV1ZfR0g3eWRjOFpjN2JMSE5TOWhBVjI?oc=5",
+          "desc": "",
+          "title_ko": "치즈케이크 팩토리 (Cheesecake Factory) 는 긍정적인 모멘텀이 계속됨에 따라 새롭고 젊은 고객을 대상으로 합니다.",
+          "title_ja": "チーズケーキ工場は、ポジティブな勢いが続くにつれて、新しい若い顧客をターゲットにしています",
+          "title_zh": "随着积极势头的持续，芝士蛋糕工厂瞄准新的年轻客户"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "Emart Novelty Brands与Boxundo合作… Makgeolli ·推出6款食品"
         },
         {
-          "title": "“시원한 음료·팥빙수 먹고 하세요”…호반그룹, 건설현장서 ‘푸드트럭’ 운영",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fQmFReHo5aDFJUjY5SFVGS0Q0SF9oY1R1Mzh5VENabXZVdnJXYVNPa0pzWmIyVml6R3ZwRDI5UUpsWlZFUzU3SXJVdXZYY3lTOGJMcjRGNWM?oc=5",
+          "title": "\"K푸드 열풍 타고 … 한약도 美서 돌풍\"",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wUEh5MVB2MG5kZzhIWHFjQXpMZXFobFZuTUdlbmVPSzByRnZRYzYwOGJMOGV3UnQ2TGRmUG5MMHVZMkRtSVZDTGxFRnR3Ui1rOVlJQg?oc=5",
           "desc": "",
-          "title_en": "“Have a cool drink · Red bean bingsu” … Lakeside Group operates‘ Food Truck ‘at the construction site",
-          "title_ja": "「冷たい飲み物を・紅豆びんす」…レイクサイドグループが工事現場で「フードトラック」を運営",
-          "title_zh": "“喝杯凉爽的饮料·红豆冰苏” ……湖滨集团在施工现场经营“美食车”"
+          "title_en": "\"K-Food Fever Ride... Gusts of Herbal Medicine in the US\"",
+          "title_ja": "「Kフードフィーバーライド…アメリカの漢方薬の嵐」",
+          "title_zh": "“K-Food Fever Ride……美国草药之风”"
         }
       ]
     },
