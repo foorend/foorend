@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-08-01T21:56:11Z",
+  "lastUpdated": "2026-08-02T02:48:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "The Cheesecake Factory targets new, younger customers as positive momentum continues",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0k0Sk9RbjJKLTcxOGc3ejJBeHhEQ19kNi1EeWF3ZUJaOVNHeXllNkJtQXd0OFZ4OUtTa2ZDcktZNl9NUnV0UHgtNElCZWRWSW9EbGVOQ1c0U1hnR2cxbGpGQ2FqYTkxNmpWTUxNX2h0Y2l1ZE5uTHlGVHQyQkpMWHo0SnN0MmVqcThzWk5aa3hrQzdaclJ3Vkl3V1FTaEJPWVBtNm1Mc1dhV1ZfR0g3eWRjOFpjN2JMSE5TOWhBVjI?oc=5",
+          "desc": "",
+          "title_ko": "치즈케이크 팩토리 (Cheesecake Factory) 는 긍정적인 모멘텀이 계속됨에 따라 새롭고 젊은 고객을 대상으로 합니다.",
+          "title_ja": "チーズケーキ工場は、ポジティブな勢いが続くにつれて、新しい若い顧客をターゲットにしています",
+          "title_zh": "随着积极势头的持续，芝士蛋糕工厂瞄准新的年轻客户"
+        },
         {
           "title": "Jersey Mike's pre-IPO hype proves to be grossly inflated",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenBZcHZTejRrM0k3SG1kTTl3bDVFcXZ6cTRaeTBvbkhHRzY2M1ZNd2xPX0FfdXJ0ZEVHMF9oWWcwNElNR3RKMEJ0YlBLdUMzVmRLQWpMZFNub2tWZFRCSldaRnREOHFGNnVHbnk4aDVLRGlIekZwdlJrbTFZNWMzMnJEQ1JHS1diU0dLRlYxbWh4ZmlMdFAtODVtUUlBTS1f?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "스타벅스는 리모델링을 너무 좋아해서 더 많은 리모델링을 하고 있습니다.",
           "title_ja": "スターバックスはその改造がとても好きで、より多くの改造を行っています",
           "title_zh": "星巴克非常喜欢它的改造，它正在做更多的改造"
-        },
-        {
-          "title": "The Cheesecake Factory targets new, younger customers as positive momentum continues",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0k0Sk9RbjJKLTcxOGc3ejJBeHhEQ19kNi1EeWF3ZUJaOVNHeXllNkJtQXd0OFZ4OUtTa2ZDcktZNl9NUnV0UHgtNElCZWRWSW9EbGVOQ1c0U1hnR2cxbGpGQ2FqYTkxNmpWTUxNX2h0Y2l1ZE5uTHlGVHQyQkpMWHo0SnN0MmVqcThzWk5aa3hrQzdaclJ3Vkl3V1FTaEJPWVBtNm1Mc1dhV1ZfR0g3eWRjOFpjN2JMSE5TOWhBVjI?oc=5",
-          "desc": "",
-          "title_ko": "치즈케이크 팩토리 (Cheesecake Factory) 는 긍정적인 모멘텀이 계속됨에 따라 새롭고 젊은 고객을 대상으로 합니다.",
-          "title_ja": "チーズケーキ工場は、ポジティブな勢いが続くにつれて、新しい若い顧客をターゲットにしています",
-          "title_zh": "随着积极势头的持续，芝士蛋糕工厂瞄准新的年轻客户"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "Byun总统访问智利的“韩国街道”...... “韩国菜好吃吗？”"
         },
         {
-          "title": "\"먹으면 꿀잠 자요\"…슬립푸드 제품 눈길",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ndV9QWXRYZU1qTTFIWkVvU3JrVlBfVG1CNm1kMXJUdU5uM1hEVjVsaWp2ZHB6OEdqeHZpempGSUY5ZjdtX1Zkbk9pVEdPbUF4MFl1V3V3NlhrZw?oc=5",
-          "desc": "",
-          "title_en": "\"Sleep well when you eat\" … Eyes on sleep food products",
-          "title_ja": "「食べるときによく眠る」…睡眠食品に目を向ける",
-          "title_zh": "“吃饭时睡个好觉” ……盯着睡眠食品"
-        },
-        {
           "title": "농수산식품유통공사, 세계 최대 할랄시장 뚫은 K푸드…라면·인삼 앞세워 수출길 넓혀",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzhyYTBMSlNiWWxmemxsZ3RCVkxPTnJTU1NtYzhfQnhQZWNvQm96cER3R1o0VWtOWXdWSmlzUHRiSzNKR2dfWWdXNGpnZG9yOFl3bFNMMGlYamE5U1ZUVEVud282XzhLVnpHYzBBWFk3Z282clhtQmZEeVd6SmsxWXFPaFRFaWtZc3FWakdVWDA1N2RSSnRZZk84di14M2t2bkREbS1vTWtGdU5x?oc=5",
           "desc": "",
           "title_en": "Agriculture, Fisheries and Food Distribution Corporation, K-food pierced through the world's largest halal market… Expanding the export route in front of ramen and ginseng",
           "title_ja": "農水食品流通公社、世界最大のハラール市場を貫くK - food…ラーメンと朝鮮人参の前で輸出ルートを拡大",
           "title_zh": "农业，渔业和食品分销公司， K-food穿过世界上最大的清真市场......扩大拉面和人参前的出口路线"
+        },
+        {
+          "title": "\"먹으면 꿀잠 자요\"…슬립푸드 제품 눈길",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ndV9QWXRYZU1qTTFIWkVvU3JrVlBfVG1CNm1kMXJUdU5uM1hEVjVsaWp2ZHB6OEdqeHZpempGSUY5ZjdtX1Zkbk9pVEdPbUF4MFl1V3V3NlhrZw?oc=5",
+          "desc": "",
+          "title_en": "\"Sleep well when you eat\" … Eyes on sleep food products",
+          "title_ja": "「食べるときによく眠る」…睡眠食品に目を向ける",
+          "title_zh": "“吃饭时睡个好觉” ……盯着睡眠食品"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "롯데웰푸드, 유네스코 세계유산위원회서 'K-스낵' 알렸다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByVDhrZmNMeGs4UXZjUE9aQkNMQ2xxYWdPSmZKWDRHeEZSRTkzeTdnV1pUd2Nxc2VkWGhIR2M2eEFpRWQwVUFNd25ra0JobkVoWUE?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Announces UNESCO World Heritage Committee 'K-Snack'",
+          "title_ja": "ロッテウェルフード、ユネスコ世界遺産委員会「K - Snack」を発表",
+          "title_zh": "乐天Well Food宣布联合国教科文组织世界遗产委员会“K-Snack”"
+        },
+        {
           "title": "#음식 (1 Posts)",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tSkRBNWJnRXFLR3AtWW55SzFRODc2MFllVUlySTUwMnFkWWdqbVg2SlNqckZ6SERHQlRsc1BUZHYzUjBRcXUtdkpRMXAxeWpGaVdzWG1DYnNIaVhWMlE?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "#食物（ 1个帖子）"
         },
         {
-          "title": "이마트 노브랜드, 복순도가와 협업…막걸리·푸드 6종 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wQkhFY1FxMkt1dmpPaDUyUnV4bG5WQkEyWmJSalJheFhwamgxbVRVdWdmZkxILVJKRnNDSWJOcERvVmo0NS1fcnpHWnFoQmNzbVE?oc=5",
+          "title": "[국경 넘은 K푸드] '라면 국가대표' 농심, '새우깡·바나나킥' 70개국 누빈다 | 더구루",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Kazl5N1UwVENYMFczRE0yaGtKNEdtWW1yZWdIVklOcDFpQU9udWRnX01RLVFDZzZOYldKbGJpTW1BX2xxekx2allYNFJKR2MzUVE0elU3XzJRZ9IBX0FVX3lxTE5qZFBGQXBOakZteG1nNjZpemhjdGxxYmRLMExqaVhRd0E1YjVaUUxYc1JsU0p6TXRJb2M1UzRBeFJFaEdlS0FzOE4yWkdwN1N3UnVibDAycDJnSkdVbVA0?oc=5",
           "desc": "",
-          "title_en": "Emart Novelty Brands Collaborate with Boxundo… Makgeolli · 6 Foods Launched",
-          "title_ja": "エマートノベルティブランドがBoxundoとコラボ… Makgeolli・6食発売",
-          "title_zh": "Emart Novelty Brands与Boxundo合作… Makgeolli ·推出6款食品"
-        },
-        {
-          "title": "\"K푸드 열풍 타고 … 한약도 美서 돌풍\"",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wUEh5MVB2MG5kZzhIWHFjQXpMZXFobFZuTUdlbmVPSzByRnZRYzYwOGJMOGV3UnQ2TGRmUG5MMHVZMkRtSVZDTGxFRnR3Ui1rOVlJQg?oc=5",
-          "desc": "",
-          "title_en": "\"K-Food Fever Ride... Gusts of Herbal Medicine in the US\"",
-          "title_ja": "「Kフードフィーバーライド…アメリカの漢方薬の嵐」",
-          "title_zh": "“K-Food Fever Ride……美国草药之风”"
+          "title_en": "[K food across the border] 'Ramen National Leader' Nongshim, 'Shrimp Kang and Banana Kick' Nubinda in 70 Countries | The Guru",
+          "title_ja": "【国境を越えたKフード】「ラーメンナショナルリーダー」ノンシム、「エビカン、バナナキック」ヌビンダ、70カ国|グル",
+          "title_zh": "[边境的K美食] 70个国家的「拉面国家领袖」Nongshim、「Shrimp Kang和Banana Kick」Nubinda | The Guru"
         }
       ]
     },
