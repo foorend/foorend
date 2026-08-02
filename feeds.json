@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T08:33:36Z",
+  "lastUpdated": "2026-08-02T10:41:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "맛이 뜬다, 미국의 식품 트렌드",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RUzR6YmdGbC1VZGw1MlloVmdxa1JrN2NyS1BiQWZDQmVwSGRaR1IxVnM4RmJMclFWSkphY1hCTGZGRnlESHNJZjdKMjVpU1d0cy04TGlDWQ?oc=5",
+          "desc": "",
+          "title_en": "Tastes Good, Food Trends in America",
+          "title_ja": "おいしい、アメリカの食のトレンド",
+          "title_zh": "味道好，美国的美食潮流"
+        },
+        {
           "title": "카페인도 고른다…투썸플레이스 ‘하프 카페인 콜드브루’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OEpRaXlzdko0enhhX2RzV3puWkxRTnJJMjQ4Nl9WZW42UG90akF4d3k5dWw1ODM5TXJ2bzB6a0ljXzdfb1hrUjQwbTNWUGNKbGlXRkFfUQ?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "“There's more here” … the food nutrients I misunderstood",
           "title_ja": "「ここにはもっとあります」…私が誤解していた食品栄養素",
           "title_zh": "“这里还有更多” ……我误解的食物营养素"
-        },
-        {
-          "title": "콜라겐의 피부 노화 개선, 이 영양소가 필요해요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdFBGQ0NjWUQ1VFFvRkt6MmcxNDB6YTRCNDV1dUtkM3NYVUhZSjRfTkgyelBVOWVxSzRGeGJjNlVqa0VfdmNUV19EN2VqODhrdmdsWm5Tbw?oc=5",
-          "desc": "",
-          "title_en": "Collagen improves skin aging, I need this nutrient",
-          "title_ja": "コラーゲンは肌の老化を改善します、私はこの栄養素が必要です",
-          "title_zh": "胶原蛋白改善皮肤老化，我需要这种营养"
         }
       ]
     }
