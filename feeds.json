@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-08-02T21:56:29Z",
+  "lastUpdated": "2026-08-03T02:49:59Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "DoorDash changes how it calculates fees for consumers",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
+          "desc": "",
+          "title_ko": "DoorDash는 소비자의 수수료 계산 방식을 변경합니다",
+          "title_ja": "DoorDashは消費者の手数料の計算方法を変更します",
+          "title_zh": "DoorDash更改了消费者费用的计算方式"
+        },
         {
           "title": "The Cheesecake Factory targets new, younger customers as positive momentum continues",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0k0Sk9RbjJKLTcxOGc3ejJBeHhEQ19kNi1EeWF3ZUJaOVNHeXllNkJtQXd0OFZ4OUtTa2ZDcktZNl9NUnV0UHgtNElCZWRWSW9EbGVOQ1c0U1hnR2cxbGpGQ2FqYTkxNmpWTUxNX2h0Y2l1ZE5uTHlGVHQyQkpMWHo0SnN0MmVqcThzWk5aa3hrQzdaclJ3Vkl3V1FTaEJPWVBtNm1Mc1dhV1ZfR0g3eWRjOFpjN2JMSE5TOWhBVjI?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "저지 마이크 (Jersey Mike) 의 상장 전 과대 광고는 크게 부풀려진 것으로 나타났습니다.",
           "title_ja": "ジャージー・マイクのIPO前の誇大宣伝は大幅に膨らんでいることが判明",
           "title_zh": "事实证明，泽西迈克的IPO前炒作被严重夸大了"
-        },
-        {
-          "title": "Starbucks likes its remodels so much it’s doing more of them",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZkY2Zm9SNngtclh3QU5ITzdtcW04dGZpQ3NpMnlGUzFmSTQ1eC0wYlNGMnJ2Ni1DVU1la1c2aFNrTUdVNGx0WFJzSkRCQXdjZ24ycXRFNDdJMm4wSGJuY1FweGM2YlVYcWttbC1ETVR0RnNVZUFHR3JMaUZZUDE2OG1DeFk3R295TmdUS1hDZnZqX28tRGV6MHVrNmhEcnRNaDE0NVh3?oc=5",
-          "desc": "",
-          "title_ko": "스타벅스는 리모델링을 너무 좋아해서 더 많은 리모델링을 하고 있습니다.",
-          "title_ja": "スターバックスはその改造がとても好きで、より多くの改造を行っています",
-          "title_zh": "星巴克非常喜欢它的改造，它正在做更多的改造"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "农业，渔业和食品分销公司， K-food穿过世界上最大的清真市场......扩大拉面和人参前的出口路线"
         },
         {
-          "title": "\"먹으면 꿀잠 자요\"…슬립푸드 제품 눈길",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ndV9QWXRYZU1qTTFIWkVvU3JrVlBfVG1CNm1kMXJUdU5uM1hEVjVsaWp2ZHB6OEdqeHZpempGSUY5ZjdtX1Zkbk9pVEdPbUF4MFl1V3V3NlhrZw?oc=5",
+          "title": "저출산에 한숨 쉬더니…'이 시장'에 올인하는 식품 대기업들 [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySzRGRDh2SnhBX1g5TVFFNzgzMlkxMmhpSlYxUHlKRWh6S1RfRi1ZdHVRaGtVYXQ1YW1sX2tocFJNdFZ0Q2hFeTdnY25OdVp1eEk4b1pqb2xWQQ?oc=5",
           "desc": "",
-          "title_en": "\"Sleep well when you eat\" … Eyes on sleep food products",
-          "title_ja": "「食べるときによく眠る」…睡眠食品に目を向ける",
-          "title_zh": "“吃饭时睡个好觉” ……盯着睡眠食品"
+          "title_en": "Sighing at low fertility... Food conglomerates going all-in on 'this market' [Trend +]",
+          "title_ja": "繁殖力の低さにため息をついている…「この市場」にすべてを注ぎ込む食品コングロマリット[トレンド+]",
+          "title_zh": "低生育率的叹息......食品集团全力以赴“这个市场” [趋势+]"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "코트라, 월마트 손잡고 K-뷰티·푸드 美 진출 지",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Mb29EZ09ld0F2R2hqQmNvOEZqcmxWel9kZWxYVUNXWkRFbmY2NGhMQjNDeWJGMUJ0M194aTcwazJNRTMyRklKOUF5QjktaXZOQnfSAVNBVV95cUxNa0xfZXNGX0VrZTBuNUpqSmwwRDFKNHVwT08wOGRhMnBYanVpQjFYNUNIcDc4TXoyNWtrLTFaZWhjMHh2bHpheWtRMHdCUlJka2RmMA?oc=5",
+          "desc": "",
+          "title_en": "KOTRA, Wal-Mart Hand in Place to Enter K-Beauty and Food America",
+          "title_ja": "KOTRA、ウォルマートがK - BeautyとFood Americaに参入",
+          "title_zh": "KOTRA ，沃尔玛携手进入K-Beauty和Food America"
+        },
+        {
+          "title": "“매일 먹다간 혈관 막힌다”…의사들이 식탁에서 치워버린 음식, 뭐길래 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UclY2YXRPcER6bTB2YVVVWkJGWFItSDRibXo2RXVSOUYzVEs5X0c3VWdwVzZYSXh5NmFPR09TX09rYm9jUGVuNlVWVFRSX2xsbEHSAVNBVV95cUxQcHNjZHF2dnFJU3ZPWlo3WGJBSU5mT3lrQ3hPbUNJNmZkaExsMldtZDZadlN6NUVlUDRaY0lkcHR3Y1F1Uk8xSTBnSFVuNWthRU4tZw?oc=5",
+          "desc": "",
+          "title_en": "“Blood vessels get clogged after eating every day” … What about the food the doctors removed from the table [Health Time]",
+          "title_ja": "「毎日食べると血管が詰まります」…医者がテーブルから取り出した食べ物はどうですか[Health Time]",
+          "title_zh": "“每天进食后血管堵塞” ……医生从餐桌上拿走的食物怎么办【健康时间】"
+        },
+        {
           "title": "“빼빼로 아몬드·초코 인기”...롯데웰푸드 유네스코 세계유산위원회서 ‘K스낵’ 홍보",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpZzViSWY0NVF6Qk5KSWl0ZlZLYjZCbDNqX04xV1ZPZi0yR01ONHNTMW1Bc2pEY210LWFGZ2o4aWZxa01pNExidkVyQklBRnR3N3fSAVNBVV95cUxOX2w5UmR6aFFsc3BndFB4czdyV3Z5a2RIWG5tV2FVX0VXTnJaX2ctSzU1NHZoS181c1ROV0VIQVZvbzlZSlcxemxHeFNOYWc3WXIxVQ?oc=5",
           "desc": "",
           "title_en": "“Popular without almonds and chocolate”... Promotion of 'K Snack‘ by Lotte Well Food UNESCO World Heritage Committee",
           "title_ja": "「アーモンドとチョコレートなしで人気」…ロッテウェルフードユネスコ世界遺産委員会による「Kスナック」のプロモーション",
           "title_zh": "“流行不含杏仁和巧克力”...乐天Well Food联合国教科文组织世界遗产委员会推广“K Snack”"
-        },
-        {
-          "title": "한끼 음식에 깃든 조상의 삶…국중박 ‘우리들의 밥상’ 연계 강연회",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GV3NIT3dCRkxUeWFtM1Npc2VmSUU1d253YUQ4eHJyUUxqa3VxLW5HdnRmRXJReHdLdmNZNWF0TTlSMmVBdHZrbWxjRGo2cTliV0HSAVNBVV95cUxNWm1yNHV5Nm44ajFRcWQwUE9vY1lYb2VYcnROT3FVMjJ4VmpXTTZlc0swb1JrSGMzdDB2M183LUxldzV6SWd1LUQtdmZtYXFob1hNUQ?oc=5",
-          "desc": "",
-          "title_en": "The life of an ancestor in a meal… Gukjung Park's ‘Our Food’ Lecture",
-          "title_ja": "食事の中の先祖の生涯… Gukjung Parkの「私たちの食べ物」レクチャー",
-          "title_zh": "祖先吃饭的生活…… Gukjung Park的“我们的食物”讲座"
-        },
-        {
-          "title": "印 사로잡은 초코파이…생산라인 33% 늘려",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YSk1ZeXRwVGlUc3g2NzBvUHgyZDZrbHdKczA2RWthbHRMZFc5UFUwVi1QSEJtbTljVHFKQ1ZvUkxHS2NaVzBPMHYxbnlxcFRmVUHSAVNBVV95cUxOZ1IyVDllOXRYc0tnOEFvSlF5d0IzamlGaU12X09zRUV3QU1BbXdmRU9CLUk0NV9WNFZHRTlNX2F3SVJnOUVzc1N2S0FjTHVROFdQUQ?oc=5",
-          "desc": "",
-          "title_en": "Captivated chocolate pie… production line increased by 33%",
-          "title_ja": "魅惑的なチョコレートパイ…生産ラインが33 ％増加",
-          "title_zh": "迷人的巧克力馅饼…生产线增加了33%"
         }
       ]
     },
