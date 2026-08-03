@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T02:49:59Z",
+  "lastUpdated": "2026-08-03T06:23:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "축제 음식값·중량 미리 공개…문체부, 외국인 바가지 막는다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrYmpOZVNSd2lwN05FR3RIYzRNeDZvdnoxc1VWYnVUZ0xxQm1MQWtSSGlfbENRN3VwN0ViOW5fYlpWMEhvZXFqbWtqRDlPMUFOUGfSAVNBVV95cUxOTWI3Y0MtSkNiZ3NvOXBuVkIzaXZYRzlVbzFRV3kzY19tYkdkV0dmZFRlUlcxc0NMSEhKeHU3SHk5V3RHc2ZZVndwN2xnTVF0bU5wdw?oc=5",
+          "desc": "",
+          "title_en": "Festivals Food Prices and Weight Revealed in Advance... Ministry of Style, Prevent Foreign Bags",
+          "title_ja": "祭り食料価格と重量が事前に明らかにされました...スタイル省、外国のバッグを防ぐ",
+          "title_zh": "节日食品价格和重量提前揭晓...部风格，防止外国袋"
+        },
+        {
           "title": "코트라, 월마트 손잡고 K-뷰티·푸드 美 진출 지",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Mb29EZ09ld0F2R2hqQmNvOEZqcmxWel9kZWxYVUNXWkRFbmY2NGhMQjNDeWJGMUJ0M194aTcwazJNRTMyRklKOUF5QjktaXZOQnfSAVNBVV95cUxNa0xfZXNGX0VrZTBuNUpqSmwwRDFKNHVwT08wOGRhMnBYanVpQjFYNUNIcDc4TXoyNWtrLTFaZWhjMHh2bHpheWtRMHdCUlJka2RmMA?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "“Blood vessels get clogged after eating every day” … What about the food the doctors removed from the table [Health Time]",
           "title_ja": "「毎日食べると血管が詰まります」…医者がテーブルから取り出した食べ物はどうですか[Health Time]",
           "title_zh": "“每天进食后血管堵塞” ……医生从餐桌上拿走的食物怎么办【健康时间】"
-        },
-        {
-          "title": "“빼빼로 아몬드·초코 인기”...롯데웰푸드 유네스코 세계유산위원회서 ‘K스낵’ 홍보",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpZzViSWY0NVF6Qk5KSWl0ZlZLYjZCbDNqX04xV1ZPZi0yR01ONHNTMW1Bc2pEY210LWFGZ2o4aWZxa01pNExidkVyQklBRnR3N3fSAVNBVV95cUxOX2w5UmR6aFFsc3BndFB4czdyV3Z5a2RIWG5tV2FVX0VXTnJaX2ctSzU1NHZoS181c1ROV0VIQVZvbzlZSlcxemxHeFNOYWc3WXIxVQ?oc=5",
-          "desc": "",
-          "title_en": "“Popular without almonds and chocolate”... Promotion of 'K Snack‘ by Lotte Well Food UNESCO World Heritage Committee",
-          "title_ja": "「アーモンドとチョコレートなしで人気」…ロッテウェルフードユネスコ世界遺産委員会による「Kスナック」のプロモーション",
-          "title_zh": "“流行不含杏仁和巧克力”...乐天Well Food联合国教科文组织世界遗产委员会推广“K Snack”"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "乐天Well Food宣布联合国教科文组织世界遗产委员会“K-Snack”"
         },
         {
-          "title": "육류음식은 ‘레드’ 생선에는 ‘화이트’",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaOWpRWHh2cE9Od3NYV1RoLVZETE1xaXMyY2RST0pzYTFIUzQ1anMxLTdKM1VrMXJQZXdmZWVPeC1iTUs3TkE?oc=5",
+          "title": "“딸과 한국 여행, 친구도 사귀어”…샤를리즈 테론, K푸드·뷰티 사랑 고백",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9xQWRRQ2xkUnhEUVpJSl9hSUlIN245c2tlMHVKbVJSaEd5NTQwSEhWSE9VbWZYdU0tbFdEenhXamdLcUtRNWc?oc=5",
           "desc": "",
-          "title_en": "Meat is‘ red ’and fish is‘ white ’",
-          "title_ja": "肉は「赤」、魚は「白」",
-          "title_zh": "肉是“红色” ，鱼是“白色”"
+          "title_en": "“Travel to Korea with your daughter, make friends” … Charlize Theron, K-Food & Beauty Love Confession",
+          "title_ja": "「娘と韓国に旅行して友達を作ろう」… Charlize Theron、K - Food & Beauty Love Confession",
+          "title_zh": "“和女儿一起去韩国，结交朋友” …… Charlize Theron ， K-Food & Beauty Love Confession"
         }
       ]
     },
