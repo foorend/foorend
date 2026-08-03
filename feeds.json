@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T19:37:06Z",
+  "lastUpdated": "2026-08-03T22:08:49Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "피너클 푸드 그룹, 마틴 청 독립이사 선임..감사위원회 재무전문가 자격 보유",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11eGVDYm1ha1hmVWlNcmdPVnhHelNISm84N3l1T0lDZ3VCWjh2MFYxcVZEWXFSeUhzU2xnNzdfdGRIa0VNNi1pMzBoTFFWcjBWalE?oc=5",
+          "desc": "",
+          "title_en": "Pinnacle Foods Group Appoints Independent Director Martin Cheng as Financial Specialist for Audit Committee",
+          "title_ja": "Pinnacle Foods Group、独立取締役Martin Chengを監査委員会の財務スペシャリストに任命",
+          "title_zh": "Pinnacle Foods Group任命独立董事Martin Cheng为审计委员会财务专家"
+        },
+        {
           "title": "타이슨 푸드, 3분기 조정 영업이익 5억4700만 달러..전년비 8% 증가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iRDdfRUtPWGdtOW9RdkxvSF9Fa0dBc1YwRWpzbWtzSjk3XzJrLUh6aDlrQTF6WTZRQkZzU0wyTThaYTlRWEk4a25obTUzS1VES3c?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "“Travel to Korea with your daughter, make friends” … Charlize Theron, K-Food & Beauty Love Confession",
           "title_ja": "「娘と韓国に旅行して友達を作ろう」… Charlize Theron、K - Food & Beauty Love Confession",
           "title_zh": "“和女儿一起去韩国，结交朋友” …… Charlize Theron ， K-Food & Beauty Love Confession"
-        },
-        {
-          "title": "롯데웰푸드, 유네스코 세계유산위원회서 'K-스낵' 알렸다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByVDhrZmNMeGs4UXZjUE9aQkNMQ2xxYWdPSmZKWDRHeEZSRTkzeTdnV1pUd2Nxc2VkWGhIR2M2eEFpRWQwVUFNd25ra0JobkVoWUE?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Announces UNESCO World Heritage Committee 'K-Snack'",
-          "title_ja": "ロッテウェルフード、ユネスコ世界遺産委員会「K - Snack」を発表",
-          "title_zh": "乐天Well Food宣布联合国教科文组织世界遗产委员会“K-Snack”"
         }
       ]
     },
