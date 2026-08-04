@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-08-04T14:11:45Z",
+  "lastUpdated": "2026-08-04T16:50:35Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Restaurants and bars get relief on NFL Sunday Ticket switch",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPalZjOUFOV3Q0Rm9Idkl1SXRRa05CNG5sbG5WV3ZYZ1ZfQzU3bjZwZ194QmFldUIxQlhlWkc4dlFsNnJtQjJQMFVxdjktX1dSamhYa1lWbm5icmhkamJvODRtOTZuRkdZVjFvOTJuZ0lxNUZNd0hBd0RFRlBPamVPUlk0SGM1WWJlRDcxNkdDclJmbndSczh4SFFMd3owYzNvTFE?oc=5",
+          "desc": "",
+          "title_ko": "NFL Sunday Ticket 스위치로 안심할 수 있는 레스토랑과 바",
+          "title_ja": "NFLサンデーチケットスイッチでレストランとバーが安心",
+          "title_zh": "餐厅和酒吧通过NFL周日门票切换获得救济"
+        },
         {
           "title": "Jersey Mike's pre-IPO hype proves to be grossly inflated",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenBZcHZTejRrM0k3SG1kTTl3bDVFcXZ6cTRaeTBvbkhHRzY2M1ZNd2xPX0FfdXJ0ZEVHMF9oWWcwNElNR3RKMEJ0YlBLdUMzVmRLQWpMZFNub2tWZFRCSldaRnREOHFGNnVHbnk4aDVLRGlIekZwdlJrbTFZNWMzMnJEQ1JHS1diU0dLRlYxbWh4ZmlMdFAtODVtUUlBTS1f?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "Yum Brands는 Taco Bell 및 KFC에서 충성도를 두 배로 높입니다.",
           "title_ja": "Yum BrandsがTaco BellとKFCのロイヤルティを倍増",
           "title_zh": "Yum Brands在Taco Bell和肯德基的忠诚度加倍"
-        },
-        {
-          "title": "The Cheesecake Factory targets new, younger customers as positive momentum continues",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0k0Sk9RbjJKLTcxOGc3ejJBeHhEQ19kNi1EeWF3ZUJaOVNHeXllNkJtQXd0OFZ4OUtTa2ZDcktZNl9NUnV0UHgtNElCZWRWSW9EbGVOQ1c0U1hnR2cxbGpGQ2FqYTkxNmpWTUxNX2h0Y2l1ZE5uTHlGVHQyQkpMWHo0SnN0MmVqcThzWk5aa3hrQzdaclJ3Vkl3V1FTaEJPWVBtNm1Mc1dhV1ZfR0g3eWRjOFpjN2JMSE5TOWhBVjI?oc=5",
-          "desc": "",
-          "title_ko": "치즈케이크 팩토리 (Cheesecake Factory) 는 긍정적인 모멘텀이 계속됨에 따라 새롭고 젊은 고객을 대상으로 합니다.",
-          "title_ja": "チーズケーキ工場は、ポジティブな勢いが続くにつれて、新しい若い顧客をターゲットにしています",
-          "title_zh": "随着积极势头的持续，芝士蛋糕工厂瞄准新的年轻客户"
         }
       ]
     },
