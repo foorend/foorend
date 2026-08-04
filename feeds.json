@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T19:37:04Z",
+  "lastUpdated": "2026-08-04T22:11:46Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
           "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
           "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "#이동음식판매",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdlh0ZGFkdHdVMFhHUW8tSy12UXRNUk40SWFORzR2aVVPMzlHQ0xzc21ZVDJIOVJRYkc3TllIdEZqenFOZTBjdVhlTkliRWFGQVZFalpIdEFYMms?oc=5",
+          "desc": "",
+          "title_en": "# Moved food sales",
+          "title_ja": "#移動された料理の売り上げ",
+          "title_zh": "#移动餐点销售"
+        },
+        {
           "title": "현대그린푸드, 2분기 영업익 381억…전년비 23.4% 증가",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TVFObDhHMXlWTVNkSXNlUVBuU013OVdiVTdVX0U3TVR1QUtlSXl1X3dNdVIwUW5PMklOR1RrWTllYlZGZElWdGEtRmowUmZDSDFncUN2aE1JZw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Music and food are important for the 'end' … The final pairing to complete a meal [Kim Sae-bom's gourmet spring notes]",
           "title_ja": "音楽と食べ物は「終わり」のために重要です...食事を完成させるための最後のペアリング[Kim Sae - bomのグルメ春のメモ]",
           "title_zh": "音乐和美食对“结束”很重要……完成一顿饭的最后一对[Kim Sae-bom的美食春季音符]"
-        },
-        {
-          "title": "저출산에 한숨 쉬더니…'이 시장'에 올인하는 식품 대기업들 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySzRGRDh2SnhBX1g5TVFFNzgzMlkxMmhpSlYxUHlKRWh6S1RfRi1ZdHVRaGtVYXQ1YW1sX2tocFJNdFZ0Q2hFeTdnY25OdVp1eEk4b1pqb2xWQQ?oc=5",
-          "desc": "",
-          "title_en": "Sighing at low fertility... Food conglomerates going all-in on 'this market' [Trend +]",
-          "title_ja": "繁殖力の低さにため息をついている…「この市場」にすべてを注ぎ込む食品コングロマリット[トレンド+]",
-          "title_zh": "低生育率的叹息......食品集团全力以赴“这个市场” [趋势+]"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "G. 윌리-푸드 인터내셔널, 나스닥 상장폐지·텔아비브 단독 상장 전환",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OV3dheGRCUjNlQWdjcE9VaUxPQ1RqUHVFaVFBaGoxZkxuTWdpY3h3UmNXTVE2V0xFV3Y3SlFPMzNHdG9uZGNHU2VzM0F3ZmRyeWc?oc=5",
+          "desc": "",
+          "title_en": "G. Willie-Foods International delisted from Nasdaq and switched to sole listing in Tel Aviv",
+          "title_ja": "G. Willie - Foods Internationalがナスダックから上場を廃止し、テルアビブでの単独上場に切り替えました",
+          "title_zh": "G. Willie-Foods International从纳斯达克退市，并转而在特拉维夫独家上市"
+        },
+        {
           "title": "피너클 푸드 그룹, 마틴 청 독립이사 선임..감사위원회 재무전문가 자격 보유",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11eGVDYm1ha1hmVWlNcmdPVnhHelNISm84N3l1T0lDZ3VCWjh2MFYxcVZEWXFSeUhzU2xnNzdfdGRIa0VNNi1pMzBoTFFWcjBWalE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Samjeong KPMG “Food Delivery Market, Ecosystem Competition Intensified”",
           "title_ja": "Samjeong KPMG「フードデリバリー市場、エコシステム競争激化」",
           "title_zh": "三井毕马威“食品配送市场，生态系统竞争加剧”"
-        },
-        {
-          "title": "롯데웰푸드, 유네스코 세계유산위원회서 'K-스낵' 알렸다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByVDhrZmNMeGs4UXZjUE9aQkNMQ2xxYWdPSmZKWDRHeEZSRTkzeTdnV1pUd2Nxc2VkWGhIR2M2eEFpRWQwVUFNd25ra0JobkVoWUE?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Announces UNESCO World Heritage Committee 'K-Snack'",
-          "title_ja": "ロッテウェルフード、ユネスコ世界遺産委員会「K - Snack」を発表",
-          "title_zh": "乐天Well Food宣布联合国教科文组织世界遗产委员会“K-Snack”"
         }
       ]
     },
