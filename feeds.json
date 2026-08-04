@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T08:36:37Z",
+  "lastUpdated": "2026-08-04T11:22:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드, 2분기 영업익 381억…전년비 23.4% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TVFObDhHMXlWTVNkSXNlUVBuU013OVdiVTdVX0U3TVR1QUtlSXl1X3dNdVIwUW5PMklOR1RrWTllYlZGZElWdGEtRmowUmZDSDFncUN2aE1JZw?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Foods Operating Profit of 38.1 Billion in Q2… Up 23.4% YoY",
+          "title_ja": "現代グリーンフーズ、第2四半期の営業利益は381億円…前年同期比23.4%増",
+          "title_zh": "现代绿色食品第二季度营业利润为381亿…同比增长23.4%"
+        },
+        {
           "title": "음악도 음식도 '끝'이 중요하다…한 끼를 완성하는 마지막 페어링 [김새봄의 미식 스프링노트]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wNXpocF90V04yTFFyZGpTTVBCT0MydnRxc1BPZjFyNVBqWWs1OVFLSmVydEo1dWN2RnpaN3RpazlEWHVnZHVUSHVVU2diN0JadUFHUFBvNEljZw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Sighing at low fertility... Food conglomerates going all-in on 'this market' [Trend +]",
           "title_ja": "繁殖力の低さにため息をついている…「この市場」にすべてを注ぎ込む食品コングロマリット[トレンド+]",
           "title_zh": "低生育率的叹息......食品集团全力以赴“这个市场” [趋势+]"
-        },
-        {
-          "title": "李대통령, 칠레 '한국의 거리' 방문…\"한국음식 맛있나요\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpLW9xRWoyUnZjWkFXdGU0blkwZlZIYUprNE1nX2lfM2JycFZBN3pFUHp2enN3azgza3EwMnVZcDA1WS1uZThjSndpbG9qaW1zUzJxdzZPWExWdw?oc=5",
-          "desc": "",
-          "title_en": "President Byun visits' Korea's streets' in Chile... \"Is Korean food delicious?\"",
-          "title_ja": "ビョン大統領がチリの「韓国の通り」を訪問…「韓国料理はおいしいですか？」",
-          "title_zh": "Byun总统访问智利的“韩国街道”...... “韩国菜好吃吗？”"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Pinnacle Foods Group任命独立董事Martin Cheng为审计委员会财务专家"
         },
         {
-          "title": "“딸과 한국 여행, 친구도 사귀어”…샤를리즈 테론, K푸드·뷰티 사랑 고백",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9xQWRRQ2xkUnhEUVpJSl9hSUlIN245c2tlMHVKbVJSaEd5NTQwSEhWSE9VbWZYdU0tbFdEenhXamdLcUtRNWc?oc=5",
-          "desc": "",
-          "title_en": "“Travel to Korea with your daughter, make friends” … Charlize Theron, K-Food & Beauty Love Confession",
-          "title_ja": "「娘と韓国に旅行して友達を作ろう」… Charlize Theron、K - Food & Beauty Love Confession",
-          "title_zh": "“和女儿一起去韩国，结交朋友” …… Charlize Theron ， K-Food & Beauty Love Confession"
-        },
-        {
           "title": "롯데웰푸드, 유네스코 세계유산위원회서 'K-스낵' 알렸다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByVDhrZmNMeGs4UXZjUE9aQkNMQ2xxYWdPSmZKWDRHeEZSRTkzeTdnV1pUd2Nxc2VkWGhIR2M2eEFpRWQwVUFNd25ra0JobkVoWUE?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Announces UNESCO World Heritage Committee 'K-Snack'",
           "title_ja": "ロッテウェルフード、ユネスコ世界遺産委員会「K - Snack」を発表",
           "title_zh": "乐天Well Food宣布联合国教科文组织世界遗产委员会“K-Snack”"
+        },
+        {
+          "title": "유네스코 세계유산위원회 참가한 롯데웰푸드…“K스낵으로 세계 입맛 잡았다”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13RFQwQXpaUVVsblJ6TjU5cy03ZmFrRmV4UXRLR1dwNGp6Z1k4ODZIaXJ6Tzh0MmVERFRMcHJCUE5kTFhwdkxGc0xzbkd1dGkzb1pvZkJ3?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food participated in the UNESCO World Heritage Committee… “I got a taste of the world with K snacks”",
+          "title_ja": "ロッテウェルフードはユネスコ世界遺産委員会に参加しました…「Kスナックで世界を味わいました」",
+          "title_zh": "乐天健康食品参加了联合国教科文组织世界遗产委员会...... “我品尝了K零食的世界”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "味道好，美国的美食潮流"
         },
         {
-          "title": "카페인도 고른다…투썸플레이스 ‘하프 카페인 콜드브루’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OEpRaXlzdko0enhhX2RzV3puWkxRTnJJMjQ4Nl9WZW42UG90akF4d3k5dWw1ODM5TXJ2bzB6a0ljXzdfb1hrUjQwbTNWUGNKbGlXRkFfUQ?oc=5",
-          "desc": "",
-          "title_en": "I also choose caffeine… Twosome Place ‘Half Caffeine Cold Brew’",
-          "title_ja": "私もカフェインを選びます… Twosome Place「ハーフカフェインコールドブリュー」",
-          "title_zh": "我也选择咖啡因…… Twosome Place “半咖啡因冷酿”"
-        },
-        {
           "title": "“여기에 더 많아요”…잘못 알았던 식품 영양소",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWG9vY1hoSFlacDBCNFV6dlZ1MXhYWmRnSFRuZnRNUEw3OV9WdzV6VlZfcktWenNGWFpBZ0h4Sm9RbEpGS2diOEs2UEE1cGZWcUMyOTFHYw?oc=5",
           "desc": "",
           "title_en": "“There's more here” … the food nutrients I misunderstood",
           "title_ja": "「ここにはもっとあります」…私が誤解していた食品栄養素",
           "title_zh": "“这里还有更多” ……我误解的食物营养素"
+        },
+        {
+          "title": "콜라겐의 피부 노화 개선, 이 영양소가 필요해요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdFBGQ0NjWUQ1VFFvRkt6MmcxNDB6YTRCNDV1dUtkM3NYVUhZSjRfTkgyelBVOWVxSzRGeGJjNlVqa0VfdmNUV19EN2VqODhrdmdsWm5Tbw?oc=5",
+          "desc": "",
+          "title_en": "Collagen improves skin aging, I need this nutrient",
+          "title_ja": "コラーゲンは肌の老化を改善します、私はこの栄養素が必要です",
+          "title_zh": "胶原蛋白改善皮肤老化，我需要这种营养"
         }
       ]
     }
