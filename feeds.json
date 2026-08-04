@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-08-04T05:46:26Z",
+  "lastUpdated": "2026-08-04T08:36:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "DoorDash changes how it calculates fees for consumers",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
-          "desc": "",
-          "title_ko": "DoorDash는 소비자의 수수료 계산 방식을 변경합니다",
-          "title_ja": "DoorDashは消費者の手数料の計算方法を変更します",
-          "title_zh": "DoorDash更改了消费者费用的计算方式"
-        },
         {
           "title": "Jersey Mike's lands on the public markets with a thud",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlFlakMwZWc4OVJTV0pmaWNFX29MeEVuNXhhNExST2Y1T2pyZ0ptVEtyeWVfbFpkU1FLYUVydFg0RGV5am03NUNCc3lvT0dIRU1oNVp3Rjg3cC1PQzNCTC1KUnNrekRJQTRSYlo5R3FxY0Y0bGNDOHBNcnRoMmd2MDhYU2hkTDJuNlNKMVppa2pvcGM?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "저지 마이크 (Jersey Mike) 의 상장 전 과대 광고는 크게 부풀려진 것으로 나타났습니다.",
           "title_ja": "ジャージー・マイクのIPO前の誇大宣伝は大幅に膨らんでいることが判明",
           "title_zh": "事实证明，泽西迈克的IPO前炒作被严重夸大了"
+        },
+        {
+          "title": "Yum Brands doubles down on loyalty at Taco Bell and KFC",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlVab2puWG9YX0RIMXdlT0U0dFVjSnVfZjROUHB1VkxWQTNKT1lRX3hmYkpYXzJkRTdoYmg4MjVtVThJcjZ2RlhlSTh6V0tIMGlpS3FyZ29BMHU5N2ItWmVxNV9SaGFYQjVpU3B6Y2RqSW9VaVVnNUJ0SlBsN0RjR1hEZ0FtVXVlUzdjVU9HR0RfbWt4M3cxZl80TDJrSEh3?oc=5",
+          "desc": "",
+          "title_ko": "Yum Brands는 Taco Bell 및 KFC에서 충성도를 두 배로 높입니다.",
+          "title_ja": "Yum BrandsがTaco BellとKFCのロイヤルティを倍増",
+          "title_zh": "Yum Brands在Taco Bell和肯德基的忠诚度加倍"
         }
       ]
     },
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "현대그린푸드, 2분기 영업익 전년比 23.4%↑…자사주 133억 소각",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YNEZfdWNuc05UOE5ucXkyZ0szbmQ4dWIwTUpIT18wVGdQT2lJYVd0UkVZNHNERGZRQUVSQ3ZON0wyam5oYmR4U3hWRmlweEh3el9R0gFTQVVfeXFMT1g0Rl91Y25zTlQ4Tm5xeTJnSzNuZDh1YjBNSkhPXzBUZ1BPaUlhV3RSRVk0c0REZlFBRVJDdk43TDJqbmhiZHhTeFZGaXB4SHd6X1E?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Foods Earned 23.4% YoY in Q2↑… Treasury Shares Burned 13.3 Billion",
+          "title_ja": "Hyundai Green Foods、第2四半期に前年同期比23.4%の利益を上げた↑…自己株式は133億株を燃やした",
+          "title_zh": "现代绿色食品在第二季度同比盈利23.4%↑ …库存股燃烧133亿"
+        },
+        {
           "title": "축제 음식값·중량 미리 공개…문체부, 외국인 바가지 막는다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrYmpOZVNSd2lwN05FR3RIYzRNeDZvdnoxc1VWYnVUZ0xxQm1MQWtSSGlfbENRN3VwN0ViOW5fYlpWMEhvZXFqbWtqRDlPMUFOUGfSAVNBVV95cUxOTWI3Y0MtSkNiZ3NvOXBuVkIzaXZYRzlVbzFRV3kzY19tYkdkV0dmZFRlUlcxc0NMSEhKeHU3SHk5V3RHc2ZZVndwN2xnTVF0bU5wdw?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "KOTRA, Wal-Mart Hand in Place to Enter K-Beauty and Food America",
           "title_ja": "KOTRA、ウォルマートがK - BeautyとFood Americaに参入",
           "title_zh": "KOTRA ，沃尔玛携手进入K-Beauty和Food America"
-        },
-        {
-          "title": "“빼빼로 아몬드·초코 인기”...롯데웰푸드 유네스코 세계유산위원회서 ‘K스낵’ 홍보",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpZzViSWY0NVF6Qk5KSWl0ZlZLYjZCbDNqX04xV1ZPZi0yR01ONHNTMW1Bc2pEY210LWFGZ2o4aWZxa01pNExidkVyQklBRnR3N3fSAVNBVV95cUxOX2w5UmR6aFFsc3BndFB4czdyV3Z5a2RIWG5tV2FVX0VXTnJaX2ctSzU1NHZoS181c1ROV0VIQVZvbzlZSlcxemxHeFNOYWc3WXIxVQ?oc=5",
-          "desc": "",
-          "title_en": "“Popular without almonds and chocolate”... Promotion of 'K Snack‘ by Lotte Well Food UNESCO World Heritage Committee",
-          "title_ja": "「アーモンドとチョコレートなしで人気」…ロッテウェルフードユネスコ世界遺産委員会による「Kスナック」のプロモーション",
-          "title_zh": "“流行不含杏仁和巧克力”...乐天Well Food联合国教科文组织世界遗产委员会推广“K Snack”"
         }
       ]
     },
