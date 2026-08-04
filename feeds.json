@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-08-04T11:22:57Z",
+  "lastUpdated": "2026-08-04T14:11:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Jersey Mike's lands on the public markets with a thud",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlFlakMwZWc4OVJTV0pmaWNFX29MeEVuNXhhNExST2Y1T2pyZ0ptVEtyeWVfbFpkU1FLYUVydFg0RGV5am03NUNCc3lvT0dIRU1oNVp3Rjg3cC1PQzNCTC1KUnNrekRJQTRSYlo5R3FxY0Y0bGNDOHBNcnRoMmd2MDhYU2hkTDJuNlNKMVppa2pvcGM?oc=5",
-          "desc": "",
-          "title_ko": "저지 마이크 (Jersey Mike) 가 쿵쿵 소리를 내며 공공 시장에 상륙합니다.",
-          "title_ja": "ジャージー・マイクがパブリック・マーケットに上陸",
-          "title_zh": "泽西迈克在公共市场上的土地砰的一声"
-        },
         {
           "title": "Jersey Mike's pre-IPO hype proves to be grossly inflated",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenBZcHZTejRrM0k3SG1kTTl3bDVFcXZ6cTRaeTBvbkhHRzY2M1ZNd2xPX0FfdXJ0ZEVHMF9oWWcwNElNR3RKMEJ0YlBLdUMzVmRLQWpMZFNub2tWZFRCSldaRnREOHFGNnVHbnk4aDVLRGlIekZwdlJrbTFZNWMzMnJEQ1JHS1diU0dLRlYxbWh4ZmlMdFAtODVtUUlBTS1f?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "Yum Brands는 Taco Bell 및 KFC에서 충성도를 두 배로 높입니다.",
           "title_ja": "Yum BrandsがTaco BellとKFCのロイヤルティを倍増",
           "title_zh": "Yum Brands在Taco Bell和肯德基的忠诚度加倍"
+        },
+        {
+          "title": "The Cheesecake Factory targets new, younger customers as positive momentum continues",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0k0Sk9RbjJKLTcxOGc3ejJBeHhEQ19kNi1EeWF3ZUJaOVNHeXllNkJtQXd0OFZ4OUtTa2ZDcktZNl9NUnV0UHgtNElCZWRWSW9EbGVOQ1c0U1hnR2cxbGpGQ2FqYTkxNmpWTUxNX2h0Y2l1ZE5uTHlGVHQyQkpMWHo0SnN0MmVqcThzWk5aa3hrQzdaclJ3Vkl3V1FTaEJPWVBtNm1Mc1dhV1ZfR0g3eWRjOFpjN2JMSE5TOWhBVjI?oc=5",
+          "desc": "",
+          "title_ko": "치즈케이크 팩토리 (Cheesecake Factory) 는 긍정적인 모멘텀이 계속됨에 따라 새롭고 젊은 고객을 대상으로 합니다.",
+          "title_ja": "チーズケーキ工場は、ポジティブな勢いが続くにつれて、新しい若い顧客をターゲットにしています",
+          "title_zh": "随着积极势头的持续，芝士蛋糕工厂瞄准新的年轻客户"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "현대그린푸드, 2분기 영업익 전년比 23.4%↑…자사주 133억 소각",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YNEZfdWNuc05UOE5ucXkyZ0szbmQ4dWIwTUpIT18wVGdQT2lJYVd0UkVZNHNERGZRQUVSQ3ZON0wyam5oYmR4U3hWRmlweEh3el9R0gFTQVVfeXFMT1g0Rl91Y25zTlQ4Tm5xeTJnSzNuZDh1YjBNSkhPXzBUZ1BPaUlhV3RSRVk0c0REZlFBRVJDdk43TDJqbmhiZHhTeFZGaXB4SHd6X1E?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Z29WQ1lTNmV0WE91a2Q4QTdjejlLdEdFSmQtWnVERVlyd2NaUU4xeXpNTmswOFVpaGxEbFVwNHJhUXFTcThWZFUxTjR2U1ZVYmfSAVNBVV95cUxPWDRGX3VjbnNOVDhObnF5MmdLM25kOHViME1KSE9fMFRnUE9pSWFXdFJFWTRzRERmUUFFUkN2TjdMMmpuaGJkeFN4VkZpcHhId3pfUQ?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Foods Earned 23.4% YoY in Q2↑… Treasury Shares Burned 13.3 Billion",
           "title_ja": "Hyundai Green Foods、第2四半期に前年同期比23.4%の利益を上げた↑…自己株式は133億株を燃やした",
@@ -196,20 +196,20 @@
           "title_zh": "Pinnacle Foods Group任命独立董事Martin Cheng为审计委员会财务专家"
         },
         {
+          "title": "삼정KPMG “푸드 딜리버리 시장, 생태계 경쟁 본격화”",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04MFNqVGdMZVp2M1V5VHFDRUdNZVd6V3BQWmJfcGcwVjR3NnEtSW1BTzB4SEZiejdDTUdUQzJ0RjRidTZ6d2c?oc=5",
+          "desc": "",
+          "title_en": "Samjeong KPMG “Food Delivery Market, Ecosystem Competition Intensified”",
+          "title_ja": "Samjeong KPMG「フードデリバリー市場、エコシステム競争激化」",
+          "title_zh": "三井毕马威“食品配送市场，生态系统竞争加剧”"
+        },
+        {
           "title": "롯데웰푸드, 유네스코 세계유산위원회서 'K-스낵' 알렸다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByVDhrZmNMeGs4UXZjUE9aQkNMQ2xxYWdPSmZKWDRHeEZSRTkzeTdnV1pUd2Nxc2VkWGhIR2M2eEFpRWQwVUFNd25ra0JobkVoWUE?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Announces UNESCO World Heritage Committee 'K-Snack'",
           "title_ja": "ロッテウェルフード、ユネスコ世界遺産委員会「K - Snack」を発表",
           "title_zh": "乐天Well Food宣布联合国教科文组织世界遗产委员会“K-Snack”"
-        },
-        {
-          "title": "유네스코 세계유산위원회 참가한 롯데웰푸드…“K스낵으로 세계 입맛 잡았다”",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13RFQwQXpaUVVsblJ6TjU5cy03ZmFrRmV4UXRLR1dwNGp6Z1k4ODZIaXJ6Tzh0MmVERFRMcHJCUE5kTFhwdkxGc0xzbkd1dGkzb1pvZkJ3?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food participated in the UNESCO World Heritage Committee… “I got a taste of the world with K snacks”",
-          "title_ja": "ロッテウェルフードはユネスコ世界遺産委員会に参加しました…「Kスナックで世界を味わいました」",
-          "title_zh": "乐天健康食品参加了联合国教科文组织世界遗产委员会...... “我品尝了K零食的世界”"
         }
       ]
     },
