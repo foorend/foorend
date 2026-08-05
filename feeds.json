@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T11:20:36Z",
+  "lastUpdated": "2026-08-05T14:09:22Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "‘Tony’ Makes Bourdain Unlikeable, and That’s Why It Works",
+          "link": "https://www.eater.com/food-culture/978655/a24-tony-anthony-bourdain-movie-review",
+          "desc": "I went into Tony, Matt Johnson’s new Anthony Bourdain biopic, as I imagine many people in the food world did: hesitant and somewhat hoping to hate it,",
+          "title_ko": "‘토니’ 는 부르댕을 짝퉁으로 만들며, 그것이 작동하는 이유입니다.",
+          "title_ja": "「トニー」はBourdainを好ましくないものにし、それが機能する理由です",
+          "title_zh": "“Tony”让Bourdain讨厌，这就是为什么它有效"
+        },
+        {
           "title": "Why Is This Restaurant Emailing Me Like We’re Friends?",
           "link": "https://www.eater.com/dining-out/978611/restaurants-sending-emails-post-meal-follow-ups",
           "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
@@ -110,14 +118,6 @@
           "title_ko": "All Well Is Doing a Little Something for Everybody",
           "title_ja": "All Wellはみんなのためにちょっとしたことをしています",
           "title_zh": "All Well就是为每个人做一件小事"
-        },
-        {
-          "title": "The 38 Best Restaurants in Montreal, According to a Local Food Writer",
-          "link": "https://www.eater.com/maps/best-restaurants-montreal-quebec-canada",
-          "desc": "With its offbeat blend of poutine, pikliz, natural wine, and piri-piri, Montreal is a food city hors pair. You’ll find Italian, Jewish, Vietnamese, Le",
-          "title_ko": "현지 음식 전문가가 선정한 몬트리올 최고의 레스토랑 38곳",
-          "title_ja": "地元のフードライターによると、モントリオールで人気のレストラン38選",
-          "title_zh": "当地美食作家评选的蒙特利尔38家最佳餐厅"
         }
       ]
     }
@@ -144,12 +144,12 @@
           "title_zh": "现代绿色食品第二季度营业利润为381亿…同比增长23.4%"
         },
         {
-          "title": "애프터눈 티부터 씨푸드 나이트까지…호텔가 여름 미식 프로모션 풍성",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OSDg0MWpYaGctQXgtenQxZVlZUXlVNVJQbEc4ZlpGRzNrOGI2Q1NZZ0VucENLQlZUVVY2SmJyWHE2WjRtQ2NoSWNtc2FLVGxpVzJlRjV1eEdOdjNzSFU5dzI3RmZaV01D?oc=5",
+          "title": "음악도 음식도 '끝'이 중요하다…한 끼를 완성하는 마지막 페어링 [김새봄의 미식 스프링노트]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wNXpocF90V04yTFFyZGpTTVBCT0MydnRxc1BPZjFyNVBqWWs1OVFLSmVydEo1dWN2RnpaN3RpazlEWHVnZHVUSHVVU2diN0JadUFHUFBvNEljZw?oc=5",
           "desc": "",
-          "title_en": "From afternoon tea to seafood night… the hotel has plenty of summertime gourmet promotions",
-          "title_ja": "アフタヌーンティーからシーフードナイトまで…夏のグルメプロモーションが盛りだくさん",
-          "title_zh": "从下午茶到海鲜之夜……酒店提供丰富的夏季美食促销活动"
+          "title_en": "Music and food are important for the 'end' … The final pairing to complete a meal [Kim Sae-bom's gourmet spring notes]",
+          "title_ja": "音楽と食べ物は「終わり」のために重要です...食事を完成させるための最後のペアリング[Kim Sae - bomのグルメ春のメモ]",
+          "title_zh": "音乐和美食对“结束”很重要……完成一顿饭的最后一对[Kim Sae-bom的美食春季音符]"
         }
       ]
     },
