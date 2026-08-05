@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T02:32:48Z",
+  "lastUpdated": "2026-08-05T05:45:50Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "现代绿色食品第二季度营业利润为381亿…同比增长23.4%"
         },
         {
-          "title": "음악도 음식도 '끝'이 중요하다…한 끼를 완성하는 마지막 페어링 [김새봄의 미식 스프링노트]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wNXpocF90V04yTFFyZGpTTVBCT0MydnRxc1BPZjFyNVBqWWs1OVFLSmVydEo1dWN2RnpaN3RpazlEWHVnZHVUSHVVU2diN0JadUFHUFBvNEljZw?oc=5",
+          "title": "애프터눈 티부터 씨푸드 나이트까지…호텔가 여름 미식 프로모션 풍성",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OSDg0MWpYaGctQXgtenQxZVlZUXlVNVJQbEc4ZlpGRzNrOGI2Q1NZZ0VucENLQlZUVVY2SmJyWHE2WjRtQ2NoSWNtc2FLVGxpVzJlRjV1eEdOdjNzSFU5dzI3RmZaV01D?oc=5",
           "desc": "",
-          "title_en": "Music and food are important for the 'end' … The final pairing to complete a meal [Kim Sae-bom's gourmet spring notes]",
-          "title_ja": "音楽と食べ物は「終わり」のために重要です...食事を完成させるための最後のペアリング[Kim Sae - bomのグルメ春のメモ]",
-          "title_zh": "音乐和美食对“结束”很重要……完成一顿饭的最后一对[Kim Sae-bom的美食春季音符]"
+          "title_en": "From afternoon tea to seafood night… the hotel has plenty of summertime gourmet promotions",
+          "title_ja": "アフタヌーンティーからシーフードナイトまで…夏のグルメプロモーションが盛りだくさん",
+          "title_zh": "从下午茶到海鲜之夜……酒店提供丰富的夏季美食促销活动"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "CJ제일제당, ‘프론티어랩스 6기’ 푸드테크 스타트업 4곳 선발",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxeXdZX2VfYlZqX3A4SzNiV24tY3lUNlI1TDdfLTVJdHBSVXNaRGcyMHQxam5iV1BCajA4dHFVeDY0ZzFIMnNzc3pDTlozaFo1dHfSAVNBVV95cUxOZ1VnOWhCQTRDVS1XN3owODdhTUhsUkhkSDJoTVAxVTM4Mk9VR2lBUUNpNzM2X0tKaFRyUW9DbTkxOHhtUUlYbUtrcHIyYmhXRTltcw?oc=5",
+          "desc": "",
+          "title_en": "CJ CheilJedang Selects Four ‘Frontier Labs Stage 6’ Food Tech Startups",
+          "title_ja": "CJ CheilJedang、4つの「Frontier Labs Stage 6」フードテックスタートアップを選出",
+          "title_zh": "CJ CheilJedang选择四家“Frontier Labs Stage 6”食品科技创业公司"
+        },
         {
           "title": "현대그린푸드, 2분기 영업익 전년比 23.4%↑…자사주 133억 소각",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Z29WQ1lTNmV0WE91a2Q4QTdjejlLdEdFSmQtWnVERVlyd2NaUU4xeXpNTmswOFVpaGxEbFVwNHJhUXFTcThWZFUxTjR2U1ZVYmfSAVNBVV95cUxPWDRGX3VjbnNOVDhObnF5MmdLM25kOHViME1KSE9fMFRnUE9pSWFXdFJFWTRzRERmUUFFUkN2TjdMMmpuaGJkeFN4VkZpcHhId3pfUQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Festivals Food Prices and Weight Revealed in Advance... Ministry of Style, Prevent Foreign Bags",
           "title_ja": "祭り食料価格と重量が事前に明らかにされました...スタイル省、外国のバッグを防ぐ",
           "title_zh": "节日食品价格和重量提前揭晓...部风格，防止外国袋"
-        },
-        {
-          "title": "코트라, 월마트 손잡고 K-뷰티·푸드 美 진출 지",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Mb29EZ09ld0F2R2hqQmNvOEZqcmxWel9kZWxYVUNXWkRFbmY2NGhMQjNDeWJGMUJ0M194aTcwazJNRTMyRklKOUF5QjktaXZOQnfSAVNBVV95cUxNa0xfZXNGX0VrZTBuNUpqSmwwRDFKNHVwT08wOGRhMnBYanVpQjFYNUNIcDc4TXoyNWtrLTFaZWhjMHh2bHpheWtRMHdCUlJka2RmMA?oc=5",
-          "desc": "",
-          "title_en": "KOTRA, Wal-Mart Hand in Place to Enter K-Beauty and Food America",
-          "title_ja": "KOTRA、ウォルマートがK - BeautyとFood Americaに参入",
-          "title_zh": "KOTRA ，沃尔玛携手进入K-Beauty和Food America"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“这里还有更多” ……我误解的食物营养素"
         },
         {
-          "title": "세포의 청소 시스템 돕는 여름 보양식은?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kajFHaUpQWUNpWEtVR1hGczlEQ0QybXExeEhrRGk2N0k4OUpFcXo0aXZrYWdYMDRXUlE5Z1BiRFVZdW9zSDdnVWEtWTZlb2E0ekRtY0xqYw?oc=5",
+          "title": "콜라겐의 피부 노화 개선, 이 영양소가 필요해요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CdFBGQ0NjWUQ1VFFvRkt6MmcxNDB6YTRCNDV1dUtkM3NYVUhZSjRfTkgyelBVOWVxSzRGeGJjNlVqa0VfdmNUV19EN2VqODhrdmdsWm5Tbw?oc=5",
           "desc": "",
-          "title_en": "What is the summer treatment to help the cleaning system of the cells?",
-          "title_ja": "セルのクリーニングシステムに役立つ夏のトリートメントは何ですか？",
-          "title_zh": "什么是夏季护理，以帮助细胞的清洁系统？"
+          "title_en": "Collagen improves skin aging, I need this nutrient",
+          "title_ja": "コラーゲンは肌の老化を改善します、私はこの栄養素が必要です",
+          "title_zh": "胶原蛋白改善皮肤老化，我需要这种营养"
         }
       ]
     }
