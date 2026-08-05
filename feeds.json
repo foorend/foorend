@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T08:35:55Z",
+  "lastUpdated": "2026-08-05T11:20:36Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "餐厅和酒吧通过NFL周日门票切换获得救济"
         },
         {
-          "title": "Jersey Mike's pre-IPO hype proves to be grossly inflated",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenBZcHZTejRrM0k3SG1kTTl3bDVFcXZ6cTRaeTBvbkhHRzY2M1ZNd2xPX0FfdXJ0ZEVHMF9oWWcwNElNR3RKMEJ0YlBLdUMzVmRLQWpMZFNub2tWZFRCSldaRnREOHFGNnVHbnk4aDVLRGlIekZwdlJrbTFZNWMzMnJEQ1JHS1diU0dLRlYxbWh4ZmlMdFAtODVtUUlBTS1f?oc=5",
-          "desc": "",
-          "title_ko": "저지 마이크 (Jersey Mike) 의 상장 전 과대 광고는 크게 부풀려진 것으로 나타났습니다.",
-          "title_ja": "ジャージー・マイクのIPO前の誇大宣伝は大幅に膨らんでいることが判明",
-          "title_zh": "事实证明，泽西迈克的IPO前炒作被严重夸大了"
-        },
-        {
           "title": "Yum Brands doubles down on loyalty at Taco Bell and KFC",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlVab2puWG9YX0RIMXdlT0U0dFVjSnVfZjROUHB1VkxWQTNKT1lRX3hmYkpYXzJkRTdoYmg4MjVtVThJcjZ2RlhlSTh6V0tIMGlpS3FyZ29BMHU5N2ItWmVxNV9SaGFYQjVpU3B6Y2RqSW9VaVVnNUJ0SlBsN0RjR1hEZ0FtVXVlUzdjVU9HR0RfbWt4M3cxZl80TDJrSEh3?oc=5",
           "desc": "",
           "title_ko": "Yum Brands는 Taco Bell 및 KFC에서 충성도를 두 배로 높입니다.",
           "title_ja": "Yum BrandsがTaco BellとKFCのロイヤルティを倍増",
           "title_zh": "Yum Brands在Taco Bell和肯德基的忠诚度加倍"
+        },
+        {
+          "title": "The Cheesecake Factory targets new, younger customers as positive momentum continues",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0k0Sk9RbjJKLTcxOGc3ejJBeHhEQ19kNi1EeWF3ZUJaOVNHeXllNkJtQXd0OFZ4OUtTa2ZDcktZNl9NUnV0UHgtNElCZWRWSW9EbGVOQ1c0U1hnR2cxbGpGQ2FqYTkxNmpWTUxNX2h0Y2l1ZE5uTHlGVHQyQkpMWHo0SnN0MmVqcThzWk5aa3hrQzdaclJ3Vkl3V1FTaEJPWVBtNm1Mc1dhV1ZfR0g3eWRjOFpjN2JMSE5TOWhBVjI?oc=5",
+          "desc": "",
+          "title_ko": "치즈케이크 팩토리 (Cheesecake Factory) 는 긍정적인 모멘텀이 계속됨에 따라 새롭고 젊은 고객을 대상으로 합니다.",
+          "title_ja": "チーズケーキ工場は、ポジティブな勢いが続くにつれて、新しい若い顧客をターゲットにしています",
+          "title_zh": "随着积极势头的持续，芝士蛋糕工厂瞄准新的年轻客户"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Why Is This Restaurant Emailing Me Like We’re Friends?",
+          "link": "https://www.eater.com/dining-out/978611/restaurants-sending-emails-post-meal-follow-ups",
+          "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
+          "title_ko": "이 레스토랑에서 친구처럼 이메일을 보내는 이유는 무엇인가요?",
+          "title_ja": "このレストランから友達のようなメールが届くのはなぜですか？",
+          "title_zh": "为什么这家餐厅给我发电子邮件就像我们是朋友一样？"
+        },
+        {
           "title": "All Well Is Doing a Little Something for Everybody",
           "link": "https://www.eater.com/restaurant-news/978242/all-well-chicago-prep-video",
           "desc": "Chef Larry Feldmeier, the former chef de cuisine at Chicago’s two-Michelin-starred Oriole, wants to do a little something for everyone. His new restau",
@@ -110,14 +118,6 @@
           "title_ko": "현지 음식 전문가가 선정한 몬트리올 최고의 레스토랑 38곳",
           "title_ja": "地元のフードライターによると、モントリオールで人気のレストラン38選",
           "title_zh": "当地美食作家评选的蒙特利尔38家最佳餐厅"
-        },
-        {
-          "title": "Eater World’s Fare Was a Global Celebration of Food and Soccer",
-          "link": "https://www.eater.com/press-room/975492/eater-worlds-fare-was-a-global-celebration-of-food-and-soccer",
-          "desc": "On Saturday, on the eve of the world soccer finals, Eater hosted a lively celebration of food and sports in New York City, bringing thousands of atten",
-          "title_ko": "Eater World's Fare는 음식과 축구의 세계적인 축하 행사였습니다.",
-          "title_ja": "注文者の世界の料金は、フードとサッカーの世界的なお祝いでした",
-          "title_zh": "顾客世界的票价是全球食品和足球的庆祝活动"
         }
       ]
     }
