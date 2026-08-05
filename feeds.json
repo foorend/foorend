@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T19:34:38Z",
+  "lastUpdated": "2026-08-05T22:12:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“음식 왜 빨리 안 나와?”…KFC서 화난 30대 여성 돌발 행동 ‘충격’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xSTdWU0ItdVh0QkpfTlVkR2pPZkxydjhoc1lyb1o3RnBYR2hJc19UVEhaU3RSY2ZZbGN6LUVMUl9wYXl4WTBYMHlFV1pBNGJyeUE?oc=5",
+          "desc": "",
+          "title_en": "\"Why isn't the food coming out soon?” … ‘Shock‘ by a female in her 30s who was angry at KFC",
+          "title_ja": "「なぜすぐに食べ物が出ないのですか？「… KFCに腹を立てた30代の女性による「ショック」",
+          "title_zh": "“为什么食物不快出来？“ ……一位对肯德基感到愤怒的30多岁女性的‘震惊‘"
+        },
+        {
+          "title": "G. 윌리-푸드 인터내셔널, 나스닥 상장폐지·텔아비브 단독 상장 전환",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OV3dheGRCUjNlQWdjcE9VaUxPQ1RqUHVFaVFBaGoxZkxuTWdpY3h3UmNXTVE2V0xFV3Y3SlFPMzNHdG9uZGNHU2VzM0F3ZmRyeWc?oc=5",
+          "desc": "",
+          "title_en": "G. Willie-Foods International delisted from Nasdaq and switched to sole listing in Tel Aviv",
+          "title_ja": "G. Willie - Foods Internationalがナスダックから上場を廃止し、テルアビブでの単独上場に切り替えました",
+          "title_zh": "G. Willie-Foods International从纳斯达克退市，并转而在特拉维夫独家上市"
+        },
+        {
           "title": "J&J스낵푸드, 매출총이익률 개선·구조조정 성과에 시장 주목",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzMEJ3dVB6c2RLYWZCTGNTOGhucDBQVldWdDRjUGNmZHNNejdMZ1BBcnY5dmd6SmJqNFZIRUt1Y19YdUN4RHRPYXdhZXdXcGlDc3c?oc=5",
           "desc": "",
           "title_en": "J&J Snack Foods Focuses on Gross Margin Improvement and Restructuring Performance",
           "title_ja": "J&Jスナックは売上総利益率の改善と業績の再構築に焦点を当てています",
           "title_zh": "强生休闲食品专注于毛利率提升和重组业绩"
-        },
-        {
-          "title": "피너클 푸드 그룹, 마틴 청 독립이사 선임..감사위원회 재무전문가 자격 보유",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11eGVDYm1ha1hmVWlNcmdPVnhHelNISm84N3l1T0lDZ3VCWjh2MFYxcVZEWXFSeUhzU2xnNzdfdGRIa0VNNi1pMzBoTFFWcjBWalE?oc=5",
-          "desc": "",
-          "title_en": "Pinnacle Foods Group Appoints Independent Director Martin Cheng as Financial Specialist for Audit Committee",
-          "title_ja": "Pinnacle Foods Group、独立取締役Martin Chengを監査委員会の財務スペシャリストに任命",
-          "title_zh": "Pinnacle Foods Group任命独立董事Martin Cheng为审计委员会财务专家"
-        },
-        {
-          "title": "삼정KPMG “푸드 딜리버리 시장, 생태계 경쟁 본격화”",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04MFNqVGdMZVp2M1V5VHFDRUdNZVd6V3BQWmJfcGcwVjR3NnEtSW1BTzB4SEZiejdDTUdUQzJ0RjRidTZ6d2c?oc=5",
-          "desc": "",
-          "title_en": "Samjeong KPMG “Food Delivery Market, Ecosystem Competition Intensified”",
-          "title_ja": "Samjeong KPMG「フードデリバリー市場、エコシステム競争激化」",
-          "title_zh": "三井毕马威“食品配送市场，生态系统竞争加剧”"
         }
       ]
     },
