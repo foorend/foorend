@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T22:12:17Z",
+  "lastUpdated": "2026-08-06T02:34:56Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "#이동음식판매",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdlh0ZGFkdHdVMFhHUW8tSy12UXRNUk40SWFORzR2aVVPMzlHQ0xzc21ZVDJIOVJRYkc3TllIdEZqenFOZTBjdVhlTkliRWFGQVZFalpIdEFYMms?oc=5",
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 31일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yTFVXeUFMVkZuZDhSVHNXcE42ck5ndVdlZXhIMFR1WlJZZzloRGtKOHpZaXFQZWpRdjgtdHBQR290SW5QRzF0WWxyeGI2Q3J5amVwc014N19CQQ?oc=5",
           "desc": "",
-          "title_en": "# Moved food sales",
-          "title_ja": "#移動された料理の売り上げ",
-          "title_zh": "#移动餐点销售"
+          "title_en": "[Today's horoscope] What to eat today? … July 31 Recommended lunch menu by belt",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 7月31日おすすめランチメニューベルト付",
+          "title_zh": "【今天的星座】今天吃什么？ … 7月31日推荐腰带午餐菜单"
         },
         {
-          "title": "현대그린푸드, 2분기 영업익 381억…전년비 23.4% 증가",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TVFObDhHMXlWTVNkSXNlUVBuU013OVdiVTdVX0U3TVR1QUtlSXl1X3dNdVIwUW5PMklOR1RrWTllYlZGZElWdGEtRmowUmZDSDFncUN2aE1JZw?oc=5",
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 1일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZDhMQy1tNkM3YmFlMkVCeFhWVXNOUHNBNld0N2VHNlZYelRsZEliVVpTSDR4UFhXeE9JTTRvdHJBWHBPLVpmU3FCdWx5Q3Z4dFZnSXhRemNFQQ?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Foods Operating Profit of 38.1 Billion in Q2… Up 23.4% YoY",
-          "title_ja": "現代グリーンフーズ、第2四半期の営業利益は381億円…前年同期比23.4%増",
-          "title_zh": "现代绿色食品第二季度营业利润为381亿…同比增长23.4%"
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on August 1",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 8月1日にベルトでおすすめのランチメニュー",
+          "title_zh": "【今天的星座】今天吃什么？ … 8月1日腰带推荐午餐菜单"
         },
         {
-          "title": "애프터눈 티부터 씨푸드 나이트까지…호텔가 여름 미식 프로모션 풍성",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OSDg0MWpYaGctQXgtenQxZVlZUXlVNVJQbEc4ZlpGRzNrOGI2Q1NZZ0VucENLQlZUVVY2SmJyWHE2WjRtQ2NoSWNtc2FLVGxpVzJlRjV1eEdOdjNzSFU5dzI3RmZaV01D?oc=5",
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 2일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HRU9tak1iWU8zWGEydWJGQ3hJYVFESjVTQjQ1d3F3OERISm9jcTJLNFJOY2ZMOGdVS3Y0VV93ekQ4a05YVF9GRUo3MlJNSGU1a1AtOFA1LW5lQQ?oc=5",
           "desc": "",
-          "title_en": "From afternoon tea to seafood night… the hotel has plenty of summertime gourmet promotions",
-          "title_ja": "アフタヌーンティーからシーフードナイトまで…夏のグルメプロモーションが盛りだくさん",
-          "title_zh": "从下午茶到海鲜之夜……酒店提供丰富的夏季美食促销活动"
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on August 2",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 8月2日にベルトでおすすめのランチメニュー",
+          "title_zh": "【今天的星座】今天吃什么？ … 8月2日腰带推荐午餐菜单"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "카톡 하나로 음식 추천·배달까지…카카오, 쿠팡이츠와 맞손",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90ZHY3QmdKWFI5XzZ5cFgtaFBhajRQRF9pM2NIZFg3dHg0ME9jM052Xy1vbUc0ZzJzcVJTZkhHeThZdGZHbllFeW81U0RhNjF5Q1VB0gFTQVVfeXFMT3RkdjdCZ0pYUjlfNnlwWC1oUGFqNFBEX2kzY0hkWDd0eDQwT2MzTnZfLW9tRzRnMnNxUlNmSEd5OFl0ZkduWUV5bzVTRGE2MXlDVUE?oc=5",
+          "desc": "",
+          "title_en": "KakaoTalk Hanaro Food Recommendation · Delivery… Kakao and Coupangites",
+          "title_ja": "カカオトーク花郎料理おすすめ・デリバリー…カカオとクーパン",
+          "title_zh": "KakaoTalk Hanaro美食推荐·送餐…… Kakao和Coupangites"
+        },
         {
           "title": "CJ제일제당, ‘프론티어랩스 6기’ 푸드테크 스타트업 4곳 선발",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxeXdZX2VfYlZqX3A4SzNiV24tY3lUNlI1TDdfLTVJdHBSVXNaRGcyMHQxam5iV1BCajA4dHFVeDY0ZzFIMnNzc3pDTlozaFo1dHfSAVNBVV95cUxOZ1VnOWhCQTRDVS1XN3owODdhTUhsUkhkSDJoTVAxVTM4Mk9VR2lBUUNpNzM2X0tKaFRyUW9DbTkxOHhtUUlYbUtrcHIyYmhXRTltcw?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Hyundai Green Foods Earned 23.4% YoY in Q2↑… Treasury Shares Burned 13.3 Billion",
           "title_ja": "Hyundai Green Foods、第2四半期に前年同期比23.4%の利益を上げた↑…自己株式は133億株を燃やした",
           "title_zh": "现代绿色食品在第二季度同比盈利23.4%↑ …库存股燃烧133亿"
-        },
-        {
-          "title": "축제 음식값·중량 미리 공개…문체부, 외국인 바가지 막는다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrYmpOZVNSd2lwN05FR3RIYzRNeDZvdnoxc1VWYnVUZ0xxQm1MQWtSSGlfbENRN3VwN0ViOW5fYlpWMEhvZXFqbWtqRDlPMUFOUGfSAVNBVV95cUxOTWI3Y0MtSkNiZ3NvOXBuVkIzaXZYRzlVbzFRV3kzY19tYkdkV0dmZFRlUlcxc0NMSEhKeHU3SHk5V3RHc2ZZVndwN2xnTVF0bU5wdw?oc=5",
-          "desc": "",
-          "title_en": "Festivals Food Prices and Weight Revealed in Advance... Ministry of Style, Prevent Foreign Bags",
-          "title_ja": "祭り食料価格と重量が事前に明らかにされました...スタイル省、外国のバッグを防ぐ",
-          "title_zh": "节日食品价格和重量提前揭晓...部风格，防止外国袋"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“这里还有更多” ……我误解的食物营养素"
         },
         {
-          "title": "롯데웰푸드, 유네스코 세계유산위원회서 ‘K-스낵’ 제공",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZMVpPa0xYSkhZeFRzYjBhbkVGejEzRWM0NlZQX05IV1hnb1NkdVlFZTdPbGhEZllaVTFhTWt1bWFlb2dickZacmowdEVNakczRDIxRjVGVQ?oc=5",
+          "title": "“한국식으로 개량한 흑돼지, 햄버거에 넣었죠”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lbU5iQVI1dnN2U0o0QjdHRmhyUXJuYXB6bG9qOTliYlN2Q1ZIY3B6UWExTzdLRFZTSWt4R1cxQWRxd1pyUlpydmpfVUdLOW1raUx0aDE2Zw?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Offers‘ K-Snack ‘by UNESCO World Heritage Committee",
-          "title_ja": "ロッテウェルフードがユネスコ世界遺産委員会の「Kスナック」を提供",
-          "title_zh": "乐天健康食品由联合国教科文组织世界遗产委员会提供“K-Snack”"
+          "title_en": "“Korean-improved black pork, put in a hamburger”",
+          "title_ja": "「韓国産黒豚をハンバーグに入れる」",
+          "title_zh": "“韩国改良黑猪肉，放入汉堡包”"
         }
       ]
     }
