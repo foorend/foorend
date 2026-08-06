@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-08-06T05:48:32Z",
+  "lastUpdated": "2026-08-06T08:35:55Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Restaurants and bars get relief on NFL Sunday Ticket switch",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPalZjOUFOV3Q0Rm9Idkl1SXRRa05CNG5sbG5WV3ZYZ1ZfQzU3bjZwZ194QmFldUIxQlhlWkc4dlFsNnJtQjJQMFVxdjktX1dSamhYa1lWbm5icmhkamJvODRtOTZuRkdZVjFvOTJuZ0lxNUZNd0hBd0RFRlBPamVPUlk0SGM1WWJlRDcxNkdDclJmbndSczh4SFFMd3owYzNvTFE?oc=5",
-          "desc": "",
-          "title_ko": "NFL Sunday Ticket 스위치로 안심할 수 있는 레스토랑과 바",
-          "title_ja": "NFLサンデーチケットスイッチでレストランとバーが安心",
-          "title_zh": "餐厅和酒吧通过NFL周日门票切换获得救济"
-        },
         {
           "title": "Yum Brands doubles down on loyalty at Taco Bell and KFC",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlVab2puWG9YX0RIMXdlT0U0dFVjSnVfZjROUHB1VkxWQTNKT1lRX3hmYkpYXzJkRTdoYmg4MjVtVThJcjZ2RlhlSTh6V0tIMGlpS3FyZ29BMHU5N2ItWmVxNV9SaGFYQjVpU3B6Y2RqSW9VaVVnNUJ0SlBsN0RjR1hEZ0FtVXVlUzdjVU9HR0RfbWt4M3cxZl80TDJrSEh3?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "너무 많은 마케팅과 나쁜 할인은 지난 분기 맥도날드에 큰 타격을 입혔습니다.",
           "title_ja": "マーケティングが多すぎて割引率が低すぎると、マクドナルドの前四半期に打撃を与えました",
           "title_zh": "营销太多，折扣太差，对麦当劳上季度造成了影响"
+        },
+        {
+          "title": "Why Salad and Go will fail, according to its founders",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR1NFOWxsME42Y1NHWTdEdUo4VFBuWGZWY0dBQVk1QURESlJMOTVhdnQ4ZGFJZjdUcUtyV2JWUzgwV1dNVTFCNHpZVC1qZXNYa3R4clFNQjJTdnV1RlFmZF90M1hicXhwNmtud2VUcVpxRGF5clUybm80cElTYWVtbm81ZTRENkNoekhhNWY0aTN1U0hjY3A5TVZuSmk3Q3M?oc=5",
+          "desc": "",
+          "title_ko": "창업자들에 따르면 샐러드 앤 고가 실패하는 이유",
+          "title_ja": "創業者によると、なぜサラダと囲碁は失敗するのか",
+          "title_zh": "根据创始人的说法，为什么沙拉和围棋会失败"
         }
       ]
     },
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“AI가 신제품 기획”…CJ제일제당, ‘푸드 AI 360’ 글로벌 론칭",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vdVUxWFY3VFo2c2t6MUtOajRKZmxnTnBYWjZhdGVJRWJmdy0xeTVoQ2JQalh1X2VDRlhsYW5iUjdMaUhTVUVwU0NyMVRXNklxUXfSAVNBVV95cUxOb2FtN2hxbGk3ZkJBTy1zVWJnTkRfa1hLOXRla2VaZEJXZ05rRDJRUDl6NGVMTXZYbVByNkw3NUNXMmxVckxOYkRBS0NJNnZkQmFOMA?oc=5",
-          "desc": "",
-          "title_en": "“AI plans new products” … CJ CheilJedang launches‘ Food AI 360 ’global",
-          "title_ja": "「AIが新製品を計画」… CJ CheilJedangが「Food AI 360」をグローバルに発売",
-          "title_zh": "“AI计划新产品” … CJ CheilJedang在全球推出‘Food AI 360’"
-        },
-        {
           "title": "카톡 하나로 음식 추천·배달까지…카카오, 쿠팡이츠와 맞손",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03emFHanJSVm9Hcy1WaVNvNVJ6LTdMamdJUmdycXdkRHVTblJhTWl0aXJLNzVZRGFCQzZkd2U5U0Nfd1dJX2RZSnJ1OHhBenhOOVHSAVNBVV95cUxPdGR2N0JnSlhSOV82eXBYLWhQYWo0UERfaTNjSGRYN3R4NDBPYzNOdl8tb21HNGcyc3FSU2ZIR3k4WXRmR25ZRXlvNVNEYTYxeUNVQQ?oc=5",
           "desc": "",
           "title_en": "KakaoTalk Hanaro Food Recommendation · Delivery… Kakao and Coupangites",
           "title_ja": "カカオトーク花郎料理おすすめ・デリバリー…カカオとクーパン",
           "title_zh": "KakaoTalk Hanaro美食推荐·送餐…… Kakao和Coupangites"
+        },
+        {
+          "title": "“AI가 신제품 기획”…CJ제일제당, ‘푸드 AI 360’ 글로벌 론칭",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vdVUxWFY3VFo2c2t6MUtOajRKZmxnTnBYWjZhdGVJRWJmdy0xeTVoQ2JQalh1X2VDRlhsYW5iUjdMaUhTVUVwU0NyMVRXNklxUXfSAVNBVV95cUxOb2FtN2hxbGk3ZkJBTy1zVWJnTkRfa1hLOXRla2VaZEJXZ05rRDJRUDl6NGVMTXZYbVByNkw3NUNXMmxVckxOYkRBS0NJNnZkQmFOMA?oc=5",
+          "desc": "",
+          "title_en": "“AI plans new products” … CJ CheilJedang launches‘ Food AI 360 ’global",
+          "title_ja": "「AIが新製品を計画」… CJ CheilJedangが「Food AI 360」をグローバルに発売",
+          "title_zh": "“AI计划新产品” … CJ CheilJedang在全球推出‘Food AI 360’"
         },
         {
           "title": "CJ제일제당, ‘프론티어랩스 6기’ 푸드테크 스타트업 4곳 선발",
