@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T02:34:56Z",
+  "lastUpdated": "2026-08-06T05:48:32Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 31일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yTFVXeUFMVkZuZDhSVHNXcE42ck5ndVdlZXhIMFR1WlJZZzloRGtKOHpZaXFQZWpRdjgtdHBQR290SW5QRzF0WWxyeGI2Q3J5amVwc014N19CQQ?oc=5",
+          "title": "식품업계 최초…CJ제일제당, AI로 K푸드 영토 확장 나선다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlQXJfVjNqZkNYaFF1TnYxZUxVN2k5RHhxMDJHUFQ2SmtiUEpMU0VMYzh3TzBueVJzeEVvMC1EbWVGMWQtdzhFS201WTdwWTBSeE5EMWpzU3g2QQ?oc=5",
           "desc": "",
-          "title_en": "[Today's horoscope] What to eat today? … July 31 Recommended lunch menu by belt",
-          "title_ja": "【本日の星占い】今日は何を食べようか… 7月31日おすすめランチメニューベルト付",
-          "title_zh": "【今天的星座】今天吃什么？ … 7月31日推荐腰带午餐菜单"
+          "title_en": "First in the food industry… CJ CheilJedang Expands K-Food Territory with AI",
+          "title_ja": "食品業界初… CJ CheilJedangがAIでK - Foodテリトリーを拡大",
+          "title_zh": "食品行业第一…… CJ CheilJedang用人工智能拓展K-Food领域"
         },
         {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 1일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZDhMQy1tNkM3YmFlMkVCeFhWVXNOUHNBNld0N2VHNlZYelRsZEliVVpTSDR4UFhXeE9JTTRvdHJBWHBPLVpmU3FCdWx5Q3Z4dFZnSXhRemNFQQ?oc=5",
+          "title": "#이동음식판매",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdlh0ZGFkdHdVMFhHUW8tSy12UXRNUk40SWFORzR2aVVPMzlHQ0xzc21ZVDJIOVJRYkc3TllIdEZqenFOZTBjdVhlTkliRWFGQVZFalpIdEFYMms?oc=5",
           "desc": "",
-          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on August 1",
-          "title_ja": "【本日の星占い】今日は何を食べようか… 8月1日にベルトでおすすめのランチメニュー",
-          "title_zh": "【今天的星座】今天吃什么？ … 8月1日腰带推荐午餐菜单"
+          "title_en": "# Moved food sales",
+          "title_ja": "#移動された料理の売り上げ",
+          "title_zh": "#移动餐点销售"
         },
         {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 2일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HRU9tak1iWU8zWGEydWJGQ3hJYVFESjVTQjQ1d3F3OERISm9jcTJLNFJOY2ZMOGdVS3Y0VV93ekQ4a05YVF9GRUo3MlJNSGU1a1AtOFA1LW5lQQ?oc=5",
+          "title": "애프터눈 티부터 씨푸드 나이트까지…호텔가 여름 미식 프로모션 풍성",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OSDg0MWpYaGctQXgtenQxZVlZUXlVNVJQbEc4ZlpGRzNrOGI2Q1NZZ0VucENLQlZUVVY2SmJyWHE2WjRtQ2NoSWNtc2FLVGxpVzJlRjV1eEdOdjNzSFU5dzI3RmZaV01D?oc=5",
           "desc": "",
-          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on August 2",
-          "title_ja": "【本日の星占い】今日は何を食べようか… 8月2日にベルトでおすすめのランチメニュー",
-          "title_zh": "【今天的星座】今天吃什么？ … 8月2日腰带推荐午餐菜单"
+          "title_en": "From afternoon tea to seafood night… the hotel has plenty of summertime gourmet promotions",
+          "title_ja": "アフタヌーンティーからシーフードナイトまで…夏のグルメプロモーションが盛りだくさん",
+          "title_zh": "从下午茶到海鲜之夜……酒店提供丰富的夏季美食促销活动"
         }
       ]
     },
@@ -158,8 +158,16 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“AI가 신제품 기획”…CJ제일제당, ‘푸드 AI 360’ 글로벌 론칭",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vdVUxWFY3VFo2c2t6MUtOajRKZmxnTnBYWjZhdGVJRWJmdy0xeTVoQ2JQalh1X2VDRlhsYW5iUjdMaUhTVUVwU0NyMVRXNklxUXfSAVNBVV95cUxOb2FtN2hxbGk3ZkJBTy1zVWJnTkRfa1hLOXRla2VaZEJXZ05rRDJRUDl6NGVMTXZYbVByNkw3NUNXMmxVckxOYkRBS0NJNnZkQmFOMA?oc=5",
+          "desc": "",
+          "title_en": "“AI plans new products” … CJ CheilJedang launches‘ Food AI 360 ’global",
+          "title_ja": "「AIが新製品を計画」… CJ CheilJedangが「Food AI 360」をグローバルに発売",
+          "title_zh": "“AI计划新产品” … CJ CheilJedang在全球推出‘Food AI 360’"
+        },
+        {
           "title": "카톡 하나로 음식 추천·배달까지…카카오, 쿠팡이츠와 맞손",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90ZHY3QmdKWFI5XzZ5cFgtaFBhajRQRF9pM2NIZFg3dHg0ME9jM052Xy1vbUc0ZzJzcVJTZkhHeThZdGZHbllFeW81U0RhNjF5Q1VB0gFTQVVfeXFMT3RkdjdCZ0pYUjlfNnlwWC1oUGFqNFBEX2kzY0hkWDd0eDQwT2MzTnZfLW9tRzRnMnNxUlNmSEd5OFl0ZkduWUV5bzVTRGE2MXlDVUE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03emFHanJSVm9Hcy1WaVNvNVJ6LTdMamdJUmdycXdkRHVTblJhTWl0aXJLNzVZRGFCQzZkd2U5U0Nfd1dJX2RZSnJ1OHhBenhOOVHSAVNBVV95cUxPdGR2N0JnSlhSOV82eXBYLWhQYWo0UERfaTNjSGRYN3R4NDBPYzNOdl8tb21HNGcyc3FSU2ZIR3k4WXRmR25ZRXlvNVNEYTYxeUNVQQ?oc=5",
           "desc": "",
           "title_en": "KakaoTalk Hanaro Food Recommendation · Delivery… Kakao and Coupangites",
           "title_ja": "カカオトーク花郎料理おすすめ・デリバリー…カカオとクーパン",
@@ -172,14 +180,6 @@
           "title_en": "CJ CheilJedang Selects Four ‘Frontier Labs Stage 6’ Food Tech Startups",
           "title_ja": "CJ CheilJedang、4つの「Frontier Labs Stage 6」フードテックスタートアップを選出",
           "title_zh": "CJ CheilJedang选择四家“Frontier Labs Stage 6”食品科技创业公司"
-        },
-        {
-          "title": "현대그린푸드, 2분기 영업익 전년比 23.4%↑…자사주 133억 소각",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Z29WQ1lTNmV0WE91a2Q4QTdjejlLdEdFSmQtWnVERVlyd2NaUU4xeXpNTmswOFVpaGxEbFVwNHJhUXFTcThWZFUxTjR2U1ZVYmfSAVNBVV95cUxPWDRGX3VjbnNOVDhObnF5MmdLM25kOHViME1KSE9fMFRnUE9pSWFXdFJFWTRzRERmUUFFUkN2TjdMMmpuaGJkeFN4VkZpcHhId3pfUQ?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Foods Earned 23.4% YoY in Q2↑… Treasury Shares Burned 13.3 Billion",
-          "title_ja": "Hyundai Green Foods、第2四半期に前年同期比23.4%の利益を上げた↑…自己株式は133億株を燃やした",
-          "title_zh": "现代绿色食品在第二季度同比盈利23.4%↑ …库存股燃烧133亿"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "J&J스낵푸드, 매출총이익률 개선·구조조정 성과에 시장 주목",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzMEJ3dVB6c2RLYWZCTGNTOGhucDBQVldWdDRjUGNmZHNNejdMZ1BBcnY5dmd6SmJqNFZIRUt1Y19YdUN4RHRPYXdhZXdXcGlDc3c?oc=5",
+          "desc": "",
+          "title_en": "J&J Snack Foods Focuses on Gross Margin Improvement and Restructuring Performance",
+          "title_ja": "J&Jスナックは売上総利益率の改善と業績の再構築に焦点を当てています",
+          "title_zh": "强生休闲食品专注于毛利率提升和重组业绩"
+        },
         {
           "title": "“음식 왜 빨리 안 나와?”…KFC서 화난 30대 여성 돌발 행동 ‘충격’",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xSTdWU0ItdVh0QkpfTlVkR2pPZkxydjhoc1lyb1o3RnBYR2hJc19UVEhaU3RSY2ZZbGN6LUVMUl9wYXl4WTBYMHlFV1pBNGJyeUE?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "G. Willie-Foods International delisted from Nasdaq and switched to sole listing in Tel Aviv",
           "title_ja": "G. Willie - Foods Internationalがナスダックから上場を廃止し、テルアビブでの単独上場に切り替えました",
           "title_zh": "G. Willie-Foods International从纳斯达克退市，并转而在特拉维夫独家上市"
-        },
-        {
-          "title": "J&J스낵푸드, 매출총이익률 개선·구조조정 성과에 시장 주목",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzMEJ3dVB6c2RLYWZCTGNTOGhucDBQVldWdDRjUGNmZHNNejdMZ1BBcnY5dmd6SmJqNFZIRUt1Y19YdUN4RHRPYXdhZXdXcGlDc3c?oc=5",
-          "desc": "",
-          "title_en": "J&J Snack Foods Focuses on Gross Margin Improvement and Restructuring Performance",
-          "title_ja": "J&Jスナックは売上総利益率の改善と業績の再構築に焦点を当てています",
-          "title_zh": "强生休闲食品专注于毛利率提升和重组业绩"
         }
       ]
     },
