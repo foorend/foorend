@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-08-07T15:55:48Z",
+  "lastUpdated": "2026-08-07T18:56:49Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Did the consumer kill Salad and Go?",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObWt0T01DTlQyQV9ia25XR0hlMkdodFVZa2J1ZVNHcl96RW44M0ktMmhJdGJUVTZINEVuRzh3M0tvT2NycFc5SWttejY1cnNuV1BZRGI5b0dsSVE3SlZUamd6UUctdVdHbHp6Y3VOc043WjhsMGc2ZlRPalVvbVlOQ2NvY09MUQ?oc=5",
+          "desc": "",
+          "title_ko": "소비자가 샐러드를 죽이고 갔나요?",
+          "title_ja": "消費者はサラダとゴーを殺しましたか？",
+          "title_zh": "消费者是否杀死了Salad and Go ？"
+        },
         {
           "title": "Portillo's lays off corporate staff as it seeks to cut costs",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2FYN3ZFaTFDLXJqSU5lUTl4LUluVUJCT1VSa3JTbUIwWmFwZ0F1SzEyNTVSMGozS24zWmdRNjZUbG8tSWdQRWl1c1RKeU5RdDMwb09BbjE1eVQ2Y0RndW1qVmEyUmgxVWRfMXA2QklBNUdweW1kZWNzVENxZG9pSHNIZ3ZFVE1wMlRFUjA0QmNEZTdYQlo1aTFaVmhNdnVLTGc?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "너무 많은 마케팅과 나쁜 할인은 지난 분기 맥도날드에 큰 타격을 입혔습니다.",
           "title_ja": "マーケティングが多すぎて割引率が低すぎると、マクドナルドの前四半期に打撃を与えました",
           "title_zh": "营销太多，折扣太差，对麦当劳上季度造成了影响"
-        },
-        {
-          "title": "Outback Steakhouse co-founder says turnaround is on the right track",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnJwRGpnQUk1MDhGVTJWcWlRcUFMTDM5QlBRSnBHZmEtNlB4ZVlNblY3UU9MQ0pDQ0M3TmFnRWxKT0xfd2ZoRE5ZQXUzdmp4ay1OSlJwaFpfWnJxWHVHMm5GMWhLMmJXNDB3MWIzdlBuVGhUX2lMZjhoSHgtVTQ5NFYxOXJLdXVSTVJMOGlwWWowcEVkTEg2TTlzVTVIdm5lYU9Sd0UyNA?oc=5",
-          "desc": "",
-          "title_ko": "아웃백 스테이크하우스의 공동 창업자 겸 창업자가 '턴어라운드가 올바른 방향으로 가고 있다' 고 말합니다.",
-          "title_ja": "Outback Steakhouseの共同創業者は、ターンアラウンドは正しい軌道に乗っていると述べています",
-          "title_zh": "Outback Steakhouse联合创始人表示，扭亏为盈的道路是正确的"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "冰淇淋海外销售额增长…乐天健康食品运营利润飙升88.5%"
         },
         {
-          "title": "현대그린푸드, 그리팅 냉동형 케어푸드 신제품 만나보세요~!",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGhnbE5oSGxERVBRY0pHUWdwdXBjZ3VBdUd0M201Q2xmZ01Ubnp5UmNMYXZPbmVvY0Q3bHB6NUVXb2NfT1F2TXlmODktQWl4ZjlWekVQMkRIX3VBa1ZGWjRWTl9WZlNmZDY1TWx6amRLWjdTTEM5bEUtNXF0MU4zcGd4Y0xnMUk?oc=5",
-          "desc": "",
-          "title_en": "Discover Hyundai Green Food, Greeting Frozen Care Food ~!",
-          "title_ja": "ヒュンダイグリーンフード、挨拶冷凍ケアフードを発見しよう〜！",
-          "title_zh": "探索现代绿色食品，迎接冷冻护理食品~ ！"
-        },
-        {
           "title": "농수산식품유통공사, 세계 최대 할랄시장 뚫은 K푸드…라면·인삼 앞세워 수출길 넓혀",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkRQN3U5QmtLMVhNdmc0OURGeGJfbkVwLVduOXZEVXFXcnVQTS0ydTk4S2tsUHVfczVRY2NpSDBZUW1QSjVvNVlLNE9QZXdZRzR2U0I3TFhNX3RkRXpwQk1tUGFjcGhyemJKb28tNldHTEFIT2E4eVpSdkFsckZaS2VLRHdrbUE?oc=5",
           "desc": "",
           "title_en": "Agriculture, Fisheries and Food Distribution Corporation, K-food pierced through the world's largest halal market… Expanding the export route in front of ramen and ginseng",
           "title_ja": "農水食品流通公社、世界最大のハラール市場を貫くK - food…ラーメンと朝鮮人参の前で輸出ルートを拡大",
           "title_zh": "农业，渔业和食品分销公司， K-food穿过世界上最大的清真市场......扩大拉面和人参前的出口路线"
+        },
+        {
+          "title": "식품업계 최초…CJ제일제당, AI로 K푸드 영토 확장 나선다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlQXJfVjNqZkNYaFF1TnYxZUxVN2k5RHhxMDJHUFQ2SmtiUEpMU0VMYzh3TzBueVJzeEVvMC1EbWVGMWQtdzhFS201WTdwWTBSeE5EMWpzU3g2QQ?oc=5",
+          "desc": "",
+          "title_en": "First in the food industry… CJ CheilJedang Expands K-Food Territory with AI",
+          "title_ja": "食品業界初… CJ CheilJedangがAIでK - Foodテリトリーを拡大",
+          "title_zh": "食品行业第一…… CJ CheilJedang用人工智能拓展K-Food领域"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "Kakao和Coupangites在垂直人工智能领域开展合作……订购KakaoTalk Delivery"
         },
         {
-          "title": "“AI가 신제품 기획”…CJ제일제당, ‘푸드 AI 360’ 글로벌 론칭",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vdVUxWFY3VFo2c2t6MUtOajRKZmxnTnBYWjZhdGVJRWJmdy0xeTVoQ2JQalh1X2VDRlhsYW5iUjdMaUhTVUVwU0NyMVRXNklxUXfSAVNBVV95cUxOb2FtN2hxbGk3ZkJBTy1zVWJnTkRfa1hLOXRla2VaZEJXZ05rRDJRUDl6NGVMTXZYbVByNkw3NUNXMmxVckxOYkRBS0NJNnZkQmFOMA?oc=5",
+          "title": "카톡 하나로 음식 추천·배달까지…카카오, 쿠팡이츠와 맞손",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03emFHanJSVm9Hcy1WaVNvNVJ6LTdMamdJUmdycXdkRHVTblJhTWl0aXJLNzVZRGFCQzZkd2U5U0Nfd1dJX2RZSnJ1OHhBenhOOVHSAVNBVV95cUxPdGR2N0JnSlhSOV82eXBYLWhQYWo0UERfaTNjSGRYN3R4NDBPYzNOdl8tb21HNGcyc3FSU2ZIR3k4WXRmR25ZRXlvNVNEYTYxeUNVQQ?oc=5",
           "desc": "",
-          "title_en": "“AI plans new products” … CJ CheilJedang launches‘ Food AI 360 ’global",
-          "title_ja": "「AIが新製品を計画」… CJ CheilJedangが「Food AI 360」をグローバルに発売",
-          "title_zh": "“AI计划新产品” … CJ CheilJedang在全球推出‘Food AI 360’"
+          "title_en": "KakaoTalk Hanaro Food Recommendation · Delivery… Kakao and Coupangites",
+          "title_ja": "カカオトーク花郎料理おすすめ・デリバリー…カカオとクーパン",
+          "title_zh": "KakaoTalk Hanaro美食推荐·送餐…… Kakao和Coupangites"
         }
       ]
     },
