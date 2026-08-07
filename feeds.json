@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-08-06T14:09:42Z",
+  "lastUpdated": "2026-08-07T00:00:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Yum Brands doubles down on loyalty at Taco Bell and KFC",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlVab2puWG9YX0RIMXdlT0U0dFVjSnVfZjROUHB1VkxWQTNKT1lRX3hmYkpYXzJkRTdoYmg4MjVtVThJcjZ2RlhlSTh6V0tIMGlpS3FyZ29BMHU5N2ItWmVxNV9SaGFYQjVpU3B6Y2RqSW9VaVVnNUJ0SlBsN0RjR1hEZ0FtVXVlUzdjVU9HR0RfbWt4M3cxZl80TDJrSEh3?oc=5",
-          "desc": "",
-          "title_ko": "Yum Brands는 Taco Bell 및 KFC에서 충성도를 두 배로 높입니다.",
-          "title_ja": "Yum BrandsがTaco BellとKFCのロイヤルティを倍増",
-          "title_zh": "Yum Brands在Taco Bell和肯德基的忠诚度加倍"
-        },
         {
           "title": "Too much marketing, and a bad discount, hurt McDonald’s last quarter",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFdGSDhxbVFwOXh6TE5Janp2TG5tYlFEYkR6cmxBWEFZUGpybTVsZF82T1hOMVZ3VFQwY0xPR0tRa19wUUN5Y0xCZXk0RGRuYXVxVXFKblBMUmVNbFBDTWkyVGt6WDlPRy1kX0pxdHhZbmlHQmtyN1plbE1URUhHM0RyeDVhZmxpWG1pMVBCMEVRM2w2aDBLTWRDRUY5cFViOHpCTERwSHcyZw?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "너무 많은 마케팅과 나쁜 할인은 지난 분기 맥도날드에 큰 타격을 입혔습니다.",
           "title_ja": "マーケティングが多すぎて割引率が低すぎると、マクドナルドの前四半期に打撃を与えました",
           "title_zh": "营销太多，折扣太差，对麦当劳上季度造成了影响"
+        },
+        {
+          "title": "Outback Steakhouse co-founder says turnaround is on the right track",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnJwRGpnQUk1MDhGVTJWcWlRcUFMTDM5QlBRSnBHZmEtNlB4ZVlNblY3UU9MQ0pDQ0M3TmFnRWxKT0xfd2ZoRE5ZQXUzdmp4ay1OSlJwaFpfWnJxWHVHMm5GMWhLMmJXNDB3MWIzdlBuVGhUX2lMZjhoSHgtVTQ5NFYxOXJLdXVSTVJMOGlwWWowcEVkTEg2TTlzVTVIdm5lYU9Sd0UyNA?oc=5",
+          "desc": "",
+          "title_ko": "아웃백 스테이크하우스의 공동 창업자 겸 창업자가 '턴어라운드가 올바른 방향으로 가고 있다' 고 말합니다.",
+          "title_ja": "Outback Steakhouseの共同創業者は、ターンアラウンドは正しい軌道に乗っていると述べています",
+          "title_zh": "Outback Steakhouse联合创始人表示，扭亏为盈的道路是正确的"
         },
         {
           "title": "Why Salad and Go will fail, according to its founders",
@@ -136,20 +136,20 @@
           "title_zh": "食品行业第一…… CJ CheilJedang用人工智能拓展K-Food领域"
         },
         {
+          "title": "농수산식품유통공사, 세계 최대 할랄시장 뚫은 K푸드…라면·인삼 앞세워 수출길 넓혀",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Tc3dMVEFONUdCaXhMWG1LM3g1QzJKcGRHM2huZ0xHcHdhUzBpUHg2MFZqb29nU0RPQk43d3ZjbmI2NkpMQ1pIeEREdWFKd0tLMS1YYldSMVVZSF92TjRpb1pYM05FcWdYdnZRclg5TFc4NHJxT3kyMlB1RVU2YXc?oc=5",
+          "desc": "",
+          "title_en": "Agriculture, Fisheries and Food Distribution Corporation, K-food pierced through the world's largest halal market… Expanding the export route in front of ramen and ginseng",
+          "title_ja": "農水食品流通公社、世界最大のハラール市場を貫くK - food…ラーメンと朝鮮人参の前で輸出ルートを拡大",
+          "title_zh": "农业，渔业和食品分销公司， K-food穿过世界上最大的清真市场......扩大拉面和人参前的出口路线"
+        },
+        {
           "title": "#이동음식판매",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdlh0ZGFkdHdVMFhHUW8tSy12UXRNUk40SWFORzR2aVVPMzlHQ0xzc21ZVDJIOVJRYkc3TllIdEZqenFOZTBjdVhlTkliRWFGQVZFalpIdEFYMms?oc=5",
           "desc": "",
           "title_en": "# Moved food sales",
           "title_ja": "#移動された料理の売り上げ",
           "title_zh": "#移动餐点销售"
-        },
-        {
-          "title": "현대그린푸드, 2분기 영업익 381억…전년비 23.4% 증가",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TVFObDhHMXlWTVNkSXNlUVBuU013OVdiVTdVX0U3TVR1QUtlSXl1X3dNdVIwUW5PMklOR1RrWTllYlZGZElWdGEtRmowUmZDSDFncUN2aE1JZw?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Foods Operating Profit of 38.1 Billion in Q2… Up 23.4% YoY",
-          "title_ja": "現代グリーンフーズ、第2四半期の営業利益は381億円…前年同期比23.4%増",
-          "title_zh": "现代绿色食品第二季度营业利润为381亿…同比增长23.4%"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "“AI计划新产品” … CJ CheilJedang在全球推出‘Food AI 360’"
         },
         {
-          "title": "CJ제일제당, ‘프론티어랩스 6기’ 푸드테크 스타트업 4곳 선발",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxeXdZX2VfYlZqX3A4SzNiV24tY3lUNlI1TDdfLTVJdHBSVXNaRGcyMHQxam5iV1BCajA4dHFVeDY0ZzFIMnNzc3pDTlozaFo1dHfSAVNBVV95cUxOZ1VnOWhCQTRDVS1XN3owODdhTUhsUkhkSDJoTVAxVTM4Mk9VR2lBUUNpNzM2X0tKaFRyUW9DbTkxOHhtUUlYbUtrcHIyYmhXRTltcw?oc=5",
+          "title": "“아침을 먹긴 먹었는데 영 힘이 없네”…공복에 먹으면 안되는 음식, 뭐길래 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oLWtzSTNtaUFxSmxIM05La2JfRC01QzI4T3JRRlZTdjNUZ2ExV25FTkRJemNDTW9iSFVmT0ZMOGRvZHptTTZpQTFCREJkQjdFUHfSAVNBVV95cUxOSkJFZ3pTNWJnWU1PTFhIR2RpZG5DZ3ZZd05MZmc5eTBjQ3diZDNablBfd0xKUDg4VkxqOWZzRUF1cG53Vk42QVV5dXRiemRheVlCVQ?oc=5",
           "desc": "",
-          "title_en": "CJ CheilJedang Selects Four ‘Frontier Labs Stage 6’ Food Tech Startups",
-          "title_ja": "CJ CheilJedang、4つの「Frontier Labs Stage 6」フードテックスタートアップを選出",
-          "title_zh": "CJ CheilJedang选择四家“Frontier Labs Stage 6”食品科技创业公司"
+          "title_en": "“I ate breakfast, but I have no spiritual strength” … Food that should not be eaten on an empty stomach, what is it? [Health time]",
+          "title_ja": "「朝食を食べましたが、精神的な力はありません」…空腹時に食べるべきではない食べ物、それは何ですか？【健康時間】",
+          "title_zh": "“我吃了早餐，但没有精神力量” ……不应该空腹吃的食物，是什么？【健康时间】"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "임우일 “유통기한 지난 음식 먹고 유산균 만든다”",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFcFZuY2VqZjdpXzhLM1Z5dzU5eXNoT0hjV1hHMHdqcG1TTk9Sam43eTNMamtueU10MnhTdHU1N3NYTkx2VmFXZWNTS01NOXZNSmVlTHd2cEY?oc=5",
+          "desc": "",
+          "title_en": "Imwooil “Eating expired food and making lactobacillus”",
+          "title_ja": "Imwooil「期限切れの食べ物を食べて乳酸菌を作る」",
+          "title_zh": "Imwooil “吃过期的食物和制造乳酸菌”"
+        },
         {
           "title": "J&J스낵푸드, 매출총이익률 개선·구조조정 성과에 시장 주목",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzMEJ3dVB6c2RLYWZCTGNTOGhucDBQVldWdDRjUGNmZHNNejdMZ1BBcnY5dmd6SmJqNFZIRUt1Y19YdUN4RHRPYXdhZXdXcGlDc3c?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "\"Why isn't the food coming out soon?” … ‘Shock‘ by a female in her 30s who was angry at KFC",
           "title_ja": "「なぜすぐに食べ物が出ないのですか？「… KFCに腹を立てた30代の女性による「ショック」",
           "title_zh": "“为什么食物不快出来？“ ……一位对肯德基感到愤怒的30多岁女性的‘震惊‘"
-        },
-        {
-          "title": "서부발전 노사, 푸드트럭으로 근로자 안전 챙긴다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vbzJGWjNMZWhDS1hpSE4tUE9RZkVYYzhNSzNOUlpnc3VhT0tSR3ZsYlBXVko5UE5nbGZ2dHBwVHZjbDZmZnc?oc=5",
-          "desc": "",
-          "title_en": "Western power workers take care of worker safety with food trucks",
-          "title_ja": "西洋の電力労働者がフードトラックで労働者の安全を守る",
-          "title_zh": "西方电力工人用美食卡车保护工人安全"
         }
       ]
     },
