@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-08-07T21:38:29Z",
+  "lastUpdated": "2026-08-08T01:39:40Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Wendy's new CEO laments the brand's 'quality degradation'",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDdEUEloeGs5cWZfVDFPUXNaUHRzWUw2ZXFCaXF2NVJXVm1iVzJJMHFyUzAwQkxfUVhiT0wtSE1nMmtIb2RFZUM3aVhub2NHMEtGczNYVURNbHF0THlWTzVOODBldHBSdXpOWUlYYURNOFFmbElYRlV6VENmdnFkaWZkNU5icDlNN0x0WjdRYTMxZGtRaG9qM0FQLTE?oc=5",
+          "desc": "",
+          "title_ko": "Wendy의 새로운 CEO는 브랜드의 '품질 저하' 를 한탄합니다.",
+          "title_ja": "ウェンディの新しいCEOは、ブランドの「品質低下」を嘆いています",
+          "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
+        },
         {
           "title": "Logan's pushes the envelope with offbeat menu items",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVo2czNxQjZiNGMweVhKWEVPNjdKYmN1UmRrRmtueElUMjV2TXpuUDAxTUdVR00yZFp0WWJDRGRjUWlBcTdxZXplQkxrLXFENnl6OWRoSFlFVnp1ZnBNSVAwRi1yMzdLWlpjNVEzLVJwN0R3X3NwU1M2UUUwYkozQUQ0amJ1bW9Ic0hn?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "소비자가 샐러드를 죽이고 갔나요?",
           "title_ja": "消費者はサラダとゴーを殺しましたか？",
           "title_zh": "消费者是否杀死了Salad and Go ？"
-        },
-        {
-          "title": "An interview with Sysco CEO Kevin Hourican",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW5qSE5OM1pyWHpzT0plVFIzTEg2X2F3dWZpNG1fTDlvZHlyMEsyUTl6TTd1dVNXZ1NxaWxBZFhpbm1wMDl1MF9WTHd5dEZDMUxjNXhuVnhTMGN6cXRFRS04ejNUZmNGXzhTd1FnamRIdDlzZm5JbU5CNkFGMlhibTd6bm1aczdk?oc=5",
-          "desc": "",
-          "title_ko": "Sysco CEO Kevin Hourican과의 인터뷰",
-          "title_ja": "Sysco CEOのKevin Hourican氏へのインタビュー",
-          "title_zh": "采访Sysco首席执行官Kevin Hourican"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "Kakao和Coupangites在垂直人工智能领域开展合作……订购KakaoTalk Delivery"
         },
         {
-          "title": "“AI가 신제품 기획”…CJ제일제당, ‘푸드 AI 360’ 글로벌 론칭",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vdVUxWFY3VFo2c2t6MUtOajRKZmxnTnBYWjZhdGVJRWJmdy0xeTVoQ2JQalh1X2VDRlhsYW5iUjdMaUhTVUVwU0NyMVRXNklxUXfSAVNBVV95cUxOb2FtN2hxbGk3ZkJBTy1zVWJnTkRfa1hLOXRla2VaZEJXZ05rRDJRUDl6NGVMTXZYbVByNkw3NUNXMmxVckxOYkRBS0NJNnZkQmFOMA?oc=5",
+          "title": "“아침을 먹긴 먹었는데 영 힘이 없네”…공복에 먹으면 안되는 음식, 뭐길래 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oLWtzSTNtaUFxSmxIM05La2JfRC01QzI4T3JRRlZTdjNUZ2ExV25FTkRJemNDTW9iSFVmT0ZMOGRvZHptTTZpQTFCREJkQjdFUHfSAVNBVV95cUxOSkJFZ3pTNWJnWU1PTFhIR2RpZG5DZ3ZZd05MZmc5eTBjQ3diZDNablBfd0xKUDg4VkxqOWZzRUF1cG53Vk42QVV5dXRiemRheVlCVQ?oc=5",
           "desc": "",
-          "title_en": "“AI plans new products” … CJ CheilJedang launches‘ Food AI 360 ’global",
-          "title_ja": "「AIが新製品を計画」… CJ CheilJedangが「Food AI 360」をグローバルに発売",
-          "title_zh": "“AI计划新产品” … CJ CheilJedang在全球推出‘Food AI 360’"
+          "title_en": "“I ate breakfast, but I have no spiritual strength” … Food that should not be eaten on an empty stomach, what is it? [Health time]",
+          "title_ja": "「朝食を食べましたが、精神的な力はありません」…空腹時に食べるべきではない食べ物、それは何ですか？【健康時間】",
+          "title_zh": "“我吃了早餐，但没有精神力量” ……不应该空腹吃的食物，是什么？【健康时间】"
         }
       ]
     },
