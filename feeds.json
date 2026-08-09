@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T18:40:03Z",
+  "lastUpdated": "2026-08-09T21:31:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Logan's推出了与众不同的菜单项目"
         },
         {
-          "title": "An interview with Sysco CEO Kevin Hourican",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW5qSE5OM1pyWHpzT0plVFIzTEg2X2F3dWZpNG1fTDlvZHlyMEsyUTl6TTd1dVNXZ1NxaWxBZFhpbm1wMDl1MF9WTHd5dEZDMUxjNXhuVnhTMGN6cXRFRS04ejNUZmNGXzhTd1FnamRIdDlzZm5JbU5CNkFGMlhibTd6bm1aczdk?oc=5",
+          "title": "Did the consumer kill Salad and Go?",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObWt0T01DTlQyQV9ia25XR0hlMkdodFVZa2J1ZVNHcl96RW44M0ktMmhJdGJUVTZINEVuRzh3M0tvT2NycFc5SWttejY1cnNuV1BZRGI5b0dsSVE3SlZUamd6UUctdVdHbHp6Y3VOc043WjhsMGc2ZlRPalVvbVlOQ2NvY09MUQ?oc=5",
           "desc": "",
-          "title_ko": "Sysco CEO Kevin Hourican과의 인터뷰",
-          "title_ja": "Sysco CEOのKevin Hourican氏へのインタビュー",
-          "title_zh": "采访Sysco首席执行官Kevin Hourican"
+          "title_ko": "소비자가 샐러드를 죽이고 갔나요?",
+          "title_ja": "消費者はサラダとゴーを殺しましたか？",
+          "title_zh": "消费者是否杀死了Salad and Go ？"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "探索现代绿色食品，迎接冷冻护理食品~ ！"
         },
         {
-          "title": "해외서 아이스크림 판매 늘더니…롯데웰푸드 영업익 88.5% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Da0paRGEtLXVaTzVDS3RNdE5nRWpfY3JXSE9oYkJ5MkRfUkxRSVRMc0VJMjZDa0Z2eGZ0S2ZJVFFVNFJ6MEgzT1c3dXNqNUlRRWFjZWgzdDRlUQ?oc=5",
-          "desc": "",
-          "title_en": "Ice Cream Sales Increased Abroad… Lotte Well Food Operating Profit Surged 88.5%",
-          "title_ja": "海外でのアイスクリーム販売が増加…ロッテウェルフード営業利益が88.5%急増",
-          "title_zh": "冰淇淋海外销售额增长…乐天健康食品运营利润飙升88.5%"
-        },
-        {
           "title": "“가성비 스테이크 통했다” … 잠실 회식 ‘핫플’된 ‘텍사스로드하우스’",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xUEZmaV8xeEFteTB3TEJVRVlHOFJYenhWS1pZWkt6bmtmbkFSZ2RXRVlrT0NmVS1pNGNxSmQ4N21NMlg4d1drYkx1N05BYThDNG9mMUZySnFhUQ?oc=5",
           "desc": "",
           "title_en": "“It was a good value steak” … Jamsil Dinner ‘Hot’ ‘Texas Roadhouse’",
           "title_ja": "「お得なステーキでした」…ジャムディナー「ホット」「テキサスロードハウス」",
           "title_zh": "“这牛排物超所值” ……蚕室晚餐“Hot” “Texas Roadhouse”"
+        },
+        {
+          "title": "해외서 아이스크림 판매 늘더니…롯데웰푸드 영업익 88.5% 급증",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Da0paRGEtLXVaTzVDS3RNdE5nRWpfY3JXSE9oYkJ5MkRfUkxRSVRMc0VJMjZDa0Z2eGZ0S2ZJVFFVNFJ6MEgzT1c3dXNqNUlRRWFjZWgzdDRlUQ?oc=5",
+          "desc": "",
+          "title_en": "Ice Cream Sales Increased Abroad… Lotte Well Food Operating Profit Surged 88.5%",
+          "title_ja": "海外でのアイスクリーム販売が増加…ロッテウェルフード営業利益が88.5%急増",
+          "title_zh": "冰淇淋海外销售额增长…乐天健康食品运营利润飙升88.5%"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“印度必应和巧克力派”奏效……乐天健康食品第二季度89%的营业利润↑"
         },
         {
-          "title": "카카오, 쿠팡이츠와 ‘버티컬AI 협업’…카톡서 배달 음식 주문한다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nUzJ6NUtxaFAzS2VFNVJGT2tSOU5pY21tYmtUTFgySmFEQ0FXSHgzYjZMUmJyX2drdlVicnludklNbGJGa2htNTBqV0c1RFpZelHSAVNBVV95cUxONHdnTjgwQ3JsUWZ2enZrS0NmM3ZvX0swNmd6NzBfZTNfUkFFSGc3Tno4bHRnTWhBVlFMX0JJUHlibUNCcXUxcHRMX3NDWnlRVTBlSQ?oc=5",
-          "desc": "",
-          "title_en": "Kakao and Coupangites Collaborate on Vertical AI… Order KakaoTalk Delivery",
-          "title_ja": "KakaoとCoupangitesが垂直AIでコラボレーション… KakaoTalkデリバリーを注文",
-          "title_zh": "Kakao和Coupangites在垂直人工智能领域开展合作……订购KakaoTalk Delivery"
-        },
-        {
           "title": "“아침을 먹긴 먹었는데 영 힘이 없네”…공복에 먹으면 안되는 음식, 뭐길래 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oLWtzSTNtaUFxSmxIM05La2JfRC01QzI4T3JRRlZTdjNUZ2ExV25FTkRJemNDTW9iSFVmT0ZMOGRvZHptTTZpQTFCREJkQjdFUHfSAVNBVV95cUxOSkJFZ3pTNWJnWU1PTFhIR2RpZG5DZ3ZZd05MZmc5eTBjQ3diZDNablBfd0xKUDg4VkxqOWZzRUF1cG53Vk42QVV5dXRiemRheVlCVQ?oc=5",
           "desc": "",
           "title_en": "“I ate breakfast, but I have no spiritual strength” … Food that should not be eaten on an empty stomach, what is it? [Health time]",
           "title_ja": "「朝食を食べましたが、精神的な力はありません」…空腹時に食べるべきではない食べ物、それは何ですか？【健康時間】",
           "title_zh": "“我吃了早餐，但没有精神力量” ……不应该空腹吃的食物，是什么？【健康时间】"
+        },
+        {
+          "title": "카카오, 쿠팡이츠와 ‘버티컬AI 협업’…카톡서 배달 음식 주문한다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nUzJ6NUtxaFAzS2VFNVJGT2tSOU5pY21tYmtUTFgySmFEQ0FXSHgzYjZMUmJyX2drdlVicnludklNbGJGa2htNTBqV0c1RFpZelHSAVNBVV95cUxONHdnTjgwQ3JsUWZ2enZrS0NmM3ZvX0swNmd6NzBfZTNfUkFFSGc3Tno4bHRnTWhBVlFMX0JJUHlibUNCcXUxcHRMX3NDWnlRVTBlSQ?oc=5",
+          "desc": "",
+          "title_en": "Kakao and Coupangites Collaborate on Vertical AI… Order KakaoTalk Delivery",
+          "title_ja": "KakaoとCoupangitesが垂直AIでコラボレーション… KakaoTalkデリバリーを注文",
+          "title_zh": "Kakao和Coupangites在垂直人工智能领域开展合作……订购KakaoTalk Delivery"
         }
       ]
     },
