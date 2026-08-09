@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T21:29:39Z",
+  "lastUpdated": "2026-08-09T01:45:24Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "남도장터 확대 개편…'K푸드산업진흥원' 12월 출범",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YUpyNndrZFlCalFVbFlDSkIzVEZJVzlUNHBLU05tQXFSa01iSU94dFBBTDJxLVk0V3pOcUcybHFnMlJHX0d1bGctN1RJWFVNdEE?oc=5",
+          "desc": "",
+          "title_en": "Reorganization of the Southern Market Expansion… 'K-Food Industry Promotion Institute' was launched in December",
+          "title_ja": "南部市場拡大の再編… 12月に「K食品産業振興院」が発足",
+          "title_zh": "南方市场扩张重组…… “韩国食品产业促进会”于12月启动"
+        },
+        {
+          "title": "현대그린푸드, 텍사스로드하우스 잠실점 100일 5만5천명 방문",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nek1CeHVUY0gtVHZvMmd4Z3BES3hMaXFJOTk4alVhajJNNW44eFE5UE1kb1NCUzNvNGVEdTNmMm1Tb2lHMjJuWU4zdXF1cm9TS1E?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, Texas Roadhouse Jamsil Branch Visited by 55,000 Visitors in 100 Days",
+          "title_ja": "ヒュンダイグリーンフード、テキサスロードハウスジャムシル支店、100日間で55,000人の訪問者が訪れました",
+          "title_zh": "现代绿色食品，德克萨斯州Roadhouse Jamsil分店在100天内接待了55,000名访客"
+        },
+        {
           "title": "“너무 감사드려” 허경환 큰절까지… ‘놀뭐’ 멤버들 정지선 초호화 음식에 큰 감동 [종합]",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jb1RFb29ZR2l2dE9SZDZoQWZzOC16TWw4UW1mdFl3QjEtUWFZQjVDQUF0Q3pGbmVLcVVFUnpXeDk2WUJHVDkzeUVtdlZpQkI4YTVCZWY2RHROMmszQXpOcS16ODlsUQ?oc=5",
           "desc": "",
           "title_en": "“Thank you so much,” Heo Kyung-hwan even said… ‘Play’ members are very impressed with the stop line extravagant food [synthesis]",
           "title_ja": "「どうもありがとうございました」とホ・ギョンファンは言いました…「プレイ」のメンバーは、ストップラインの贅沢な食べ物に非常に感銘を受けています[総合]",
           "title_zh": "“非常感谢你，”许庆焕甚至说…… ‘PLAY‘会员对站台上的奢侈美食印象深刻【合成】"
-        },
-        {
-          "title": "서민 음식의 반란?…캐비아·금박 올린 100달러짜리 핫도그 연일 ‘완판’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oOGJiUTdIamZnb09mb0VuTDUxX05mLUpjVWtsel83QVlocWtCVkRQUVhaVlRSUmp1SGcwOFVsVDNHSDVJNHpNaU5MMEppRFl3MkE?oc=5",
-          "desc": "",
-          "title_en": "The rebellion of popular food? … Caviar and gilt-raised $100 hot dog every other day.",
-          "title_ja": "人気の食べ物の反乱？...キャビアと金箔で育てられた100ドルのホットドッグが一日おきに登場します。",
-          "title_zh": "流行食物的叛逆？ ……鱼子酱和镀金热狗每隔一天就卖100美元。"
-        },
-        {
-          "title": "“시원한 음료·팥빙수 먹고 하세요”…호반그룹, 건설현장서 ‘푸드트럭’ 운영",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTcndYckFXS25ZRjUteUoxbGV4SGlldi1jSGdGczhjZFFvb1R4UnRSdHFGcW9FOENGc29FaFhwTVdtRVAxdE9hajgzOEdkaEY5RkFKY1F3cURJVXZhUWQtalFmODVWbGZwbFE?oc=5",
-          "desc": "",
-          "title_en": "“Have a cool drink · Red bean bingsu” … Lakeside Group operates‘ Food Truck ‘at the construction site",
-          "title_ja": "「冷たい飲み物を・紅豆びんす」…レイクサイドグループが工事現場で「フードトラック」を運営",
-          "title_zh": "“喝杯凉爽的饮料·红豆冰苏” ……湖滨集团在施工现场经营“美食车”"
         }
       ]
     },
