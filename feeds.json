@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T01:45:24Z",
+  "lastUpdated": "2026-08-09T04:17:21Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
         },
         {
-          "title": "An interview with Sysco CEO Kevin Hourican",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW5qSE5OM1pyWHpzT0plVFIzTEg2X2F3dWZpNG1fTDlvZHlyMEsyUTl6TTd1dVNXZ1NxaWxBZFhpbm1wMDl1MF9WTHd5dEZDMUxjNXhuVnhTMGN6cXRFRS04ejNUZmNGXzhTd1FnamRIdDlzZm5JbU5CNkFGMlhibTd6bm1aczdk?oc=5",
-          "desc": "",
-          "title_ko": "Sysco CEO Kevin Hourican과의 인터뷰",
-          "title_ja": "Sysco CEOのKevin Hourican氏へのインタビュー",
-          "title_zh": "采访Sysco首席执行官Kevin Hourican"
-        },
-        {
           "title": "Logan's pushes the envelope with offbeat menu items",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVo2czNxQjZiNGMweVhKWEVPNjdKYmN1UmRrRmtueElUMjV2TXpuUDAxTUdVR00yZFp0WWJDRGRjUWlBcTdxZXplQkxrLXFENnl6OWRoSFlFVnp1ZnBNSVAwRi1yMzdLWlpjNVEzLVJwN0R3X3NwU1M2UUUwYkozQUQ0amJ1bW9Ic0hn?oc=5",
           "desc": "",
           "title_ko": "Logan 's는 탁월한 메뉴 아이템으로 봉투를 밀어 넣습니다.",
           "title_ja": "Logan'sは、他に類を見ないメニューアイテムでエンベロープを押し広げています",
           "title_zh": "Logan's推出了与众不同的菜单项目"
+        },
+        {
+          "title": "An interview with Sysco CEO Kevin Hourican",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW5qSE5OM1pyWHpzT0plVFIzTEg2X2F3dWZpNG1fTDlvZHlyMEsyUTl6TTd1dVNXZ1NxaWxBZFhpbm1wMDl1MF9WTHd5dEZDMUxjNXhuVnhTMGN6cXRFRS04ejNUZmNGXzhTd1FnamRIdDlzZm5JbU5CNkFGMlhibTd6bm1aczdk?oc=5",
+          "desc": "",
+          "title_ko": "Sysco CEO Kevin Hourican과의 인터뷰",
+          "title_ja": "Sysco CEOのKevin Hourican氏へのインタビュー",
+          "title_zh": "采访Sysco首席执行官Kevin Hourican"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "探索现代绿色食品，迎接冷冻护理食品~ ！"
         },
         {
-          "title": "농수산식품유통공사, 세계 최대 할랄시장 뚫은 K푸드…라면·인삼 앞세워 수출길 넓혀",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkRQN3U5QmtLMVhNdmc0OURGeGJfbkVwLVduOXZEVXFXcnVQTS0ydTk4S2tsUHVfczVRY2NpSDBZUW1QSjVvNVlLNE9QZXdZRzR2U0I3TFhNX3RkRXpwQk1tUGFjcGhyemJKb28tNldHTEFIT2E4eVpSdkFsckZaS2VLRHdrbUE?oc=5",
+          "title": "“가성비 스테이크 통했다” … 잠실 회식 ‘핫플’된 ‘텍사스로드하우스’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xUEZmaV8xeEFteTB3TEJVRVlHOFJYenhWS1pZWkt6bmtmbkFSZ2RXRVlrT0NmVS1pNGNxSmQ4N21NMlg4d1drYkx1N05BYThDNG9mMUZySnFhUQ?oc=5",
           "desc": "",
-          "title_en": "Agriculture, Fisheries and Food Distribution Corporation, K-food pierced through the world's largest halal market… Expanding the export route in front of ramen and ginseng",
-          "title_ja": "農水食品流通公社、世界最大のハラール市場を貫くK - food…ラーメンと朝鮮人参の前で輸出ルートを拡大",
-          "title_zh": "农业，渔业和食品分销公司， K-food穿过世界上最大的清真市场......扩大拉面和人参前的出口路线"
+          "title_en": "“It was a good value steak” … Jamsil Dinner ‘Hot’ ‘Texas Roadhouse’",
+          "title_ja": "「お得なステーキでした」…ジャムディナー「ホット」「テキサスロードハウス」",
+          "title_zh": "“这牛排物超所值” ……蚕室晚餐“Hot” “Texas Roadhouse”"
         }
       ]
     },
@@ -205,7 +205,7 @@
         },
         {
           "title": "“너무 감사드려” 허경환 큰절까지… ‘놀뭐’ 멤버들 정지선 초호화 음식에 큰 감동 [종합]",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jb1RFb29ZR2l2dE9SZDZoQWZzOC16TWw4UW1mdFl3QjEtUWFZQjVDQUF0Q3pGbmVLcVVFUnpXeDk2WUJHVDkzeUVtdlZpQkI4YTVCZWY2RHROMmszQXpOcS16ODlsUQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BQk1odVNFRHBLdXAxVE54NXY1amIzYl9iODlkYUo4ZjZPdmtBdm5JUHVVMEZJRy1UYjBDRW1ybkNOamZrbnc?oc=5",
           "desc": "",
           "title_en": "“Thank you so much,” Heo Kyung-hwan even said… ‘Play’ members are very impressed with the stop line extravagant food [synthesis]",
           "title_ja": "「どうもありがとうございました」とホ・ギョンファンは言いました…「プレイ」のメンバーは、ストップラインの贅沢な食べ物に非常に感銘を受けています[総合]",
