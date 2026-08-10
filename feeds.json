@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T07:41:27Z",
+  "lastUpdated": "2026-08-10T10:16:15Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
         },
         {
+          "title": "Logan's pushes the envelope with offbeat menu items",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVo2czNxQjZiNGMweVhKWEVPNjdKYmN1UmRrRmtueElUMjV2TXpuUDAxTUdVR00yZFp0WWJDRGRjUWlBcTdxZXplQkxrLXFENnl6OWRoSFlFVnp1ZnBNSVAwRi1yMzdLWlpjNVEzLVJwN0R3X3NwU1M2UUUwYkozQUQ0amJ1bW9Ic0hn?oc=5",
+          "desc": "",
+          "title_ko": "Logan 's는 탁월한 메뉴 아이템으로 봉투를 밀어 넣습니다.",
+          "title_ja": "Logan'sは、他に類を見ないメニューアイテムでエンベロープを押し広げています",
+          "title_zh": "Logan's推出了与众不同的菜单项目"
+        },
+        {
           "title": "Did the consumer kill Salad and Go?",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObWt0T01DTlQyQV9ia25XR0hlMkdodFVZa2J1ZVNHcl96RW44M0ktMmhJdGJUVTZINEVuRzh3M0tvT2NycFc5SWttejY1cnNuV1BZRGI5b0dsSVE3SlZUamd6UUctdVdHbHp6Y3VOc043WjhsMGc2ZlRPalVvbVlOQ2NvY09MUQ?oc=5",
           "desc": "",
           "title_ko": "소비자가 샐러드를 죽이고 갔나요?",
           "title_ja": "消費者はサラダとゴーを殺しましたか？",
           "title_zh": "消费者是否杀死了Salad and Go ？"
-        },
-        {
-          "title": "Fresh off its viral moment, Burger King’s sales take off",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHo4WkYyaWxHenJ4WDR1T1hzWHI5dG9XdkF3Qm80M1p4ZkVvcjZEVFYtdjlWdzlzaEVJV2M0SHhPeWRsWGpHRnJrWHVZbVNTRkNnWk13MWRjS05nZkNpUGt3Z2JJQnRFT0N1UGpjQ2tKNlBFYmlTOTFuUDMySG9lS2pwelg4cDdsRDF2Sktna2FGNldqNTR3eA?oc=5",
-          "desc": "",
-          "title_ko": "바이럴한 순간을 되찾은 버거킹의 세일즈가 시작됩니다.",
-          "title_ja": "ウイルスのような瞬間から新たに、バーガーキングの販売が始まった",
-          "title_zh": "汉堡王的销售额刚刚脱颖而出"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "“印度必应和巧克力派”奏效……乐天健康食品第二季度89%的营业利润↑"
         },
         {
-          "title": "“아침을 먹긴 먹었는데 영 힘이 없네”…공복에 먹으면 안되는 음식, 뭐길래 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oLWtzSTNtaUFxSmxIM05La2JfRC01QzI4T3JRRlZTdjNUZ2ExV25FTkRJemNDTW9iSFVmT0ZMOGRvZHptTTZpQTFCREJkQjdFUHfSAVNBVV95cUxOSkJFZ3pTNWJnWU1PTFhIR2RpZG5DZ3ZZd05MZmc5eTBjQ3diZDNablBfd0xKUDg4VkxqOWZzRUF1cG53Vk42QVV5dXRiemRheVlCVQ?oc=5",
+          "title": "카카오, 쿠팡이츠와 ‘버티컬AI 협업’…카톡서 배달 음식 주문한다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nUzJ6NUtxaFAzS2VFNVJGT2tSOU5pY21tYmtUTFgySmFEQ0FXSHgzYjZMUmJyX2drdlVicnludklNbGJGa2htNTBqV0c1RFpZelHSAVNBVV95cUxONHdnTjgwQ3JsUWZ2enZrS0NmM3ZvX0swNmd6NzBfZTNfUkFFSGc3Tno4bHRnTWhBVlFMX0JJUHlibUNCcXUxcHRMX3NDWnlRVTBlSQ?oc=5",
           "desc": "",
-          "title_en": "“I ate breakfast, but I have no spiritual strength” … Food that should not be eaten on an empty stomach, what is it? [Health time]",
-          "title_ja": "「朝食を食べましたが、精神的な力はありません」…空腹時に食べるべきではない食べ物、それは何ですか？【健康時間】",
-          "title_zh": "“我吃了早餐，但没有精神力量” ……不应该空腹吃的食物，是什么？【健康时间】"
+          "title_en": "Kakao and Coupangites Collaborate on Vertical AI… Order KakaoTalk Delivery",
+          "title_ja": "KakaoとCoupangitesが垂直AIでコラボレーション… KakaoTalkデリバリーを注文",
+          "title_zh": "Kakao和Coupangites在垂直人工智能领域开展合作……订购KakaoTalk Delivery"
         }
       ]
     },
