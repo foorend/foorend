@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T01:49:04Z",
+  "lastUpdated": "2026-08-10T04:38:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
         },
         {
-          "title": "Logan's pushes the envelope with offbeat menu items",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVo2czNxQjZiNGMweVhKWEVPNjdKYmN1UmRrRmtueElUMjV2TXpuUDAxTUdVR00yZFp0WWJDRGRjUWlBcTdxZXplQkxrLXFENnl6OWRoSFlFVnp1ZnBNSVAwRi1yMzdLWlpjNVEzLVJwN0R3X3NwU1M2UUUwYkozQUQ0amJ1bW9Ic0hn?oc=5",
-          "desc": "",
-          "title_ko": "Logan 's는 탁월한 메뉴 아이템으로 봉투를 밀어 넣습니다.",
-          "title_ja": "Logan'sは、他に類を見ないメニューアイテムでエンベロープを押し広げています",
-          "title_zh": "Logan's推出了与众不同的菜单项目"
-        },
-        {
           "title": "Did the consumer kill Salad and Go?",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObWt0T01DTlQyQV9ia25XR0hlMkdodFVZa2J1ZVNHcl96RW44M0ktMmhJdGJUVTZINEVuRzh3M0tvT2NycFc5SWttejY1cnNuV1BZRGI5b0dsSVE3SlZUamd6UUctdVdHbHp6Y3VOc043WjhsMGc2ZlRPalVvbVlOQ2NvY09MUQ?oc=5",
           "desc": "",
           "title_ko": "소비자가 샐러드를 죽이고 갔나요?",
           "title_ja": "消費者はサラダとゴーを殺しましたか？",
           "title_zh": "消费者是否杀死了Salad and Go ？"
+        },
+        {
+          "title": "Fresh off its viral moment, Burger King’s sales take off",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHo4WkYyaWxHenJ4WDR1T1hzWHI5dG9XdkF3Qm80M1p4ZkVvcjZEVFYtdjlWdzlzaEVJV2M0SHhPeWRsWGpHRnJrWHVZbVNTRkNnWk13MWRjS05nZkNpUGt3Z2JJQnRFT0N1UGpjQ2tKNlBFYmlTOTFuUDMySG9lS2pwelg4cDdsRDF2Sktna2FGNldqNTR3eA?oc=5",
+          "desc": "",
+          "title_ko": "바이럴한 순간을 되찾은 버거킹의 세일즈가 시작됩니다.",
+          "title_ja": "ウイルスのような瞬間から新たに、バーガーキングの販売が始まった",
+          "title_zh": "汉堡王的销售额刚刚脱颖而出"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "“乐天健康食品提高国内利润率并加速印度增长……目标价格↑” -元大"
         },
         {
-          "title": "“가성비 스테이크 통했다” … 잠실 회식 ‘핫플’된 ‘텍사스로드하우스’",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xUEZmaV8xeEFteTB3TEJVRVlHOFJYenhWS1pZWkt6bmtmbkFSZ2RXRVlrT0NmVS1pNGNxSmQ4N21NMlg4d1drYkx1N05BYThDNG9mMUZySnFhUQ?oc=5",
+          "title": "BTS 뷔·美 래퍼도 극찬한 韓 패스트푸드의 결단",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yOGFkS1dSS1hoOW9Nbk1CMGNhaXB4N051Q0xXaHRkTGVJWERwQVdEOVd5NWR1dDRsSUJUR0ZwZEZzbGphUUlvR2UxUzBJWm1TSkRMQmtwY3JGQQ?oc=5",
           "desc": "",
-          "title_en": "“It was a good value steak” … Jamsil Dinner ‘Hot’ ‘Texas Roadhouse’",
-          "title_ja": "「お得なステーキでした」…ジャムディナー「ホット」「テキサスロードハウス」",
-          "title_zh": "“这牛排物超所值” ……蚕室晚餐“Hot” “Texas Roadhouse”"
+          "title_en": "The determination of fast food in Korea, which was also praised by BTS buff and beauty rappers",
+          "title_ja": "BTSバフやビューティーラッパーからも絶賛された韓国ファストフードの決意",
+          "title_zh": "韩国快餐的决心，也得到了BTS爱好者和美容说唱歌手的称赞"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "상위 1% 투자자 다시 K푸드 매수…‘불닭신화’ 삼양식품 1위 [주식 초고수는 지금]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkLTU3UjRCTjVJdnpuQWVRTVEwWW1lamtwVm9ST1VYZWxhdnMxTUQ0TGc5Q1BBRy1FdUhoS0tQQlFQSmNHeGFZb1Z3VTlORXNnenfSAVNBVV95cUxQMndMM1Q2QnpQYkhGZmR6VXFCeHVya1ZvT2ROU2JPTy12QmRRbzBTU1o4SlVuWU42MnQzWWJnZ1pEOHQ0Zm1nYWNBaVFaTHNZNmlxUQ?oc=5",
+          "desc": "",
+          "title_en": "Top 1% of investors buy K food again… ‘Bulchik Shinhwa‘ Samyang Food No. 1 [The stock super-high price is now]",
+          "title_ja": "上位1 ％の投資家が再びKフードを購入…「Bulchik Shinhwa」Samyang Food No. 1 [株式超高値は現在]",
+          "title_zh": "前1 ％的投资者再次购买K FOOD...... ‘Bulchik Shinhwa‘ Samyang Food No. 1 [股票超高价格现在是]"
+        },
         {
           "title": "‘인도 빙과·초코파이’ 통했다…롯데웰푸드 2분기 영업익 89%↑",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14bzdjcURXbEN4YXN2NzY2LUtVLXNjbXhCbnpUVGptU3A0VDVDSzRkMDVqekhrUmItQmhNS1R6dUlPZEEwZ0ppWUdXLTBBSFNSaHfSAVNBVV95cUxQcDZtdUxqZ2VSX09rS2hJekswUG5yTkRvZERNVzdsSmhlbEUtdk9hZmIwY0ZlanFSWS1jSzRsM3JHVXZTbVV6eXczQng5NEZ6WVNLQQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "“I ate breakfast, but I have no spiritual strength” … Food that should not be eaten on an empty stomach, what is it? [Health time]",
           "title_ja": "「朝食を食べましたが、精神的な力はありません」…空腹時に食べるべきではない食べ物、それは何ですか？【健康時間】",
           "title_zh": "“我吃了早餐，但没有精神力量” ……不应该空腹吃的食物，是什么？【健康时间】"
-        },
-        {
-          "title": "카카오, 쿠팡이츠와 ‘버티컬AI 협업’…카톡서 배달 음식 주문한다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nUzJ6NUtxaFAzS2VFNVJGT2tSOU5pY21tYmtUTFgySmFEQ0FXSHgzYjZMUmJyX2drdlVicnludklNbGJGa2htNTBqV0c1RFpZelHSAVNBVV95cUxONHdnTjgwQ3JsUWZ2enZrS0NmM3ZvX0swNmd6NzBfZTNfUkFFSGc3Tno4bHRnTWhBVlFMX0JJUHlibUNCcXUxcHRMX3NDWnlRVTBlSQ?oc=5",
-          "desc": "",
-          "title_en": "Kakao and Coupangites Collaborate on Vertical AI… Order KakaoTalk Delivery",
-          "title_ja": "KakaoとCoupangitesが垂直AIでコラボレーション… KakaoTalkデリバリーを注文",
-          "title_zh": "Kakao和Coupangites在垂直人工智能领域开展合作……订购KakaoTalk Delivery"
         }
       ]
     },
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "냉장고에 넣은 샌드위치, 여름철엔 언제까지 괜찮을까",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iZ3hZTzlmdm5YVndUQmV3ajZGRlItWlRUclpvZWk5LVpGRTFFSFpEbTdaZEhzNjMxSUdHZE9YUlM3b0ZUd2V5aWFITmthX2ZjR1pLU3lGWQ?oc=5",
+          "desc": "",
+          "title_en": "Sandwiches in the fridge, how long will it be okay in the summer?",
+          "title_ja": "冷蔵庫のサンドイッチ、夏はどれくらいで大丈夫ですか？",
+          "title_zh": "冰箱里的三明治，夏天可以吃多久？"
+        },
+        {
           "title": "복합적인 맛이 뜬다, 미국의 식품 트렌드",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RUzR6YmdGbC1VZGw1MlloVmdxa1JrN2NyS1BiQWZDQmVwSGRaR1IxVnM4RmJMclFWSkphY1hCTGZGRnlESHNJZjdKMjVpU1d0cy04TGlDWQ?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "“There's more here” … the food nutrients I misunderstood",
           "title_ja": "「ここにはもっとあります」…私が誤解していた食品栄養素",
           "title_zh": "“这里还有更多” ……我误解的食物营养素"
-        },
-        {
-          "title": "“한국식으로 개량한 흑돼지, 햄버거에 넣었죠”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lbU5iQVI1dnN2U0o0QjdHRmhyUXJuYXB6bG9qOTliYlN2Q1ZIY3B6UWExTzdLRFZTSWt4R1cxQWRxd1pyUlpydmpfVUdLOW1raUx0aDE2Zw?oc=5",
-          "desc": "",
-          "title_en": "“Korean-improved black pork, put in a hamburger”",
-          "title_ja": "「韓国産黒豚をハンバーグに入れる」",
-          "title_zh": "“韩国改良黑猪肉，放入汉堡包”"
         }
       ]
     }
