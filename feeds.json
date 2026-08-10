@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T21:31:51Z",
+  "lastUpdated": "2026-08-10T01:49:04Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,12 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "현대그린푸드, 그리팅 냉동형 케어푸드 신제품 만나보세요~!",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGhnbE5oSGxERVBRY0pHUWdwdXBjZ3VBdUd0M201Q2xmZ01Ubnp5UmNMYXZPbmVvY0Q3bHB6NUVXb2NfT1F2TXlmODktQWl4ZjlWekVQMkRIX3VBa1ZGWjRWTl9WZlNmZDY1TWx6amRLWjdTTEM5bEUtNXF0MU4zcGd4Y0xnMUk?oc=5",
+          "title": "롯데웰푸드(280360) 확신의 턴어라운드",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HbU5oNUhHMlpQREFqUE5LakNWdkEydTQwMmdQbjBOdlMzZE1qWDNybUNTRklfWkJMNXlHYXRRY1hsU3ZvVmtjT1JpQmhJT2ptY01RekxORlFSSWN1MXpn?oc=5",
           "desc": "",
-          "title_en": "Discover Hyundai Green Food, Greeting Frozen Care Food ~!",
-          "title_ja": "ヒュンダイグリーンフード、挨拶冷凍ケアフードを発見しよう〜！",
-          "title_zh": "探索现代绿色食品，迎接冷冻护理食品~ ！"
+          "title_en": "Lotte Well Food (280360) Turnaround in Confidence",
+          "title_ja": "ロッテウェルフード（ 280360 ）自信を持ってターンアラウンド",
+          "title_zh": "乐天健康食品（ 280360 ）信心满满地扭亏为盈"
+        },
+        {
+          "title": "\"롯데웰푸드, 국내 마진 개선·인도 성장 가속화…목표가↑\"-유안타",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDQzBxM3FFQnpWVDVfb3NvSEU1cG1XbHJpWWR6TTVxdngzQ1p2dmYxeEdJelhaRm9FQURSNG1EeUl3UUhnWEg0dkhnMldhQUptV3V0NzlzN3hMUQ?oc=5",
+          "desc": "",
+          "title_en": "\"Lotte Well Food Improves Domestic Margin and Accelerates Indian Growth... Target Price↑\" - Yuanta",
+          "title_ja": "「ロッテウェルフードは国内マージンを向上させ、インドの成長を加速させます...目標価格↑」- Yuanta",
+          "title_zh": "“乐天健康食品提高国内利润率并加速印度增长……目标价格↑” -元大"
         },
         {
           "title": "“가성비 스테이크 통했다” … 잠실 회식 ‘핫플’된 ‘텍사스로드하우스’",
@@ -142,14 +150,6 @@
           "title_en": "“It was a good value steak” … Jamsil Dinner ‘Hot’ ‘Texas Roadhouse’",
           "title_ja": "「お得なステーキでした」…ジャムディナー「ホット」「テキサスロードハウス」",
           "title_zh": "“这牛排物超所值” ……蚕室晚餐“Hot” “Texas Roadhouse”"
-        },
-        {
-          "title": "해외서 아이스크림 판매 늘더니…롯데웰푸드 영업익 88.5% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Da0paRGEtLXVaTzVDS3RNdE5nRWpfY3JXSE9oYkJ5MkRfUkxRSVRMc0VJMjZDa0Z2eGZ0S2ZJVFFVNFJ6MEgzT1c3dXNqNUlRRWFjZWgzdDRlUQ?oc=5",
-          "desc": "",
-          "title_en": "Ice Cream Sales Increased Abroad… Lotte Well Food Operating Profit Surged 88.5%",
-          "title_ja": "海外でのアイスクリーム販売が増加…ロッテウェルフード営業利益が88.5%急増",
-          "title_zh": "冰淇淋海外销售额增长…乐天健康食品运营利润飙升88.5%"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "인도 홀린 빙과·초코파이…롯데웰푸드, 2분기 깜짝 실적",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04VklfNDQxRUN4Z0VmSXE3VHp1NzU5enBEX1Ywb016X0JoOTAwamNoNm1TbkxvVzQ5T0ZWZXVkZWd3QmhOUlU1dWtXTUFiSW8xLWc?oc=5",
+          "desc": "",
+          "title_en": "Hollin Bing and Chocolate Pie in India… Lotte Well Food Surprised Second Quarter Results",
+          "title_ja": "インドのHollin Bingとチョコレートパイ…ロッテウェルフードが第2四半期の業績を驚かせました",
+          "title_zh": "Hollin Bing和印度巧克力派…乐天Well Food第二季度业绩出人意料"
+        },
+        {
           "title": "남도장터 확대 개편…'K푸드산업진흥원' 12월 출범",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YUpyNndrZFlCalFVbFlDSkIzVEZJVzlUNHBLU05tQXFSa01iSU94dFBBTDJxLVk0V3pOcUcybHFnMlJHX0d1bGctN1RJWFVNdEE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Hyundai Green Food, Texas Roadhouse Jamsil Branch Visited by 55,000 Visitors in 100 Days",
           "title_ja": "ヒュンダイグリーンフード、テキサスロードハウスジャムシル支店、100日間で55,000人の訪問者が訪れました",
           "title_zh": "现代绿色食品，德克萨斯州Roadhouse Jamsil分店在100天内接待了55,000名访客"
-        },
-        {
-          "title": "인천 동춘동 대형마트 푸드코트서 불…수십명 대피",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OQkVjOWJZU0djTXJna2ZkS3Q2TTRRc01MQVdsOElYenFKdVR3MDVCbWV5REhMbUY5NHIwRlVMdU1PQ19tMVQ1bjJBelBqZkpR?oc=5",
-          "desc": "",
-          "title_en": "Large grocery store food court fire in Dongchun-dong, Incheon… Dozens of people evacuated",
-          "title_ja": "仁川東春洞の大型食料品店フードコート火災…数十人が避難",
-          "title_zh": "仁川东春洞（ Dongchun-dong ）的大型杂货店美食广场火灾……数十人被疏散"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“这里还有更多” ……我误解的食物营养素"
         },
         {
-          "title": "유럽 폭염이 바꾸는 식품 소비 트렌드",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SeHVhVkFKZlNIcmNBVGNzVmZYVklnZVdwOThtczRfSWdLWkc3VDMtSzdLRWQ3UFNzd3ItN3pMcE4yQzBVWXhzdVVpTF9tNHhkZ0NmdWdoQQ?oc=5",
+          "title": "“한국식으로 개량한 흑돼지, 햄버거에 넣었죠”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lbU5iQVI1dnN2U0o0QjdHRmhyUXJuYXB6bG9qOTliYlN2Q1ZIY3B6UWExTzdLRFZTSWt4R1cxQWRxd1pyUlpydmpfVUdLOW1raUx0aDE2Zw?oc=5",
           "desc": "",
-          "title_en": "European Heatwave Changing Food Consumption Trends",
-          "title_ja": "欧州の熱波による食料消費動向の変化",
-          "title_zh": "欧洲热浪改变食品消费趋势"
+          "title_en": "“Korean-improved black pork, put in a hamburger”",
+          "title_ja": "「韓国産黒豚をハンバーグに入れる」",
+          "title_zh": "“韩国改良黑猪肉，放入汉堡包”"
         }
       ]
     }
