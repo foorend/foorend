@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T07:07:19Z",
+  "lastUpdated": "2026-08-11T10:00:43Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“푸드가 새 먹거리”…패션 플랫폼의 맛있는 진화",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZX0VUamdHTUR4WkJHZHF6SkxjZ1FvbGIzN2czZGxtOFpfZ3ZDMjBJSm9yZ1JzQU43ZTUwTlREN2d4dWNORWFCY2RHY19mQzhlWFHSAVNBVV95cUxPcHdsb1UxcWhHZUQ3b3MwUmJ5WjBNZGlUbUtiaFhDSWJOVTdIbGpUQ0VkRWplaHpCS1l3Y2t6UExaM3VIN3hQdHhfNGVDeDEwX0Z5SQ?oc=5",
+          "desc": "",
+          "title_en": "“Food is the new food” … the delicious evolution of fashion platforms",
+          "title_ja": "「食べ物は新しい食べ物」…ファッションプラットフォームの美味しい進化",
+          "title_zh": "“美食是新的美食” ……时尚平台的美味演变"
+        },
+        {
           "title": "‘MZ 소울푸드’인데…마라탕 한 그릇, 나트륨 하루 기준치 훌쩍",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyTDA1Y3pHYTZvc3oxOU9kVkFoV2d1aG5KYVBGWkdBOVlrU3d3UkliT0FyaTU3VGE1WDM0YkJiQTNOR2Y1M1FjU3pqUW9GcmRfYmfSAVNBVV95cUxQZ3VERlZlcHAxUHJ0REtNRHU5Qm92ZkZNVXRJYWMtcnAtcW9ra0xFZlMzMUFPUGpQOHZteVhNYVh2OW9panBrSTdkWEZ6cEIxeDFPWQ?oc=5",
           "desc": "",
@@ -167,19 +175,11 @@
         },
         {
           "title": "상위 1% 투자자 다시 K푸드 매수…‘불닭신화’ 삼양식품 1위 [주식 초고수는 지금]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkLTU3UjRCTjVJdnpuQWVRTVEwWW1lamtwVm9ST1VYZWxhdnMxTUQ0TGc5Q1BBRy1FdUhoS0tQQlFQSmNHeGFZb1Z3VTlORXNnenc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkLTU3UjRCTjVJdnpuQWVRTVEwWW1lamtwVm9ST1VYZWxhdnMxTUQ0TGc5Q1BBRy1FdUhoS0tQQlFQSmNHeGFZb1Z3VTlORXNnenfSAVNBVV95cUxQMndMM1Q2QnpQYkhGZmR6VXFCeHVya1ZvT2ROU2JPTy12QmRRbzBTU1o4SlVuWU42MnQzWWJnZ1pEOHQ0Zm1nYWNBaVFaTHNZNmlxUQ?oc=5",
           "desc": "",
           "title_en": "Top 1% of investors buy K food again… ‘Bulchik Shinhwa‘ Samyang Food No. 1 [The stock super-high price is now]",
           "title_ja": "上位1 ％の投資家が再びKフードを購入…「Bulchik Shinhwa」Samyang Food No. 1 [株式超高値は現在]",
           "title_zh": "前1 ％的投资者再次购买K FOOD...... ‘Bulchik Shinhwa‘ Samyang Food No. 1 [股票超高价格现在是]"
-        },
-        {
-          "title": "‘인도 빙과·초코파이’ 통했다…롯데웰푸드 2분기 영업익 89%↑",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14bzdjcURXbEN4YXN2NzY2LUtVLXNjbXhCbnpUVGptU3A0VDVDSzRkMDVqekhrUmItQmhNS1R6dUlPZEEwZ0ppWUdXLTBBSFNSaHfSAVNBVV95cUxQcDZtdUxqZ2VSX09rS2hJekswUG5yTkRvZERNVzdsSmhlbEUtdk9hZmIwY0ZlanFSWS1jSzRsM3JHVXZTbVV6eXczQng5NEZ6WVNLQQ?oc=5",
-          "desc": "",
-          "title_en": "‘Indian Bing and Chocolate Pie’ worked… 89% operating profit from Lotte Well Food in the second quarter↑",
-          "title_ja": "「インドのビングとチョコレートパイ」は機能しました…第2四半期のロッテウェルフードから89 ％の営業利益↑",
-          "title_zh": "“印度必应和巧克力派”奏效……乐天健康食品第二季度89%的营业利润↑"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "신세계푸드, 이마트 주식교환 마치고 오늘 상장폐지",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40bXRjX25GSjdEZHBTWmE3N3FvazNzd1g1S3dJTzk4M2dqVUhQNm1YcTZUQTNGRXpLV2MzLTFLV0ZGbm1pTG1PVWs2UF9CS1JTcnc?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Foods delisted today after e-mart stock exchange",
+          "title_ja": "イーマート証券取引所を経て本日、新世界食品が上場廃止",
+          "title_zh": "Shinsegae Foods今天在e-mart证券交易所退市"
+        },
         {
           "title": "식품진흥원-창업보육협회, K-푸드 청년창업 세계 진출에 '맞손'",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3MVBYakExVHZha1NQN0dzV3VWYXMwclpqdlV3V2tkVnZxMXZsSHZGVnRuWGZHVEQySnZqS0MzTXNSZ0NMTXRuQWF6UlBnN2VfQnc?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "1.4 billion people in India eat K snacks instead of street food… Lotte Well Food Surprise Results",
           "title_ja": "インドの14億人がストリートフードの代わりにKスナックを食べています…ロッテウェルフードサプライズ結果",
           "title_zh": "14亿印度人吃K零食而不是街头小吃……乐天Well Food惊喜结果"
-        },
-        {
-          "title": "HF푸드그룹, 역대 최고 매출·순이익 급증…캐나다 시장까지 첫 진출",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qRHh2U3dGWTNpUDJFemU3cEtTdzBoMzRHcDgxU3UxMERwaHg5R3FyQVBkaVhrMW13dG9SZnFadHl4UW5Db2o0TnQzSF9VbDZLcXc?oc=5",
-          "desc": "",
-          "title_en": "HF Food Group surges in revenue and net profit, the highest in history... First entry into the Canadian market",
-          "title_ja": "HFフードグループの売上高と純利益が史上最高を記録・・・カナダ市場への初参入",
-          "title_zh": "HF食品集团收入和净利润激增，创历史新高……首次进入加拿大市场"
         }
       ]
     },
