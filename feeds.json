@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T13:05:13Z",
+  "lastUpdated": "2026-08-11T16:00:20Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,12 +96,12 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "A ‘Culinary Class Wars’ Alum Has Opened of NYC’s Hottest New Restaurants",
+          "title": "A ‘Culinary Class Wars’ Alum Has Opened One of NYC’s Hottest New Restaurants",
           "link": "https://www.eater.com/pre-shift/978558/oyatte-hasung-lee-culinary-class-wars-pre-shift",
           "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "뉴욕에서 가장 인기 있는 새로운 레스토랑이 문을 연 ‘요리 수업 전쟁' 명반",
-          "title_ja": "「Culinary Class Wars」のアルミニウムがニューヨークで最も人気のある新しいレストランをオープン",
-          "title_zh": "“烹饪课堂大战”明矾开设了纽约市最热门的新餐厅"
+          "title_ko": "‘요리 수업 전쟁’ 명반이 뉴욕에서 가장 인기 있는 새로운 레스토랑 중 하나를 열었습니다.",
+          "title_ja": "A ‘Culinary Class Wars’ Alumがニューヨークで最も人気のある新しいレストランの1つをオープン",
+          "title_zh": "“烹饪课堂大战”明矾开设了纽约市最热门的新餐厅之一"
         },
         {
           "title": "‘Tony’ Makes Bourdain Unlikeable, and That’s Why It Works",
@@ -144,12 +144,12 @@
           "title_zh": "印度“K Snack”售罄……股价连续两天“火爆” [Event +]"
         },
         {
-          "title": "롯데웰푸드(280360) 확신의 턴어라운드",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HbU5oNUhHMlpQREFqUE5LakNWdkEydTQwMmdQbjBOdlMzZE1qWDNybUNTRklfWkJMNXlHYXRRY1hsU3ZvVmtjT1JpQmhJT2ptY01RekxORlFSSWN1MXpn?oc=5",
+          "title": "현대그린푸드 '베즐리', 오뚜기와 손잡고 이색 빵 선보인다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UUnFuSW05cW53aGVRUk5ZSDlSdHI4RGNDYkNOWXRURVA1NEd2eXczQm42UGdjMmtzZ2s3UlEzcWwtNjVLLUxBaVhVamlzcTNEbW9IU2U5b2pvdw?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food (280360) Turnaround in Confidence",
-          "title_ja": "ロッテウェルフード（ 280360 ）自信を持ってターンアラウンド",
-          "title_zh": "乐天健康食品（ 280360 ）信心满满地扭亏为盈"
+          "title_en": "Hyundai Green Food 'Bezli' presents exotic bread with Ottogi",
+          "title_ja": "Hyundai Green Food 'Bezli'がOttogiと一緒にエキゾチックなパンをプレゼント",
+          "title_zh": "现代绿色食品“Bezli”与Ottogi一起呈现异国情调的面包"
         }
       ]
     },
