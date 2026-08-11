@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-08-10T21:41:04Z",
+  "lastUpdated": "2026-08-11T01:45:41Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Dutch Bros paid a premium for Salad and Go's leftovers",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnpNbnNWNjBUUlpnelJ1ZVB0TnBvRzVMcUx4RkVDM0NTU2ZDYWNURld5NFFCS1p1T1F1NDFtYzhtQkxBdGRaRmpCMlN5a05TZ2hheHkxU1dJaFNSVlotY0hSRGF0dUhkMHhiYWlZWHNxdnlFRHVUazhDbGhnSDl0eXVfTGVBZHo3YlhrZmg4TlBkWnJu?oc=5",
-          "desc": "",
-          "title_ko": "Dutch Bros는 샐러드와 고의 남은 음식에 대해 프리미엄을 지불했습니다.",
-          "title_ja": "オランダのブラザーズがサラダとゴーの残り物にプレミアムを支払った",
-          "title_zh": "Dutch Bros为Salad and Go的剩菜支付了溢价"
-        },
         {
           "title": "Wendy's new CEO laments the brand's 'quality degradation'",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDdEUEloeGs5cWZfVDFPUXNaUHRzWUw2ZXFCaXF2NVJXVm1iVzJJMHFyUzAwQkxfUVhiT0wtSE1nMmtIb2RFZUM3aVhub2NHMEtGczNYVURNbHF0THlWTzVOODBldHBSdXpOWUlYYURNOFFmbElYRlV6VENmdnFkaWZkNU5icDlNN0x0WjdRYTMxZGtRaG9qM0FQLTE?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "Wendy의 새로운 CEO는 브랜드의 '품질 저하' 를 한탄합니다.",
           "title_ja": "ウェンディの新しいCEOは、ブランドの「品質低下」を嘆いています",
           "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
+        },
+        {
+          "title": "Dutch Bros paid a premium for Salad and Go's leftovers",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnpNbnNWNjBUUlpnelJ1ZVB0TnBvRzVMcUx4RkVDM0NTU2ZDYWNURld5NFFCS1p1T1F1NDFtYzhtQkxBdGRaRmpCMlN5a05TZ2hheHkxU1dJaFNSVlotY0hSRGF0dUhkMHhiYWlZWHNxdnlFRHVUazhDbGhnSDl0eXVfTGVBZHo3YlhrZmg4TlBkWnJu?oc=5",
+          "desc": "",
+          "title_ko": "Dutch Bros는 샐러드와 고의 남은 음식에 대해 프리미엄을 지불했습니다.",
+          "title_ja": "オランダのブラザーズがサラダとゴーの残り物にプレミアムを支払った",
+          "title_zh": "Dutch Bros为Salad and Go的剩菜支付了溢价"
         },
         {
           "title": "Logan's pushes the envelope with offbeat menu items",
@@ -144,12 +144,12 @@
           "title_zh": "乐天健康食品（ 280360 ）信心满满地扭亏为盈"
         },
         {
-          "title": "\"롯데웰푸드, 국내 마진 개선·인도 성장 가속화…목표가↑\"-유안타",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDQzBxM3FFQnpWVDVfb3NvSEU1cG1XbHJpWWR6TTVxdngzQ1p2dmYxeEdJelhaRm9FQURSNG1EeUl3UUhnWEg0dkhnMldhQUptV3V0NzlzN3hMUQ?oc=5",
+          "title": "폭염에 이걸 먹는다고?…직장인들 몰리는 '의외의 음식' [권 기자의 장바구니]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eGVtUTJSVFlEVDd2XzY0UUhZUDhfM1Fpak9nc29qX1NldUVxVVc4OHhhWlFoekUySTZMbFYxaEtKSVhUS01QOFJUY0FZMEVzMEpzNUJVT0RXdw?oc=5",
           "desc": "",
-          "title_en": "\"Lotte Well Food Improves Domestic Margin and Accelerates Indian Growth... Target Price↑\" - Yuanta",
-          "title_ja": "「ロッテウェルフードは国内マージンを向上させ、インドの成長を加速させます...目標価格↑」- Yuanta",
-          "title_zh": "“乐天健康食品提高国内利润率并加速印度增长……目标价格↑” -元大"
+          "title_en": "Eating this in a heat wave? … 'Unexpected food' attracted by office workers [Kwon reporter's shopping cart]",
+          "title_ja": "熱波の中でこれを食べる？ …オフィスワーカーに惹かれる「思いがけない食べ物」【クォン記者のショッピングカート】",
+          "title_zh": "在热浪中吃这个？ ……被上班族吸引的“意想不到的食物” [Kwon记者的购物车]"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "상위 1% 투자자 다시 K푸드 매수…‘불닭신화’ 삼양식품 1위 [주식 초고수는 지금]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkLTU3UjRCTjVJdnpuQWVRTVEwWW1lamtwVm9ST1VYZWxhdnMxTUQ0TGc5Q1BBRy1FdUhoS0tQQlFQSmNHeGFZb1Z3VTlORXNnenc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkLTU3UjRCTjVJdnpuQWVRTVEwWW1lamtwVm9ST1VYZWxhdnMxTUQ0TGc5Q1BBRy1FdUhoS0tQQlFQSmNHeGFZb1Z3VTlORXNnenfSAVNBVV95cUxQMndMM1Q2QnpQYkhGZmR6VXFCeHVya1ZvT2ROU2JPTy12QmRRbzBTU1o4SlVuWU42MnQzWWJnZ1pEOHQ0Zm1nYWNBaVFaTHNZNmlxUQ?oc=5",
           "desc": "",
           "title_en": "Top 1% of investors buy K food again… ‘Bulchik Shinhwa‘ Samyang Food No. 1 [The stock super-high price is now]",
           "title_ja": "上位1 ％の投資家が再びKフードを購入…「Bulchik Shinhwa」Samyang Food No. 1 [株式超高値は現在]",
