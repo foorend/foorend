@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T04:19:12Z",
+  "lastUpdated": "2026-08-11T07:07:19Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -7,7 +7,7 @@
       "items": [
         {
           "title": "7 Brew thinks that it, and not Dutch Bros, should get closed Salad and Go locations",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkJOSl95aTZTa0wzdGw2eExfZUFIZVpZUkh5eEdFNjBVZDRuS2p6Sk9aTWtPXzZweDhjaUpPREY4NmxZcWdZNjU1dGRUaDB3cUpFZXlPeEg5b29GWjhMWUE3ajJvSjV2NDhIRk9zZmdwME40ckhlNUdfWDMxSldrT3dub2VQTGx5RU1DS2s4VkVzVExCMU1MZmhxNFRUZ0c5bl9uYm4wLUtEbXdjMjJqRk91aEgwbncyS2RR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWJjeGVFU0ViWi1Fb3JSbEdNMXA1U090RExWSG9SSGxWMlpfb1Eyd0FXZE5yUzFLM3RxTzZJck8yRVRZaGprb0k3TEo3VVdsaFVrWjhqYWpFMWVKUl9DR3l3RHp0RVgwUHVvWnRRZWVTcWtPWlBXN2FhZnUzMHd3ZUhva0RfOUVEclNCV19OWW0xMkRSSE5MUTZhdVg0UWhBLVdZYkxaZlFLeVA3SVZRS0tmSmxwdw?oc=5",
           "desc": "",
           "title_ko": "7 Brew는 Dutch Bros가 아닌 샐러드 앤 고 지점을 폐쇄해야 한다고 생각합니다.",
           "title_ja": "7 Brewは、オランダのブラザーズではなく、サラダとゴーの店舗を閉鎖すべきだと考えています",
@@ -22,12 +22,12 @@
           "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
         },
         {
-          "title": "Logan's pushes the envelope with offbeat menu items",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVo2czNxQjZiNGMweVhKWEVPNjdKYmN1UmRrRmtueElUMjV2TXpuUDAxTUdVR00yZFp0WWJDRGRjUWlBcTdxZXplQkxrLXFENnl6OWRoSFlFVnp1ZnBNSVAwRi1yMzdLWlpjNVEzLVJwN0R3X3NwU1M2UUUwYkozQUQ0amJ1bW9Ic0hn?oc=5",
+          "title": "Chick-fil-A's unit volumes hit a ceiling",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGVMZVdiSVMxenFqMjE5cUtyRHVNUnByelBvaGZuMm4tSWJBWFBicjEyeWRCa3hoS2dGSzhuUGhDVF9odV80NlJJX1lvcTNFV1ZsOXhpTkdMNzFEWVZ1NnNxS2tHS1otaFZDN193UU5IdC1qaHRyMDZ4QVVfV29BQnFxQkRkc3Qx?oc=5",
           "desc": "",
-          "title_ko": "Logan 's는 탁월한 메뉴 아이템으로 봉투를 밀어 넣습니다.",
-          "title_ja": "Logan'sは、他に類を見ないメニューアイテムでエンベロープを押し広げています",
-          "title_zh": "Logan's推出了与众不同的菜单项目"
+          "title_ko": "Chick-fil-A의 유닛 볼륨이 천장에 부딪힘",
+          "title_ja": "Chick - fil - Aのユニットボリュームが天井に当たった",
+          "title_zh": "Chick-fil-A的单位体积触及天花板"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "인도서 'K간식' 불티나게 팔리더니…이틀 연속 주가 '들썩' [종목+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMkdWUVdnU3ZGcVl2MmRoeVV4dU1SSFk4MktNdFQzLVNFYmtrN0ttdTRoN056THZ4Y1hWX2I3YXQtWUViNURvZjN5M0pHcHpOMmZJWFhFN3JnZw?oc=5",
-          "desc": "",
-          "title_en": "'K Snack' in India was sold out... The share price was' hot 'for two consecutive days [Event +]",
-          "title_ja": "インドの「Kスナック」が売り切れ… 2日間連続で株価が「ホット」になった【イベント+】",
-          "title_zh": "印度“K Snack”售罄……股价连续两天“火爆” [Event +]"
-        },
-        {
           "title": "폭염에 이걸 먹는다고?…직장인들 몰리는 '의외의 음식' [권 기자의 장바구니]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eGVtUTJSVFlEVDd2XzY0UUhZUDhfM1Fpak9nc29qX1NldUVxVVc4OHhhWlFoekUySTZMbFYxaEtKSVhUS01QOFJUY0FZMEVzMEpzNUJVT0RXdw?oc=5",
           "desc": "",
           "title_en": "Eating this in a heat wave? … 'Unexpected food' attracted by office workers [Kwon reporter's shopping cart]",
           "title_ja": "熱波の中でこれを食べる？ …オフィスワーカーに惹かれる「思いがけない食べ物」【クォン記者のショッピングカート】",
           "title_zh": "在热浪中吃这个？ ……被上班族吸引的“意想不到的食物” [Kwon记者的购物车]"
+        },
+        {
+          "title": "인도서 'K간식' 불티나게 팔리더니…이틀 연속 주가 '들썩' [종목+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMkdWUVdnU3ZGcVl2MmRoeVV4dU1SSFk4MktNdFQzLVNFYmtrN0ttdTRoN056THZ4Y1hWX2I3YXQtWUViNURvZjN5M0pHcHpOMmZJWFhFN3JnZw?oc=5",
+          "desc": "",
+          "title_en": "'K Snack' in India was sold out... The share price was' hot 'for two consecutive days [Event +]",
+          "title_ja": "インドの「Kスナック」が売り切れ… 2日間連続で株価が「ホット」になった【イベント+】",
+          "title_zh": "印度“K Snack”售罄……股价连续两天“火爆” [Event +]"
         },
         {
           "title": "롯데웰푸드(280360) 확신의 턴어라운드",
@@ -167,7 +167,7 @@
         },
         {
           "title": "상위 1% 투자자 다시 K푸드 매수…‘불닭신화’ 삼양식품 1위 [주식 초고수는 지금]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkLTU3UjRCTjVJdnpuQWVRTVEwWW1lamtwVm9ST1VYZWxhdnMxTUQ0TGc5Q1BBRy1FdUhoS0tQQlFQSmNHeGFZb1Z3VTlORXNnenfSAVNBVV95cUxQMndMM1Q2QnpQYkhGZmR6VXFCeHVya1ZvT2ROU2JPTy12QmRRbzBTU1o4SlVuWU42MnQzWWJnZ1pEOHQ0Zm1nYWNBaVFaTHNZNmlxUQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkLTU3UjRCTjVJdnpuQWVRTVEwWW1lamtwVm9ST1VYZWxhdnMxTUQ0TGc5Q1BBRy1FdUhoS0tQQlFQSmNHeGFZb1Z3VTlORXNnenc?oc=5",
           "desc": "",
           "title_en": "Top 1% of investors buy K food again… ‘Bulchik Shinhwa‘ Samyang Food No. 1 [The stock super-high price is now]",
           "title_ja": "上位1 ％の投資家が再びKフードを購入…「Bulchik Shinhwa」Samyang Food No. 1 [株式超高値は現在]",
