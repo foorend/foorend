@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T10:04:48Z",
+  "lastUpdated": "2026-08-12T13:08:53Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "在热浪中吃这个？ ……被上班族吸引的“意想不到的食物” [Kwon记者的购物车]"
         },
         {
-          "title": "현대그린푸드, 2분기 영업익 381억…전년비 23.4% 증가",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVDdHLUozWjFYcmtLNGRES1dnUDM1QzA3WHFIRk9WNEF6M0NTYllkdldxcEJMWmdUOUhJdEhReUh5RWhBeEFBV1NoemdlaEdtOTZmSHBPVk5qNzZEZWE0cFltb1NHMjRSb0I1N2pqTnZsdWtvbVFhUy1sbWszSU0?oc=5",
+          "title": "현대그린푸드 '베즐리', 오뚜기와 손잡고 이색 빵 선보인다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UUnFuSW05cW53aGVRUk5ZSDlSdHI4RGNDYkNOWXRURVA1NEd2eXczQm42UGdjMmtzZ2s3UlEzcWwtNjVLLUxBaVhVamlzcTNEbW9IU2U5b2pvdw?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Foods Operating Profit of 38.1 Billion in Q2… Up 23.4% YoY",
-          "title_ja": "現代グリーンフーズ、第2四半期の営業利益は381億円…前年同期比23.4%増",
-          "title_zh": "现代绿色食品第二季度营业利润为381亿…同比增长23.4%"
+          "title_en": "Hyundai Green Food 'Bezli' presents exotic bread with Ottogi",
+          "title_ja": "Hyundai Green Food 'Bezli'がOttogiと一緒にエキゾチックなパンをプレゼント",
+          "title_zh": "现代绿色食品“Bezli”与Ottogi一起呈现异国情调的面包"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "[식견] 제사 음식",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDcW15RkhtSG5FWjI4Z3dYZTdKWkctQTJyS1RDYjJ5YkdKZ0YxNmdoUnBvMUlzM1BGUVdDdk5wODdyLWJSZ3VZbXAzdWJJbkRFdHdXWE1neW9DX3VBQUlJNUJPRWdjd9IBU0FVX3lxTE1abVlNS2dxVUgwbG5FUDFIY1dFQ1g2dnhrS2k1LXVJeU1ST2NYTlJIWk9zd1pNLTlld01UM09sQlVkUDdFOHlIOTlmaFVtU0g3TFBN?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBITTlZSEc3N0RYc2lhODVadTZMZ0w0alg1Ykw3OWNSaXRHMG1CVVFXcVFhWllFLTlNa1E1TnVPWlgyN0pQM0J5ZFQ0MUloYV9zZGfSAVNBVV95cUxNWm1ZTUtncVVIMGxuRVAxSGNXRUNYNnZ4a0tpNS11SXlNUk9jWE5SSFpPc3daTS05ZXdNVDNPbEJVZFA3RTh5SDk5ZmhVbVNIN0xQTQ?oc=5",
           "desc": "",
           "title_en": "[Knowledge] Sacrificial food",
           "title_ja": "[知識]生け贄の食べ物",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "퍼포먼스 푸드 그룹, 4분기 매출 180억 달러·조정 EBITDA 5.9억 달러 기록",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14WDlBaklPaUhJR3B1WUdoaG1CMjRVTVNPVllNcDRJaEJBanBuMVNESjYwRTZMc0xvRk45d3dLeGNtaXlId1pWZXJPU0xhRjNRRFE?oc=5",
+          "desc": "",
+          "title_en": "Performance Food Group Reports Q4 Revenue of $18 Billion · Adjusted EBITDA of $590 Billion",
+          "title_ja": "Performance Food Group、第4四半期の売上高は180億ドル・調整後EBITDAは5,900億ドル",
+          "title_zh": "Performance Food Group第四季度收入为180亿美元·调整后EBITDA为5,900亿美元"
+        },
+        {
           "title": "신세계푸드, 이마트 주식교환 마치고 오늘 상장폐지",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40bXRjX25GSjdEZHBTWmE3N3FvazNzd1g1S3dJTzk4M2dqVUhQNm1YcTZUQTNGRXpLV2MzLTFLV0ZGbm1pTG1PVWs2UF9CS1JTcnc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "HF Food Group surges in revenue and net profit, the highest in history... First entry into the Canadian market",
           "title_ja": "HFフードグループの売上高と純利益が史上最高を記録・・・カナダ市場への初参入",
           "title_zh": "HF食品集团收入和净利润激增，创历史新高……首次进入加拿大市场"
-        },
-        {
-          "title": "경북도 ‘식품한류산업국’ 신설…“K-푸드 세계화 앞장”",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrMXZ5NkhDR1lHVktyaXNkYVV6SzhyaTZEUlN6U2xRNEZIcHAzc1haRnM0cU13T1FyeG95T1g3cDJ5QjJ6Umc?oc=5",
-          "desc": "",
-          "title_en": "New 'Hallyu Food Industry Bureau’ established in Gyeongbuk-do… “At the forefront of K-Food globalization”",
-          "title_ja": "慶北道に「ハリウ食品産業局」を新設…「K - Foodグローバリゼーションの最前線」",
-          "title_zh": "在庆北道成立了新的“Hallyu食品工业局” …… “站在K-Food全球化的最前沿”"
         }
       ]
     },
