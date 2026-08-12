@@ -1,20 +1,95 @@
 {
-  "lastUpdated": "2026-08-12T01:57:55Z",
+  "lastUpdated": "2026-08-12T04:46:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": []
+      "items": [
+        {
+          "title": "Subway to its franchisees: Extend hours, and don't close stores",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdEQwZ3pRaS1oZkI2aEEzWUFPS1QzT1B4NUI4SHljNnZRLUtTbG5XOVhlTWdyX2NsSHpXOWZfLWs4eC1zQ3FSZmlvd0hiY0J6WDFkX1FQRmNBN0lfbHlOR0tDQl9mY053Q2phYkZSRW01TE5wRkNLaEItTmNWeEU4aWFqUHozVHRQSDg2VThtYmpLVWJoMjc2amRBb0NtV2owSlh1WFVkYw?oc=5",
+          "desc": "",
+          "title_ko": "가맹점까지 지하철로 이동: 영업시간을 연장하고 매장을 닫지 마세요.",
+          "title_ja": "加盟店へのサブウェイ：営業時間を延長し、店舗を閉鎖しない",
+          "title_zh": "乘坐地铁前往加盟店：延长营业时间，不要关闭商店"
+        },
+        {
+          "title": "7 Brew thinks that it, and not Dutch Bros, should get closed Salad and Go locations",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWJjeGVFU0ViWi1Fb3JSbEdNMXA1U090RExWSG9SSGxWMlpfb1Eyd0FXZE5yUzFLM3RxTzZJck8yRVRZaGprb0k3TEo3VVdsaFVrWjhqYWpFMWVKUl9DR3l3RHp0RVgwUHVvWnRRZWVTcWtPWlBXN2FhZnUzMHd3ZUhva0RfOUVEclNCV19OWW0xMkRSSE5MUTZhdVg0UWhBLVdZYkxaZlFLeVA3SVZRS0tmSmxwdw?oc=5",
+          "desc": "",
+          "title_ko": "7 Brew는 Dutch Bros가 아닌 샐러드 앤 고 지점을 폐쇄해야 한다고 생각합니다.",
+          "title_ja": "7 Brewは、オランダのブラザーズではなく、サラダとゴーの店舗を閉鎖すべきだと考えています",
+          "title_zh": "7 Brew认为应该关闭Salad and Go门店，而不是Dutch Bros门店"
+        },
+        {
+          "title": "Wendy's new CEO laments the brand's 'quality degradation'",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDdEUEloeGs5cWZfVDFPUXNaUHRzWUw2ZXFCaXF2NVJXVm1iVzJJMHFyUzAwQkxfUVhiT0wtSE1nMmtIb2RFZUM3aVhub2NHMEtGczNYVURNbHF0THlWTzVOODBldHBSdXpOWUlYYURNOFFmbElYRlV6VENmdnFkaWZkNU5icDlNN0x0WjdRYTMxZGtRaG9qM0FQLTE?oc=5",
+          "desc": "",
+          "title_ko": "Wendy의 새로운 CEO는 브랜드의 '품질 저하' 를 한탄합니다.",
+          "title_ja": "ウェンディの新しいCEOは、ブランドの「品質低下」を嘆いています",
+          "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
+        }
+      ]
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": []
+      "items": [
+        {
+          "title": "New High-Protein, Low-Calorie Beer Targets Gym Goers",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnUwVWFUaGxUUEo0V2pMVGhGRlJUOGd0enhNNjhGc01EWjVua05WMFhaS0xuOHBpdGxIbWFmbllaVFYydEp0S2VDQThSZktPRlNxX3NKbXdDMjhUTEVNSEl3bHVXYlE3UzhzQkpOWUZrbmRXTENqNDUxeHVpMFJQQ1RXaElkeE9QYy04bw?oc=5",
+          "desc": "",
+          "title_ko": "새로운 고단백 저칼로리 맥주 타겟 체육관 방문객",
+          "title_ja": "新しい高タンパク質、低カロリーのビールはジムに行く人をターゲットにしています",
+          "title_zh": "全新高蛋白、低热量啤酒瞄准健身爱好者"
+        },
+        {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
+          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
+          "desc": "",
+          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
+          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+        }
+      ]
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": []
+      "items": [
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
+          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+        },
+        {
+          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
+          "desc": "",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
+        }
+      ]
     },
     "eater": {
       "label": "Eater",
@@ -51,22 +126,122 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": []
+      "items": [
+        {
+          "title": "인도서 'K간식' 불티나게 팔리더니…이틀 연속 주가 '들썩' [종목+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMkdWUVdnU3ZGcVl2MmRoeVV4dU1SSFk4MktNdFQzLVNFYmtrN0ttdTRoN056THZ4Y1hWX2I3YXQtWUViNURvZjN5M0pHcHpOMmZJWFhFN3JnZw?oc=5",
+          "desc": "",
+          "title_en": "'K Snack' in India was sold out... The share price was' hot 'for two consecutive days [Event +]",
+          "title_ja": "インドの「Kスナック」が売り切れ… 2日間連続で株価が「ホット」になった【イベント+】",
+          "title_zh": "印度“K Snack”售罄……股价连续两天“火爆” [Event +]"
+        },
+        {
+          "title": "폭염에 이걸 먹는다고?…직장인들 몰리는 '의외의 음식' [권 기자의 장바구니]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eGVtUTJSVFlEVDd2XzY0UUhZUDhfM1Fpak9nc29qX1NldUVxVVc4OHhhWlFoekUySTZMbFYxaEtKSVhUS01QOFJUY0FZMEVzMEpzNUJVT0RXdw?oc=5",
+          "desc": "",
+          "title_en": "Eating this in a heat wave? … 'Unexpected food' attracted by office workers [Kwon reporter's shopping cart]",
+          "title_ja": "熱波の中でこれを食べる？ …オフィスワーカーに惹かれる「思いがけない食べ物」【クォン記者のショッピングカート】",
+          "title_zh": "在热浪中吃这个？ ……被上班族吸引的“意想不到的食物” [Kwon记者的购物车]"
+        },
+        {
+          "title": "현대그린푸드 '베즐리', 오뚜기와 손잡고 이색 빵 선보인다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UUnFuSW05cW53aGVRUk5ZSDlSdHI4RGNDYkNOWXRURVA1NEd2eXczQm42UGdjMmtzZ2s3UlEzcWwtNjVLLUxBaVhVamlzcTNEbW9IU2U5b2pvdw?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food 'Bezli' presents exotic bread with Ottogi",
+          "title_ja": "Hyundai Green Food 'Bezli'がOttogiと一緒にエキゾチックなパンをプレゼント",
+          "title_zh": "现代绿色食品“Bezli”与Ottogi一起呈现异国情调的面包"
+        }
+      ]
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": []
+      "items": [
+        {
+          "title": "옷만 팔아선 안돼…푸드에 손 뻗는 패션 플랫폼 [김연하의 킬링이슈]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xWW12Tmk4d0xFRmEyOFlXcWt1TDFsYl80RTBWcXlfZVVBcFNEQWdzYWVZY21sUUl3TEprTHpVQ2Y3V1UzYTNGU1BlV25zQnY5SWfSAVNBVV95cUxOTE1JUzBXV0o0cFZjSEtHQ1pUTlZoUGlQZ2FTckhiazkwZWNGU1A5R1lxZ2djTW1tbTVMNGZtQmtiZW1OV1AzZzBMYUgyampJUzAtbw?oc=5",
+          "desc": "",
+          "title_en": "You can't just sell clothes… A fashion platform that reaches for food [Kim Yeon-ha's Killing Issue]",
+          "title_ja": "服を売るだけではダメ…食に手を伸ばすファッションプラットフォーム【キム・ヨンハのキリングイシュー】",
+          "title_zh": "你不能只卖衣服……一个可以买到食物的时尚平台[Kim Yeon-ha's Killing Issue]"
+        },
+        {
+          "title": "샤오룽바오 파는 KFC…中 몰려가는 美 패스트푸드[정다은의 차이나코어]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93Y2JQRFEtTDZvbDhuZVo2cXcxdGVZbmg4YUZ1Z0tXcGFXTnZnSERUZlRxRjdBZkcxWGM5TXJHWWl1LUZVXzhtZEtHVFJLcUZieGfSAVNBVV95cUxQTTRzb3NjZ1IyZ19yRjdRUF9QX1RBOXdFbzRsdmdHYWJGdHlQdktoakVxWlZTTnVzcEpLU2NlcmFzZ1N6RkllRHFXZTVwQThsd3dobw?oc=5",
+          "desc": "",
+          "title_en": "Xiaolongbao sells KFC… Beauty Fast Food [Jung Da-eun's China Core]",
+          "title_ja": "XiaolongbaoはKFCを販売しています…美容ファーストフード[Jung Da - eunのチャイナコア]",
+          "title_zh": "小龙宝卖肯德基…美食快餐【郑大恩中国核心】"
+        },
+        {
+          "title": "“푸드가 새 먹거리”…패션 플랫폼의 맛있는 진화",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZX0VUamdHTUR4WkJHZHF6SkxjZ1FvbGIzN2czZGxtOFpfZ3ZDMjBJSm9yZ1JzQU43ZTUwTlREN2d4dWNORWFCY2RHY19mQzhlWFHSAVNBVV95cUxPcHdsb1UxcWhHZUQ3b3MwUmJ5WjBNZGlUbUtiaFhDSWJOVTdIbGpUQ0VkRWplaHpCS1l3Y2t6UExaM3VIN3hQdHhfNGVDeDEwX0Z5SQ?oc=5",
+          "desc": "",
+          "title_en": "“Food is the new food” … the delicious evolution of fashion platforms",
+          "title_ja": "「食べ物は新しい食べ物」…ファッションプラットフォームの美味しい進化",
+          "title_zh": "“美食是新的美食” ……时尚平台的美味演变"
+        }
+      ]
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "신세계푸드, 이마트 주식교환 마치고 오늘 상장폐지",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40bXRjX25GSjdEZHBTWmE3N3FvazNzd1g1S3dJTzk4M2dqVUhQNm1YcTZUQTNGRXpLV2MzLTFLV0ZGbm1pTG1PVWs2UF9CS1JTcnc?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Foods delisted today after e-mart stock exchange",
+          "title_ja": "イーマート証券取引所を経て本日、新世界食品が上場廃止",
+          "title_zh": "Shinsegae Foods今天在e-mart证券交易所退市"
+        },
+        {
+          "title": "HF푸드그룹, 역대 최고 매출·순이익 급증…캐나다 시장까지 첫 진출",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qRHh2U3dGWTNpUDJFemU3cEtTdzBoMzRHcDgxU3UxMERwaHg5R3FyQVBkaVhrMW13dG9SZnFadHl4UW5Db2o0TnQzSF9VbDZLcXc?oc=5",
+          "desc": "",
+          "title_en": "HF Food Group surges in revenue and net profit, the highest in history... First entry into the Canadian market",
+          "title_ja": "HFフードグループの売上高と純利益が史上最高を記録・・・カナダ市場への初参入",
+          "title_zh": "HF食品集团收入和净利润激增，创历史新高……首次进入加拿大市场"
+        },
+        {
+          "title": "식품진흥원-창업보육협회, K-푸드 청년창업 세계 진출에 '맞손'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3MVBYakExVHZha1NQN0dzV3VWYXMwclpqdlV3V2tkVnZxMXZsSHZGVnRuWGZHVEQySnZqS0MzTXNSZ0NMTXRuQWF6UlBnN2VfQnc?oc=5",
+          "desc": "",
+          "title_en": "Food Promotion Agency - Association for Entrepreneurial Childcare, K-Food Youth Entry into the World of Entrepreneurship",
+          "title_ja": "Food Promotion Agency - Association for Entrepreneurial Childcare、K - Food Youth Entry into the World of Entrepreneurship",
+          "title_zh": "食品推广机构-创业托儿协会， K-Food青年进入创业世界"
+        }
+      ]
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "냉장고에 넣은 샌드위치, 여름철엔 언제까지 괜찮을까",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iZ3hZTzlmdm5YVndUQmV3ajZGRlItWlRUclpvZWk5LVpGRTFFSFpEbTdaZEhzNjMxSUdHZE9YUlM3b0ZUd2V5aWFITmthX2ZjR1pLU3lGWQ?oc=5",
+          "desc": "",
+          "title_en": "Sandwiches in the fridge, how long will it be okay in the summer?",
+          "title_ja": "冷蔵庫のサンドイッチ、夏はどれくらいで大丈夫ですか？",
+          "title_zh": "冰箱里的三明治，夏天可以吃多久？"
+        },
+        {
+          "title": "복합적인 맛이 뜬다, 미국의 식품 트렌드",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RUzR6YmdGbC1VZGw1MlloVmdxa1JrN2NyS1BiQWZDQmVwSGRaR1IxVnM4RmJMclFWSkphY1hCTGZGRnlESHNJZjdKMjVpU1d0cy04TGlDWQ?oc=5",
+          "desc": "",
+          "title_en": "Complex Flavors, Food Trends in the United States",
+          "title_ja": "アメリカの複雑なフレーバー、食のトレンド",
+          "title_zh": "美国的复杂口味和美食趋势"
+        },
+        {
+          "title": "“여기에 더 많아요”…잘못 알았던 식품 영양소",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWG9vY1hoSFlacDBCNFV6dlZ1MXhYWmRnSFRuZnRNUEw3OV9WdzV6VlZfcktWenNGWFpBZ0h4Sm9RbEpGS2diOEs2UEE1cGZWcUMyOTFHYw?oc=5",
+          "desc": "",
+          "title_en": "“There's more here” … the food nutrients I misunderstood",
+          "title_ja": "「ここにはもっとあります」…私が誤解していた食品栄養素",
+          "title_zh": "“这里还有更多” ……我误解的食物营养素"
+        }
+      ]
     }
   },
   "korean_articles": [
