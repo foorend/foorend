@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T13:08:53Z",
+  "lastUpdated": "2026-08-12T15:58:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,20 +36,20 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "New High-Protein, Low-Calorie Beer Targets Gym Goers",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnUwVWFUaGxUUEo0V2pMVGhGRlJUOGd0enhNNjhGc01EWjVua05WMFhaS0xuOHBpdGxIbWFmbllaVFYydEp0S2VDQThSZktPRlNxX3NKbXdDMjhUTEVNSEl3bHVXYlE3UzhzQkpOWUZrbmRXTENqNDUxeHVpMFJQQ1RXaElkeE9QYy04bw?oc=5",
-          "desc": "",
-          "title_ko": "새로운 고단백 저칼로리 맥주 타겟 체육관 방문객",
-          "title_ja": "新しい高タンパク質、低カロリーのビールはジムに行く人をターゲットにしています",
-          "title_zh": "全新高蛋白、低热量啤酒瞄准健身爱好者"
-        },
-        {
           "title": "Food News & Trends",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
           "title_ko": "음식 뉴스 및 트렌드",
           "title_ja": "フードニュース＆トレンド",
           "title_zh": "美食新闻和趋势"
+        },
+        {
+          "title": "New High-Protein, Low-Calorie Beer Targets Gym Goers",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnUwVWFUaGxUUEo0V2pMVGhGRlJUOGd0enhNNjhGc01EWjVua05WMFhaS0xuOHBpdGxIbWFmbllaVFYydEp0S2VDQThSZktPRlNxX3NKbXdDMjhUTEVNSEl3bHVXYlE3UzhzQkpOWUZrbmRXTENqNDUxeHVpMFJQQ1RXaElkeE9QYy04bw?oc=5",
+          "desc": "",
+          "title_ko": "새로운 고단백 저칼로리 맥주 타겟 체육관 방문객",
+          "title_ja": "新しい高タンパク質、低カロリーのビールはジムに行く人をターゲットにしています",
+          "title_zh": "全新高蛋白、低热量啤酒瞄准健身爱好者"
         },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
