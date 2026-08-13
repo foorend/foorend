@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T02:00:02Z",
+  "lastUpdated": "2026-08-13T04:49:49Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "GS글로벌, 완도물산·하이랜드푸드와 김 수출 확대 ‘맞손’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YWJEY3cxeG5iMkRuUy1mZVpiSmZGaFRZdktmWGJBdHM1THdYWnY5bTN3MU5PdUJLU0hCSGFUaUs4OUY1TkY3dWs0RHhSekdFY1HSAVNBVV95cUxOdGZBVGVPcURoczRQbVEzZDRNRzVyekRkUlVuWGxBcEhVSEg5X3p0REFxYWZGZnVBSDBqZkpZMHhUem02WlEzS01Maml4SnhwVzgtcw?oc=5",
+          "desc": "",
+          "title_en": "GS Global Expands Wando Product, Highland Food, and Kim Exports‘ Dong Son ’",
+          "title_ja": "GS Global、Wando製品、Highland Food、Kimの「Dong Son」輸出を拡大",
+          "title_zh": "GS Global扩大Wando产品、Highland Food和Kim出口“Dong Son”"
+        },
+        {
           "title": "[식견] 제사 음식",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBITTlZSEc3N0RYc2lhODVadTZMZ0w0alg1Ykw3OWNSaXRHMG1CVVFXcVFhWllFLTlNa1E1TnVPWlgyN0pQM0J5ZFQ0MUloYV9zZGfSAVNBVV95cUxNWm1ZTUtncVVIMGxuRVAxSGNXRUNYNnZ4a0tpNS11SXlNUk9jWE5SSFpPc3daTS05ZXdNVDNPbEJVZFA3RTh5SDk5ZmhVbVNIN0xQTQ?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "You can't just sell clothes… A fashion platform that reaches for food [Kim Yeon-ha's Killing Issue]",
           "title_ja": "服を売るだけではダメ…食に手を伸ばすファッションプラットフォーム【キム・ヨンハのキリングイシュー】",
           "title_zh": "你不能只卖衣服……一个可以买到食物的时尚平台[Kim Yeon-ha's Killing Issue]"
-        },
-        {
-          "title": "샤오룽바오 파는 KFC…中 몰려가는 美 패스트푸드[정다은의 차이나코어]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93Y2JQRFEtTDZvbDhuZVo2cXcxdGVZbmg4YUZ1Z0tXcGFXTnZnSERUZlRxRjdBZkcxWGM5TXJHWWl1LUZVXzhtZEtHVFJLcUZieGfSAVNBVV95cUxQTTRzb3NjZ1IyZ19yRjdRUF9QX1RBOXdFbzRsdmdHYWJGdHlQdktoakVxWlZTTnVzcEpLU2NlcmFzZ1N6RkllRHFXZTVwQThsd3dobw?oc=5",
-          "desc": "",
-          "title_en": "Xiaolongbao sells KFC… Beauty Fast Food [Jung Da-eun's China Core]",
-          "title_ja": "XiaolongbaoはKFCを販売しています…美容ファーストフード[Jung Da - eunのチャイナコア]",
-          "title_zh": "小龙宝卖肯德基…美食快餐【郑大恩中国核心】"
         }
       ]
     },
