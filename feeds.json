@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T15:58:34Z",
+  "lastUpdated": "2026-08-13T19:02:55Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Three Days of Hot Dogs, Boutiques, and Football for an Ohio State Buckeyes Game Weekend",
+          "link": "https://www.eater.com/travel-guides/980121/columbus-ohio-restaurant-food-football-weekend-guide-itinerary",
+          "desc": "Columbus is always evolving. In the city, historical landmarks such as the Ohio Statehouse and tributes like the Columbus Museum of Art serve as a sna",
+          "title_ko": "주말에 즐기는 오하이오주 버키스 핫도그, 부티크, 축구",
+          "title_ja": "ホットドッグ、ブティック、フットボールを楽しむ3日間（オハイオ州立大学バックアイズ校での試合の週末に向けて）",
+          "title_zh": "三天热狗、精品店和足球之旅，体验俄亥俄州立大学鹿眼队比赛周末"
+        },
+        {
           "title": "A ‘Culinary Class Wars’ Alum Has Opened One of NYC’s Hottest New Restaurants",
           "link": "https://www.eater.com/pre-shift/978558/oyatte-hasung-lee-culinary-class-wars-pre-shift",
           "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
@@ -110,14 +118,6 @@
           "title_ko": "‘토니’ 는 부르댕을 짝퉁으로 만들며, 그것이 작동하는 이유입니다.",
           "title_ja": "「トニー」はBourdainを好ましくないものにし、それが機能する理由です",
           "title_zh": "“Tony”让Bourdain讨厌，这就是为什么它有效"
-        },
-        {
-          "title": "Why Is This Restaurant Emailing Me Like We’re Friends?",
-          "link": "https://www.eater.com/dining-out/978611/restaurants-sending-emails-post-meal-follow-ups",
-          "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
-          "title_ko": "이 레스토랑에서 친구처럼 이메일을 보내는 이유는 무엇인가요?",
-          "title_ja": "このレストランから友達のようなメールが届くのはなぜですか？",
-          "title_zh": "为什么这家餐厅给我发电子邮件就像我们是朋友一样？"
         }
       ]
     }
@@ -127,14 +127,6 @@
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
       "items": [
-        {
-          "title": "인도서 'K간식' 불티나게 팔리더니…이틀 연속 주가 '들썩' [종목+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMkdWUVdnU3ZGcVl2MmRoeVV4dU1SSFk4MktNdFQzLVNFYmtrN0ttdTRoN056THZ4Y1hWX2I3YXQtWUViNURvZjN5M0pHcHpOMmZJWFhFN3JnZw?oc=5",
-          "desc": "",
-          "title_en": "'K Snack' in India was sold out... The share price was' hot 'for two consecutive days [Event +]",
-          "title_ja": "インドの「Kスナック」が売り切れ… 2日間連続で株価が「ホット」になった【イベント+】",
-          "title_zh": "印度“K Snack”售罄……股价连续两天“火爆” [Event +]"
-        },
         {
           "title": "폭염에 이걸 먹는다고?…직장인들 몰리는 '의외의 음식' [권 기자의 장바구니]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eGVtUTJSVFlEVDd2XzY0UUhZUDhfM1Fpak9nc29qX1NldUVxVVc4OHhhWlFoekUySTZMbFYxaEtKSVhUS01QOFJUY0FZMEVzMEpzNUJVT0RXdw?oc=5",
@@ -150,6 +142,14 @@
           "title_en": "Hyundai Green Foods Operating Profit of 38.1 Billion in Q2… Up 23.4% YoY",
           "title_ja": "現代グリーンフーズ、第2四半期の営業利益は381億円…前年同期比23.4%増",
           "title_zh": "现代绿色食品第二季度营业利润为381亿…同比增长23.4%"
+        },
+        {
+          "title": "경북도, ‘식품한류산업국’ 출범",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3OTF5Y0hNdWJtalQtZERieTFjWDVEbU9RR2pvdUlTS1R3VXJwcnh6NGsyNGkxSWV4RDZTUW9GWmxhTUhOMDlxRGNiNVhFZThwT1BfQ0VuckdtUQ?oc=5",
+          "desc": "",
+          "title_en": "Gyeongbuk-do launches‘ Food and Hallyu Industry Bureau ’",
+          "title_ja": "景北道、「食品・ハリウ産業局」を開設",
+          "title_zh": "庆北道推出“食品和韩流工业局”"
         }
       ]
     },
@@ -175,7 +175,7 @@
         },
         {
           "title": "[식견] 제사 음식",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBITTlZSEc3N0RYc2lhODVadTZMZ0w0alg1Ykw3OWNSaXRHMG1CVVFXcVFhWllFLTlNa1E1TnVPWlgyN0pQM0J5ZFQ0MUloYV9zZGfSAVNBVV95cUxNWm1ZTUtncVVIMGxuRVAxSGNXRUNYNnZ4a0tpNS11SXlNUk9jWE5SSFpPc3daTS05ZXdNVDNPbEJVZFA3RTh5SDk5ZmhVbVNIN0xQTQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBITTlZSEc3N0RYc2lhODVadTZMZ0w0alg1Ykw3OWNSaXRHMG1CVVFXcVFhWllFLTlNa1E1TnVPWlgyN0pQM0J5ZFQ0MUloYV9zZGc?oc=5",
           "desc": "",
           "title_en": "[Knowledge] Sacrificial food",
           "title_ja": "[知識]生け贄の食べ物",
@@ -187,14 +187,6 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
-        {
-          "title": "라이프웨이 푸드, 2분기 매출 6690만 달러..27분기 연속 성장",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rWlZrWU40YndjckdtOEh4bU5XZUdLZXR5Rjc3d1NOT0xwazY5and0eGFRdFFGT0VDdE5lUEhLQ2lSNGxCbk93ZFpNR2ppZ084TFE?oc=5",
-          "desc": "",
-          "title_en": "Lifeway Foods Revenues $66.9 Million in Q2.. 27th Consecutive Quarter of Growth",
-          "title_ja": "Lifeway Foodsは、第2四半期に6,690万ドルの収益を上げました。27四半期連続の成長",
-          "title_zh": "Lifeway Foods第二季度收入6690万美元..连续第27个季度增长"
-        },
         {
           "title": "전주 남부시장서 14일 'K-푸드 창업사관학교' 시제품 품평회",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xQlNJNU1wbDhDaUV6dzdraW0yWFJmNXgxeHNHNnZ3RTF5S256cm9JZ2FRQVF4SmU1VDZSdE1GS05iMFBTQzYyYVFVZlU3bE5UZVE?oc=5",
@@ -210,6 +202,14 @@
           "title_en": "Performance Food Group Reports Q4 Revenue of $18 Billion · Adjusted EBITDA of $590 Billion",
           "title_ja": "Performance Food Group、第4四半期の売上高は180億ドル・調整後EBITDAは5,900億ドル",
           "title_zh": "Performance Food Group第四季度收入为180亿美元·调整后EBITDA为5,900亿美元"
+        },
+        {
+          "title": "“왜 재탕한 음식 주냐”…항의한 직원에 망치 던진 치킨집 사장",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1fb0lDT0JkWjlwSlNBLUFQVzZkcFFDbXo2dHFrV2hxOW0yUndLTnZfcDlNS2JJcFN5YlhBZUxoVllkeVVJUnc?oc=5",
+          "desc": "",
+          "title_en": "“Why rehashed food?” … The owner of the chicken house who threw a hammer at the protesting employee",
+          "title_ja": "「なぜ食べ物を再調理するのですか？」…抗議している従業員にハンマーを投げた鶏小屋のオーナー",
+          "title_zh": "“为什么要重新摆放食物？” ……向抗议员工扔锤子的鸡舍主人"
         }
       ]
     },
