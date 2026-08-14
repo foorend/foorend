@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T01:57:44Z",
+  "lastUpdated": "2026-08-14T04:47:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "CJ씨푸드1우, 상한가 진입.. +29.89% ↑",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NMTVrU3ZzRW1TMG51ZExuSXBLVEFsVjQ5OGZyOFBSck5qaVR6S0JneUpuaUVSQ2IwaUFNX1pmX1dKamk1c0Jpd2ktN0VHaEVldGc?oc=5",
+          "desc": "",
+          "title_en": "CJ Seafood 1W, enter upper price.. +29.89% ↑",
+          "title_ja": "CJシーフード1 W、高値を入力.. +29.89% ↑",
+          "title_zh": "CJ Seafood 1W ，进入高价.. +29.89% ↑"
+        },
+        {
           "title": "“한국인들 매일 먹는 음식인데”…더부룩한 속의 원인이라는 ‘이 음식’",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmdUJGeEpDRVVzNGtWeEJIakw3VmNpZFF5NXNWVlJPano3Njhic2VaeDYzQ1F3WnMtV3JyTkhMWTZVdWt5WUVDbGVia1c0QURBRWc?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "GS Global Expands Wando Product, Highland Food, and Kim Exports‘ Dong Son ’",
           "title_ja": "GS Global、Wando製品、Highland Food、Kimの「Dong Son」輸出を拡大",
           "title_zh": "GS Global扩大Wando产品、Highland Food和Kim出口“Dong Son”"
-        },
-        {
-          "title": "[식견] 제사 음식",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBITTlZSEc3N0RYc2lhODVadTZMZ0w0alg1Ykw3OWNSaXRHMG1CVVFXcVFhWllFLTlNa1E1TnVPWlgyN0pQM0J5ZFQ0MUloYV9zZGc?oc=5",
-          "desc": "",
-          "title_en": "[Knowledge] Sacrificial food",
-          "title_ja": "[知識]生け贄の食べ物",
-          "title_zh": "[知识]祭祀食物"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "미데라 푸드 프로세싱, 2분기 매출 2억4500만 달러··전년비 13% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ySkYxclFWN2hrNGV4NjhmQWZKOXpla3hWNEN5ZzVYOWVWNkxIcjJKX01TV1hFeTJYUFE3NUNSOU8xQ3JFNDZkd1l1U1BOaUN2ZkE?oc=5",
+          "desc": "",
+          "title_en": "Midera Food Processing, Q2 Revenue of $245 Million · · 13% YoY Increase",
+          "title_ja": "Midera Food Processing、第2四半期の売上高は2億4,500万ドル・・・前年比13 ％増",
+          "title_zh": "米德拉食品加工，第二季度收入2.45亿美元· ·同比增长13%"
+        },
         {
           "title": "전주 남부시장서 14일 'K-푸드 창업사관학교' 시제품 품평회",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xQlNJNU1wbDhDaUV6dzdraW0yWFJmNXgxeHNHNnZ3RTF5S256cm9JZ2FRQVF4SmU1VDZSdE1GS05iMFBTQzYyYVFVZlU3bE5UZVE?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Lifeway Foods Revenues $66.9 Million in Q2.. 27th Consecutive Quarter of Growth",
           "title_ja": "Lifeway Foodsは、第2四半期に6,690万ドルの収益を上げました。27四半期連続の成長",
           "title_zh": "Lifeway Foods第二季度收入6690万美元..连续第27个季度增长"
-        },
-        {
-          "title": "브랜치아웃 푸드, 2분기 매출 450만 달러..4분기 700만 달러 전망",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11OU1FTmpDcmVDQ1NlZXZIR0p2SUtnSE5iX1hNR2xEVnllVHpEYVZoSTZJM0hsNnY1Z2F2bTF0WXhYT1hRUWxBR3lzZ1k5UUwySFE?oc=5",
-          "desc": "",
-          "title_en": "Branchout Foods Revenues $4.5 Million in Q2.. Projected $7 Million in Q4",
-          "title_ja": "第2四半期のBranchout Foodsの収益は450万ドルです。第4四半期は700万ドルと予測されています",
-          "title_zh": "Branchout Foods第二季度营收450万美元，第四季度预计为700万美元"
         }
       ]
     },
