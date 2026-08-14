@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T18:53:53Z",
+  "lastUpdated": "2026-08-14T21:24:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "在热浪中吃这个？ ……被上班族吸引的“意想不到的食物” [Kwon记者的购物车]"
         },
         {
-          "title": "인도서 'K간식' 불티나게 팔리더니…이틀 연속 주가 '들썩' [종목+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMkdWUVdnU3ZGcVl2MmRoeVV4dU1SSFk4MktNdFQzLVNFYmtrN0ttdTRoN056THZ4Y1hWX2I3YXQtWUViNURvZjN5M0pHcHpOMmZJWFhFN3JnZw?oc=5",
+          "title": "\"조금 이따가 냉장고에 넣어야지\" 했다가…'독' 되는 음식 5가지 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVRY25pdU1DeDI3SG5XNGNPa1dfNHZYMUJ3VGRyXzNMT1hWa3lOd2ZxbUV2elctWHNDeUZ2QjNWQjdVYl92RkkwWDBxMFRIR3Bia0UxMTBTMTMzVG1GYm5PMENkRnd1SkxqUy1wbmx1T05zTkg1RlN2WFFzSjdodUdXa1J4dWc?oc=5",
           "desc": "",
-          "title_en": "'K Snack' in India was sold out... The share price was' hot 'for two consecutive days [Event +]",
-          "title_ja": "インドの「Kスナック」が売り切れ… 2日間連続で株価が「ホット」になった【イベント+】",
-          "title_zh": "印度“K Snack”售罄……股价连续两天“火爆” [Event +]"
+          "title_en": "\"You have to put it in the fridge a little later\"... 5 foods that are 'poison' [Health! Talk]",
+          "title_ja": "「もう少し後で冷蔵庫に入れる必要があります」...「毒」である5つの食べ物[健康！トーク]",
+          "title_zh": "“你必须稍后把它放在冰箱里” …… 5种'有毒'的食物[健康！说话]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "新世界食品，上半年营业利润98亿韩元……同比增长5.4%"
         },
         {
+          "title": "바프레시 푸드 그룹, 2분기 매출 470만 달러·전년비 190% 급증..생산 비효율로 적자 지속",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPa1RzSDk2aE9aN1BaWVNhMlZSalpWVFR6blhicnNaMDN3Y3hCVkhjWlhWTEJOS1hWQV9PX25uR1ZBZ2NGdWZYQWRfb1FuUGRWdFE?oc=5",
+          "desc": "",
+          "title_en": "Bar Fresh Food Group Revenues $4.7 Million in Q2 · 190% YoY Surge.. Production Inefficiency Continues to Deficit",
+          "title_ja": "バー生鮮食品グループの第2四半期の収益は470万ドル・前年比190 ％増。生産の非効率性は引き続き赤字",
+          "title_zh": "酒吧生鲜食品集团第二季度收入470万美元·同比激增190%..生产效率低下持续亏损"
+        },
+        {
           "title": "미데라 푸드 프로세싱, 2분기 매출 2억4500만 달러··전년비 13% 증가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ySkYxclFWN2hrNGV4NjhmQWZKOXpla3hWNEN5ZzVYOWVWNkxIcjJKX01TV1hFeTJYUFE3NUNSOU8xQ3JFNDZkd1l1U1BOaUN2ZkE?oc=5",
           "desc": "",
           "title_en": "Midera Food Processing, Q2 Revenue of $245 Million · · 13% YoY Increase",
           "title_ja": "Midera Food Processing、第2四半期の売上高は2億4,500万ドル・・・前年比13 ％増",
           "title_zh": "米德拉食品加工，第二季度收入2.45亿美元· ·同比增长13%"
-        },
-        {
-          "title": "브랜치아웃 푸드, 2분기 매출 450만 달러..4분기 700만 달러 전망",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11OU1FTmpDcmVDQ1NlZXZIR0p2SUtnSE5iX1hNR2xEVnllVHpEYVZoSTZJM0hsNnY1Z2F2bTF0WXhYT1hRUWxBR3lzZ1k5UUwySFE?oc=5",
-          "desc": "",
-          "title_en": "Branchout Foods Revenues $4.5 Million in Q2.. Projected $7 Million in Q4",
-          "title_ja": "第2四半期のBranchout Foodsの収益は450万ドルです。第4四半期は700万ドルと予測されています",
-          "title_zh": "Branchout Foods第二季度营收450万美元，第四季度预计为700万美元"
         }
       ]
     },
