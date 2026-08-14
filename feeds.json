@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T21:44:41Z",
+  "lastUpdated": "2026-08-14T01:57:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "在热浪中吃这个？ ……被上班族吸引的“意想不到的食物” [Kwon记者的购物车]"
         },
         {
-          "title": "현대그린푸드, 2분기 영업익 381억…전년비 23.4% 증가",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVDdHLUozWjFYcmtLNGRES1dnUDM1QzA3WHFIRk9WNEF6M0NTYllkdldxcEJMWmdUOUhJdEhReUh5RWhBeEFBV1NoemdlaEdtOTZmSHBPVk5qNzZEZWE0cFltb1NHMjRSb0I1N2pqTnZsdWtvbVFhUy1sbWszSU0?oc=5",
+          "title": "인도서 'K간식' 불티나게 팔리더니…이틀 연속 주가 '들썩' [종목+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMkdWUVdnU3ZGcVl2MmRoeVV4dU1SSFk4MktNdFQzLVNFYmtrN0ttdTRoN056THZ4Y1hWX2I3YXQtWUViNURvZjN5M0pHcHpOMmZJWFhFN3JnZw?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Foods Operating Profit of 38.1 Billion in Q2… Up 23.4% YoY",
-          "title_ja": "現代グリーンフーズ、第2四半期の営業利益は381億円…前年同期比23.4%増",
-          "title_zh": "现代绿色食品第二季度营业利润为381亿…同比增长23.4%"
+          "title_en": "'K Snack' in India was sold out... The share price was' hot 'for two consecutive days [Event +]",
+          "title_ja": "インドの「Kスナック」が売り切れ… 2日間連続で株価が「ホット」になった【イベント+】",
+          "title_zh": "印度“K Snack”售罄……股价连续两天“火爆” [Event +]"
         }
       ]
     },
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "브랜치아웃 푸드, 2분기 매출 450만 달러..4분기 700만 달러 전망",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11OU1FTmpDcmVDQ1NlZXZIR0p2SUtnSE5iX1hNR2xEVnllVHpEYVZoSTZJM0hsNnY1Z2F2bTF0WXhYT1hRUWxBR3lzZ1k5UUwySFE?oc=5",
-          "desc": "",
-          "title_en": "Branchout Foods Revenues $4.5 Million in Q2.. Projected $7 Million in Q4",
-          "title_ja": "第2四半期のBranchout Foodsの収益は450万ドルです。第4四半期は700万ドルと予測されています",
-          "title_zh": "Branchout Foods第二季度营收450万美元，第四季度预计为700万美元"
-        },
-        {
           "title": "전주 남부시장서 14일 'K-푸드 창업사관학교' 시제품 품평회",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xQlNJNU1wbDhDaUV6dzdraW0yWFJmNXgxeHNHNnZ3RTF5S256cm9JZ2FRQVF4SmU1VDZSdE1GS05iMFBTQzYyYVFVZlU3bE5UZVE?oc=5",
           "desc": "",
@@ -204,12 +196,20 @@
           "title_zh": "全州南武市场第14届“K-Food创业学院”原型展"
         },
         {
-          "title": "퍼포먼스 푸드 그룹, 4분기 매출 180억 달러·조정 EBITDA 5.9억 달러 기록",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14WDlBaklPaUhJR3B1WUdoaG1CMjRVTVNPVllNcDRJaEJBanBuMVNESjYwRTZMc0xvRk45d3dLeGNtaXlId1pWZXJPU0xhRjNRRFE?oc=5",
+          "title": "라이프웨이 푸드, 2분기 매출 6690만 달러..27분기 연속 성장",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rWlZrWU40YndjckdtOEh4bU5XZUdLZXR5Rjc3d1NOT0xwazY5and0eGFRdFFGT0VDdE5lUEhLQ2lSNGxCbk93ZFpNR2ppZ084TFE?oc=5",
           "desc": "",
-          "title_en": "Performance Food Group Reports Q4 Revenue of $18 Billion · Adjusted EBITDA of $590 Billion",
-          "title_ja": "Performance Food Group、第4四半期の売上高は180億ドル・調整後EBITDAは5,900億ドル",
-          "title_zh": "Performance Food Group第四季度收入为180亿美元·调整后EBITDA为5,900亿美元"
+          "title_en": "Lifeway Foods Revenues $66.9 Million in Q2.. 27th Consecutive Quarter of Growth",
+          "title_ja": "Lifeway Foodsは、第2四半期に6,690万ドルの収益を上げました。27四半期連続の成長",
+          "title_zh": "Lifeway Foods第二季度收入6690万美元..连续第27个季度增长"
+        },
+        {
+          "title": "브랜치아웃 푸드, 2분기 매출 450만 달러..4분기 700만 달러 전망",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11OU1FTmpDcmVDQ1NlZXZIR0p2SUtnSE5iX1hNR2xEVnllVHpEYVZoSTZJM0hsNnY1Z2F2bTF0WXhYT1hRUWxBR3lzZ1k5UUwySFE?oc=5",
+          "desc": "",
+          "title_en": "Branchout Foods Revenues $4.5 Million in Q2.. Projected $7 Million in Q4",
+          "title_ja": "第2四半期のBranchout Foodsの収益は450万ドルです。第4四半期は700万ドルと予測されています",
+          "title_zh": "Branchout Foods第二季度营收450万美元，第四季度预计为700万美元"
         }
       ]
     },
