@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T10:01:57Z",
+  "lastUpdated": "2026-08-14T13:05:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "신세계푸드, 상반기 영업이익 98억원…전년 대비 5.4% 증가",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xVVFpRzlKV3hCcjVzTktkam10SkQ4R24tZVBaVmhxOHA3YWktNklqYXdBS3BTWlAtbkRobE9yUkZYYzNMVV9WLUtGckdDQ2VaMnc?oc=5",
-          "desc": "",
-          "title_en": "Shinsegae Food, operating profit of 9.8 billion won in the first half of the year… up 5.4% YoY",
-          "title_ja": "新世界食品、上半期営業利益98億ウォン…前年同期比5.4%増",
-          "title_zh": "新世界食品，上半年营业利润98亿韩元……同比增长5.4%"
-        },
-        {
           "title": "가천대, 성남시 푸드테크 연구지원센터 구축 위해 산·학·관 협력",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAtSjlIcjJVbzgteElyNTVILWE5WGw1VHhGMEh2UnE5eHdKSFpFTHNiY09Tdko5dFhRbFZHMHJsMFc5VjR2RHc?oc=5",
           "desc": "",
           "title_en": "Gachon University cooperates with industry, academia, and government to establish Food Tech Research Support Center in Seongnam-si",
           "title_ja": "ガチョン大学は、産業界、学界、政府と協力して城南市に食品技術研究支援センターを設立",
           "title_zh": "加川大学与产业界、学术界和政府合作，在城南市建立食品技术研究支持中心"
+        },
+        {
+          "title": "신세계푸드, 상반기 영업이익 98억원…전년 대비 5.4% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xVVFpRzlKV3hCcjVzTktkam10SkQ4R24tZVBaVmhxOHA3YWktNklqYXdBS3BTWlAtbkRobE9yUkZYYzNMVV9WLUtGckdDQ2VaMnc?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Food, operating profit of 9.8 billion won in the first half of the year… up 5.4% YoY",
+          "title_ja": "新世界食品、上半期営業利益98億ウォン…前年同期比5.4%増",
+          "title_zh": "新世界食品，上半年营业利润98亿韩元……同比增长5.4%"
         },
         {
           "title": "미데라 푸드 프로세싱, 2분기 매출 2억4500만 달러··전년비 13% 증가",
