@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T04:47:37Z",
+  "lastUpdated": "2026-08-14T07:24:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -9,15 +9,15 @@
           "title": "Subway to its franchisees: Extend hours, and don't close stores",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM056cW1va0lwY2NuUzNCekxqTkZfVTc3OF9aYnJSZ3d0NFNWY3VvTEd3Um9LcGxrc1QyUmhFOG0zSzNXbk5PRWNuaXFra2h4Z0VHVjFmNldJOWNMbG9zX01LX1B2emhsUjJudVFwOG8wN1lCX1hFYnRIMURIS0xRTDFYTG5SYXZkQ0pSMy1GLXFMV3ZsUHNuRTk3M3o3M2lfa2c?oc=5",
           "desc": "",
-          "title_ko": "가맹점까지 지하철로 이동: 영업시간을 연장하고 매장을 닫지 마세요.",
-          "title_ja": "加盟店へのサブウェイ：営業時間を延長し、店舗を閉鎖しない",
-          "title_zh": "乘坐地铁前往加盟店：延长营业时间，不要关闭商店"
+          "title_ko": "Subway to its franchisees: Extend hours, and don't close stores",
+          "title_ja": "Subway to its franchisees: Extend hours, and don't close stores",
+          "title_zh": "Subway to its franchisees: Extend hours, and don't close stores"
         },
         {
           "title": "Wendy's new CEO laments the brand's 'quality degradation'",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDdEUEloeGs5cWZfVDFPUXNaUHRzWUw2ZXFCaXF2NVJXVm1iVzJJMHFyUzAwQkxfUVhiT0wtSE1nMmtIb2RFZUM3aVhub2NHMEtGczNYVURNbHF0THlWTzVOODBldHBSdXpOWUlYYURNOFFmbElYRlV6VENmdnFkaWZkNU5icDlNN0x0WjdRYTMxZGtRaG9qM0FQLTE?oc=5",
           "desc": "",
-          "title_ko": "Wendy의 새로운 CEO는 브랜드의 '품질 저하' 를 한탄합니다.",
+          "title_ko": "Wendy's new CEO laments the brand's 'quality degradation'",
           "title_ja": "ウェンディの新しいCEOは、ブランドの「品質低下」を嘆いています",
           "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
         },
@@ -39,7 +39,7 @@
           "title": "New High-Protein, Low-Calorie Beer Targets Gym Goers",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnUwVWFUaGxUUEo0V2pMVGhGRlJUOGd0enhNNjhGc01EWjVua05WMFhaS0xuOHBpdGxIbWFmbllaVFYydEp0S2VDQThSZktPRlNxX3NKbXdDMjhUTEVNSEl3bHVXYlE3UzhzQkpOWUZrbmRXTENqNDUxeHVpMFJQQ1RXaElkeE9QYy04bw?oc=5",
           "desc": "",
-          "title_ko": "새로운 고단백 저칼로리 맥주 타겟 체육관 방문객",
+          "title_ko": "New High-Protein, Low-Calorie Beer Targets Gym Goers",
           "title_ja": "新しい高タンパク質、低カロリーのビールはジムに行く人をターゲットにしています",
           "title_zh": "全新高蛋白、低热量啤酒瞄准健身爱好者"
         },
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"조금 이따가 냉장고에 넣어야지\" 했다가…'독' 되는 음식 5가지 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVRY25pdU1DeDI3SG5XNGNPa1dfNHZYMUJ3VGRyXzNMT1hWa3lOd2ZxbUV2elctWHNDeUZ2QjNWQjdVYl92RkkwWDBxMFRIR3Bia0UxMTBTMTMzVG1GYm5PMENkRnd1SkxqUy1wbmx1T05zTkg1RlN2WFFzSjdodUdXa1J4dWc?oc=5",
+          "title": "\"'논산 딸기' 경쟁력 통했다\"…전국 1452개 축제 평가서 '음식·특산물' 부문 1위",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UN05ZTHVqY2ZETmZWV1REalZ2X05MQkctV04wdGtDZTh3ZHRTd1lhcUVCRXRvWm03OTRRTnc4YkhSeV9vcmtia0g5YkpCTEFIYkNVU3BlV0tFdw?oc=5",
           "desc": "",
-          "title_en": "\"You have to put it in the fridge a little later\"... 5 foods that are 'poison' [Health! Talk]",
-          "title_ja": "「もう少し後で冷蔵庫に入れる必要があります」...「毒」である5つの食べ物[健康！トーク]",
-          "title_zh": "“你必须稍后把它放在冰箱里” …… 5种'有毒'的食物[健康！说话]"
+          "title_en": "\"'Nonsan Strawberry' was competitive\" … Ranked 1st in the 'Food and Specialties' category in 1452 festival evaluations nationwide",
+          "title_ja": "「『論山いちご』は競争力があった」…全国1452の祭り評価で「食と名物」部門で1位",
+          "title_zh": "“'论山草莓'很有竞争力” ……在全国1452个节日评估中，在“食品和特色”类别中排名第一"
         },
         {
           "title": "폭염에 이걸 먹는다고?…직장인들 몰리는 '의외의 음식' [권 기자의 장바구니]",
@@ -144,12 +144,12 @@
           "title_zh": "在热浪中吃这个？ ……被上班族吸引的“意想不到的食物” [Kwon记者的购物车]"
         },
         {
-          "title": "인도서 'K간식' 불티나게 팔리더니…이틀 연속 주가 '들썩' [종목+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMkdWUVdnU3ZGcVl2MmRoeVV4dU1SSFk4MktNdFQzLVNFYmtrN0ttdTRoN056THZ4Y1hWX2I3YXQtWUViNURvZjN5M0pHcHpOMmZJWFhFN3JnZw?oc=5",
+          "title": "\"조금 이따가 냉장고에 넣어야지\" 했다가…'독' 되는 음식 5가지 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVRY25pdU1DeDI3SG5XNGNPa1dfNHZYMUJ3VGRyXzNMT1hWa3lOd2ZxbUV2elctWHNDeUZ2QjNWQjdVYl92RkkwWDBxMFRIR3Bia0UxMTBTMTMzVG1GYm5PMENkRnd1SkxqUy1wbmx1T05zTkg1RlN2WFFzSjdodUdXa1J4dWc?oc=5",
           "desc": "",
-          "title_en": "'K Snack' in India was sold out... The share price was' hot 'for two consecutive days [Event +]",
-          "title_ja": "インドの「Kスナック」が売り切れ… 2日間連続で株価が「ホット」になった【イベント+】",
-          "title_zh": "印度“K Snack”售罄……股价连续两天“火爆” [Event +]"
+          "title_en": "\"You have to put it in the fridge a little later\"... 5 foods that are 'poison' [Health! Talk]",
+          "title_ja": "「もう少し後で冷蔵庫に入れる必要があります」...「毒」である5つの食べ物[健康！トーク]",
+          "title_zh": "“你必须稍后把它放在冰箱里” …… 5种'有毒'的食物[健康！说话]"
         }
       ]
     },
