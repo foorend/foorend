@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T13:05:39Z",
+  "lastUpdated": "2026-08-14T15:51:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "在热浪中吃这个？ ……被上班族吸引的“意想不到的食物” [Kwon记者的购物车]"
         },
         {
-          "title": "\"조금 이따가 냉장고에 넣어야지\" 했다가…'독' 되는 음식 5가지 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVRY25pdU1DeDI3SG5XNGNPa1dfNHZYMUJ3VGRyXzNMT1hWa3lOd2ZxbUV2elctWHNDeUZ2QjNWQjdVYl92RkkwWDBxMFRIR3Bia0UxMTBTMTMzVG1GYm5PMENkRnd1SkxqUy1wbmx1T05zTkg1RlN2WFFzSjdodUdXa1J4dWc?oc=5",
+          "title": "인도서 'K간식' 불티나게 팔리더니…이틀 연속 주가 '들썩' [종목+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMkdWUVdnU3ZGcVl2MmRoeVV4dU1SSFk4MktNdFQzLVNFYmtrN0ttdTRoN056THZ4Y1hWX2I3YXQtWUViNURvZjN5M0pHcHpOMmZJWFhFN3JnZw?oc=5",
           "desc": "",
-          "title_en": "\"You have to put it in the fridge a little later\"... 5 foods that are 'poison' [Health! Talk]",
-          "title_ja": "「もう少し後で冷蔵庫に入れる必要があります」...「毒」である5つの食べ物[健康！トーク]",
-          "title_zh": "“你必须稍后把它放在冰箱里” …… 5种'有毒'的食物[健康！说话]"
+          "title_en": "'K Snack' in India was sold out... The share price was' hot 'for two consecutive days [Event +]",
+          "title_ja": "インドの「Kスナック」が売り切れ… 2日間連続で株価が「ホット」になった【イベント+】",
+          "title_zh": "印度“K Snack”售罄……股价连续两天“火爆” [Event +]"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "CJ Seafood 1W ，进入高价.. +29.89% ↑"
         },
         {
-          "title": "“한국인들 매일 먹는 음식인데”…더부룩한 속의 원인이라는 ‘이 음식’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmdUJGeEpDRVVzNGtWeEJIakw3VmNpZFF5NXNWVlJPano3Njhic2VaeDYzQ1F3WnMtV3JyTkhMWTZVdWt5WUVDbGVia1c0QURBRWc?oc=5",
-          "desc": "",
-          "title_en": "“It's a food that Koreans eat every day” … ‘This food‘ is the cause of the bloated stomach",
-          "title_ja": "「韓国人が毎日食べる食べ物です」…「この食べ物」は胃の膨満感の原因です",
-          "title_zh": "“这是韩国人每天都吃的食物” …… “这种食物”是胃胀的原因"
-        },
-        {
           "title": "CJ씨푸드1우, 상한가 진입.. +29.89% ↑",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13VkRnYXRCLVdSLTVWZUt5dDdNdUM4SENqZDR5TWRGdGg2SEFBdk1iNFpydm9WQ19aRk1kdlBHbDc2bWkyZU5mdS1wVDJ3clJ1NHo4?oc=5",
           "desc": "",
           "title_en": "CJ Seafood 1W, enter upper price.. +29.89% ↑",
           "title_ja": "CJシーフード1 W、高値を入力.. +29.89% ↑",
           "title_zh": "CJ Seafood 1W ，进入高价.. +29.89% ↑"
+        },
+        {
+          "title": "“한국인들 매일 먹는 음식인데”…더부룩한 속의 원인이라는 ‘이 음식’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmdUJGeEpDRVVzNGtWeEJIakw3VmNpZFF5NXNWVlJPano3Njhic2VaeDYzQ1F3WnMtV3JyTkhMWTZVdWt5WUVDbGVia1c0QURBRWc?oc=5",
+          "desc": "",
+          "title_en": "“It's a food that Koreans eat every day” … ‘This food‘ is the cause of the bloated stomach",
+          "title_ja": "「韓国人が毎日食べる食べ物です」…「この食べ物」は胃の膨満感の原因です",
+          "title_zh": "“这是韩国人每天都吃的食物” …… “这种食物”是胃胀的原因"
         }
       ]
     },
