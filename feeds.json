@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T15:51:44Z",
+  "lastUpdated": "2026-08-14T18:53:53Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Dinner Party Has Left the Building",
+          "link": "https://www.eater.com/food-culture/980064/earthwork-land-art-dinners",
+          "desc": "A few months ago, a small group gathered for a picnic during a retreat in upstate New York. In lieu of sitting on a grassy knoll with a checkered blan",
+          "title_ko": "저녁 식사 파티가 건물을 떠났습니다.",
+          "title_ja": "ディナーパーティーが建物を離れました",
+          "title_zh": "晚宴已经离开大楼"
+        },
+        {
           "title": "Three Days of Tailgating, Cafecitos, and Football for a Miami Hurricanes Game Weekend",
           "link": "https://www.eater.com/football-guides/979066/ultimate-u-miami-game-weekend-itinerary",
           "desc": "The cries have been coming from Biscayne’s wondrous shores since last year’s College Football Playoff: The U is back! And after 20+ years of painful m",
@@ -110,14 +118,6 @@
           "title_ko": "UT 롱혼 게임 주말을 위한 3일간의 바비큐, 수영 홀, 축구",
           "title_ja": "バーベキュー、スイミングホール、フットボールを楽しむ3日間（ UTロングホーンズゲームの週末）",
           "title_zh": "UT Longhorns比赛周末三日烧烤、游泳洞和足球之旅"
-        },
-        {
-          "title": "Three Days of Hot Dogs, Boutiques, and Football for an Ohio State Buckeyes Game Weekend",
-          "link": "https://www.eater.com/travel-guides/980121/columbus-ohio-restaurant-food-football-weekend-guide-itinerary",
-          "desc": "Columbus is always evolving. In the city, historical landmarks such as the Ohio Statehouse and tributes like the Columbus Museum of Art serve as a sna",
-          "title_ko": "주말에 즐기는 오하이오주 버키스 핫도그, 부티크, 축구",
-          "title_ja": "ホットドッグ、ブティック、フットボールを楽しむ3日間（オハイオ州立大学バックアイズ校での試合の週末に向けて）",
-          "title_zh": "三天热狗、精品店和足球之旅，体验俄亥俄州立大学鹿眼队比赛周末"
         }
       ]
     }
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "가천대, 성남시 푸드테크 연구지원센터 구축 위해 산·학·관 협력",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAtSjlIcjJVbzgteElyNTVILWE5WGw1VHhGMEh2UnE5eHdKSFpFTHNiY09Tdko5dFhRbFZHMHJsMFc5VjR2RHc?oc=5",
-          "desc": "",
-          "title_en": "Gachon University cooperates with industry, academia, and government to establish Food Tech Research Support Center in Seongnam-si",
-          "title_ja": "ガチョン大学は、産業界、学界、政府と協力して城南市に食品技術研究支援センターを設立",
-          "title_zh": "加川大学与产业界、学术界和政府合作，在城南市建立食品技术研究支持中心"
-        },
-        {
           "title": "신세계푸드, 상반기 영업이익 98억원…전년 대비 5.4% 증가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xVVFpRzlKV3hCcjVzTktkam10SkQ4R24tZVBaVmhxOHA3YWktNklqYXdBS3BTWlAtbkRobE9yUkZYYzNMVV9WLUtGckdDQ2VaMnc?oc=5",
           "desc": "",
@@ -210,6 +202,14 @@
           "title_en": "Midera Food Processing, Q2 Revenue of $245 Million · · 13% YoY Increase",
           "title_ja": "Midera Food Processing、第2四半期の売上高は2億4,500万ドル・・・前年比13 ％増",
           "title_zh": "米德拉食品加工，第二季度收入2.45亿美元· ·同比增长13%"
+        },
+        {
+          "title": "브랜치아웃 푸드, 2분기 매출 450만 달러..4분기 700만 달러 전망",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11OU1FTmpDcmVDQ1NlZXZIR0p2SUtnSE5iX1hNR2xEVnllVHpEYVZoSTZJM0hsNnY1Z2F2bTF0WXhYT1hRUWxBR3lzZ1k5UUwySFE?oc=5",
+          "desc": "",
+          "title_en": "Branchout Foods Revenues $4.5 Million in Q2.. Projected $7 Million in Q4",
+          "title_ja": "第2四半期のBranchout Foodsの収益は450万ドルです。第4四半期は700万ドルと予測されています",
+          "title_zh": "Branchout Foods第二季度营收450万美元，第四季度预计为700万美元"
         }
       ]
     },
