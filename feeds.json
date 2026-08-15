@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T21:24:39Z",
+  "lastUpdated": "2026-08-15T01:14:24Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“음식·약 먹고 두드러기? 단순 체질 아닌 알레르기일 수도”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pdXQwQlJsZG9uRkw5VE9CQkVNVEZPVkRydmJ6QmdtLWl1Z2FqYVlEWUJ0QUNWaEdRXzN6T18yWFgtaWhwM2g4U0dDRV9CTmlPQkpV?oc=5",
+          "desc": "",
+          "title_en": "“Hives after eating food and medicine? It could be an allergy, not just a constitution.”",
+          "title_ja": "「食べ物や薬を食べた後のじんましん？それは単なる憲法ではなく、アレルギーかもしれません。」",
+          "title_zh": "“吃了食物和药后荨麻疹？这可能是一种过敏，而不仅仅是宪法。”"
+        },
+        {
           "title": "CJ씨푸드1우, 상한가 진입.. +29.89% ↑",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NMTVrU3ZzRW1TMG51ZExuSXBLVEFsVjQ5OGZyOFBSck5qaVR6S0JneUpuaUVSQ2IwaUFNX1pmX1dKamk1c0Jpd2ktN0VHaEVldGc?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "CJ Seafood 1W, enter upper price.. +29.89% ↑",
           "title_ja": "CJシーフード1 W、高値を入力.. +29.89% ↑",
           "title_zh": "CJ Seafood 1W ，进入高价.. +29.89% ↑"
-        },
-        {
-          "title": "“한국인들 매일 먹는 음식인데”…더부룩한 속의 원인이라는 ‘이 음식’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmdUJGeEpDRVVzNGtWeEJIakw3VmNpZFF5NXNWVlJPano3Njhic2VaeDYzQ1F3WnMtV3JyTkhMWTZVdWt5WUVDbGVia1c0QURBRWc?oc=5",
-          "desc": "",
-          "title_en": "“It's a food that Koreans eat every day” … ‘This food‘ is the cause of the bloated stomach",
-          "title_ja": "「韓国人が毎日食べる食べ物です」…「この食べ物」は胃の膨満感の原因です",
-          "title_zh": "“这是韩国人每天都吃的食物” …… “这种食物”是胃胀的原因"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "\"K-푸드·뷰티 타고 호주 간다\"…전주시, 무역사절단 8개사 모집",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zVXBEc0ZUaFR4cjUwVXlEUVAzeERUWk05WE9FUEpNMzhzY0JuTnEwT0pjQWhkNS13RTl0dHdQRDB1NnBwWmlxbkZoUG9vOXA3T3c?oc=5",
+          "desc": "",
+          "title_en": "“I'm going to Australia with K-Food and Beauty” … Jeonju City recruits eight trade delegations",
+          "title_ja": "「K - FoodとBeautyと一緒にオーストラリアに行く」…全州市は8つの貿易代表団を募集しています",
+          "title_zh": "“我要和K-Food and Beauty一起去澳大利亚” ……全州市招募了八个贸易代表团"
+        },
         {
           "title": "신세계푸드, 상반기 영업이익 98억원…전년 대비 5.4% 증가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xVVFpRzlKV3hCcjVzTktkam10SkQ4R24tZVBaVmhxOHA3YWktNklqYXdBS3BTWlAtbkRobE9yUkZYYzNMVV9WLUtGckdDQ2VaMnc?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Bar Fresh Food Group Revenues $4.7 Million in Q2 · 190% YoY Surge.. Production Inefficiency Continues to Deficit",
           "title_ja": "バー生鮮食品グループの第2四半期の収益は470万ドル・前年比190 ％増。生産の非効率性は引き続き赤字",
           "title_zh": "酒吧生鲜食品集团第二季度收入470万美元·同比激增190%..生产效率低下持续亏损"
-        },
-        {
-          "title": "미데라 푸드 프로세싱, 2분기 매출 2억4500만 달러··전년비 13% 증가",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ySkYxclFWN2hrNGV4NjhmQWZKOXpla3hWNEN5ZzVYOWVWNkxIcjJKX01TV1hFeTJYUFE3NUNSOU8xQ3JFNDZkd1l1U1BOaUN2ZkE?oc=5",
-          "desc": "",
-          "title_en": "Midera Food Processing, Q2 Revenue of $245 Million · · 13% YoY Increase",
-          "title_ja": "Midera Food Processing、第2四半期の売上高は2億4,500万ドル・・・前年比13 ％増",
-          "title_zh": "米德拉食品加工，第二季度收入2.45亿美元· ·同比增长13%"
         }
       ]
     },
