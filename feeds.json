@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-08-15T18:29:36Z",
+  "lastUpdated": "2026-08-15T21:20:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Wendy's new CEO laments the brand's 'quality degradation'",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDdEUEloeGs5cWZfVDFPUXNaUHRzWUw2ZXFCaXF2NVJXVm1iVzJJMHFyUzAwQkxfUVhiT0wtSE1nMmtIb2RFZUM3aVhub2NHMEtGczNYVURNbHF0THlWTzVOODBldHBSdXpOWUlYYURNOFFmbElYRlV6VENmdnFkaWZkNU5icDlNN0x0WjdRYTMxZGtRaG9qM0FQLTE?oc=5",
-          "desc": "",
-          "title_ko": "Wendy의 새로운 CEO는 브랜드의 '품질 저하' 를 한탄합니다.",
-          "title_ja": "ウェンディの新しいCEOは、ブランドの「品質低下」を嘆いています",
-          "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
-        },
         {
           "title": "Subway to its franchisees: Extend hours, and don't close stores",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM056cW1va0lwY2NuUzNCekxqTkZfVTc3OF9aYnJSZ3d0NFNWY3VvTEd3Um9LcGxrc1QyUmhFOG0zSzNXbk5PRWNuaXFra2h4Z0VHVjFmNldJOWNMbG9zX01LX1B2emhsUjJudVFwOG8wN1lCX1hFYnRIMURIS0xRTDFYTG5SYXZkQ0pSMy1GLXFMV3ZsUHNuRTk3M3o3M2lfa2c?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "7 Brew는 Dutch Bros가 아닌 샐러드 앤 고 지점을 폐쇄해야 한다고 생각합니다.",
           "title_ja": "7 Brewは、オランダのブラザーズではなく、サラダとゴーの店舗を閉鎖すべきだと考えています",
           "title_zh": "7 Brew认为应该关闭Salad and Go门店，而不是Dutch Bros门店"
+        },
+        {
+          "title": "Restaurant chains put sandwiches in the spotlight",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcE1wcWRqUERwc2NzekZ3T1hjRXQxclVGNkNteTRkM2JIcVRVNUFRSDVHejREUEdMOTNYd0FndF9kbV9PUEd5V3RheDJQR2tIcHpMOUl5NU5pM0hGblQ3d25rTndoX1h0NVhPZDVGaDZJUW1sQ1EzbXVBbjVkcnJGMFFiWDEwU091OHRBcQ?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑 체인이 샌드위치를 주목합니다",
+          "title_ja": "レストランチェーンがサンドイッチに注目",
+          "title_zh": "连锁餐厅将三明治放在聚光灯下"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "냉장고에 넣은 샌드위치, 여름철엔 언제까지 괜찮을까",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iZ3hZTzlmdm5YVndUQmV3ajZGRlItWlRUclpvZWk5LVpGRTFFSFpEbTdaZEhzNjMxSUdHZE9YUlM3b0ZUd2V5aWFITmthX2ZjR1pLU3lGWQ?oc=5",
-          "desc": "",
-          "title_en": "Sandwiches in the fridge, how long will it be okay in the summer?",
-          "title_ja": "冷蔵庫のサンドイッチ、夏はどれくらいで大丈夫ですか？",
-          "title_zh": "冰箱里的三明治，夏天可以吃多久？"
-        },
-        {
           "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "“Served within 3 minutes of receipt” … Starbucks strengthens‘ Fast Serve ’",
           "title_ja": "「受け取ってから3分以内に提供」…スターバックスが「ファストサーブ」を強化",
           "title_zh": "“收到后3分钟内送达” ……星巴克加强了“快餐”"
+        },
+        {
+          "title": "얼린 토마토로 쫄깃 시원하게…‘토마토 냉우동’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aLVRkb0dQT2w0WENVNm4xbzlYLVdhN2ZLbE16UFBmZ1N3cmYzT01DZEdSUG5BeXAtOVZLREEwQ05BMWRvNHNyX3kySTR6R3BTMWpfVkpwOA?oc=5",
+          "desc": "",
+          "title_en": "Chewy with frozen tomatoes... ‘Tomato Cold Udon’",
+          "title_ja": "冷凍トマトの歯ごたえ…「トマト冷うどん」",
+          "title_zh": "用冷冻番茄咀嚼…… “番茄冷乌冬面”"
         }
       ]
     }
