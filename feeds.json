@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T09:26:18Z",
+  "lastUpdated": "2026-08-16T12:38:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -166,20 +166,20 @@
           "title_zh": "“吃了食物和药后荨麻疹？这可能是一种过敏，而不仅仅是宪法。”"
         },
         {
-          "title": "“한국인들 매일 먹는 음식인데”…더부룩한 속의 원인이라는 ‘이 음식’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmdUJGeEpDRVVzNGtWeEJIakw3VmNpZFF5NXNWVlJPano3Njhic2VaeDYzQ1F3WnMtV3JyTkhMWTZVdWt5WUVDbGVia1c0QURBRWc?oc=5",
-          "desc": "",
-          "title_en": "“It's a food that Koreans eat every day” … ‘This food‘ is the cause of the bloated stomach",
-          "title_ja": "「韓国人が毎日食べる食べ物です」…「この食べ物」は胃の膨満感の原因です",
-          "title_zh": "“这是韩国人每天都吃的食物” …… “这种食物”是胃胀的原因"
-        },
-        {
           "title": "“오늘 당장 저녁 식탁에 올려야겠네”…혈관 튼튼하게 만든다는 ‘이 음식’",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53ZDk3WkgzQ3dlTnlLeTN4VHc2eVVoQmNGN0V1enF2cTJneVRQdjFSRjhRQTJEcnFfV0xPUk5CQl93bUNkZk9YSTdzbmZxV21LNXc?oc=5",
           "desc": "",
           "title_en": "“I have to put it on the dinner table today” … ‘This food‘ that makes blood vessels strong",
           "title_ja": "「今日はそれを食卓に置かなければなりません」…血管を強くする「この食べ物」",
           "title_zh": "“我今天必须把它放在餐桌上” …… ‘这种食物‘使血管强壮"
+        },
+        {
+          "title": "“한국인들 매일 먹는 음식인데”…더부룩한 속의 원인이라는 ‘이 음식’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmdUJGeEpDRVVzNGtWeEJIakw3VmNpZFF5NXNWVlJPano3Njhic2VaeDYzQ1F3WnMtV3JyTkhMWTZVdWt5WUVDbGVia1c0QURBRWc?oc=5",
+          "desc": "",
+          "title_en": "“It's a food that Koreans eat every day” … ‘This food‘ is the cause of the bloated stomach",
+          "title_ja": "「韓国人が毎日食べる食べ物です」…「この食べ物」は胃の膨満感の原因です",
+          "title_zh": "“这是韩国人每天都吃的食物” …… “这种食物”是胃胀的原因"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "미국의 식물성 식품시장, 비건 넘어 고단백 경쟁으로",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZQnJZZEN6aWxsOFZUNnFudXEwcDBwYnRFNmFDVjJHajNpbFJaOVAzRno2UkJxUDVsX2dFaEphZnVUb0pVZ19qZGxpRHlHRDB0UERMU2E5bw?oc=5",
-          "desc": "",
-          "title_en": "In the United States, the plant-based food market has surpassed vegan competition for high protein.",
-          "title_ja": "米国では、植物ベースの食品市場は、高タンパク質のためのビーガンの競争を上回っています。",
-          "title_zh": "在美国，植物性食品市场已经超过了素食主义者对高蛋白的竞争。"
-        },
-        {
           "title": "브라질, 한국산 면류·비스킷 수입 늘어난다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04U0t5Z09GdW1VV1lpRmhyU0Noc0JVenNhMEszakpGaWYxSFotdi03Q1kxZXg0bUVNQjU4eUxfRTJxUF9RMTlYUUZ4QW8tekJYdk1FQTFaaw?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "Gen Z's purchase of PB products leads US food growth",
           "title_ja": "Z世代によるPB製品の購入が米国の食料成長をリード",
           "title_zh": "Z世代购买PB产品引领美国食品增长"
+        },
+        {
+          "title": "두쫀쿠 올린 과일…인도네시아, 초콜릿 과일 컵 인기",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zT09GejBUQ0FqXzRpcVhsaHlRNFhzVGJEck5YalVXRy10VU5mQnktTnptbHlpU2NNblJnRmRhZm9Db2VMWXZxV1BQSm5NSGtHeHViWmFzVQ?oc=5",
+          "desc": "",
+          "title_en": "Doochunku Olin Fruit… Indonesia, Chocolate Fruit Cup Popular",
+          "title_ja": "Doochunku Olin Fruit…インドネシア、チョコレートフルーツカップ人気",
+          "title_zh": "Doochunku Olin水果…印度尼西亚，受欢迎的巧克力水果杯"
         }
       ]
     }
