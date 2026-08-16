@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T21:20:25Z",
+  "lastUpdated": "2026-08-16T01:18:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -174,12 +174,12 @@
           "title_zh": "CJ Seafood 1W ，进入高价.. +29.89% ↑"
         },
         {
-          "title": "CJ씨푸드1우, 상한가 진입.. +29.89% ↑",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NMTVrU3ZzRW1TMG51ZExuSXBLVEFsVjQ5OGZyOFBSck5qaVR6S0JneUpuaUVSQ2IwaUFNX1pmX1dKamk1c0Jpd2ktN0VHaEVldGc?oc=5",
+          "title": "“한국인들 매일 먹는 음식인데”…더부룩한 속의 원인이라는 ‘이 음식’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmdUJGeEpDRVVzNGtWeEJIakw3VmNpZFF5NXNWVlJPano3Njhic2VaeDYzQ1F3WnMtV3JyTkhMWTZVdWt5WUVDbGVia1c0QURBRWc?oc=5",
           "desc": "",
-          "title_en": "CJ Seafood 1W, enter upper price.. +29.89% ↑",
-          "title_ja": "CJシーフード1 W、高値を入力.. +29.89% ↑",
-          "title_zh": "CJ Seafood 1W ，进入高价.. +29.89% ↑"
+          "title_en": "“It's a food that Koreans eat every day” … ‘This food‘ is the cause of the bloated stomach",
+          "title_ja": "「韓国人が毎日食べる食べ物です」…「この食べ物」は胃の膨満感の原因です",
+          "title_zh": "“这是韩国人每天都吃的食物” …… “这种食物”是胃胀的原因"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "CJ, 美서 K-푸드 영토 확장…비비고·뚜레쥬르 앞세워 승부수",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OZTNJSGdYb3l3NVotRFFNTnNKR0xVbE1sUTNXalRjQWlEbVVpSlhhOVJzRFpJUnhqOG1ZRFhUdldBMnNXTmlKVnZScktpYnMwbHc?oc=5",
+          "desc": "",
+          "title_en": "CJ Expands K-Food Territory in the US… Bibigo and Tour les Jours",
+          "title_ja": "CJ、米国でK - Foodテリトリーを拡大…ビビゴとトゥール・レ・ジュール",
+          "title_zh": "CJ在美国扩展K-Food领地…… Bibigo和Tour les Jours"
+        },
         {
           "title": "'음식 꺼내는데 바퀴벌레가'…배달 음식 민원, 2년새 두배 증가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNHMzVEpPc0ZEQlg4bFJzVnRPY3IxXzcwUThVTlhzR0hOd2FHeUdsMXI4THUzOWxnS1M3RGFvSGlaOGp6NXJtTV85UjNXbGp5ZGc?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "“I'm going to Australia with K-Food and Beauty” … Jeonju City recruits eight trade delegations",
           "title_ja": "「K - FoodとBeautyと一緒にオーストラリアに行く」…全州市は8つの貿易代表団を募集しています",
           "title_zh": "“我要和K-Food and Beauty一起去澳大利亚” ……全州市招募了八个贸易代表团"
-        },
-        {
-          "title": "가천대, 성남시 푸드테크 연구지원센터 구축 위해 산·학·관 협력",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAtSjlIcjJVbzgteElyNTVILWE5WGw1VHhGMEh2UnE5eHdKSFpFTHNiY09Tdko5dFhRbFZHMHJsMFc5VjR2RHc?oc=5",
-          "desc": "",
-          "title_en": "Gachon University cooperates with industry, academia, and government to establish Food Tech Research Support Center in Seongnam-si",
-          "title_ja": "ガチョン大学は、産業界、学界、政府と協力して城南市に食品技術研究支援センターを設立",
-          "title_zh": "加川大学与产业界、学术界和政府合作，在城南市建立食品技术研究支持中心"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "“4000원 쿠폰 받으세요” 설빙, 쿠팡이츠서 프로모션 진행",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rYUtyLVg3VUJ0T3U4OTlHb1RvRnNRYVNvMGNNVVRzczZWR18xVjJQZkdzQWdTXzZJMzNuMlExZ0hRdnltUXRIOS1nbl9JaGZQYzRCLVhzcw?oc=5",
+          "desc": "",
+          "title_en": "“Receive 4000 KRW Coupon” Snowing, Coupang Yitzu Promotion",
+          "title_ja": "「4000ウォンのクーポンを受け取る」Snowing、Coupang Yitzuプロモーション",
+          "title_zh": "“领4000韩元礼金券”下雪， Coupang Yitzu促销"
+        },
         {
           "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "“Served within 3 minutes of receipt” … Starbucks strengthens‘ Fast Serve ’",
           "title_ja": "「受け取ってから3分以内に提供」…スターバックスが「ファストサーブ」を強化",
           "title_zh": "“收到后3分钟内送达” ……星巴克加强了“快餐”"
-        },
-        {
-          "title": "얼린 토마토로 쫄깃 시원하게…‘토마토 냉우동’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aLVRkb0dQT2w0WENVNm4xbzlYLVdhN2ZLbE16UFBmZ1N3cmYzT01DZEdSUG5BeXAtOVZLREEwQ05BMWRvNHNyX3kySTR6R3BTMWpfVkpwOA?oc=5",
-          "desc": "",
-          "title_en": "Chewy with frozen tomatoes... ‘Tomato Cold Udon’",
-          "title_ja": "冷凍トマトの歯ごたえ…「トマト冷うどん」",
-          "title_zh": "用冷冻番茄咀嚼…… “番茄冷乌冬面”"
         }
       ]
     }
