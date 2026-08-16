@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T03:47:53Z",
+  "lastUpdated": "2026-08-16T06:39:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "乘坐地铁前往加盟店：延长营业时间，不要关闭商店"
         },
         {
-          "title": "7 Brew thinks that it, and not Dutch Bros, should get closed Salad and Go locations",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWJjeGVFU0ViWi1Fb3JSbEdNMXA1U090RExWSG9SSGxWMlpfb1Eyd0FXZE5yUzFLM3RxTzZJck8yRVRZaGprb0k3TEo3VVdsaFVrWjhqYWpFMWVKUl9DR3l3RHp0RVgwUHVvWnRRZWVTcWtPWlBXN2FhZnUzMHd3ZUhva0RfOUVEclNCV19OWW0xMkRSSE5MUTZhdVg0UWhBLVdZYkxaZlFLeVA3SVZRS0tmSmxwdw?oc=5",
-          "desc": "",
-          "title_ko": "7 Brew는 Dutch Bros가 아닌 샐러드 앤 고 지점을 폐쇄해야 한다고 생각합니다.",
-          "title_ja": "7 Brewは、オランダのブラザーズではなく、サラダとゴーの店舗を閉鎖すべきだと考えています",
-          "title_zh": "7 Brew认为应该关闭Salad and Go门店，而不是Dutch Bros门店"
-        },
-        {
           "title": "The burger wars have a clear winner",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVDZkSE9OdVdhU1p2WWYxWGl5dVdaLXhNQUp2ZXFKSXpGWlA3OEhDYktUYWlmREhXZU9pRVpUc0JKYmU4T3RhdS1ON1Q2dVNVd2Z3Y3I2STZTM3ZtczlvUmpYUHk2TzRPSk5oM0NwazJfamY2TlVZQ1JVX09lWWdLSFZR?oc=5",
           "desc": "",
           "title_ko": "햄버거 전쟁에는 확실한 승자가 있습니다",
           "title_ja": "ハンバーガー戦争には明確な勝者がいます",
           "title_zh": "汉堡大战有一个明显的赢家"
+        },
+        {
+          "title": "DoorDash changes how it calculates fees for consumers",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
+          "desc": "",
+          "title_ko": "DoorDash는 소비자의 수수료 계산 방식을 변경합니다",
+          "title_ja": "DoorDashは消費者の手数料の計算方法を変更します",
+          "title_zh": "DoorDash更改了消费者费用的计算方式"
         }
       ]
     },
@@ -196,12 +196,12 @@
           "title_zh": "CJ在美国扩展K-Food领地…… Bibigo和Tour les Jours"
         },
         {
-          "title": "'음식 꺼내는데 바퀴벌레가'…배달 음식 민원, 2년새 두배 증가",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNHMzVEpPc0ZEQlg4bFJzVnRPY3IxXzcwUThVTlhzR0hOd2FHeUdsMXI4THUzOWxnS1M3RGFvSGlaOGp6NXJtTV85UjNXbGp5ZGc?oc=5",
+          "title": "“미국 어디서든 비비고를”…K푸드 현지화 속도 내는 CJ제일제당",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE11UHJTZVk5Vmc3YU9waExCZXQ4UGtvMEFYai1EMFNYZlVuMlh3SDNtdVp1Y3pXUVFTY09rcVI4LUZfZUpjdUE?oc=5",
           "desc": "",
-          "title_en": "'Cockroaches are taking out food' … Food complaints for delivery have doubled in two years",
-          "title_ja": "「ゴキブリが食べ物を取り出しています」…配達のための食品の苦情は2年間で倍増しています",
-          "title_zh": "“蟑螂正在取出食物” ……外卖食物投诉在两年内翻了一番"
+          "title_en": "“Vivigo anywhere in the United States” … CJ CheilJedang, who pays for K-food localization speed",
+          "title_ja": "「米国のどこでもビビゴ」… K - foodのローカライゼーションスピードにお金を払っているCJ CheilJedang",
+          "title_zh": "“美国任何地方的Vivigo” ……为K-food本地化速度买单的CJ CheilJedang"
         },
         {
           "title": "\"K-푸드·뷰티 타고 호주 간다\"…전주시, 무역사절단 8개사 모집",
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "두쫀쿠 올린 과일…인도네시아, 초콜릿 과일 컵 인기",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zT09GejBUQ0FqXzRpcVhsaHlRNFhzVGJEck5YalVXRy10VU5mQnktTnptbHlpU2NNblJnRmRhZm9Db2VMWXZxV1BQSm5NSGtHeHViWmFzVQ?oc=5",
+          "title": "미국의 식물성 식품시장, 비건 넘어 고단백 경쟁으로",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZQnJZZEN6aWxsOFZUNnFudXEwcDBwYnRFNmFDVjJHajNpbFJaOVAzRno2UkJxUDVsX2dFaEphZnVUb0pVZ19qZGxpRHlHRDB0UERMU2E5bw?oc=5",
           "desc": "",
-          "title_en": "Doochunku Olin Fruit… Indonesia, Chocolate Fruit Cup Popular",
-          "title_ja": "Doochunku Olin Fruit…インドネシア、チョコレートフルーツカップ人気",
-          "title_zh": "Doochunku Olin水果…印度尼西亚，受欢迎的巧克力水果杯"
+          "title_en": "In the United States, the plant-based food market has surpassed vegan competition for high protein.",
+          "title_ja": "米国では、植物ベースの食品市場は、高タンパク質のためのビーガンの競争を上回っています。",
+          "title_zh": "在美国，植物性食品市场已经超过了素食主义者对高蛋白的竞争。"
         },
         {
-          "title": "“4000원 쿠폰 받으세요” 설빙, 쿠팡이츠서 프로모션 진행",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rYUtyLVg3VUJ0T3U4OTlHb1RvRnNRYVNvMGNNVVRzczZWR18xVjJQZkdzQWdTXzZJMzNuMlExZ0hRdnltUXRIOS1nbl9JaGZQYzRCLVhzcw?oc=5",
+          "title": "브라질, 한국산 면류·비스킷 수입 늘어난다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04U0t5Z09GdW1VV1lpRmhyU0Noc0JVenNhMEszakpGaWYxSFotdi03Q1kxZXg0bUVNQjU4eUxfRTJxUF9RMTlYUUZ4QW8tekJYdk1FQTFaaw?oc=5",
           "desc": "",
-          "title_en": "“Receive 4000 KRW Coupon” Snowing, Coupang Yitzu Promotion",
-          "title_ja": "「4000ウォンのクーポンを受け取る」Snowing、Coupang Yitzuプロモーション",
-          "title_zh": "“领4000韩元礼金券”下雪， Coupang Yitzu促销"
+          "title_en": "Brazil increases import of Korean noodles and biscuits",
+          "title_ja": "ブラジル、韓国産麺類とビスケットの輸入を増やす",
+          "title_zh": "巴西增加韩国面条和饼干进口"
         },
         {
-          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
+          "title": "Z세대의 PB 상품 구입, 미국 식품 성장 이끈다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oSEhGZUtOVzB2cFU0NE5HLUFEeS1FTDZ2djZmSkZKcXVKclVYeHhzSmM3clJLWkliLXZZY3BOZjk5Z1lSa0VzRXZJZzFBUmhxVWNwYXhjUQ?oc=5",
           "desc": "",
-          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
-          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
-          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
+          "title_en": "Gen Z's purchase of PB products leads US food growth",
+          "title_ja": "Z世代によるPB製品の購入が米国の食料成長をリード",
+          "title_zh": "Z世代购买PB产品引领美国食品增长"
         }
       ]
     }
