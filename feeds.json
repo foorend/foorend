@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T21:19:24Z",
+  "lastUpdated": "2026-08-17T01:15:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "CJ, 美 매출 2028년 12조원 키운다…푸드·뷰티·콘텐츠 ‘K라이프스타일’로 연결",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTUFliMnhGSGY1UzFONFZQblFGMFNaUlJ4b2RoeWFHUGZQSjVuaV9DWEFwbC1fOWZuWDQySTdVcktXV3BTZEpzemt3c3lCY0dWVmc?oc=5",
+          "desc": "",
+          "title_en": "CJ Increases US Sales by 12 Trillion KRW in 2028… Connected to Food, Beauty, and Content ‘K-Lifestyle'",
+          "title_ja": "CJ、2028年に米国の売上高を12兆ウォン増加…食品、美容、コンテンツ「Kライフスタイル」に関連",
+          "title_zh": "2028年， CJ在美国的销售额增加了12万亿韩元……与食品、美容和内容“K-Lifestyle”相关"
+        },
+        {
           "title": "“음식·약 먹고 두드러기? 단순 체질 아닌 알레르기일 수도”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUWQzX09HZ1hwczhGQ3d6bTV2S01jNEwyWVJEbEVZSzJGcy1Tb1pYcnRnTWtGWnJkYTk5SzJGWFFYempaSk9uQTdYdGJvaTc1cEE?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "“It's a food that Koreans eat every day” … ‘This food‘ is the cause of the bloated stomach",
           "title_ja": "「韓国人が毎日食べる食べ物です」…「この食べ物」は胃の膨満感の原因です",
           "title_zh": "“这是韩国人每天都吃的食物” …… “这种食物”是胃胀的原因"
-        },
-        {
-          "title": "GS글로벌, 완도물산·하이랜드푸드와 김 수출 확대 ‘맞손’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YWJEY3cxeG5iMkRuUy1mZVpiSmZGaFRZdktmWGJBdHM1THdYWnY5bTN3MU5PdUJLU0hCSGFUaUs4OUY1TkY3dWs0RHhSekdFY1E?oc=5",
-          "desc": "",
-          "title_en": "GS Global Expands Wando Product, Highland Food, and Kim Exports‘ Dong Son ’",
-          "title_ja": "GS Global、Wando製品、Highland Food、Kimの「Dong Son」輸出を拡大",
-          "title_zh": "GS Global扩大Wando产品、Highland Food和Kim出口“Dong Son”"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "CJ \"2028년 북미 매출 12조원 목표…K푸드·콘텐츠·뷰티 시너지\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2eXltcEFFRWZFd2pwN2xfTWhaVEZ6Q3BqUEo3LS1hQmVIOEdBZTlCWnBYOFdrWmlDZm1UN0Nna0VuSnd0eWY3SkNvMFlWM2hYelE?oc=5",
+          "desc": "",
+          "title_en": "CJ \"North American sales target of 12 trillion won in 2028... K-Food, Content and Beauty Synergy\"",
+          "title_ja": "CJ「2028年北米販売目標12兆ウォン… K - Food、Content、Beauty Synergy」",
+          "title_zh": "CJ “2028年北美销售目标12万亿韩元…… K-Food、Content和Beauty Synergy”"
+        },
         {
           "title": "CJ, 美서 K-푸드 영토 확장…비비고·뚜레쥬르 앞세워 승부수",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OZTNJSGdYb3l3NVotRFFNTnNKR0xVbE1sUTNXalRjQWlEbVVpSlhhOVJzRFpJUnhqOG1ZRFhUdldBMnNXTmlKVnZScktpYnMwbHc?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "“Vivigo anywhere in the United States” … CJ CheilJedang, who pays for K-food localization speed",
           "title_ja": "「米国のどこでもビビゴ」… K - foodのローカライゼーションスピードにお金を払っているCJ CheilJedang",
           "title_zh": "“美国任何地方的Vivigo” ……为K-food本地化速度买单的CJ CheilJedang"
-        },
-        {
-          "title": "\"K-푸드·뷰티 타고 호주 간다\"…전주시, 무역사절단 8개사 모집",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zVXBEc0ZUaFR4cjUwVXlEUVAzeERUWk05WE9FUEpNMzhzY0JuTnEwT0pjQWhkNS13RTl0dHdQRDB1NnBwWmlxbkZoUG9vOXA3T3c?oc=5",
-          "desc": "",
-          "title_en": "“I'm going to Australia with K-Food and Beauty” … Jeonju City recruits eight trade delegations",
-          "title_ja": "「K - FoodとBeautyと一緒にオーストラリアに行く」…全州市は8つの貿易代表団を募集しています",
-          "title_zh": "“我要和K-Food and Beauty一起去澳大利亚” ……全州市招募了八个贸易代表团"
         }
       ]
     },
