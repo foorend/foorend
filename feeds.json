@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T12:42:40Z",
+  "lastUpdated": "2026-08-17T15:24:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "7 Brew认为应该关闭Salad and Go门店，而不是Dutch Bros门店"
         },
         {
-          "title": "The burger wars have a clear winner",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVDZkSE9OdVdhU1p2WWYxWGl5dVdaLXhNQUp2ZXFKSXpGWlA3OEhDYktUYWlmREhXZU9pRVpUc0JKYmU4T3RhdS1ON1Q2dVNVd2Z3Y3I2STZTM3ZtczlvUmpYUHk2TzRPSk5oM0NwazJfamY2TlVZQ1JVX09lWWdLSFZR?oc=5",
+          "title": "Wendy's new CEO laments the brand's 'quality degradation'",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDdEUEloeGs5cWZfVDFPUXNaUHRzWUw2ZXFCaXF2NVJXVm1iVzJJMHFyUzAwQkxfUVhiT0wtSE1nMmtIb2RFZUM3aVhub2NHMEtGczNYVURNbHF0THlWTzVOODBldHBSdXpOWUlYYURNOFFmbElYRlV6VENmdnFkaWZkNU5icDlNN0x0WjdRYTMxZGtRaG9qM0FQLTE?oc=5",
           "desc": "",
-          "title_ko": "햄버거 전쟁에는 확실한 승자가 있습니다",
-          "title_ja": "ハンバーガー戦争には明確な勝者がいます",
-          "title_zh": "汉堡大战有一个明显的赢家"
+          "title_ko": "Wendy의 새로운 CEO는 브랜드의 '품질 저하' 를 한탄합니다.",
+          "title_ja": "ウェンディの新しいCEOは、ブランドの「品質低下」を嘆いています",
+          "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "在美国，植物性食品市场已经超过了素食主义者对高蛋白的竞争。"
         },
         {
-          "title": "브라질, 한국산 면류·비스킷 수입 늘어난다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04U0t5Z09GdW1VV1lpRmhyU0Noc0JVenNhMEszakpGaWYxSFotdi03Q1kxZXg0bUVNQjU4eUxfRTJxUF9RMTlYUUZ4QW8tekJYdk1FQTFaaw?oc=5",
-          "desc": "",
-          "title_en": "Brazil increases import of Korean noodles and biscuits",
-          "title_ja": "ブラジル、韓国産麺類とビスケットの輸入を増やす",
-          "title_zh": "巴西增加韩国面条和饼干进口"
-        },
-        {
           "title": "Z세대의 PB 상품 구입, 미국 식품 성장 이끈다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oSEhGZUtOVzB2cFU0NE5HLUFEeS1FTDZ2djZmSkZKcXVKclVYeHhzSmM3clJLWkliLXZZY3BOZjk5Z1lSa0VzRXZJZzFBUmhxVWNwYXhjUQ?oc=5",
           "desc": "",
           "title_en": "Gen Z's purchase of PB products leads US food growth",
           "title_ja": "Z世代によるPB製品の購入が米国の食料成長をリード",
           "title_zh": "Z世代购买PB产品引领美国食品增长"
+        },
+        {
+          "title": "두쫀쿠 올린 과일…인도네시아, 초콜릿 과일 컵 인기",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zT09GejBUQ0FqXzRpcVhsaHlRNFhzVGJEck5YalVXRy10VU5mQnktTnptbHlpU2NNblJnRmRhZm9Db2VMWXZxV1BQSm5NSGtHeHViWmFzVQ?oc=5",
+          "desc": "",
+          "title_en": "Doochunku Olin Fruit… Indonesia, Chocolate Fruit Cup Popular",
+          "title_ja": "Doochunku Olin Fruit…インドネシア、チョコレートフルーツカップ人気",
+          "title_zh": "Doochunku Olin水果…印度尼西亚，受欢迎的巧克力水果杯"
         }
       ]
     }
