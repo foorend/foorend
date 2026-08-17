@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T15:24:52Z",
+  "lastUpdated": "2026-08-17T18:38:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "2만8000원어치 가져간 편의점 알바생…“폐기 음식인 줄” 주장했지만 결국",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQTTlKNHdiZ3E1cUVtS1owdVF5X2pyYkFuNF9LcTZYMEJRUjNRRG5iM3hnUldiLWtSb04wTl9CUVozU1JGNkl3cjFyOTlKZ3dqY3hZ?oc=5",
+          "desc": "",
+          "title_en": "A convenience store that took away 28,000 won… It was claimed to be “discarded food,” but in the end",
+          "title_ja": "28,000ウォンを奪ったコンビニエンスストア…「捨てられた食べ物」と言われていましたが、結局",
+          "title_zh": "一家拿走了28,000韩元的便利店……据称是“丢弃的食物” ，但最终"
+        },
+        {
           "title": "CJ, 美 매출 2028년 12조원 키운다…푸드·뷰티·콘텐츠 ‘K라이프스타일’로 연결",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTUFliMnhGSGY1UzFONFZQblFGMFNaUlJ4b2RoeWFHUGZQSjVuaV9DWEFwbC1fOWZuWDQySTdVcktXV3BTZEpzemt3c3lCY0dWVmc?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "“Hives after eating food and medicine? It could be an allergy, not just a constitution.”",
           "title_ja": "「食べ物や薬を食べた後のじんましん？それは単なる憲法ではなく、アレルギーかもしれません。」",
           "title_zh": "“吃了食物和药后荨麻疹？这可能是一种过敏，而不仅仅是宪法。”"
-        },
-        {
-          "title": "“한국인들 매일 먹는 음식인데”…더부룩한 속의 원인이라는 ‘이 음식’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmdUJGeEpDRVVzNGtWeEJIakw3VmNpZFF5NXNWVlJPano3Njhic2VaeDYzQ1F3WnMtV3JyTkhMWTZVdWt5WUVDbGVia1c0QURBRWc?oc=5",
-          "desc": "",
-          "title_en": "“It's a food that Koreans eat every day” … ‘This food‘ is the cause of the bloated stomach",
-          "title_ja": "「韓国人が毎日食べる食べ物です」…「この食べ物」は胃の膨満感の原因です",
-          "title_zh": "“这是韩国人每天都吃的食物” …… “这种食物”是胃胀的原因"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "Z世代购买PB产品引领美国食品增长"
         },
         {
-          "title": "두쫀쿠 올린 과일…인도네시아, 초콜릿 과일 컵 인기",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zT09GejBUQ0FqXzRpcVhsaHlRNFhzVGJEck5YalVXRy10VU5mQnktTnptbHlpU2NNblJnRmRhZm9Db2VMWXZxV1BQSm5NSGtHeHViWmFzVQ?oc=5",
+          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
           "desc": "",
-          "title_en": "Doochunku Olin Fruit… Indonesia, Chocolate Fruit Cup Popular",
-          "title_ja": "Doochunku Olin Fruit…インドネシア、チョコレートフルーツカップ人気",
-          "title_zh": "Doochunku Olin水果…印度尼西亚，受欢迎的巧克力水果杯"
+          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
+          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
+          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
         }
       ]
     }
