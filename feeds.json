@@ -1,20 +1,95 @@
 {
-  "lastUpdated": "2026-08-17T09:40:56Z",
+  "lastUpdated": "2026-08-17T12:42:40Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": []
+      "items": [
+        {
+          "title": "Subway to its franchisees: Extend hours, and don't close stores",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM056cW1va0lwY2NuUzNCekxqTkZfVTc3OF9aYnJSZ3d0NFNWY3VvTEd3Um9LcGxrc1QyUmhFOG0zSzNXbk5PRWNuaXFra2h4Z0VHVjFmNldJOWNMbG9zX01LX1B2emhsUjJudVFwOG8wN1lCX1hFYnRIMURIS0xRTDFYTG5SYXZkQ0pSMy1GLXFMV3ZsUHNuRTk3M3o3M2lfa2c?oc=5",
+          "desc": "",
+          "title_ko": "가맹점까지 지하철로 이동: 영업시간을 연장하고 매장을 닫지 마세요.",
+          "title_ja": "加盟店へのサブウェイ：営業時間を延長し、店舗を閉鎖しない",
+          "title_zh": "乘坐地铁前往加盟店：延长营业时间，不要关闭商店"
+        },
+        {
+          "title": "7 Brew thinks that it, and not Dutch Bros, should get closed Salad and Go locations",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWJjeGVFU0ViWi1Fb3JSbEdNMXA1U090RExWSG9SSGxWMlpfb1Eyd0FXZE5yUzFLM3RxTzZJck8yRVRZaGprb0k3TEo3VVdsaFVrWjhqYWpFMWVKUl9DR3l3RHp0RVgwUHVvWnRRZWVTcWtPWlBXN2FhZnUzMHd3ZUhva0RfOUVEclNCV19OWW0xMkRSSE5MUTZhdVg0UWhBLVdZYkxaZlFLeVA3SVZRS0tmSmxwdw?oc=5",
+          "desc": "",
+          "title_ko": "7 Brew는 Dutch Bros가 아닌 샐러드 앤 고 지점을 폐쇄해야 한다고 생각합니다.",
+          "title_ja": "7 Brewは、オランダのブラザーズではなく、サラダとゴーの店舗を閉鎖すべきだと考えています",
+          "title_zh": "7 Brew认为应该关闭Salad and Go门店，而不是Dutch Bros门店"
+        },
+        {
+          "title": "The burger wars have a clear winner",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVDZkSE9OdVdhU1p2WWYxWGl5dVdaLXhNQUp2ZXFKSXpGWlA3OEhDYktUYWlmREhXZU9pRVpUc0JKYmU4T3RhdS1ON1Q2dVNVd2Z3Y3I2STZTM3ZtczlvUmpYUHk2TzRPSk5oM0NwazJfamY2TlVZQ1JVX09lWWdLSFZR?oc=5",
+          "desc": "",
+          "title_ko": "햄버거 전쟁에는 확실한 승자가 있습니다",
+          "title_ja": "ハンバーガー戦争には明確な勝者がいます",
+          "title_zh": "汉堡大战有一个明显的赢家"
+        }
+      ]
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": []
+      "items": [
+        {
+          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
+          "desc": "",
+          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
+          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+        },
+        {
+          "title": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOENiSW9IR2xIaG9BNkhpYnhEWTNmNVQ1VEhkXzh4a2Z3bWZ5a1UwSDY1Q1RUU0pPZUV2WDZBazJHSUNnTVNuWE02VlZLYVY0RTNGWVpmVl9PWjVrYUpNLXBrM0JMMWlrblZVanlYWEhzdFBycVp6Sml4R2NrTTd0MTJtejNZZw?oc=5",
+          "desc": "",
+          "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
+          "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
+          "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
+          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
+        }
+      ]
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": []
+      "items": [
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
+          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+        },
+        {
+          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
+          "desc": "",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "The True Energy Price Exposure Of Everything You Eat",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
+          "desc": "",
+          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
+          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
+          "title_zh": "您吃的每样东西的真正能量价格曝光"
+        }
+      ]
     },
     "eater": {
       "label": "Eater",
@@ -51,22 +126,122 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": []
+      "items": [
+        {
+          "title": "원조를 뛰어넘은 K푸드",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JU0FLdlhDMVQ3dnV6VWFtQUVfVFNBcC1CazUxNmV3SnlLa3JQamZqc0U1UkxjeE1yeWFUOFd1VzVlelZ6Ulp3c2hVTGR4Wkw0UUxiVVVRcXlnZw?oc=5",
+          "desc": "",
+          "title_en": "K-Food goes above and beyond",
+          "title_ja": "K - Foodはそれを超えています",
+          "title_zh": "K-Food超越一切"
+        },
+        {
+          "title": "2만8000원 폐기음식 가져갔다가 절도범 된 편의점 알바생",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZaWtEMFBaYi0yTXRDMFBSeTlFN19SMlZ2bGg1M3BLSEpib3JZcjNIVDZpT2NEUUhGeHdhTnBFNlBvMjVrdm03Q0tpTFJTWFk2TU1oczNKMTBVdw?oc=5",
+          "desc": "",
+          "title_en": "Albasin, a convenience store that took 28,000 won of discarded food and was convicted of theft",
+          "title_ja": "Albasin、28,000ウォンの廃棄食品を受け取り、窃盗罪で有罪判決を受けたコンビニエンスストア",
+          "title_zh": "Albasin是一家便利店，收取了28,000韩元的废弃食品，并被判犯有盗窃罪"
+        },
+        {
+          "title": "\"건강하고 힙해요\"…미국인들 사로잡은 'K푸드' 이곳서 만든다 [현장+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uM0MyRlZLYVVUTXhEbEQyTVNmcnQ0RzFZTDN1ME1VdUVjQnFiZVh1TFVWdTRjZ3ZISHpubm4zS3QtLUthM1RSWUhXaS0xNWdFVm55N2NvMkctdw?oc=5",
+          "desc": "",
+          "title_en": "“Healthy and hip” … 'K-foods' captured by Americans are made here [field +]",
+          "title_ja": "「ヘルシーでおしゃれ」…アメリカ人が捉えた「Kフード」はここで作られています[field +]",
+          "title_zh": "“健康时尚” ……美国人捕捉到的“K-foods”在这里制作[field +]"
+        }
+      ]
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": []
+      "items": [
+        {
+          "title": "CJ, 美 매출 2028년 12조원 키운다…푸드·뷰티·콘텐츠 ‘K라이프스타일’로 연결",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTUFliMnhGSGY1UzFONFZQblFGMFNaUlJ4b2RoeWFHUGZQSjVuaV9DWEFwbC1fOWZuWDQySTdVcktXV3BTZEpzemt3c3lCY0dWVmc?oc=5",
+          "desc": "",
+          "title_en": "CJ Increases US Sales by 12 Trillion KRW in 2028… Connected to Food, Beauty, and Content ‘K-Lifestyle'",
+          "title_ja": "CJ、2028年に米国の売上高を12兆ウォン増加…食品、美容、コンテンツ「Kライフスタイル」に関連",
+          "title_zh": "2028年， CJ在美国的销售额增加了12万亿韩元……与食品、美容和内容“K-Lifestyle”相关"
+        },
+        {
+          "title": "“음식·약 먹고 두드러기? 단순 체질 아닌 알레르기일 수도”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUWQzX09HZ1hwczhGQ3d6bTV2S01jNEwyWVJEbEVZSzJGcy1Tb1pYcnRnTWtGWnJkYTk5SzJGWFFYempaSk9uQTdYdGJvaTc1cEE?oc=5",
+          "desc": "",
+          "title_en": "“Hives after eating food and medicine? It could be an allergy, not just a constitution.”",
+          "title_ja": "「食べ物や薬を食べた後のじんましん？それは単なる憲法ではなく、アレルギーかもしれません。」",
+          "title_zh": "“吃了食物和药后荨麻疹？这可能是一种过敏，而不仅仅是宪法。”"
+        },
+        {
+          "title": "“한국인들 매일 먹는 음식인데”…더부룩한 속의 원인이라는 ‘이 음식’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmdUJGeEpDRVVzNGtWeEJIakw3VmNpZFF5NXNWVlJPano3Njhic2VaeDYzQ1F3WnMtV3JyTkhMWTZVdWt5WUVDbGVia1c0QURBRWc?oc=5",
+          "desc": "",
+          "title_en": "“It's a food that Koreans eat every day” … ‘This food‘ is the cause of the bloated stomach",
+          "title_ja": "「韓国人が毎日食べる食べ物です」…「この食べ物」は胃の膨満感の原因です",
+          "title_zh": "“这是韩国人每天都吃的食物” …… “这种食物”是胃胀的原因"
+        }
+      ]
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "K팝 보러 왔다가 K푸드·K뷰티까지…미국 소비자 사로잡은 올영페스타·KCON",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KUHdpNTdtUzJWSlZscXZHOXk1MjZkZHZ6VmF0OE1rRk0tZUIwZDJCNm9mLTJybDRldFR1T2FPQ09iM1M3T0E?oc=5",
+          "desc": "",
+          "title_en": "I came to see K-pop, and K-food, K-beauty… All-Young Festa and KCON captivated by American consumers",
+          "title_ja": "アメリカの消費者に魅了されたK - POP、K - FOOD、K - BEAUTY… ALL - YOUNG FESTA、KCONを見に来ました",
+          "title_zh": "我来看看K-pop、K-food、K-beauty… All-Young Festa和KCON被美国消费者所吸引"
+        },
+        {
+          "title": "CJ \"2028년 북미 매출 12조원 목표…K푸드·콘텐츠·뷰티 시너지\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2eXltcEFFRWZFd2pwN2xfTWhaVEZ6Q3BqUEo3LS1hQmVIOEdBZTlCWnBYOFdrWmlDZm1UN0Nna0VuSnd0eWY3SkNvMFlWM2hYelE?oc=5",
+          "desc": "",
+          "title_en": "CJ \"North American sales target of 12 trillion won in 2028... K-Food, Content and Beauty Synergy\"",
+          "title_ja": "CJ「2028年北米販売目標12兆ウォン… K - Food、Content、Beauty Synergy」",
+          "title_zh": "CJ “2028年北美销售目标12万亿韩元…… K-Food、Content和Beauty Synergy”"
+        },
+        {
+          "title": "“이제 중국보다 미국에서 더 인기있어요”…K푸드 뜨자 해외 ‘큰손’ 인수 릴레이",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOTjVLc2x0M00zbVM0T0REcUdTR1lfTlctMEU4Z2tUbm9XQ25zTWUyLTc5Rl82TDlZTUFhWGRmTWstYXUxbUE?oc=5",
+          "desc": "",
+          "title_en": "“Now it is more popular in the United States than in China” … Relaying the acquisition of ‘Kung Son’ overseas from K-Food",
+          "title_ja": "「今や中国よりも米国で人気がある」… K - Foodからの海外での「Kung Son」の買収を中継",
+          "title_zh": "“现在它在美国比在中国更受欢迎” ……传递从K-Food收购海外“Kung Son”的消息"
+        }
+      ]
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "미국의 식물성 식품시장, 비건 넘어 고단백 경쟁으로",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZQnJZZEN6aWxsOFZUNnFudXEwcDBwYnRFNmFDVjJHajNpbFJaOVAzRno2UkJxUDVsX2dFaEphZnVUb0pVZ19qZGxpRHlHRDB0UERMU2E5bw?oc=5",
+          "desc": "",
+          "title_en": "In the United States, the plant-based food market has surpassed vegan competition for high protein.",
+          "title_ja": "米国では、植物ベースの食品市場は、高タンパク質のためのビーガンの競争を上回っています。",
+          "title_zh": "在美国，植物性食品市场已经超过了素食主义者对高蛋白的竞争。"
+        },
+        {
+          "title": "브라질, 한국산 면류·비스킷 수입 늘어난다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04U0t5Z09GdW1VV1lpRmhyU0Noc0JVenNhMEszakpGaWYxSFotdi03Q1kxZXg0bUVNQjU4eUxfRTJxUF9RMTlYUUZ4QW8tekJYdk1FQTFaaw?oc=5",
+          "desc": "",
+          "title_en": "Brazil increases import of Korean noodles and biscuits",
+          "title_ja": "ブラジル、韓国産麺類とビスケットの輸入を増やす",
+          "title_zh": "巴西增加韩国面条和饼干进口"
+        },
+        {
+          "title": "Z세대의 PB 상품 구입, 미국 식품 성장 이끈다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oSEhGZUtOVzB2cFU0NE5HLUFEeS1FTDZ2djZmSkZKcXVKclVYeHhzSmM3clJLWkliLXZZY3BOZjk5Z1lSa0VzRXZJZzFBUmhxVWNwYXhjUQ?oc=5",
+          "desc": "",
+          "title_en": "Gen Z's purchase of PB products leads US food growth",
+          "title_ja": "Z世代によるPB製品の購入が米国の食料成長をリード",
+          "title_zh": "Z世代购买PB产品引领美国食品增长"
+        }
+      ]
     }
   },
   "korean_articles": [
