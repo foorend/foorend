@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T12:45:56Z",
+  "lastUpdated": "2026-08-18T15:31:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "乘坐地铁前往加盟店：延长营业时间，不要关闭商店"
         },
         {
-          "title": "Wendy's new CEO laments the brand's 'quality degradation'",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDdEUEloeGs5cWZfVDFPUXNaUHRzWUw2ZXFCaXF2NVJXVm1iVzJJMHFyUzAwQkxfUVhiT0wtSE1nMmtIb2RFZUM3aVhub2NHMEtGczNYVURNbHF0THlWTzVOODBldHBSdXpOWUlYYURNOFFmbElYRlV6VENmdnFkaWZkNU5icDlNN0x0WjdRYTMxZGtRaG9qM0FQLTE?oc=5",
+          "title": "Franchisees have profit problems",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2R3elNDSUZ2TTl3UmIxajAzZlMyZFhuUFA3aWo1dkVzbFFIOXRFbkdldGkxanVQelZGa1dQeGpqVXhSaG1rWl9BbGdMaTVwXy14NnBGYXJaVTE5TUlvZkoxdUF6RGIydU02QzBXQk1JYUJfQkp1akcydnRlSmZxNDk0MEd5eHdoNlRj?oc=5",
           "desc": "",
-          "title_ko": "Wendy의 새로운 CEO는 브랜드의 '품질 저하' 를 한탄합니다.",
-          "title_ja": "ウェンディの新しいCEOは、ブランドの「品質低下」を嘆いています",
-          "title_zh": "Wendy的新任首席执行官对品牌的“质量退化”表示遗憾"
+          "title_ko": "프랜차이즈 가맹점은 수익에 문제가 있습니다",
+          "title_ja": "加盟店に利益の問題がある",
+          "title_zh": "加盟商存在利润问题"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "我来看看K-pop、K-food、K-beauty… All-Young Festa和KCON被美国消费者所吸引"
         },
         {
-          "title": "“이제 중국보다 미국에서 더 인기있어요”…K푸드 뜨자 해외 ‘큰손’ 인수 릴레이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kdF85cjV2S2JqenFjd3ZLTDFlQmFjMkNkMmg4RW14UmJWODRnRFVDTUZjN3RFZWhzSVZORkNkSlhBTEVUQVN0YVpEcVFPWHJkRy03TA?oc=5",
-          "desc": "",
-          "title_en": "“Now it is more popular in the United States than in China” … Relaying the acquisition of ‘Kung Son’ overseas from K-Food",
-          "title_ja": "「今や中国よりも米国で人気がある」… K - Foodからの海外での「Kung Son」の買収を中継",
-          "title_zh": "“现在它在美国比在中国更受欢迎” ……传递从K-Food收购海外“Kung Son”的消息"
-        },
-        {
           "title": "CJ \"2028년 북미 매출 12조원 목표…K푸드·콘텐츠·뷰티 시너지\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2eXltcEFFRWZFd2pwN2xfTWhaVEZ6Q3BqUEo3LS1hQmVIOEdBZTlCWnBYOFdrWmlDZm1UN0Nna0VuSnd0eWY3SkNvMFlWM2hYelE?oc=5",
           "desc": "",
           "title_en": "CJ \"North American sales target of 12 trillion won in 2028... K-Food, Content and Beauty Synergy\"",
           "title_ja": "CJ「2028年北米販売目標12兆ウォン… K - Food、Content、Beauty Synergy」",
           "title_zh": "CJ “2028年北美销售目标12万亿韩元…… K-Food、Content和Beauty Synergy”"
+        },
+        {
+          "title": "말차 붐에 웃는다…K푸드 새 주자로 뜬 녹차",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jLU5xNlNocnd2dFNwMm9QWEJmSU5tenEzeTVlcVY4RHBKODVackZJSU5IcFRmTnhIeTd1TWlGWXdVWGY4VWc?oc=5",
+          "desc": "",
+          "title_en": "Laughing at the matcha boom… Green tea as a new runner for K-Food",
+          "title_ja": "抹茶ブームを笑う… K - Foodの新人ランナーとしての緑茶",
+          "title_zh": "嘲笑抹茶热潮…绿茶成为K-Food的新跑步者"
         }
       ]
     },
