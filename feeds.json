@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-08-18T06:42:10Z",
+  "lastUpdated": "2026-08-18T09:33:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Subway to its franchisees: Extend hours, and don't close stores",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM056cW1va0lwY2NuUzNCekxqTkZfVTc3OF9aYnJSZ3d0NFNWY3VvTEd3Um9LcGxrc1QyUmhFOG0zSzNXbk5PRWNuaXFra2h4Z0VHVjFmNldJOWNMbG9zX01LX1B2emhsUjJudVFwOG8wN1lCX1hFYnRIMURIS0xRTDFYTG5SYXZkQ0pSMy1GLXFMV3ZsUHNuRTk3M3o3M2lfa2c?oc=5",
-          "desc": "",
-          "title_ko": "가맹점까지 지하철로 이동: 영업시간을 연장하고 매장을 닫지 마세요.",
-          "title_ja": "加盟店へのサブウェイ：営業時間を延長し、店舗を閉鎖しない",
-          "title_zh": "乘坐地铁前往加盟店：延长营业时间，不要关闭商店"
-        },
         {
           "title": "Wendy’s sudden decline may end with a go-private deal",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFNKT2s0M1NmREg5YXBvZ2tycVZ2RkNiYWpuOE9WYnpRU0JJZzlEYVduOFUxUVBGZVNzMTZiQmR0bDJYcExGY3Q1VDFQUVFPZmY1YzRSUnBLb0ZwQlczazl5TXZzclNiS0RTYWhDWWtYWjlMUWd5ZXZsVTlaT0JIUUpBMGtWN1JXYUNvVG1DbEdwNnRwd2hoN1JIRDA?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "웬디의 갑작스런 하락은 개인 거래로 끝날 수 있습니다.",
           "title_ja": "ウェンディの突然の衰退は、非公開取引で終わるかもしれません",
           "title_zh": "Wendy的突然下滑可能会以私有化交易结束"
+        },
+        {
+          "title": "Subway to its franchisees: Extend hours, and don't close stores",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM056cW1va0lwY2NuUzNCekxqTkZfVTc3OF9aYnJSZ3d0NFNWY3VvTEd3Um9LcGxrc1QyUmhFOG0zSzNXbk5PRWNuaXFra2h4Z0VHVjFmNldJOWNMbG9zX01LX1B2emhsUjJudVFwOG8wN1lCX1hFYnRIMURIS0xRTDFYTG5SYXZkQ0pSMy1GLXFMV3ZsUHNuRTk3M3o3M2lfa2c?oc=5",
+          "desc": "",
+          "title_ko": "가맹점까지 지하철로 이동: 영업시간을 연장하고 매장을 닫지 마세요.",
+          "title_ja": "加盟店へのサブウェイ：営業時間を延長し、店舗を閉鎖しない",
+          "title_zh": "乘坐地铁前往加盟店：延长营业时间，不要关闭商店"
         },
         {
           "title": "Wendy's new CEO laments the brand's 'quality degradation'",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "K푸드·K뷰티 잘나가는데...수익성 악화로 고전하는 CJ",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5blYyZTJHMWVTQUc5WnBpa19ZdkItaE96c0F6RWwtbFVZaXBzb21PMVNjMWZ2bzdXNmtrQ2VCODJnNmk1V3dYM2RuTDY2ZVUxck82aldlT0djdw?oc=5",
+          "desc": "",
+          "title_en": "K-food and K-beauty are going well... CJ struggling with deteriorating profitability",
+          "title_ja": "K - foodとK - Beautyは順調に進んでいる… CJは収益性の悪化に苦しんでいる",
+          "title_zh": "K-food和K-beauty进展顺利…… CJ挣扎于不断恶化的盈利能力"
+        },
+        {
           "title": "원조를 뛰어넘은 K푸드",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JU0FLdlhDMVQ3dnV6VWFtQUVfVFNBcC1CazUxNmV3SnlLa3JQamZqc0U1UkxjeE1yeWFUOFd1VzVlelZ6Ulp3c2hVTGR4Wkw0UUxiVVVRcXlnZw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Albasin, a convenience store that took 28,000 won of discarded food and was convicted of theft",
           "title_ja": "Albasin、28,000ウォンの廃棄食品を受け取り、窃盗罪で有罪判決を受けたコンビニエンスストア",
           "title_zh": "Albasin是一家便利店，收取了28,000韩元的废弃食品，并被判犯有盗窃罪"
-        },
-        {
-          "title": "\"건강하고 힙해요\"…미국인들 사로잡은 'K푸드' 이곳서 만든다 [현장+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uM0MyRlZLYVVUTXhEbEQyTVNmcnQ0RzFZTDN1ME1VdUVjQnFiZVh1TFVWdTRjZ3ZISHpubm4zS3QtLUthM1RSWUhXaS0xNWdFVm55N2NvMkctdw?oc=5",
-          "desc": "",
-          "title_en": "“Healthy and hip” … 'K-foods' captured by Americans are made here [field +]",
-          "title_ja": "「ヘルシーでおしゃれ」…アメリカ人が捉えた「Kフード」はここで作られています[field +]",
-          "title_zh": "“健康时尚” ……美国人捕捉到的“K-foods”在这里制作[field +]"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "[단독] 현대그린푸드, 해외 첫 사내 카페 오픈...“구내식당과 시너지”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHTE1hME02OUlxSDVrX2RqZUJOLWI2TnpIUVAxaWNHN3NJOUVyUHhxcnhKNnB5YzZubDVvYl8tTDBOVllKN2hDdzc5bExsMkk3NVE?oc=5",
+          "desc": "",
+          "title_en": "[Exclusive] Hyundai Green Food opens its first in-house cafe overseas... “Synergy with the cafeteria”",
+          "title_ja": "【限定】現代グリーンフード、海外初の社内カフェをオープン…「カフェテリアとの相乗効果」",
+          "title_zh": "【独家】现代绿色食品在海外开设首家内部咖啡馆…… “与自助餐厅的协同效应”"
+        },
         {
           "title": "2만8000원어치 가져간 편의점 알바생…“폐기 음식인 줄” 주장했지만 결국",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQTTlKNHdiZ3E1cUVtS1owdVF5X2pyYkFuNF9LcTZYMEJRUjNRRG5iM3hnUldiLWtSb04wTl9CUVozU1JGNkl3cjFyOTlKZ3dqY3hZ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "CJ Increases US Sales by 12 Trillion KRW in 2028… Connected to Food, Beauty, and Content ‘K-Lifestyle'",
           "title_ja": "CJ、2028年に米国の売上高を12兆ウォン増加…食品、美容、コンテンツ「Kライフスタイル」に関連",
           "title_zh": "2028年， CJ在美国的销售额增加了12万亿韩元……与食品、美容和内容“K-Lifestyle”相关"
-        },
-        {
-          "title": "“음식·약 먹고 두드러기? 단순 체질 아닌 알레르기일 수도”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUWQzX09HZ1hwczhGQ3d6bTV2S01jNEwyWVJEbEVZSzJGcy1Tb1pYcnRnTWtGWnJkYTk5SzJGWFFYempaSk9uQTdYdGJvaTc1cEE?oc=5",
-          "desc": "",
-          "title_en": "“Hives after eating food and medicine? It could be an allergy, not just a constitution.”",
-          "title_ja": "「食べ物や薬を食べた後のじんましん？それは単なる憲法ではなく、アレルギーかもしれません。」",
-          "title_zh": "“吃了食物和药后荨麻疹？这可能是一种过敏，而不仅仅是宪法。”"
         }
       ]
     },
