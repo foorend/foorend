@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T06:42:37Z",
+  "lastUpdated": "2026-08-19T09:33:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "InKind认为它已经解决了餐厅融资危机"
         },
         {
-          "title": "Franchisees have profit problems",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2R3elNDSUZ2TTl3UmIxajAzZlMyZFhuUFA3aWo1dkVzbFFIOXRFbkdldGkxanVQelZGa1dQeGpqVXhSaG1rWl9BbGdMaTVwXy14NnBGYXJaVTE5TUlvZkoxdUF6RGIydU02QzBXQk1JYUJfQkp1akcydnRlSmZxNDk0MEd5eHdoNlRj?oc=5",
+          "title": "Subway tries to keep franchisees from closing stores",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGhpUjNIc0YydVBHbkNqZm5mbjZOdC1sN3ZNS2p5OFcwZnlXMVdjZnRab20xTFo2YVM3MHJULXE3empOaFBxZHBUd2ZyYlNOTkYyNTl2T05IVFBheGpHMnpMM3k3cEVrX0g2VGd1VEk4a2M4akl3T3o0dXk1allJNUNKQl9FUTRKSkR4UjF0QzhKdkozSnc?oc=5",
           "desc": "",
-          "title_ko": "프랜차이즈 가맹점은 수익에 문제가 있습니다",
-          "title_ja": "加盟店に利益の問題がある",
-          "title_zh": "加盟商存在利润问题"
+          "title_ko": "SUBWAY는 프랜차이즈 가맹점이 매장을 닫지 않도록 노력합니다.",
+          "title_ja": "サブウェイは、加盟店が店舗を閉鎖するのを防ごうとしています",
+          "title_zh": "赛百味试图阻止加盟商关闭门店"
         }
       ]
     },
@@ -136,16 +136,16 @@
           "title_zh": "“Samgyetang是一句古老的谚语” …… '祝福日'畅销的食物是什么？ [趋势+]"
         },
         {
-          "title": "K푸드·K뷰티 잘나가는데...수익성 악화로 고전하는 CJ",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5blYyZTJHMWVTQUc5WnBpa19ZdkItaE96c0F6RWwtbFVZaXBzb21PMVNjMWZ2bzdXNmtrQ2VCODJnNmk1V3dYM2RuTDY2ZVUxck82aldlT0djdw?oc=5",
+          "title": "롯데웰푸드, 쌈장 삼겹살·버터구이 오징어맛…꼬깔콘에 담긴 한여름 야장 감성",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aT08xaG9XMm84NGhvQ0ZuOFhsdzl4V3d2QVBHNFdsUm52eDN3SHhfVlV0TXdiZnVHRUh0UzlDdmFhODNTVHJBT3J3eUNiUGlabFdteEJ2WGY1dw?oc=5",
           "desc": "",
-          "title_en": "K-food and K-beauty are going well... CJ struggling with deteriorating profitability",
-          "title_ja": "K - foodとK - Beautyは順調に進んでいる… CJは収益性の悪化に苦しんでいる",
-          "title_zh": "K-food和K-beauty进展顺利…… CJ挣扎于不断恶化的盈利能力"
+          "title_en": "Lotte Well Food, Samjang Pork Belly, Butter Grilled Squid Flavor… Midsummer Nighttime Sensibility in Coccone",
+          "title_ja": "ロッテウェルフード、サムジャンポークベリー、イカのバターグリル風味…真夏の夜のコッコーン感性",
+          "title_zh": "乐天美食、三藏猪肚、黄油烤鱿鱼口味……盛夏夜间感受椰子味"
         },
         {
           "title": "원조를 뛰어넘은 K푸드",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JU0FLdlhDMVQ3dnV6VWFtQUVfVFNBcC1CazUxNmV3SnlLa3JQamZqc0U1UkxjeE1yeWFUOFd1VzVlelZ6Ulp3c2hVTGR4Wkw0UUxiVVVRcXlnZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGpRcFhQZnROZGFYQzZrNkxCUHFwZlZOdW16Tzl2Z1EwVzZLSE9HR3c2b2RFZ1JNZkJjVWVKdU1XT1pneVJmS2tIYVhncmZ5V2ZjS05JTnJVcE52dHJLUVBKemo2TEZkVlY0cmN1MFZnUkhCalp1NlNXbXAtdWxOVnM5clZFSl85MXd0SkJ0a2N2dWZNN21ZeEZQZlAzWGlfTmdkeFBtOWVZYkZlLWc?oc=5",
           "desc": "",
           "title_en": "K-Food goes above and beyond",
           "title_ja": "K - Foodはそれを超えています",
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "Z세대의 PB 상품 구입, 미국 식품 성장 이끈다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oSEhGZUtOVzB2cFU0NE5HLUFEeS1FTDZ2djZmSkZKcXVKclVYeHhzSmM3clJLWkliLXZZY3BOZjk5Z1lSa0VzRXZJZzFBUmhxVWNwYXhjUQ?oc=5",
+          "title": "함께 먹으면 더 건강해지는 음식 조합",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zb1BjQ1ZHN3F1ZC1FbkRHYW41THlRdGEyN0YxZTM5SzJHdDJaNUVxTVBqNW1wMmdFVmdvanRMeV91X0NNWkpsREpUUzQwTGxORWc0Rlhn?oc=5",
           "desc": "",
-          "title_en": "Gen Z's purchase of PB products leads US food growth",
-          "title_ja": "Z世代によるPB製品の購入が米国の食料成長をリード",
-          "title_zh": "Z世代购买PB产品引领美国食品增长"
+          "title_en": "Food combinations that are healthier when eaten together",
+          "title_ja": "一緒に食べるとより健康的な食品の組み合わせ",
+          "title_zh": "搭配食用时更健康的食物组合"
         },
         {
-          "title": "짠맛에서 감칠맛·발효로…유럽 입맛의 변화",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yN1BEcnU1WlZvYjF4SFNwVHdIX3lpaGtHWlctbDByOWwxYklfX0JZdC0tQWlZdXdrVDVmOFBhaXpHbExZNm84SFZCNWVQUkRrdEZGRHZEVQ?oc=5",
+          "title": "지금 먹어야 할 ‘고섬유질’ 10가지",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xbzAzRW9EQUlkWmR0ZTZ6SG1FMXE3TFdybURIdy00cWdydnZXRGZ4Nm9MMU8wbkdnWFNHS0ZnLXN0d2dfSlhWOHFzMGowWUNlRjZ3VkRn?oc=5",
           "desc": "",
-          "title_en": "From saltiness to umami · fermentation… Changing the taste of Europe",
-          "title_ja": "塩味からうま味・発酵・・・ヨーロッパの味を変える",
-          "title_zh": "从咸味到鲜味·发酵……改变欧洲的味道"
+          "title_en": "10 'high fiber‘ foods you need to eat right now",
+          "title_ja": "今すぐ食べる必要がある10の「高繊維」食品",
+          "title_zh": "您现在需要吃的10种“高纤维”食物"
         },
         {
-          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
+          "title": "‘음식의 미래’를 결정할 3가지 주요 트렌드",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BcHFfd1ZLR1JSU2dFenBLMHBGMkdTeDUtZ2UtLVR4YUtqaHZFU3VTVF9uMEtiWXJISm9wUEE4VWhtVFc3R3BNWlZScTVEN09CZ2VtMnZR?oc=5",
           "desc": "",
-          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
-          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
-          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
+          "title_en": "3 key trends that will shape the future of food",
+          "title_ja": "食品の未来を形作る3つの主なトレンド",
+          "title_zh": "塑造食品未来的三大关键趋势"
         }
       ]
     }
