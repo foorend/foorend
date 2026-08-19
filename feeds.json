@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-08-19T03:46:01Z",
+  "lastUpdated": "2026-08-19T06:42:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "InKind believes it has solved the restaurant financing crunch",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm9NTmkzNm5UUnQwcGZ5dUE2VW5CRFBrYmg3eTUzWGdWbDBxVHEtay15UzhyeXhVUlpoSjAxWF9Dd05pLUV3OEJfbGlxVHdqV2RlNUt6Vk1lRk5ZM1UySXhwT1R0WFY1b3RVTnJZZTRzMkNjVUNCZTFlUHNuUG1XSHQtM0xiaWtQLTh6dWh6VW1zN0hoQlFwZEhlRGZFOTZoWjJuczBHRG1aRmwxcWc?oc=5",
-          "desc": "",
-          "title_ko": "InKind는 레스토랑 자금 조달 문제를 해결했다고 생각합니다",
-          "title_ja": "InKindは、レストランの資金調達危機を解決したと考えています",
-          "title_zh": "InKind认为它已经解决了餐厅融资危机"
-        },
         {
           "title": "Wendy’s sudden decline may end with a go-private deal",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFNKT2s0M1NmREg5YXBvZ2tycVZ2RkNiYWpuOE9WYnpRU0JJZzlEYVduOFUxUVBGZVNzMTZiQmR0bDJYcExGY3Q1VDFQUVFPZmY1YzRSUnBLb0ZwQlczazl5TXZzclNiS0RTYWhDWWtYWjlMUWd5ZXZsVTlaT0JIUUpBMGtWN1JXYUNvVG1DbEdwNnRwd2hoN1JIRDA?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "웬디의 갑작스런 하락은 개인 거래로 끝날 수 있습니다.",
           "title_ja": "ウェンディの突然の衰退は、非公開取引で終わるかもしれません",
           "title_zh": "Wendy的突然下滑可能会以私有化交易结束"
+        },
+        {
+          "title": "InKind believes it has solved the restaurant financing crunch",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm9NTmkzNm5UUnQwcGZ5dUE2VW5CRFBrYmg3eTUzWGdWbDBxVHEtay15UzhyeXhVUlpoSjAxWF9Dd05pLUV3OEJfbGlxVHdqV2RlNUt6Vk1lRk5ZM1UySXhwT1R0WFY1b3RVTnJZZTRzMkNjVUNCZTFlUHNuUG1XSHQtM0xiaWtQLTh6dWh6VW1zN0hoQlFwZEhlRGZFOTZoWjJuczBHRG1aRmwxcWc?oc=5",
+          "desc": "",
+          "title_ko": "InKind는 레스토랑 자금 조달 문제를 해결했다고 생각합니다",
+          "title_ja": "InKindは、レストランの資金調達危機を解決したと考えています",
+          "title_zh": "InKind认为它已经解决了餐厅融资危机"
         },
         {
           "title": "Franchisees have profit problems",
@@ -136,20 +136,20 @@
           "title_zh": "“Samgyetang是一句古老的谚语” …… '祝福日'畅销的食物是什么？ [趋势+]"
         },
         {
-          "title": "원조를 뛰어넘은 K푸드",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGpRcFhQZnROZGFYQzZrNkxCUHFwZlZOdW16Tzl2Z1EwVzZLSE9HR3c2b2RFZ1JNZkJjVWVKdU1XT1pneVJmS2tIYVhncmZ5V2ZjS05JTnJVcE52dHJLUVBKemo2TEZkVlY0cmN1MFZnUkhCalp1NlNXbXAtdWxOVnM5clZFSl85MXd0SkJ0a2N2dWZNN21ZeEZQZlAzWGlfTmdkeFBtOWVZYkZlLWc?oc=5",
-          "desc": "",
-          "title_en": "K-Food goes above and beyond",
-          "title_ja": "K - Foodはそれを超えています",
-          "title_zh": "K-Food超越一切"
-        },
-        {
           "title": "K푸드·K뷰티 잘나가는데...수익성 악화로 고전하는 CJ",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5blYyZTJHMWVTQUc5WnBpa19ZdkItaE96c0F6RWwtbFVZaXBzb21PMVNjMWZ2bzdXNmtrQ2VCODJnNmk1V3dYM2RuTDY2ZVUxck82aldlT0djdw?oc=5",
           "desc": "",
           "title_en": "K-food and K-beauty are going well... CJ struggling with deteriorating profitability",
           "title_ja": "K - foodとK - Beautyは順調に進んでいる… CJは収益性の悪化に苦しんでいる",
           "title_zh": "K-food和K-beauty进展顺利…… CJ挣扎于不断恶化的盈利能力"
+        },
+        {
+          "title": "원조를 뛰어넘은 K푸드",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JU0FLdlhDMVQ3dnV6VWFtQUVfVFNBcC1CazUxNmV3SnlLa3JQamZqc0U1UkxjeE1yeWFUOFd1VzVlelZ6Ulp3c2hVTGR4Wkw0UUxiVVVRcXlnZw?oc=5",
+          "desc": "",
+          "title_en": "K-Food goes above and beyond",
+          "title_ja": "K - Foodはそれを超えています",
+          "title_zh": "K-Food超越一切"
         }
       ]
     },
