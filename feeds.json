@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-08-19T15:30:59Z",
+  "lastUpdated": "2026-08-19T18:34:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Franchisees have profit problems",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2R3elNDSUZ2TTl3UmIxajAzZlMyZFhuUFA3aWo1dkVzbFFIOXRFbkdldGkxanVQelZGa1dQeGpqVXhSaG1rWl9BbGdMaTVwXy14NnBGYXJaVTE5TUlvZkoxdUF6RGIydU02QzBXQk1JYUJfQkp1akcydnRlSmZxNDk0MEd5eHdoNlRj?oc=5",
+          "desc": "",
+          "title_ko": "프랜차이즈 가맹점은 수익에 문제가 있습니다",
+          "title_ja": "加盟店に利益の問題がある",
+          "title_zh": "加盟商存在利润问题"
+        },
         {
           "title": "Wendy’s sudden decline may end with a go-private deal",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFNKT2s0M1NmREg5YXBvZ2tycVZ2RkNiYWpuOE9WYnpRU0JJZzlEYVduOFUxUVBGZVNzMTZiQmR0bDJYcExGY3Q1VDFQUVFPZmY1YzRSUnBLb0ZwQlczazl5TXZzclNiS0RTYWhDWWtYWjlMUWd5ZXZsVTlaT0JIUUpBMGtWN1JXYUNvVG1DbEdwNnRwd2hoN1JIRDA?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "InKind는 레스토랑 자금 조달 문제를 해결했다고 생각합니다",
           "title_ja": "InKindは、レストランの資金調達危機を解決したと考えています",
           "title_zh": "InKind认为它已经解决了餐厅融资危机"
-        },
-        {
-          "title": "Subway tries to keep franchisees from closing stores",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGhpUjNIc0YydVBHbkNqZm5mbjZOdC1sN3ZNS2p5OFcwZnlXMVdjZnRab20xTFo2YVM3MHJULXE3empOaFBxZHBUd2ZyYlNOTkYyNTl2T05IVFBheGpHMnpMM3k3cEVrX0g2VGd1VEk4a2M4akl3T3o0dXk1allJNUNKQl9FUTRKSkR4UjF0QzhKdkozSnc?oc=5",
-          "desc": "",
-          "title_ko": "SUBWAY는 프랜차이즈 가맹점이 매장을 닫지 않도록 노력합니다.",
-          "title_ja": "サブウェイは、加盟店が店舗を閉鎖するのを防ごうとしています",
-          "title_zh": "赛百味试图阻止加盟商关闭门店"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Why Anthony Bourdain’s Editor Wanted ‘Tony’ to Be Darker",
+          "link": "https://www.eater.com/food-culture/981130/tony-bourdain-screenwriters-movie-interview",
+          "desc": "There are two types of biopics: those that unconventionally show, and those that exhaustively tell. Thank goodness that Tony, the highly anticipated A",
+          "title_ko": "Anthony Bourdain의 편집자가 ‘Tony‘ 가 더 어두워지기를 바랐던 이유",
+          "title_ja": "アンソニー・ボーデインの編集者が「トニー」をダークにしたかった理由",
+          "title_zh": "为什么Anthony Bourdain的编辑希望“Tony”更黑暗"
+        },
+        {
           "title": "The Dinner Party Has Left the Building",
           "link": "https://www.eater.com/food-culture/980064/earthwork-land-art-dinners",
           "desc": "A few months ago, a small group gathered for a picnic during a retreat in upstate New York. In lieu of sitting on a grassy knoll with a checkered blan",
@@ -110,14 +118,6 @@
           "title_ko": "주말에 즐기는 마이애미 허리케인 게임 - 테일게이팅, 카페시토스, 축구 3일",
           "title_ja": "マイアミのハリケーンズゲームウィークエンドのためのテールゲート、カフェシト、フットボール体験（ 3日間）",
           "title_zh": "迈阿密飓风比赛周末的尾随、咖啡和足球三日游"
-        },
-        {
-          "title": "Three Days of Barbecue, Swimming Holes, and Football for a UT Longhorns Game Weekend",
-          "link": "https://www.eater.com/dining-out/980063/utlimate-ut-austin-game-weekend-itinerary",
-          "desc": "As cities go, Austin is a bit of a chameleon. In certain lights, it’s a tech town with a rapidly-expanding skyline and a steady supply of buzzy new ba",
-          "title_ko": "UT 롱혼 게임 주말을 위한 3일간의 바비큐, 수영 홀, 축구",
-          "title_ja": "バーベキュー、スイミングホール、フットボールを楽しむ3日間（ UTロングホーンズゲームの週末）",
-          "title_zh": "UT Longhorns比赛周末三日烧烤、游泳洞和足球之旅"
         }
       ]
     }
@@ -196,20 +196,20 @@
           "title_zh": "皮皮岛美食： 3种不会失败的泰国美食（ +推荐菜单）"
         },
         {
-          "title": "“한국선 더 클 곳 없다”…미국 시장서 판 키우는 K푸드",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGdENvVHpzX3hJVHhqaGwxZ2J4ZTdPc3FucFE4dHJaM1Y3cGZ2UFF0X1JZcmNuVm9teEVPZGZMZzh3WWdWUHc?oc=5",
-          "desc": "",
-          "title_en": "“There is no place bigger than the Korean line” … K Food Raising Pan in the US Market",
-          "title_ja": "「韓国のライン以上に大きな場所はありません」…米国市場でのKフードレイジングパン",
-          "title_zh": "“没有比韩国线更大的地方” ……美国市场的K Food Raising Pan"
-        },
-        {
           "title": "롯데웰푸드(주) 기업설명회(IR) 개최(안내공시)",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ca05kT0YtNmlvWXItS2ZHaHo5SjE4U0RiZnQ3TGl5dUVCNjJRU0I2YXJpMjdpRUQxdzJBbVA0MXlCVWxXU0t0eE00bEphZEwwYTg1TkcxSkxaN28?oc=5",
           "desc": "",
           "title_en": "Held IR meeting of Lotte Well Food Co., Ltd. (Information Disclosure)",
           "title_ja": "ロッテウェルフード株式会社IR会合開催（情報開示）",
           "title_zh": "乐天威尔食品股份有限公司召开投资者关系会议（信息披露）"
+        },
+        {
+          "title": "말차 붐에 웃는다…K푸드 새 주자로 뜬 녹차",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jLU5xNlNocnd2dFNwMm9QWEJmSU5tenEzeTVlcVY4RHBKODVackZJSU5IcFRmTnhIeTd1TWlGWXdVWGY4VWc?oc=5",
+          "desc": "",
+          "title_en": "Laughing at the matcha boom… Green tea as a new runner for K-Food",
+          "title_ja": "抹茶ブームを笑う… K - Foodの新人ランナーとしての緑茶",
+          "title_zh": "嘲笑抹茶热潮…绿茶成为K-Food的新跑步者"
         }
       ]
     },
