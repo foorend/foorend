@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-08-20T18:38:40Z",
+  "lastUpdated": "2026-08-20T21:27:07Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "The loss of low-income diners cost McDonald’s a lot of money last quarter",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY0ZzM1d6QnMwUl9tTmNNZlpSY0hwZ0JBeU1KYjV6RDFzQm8xXzRhRnc1UG05QnE3dUhKdFVaXzhiUmFubGdrZm5WNzB3UlpPWEkxald4SU1kV2NEdlRYWFZQYy1BZ1diekRQeGdvSEhqamw5UnY0OU9QUnJpcjRjbzkxMkVnQTJtR3pocEhaT3NxMzBTT3poSHUzZnBGbHlPWXZ3d05LdVFteWdhZFRsYQ?oc=5",
+          "desc": "",
+          "title_ko": "저소득층 손님의 손실은 지난 분기에 맥도날드의 많은 돈을 요합니다.",
+          "title_ja": "低収入のダイナーの損失は、前四半期にマクドナルドに多額のお金を費やしました",
+          "title_zh": "上个季度，低收入用餐者的流失让麦当劳损失了很多钱"
+        },
         {
           "title": "InKind believes it has solved the restaurant financing crunch",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHhBZEpETmFreGV5aFB1bmFnLUs2a0FfZC1aTVpjUTlLOTJGLV8zYkFHWG96eXpLcnJBZ1BER0lqd3ZJQU90WXZXUUd3VGdtVHJuSnBhaG5MUDVZRnBycWwwMkVpbXAwTE9Jc0RxTWVMbmRld01tUTdXLVVSNUJfOVJQVGJtUFhpSnVzdlM5d1RzTlpzYWhOZVR4UGd4TTVmR3NTdW5RYVU?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "프랜차이즈 가맹점은 수익에 문제가 있습니다",
           "title_ja": "加盟店に利益の問題がある",
           "title_zh": "加盟商存在利润问题"
-        },
-        {
-          "title": "Wendy’s sudden decline may end with a go-private deal",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUxLRzRYYXdZbTd5bVJnNVFlN1FydGJ3OElZN2ZXSTNkMUt1emxQNHRaRmdwR2luWFZSMkxaNC1zWi1mWUFZbWxYWEYwRGxKMWo0dGxuZzkzZWZnZXdQYzRET0FiWWpHdE1Pc2NLNGwzMTdQZnpKVV9Jam9CZnlQbkprVFBISWxJSGF1Q0ZuMjlkRHVERF9j?oc=5",
-          "desc": "",
-          "title_ko": "웬디의 갑작스런 하락은 개인 거래로 끝날 수 있습니다.",
-          "title_ja": "ウェンディの突然の衰退は、非公開取引で終わるかもしれません",
-          "title_zh": "Wendy的突然下滑可能会以私有化交易结束"
         }
       ]
     },
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "Tea Is So Hot Right Now",
-          "link": "https://www.eater.com/drinks/981280/modern-late-night-teahouse-trend-heytea-expansion",
-          "desc": "In Los Angeles, Tea at Shiloh describes itself as a “late night teahouse.” Here, visitors can reserve slots from 7 to 11 p.m. to sip unlimited amounts",
-          "title_ko": "지금 차가 너무 뜨거워요",
-          "title_ja": "お茶は今とても暑いです",
-          "title_zh": "茶现在很热"
-        },
-        {
-          "title": "Why Anthony Bourdain’s Editor Wanted ‘Tony’ to Be Darker",
-          "link": "https://www.eater.com/food-culture/981130/tony-bourdain-screenwriters-movie-interview",
-          "desc": "There are two types of biopics: those that unconventionally show, and those that exhaustively tell. Thank goodness that Tony, the highly anticipated A",
-          "title_ko": "Anthony Bourdain의 편집자가 ‘Tony‘ 가 더 어두워지기를 바랐던 이유",
-          "title_ja": "アンソニー・ボーデインの編集者が「トニー」をダークにしたかった理由",
-          "title_zh": "为什么Anthony Bourdain的编辑希望“Tony”更黑暗"
-        },
-        {
           "title": "The Dinner Party Has Left the Building",
           "link": "https://www.eater.com/food-culture/980064/earthwork-land-art-dinners",
           "desc": "A few months ago, a small group gathered for a picnic during a retreat in upstate New York. In lieu of sitting on a grassy knoll with a checkered blan",
           "title_ko": "저녁 식사 파티가 건물을 떠났습니다.",
           "title_ja": "ディナーパーティーが建物を離れました",
           "title_zh": "晚宴已经离开大楼"
+        },
+        {
+          "title": "Three Days of Tailgating, Cafecitos, and Football for a Miami Hurricanes Game Weekend",
+          "link": "https://www.eater.com/football-guides/979066/ultimate-u-miami-game-weekend-itinerary",
+          "desc": "The cries have been coming from Biscayne’s wondrous shores since last year’s College Football Playoff: The U is back! And after 20+ years of painful m",
+          "title_ko": "주말에 즐기는 마이애미 허리케인 게임 - 테일게이팅, 카페시토스, 축구 3일",
+          "title_ja": "マイアミのハリケーンズゲームウィークエンドのためのテールゲート、カフェシト、フットボール体験（ 3日間）",
+          "title_zh": "迈阿密飓风比赛周末的尾随、咖啡和足球三日游"
+        },
+        {
+          "title": "Three Days of Barbecue, Swimming Holes, and Football for a UT Longhorns Game Weekend",
+          "link": "https://www.eater.com/dining-out/980063/utlimate-ut-austin-game-weekend-itinerary",
+          "desc": "As cities go, Austin is a bit of a chameleon. In certain lights, it’s a tech town with a rapidly-expanding skyline and a steady supply of buzzy new ba",
+          "title_ko": "UT 롱혼 게임 주말을 위한 3일간의 바비큐, 수영 홀, 축구",
+          "title_ja": "バーベキュー、スイミングホール、フットボールを楽しむ3日間（ UTロングホーンズゲームの週末）",
+          "title_zh": "UT Longhorns比赛周末三日烧烤、游泳洞和足球之旅"
         }
       ]
     }
@@ -136,20 +136,20 @@
           "title_zh": "“Samgyetang是一句古老的谚语” …… '祝福日'畅销的食物是什么？ [趋势+]"
         },
         {
+          "title": "\"매일 먹던 배달음식 끊지마세요\"…의사가 권한 뜻밖의 식습관",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6T3BIaDR3SlktdW43VGI1aEZhazdsVF9zemlBbnZpOXZLd3dPbTVhbm1FSGpFb29vTmp6S0w5ZENEWS1iUllaN2R1ZzFrY29oX1dncVcwbzlWZw?oc=5",
+          "desc": "",
+          "title_en": "\"Don't break the delivery food you used to eat every day\" … Unexpected eating habits authorized by the doctor",
+          "title_ja": "「毎日食べていた配達用の料理を壊さないでください」…医師の許可を得た予期せぬ食習慣",
+          "title_zh": "“不要破坏您过去每天吃的送餐服务” ……医生授权的意外饮食习惯"
+        },
+        {
           "title": "스마트푸드네트웍스, 김희종 신임 대표 선임",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KWDJIanRpSTZ3UTBpV0E5QzRvTkFza2dmOTdRMjkwT085MnlMOXVsVDdoNUJBd3g2T0NoS09HaTZPcDUzYlpPTHFjcndiYVR5WWhDTU9nWlN6Zw?oc=5",
           "desc": "",
           "title_en": "Smart Food Networks Appoints Kim Hee-jong as New CEO",
           "title_ja": "Smart Food Networks、Kim Hee - jongを新CEOに任命",
           "title_zh": "Smart Food Networks任命Kim Hee-jong为新任首席执行官"
-        },
-        {
-          "title": "K-푸드 중국 수출길 더 넓어진다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yLWljZlFReTlUOEEtdTBMVUpPN0RHQUFQU3ozMjBZMUFlZkptTkFieWxFSWc2a2dNMXVPLXk4bUtDT09LaU9mbllkQm9oWDVTakpVb0EtQmZRZw?oc=5",
-          "desc": "",
-          "title_en": "K-Food expands Chinese export route",
-          "title_ja": "K - Food、中国の輸出ルートを拡大",
-          "title_zh": "K-Food拓展中国出口路线"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "플라워 푸드, 2분기 매출 11억9300만 달러..전년비 4% 감소",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQbzN2akhSUnl3Vk80b2djX2FkbTRrVHNabElWdDE0d2NYS2psYjY3SEx1YlMwRmZYRmJxUkh4S3k0OHVwWDRYQUg0c1JSMTdWclE?oc=5",
+          "desc": "",
+          "title_en": "Flower Food, Q2 Revenue of $1,193M.. down 4% YoY",
+          "title_ja": "フラワーフード、第2四半期の収益は11億9,300万ドル..前年同期比4 ％減",
+          "title_zh": "花卉食品，第二季度收入为11.93亿美元，同比下降4%"
+        },
+        {
           "title": "퍼포먼스 푸드 그룹, 이사회 10명 축소·매튜 플래니건 수석사외이사 선임",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wNDFOQ21CdC13WDhXUDRoVmZGVFYzZ1FDdEZlMkhmNzZEWFpxWkhFQTZPejVJQWVPX3QxVXh0WTJzaUNJZERtaExSdGVrYlBLT0E?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "“There is no place bigger than the Korean line” … K Food Raising Pan in the US Market",
           "title_ja": "「韓国のライン以上に大きな場所はありません」…米国市場でのKフードレイジングパン",
           "title_zh": "“没有比韩国线更大的地方” ……美国市场的K Food Raising Pan"
-        },
-        {
-          "title": "이영애, ‘대장금’ 23년째 여전히 “스승님”…한복려 손 꼭 잡았다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9OaVpaTGpzRV95dmNVQjYxMjhJOHd6d1RKY0tKS0hHV0UyTjNsZ2kxajVUeG5GRVBNT2N0alA1R2V6Xy01Q2c?oc=5",
-          "desc": "",
-          "title_en": "Lee Young-ae, ‘Daejanggeum’ for 23 years still “Master” … Han Bok-ryeo hands tightly grasped",
-          "title_ja": "イ・ヨンエ、23年間「大姜宮」はまだ「師匠」…ハン・ボクリョの手はしっかりと握られている",
-          "title_zh": "Lee Young-ae ， ‘Daejanggeum' 23年仍然是'Master'...... Han Bok-ryeo紧紧抓住双手"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "什么是夏季护理，以帮助细胞的清洁系统？"
         },
         {
+          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
+          "desc": "",
+          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
+          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
+          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
+        },
+        {
           "title": "“접수 후 3분 이내 제공”…스타벅스, ‘패스트 서브’ 강화",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwVG1rZEViSExacHBWRVhhM0NEM2trYWJxdldMUGgtS3BtMzRGOV9Gc2ZNWmhTSy1sbFBjWENpalB6RzJaaWNZZm5zLWJYMnJ1OXRHTlBjQQ?oc=5",
           "desc": "",
           "title_en": "“Served within 3 minutes of receipt” … Starbucks strengthens‘ Fast Serve ’",
           "title_ja": "「受け取ってから3分以内に提供」…スターバックスが「ファストサーブ」を強化",
           "title_zh": "“收到后3分钟内送达” ……星巴克加强了“快餐”"
-        },
-        {
-          "title": "호두크림의 새로운 활용법…캘리포니아 호두협회, 세미나 개최",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ucGRlUjg0MW1vcTIxeE9lenlDdW1taWJGcnk5dERwWkhNQWxsaWJ2OWZ2UXcwc3RHU1YzNTNfLUxtZC1CUEZVLW1CQ3JKWTQ2M2k2ZTg2VQ?oc=5",
-          "desc": "",
-          "title_en": "New Uses of Walnut Cream… California Walnut Association to Host Seminar",
-          "title_ja": "クルミクリームの新しい用途…カリフォルニアクルミ協会がセミナーを開催",
-          "title_zh": "核桃奶油的新用途……加州核桃协会举办研讨会"
         }
       ]
     }
