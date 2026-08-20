@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T12:49:32Z",
+  "lastUpdated": "2026-08-20T15:33:01Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -15,7 +15,7 @@
         },
         {
           "title": "Wendy’s sudden decline may end with a go-private deal",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFNKT2s0M1NmREg5YXBvZ2tycVZ2RkNiYWpuOE9WYnpRU0JJZzlEYVduOFUxUVBGZVNzMTZiQmR0bDJYcExGY3Q1VDFQUVFPZmY1YzRSUnBLb0ZwQlczazl5TXZzclNiS0RTYWhDWWtYWjlMUWd5ZXZsVTlaT0JIUUpBMGtWN1JXYUNvVG1DbEdwNnRwd2hoN1JIRDA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUxLRzRYYXdZbTd5bVJnNVFlN1FydGJ3OElZN2ZXSTNkMUt1emxQNHRaRmdwR2luWFZSMkxaNC1zWi1mWUFZbWxYWEYwRGxKMWo0dGxuZzkzZWZnZXdQYzRET0FiWWpHdE1Pc2NLNGwzMTdQZnpKVV9Jam9CZnlQbkprVFBISWxJSGF1Q0ZuMjlkRHVERF9j?oc=5",
           "desc": "",
           "title_ko": "웬디의 갑작스런 하락은 개인 거래로 끝날 수 있습니다.",
           "title_ja": "ウェンディの突然の衰退は、非公開取引で終わるかもしれません",
@@ -196,20 +196,20 @@
           "title_zh": "Performance Food Group将董事会缩减10人，任命Matthew Flanigan为高级外部董事"
         },
         {
-          "title": "피피섬에서 뭘 먹지? 실패 없는 태국 음식 맛집 3곳 (+추천 메뉴)",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOWHQ1U2RjbEI2WXhYRTZ5OUhhWkQ1S2xlak1LdndtblI2M0pBU0xHNEZ2TmZFSU5zU2RWMmRGWk1KMWZxSV9YdVZmLUtTM3NseFBuVFJYUHl0X3YtNUHSAWNBVV95cUxNckU5V1NzbzhJNFJhTEd5YWpqWjRzRUZucElDQzNOX0dpbWJlWUpfUEVibEt0RlZOVWZDdXZ4cmdGeXZMR3UyMWVaWmc2NlZ2NDVmWk9KeHJoNTZsQ2o1M0lIeUk?oc=5",
-          "desc": "",
-          "title_en": "What to Eat on Phi Phi Island: 3 Thai Foods That Won't Fail (+ Recommended Menu)",
-          "title_ja": "ピピ島で食べるもの：失敗しない3つのタイ料理（+おすすめメニュー）",
-          "title_zh": "皮皮岛美食： 3种不会失败的泰国美食（ +推荐菜单）"
-        },
-        {
           "title": "“한국선 더 클 곳 없다”…미국 시장서 판 키우는 K푸드",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BWEE2QWpzMlMyNExMVVZIWG5WSFJUdDR6LWRBZUZpQW5BZHp0SkMtYjFhRkdBMFJVWDFDM3Y0czA3bGN0cWdIYTZUb3QyR2hEaUdVZA?oc=5",
           "desc": "",
           "title_en": "“There is no place bigger than the Korean line” … K Food Raising Pan in the US Market",
           "title_ja": "「韓国のライン以上に大きな場所はありません」…米国市場でのKフードレイジングパン",
           "title_zh": "“没有比韩国线更大的地方” ……美国市场的K Food Raising Pan"
+        },
+        {
+          "title": "이영애, ‘대장금’ 23년째 여전히 “스승님”…한복려 손 꼭 잡았다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9OaVpaTGpzRV95dmNVQjYxMjhJOHd6d1RKY0tKS0hHV0UyTjNsZ2kxajVUeG5GRVBNT2N0alA1R2V6Xy01Q2c?oc=5",
+          "desc": "",
+          "title_en": "Lee Young-ae, ‘Daejanggeum’ for 23 years still “Master” … Han Bok-ryeo hands tightly grasped",
+          "title_ja": "イ・ヨンエ、23年間「大姜宮」はまだ「師匠」…ハン・ボクリョの手はしっかりと握られている",
+          "title_zh": "Lee Young-ae ， ‘Daejanggeum' 23年仍然是'Master'...... Han Bok-ryeo紧紧抓住双手"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "Z세대의 PB 상품 구입, 미국 식품 성장 이끈다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oSEhGZUtOVzB2cFU0NE5HLUFEeS1FTDZ2djZmSkZKcXVKclVYeHhzSmM3clJLWkliLXZZY3BOZjk5Z1lSa0VzRXZJZzFBUmhxVWNwYXhjUQ?oc=5",
+          "desc": "",
+          "title_en": "Gen Z's purchase of PB products leads US food growth",
+          "title_ja": "Z世代によるPB製品の購入が米国の食料成長をリード",
+          "title_zh": "Z世代购买PB产品引领美国食品增长"
+        },
         {
           "title": "짠맛에서 감칠맛·발효로…유럽 입맛의 변화",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yN1BEcnU1WlZvYjF4SFNwVHdIX3lpaGtHWlctbDByOWwxYklfX0JZdC0tQWlZdXdrVDVmOFBhaXpHbExZNm84SFZCNWVQUkRrdEZGRHZEVQ?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "What is the summer treatment to help the cleaning system of the cells?",
           "title_ja": "セルのクリーニングシステムに役立つ夏のトリートメントは何ですか？",
           "title_zh": "什么是夏季护理，以帮助细胞的清洁系统？"
-        },
-        {
-          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
-          "desc": "",
-          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
-          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
-          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
         }
       ]
     }
