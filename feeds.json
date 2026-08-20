@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-08-19T21:24:58Z",
+  "lastUpdated": "2026-08-20T01:13:56Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "InKind believes it has solved the restaurant financing crunch",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm9NTmkzNm5UUnQwcGZ5dUE2VW5CRFBrYmg3eTUzWGdWbDBxVHEtay15UzhyeXhVUlpoSjAxWF9Dd05pLUV3OEJfbGlxVHdqV2RlNUt6Vk1lRk5ZM1UySXhwT1R0WFY1b3RVTnJZZTRzMkNjVUNCZTFlUHNuUG1XSHQtM0xiaWtQLTh6dWh6VW1zN0hoQlFwZEhlRGZFOTZoWjJuczBHRG1aRmwxcWc?oc=5",
+          "desc": "",
+          "title_ko": "InKind는 레스토랑 자금 조달 문제를 해결했다고 생각합니다",
+          "title_ja": "InKindは、レストランの資金調達危機を解決したと考えています",
+          "title_zh": "InKind认为它已经解决了餐厅融资危机"
+        },
         {
           "title": "Franchisees have profit problems",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2R3elNDSUZ2TTl3UmIxajAzZlMyZFhuUFA3aWo1dkVzbFFIOXRFbkdldGkxanVQelZGa1dQeGpqVXhSaG1rWl9BbGdMaTVwXy14NnBGYXJaVTE5TUlvZkoxdUF6RGIydU02QzBXQk1JYUJfQkp1akcydnRlSmZxNDk0MEd5eHdoNlRj?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "웬디의 갑작스런 하락은 개인 거래로 끝날 수 있습니다.",
           "title_ja": "ウェンディの突然の衰退は、非公開取引で終わるかもしれません",
           "title_zh": "Wendy的突然下滑可能会以私有化交易结束"
-        },
-        {
-          "title": "InKind believes it has solved the restaurant financing crunch",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm9NTmkzNm5UUnQwcGZ5dUE2VW5CRFBrYmg3eTUzWGdWbDBxVHEtay15UzhyeXhVUlpoSjAxWF9Dd05pLUV3OEJfbGlxVHdqV2RlNUt6Vk1lRk5ZM1UySXhwT1R0WFY1b3RVTnJZZTRzMkNjVUNCZTFlUHNuUG1XSHQtM0xiaWtQLTh6dWh6VW1zN0hoQlFwZEhlRGZFOTZoWjJuczBHRG1aRmwxcWc?oc=5",
-          "desc": "",
-          "title_ko": "InKind는 레스토랑 자금 조달 문제를 해결했다고 생각합니다",
-          "title_ja": "InKindは、レストランの資金調達危機を解決したと考えています",
-          "title_zh": "InKind认为它已经解决了餐厅融资危机"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "皮皮岛美食： 3种不会失败的泰国美食（ +推荐菜单）"
         },
         {
+          "title": "“한국선 더 클 곳 없다”…미국 시장서 판 키우는 K푸드",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BWEE2QWpzMlMyNExMVVZIWG5WSFJUdDR6LWRBZUZpQW5BZHp0SkMtYjFhRkdBMFJVWDFDM3Y0czA3bGN0cWdIYTZUb3QyR2hEaUdVZA?oc=5",
+          "desc": "",
+          "title_en": "“There is no place bigger than the Korean line” … K Food Raising Pan in the US Market",
+          "title_ja": "「韓国のライン以上に大きな場所はありません」…米国市場でのKフードレイジングパン",
+          "title_zh": "“没有比韩国线更大的地方” ……美国市场的K Food Raising Pan"
+        },
+        {
           "title": "롯데웰푸드(주) 기업설명회(IR) 개최(안내공시)",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ca05kT0YtNmlvWXItS2ZHaHo5SjE4U0RiZnQ3TGl5dUVCNjJRU0I2YXJpMjdpRUQxdzJBbVA0MXlCVWxXU0t0eE00bEphZEwwYTg1TkcxSkxaN28?oc=5",
           "desc": "",
           "title_en": "Held IR meeting of Lotte Well Food Co., Ltd. (Information Disclosure)",
           "title_ja": "ロッテウェルフード株式会社IR会合開催（情報開示）",
           "title_zh": "乐天威尔食品股份有限公司召开投资者关系会议（信息披露）"
-        },
-        {
-          "title": "말차 붐에 웃는다…K푸드 새 주자로 뜬 녹차",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jLU5xNlNocnd2dFNwMm9QWEJmSU5tenEzeTVlcVY4RHBKODVackZJSU5IcFRmTnhIeTd1TWlGWXdVWGY4VWc?oc=5",
-          "desc": "",
-          "title_en": "Laughing at the matcha boom… Green tea as a new runner for K-Food",
-          "title_ja": "抹茶ブームを笑う… K - Foodの新人ランナーとしての緑茶",
-          "title_zh": "嘲笑抹茶热潮…绿茶成为K-Food的新跑步者"
         }
       ]
     },
