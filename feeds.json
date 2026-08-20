@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T03:46:44Z",
+  "lastUpdated": "2026-08-20T06:45:09Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,14 +96,6 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "Why Anthony Bourdain’s Editor Wanted ‘Tony’ to Be Darker",
-          "link": "https://www.eater.com/food-culture/981130/tony-bourdain-screenwriters-movie-interview",
-          "desc": "There are two types of biopics: those that unconventionally show, and those that exhaustively tell. Thank goodness that Tony, the highly anticipated A",
-          "title_ko": "Anthony Bourdain의 편집자가 ‘Tony‘ 가 더 어두워지기를 바랐던 이유",
-          "title_ja": "アンソニー・ボーデインの編集者が「トニー」をダークにしたかった理由",
-          "title_zh": "为什么Anthony Bourdain的编辑希望“Tony”更黑暗"
-        },
-        {
           "title": "The Dinner Party Has Left the Building",
           "link": "https://www.eater.com/food-culture/980064/earthwork-land-art-dinners",
           "desc": "A few months ago, a small group gathered for a picnic during a retreat in upstate New York. In lieu of sitting on a grassy knoll with a checkered blan",
@@ -118,6 +110,14 @@
           "title_ko": "주말에 즐기는 마이애미 허리케인 게임 - 테일게이팅, 카페시토스, 축구 3일",
           "title_ja": "マイアミのハリケーンズゲームウィークエンドのためのテールゲート、カフェシト、フットボール体験（ 3日間）",
           "title_zh": "迈阿密飓风比赛周末的尾随、咖啡和足球三日游"
+        },
+        {
+          "title": "Three Days of Barbecue, Swimming Holes, and Football for a UT Longhorns Game Weekend",
+          "link": "https://www.eater.com/dining-out/980063/utlimate-ut-austin-game-weekend-itinerary",
+          "desc": "As cities go, Austin is a bit of a chameleon. In certain lights, it’s a tech town with a rapidly-expanding skyline and a steady supply of buzzy new ba",
+          "title_ko": "UT 롱혼 게임 주말을 위한 3일간의 바비큐, 수영 홀, 축구",
+          "title_ja": "バーベキュー、スイミングホール、フットボールを楽しむ3日間（ UTロングホーンズゲームの週末）",
+          "title_zh": "UT Longhorns比赛周末三日烧烤、游泳洞和足球之旅"
         }
       ]
     }
@@ -166,20 +166,20 @@
           "title_zh": "韩国店内咖啡馆走向海外…现代绿色食品首次在墨西哥开业"
         },
         {
+          "title": "“음식 냄새나니 화물 엘베 타라”...배민 ‘과도한 출입통제’ 배달지 실태조사",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFTHhJSnJZeE9ESkNNR0NwX1M1RlViSHkwV2FaMlM3M0NFakFpTlVJdHBMemxFOXlXMGktdTE2TXVhaUo1U2E2SVF4ZmU3WjZxQ3c?oc=5",
+          "desc": "",
+          "title_en": "“Food smells, cargo Elvetara”... Baemin ‘Excessive Access Control’ Delivery Site Survey",
+          "title_ja": "「食べ物の臭い、貨物Elvetara」... Baemin「過度のアクセス制御」配達サイト調査",
+          "title_zh": "“食物气味，货物Elvetara”... Baemin “过度访问控制”派送现场调查"
+        },
+        {
           "title": "[단독] 현대그린푸드, 해외 첫 사내 카페 오픈...“구내식당과 시너지”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHTE1hME02OUlxSDVrX2RqZUJOLWI2TnpIUVAxaWNHN3NJOUVyUHhxcnhKNnB5YzZubDVvYl8tTDBOVllKN2hDdzc5bExsMkk3NVE?oc=5",
           "desc": "",
           "title_en": "[Exclusive] Hyundai Green Food opens its first in-house cafe overseas... “Synergy with the cafeteria”",
           "title_ja": "【限定】現代グリーンフード、海外初の社内カフェをオープン…「カフェテリアとの相乗効果」",
           "title_zh": "【独家】现代绿色食品在海外开设首家内部咖啡馆…… “与自助餐厅的协同效应”"
-        },
-        {
-          "title": "“살 빼려면 아침 굶지 마세요”…공복에 먹으면 살 2배로 빠진다는 음식 5가지 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YX3RIYndNM2RHNnVQTjlvc1Z3RDUzc1RxUUdPR3U3WS1CNU1sQUt6TjBPeVZRbXl6ZWdZYVV1YUVYRlVkcmROZFY5Qk9BS1dVTEE?oc=5",
-          "desc": "",
-          "title_en": "“Don't Starve in the Morning to Lose Weight” … 5 Foods You'll Lose Twice as Much Weight on an Empty Stomach [Health Time]",
-          "title_ja": "「体重を減らすために朝に飢えてはいけない」…空腹時に2倍の体重を失う5つの食べ物[Health Time]",
-          "title_zh": "“不要为了减肥而在早上挨饿” …… 5种食物在空腹时会减掉两倍的体重[健康时间]"
         }
       ]
     },
