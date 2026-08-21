@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T03:50:10Z",
+  "lastUpdated": "2026-08-21T06:46:20Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "首尔杨坪洞乐天健康食品工厂氨泄漏…无人员伤亡"
         },
         {
-          "title": "\"삼계탕은 옛말\"…'복날' 불티나게 팔린 음식 뭐길래 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jbFpIbjg3dUktRUtLT3czd3RnOXVteWJUY3ZnZVNnZGU3eEo1cGZRU0xYUE14VFpIalg4QWstenJlc1ljc3RWZjd0eWsyZHVvNGN0aFVSMzIwUQ?oc=5",
+          "title": "롯데웰푸드, 영등포 공장 암모니아 누출 사과",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13LVRvM0dhOF90bTAwTDhuSzNpaHZ4M2hESE1TSG1iX2w5Vkk3aFNXTDg3S2ZEc3VScm82Q0VzX1pRRmJpMXB6X3lmNVVtbzdDQS1BX2FUT3lzZw?oc=5",
           "desc": "",
-          "title_en": "\"Samgyetang is an old saying\" … 'Blessing Day' What is the food that was sold fiercely? [Trend +]",
-          "title_ja": "「Samgyetangは古いことわざです」…「祝福の日」激しく売られた食べ物は何ですか？ [Trend +]",
-          "title_zh": "“Samgyetang是一句古老的谚语” …… '祝福日'畅销的食物是什么？ [趋势+]"
+          "title_en": "Lotte Well Food Apologizes for Ammonia Leak at Yeongdeungpo Plant",
+          "title_ja": "ロッテウェルフード、永登浦工場のアンモニア漏れについて謝罪",
+          "title_zh": "乐天Well Food为永登浦工厂的氨泄漏道歉"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "삼양식품, 태국서 K푸드 알린다…문체부 ‘한국 관광 페스티벌’ 참가",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwM3VueEcyTWdWS21oblVBZ2huZWRRMzFhYUE3eWFScy1lQUt1QWw4YWI3WWY2VTFDVWQwOGMtcjVOcExQWGRVbnc4bmRjUUtuSEE?oc=5",
+          "desc": "",
+          "title_en": "Samyang Foods Announces K-Foods in Thailand… Participated in ‘Korea Tourism Festival‘ by Ministry of Culture and Culture",
+          "title_ja": "Samyang FoodsがタイでK - Foodsを発表…文化部主催の「韓国観光フェスティバル」に参加",
+          "title_zh": "Samyang Foods宣布在泰国推出K-Foods......参加文化部举办的“韩国旅游节”"
+        },
         {
           "title": "“음식 냄새나니 화물 엘베 타라”...배민 ‘과도한 출입통제’ 배달지 실태조사",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFTHhJSnJZeE9ESkNNR0NwX1M1RlViSHkwV2FaMlM3M0NFakFpTlVJdHBMemxFOXlXMGktdTE2TXVhaUo1U2E2SVF4ZmU3WjZxQ3c?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Korean in-house cafe goes overseas… Hyundai Green Food opens in Mexico for the first time",
           "title_ja": "韓国の社内カフェが海外へ…現代グリーンフードがメキシコで初めてオープン",
           "title_zh": "韩国店内咖啡馆走向海外…现代绿色食品首次在墨西哥开业"
-        },
-        {
-          "title": "“살 빼려면 아침 굶지 마세요”…공복에 먹으면 살 2배로 빠진다는 음식 5가지 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YX3RIYndNM2RHNnVQTjlvc1Z3RDUzc1RxUUdPR3U3WS1CNU1sQUt6TjBPeVZRbXl6ZWdZYVV1YUVYRlVkcmROZFY5Qk9BS1dVTEE?oc=5",
-          "desc": "",
-          "title_en": "“Don't Starve in the Morning to Lose Weight” … 5 Foods You'll Lose Twice as Much Weight on an Empty Stomach [Health Time]",
-          "title_ja": "「体重を減らすために朝に飢えてはいけない」…空腹時に2倍の体重を失う5つの食べ物[Health Time]",
-          "title_zh": "“不要为了减肥而在早上挨饿” …… 5种食物在空腹时会减掉两倍的体重[健康时间]"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "수익성 개선·해외영토 확장…“롯데웰푸드 주가 33% 더 간다” [오늘나온보고서]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVzItU1Q0VnFDZzYxZ3NEWWR4R0h2NjVrWEptTWJmbjYtRW5DQ21Rd3Vvc1hNYVYzOHUtQWZ1d1M5VXhqZzRJc0xFZWFKaVhqNmc?oc=5",
+          "desc": "",
+          "title_en": "Improving profitability and expanding overseas territory… “Lotte Well Food shares go up 33%” [Report released today]",
+          "title_ja": "収益性の向上と海外領土の拡大…「ロッテウェルフードの株価は33 ％上昇」【本日発表のレポート】",
+          "title_zh": "提升盈利能力，拓展海外市场…… “乐天Well Food股价上涨33%” [今日发布报告]"
+        },
+        {
           "title": "롯데웰푸드, 영등포공장 암모니아 누출 사과…\"재발 방지 만전\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZm9JM25sT1NvaVRaaWhvUGRjWTRnZ0hEUEFPUVBRNTM4WUxfQ3JxMGc1ak92bWJXOUpWdEhESG0wZjJxTW9wTk5nUDNvaG1WLUE?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Apologizes for Ammonia Leak at Yeongdeungpo Plant... \"Recurrence Prevention Complete\"",
           "title_ja": "ロッテウェルフード、永登浦工場でアンモニア漏れ謝罪…「再発防止完了」",
           "title_zh": "乐天威尔食品为永登浦工厂的氨泄漏道歉... “防复发完成”"
-        },
-        {
-          "title": "‘빼빼로’, ‘초코파이’ 필수소비재도 관심···“롯데웰푸드, 주가 상승여력 32% 달해”[오늘나온보고서]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVzItU1Q0VnFDZzYxZ3NEWWR4R0h2NjVrWEptTWJmbjYtRW5DQ21Rd3Vvc1hNYVYzOHUtQWZ1d1M5VXhqZzRJc0xFZWFKaVhqNmc?oc=5",
-          "desc": "",
-          "title_en": "‘Out of the box’, ‘chocolate pie’ essential consumer goods are also interested · · · “Lotte Well Food has a 32% increase in stock price capacity” [Report released today]",
-          "title_ja": "「箱から出して」、「チョコレートパイ」の必需品にも興味があります・・・「ロッテウェルフードは在庫容量が32 ％増加しています」【本日発表のレポート】",
-          "title_zh": "“开箱即用” ， “巧克力馅饼”必需品也很感兴趣· · · “乐天健康食品的库存量增加了32 ％” [今日发布的报告]"
         },
         {
           "title": "플라워 푸드, 2분기 매출 11억9300만 달러..전년비 4% 감소",
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "“세포 배양해서 만든 의성 한우”…한국 바이오푸드의 혁신",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zbldfc2FSV2dtZGxmWW9ONTJrUExSTGNvek5VTG9mcFExSXJ5Qkd5SktZY3cxbEVDa1JBSWZCc0tUVlZBaENzcERzelZucmZpYXpacnlpMA?oc=5",
+          "desc": "",
+          "title_en": "“Wooseong Hanwoo made by culturing cells” … Innovation of Korean biofoods",
+          "title_ja": "「Wooseong Hanwoo made by culturing cells」…韓国のバイオフードの革新",
+          "title_zh": "“培养细胞制成的Wooseong Hanwoo” …韩国生物食品的创新"
+        },
+        {
           "title": "세포의 청소 시스템 돕는 여름 보양식은?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kajFHaUpQWUNpWEtVR1hGczlEQ0QybXExeEhrRGk2N0k4OUpFcXo0aXZrYWdYMDRXUlE5Z1BiRFVZdW9zSDdnVWEtWTZlb2E0ekRtY0xqYw?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
           "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
           "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
-        },
-        {
-          "title": "“접수 후 3분 이내 제공”…스타벅스, ‘패스트 서브’ 강화",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwVG1rZEViSExacHBWRVhhM0NEM2trYWJxdldMUGgtS3BtMzRGOV9Gc2ZNWmhTSy1sbFBjWENpalB6RzJaaWNZZm5zLWJYMnJ1OXRHTlBjQQ?oc=5",
-          "desc": "",
-          "title_en": "“Served within 3 minutes of receipt” … Starbucks strengthens‘ Fast Serve ’",
-          "title_ja": "「受け取ってから3分以内に提供」…スターバックスが「ファストサーブ」を強化",
-          "title_zh": "“收到后3分钟内送达” ……星巴克加强了“快餐”"
         }
       ]
     }
