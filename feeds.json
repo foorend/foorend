@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T01:18:07Z",
+  "lastUpdated": "2026-08-21T03:50:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
         },
         {
-          "title": "\"삼계탕은 옛말\"…'복날' 불티나게 팔린 음식 뭐길래 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jbFpIbjg3dUktRUtLT3czd3RnOXVteWJUY3ZnZVNnZGU3eEo1cGZRU0xYUE14VFpIalg4QWstenJlc1ljc3RWZjd0eWsyZHVvNGN0aFVSMzIwUQ?oc=5",
-          "desc": "",
-          "title_en": "\"Samgyetang is an old saying\" … 'Blessing Day' What is the food that was sold fiercely? [Trend +]",
-          "title_ja": "「Samgyetangは古いことわざです」…「祝福の日」激しく売られた食べ物は何ですか？ [Trend +]",
-          "title_zh": "“Samgyetang是一句古老的谚语” …… '祝福日'畅销的食物是什么？ [趋势+]"
-        },
-        {
           "title": "서울 양평동 롯데웰푸드 공장서 암모니아 누출…인명피해 없어",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wOHhyTVFFS2lBM3JGWnAxMGdpRUU2YUd2ZWVmSWV4b25TcTNxRHhaT0g2R3p4NjQyZlZ4YlR6M0Q5aVpuWlJRamEyMFRjR3Q4dVFldzgzUTJFQQ?oc=5",
           "desc": "",
           "title_en": "Ammonia leak at Lotte Well Food factory in Yangpyeong-dong, Seoul… No casualties",
           "title_ja": "ソウル市楊坪洞のロッテウェルフード工場でアンモニア漏れ…死傷者なし",
           "title_zh": "首尔杨坪洞乐天健康食品工厂氨泄漏…无人员伤亡"
+        },
+        {
+          "title": "\"삼계탕은 옛말\"…'복날' 불티나게 팔린 음식 뭐길래 [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jbFpIbjg3dUktRUtLT3czd3RnOXVteWJUY3ZnZVNnZGU3eEo1cGZRU0xYUE14VFpIalg4QWstenJlc1ljc3RWZjd0eWsyZHVvNGN0aFVSMzIwUQ?oc=5",
+          "desc": "",
+          "title_en": "\"Samgyetang is an old saying\" … 'Blessing Day' What is the food that was sold fiercely? [Trend +]",
+          "title_ja": "「Samgyetangは古いことわざです」…「祝福の日」激しく売られた食べ物は何ですか？ [Trend +]",
+          "title_zh": "“Samgyetang是一句古老的谚语” …… '祝福日'畅销的食物是什么？ [趋势+]"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "롯데웰푸드, 영등포공장 암모니아 누출 사과…\"재발 방지 만전\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZm9JM25sT1NvaVRaaWhvUGRjWTRnZ0hEUEFPUVBRNTM4WUxfQ3JxMGc1ak92bWJXOUpWdEhESG0wZjJxTW9wTk5nUDNvaG1WLUE?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Apologizes for Ammonia Leak at Yeongdeungpo Plant... \"Recurrence Prevention Complete\"",
+          "title_ja": "ロッテウェルフード、永登浦工場でアンモニア漏れ謝罪…「再発防止完了」",
+          "title_zh": "乐天威尔食品为永登浦工厂的氨泄漏道歉... “防复发完成”"
+        },
+        {
           "title": "‘빼빼로’, ‘초코파이’ 필수소비재도 관심···“롯데웰푸드, 주가 상승여력 32% 달해”[오늘나온보고서]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVzItU1Q0VnFDZzYxZ3NEWWR4R0h2NjVrWEptTWJmbjYtRW5DQ21Rd3Vvc1hNYVYzOHUtQWZ1d1M5VXhqZzRJc0xFZWFKaVhqNmc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Flower Food, Q2 Revenue of $1,193M.. down 4% YoY",
           "title_ja": "フラワーフード、第2四半期の収益は11億9,300万ドル..前年同期比4 ％減",
           "title_zh": "花卉食品，第二季度收入为11.93亿美元，同比下降4%"
-        },
-        {
-          "title": "퍼포먼스 푸드 그룹, 이사회 10명 축소·매튜 플래니건 수석사외이사 선임",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wNDFOQ21CdC13WDhXUDRoVmZGVFYzZ1FDdEZlMkhmNzZEWFpxWkhFQTZPejVJQWVPX3QxVXh0WTJzaUNJZERtaExSdGVrYlBLT0E?oc=5",
-          "desc": "",
-          "title_en": "Performance Food Group Shrinks Board of Directors by 10, Appoints Matthew Flanigan as Senior Outside Director",
-          "title_ja": "Performance Food Group、取締役会を10人縮小、Matthew Flaniganを上級社外取締役に任命",
-          "title_zh": "Performance Food Group将董事会缩减10人，任命Matthew Flanigan为高级外部董事"
         }
       ]
     },
