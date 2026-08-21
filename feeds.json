@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T12:47:18Z",
+  "lastUpdated": "2026-08-21T15:33:11Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -174,12 +174,12 @@
           "title_zh": "乐天威尔食品永登浦工厂的氨泄漏…… “准备好预防再次发生的措施”"
         },
         {
-          "title": "“음식 냄새나니 화물 엘베 타라”...배민 ‘과도한 출입통제’ 배달지 실태조사",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFTHhJSnJZeE9ESkNNR0NwX1M1RlViSHkwV2FaMlM3M0NFakFpTlVJdHBMemxFOXlXMGktdTE2TXVhaUo1U2E2SVF4ZmU3WjZxQ3c?oc=5",
+          "title": "“호국보훈 정신 계승”…오뚜기, 국방부 유해발굴감식단 장병 위해 푸드트럭 운영",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Yd0NTSExhWmVHaTNBV0Z1cVhWVzNob3h3cDJFMGpOMG1jc1NWbVgxRU1LeVpXRG1vd05MVmJMa0pub3ZTem1QMklHdHl0djVMMGc?oc=5",
           "desc": "",
-          "title_en": "“Food smells, cargo Elvetara”... Baemin ‘Excessive Access Control’ Delivery Site Survey",
-          "title_ja": "「食べ物の臭い、貨物Elvetara」... Baemin「過度のアクセス制御」配達サイト調査",
-          "title_zh": "“食物气味，货物Elvetara”... Baemin “过度访问控制”派送现场调查"
+          "title_en": "“Succession of the spirit of Veterans Affairs” … Ottogi operates food trucks for soldiers of the Ministry of National Defense's Hazardous Excavation Team",
+          "title_ja": "「退役軍人問題の精神の継承」… Ottogiは、国防省の危険な発掘チームの兵士のためのフードトラックを運営しています",
+          "title_zh": "“退伍军人事务精神的传承” …… Ottogi为国防部危险挖掘小组的士兵经营食品卡车"
         }
       ]
     },
@@ -187,14 +187,6 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
-        {
-          "title": "관광음식문화협회, 제1회 전국 실버푸드 조리경연대회 개최",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40SjlyaWtJbVdxWDFXQmVtVE8ySm9qeFJKcTlOVGRjUm13b212SjlKWWhiemlzQmhZVWZPeTNsMm45V2JGNVE?oc=5",
-          "desc": "",
-          "title_en": "Tourism and Food Culture Association Held the 1st National Silver Food Cooking Competition",
-          "title_ja": "観光・食文化協会が第1回全国銀食料理コンクールを開催",
-          "title_zh": "旅游与美食文化协会举办首届全国银牌美食烹饪大赛"
-        },
         {
           "title": "수익성 개선·해외영토 확장…“롯데웰푸드 주가 33% 더 간다” [오늘나온보고서]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVzItU1Q0VnFDZzYxZ3NEWWR4R0h2NjVrWEptTWJmbjYtRW5DQ21Rd3Vvc1hNYVYzOHUtQWZ1d1M5VXhqZzRJc0xFZWFKaVhqNmc?oc=5",
@@ -210,6 +202,14 @@
           "title_en": "MK Pick | Propagate K-Foods and Korean Tourism Attractions in Thailand… Samyang Foods Participates in ‘Love Korea 2026’",
           "title_ja": "MKピック|タイでK - Foodsと韓国の観光スポットを広める… Samyang Foodsが「Love Korea 2026」に参加",
           "title_zh": "MK精选|在泰国宣传K-Foods和韩国旅游景点… Samyang Foods参加“Love Korea 2026”"
+        },
+        {
+          "title": "롯데웰푸드, 영등포공장 암모니아 누출 사과…\"재발 방지 만전\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZm9JM25sT1NvaVRaaWhvUGRjWTRnZ0hEUEFPUVBRNTM4WUxfQ3JxMGc1ak92bWJXOUpWdEhESG0wZjJxTW9wTk5nUDNvaG1WLUE?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Apologizes for Ammonia Leak at Yeongdeungpo Plant... \"Recurrence Prevention Complete\"",
+          "title_ja": "ロッテウェルフード、永登浦工場でアンモニア漏れ謝罪…「再発防止完了」",
+          "title_zh": "乐天威尔食品为永登浦工厂的氨泄漏道歉... “防复发完成”"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
         },
         {
-          "title": "“접수 후 3분 이내 제공”…스타벅스, ‘패스트 서브’ 강화",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwVG1rZEViSExacHBWRVhhM0NEM2trYWJxdldMUGgtS3BtMzRGOV9Gc2ZNWmhTSy1sbFBjWENpalB6RzJaaWNZZm5zLWJYMnJ1OXRHTlBjQQ?oc=5",
+          "title": "호두크림의 새로운 활용법…캘리포니아 호두협회, 세미나 개최",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ucGRlUjg0MW1vcTIxeE9lenlDdW1taWJGcnk5dERwWkhNQWxsaWJ2OWZ2UXcwc3RHU1YzNTNfLUxtZC1CUEZVLW1CQ3JKWTQ2M2k2ZTg2VQ?oc=5",
           "desc": "",
-          "title_en": "“Served within 3 minutes of receipt” … Starbucks strengthens‘ Fast Serve ’",
-          "title_ja": "「受け取ってから3分以内に提供」…スターバックスが「ファストサーブ」を強化",
-          "title_zh": "“收到后3分钟内送达” ……星巴克加强了“快餐”"
+          "title_en": "New Uses of Walnut Cream… California Walnut Association to Host Seminar",
+          "title_ja": "クルミクリームの新しい用途…カリフォルニアクルミ協会がセミナーを開催",
+          "title_zh": "核桃奶油的新用途……加州核桃协会举办研讨会"
         }
       ]
     }
