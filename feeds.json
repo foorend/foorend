@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T06:46:20Z",
+  "lastUpdated": "2026-08-21T09:36:09Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "InKind认为它已经解决了餐厅融资危机"
         },
         {
-          "title": "Franchisees have profit problems",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb245cXdwdkRzTjBjNVNZanZZWFFCVFV1S1BFYnlUWHo4VG93a05xX3lrbl9SbndsaFdzLTExVm5DVVpBQVFUdnJ1RXJGZ2ZOZjY2TFpka1F2Y1c0MjBHdGVpWk9GaEF0ZUszRVFBYXZlQ3RLU1NEYjl2ekxSR2owbmllQ2VqUQ?oc=5",
+          "title": "Wendy’s sudden decline may end with a go-private deal",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUxLRzRYYXdZbTd5bVJnNVFlN1FydGJ3OElZN2ZXSTNkMUt1emxQNHRaRmdwR2luWFZSMkxaNC1zWi1mWUFZbWxYWEYwRGxKMWo0dGxuZzkzZWZnZXdQYzRET0FiWWpHdE1Pc2NLNGwzMTdQZnpKVV9Jam9CZnlQbkprVFBISWxJSGF1Q0ZuMjlkRHVERF9j?oc=5",
           "desc": "",
-          "title_ko": "프랜차이즈 가맹점은 수익에 문제가 있습니다",
-          "title_ja": "加盟店に利益の問題がある",
-          "title_zh": "加盟商存在利润问题"
+          "title_ko": "웬디의 갑작스런 하락은 개인 거래로 끝날 수 있습니다.",
+          "title_ja": "ウェンディの突然の衰退は、非公開取引で終わるかもしれません",
+          "title_zh": "Wendy的突然下滑可能会以私有化交易结束"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "Samyang Foods宣布在泰国推出K-Foods......参加文化部举办的“韩国旅游节”"
         },
         {
+          "title": "롯데웰푸드 영등포공장서 암모니아 누출…“재발 방지 대책 마련”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mUExxMVA2bmZrTzAxckRyV0lPdy01WXVDdkZ0RDJMRDZhV2FPYkpsTjB0enI0ZmpGMnc0dnd5YkVJdzRPQmh5RVc2d3VUclpjN0tv?oc=5",
+          "desc": "",
+          "title_en": "Ammonia leak at Lotte Well Food Yeongdeungpo Plant… “Prepare measures to prevent recurrence”",
+          "title_ja": "ロッテウェルフード永登浦工場のアンモニア漏れ…「再発防止対策の準備」",
+          "title_zh": "乐天威尔食品永登浦工厂的氨泄漏…… “准备好预防再次发生的措施”"
+        },
+        {
           "title": "“음식 냄새나니 화물 엘베 타라”...배민 ‘과도한 출입통제’ 배달지 실태조사",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFTHhJSnJZeE9ESkNNR0NwX1M1RlViSHkwV2FaMlM3M0NFakFpTlVJdHBMemxFOXlXMGktdTE2TXVhaUo1U2E2SVF4ZmU3WjZxQ3c?oc=5",
           "desc": "",
           "title_en": "“Food smells, cargo Elvetara”... Baemin ‘Excessive Access Control’ Delivery Site Survey",
           "title_ja": "「食べ物の臭い、貨物Elvetara」... Baemin「過度のアクセス制御」配達サイト調査",
           "title_zh": "“食物气味，货物Elvetara”... Baemin “过度访问控制”派送现场调查"
-        },
-        {
-          "title": "한국식 사내카페, 해외 진출…현대그린푸드 멕시코에 첫 오픈",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sLVFlX0JTZ0p0M3RHWTBOVk9HWnZuX2l4NlhoTDdsMWlBUXlja2E0NGJjZ2lzUDdVVmZWWS1pLTZkM0dGMDZ3RFliUzA1OV9KWGc?oc=5",
-          "desc": "",
-          "title_en": "Korean in-house cafe goes overseas… Hyundai Green Food opens in Mexico for the first time",
-          "title_ja": "韓国の社内カフェが海外へ…現代グリーンフードがメキシコで初めてオープン",
-          "title_zh": "韩国店内咖啡馆走向海外…现代绿色食品首次在墨西哥开业"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "관광음식문화협회, 제1회 전국 실버푸드 조리경연대회 개최",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40SjlyaWtJbVdxWDFXQmVtVE8ySm9qeFJKcTlOVGRjUm13b212SjlKWWhiemlzQmhZVWZPeTNsMm45V2JGNVE?oc=5",
+          "desc": "",
+          "title_en": "Tourism and Food Culture Association Held the 1st National Silver Food Cooking Competition",
+          "title_ja": "観光・食文化協会が第1回全国銀食料理コンクールを開催",
+          "title_zh": "旅游与美食文化协会举办首届全国银牌美食烹饪大赛"
+        },
         {
           "title": "수익성 개선·해외영토 확장…“롯데웰푸드 주가 33% 더 간다” [오늘나온보고서]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVzItU1Q0VnFDZzYxZ3NEWWR4R0h2NjVrWEptTWJmbjYtRW5DQ21Rd3Vvc1hNYVYzOHUtQWZ1d1M5VXhqZzRJc0xFZWFKaVhqNmc?oc=5",
@@ -196,20 +204,12 @@
           "title_zh": "提升盈利能力，拓展海外市场…… “乐天Well Food股价上涨33%” [今日发布报告]"
         },
         {
-          "title": "롯데웰푸드, 영등포공장 암모니아 누출 사과…\"재발 방지 만전\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZm9JM25sT1NvaVRaaWhvUGRjWTRnZ0hEUEFPUVBRNTM4WUxfQ3JxMGc1ak92bWJXOUpWdEhESG0wZjJxTW9wTk5nUDNvaG1WLUE?oc=5",
+          "title": "MK Pick | 태국서 K-푸드와 한국 관광 매력 전파한다…삼양식품, ‘Love Korea 2026’ 참가",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yUW0xaWhkTHJQeTc4enpsWGZlTVptOF9ZemJFZGJLMXpNV1JRX1UtN3JiWERYNFByVlFTLVB4eWlHNF9mcHJFNWhuQTF2WVZk?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Apologizes for Ammonia Leak at Yeongdeungpo Plant... \"Recurrence Prevention Complete\"",
-          "title_ja": "ロッテウェルフード、永登浦工場でアンモニア漏れ謝罪…「再発防止完了」",
-          "title_zh": "乐天威尔食品为永登浦工厂的氨泄漏道歉... “防复发完成”"
-        },
-        {
-          "title": "플라워 푸드, 2분기 매출 11억9300만 달러..전년비 4% 감소",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQbzN2akhSUnl3Vk80b2djX2FkbTRrVHNabElWdDE0d2NYS2psYjY3SEx1YlMwRmZYRmJxUkh4S3k0OHVwWDRYQUg0c1JSMTdWclE?oc=5",
-          "desc": "",
-          "title_en": "Flower Food, Q2 Revenue of $1,193M.. down 4% YoY",
-          "title_ja": "フラワーフード、第2四半期の収益は11億9,300万ドル..前年同期比4 ％減",
-          "title_zh": "花卉食品，第二季度收入为11.93亿美元，同比下降4%"
+          "title_en": "MK Pick | Propagate K-Foods and Korean Tourism Attractions in Thailand… Samyang Foods Participates in ‘Love Korea 2026’",
+          "title_ja": "MKピック|タイでK - Foodsと韓国の観光スポットを広める… Samyang Foodsが「Love Korea 2026」に参加",
+          "title_zh": "MK精选|在泰国宣传K-Foods和韩国旅游景点… Samyang Foods参加“Love Korea 2026”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "“培养细胞制成的Wooseong Hanwoo” …韩国生物食品的创新"
         },
         {
-          "title": "세포의 청소 시스템 돕는 여름 보양식은?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kajFHaUpQWUNpWEtVR1hGczlEQ0QybXExeEhrRGk2N0k4OUpFcXo0aXZrYWdYMDRXUlE5Z1BiRFVZdW9zSDdnVWEtWTZlb2E0ekRtY0xqYw?oc=5",
-          "desc": "",
-          "title_en": "What is the summer treatment to help the cleaning system of the cells?",
-          "title_ja": "セルのクリーニングシステムに役立つ夏のトリートメントは何ですか？",
-          "title_zh": "什么是夏季护理，以帮助细胞的清洁系统？"
-        },
-        {
           "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
           "desc": "",
           "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
           "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
           "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
+        },
+        {
+          "title": "“접수 후 3분 이내 제공”…스타벅스, ‘패스트 서브’ 강화",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwVG1rZEViSExacHBWRVhhM0NEM2trYWJxdldMUGgtS3BtMzRGOV9Gc2ZNWmhTSy1sbFBjWENpalB6RzJaaWNZZm5zLWJYMnJ1OXRHTlBjQQ?oc=5",
+          "desc": "",
+          "title_en": "“Served within 3 minutes of receipt” … Starbucks strengthens‘ Fast Serve ’",
+          "title_ja": "「受け取ってから3分以内に提供」…スターバックスが「ファストサーブ」を強化",
+          "title_zh": "“收到后3分钟内送达” ……星巴克加强了“快餐”"
         }
       ]
     }
