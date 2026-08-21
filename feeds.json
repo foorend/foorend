@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T21:27:07Z",
+  "lastUpdated": "2026-08-21T01:18:07Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Tea Is So Hot Right Now",
+          "link": "https://www.eater.com/drinks/981280/modern-late-night-teahouse-trend-heytea-expansion",
+          "desc": "In Los Angeles, Tea at Shiloh describes itself as a “late night teahouse.” Here, visitors can reserve slots from 7 to 11 p.m. to sip unlimited amounts",
+          "title_ko": "지금 차가 너무 뜨거워요",
+          "title_ja": "お茶は今とても暑いです",
+          "title_zh": "茶现在很热"
+        },
+        {
+          "title": "Why Anthony Bourdain’s Editor Wanted ‘Tony’ to Be Darker",
+          "link": "https://www.eater.com/food-culture/981130/tony-bourdain-screenwriters-movie-interview",
+          "desc": "There are two types of biopics: those that unconventionally show, and those that exhaustively tell. Thank goodness that Tony, the highly anticipated A",
+          "title_ko": "Anthony Bourdain의 편집자가 ‘Tony‘ 가 더 어두워지기를 바랐던 이유",
+          "title_ja": "アンソニー・ボーデインの編集者が「トニー」をダークにしたかった理由",
+          "title_zh": "为什么Anthony Bourdain的编辑希望“Tony”更黑暗"
+        },
+        {
           "title": "The Dinner Party Has Left the Building",
           "link": "https://www.eater.com/food-culture/980064/earthwork-land-art-dinners",
           "desc": "A few months ago, a small group gathered for a picnic during a retreat in upstate New York. In lieu of sitting on a grassy knoll with a checkered blan",
           "title_ko": "저녁 식사 파티가 건물을 떠났습니다.",
           "title_ja": "ディナーパーティーが建物を離れました",
           "title_zh": "晚宴已经离开大楼"
-        },
-        {
-          "title": "Three Days of Tailgating, Cafecitos, and Football for a Miami Hurricanes Game Weekend",
-          "link": "https://www.eater.com/football-guides/979066/ultimate-u-miami-game-weekend-itinerary",
-          "desc": "The cries have been coming from Biscayne’s wondrous shores since last year’s College Football Playoff: The U is back! And after 20+ years of painful m",
-          "title_ko": "주말에 즐기는 마이애미 허리케인 게임 - 테일게이팅, 카페시토스, 축구 3일",
-          "title_ja": "マイアミのハリケーンズゲームウィークエンドのためのテールゲート、カフェシト、フットボール体験（ 3日間）",
-          "title_zh": "迈阿密飓风比赛周末的尾随、咖啡和足球三日游"
-        },
-        {
-          "title": "Three Days of Barbecue, Swimming Holes, and Football for a UT Longhorns Game Weekend",
-          "link": "https://www.eater.com/dining-out/980063/utlimate-ut-austin-game-weekend-itinerary",
-          "desc": "As cities go, Austin is a bit of a chameleon. In certain lights, it’s a tech town with a rapidly-expanding skyline and a steady supply of buzzy new ba",
-          "title_ko": "UT 롱혼 게임 주말을 위한 3일간의 바비큐, 수영 홀, 축구",
-          "title_ja": "バーベキュー、スイミングホール、フットボールを楽しむ3日間（ UTロングホーンズゲームの週末）",
-          "title_zh": "UT Longhorns比赛周末三日烧烤、游泳洞和足球之旅"
         }
       ]
     }
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"배달 음식 끊지 마세요\"…의사가 권한 '뜻밖의 식습관'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6T3BIaDR3SlktdW43VGI1aEZhazdsVF9zemlBbnZpOXZLd3dPbTVhbm1FSGpFb29vTmp6S0w5ZENEWS1iUllaN2R1ZzFrY29oX1dncVcwbzlWZw?oc=5",
+          "desc": "",
+          "title_en": "\"Don't hang up on delivery food\" … 'Unexpected eating habits' authorized by the doctor",
+          "title_ja": "「配達時に電話を切らないでください」…医師の承認を受けた「予期せぬ食習慣」",
+          "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
+        },
+        {
           "title": "\"삼계탕은 옛말\"…'복날' 불티나게 팔린 음식 뭐길래 [트렌드+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jbFpIbjg3dUktRUtLT3czd3RnOXVteWJUY3ZnZVNnZGU3eEo1cGZRU0xYUE14VFpIalg4QWstenJlc1ljc3RWZjd0eWsyZHVvNGN0aFVSMzIwUQ?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "“Samgyetang是一句古老的谚语” …… '祝福日'畅销的食物是什么？ [趋势+]"
         },
         {
-          "title": "\"매일 먹던 배달음식 끊지마세요\"…의사가 권한 뜻밖의 식습관",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6T3BIaDR3SlktdW43VGI1aEZhazdsVF9zemlBbnZpOXZLd3dPbTVhbm1FSGpFb29vTmp6S0w5ZENEWS1iUllaN2R1ZzFrY29oX1dncVcwbzlWZw?oc=5",
+          "title": "서울 양평동 롯데웰푸드 공장서 암모니아 누출…인명피해 없어",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wOHhyTVFFS2lBM3JGWnAxMGdpRUU2YUd2ZWVmSWV4b25TcTNxRHhaT0g2R3p4NjQyZlZ4YlR6M0Q5aVpuWlJRamEyMFRjR3Q4dVFldzgzUTJFQQ?oc=5",
           "desc": "",
-          "title_en": "\"Don't break the delivery food you used to eat every day\" … Unexpected eating habits authorized by the doctor",
-          "title_ja": "「毎日食べていた配達用の料理を壊さないでください」…医師の許可を得た予期せぬ食習慣",
-          "title_zh": "“不要破坏您过去每天吃的送餐服务” ……医生授权的意外饮食习惯"
-        },
-        {
-          "title": "스마트푸드네트웍스, 김희종 신임 대표 선임",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KWDJIanRpSTZ3UTBpV0E5QzRvTkFza2dmOTdRMjkwT085MnlMOXVsVDdoNUJBd3g2T0NoS09HaTZPcDUzYlpPTHFjcndiYVR5WWhDTU9nWlN6Zw?oc=5",
-          "desc": "",
-          "title_en": "Smart Food Networks Appoints Kim Hee-jong as New CEO",
-          "title_ja": "Smart Food Networks、Kim Hee - jongを新CEOに任命",
-          "title_zh": "Smart Food Networks任命Kim Hee-jong为新任首席执行官"
+          "title_en": "Ammonia leak at Lotte Well Food factory in Yangpyeong-dong, Seoul… No casualties",
+          "title_ja": "ソウル市楊坪洞のロッテウェルフード工場でアンモニア漏れ…死傷者なし",
+          "title_zh": "首尔杨坪洞乐天健康食品工厂氨泄漏…无人员伤亡"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "‘빼빼로’, ‘초코파이’ 필수소비재도 관심···“롯데웰푸드, 주가 상승여력 32% 달해”[오늘나온보고서]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVzItU1Q0VnFDZzYxZ3NEWWR4R0h2NjVrWEptTWJmbjYtRW5DQ21Rd3Vvc1hNYVYzOHUtQWZ1d1M5VXhqZzRJc0xFZWFKaVhqNmc?oc=5",
+          "desc": "",
+          "title_en": "‘Out of the box’, ‘chocolate pie’ essential consumer goods are also interested · · · “Lotte Well Food has a 32% increase in stock price capacity” [Report released today]",
+          "title_ja": "「箱から出して」、「チョコレートパイ」の必需品にも興味があります・・・「ロッテウェルフードは在庫容量が32 ％増加しています」【本日発表のレポート】",
+          "title_zh": "“开箱即用” ， “巧克力馅饼”必需品也很感兴趣· · · “乐天健康食品的库存量增加了32 ％” [今日发布的报告]"
+        },
+        {
           "title": "플라워 푸드, 2분기 매출 11억9300만 달러..전년비 4% 감소",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQbzN2akhSUnl3Vk80b2djX2FkbTRrVHNabElWdDE0d2NYS2psYjY3SEx1YlMwRmZYRmJxUkh4S3k0OHVwWDRYQUg0c1JSMTdWclE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Performance Food Group Shrinks Board of Directors by 10, Appoints Matthew Flanigan as Senior Outside Director",
           "title_ja": "Performance Food Group、取締役会を10人縮小、Matthew Flaniganを上級社外取締役に任命",
           "title_zh": "Performance Food Group将董事会缩减10人，任命Matthew Flanigan为高级外部董事"
-        },
-        {
-          "title": "“한국선 더 클 곳 없다”…미국 시장서 판 키우는 K푸드",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BWEE2QWpzMlMyNExMVVZIWG5WSFJUdDR6LWRBZUZpQW5BZHp0SkMtYjFhRkdBMFJVWDFDM3Y0czA3bGN0cWdIYTZUb3QyR2hEaUdVZA?oc=5",
-          "desc": "",
-          "title_en": "“There is no place bigger than the Korean line” … K Food Raising Pan in the US Market",
-          "title_ja": "「韓国のライン以上に大きな場所はありません」…米国市場でのKフードレイジングパン",
-          "title_zh": "“没有比韩国线更大的地方” ……美国市场的K Food Raising Pan"
         }
       ]
     },
