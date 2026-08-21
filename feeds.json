@@ -1,95 +1,20 @@
 {
-  "lastUpdated": "2026-08-21T15:33:11Z",
+  "lastUpdated": "2026-08-21T18:35:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "The loss of low-income diners cost McDonald’s a lot of money last quarter",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY0ZzM1d6QnMwUl9tTmNNZlpSY0hwZ0JBeU1KYjV6RDFzQm8xXzRhRnc1UG05QnE3dUhKdFVaXzhiUmFubGdrZm5WNzB3UlpPWEkxald4SU1kV2NEdlRYWFZQYy1BZ1diekRQeGdvSEhqamw5UnY0OU9QUnJpcjRjbzkxMkVnQTJtR3pocEhaT3NxMzBTT3poSHUzZnBGbHlPWXZ3d05LdVFteWdhZFRsYQ?oc=5",
-          "desc": "",
-          "title_ko": "저소득층 손님의 손실은 지난 분기에 맥도날드의 많은 돈을 요합니다.",
-          "title_ja": "低収入のダイナーの損失は、前四半期にマクドナルドに多額のお金を費やしました",
-          "title_zh": "上个季度，低收入用餐者的流失让麦当劳损失了很多钱"
-        },
-        {
-          "title": "InKind believes it has solved the restaurant financing crunch",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHhBZEpETmFreGV5aFB1bmFnLUs2a0FfZC1aTVpjUTlLOTJGLV8zYkFHWG96eXpLcnJBZ1BER0lqd3ZJQU90WXZXUUd3VGdtVHJuSnBhaG5MUDVZRnBycWwwMkVpbXAwTE9Jc0RxTWVMbmRld01tUTdXLVVSNUJfOVJQVGJtUFhpSnVzdlM5d1RzTlpzYWhOZVR4UGd4TTVmR3NTdW5RYVU?oc=5",
-          "desc": "",
-          "title_ko": "InKind는 레스토랑 자금 조달 문제를 해결했다고 생각합니다",
-          "title_ja": "InKindは、レストランの資金調達危機を解決したと考えています",
-          "title_zh": "InKind认为它已经解决了餐厅融资危机"
-        },
-        {
-          "title": "Wendy’s sudden decline may end with a go-private deal",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUxLRzRYYXdZbTd5bVJnNVFlN1FydGJ3OElZN2ZXSTNkMUt1emxQNHRaRmdwR2luWFZSMkxaNC1zWi1mWUFZbWxYWEYwRGxKMWo0dGxuZzkzZWZnZXdQYzRET0FiWWpHdE1Pc2NLNGwzMTdQZnpKVV9Jam9CZnlQbkprVFBISWxJSGF1Q0ZuMjlkRHVERF9j?oc=5",
-          "desc": "",
-          "title_ko": "웬디의 갑작스런 하락은 개인 거래로 끝날 수 있습니다.",
-          "title_ja": "ウェンディの突然の衰退は、非公開取引で終わるかもしれません",
-          "title_zh": "Wendy的突然下滑可能会以私有化交易结束"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": [
-        {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
-          "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOENiSW9IR2xIaG9BNkhpYnhEWTNmNVQ1VEhkXzh4a2Z3bWZ5a1UwSDY1Q1RUU0pPZUV2WDZBazJHSUNnTVNuWE02VlZLYVY0RTNGWVpmVl9PWjVrYUpNLXBrM0JMMWlrblZVanlYWEhzdFBycVp6Sml4R2NrTTd0MTJtejNZZw?oc=5",
-          "desc": "",
-          "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
-          "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
-          "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        }
-      ]
+      "items": []
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": [
-        {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
-          "desc": "",
-          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
-          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        }
-      ]
+      "items": []
     },
     "eater": {
       "label": "Eater",
@@ -126,122 +51,22 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "\"배달 음식 끊지 마세요\"…의사가 권한 '뜻밖의 식습관'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6T3BIaDR3SlktdW43VGI1aEZhazdsVF9zemlBbnZpOXZLd3dPbTVhbm1FSGpFb29vTmp6S0w5ZENEWS1iUllaN2R1ZzFrY29oX1dncVcwbzlWZw?oc=5",
-          "desc": "",
-          "title_en": "\"Don't hang up on delivery food\" … 'Unexpected eating habits' authorized by the doctor",
-          "title_ja": "「配達時に電話を切らないでください」…医師の承認を受けた「予期せぬ食習慣」",
-          "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
-        },
-        {
-          "title": "서울 양평동 롯데웰푸드 공장서 암모니아 누출…인명피해 없어",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wOHhyTVFFS2lBM3JGWnAxMGdpRUU2YUd2ZWVmSWV4b25TcTNxRHhaT0g2R3p4NjQyZlZ4YlR6M0Q5aVpuWlJRamEyMFRjR3Q4dVFldzgzUTJFQQ?oc=5",
-          "desc": "",
-          "title_en": "Ammonia leak at Lotte Well Food factory in Yangpyeong-dong, Seoul… No casualties",
-          "title_ja": "ソウル市楊坪洞のロッテウェルフード工場でアンモニア漏れ…死傷者なし",
-          "title_zh": "首尔杨坪洞乐天健康食品工厂氨泄漏…无人员伤亡"
-        },
-        {
-          "title": "롯데웰푸드, 영등포 공장 암모니아 누출 사과",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13LVRvM0dhOF90bTAwTDhuSzNpaHZ4M2hESE1TSG1iX2w5Vkk3aFNXTDg3S2ZEc3VScm82Q0VzX1pRRmJpMXB6X3lmNVVtbzdDQS1BX2FUT3lzZw?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Apologizes for Ammonia Leak at Yeongdeungpo Plant",
-          "title_ja": "ロッテウェルフード、永登浦工場のアンモニア漏れについて謝罪",
-          "title_zh": "乐天Well Food为永登浦工厂的氨泄漏道歉"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": [
-        {
-          "title": "삼양식품, 태국서 K푸드 알린다…문체부 ‘한국 관광 페스티벌’ 참가",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwM3VueEcyTWdWS21oblVBZ2huZWRRMzFhYUE3eWFScy1lQUt1QWw4YWI3WWY2VTFDVWQwOGMtcjVOcExQWGRVbnc4bmRjUUtuSEE?oc=5",
-          "desc": "",
-          "title_en": "Samyang Foods Announces K-Foods in Thailand… Participated in ‘Korea Tourism Festival‘ by Ministry of Culture and Culture",
-          "title_ja": "Samyang FoodsがタイでK - Foodsを発表…文化部主催の「韓国観光フェスティバル」に参加",
-          "title_zh": "Samyang Foods宣布在泰国推出K-Foods......参加文化部举办的“韩国旅游节”"
-        },
-        {
-          "title": "롯데웰푸드 영등포공장서 암모니아 누출…“재발 방지 대책 마련”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mUExxMVA2bmZrTzAxckRyV0lPdy01WXVDdkZ0RDJMRDZhV2FPYkpsTjB0enI0ZmpGMnc0dnd5YkVJdzRPQmh5RVc2d3VUclpjN0tv?oc=5",
-          "desc": "",
-          "title_en": "Ammonia leak at Lotte Well Food Yeongdeungpo Plant… “Prepare measures to prevent recurrence”",
-          "title_ja": "ロッテウェルフード永登浦工場のアンモニア漏れ…「再発防止対策の準備」",
-          "title_zh": "乐天威尔食品永登浦工厂的氨泄漏…… “准备好预防再次发生的措施”"
-        },
-        {
-          "title": "“호국보훈 정신 계승”…오뚜기, 국방부 유해발굴감식단 장병 위해 푸드트럭 운영",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Yd0NTSExhWmVHaTNBV0Z1cVhWVzNob3h3cDJFMGpOMG1jc1NWbVgxRU1LeVpXRG1vd05MVmJMa0pub3ZTem1QMklHdHl0djVMMGc?oc=5",
-          "desc": "",
-          "title_en": "“Succession of the spirit of Veterans Affairs” … Ottogi operates food trucks for soldiers of the Ministry of National Defense's Hazardous Excavation Team",
-          "title_ja": "「退役軍人問題の精神の継承」… Ottogiは、国防省の危険な発掘チームの兵士のためのフードトラックを運営しています",
-          "title_zh": "“退伍军人事务精神的传承” …… Ottogi为国防部危险挖掘小组的士兵经营食品卡车"
-        }
-      ]
+      "items": []
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": [
-        {
-          "title": "수익성 개선·해외영토 확장…“롯데웰푸드 주가 33% 더 간다” [오늘나온보고서]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVzItU1Q0VnFDZzYxZ3NEWWR4R0h2NjVrWEptTWJmbjYtRW5DQ21Rd3Vvc1hNYVYzOHUtQWZ1d1M5VXhqZzRJc0xFZWFKaVhqNmc?oc=5",
-          "desc": "",
-          "title_en": "Improving profitability and expanding overseas territory… “Lotte Well Food shares go up 33%” [Report released today]",
-          "title_ja": "収益性の向上と海外領土の拡大…「ロッテウェルフードの株価は33 ％上昇」【本日発表のレポート】",
-          "title_zh": "提升盈利能力，拓展海外市场…… “乐天Well Food股价上涨33%” [今日发布报告]"
-        },
-        {
-          "title": "MK Pick | 태국서 K-푸드와 한국 관광 매력 전파한다…삼양식품, ‘Love Korea 2026’ 참가",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yUW0xaWhkTHJQeTc4enpsWGZlTVptOF9ZemJFZGJLMXpNV1JRX1UtN3JiWERYNFByVlFTLVB4eWlHNF9mcHJFNWhuQTF2WVZk?oc=5",
-          "desc": "",
-          "title_en": "MK Pick | Propagate K-Foods and Korean Tourism Attractions in Thailand… Samyang Foods Participates in ‘Love Korea 2026’",
-          "title_ja": "MKピック|タイでK - Foodsと韓国の観光スポットを広める… Samyang Foodsが「Love Korea 2026」に参加",
-          "title_zh": "MK精选|在泰国宣传K-Foods和韩国旅游景点… Samyang Foods参加“Love Korea 2026”"
-        },
-        {
-          "title": "롯데웰푸드, 영등포공장 암모니아 누출 사과…\"재발 방지 만전\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZm9JM25sT1NvaVRaaWhvUGRjWTRnZ0hEUEFPUVBRNTM4WUxfQ3JxMGc1ak92bWJXOUpWdEhESG0wZjJxTW9wTk5nUDNvaG1WLUE?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Apologizes for Ammonia Leak at Yeongdeungpo Plant... \"Recurrence Prevention Complete\"",
-          "title_ja": "ロッテウェルフード、永登浦工場でアンモニア漏れ謝罪…「再発防止完了」",
-          "title_zh": "乐天威尔食品为永登浦工厂的氨泄漏道歉... “防复发完成”"
-        }
-      ]
+      "items": []
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "“세포 배양해서 만든 의성 한우”…한국 바이오푸드의 혁신",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zbldfc2FSV2dtZGxmWW9ONTJrUExSTGNvek5VTG9mcFExSXJ5Qkd5SktZY3cxbEVDa1JBSWZCc0tUVlZBaENzcERzelZucmZpYXpacnlpMA?oc=5",
-          "desc": "",
-          "title_en": "“Wooseong Hanwoo made by culturing cells” … Innovation of Korean biofoods",
-          "title_ja": "「Wooseong Hanwoo made by culturing cells」…韓国のバイオフードの革新",
-          "title_zh": "“培养细胞制成的Wooseong Hanwoo” …韩国生物食品的创新"
-        },
-        {
-          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
-          "desc": "",
-          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
-          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
-          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
-        },
-        {
-          "title": "호두크림의 새로운 활용법…캘리포니아 호두협회, 세미나 개최",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ucGRlUjg0MW1vcTIxeE9lenlDdW1taWJGcnk5dERwWkhNQWxsaWJ2OWZ2UXcwc3RHU1YzNTNfLUxtZC1CUEZVLW1CQ3JKWTQ2M2k2ZTg2VQ?oc=5",
-          "desc": "",
-          "title_en": "New Uses of Walnut Cream… California Walnut Association to Host Seminar",
-          "title_ja": "クルミクリームの新しい用途…カリフォルニアクルミ協会がセミナーを開催",
-          "title_zh": "核桃奶油的新用途……加州核桃协会举办研讨会"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
