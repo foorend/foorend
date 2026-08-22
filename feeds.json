@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T21:24:10Z",
+  "lastUpdated": "2026-08-22T01:13:50Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,6 +66,14 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
+          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+        },
+        {
           "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
           "desc": "",
@@ -80,14 +88,6 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
-          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
-          "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "MK Pick | 태국서 K-푸드와 한국 관광 매력 전파한다…삼양식품, ‘Love Korea 2026’ 참가",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yUW0xaWhkTHJQeTc4enpsWGZlTVptOF9ZemJFZGJLMXpNV1JRX1UtN3JiWERYNFByVlFTLVB4eWlHNF9mcHJFNWhuQTF2WVZk?oc=5",
+          "desc": "",
+          "title_en": "MK Pick | Propagate K-Foods and Korean Tourism Attractions in Thailand… Samyang Foods Participates in ‘Love Korea 2026’",
+          "title_ja": "MKピック|タイでK - Foodsと韓国の観光スポットを広める… Samyang Foodsが「Love Korea 2026」に参加",
+          "title_zh": "MK精选|在泰国宣传K-Foods和韩国旅游景点… Samyang Foods参加“Love Korea 2026”"
+        },
+        {
           "title": "관광음식문화협회, 제1회 전국 실버푸드 조리경연대회 개최",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40SjlyaWtJbVdxWDFXQmVtVE8ySm9qeFJKcTlOVGRjUm13b212SjlKWWhiemlzQmhZVWZPeTNsMm45V2JGNVE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Improving profitability and expanding overseas territory… “Lotte Well Food shares go up 33%” [Report released today]",
           "title_ja": "収益性の向上と海外領土の拡大…「ロッテウェルフードの株価は33 ％上昇」【本日発表のレポート】",
           "title_zh": "提升盈利能力，拓展海外市场…… “乐天Well Food股价上涨33%” [今日发布报告]"
-        },
-        {
-          "title": "MK Pick | 태국서 K-푸드와 한국 관광 매력 전파한다…삼양식품, ‘Love Korea 2026’ 참가",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yUW0xaWhkTHJQeTc4enpsWGZlTVptOF9ZemJFZGJLMXpNV1JRX1UtN3JiWERYNFByVlFTLVB4eWlHNF9mcHJFNWhuQTF2WVZk?oc=5",
-          "desc": "",
-          "title_en": "MK Pick | Propagate K-Foods and Korean Tourism Attractions in Thailand… Samyang Foods Participates in ‘Love Korea 2026’",
-          "title_ja": "MKピック|タイでK - Foodsと韓国の観光スポットを広める… Samyang Foodsが「Love Korea 2026」に参加",
-          "title_zh": "MK精选|在泰国宣传K-Foods和韩国旅游景点… Samyang Foods参加“Love Korea 2026”"
         }
       ]
     },
