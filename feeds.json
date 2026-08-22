@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T15:20:13Z",
+  "lastUpdated": "2026-08-22T18:30:08Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,6 +66,14 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
+          "title": "Lettuce. Blueberries. Eggs. Jalapeños. Why are there so many food-safety scares this summer?",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd193TC1TSlpwSkZjZ1pOdVl6OTdndnF3U1hXbUI4VmZ1aEtNdHJpQi12WDBrX1l2OVFTNzJnVjNVZHBFZXU0UDk3Y2JBLUtGUGV1QlBRZU4xLVlpSzBCX1pNWDdGbk5RYk1xamJNRXQtbnBtcTNLU2NibTVSMXloZEpweVRkVW5fNk1Hbl9ObU5EVFMxV1dUVA?oc=5",
+          "desc": "",
+          "title_ko": "양상추. 블루베리. 계란. 할라피뇨. 이번 여름에는 왜 이렇게 식품 안전에 대한 두려움이 많을까요?",
+          "title_ja": "レタス、ブルーベリー、卵、ハラペーニョ。今年の夏、食品の安全性が非常に脅かされているのはなぜですか？",
+          "title_zh": "生菜、蓝莓、鸡蛋、墨西哥辣椒为什么今年夏天有这么多食品安全恐慌？"
+        },
+        {
           "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
           "desc": "",
@@ -80,14 +88,6 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
-          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
-          "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "首尔杨坪洞乐天健康食品工厂氨泄漏…无人员伤亡"
         },
         {
-          "title": "고속도로 휴게소 음식값",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlZpM0pQWUFEMERZeTBPVWhrQ2pBN0ZfekxhWWoxdk1QYjlQOW91aFpKWk93SkV3OTYyMlEyVmhmX1c0OUw4cldmZG5fTnFWeU1zZmhfMXpzTnNtNnhPVnRPWVFoN05iZWtlV1ZpX1RSaUk5QUlyTWgzVHdza3RUd0J0ZmxlOWs?oc=5",
+          "title": "\"삼계탕은 옛말\"…'복날' 불티나게 팔린 음식 뭐길래 [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jbFpIbjg3dUktRUtLT3czd3RnOXVteWJUY3ZnZVNnZGU3eEo1cGZRU0xYUE14VFpIalg4QWstenJlc1ljc3RWZjd0eWsyZHVvNGN0aFVSMzIwUQ?oc=5",
           "desc": "",
-          "title_en": "Highway rest area food prices",
-          "title_ja": "ハイウェイ休憩エリアの食品価格",
-          "title_zh": "公路休息区食品价格"
+          "title_en": "\"Samgyetang is an old saying\" … 'Blessing Day' What is the food that was sold fiercely? [Trend +]",
+          "title_ja": "「Samgyetangは古いことわざです」…「祝福の日」激しく売られた食べ物は何ですか？ [Trend +]",
+          "title_zh": "“Samgyetang是一句古老的谚语” …… '祝福日'畅销的食物是什么？ [趋势+]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "MK精选|在泰国宣传K-Foods和韩国旅游景点… Samyang Foods参加“Love Korea 2026”"
         },
         {
-          "title": "관광음식문화협회, 제1회 전국 실버푸드 조리경연대회 개최",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40SjlyaWtJbVdxWDFXQmVtVE8ySm9qeFJKcTlOVGRjUm13b212SjlKWWhiemlzQmhZVWZPeTNsMm45V2JGNVE?oc=5",
-          "desc": "",
-          "title_en": "Tourism and Food Culture Association Held the 1st National Silver Food Cooking Competition",
-          "title_ja": "観光・食文化協会が第1回全国銀食料理コンクールを開催",
-          "title_zh": "旅游与美食文化协会举办首届全国银牌美食烹饪大赛"
-        },
-        {
           "title": "‘불후’ 손태진 이상형은 신동엽? “골프·새로운 음식 좋아하는 사람”",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15b1NjTWZBdUZ4SndYSVVXbklTeWM0dVZLQlVzSnF1UHEtMXNDR3hZQmM2LXlyc21abFVVSUdqSl9WSkJzakE?oc=5",
           "desc": "",
           "title_en": "Is‘ Unfinished ’Son Tae-jin Lee Sang-hyung Shin Dong-yeop? “A person who likes golf and new food”",
           "title_ja": "「未完」のソン・テジン、イ・サンヒョン、シン・ドンヨプですか？「ゴルフや新しい食べ物が好きな人」",
           "title_zh": "「未完成」是Son Tae-jin Lee Sang-hyung Shin Dong-yeop吗？ “喜欢高尔夫和新食物的人”"
+        },
+        {
+          "title": "관광음식문화협회, 제1회 전국 실버푸드 조리경연대회 개최",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40SjlyaWtJbVdxWDFXQmVtVE8ySm9qeFJKcTlOVGRjUm13b212SjlKWWhiemlzQmhZVWZPeTNsMm45V2JGNVE?oc=5",
+          "desc": "",
+          "title_en": "Tourism and Food Culture Association Held the 1st National Silver Food Cooking Competition",
+          "title_ja": "観光・食文化協会が第1回全国銀食料理コンクールを開催",
+          "title_zh": "旅游与美食文化协会举办首届全国银牌美食烹饪大赛"
         }
       ]
     },
