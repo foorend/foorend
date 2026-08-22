@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T03:41:13Z",
+  "lastUpdated": "2026-08-22T06:39:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "上个季度，低收入用餐者的流失让麦当劳损失了很多钱"
         },
         {
+          "title": "'Vibe coding' is changing the build-or-buy debate for restaurants",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmtkc2VoV3QxU0xZTUE3UVVxbElMa2Nkd1ZKVVVINDRLbHo1eEtEbXFqQ3R6Q2hmOXQzNkxqMGJyYlJIOEJVS3luSUpyVkN0N2Z3dmRicWI2dXlfOGMyUk9NN2RVdlplbmxURkRjbWw2Nl8xbENObWUyY2pWZWMwOER3dUtRR0drSHJzNXN3WDVuZ3hTTHpWMnk1YXEyZTd5Q0E?oc=5",
+          "desc": "",
+          "title_ko": "'바이브 코딩 (Vibe coding)' 은 레스토랑에 대한 빌드 또는 바이 (build-or-buy) 논쟁을 변화시키고",
+          "title_ja": "「雰囲気コーディング」は、レストランの構築または購入の議論を変えています",
+          "title_zh": "“氛围编码”正在改变餐厅的构建或购买争论"
+        },
+        {
           "title": "Franchisees have profit problems",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb245cXdwdkRzTjBjNVNZanZZWFFCVFV1S1BFYnlUWHo4VG93a05xX3lrbl9SbndsaFdzLTExVm5DVVpBQVFUdnJ1RXJGZ2ZOZjY2TFpka1F2Y1c0MjBHdGVpWk9GaEF0ZUszRVFBYXZlQ3RLU1NEYjl2ekxSR2owbmllQ2VqUQ?oc=5",
           "desc": "",
           "title_ko": "프랜차이즈 가맹점은 수익에 문제가 있습니다",
           "title_ja": "加盟店に利益の問題がある",
           "title_zh": "加盟商存在利润问题"
-        },
-        {
-          "title": "Subway to its franchisees: Extend hours, and don't close stores",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM056cW1va0lwY2NuUzNCekxqTkZfVTc3OF9aYnJSZ3d0NFNWY3VvTEd3Um9LcGxrc1QyUmhFOG0zSzNXbk5PRWNuaXFra2h4Z0VHVjFmNldJOWNMbG9zX01LX1B2emhsUjJudVFwOG8wN1lCX1hFYnRIMURIS0xRTDFYTG5SYXZkQ0pSMy1GLXFMV3ZsUHNuRTk3M3o3M2lfa2c?oc=5",
-          "desc": "",
-          "title_ko": "가맹점까지 지하철로 이동: 영업시간을 연장하고 매장을 닫지 마세요.",
-          "title_ja": "加盟店へのサブウェイ：営業時間を延長し、店舗を閉鎖しない",
-          "title_zh": "乘坐地铁前往加盟店：延长营业时间，不要关闭商店"
         }
       ]
     },
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "삼양식품, 태국서 K푸드 알린다…문체부 ‘한국 관광 페스티벌’ 참가",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwM3VueEcyTWdWS21oblVBZ2huZWRRMzFhYUE3eWFScy1lQUt1QWw4YWI3WWY2VTFDVWQwOGMtcjVOcExQWGRVbnc4bmRjUUtuSEE?oc=5",
-          "desc": "",
-          "title_en": "Samyang Foods Announces K-Foods in Thailand… Participated in ‘Korea Tourism Festival‘ by Ministry of Culture and Culture",
-          "title_ja": "Samyang FoodsがタイでK - Foodsを発表…文化部主催の「韓国観光フェスティバル」に参加",
-          "title_zh": "Samyang Foods宣布在泰国推出K-Foods......参加文化部举办的“韩国旅游节”"
-        },
-        {
           "title": "롯데웰푸드 영등포공장서 암모니아 누출…“재발 방지 대책 마련”",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mUExxMVA2bmZrTzAxckRyV0lPdy01WXVDdkZ0RDJMRDZhV2FPYkpsTjB0enI0ZmpGMnc0dnd5YkVJdzRPQmh5RVc2d3VUclpjN0tv?oc=5",
           "desc": "",
           "title_en": "Ammonia leak at Lotte Well Food Yeongdeungpo Plant… “Prepare measures to prevent recurrence”",
           "title_ja": "ロッテウェルフード永登浦工場のアンモニア漏れ…「再発防止対策の準備」",
           "title_zh": "乐天威尔食品永登浦工厂的氨泄漏…… “准备好预防再次发生的措施”"
+        },
+        {
+          "title": "삼양식품, 태국서 K푸드 알린다…문체부 ‘한국 관광 페스티벌’ 참가",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwM3VueEcyTWdWS21oblVBZ2huZWRRMzFhYUE3eWFScy1lQUt1QWw4YWI3WWY2VTFDVWQwOGMtcjVOcExQWGRVbnc4bmRjUUtuSEE?oc=5",
+          "desc": "",
+          "title_en": "Samyang Foods Announces K-Foods in Thailand… Participated in ‘Korea Tourism Festival‘ by Ministry of Culture and Culture",
+          "title_ja": "Samyang FoodsがタイでK - Foodsを発表…文化部主催の「韓国観光フェスティバル」に参加",
+          "title_zh": "Samyang Foods宣布在泰国推出K-Foods......参加文化部举办的“韩国旅游节”"
         },
         {
           "title": "“호국보훈 정신 계승”…오뚜기, 국방부 유해발굴감식단 장병 위해 푸드트럭 운영",
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "관광음식문화협회, 제1회 전국 실버푸드 조리경연대회 개최",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40SjlyaWtJbVdxWDFXQmVtVE8ySm9qeFJKcTlOVGRjUm13b212SjlKWWhiemlzQmhZVWZPeTNsMm45V2JGNVE?oc=5",
-          "desc": "",
-          "title_en": "Tourism and Food Culture Association Held the 1st National Silver Food Cooking Competition",
-          "title_ja": "観光・食文化協会が第1回全国銀食料理コンクールを開催",
-          "title_zh": "旅游与美食文化协会举办首届全国银牌美食烹饪大赛"
-        },
-        {
           "title": "MK Pick | 태국서 K-푸드와 한국 관광 매력 전파한다…삼양식품, ‘Love Korea 2026’ 참가",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yUW0xaWhkTHJQeTc4enpsWGZlTVptOF9ZemJFZGJLMXpNV1JRX1UtN3JiWERYNFByVlFTLVB4eWlHNF9mcHJFNWhuQTF2WVZk?oc=5",
           "desc": "",
           "title_en": "MK Pick | Propagate K-Foods and Korean Tourism Attractions in Thailand… Samyang Foods Participates in ‘Love Korea 2026’",
           "title_ja": "MKピック|タイでK - Foodsと韓国の観光スポットを広める… Samyang Foodsが「Love Korea 2026」に参加",
           "title_zh": "MK精选|在泰国宣传K-Foods和韩国旅游景点… Samyang Foods参加“Love Korea 2026”"
+        },
+        {
+          "title": "관광음식문화협회, 제1회 전국 실버푸드 조리경연대회 개최",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40SjlyaWtJbVdxWDFXQmVtVE8ySm9qeFJKcTlOVGRjUm13b212SjlKWWhiemlzQmhZVWZPeTNsMm45V2JGNVE?oc=5",
+          "desc": "",
+          "title_en": "Tourism and Food Culture Association Held the 1st National Silver Food Cooking Competition",
+          "title_ja": "観光・食文化協会が第1回全国銀食料理コンクールを開催",
+          "title_zh": "旅游与美食文化协会举办首届全国银牌美食烹饪大赛"
         },
         {
           "title": "수익성 개선·해외영토 확장…“롯데웰푸드 주가 33% 더 간다” [오늘나온보고서]",
