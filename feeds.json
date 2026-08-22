@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T06:39:16Z",
+  "lastUpdated": "2026-08-22T09:25:48Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "롯데웰푸드 영등포공장서 암모니아 누출…“재발 방지 대책 마련”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mUExxMVA2bmZrTzAxckRyV0lPdy01WXVDdkZ0RDJMRDZhV2FPYkpsTjB0enI0ZmpGMnc0dnd5YkVJdzRPQmh5RVc2d3VUclpjN0tv?oc=5",
-          "desc": "",
-          "title_en": "Ammonia leak at Lotte Well Food Yeongdeungpo Plant… “Prepare measures to prevent recurrence”",
-          "title_ja": "ロッテウェルフード永登浦工場のアンモニア漏れ…「再発防止対策の準備」",
-          "title_zh": "乐天威尔食品永登浦工厂的氨泄漏…… “准备好预防再次发生的措施”"
-        },
-        {
           "title": "삼양식품, 태국서 K푸드 알린다…문체부 ‘한국 관광 페스티벌’ 참가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwM3VueEcyTWdWS21oblVBZ2huZWRRMzFhYUE3eWFScy1lQUt1QWw4YWI3WWY2VTFDVWQwOGMtcjVOcExQWGRVbnc4bmRjUUtuSEE?oc=5",
           "desc": "",
           "title_en": "Samyang Foods Announces K-Foods in Thailand… Participated in ‘Korea Tourism Festival‘ by Ministry of Culture and Culture",
           "title_ja": "Samyang FoodsがタイでK - Foodsを発表…文化部主催の「韓国観光フェスティバル」に参加",
           "title_zh": "Samyang Foods宣布在泰国推出K-Foods......参加文化部举办的“韩国旅游节”"
+        },
+        {
+          "title": "롯데웰푸드 영등포공장서 암모니아 누출…“재발 방지 대책 마련”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mUExxMVA2bmZrTzAxckRyV0lPdy01WXVDdkZ0RDJMRDZhV2FPYkpsTjB0enI0ZmpGMnc0dnd5YkVJdzRPQmh5RVc2d3VUclpjN0tv?oc=5",
+          "desc": "",
+          "title_en": "Ammonia leak at Lotte Well Food Yeongdeungpo Plant… “Prepare measures to prevent recurrence”",
+          "title_ja": "ロッテウェルフード永登浦工場のアンモニア漏れ…「再発防止対策の準備」",
+          "title_zh": "乐天威尔食品永登浦工厂的氨泄漏…… “准备好预防再次发生的措施”"
         },
         {
           "title": "“호국보훈 정신 계승”…오뚜기, 국방부 유해발굴감식단 장병 위해 푸드트럭 운영",
@@ -204,12 +204,12 @@
           "title_zh": "旅游与美食文化协会举办首届全国银牌美食烹饪大赛"
         },
         {
-          "title": "수익성 개선·해외영토 확장…“롯데웰푸드 주가 33% 더 간다” [오늘나온보고서]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVzItU1Q0VnFDZzYxZ3NEWWR4R0h2NjVrWEptTWJmbjYtRW5DQ21Rd3Vvc1hNYVYzOHUtQWZ1d1M5VXhqZzRJc0xFZWFKaVhqNmc?oc=5",
+          "title": "‘불후’ 손태진 이상형은 신동엽? “골프·새로운 음식 좋아하는 사람”",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15b1NjTWZBdUZ4SndYSVVXbklTeWM0dVZLQlVzSnF1UHEtMXNDR3hZQmM2LXlyc21abFVVSUdqSl9WSkJzakE?oc=5",
           "desc": "",
-          "title_en": "Improving profitability and expanding overseas territory… “Lotte Well Food shares go up 33%” [Report released today]",
-          "title_ja": "収益性の向上と海外領土の拡大…「ロッテウェルフードの株価は33 ％上昇」【本日発表のレポート】",
-          "title_zh": "提升盈利能力，拓展海外市场…… “乐天Well Food股价上涨33%” [今日发布报告]"
+          "title_en": "Is‘ Unfinished ’Son Tae-jin Lee Sang-hyung Shin Dong-yeop? “A person who likes golf and new food”",
+          "title_ja": "「未完」のソン・テジン、イ・サンヒョン、シン・ドンヨプですか？「ゴルフや新しい食べ物が好きな人」",
+          "title_zh": "「未完成」是Son Tae-jin Lee Sang-hyung Shin Dong-yeop吗？ “喜欢高尔夫和新食物的人”"
         }
       ]
     },
