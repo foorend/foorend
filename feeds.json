@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T01:13:50Z",
+  "lastUpdated": "2026-08-22T03:41:13Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -7,11 +7,19 @@
       "items": [
         {
           "title": "The loss of low-income diners cost McDonald’s a lot of money last quarter",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY0ZzM1d6QnMwUl9tTmNNZlpSY0hwZ0JBeU1KYjV6RDFzQm8xXzRhRnc1UG05QnE3dUhKdFVaXzhiUmFubGdrZm5WNzB3UlpPWEkxald4SU1kV2NEdlRYWFZQYy1BZ1diekRQeGdvSEhqamw5UnY0OU9QUnJpcjRjbzkxMkVnQTJtR3pocEhaT3NxMzBTT3poSHUzZnBGbHlPWXZ3d05LdVFteWdhZFRsYQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTk1taVFFbGViYWwtTXRQQ3NRTnJIZWxCc05xeFJzQ3FjanVadWczUkJmaDIwb2dkamlCYlFkT2NzM0N5TjdOOGZQNFFuWVhGcFktX0pPVF9OZ045Z3ZWRzVybFU2SGw0dWttRjNNaG5JX1NmMDE3aXpFTXdJcWVleEttOWh5emtRc3dTTXN3aDM3NXR1dll0VzFGT3dQUkVPU2hoWEdkbmtnclk?oc=5",
           "desc": "",
           "title_ko": "저소득층 손님의 손실은 지난 분기에 맥도날드의 많은 돈을 요합니다.",
           "title_ja": "低収入のダイナーの損失は、前四半期にマクドナルドに多額のお金を費やしました",
           "title_zh": "上个季度，低收入用餐者的流失让麦当劳损失了很多钱"
+        },
+        {
+          "title": "Franchisees have profit problems",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb245cXdwdkRzTjBjNVNZanZZWFFCVFV1S1BFYnlUWHo4VG93a05xX3lrbl9SbndsaFdzLTExVm5DVVpBQVFUdnJ1RXJGZ2ZOZjY2TFpka1F2Y1c0MjBHdGVpWk9GaEF0ZUszRVFBYXZlQ3RLU1NEYjl2ekxSR2owbmllQ2VqUQ?oc=5",
+          "desc": "",
+          "title_ko": "프랜차이즈 가맹점은 수익에 문제가 있습니다",
+          "title_ja": "加盟店に利益の問題がある",
+          "title_zh": "加盟商存在利润问题"
         },
         {
           "title": "Subway to its franchisees: Extend hours, and don't close stores",
@@ -20,14 +28,6 @@
           "title_ko": "가맹점까지 지하철로 이동: 영업시간을 연장하고 매장을 닫지 마세요.",
           "title_ja": "加盟店へのサブウェイ：営業時間を延長し、店舗を閉鎖しない",
           "title_zh": "乘坐地铁前往加盟店：延长营业时间，不要关闭商店"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
           "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
+        },
+        {
+          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
+          "desc": "",
+          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
+          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
+          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "MK Pick | 태국서 K-푸드와 한국 관광 매력 전파한다…삼양식품, ‘Love Korea 2026’ 참가",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yUW0xaWhkTHJQeTc4enpsWGZlTVptOF9ZemJFZGJLMXpNV1JRX1UtN3JiWERYNFByVlFTLVB4eWlHNF9mcHJFNWhuQTF2WVZk?oc=5",
-          "desc": "",
-          "title_en": "MK Pick | Propagate K-Foods and Korean Tourism Attractions in Thailand… Samyang Foods Participates in ‘Love Korea 2026’",
-          "title_ja": "MKピック|タイでK - Foodsと韓国の観光スポットを広める… Samyang Foodsが「Love Korea 2026」に参加",
-          "title_zh": "MK精选|在泰国宣传K-Foods和韩国旅游景点… Samyang Foods参加“Love Korea 2026”"
-        },
-        {
           "title": "관광음식문화협회, 제1회 전국 실버푸드 조리경연대회 개최",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40SjlyaWtJbVdxWDFXQmVtVE8ySm9qeFJKcTlOVGRjUm13b212SjlKWWhiemlzQmhZVWZPeTNsMm45V2JGNVE?oc=5",
           "desc": "",
           "title_en": "Tourism and Food Culture Association Held the 1st National Silver Food Cooking Competition",
           "title_ja": "観光・食文化協会が第1回全国銀食料理コンクールを開催",
           "title_zh": "旅游与美食文化协会举办首届全国银牌美食烹饪大赛"
+        },
+        {
+          "title": "MK Pick | 태국서 K-푸드와 한국 관광 매력 전파한다…삼양식품, ‘Love Korea 2026’ 참가",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yUW0xaWhkTHJQeTc4enpsWGZlTVptOF9ZemJFZGJLMXpNV1JRX1UtN3JiWERYNFByVlFTLVB4eWlHNF9mcHJFNWhuQTF2WVZk?oc=5",
+          "desc": "",
+          "title_en": "MK Pick | Propagate K-Foods and Korean Tourism Attractions in Thailand… Samyang Foods Participates in ‘Love Korea 2026’",
+          "title_ja": "MKピック|タイでK - Foodsと韓国の観光スポットを広める… Samyang Foodsが「Love Korea 2026」に参加",
+          "title_zh": "MK精选|在泰国宣传K-Foods和韩国旅游景点… Samyang Foods参加“Love Korea 2026”"
         },
         {
           "title": "수익성 개선·해외영토 확장…“롯데웰푸드 주가 33% 더 간다” [오늘나온보고서]",
