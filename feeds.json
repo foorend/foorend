@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T06:40:12Z",
+  "lastUpdated": "2026-08-23T09:27:20Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"배달 음식 끊지 마세요\"…의사가 권한 '뜻밖의 식습관'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6T3BIaDR3SlktdW43VGI1aEZhazdsVF9zemlBbnZpOXZLd3dPbTVhbm1FSGpFb29vTmp6S0w5ZENEWS1iUllaN2R1ZzFrY29oX1dncVcwbzlWZw?oc=5",
-          "desc": "",
-          "title_en": "\"Don't hang up on delivery food\" … 'Unexpected eating habits' authorized by the doctor",
-          "title_ja": "「配達時に電話を切らないでください」…医師の承認を受けた「予期せぬ食習慣」",
-          "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
-        },
-        {
           "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DWFVxRGJMeWJZTFBqS0tWcWtaNFZKNzZtMDlrN3hqOUFfS2dqRUpHYlhqSHpJY1lWa01LVWdIMDJ4dkg0TGJoNjV0a081Nkt5YjVaSGIwMmxlZw?oc=5",
           "desc": "",
           "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
           "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
           "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
+        },
+        {
+          "title": "\"배달 음식 끊지 마세요\"…의사가 권한 '뜻밖의 식습관'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6T3BIaDR3SlktdW43VGI1aEZhazdsVF9zemlBbnZpOXZLd3dPbTVhbm1FSGpFb29vTmp6S0w5ZENEWS1iUllaN2R1ZzFrY29oX1dncVcwbzlWZw?oc=5",
+          "desc": "",
+          "title_en": "\"Don't hang up on delivery food\" … 'Unexpected eating habits' authorized by the doctor",
+          "title_ja": "「配達時に電話を切らないでください」…医師の承認を受けた「予期せぬ食習慣」",
+          "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
         },
         {
           "title": "서울 양평동 롯데웰푸드 공장서 암모니아 누출…인명피해 없어",
@@ -226,20 +226,20 @@
           "title_zh": "“培养细胞制成的Wooseong Hanwoo” …韩国生物食品的创新"
         },
         {
+          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
+          "desc": "",
+          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
+          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
+          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
+        },
+        {
           "title": "호두크림의 새로운 활용법…캘리포니아 호두협회, 세미나 개최",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ucGRlUjg0MW1vcTIxeE9lenlDdW1taWJGcnk5dERwWkhNQWxsaWJ2OWZ2UXcwc3RHU1YzNTNfLUxtZC1CUEZVLW1CQ3JKWTQ2M2k2ZTg2VQ?oc=5",
           "desc": "",
           "title_en": "New Uses of Walnut Cream… California Walnut Association to Host Seminar",
           "title_ja": "クルミクリームの新しい用途…カリフォルニアクルミ協会がセミナーを開催",
           "title_zh": "核桃奶油的新用途……加州核桃协会举办研讨会"
-        },
-        {
-          "title": "K-콤부차 알린다…티젠, ‘올리브영 페스타 LA’ 참가",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZVkttb1BNQ0N6S0t2cmtqRURCLXJpWnN2Wkk0Q3cxQ3ViUWh1UUNqZjB4NVM1QW1oblpQcE00ZmR4Tnc3eFdmeGhXVGdOT3BVRDFIU2czMA?oc=5",
-          "desc": "",
-          "title_en": "Kombucha Alinda… Tizen to Participate in ‘Olive Young Festa LA’",
-          "title_ja": "Kombucha Alinda… Tizenが「Olive Young Festa LA」に参加",
-          "title_zh": "Kombucha Alinda… Tizen将参加“Olive Young Festa LA”"
         }
       ]
     }
