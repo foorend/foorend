@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T03:50:03Z",
+  "lastUpdated": "2026-08-23T06:40:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
         },
         {
+          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DWFVxRGJMeWJZTFBqS0tWcWtaNFZKNzZtMDlrN3hqOUFfS2dqRUpHYlhqSHpJY1lWa01LVWdIMDJ4dkg0TGJoNjV0a081Nkt5YjVaSGIwMmxlZw?oc=5",
+          "desc": "",
+          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
+          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
+          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
+        },
+        {
           "title": "서울 양평동 롯데웰푸드 공장서 암모니아 누출…인명피해 없어",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wOHhyTVFFS2lBM3JGWnAxMGdpRUU2YUd2ZWVmSWV4b25TcTNxRHhaT0g2R3p4NjQyZlZ4YlR6M0Q5aVpuWlJRamEyMFRjR3Q4dVFldzgzUTJFQQ?oc=5",
           "desc": "",
           "title_en": "Ammonia leak at Lotte Well Food factory in Yangpyeong-dong, Seoul… No casualties",
           "title_ja": "ソウル市楊坪洞のロッテウェルフード工場でアンモニア漏れ…死傷者なし",
           "title_zh": "首尔杨坪洞乐天健康食品工厂氨泄漏…无人员伤亡"
-        },
-        {
-          "title": "고속도로 휴게소 음식값",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlZpM0pQWUFEMERZeTBPVWhrQ2pBN0ZfekxhWWoxdk1QYjlQOW91aFpKWk93SkV3OTYyMlEyVmhmX1c0OUw4cldmZG5fTnFWeU1zZmhfMXpzTnNtNnhPVnRPWVFoN05iZWtlV1ZpX1RSaUk5QUlyTWgzVHdza3RUd0J0ZmxlOWs?oc=5",
-          "desc": "",
-          "title_en": "Highway rest area food prices",
-          "title_ja": "ハイウェイ休憩エリアの食品価格",
-          "title_zh": "公路休息区食品价格"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "동원홈푸드 비비드키친, 호주 아마존 입점…해외 공략 가속",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TTDN4WlhVSGpqZ3dEMGNBdDdsd3lSd2t6cTlnZXVGZzNXRkZrVTJnYnFYVk1ENEJ6WkhaWTVIWVc2Y2trYnR4X2lhVzBDZzBSMUE?oc=5",
-          "desc": "",
-          "title_en": "Dongwon Home Food Vivid Kitchen Enters Amazon Australia… Accelerates Overseas Targets",
-          "title_ja": "Dongwon Home Food Vivid KitchenがAmazon Australiaに参入…海外目標を加速",
-          "title_zh": "Dongwon Home Food Vivid Kitchen进入亚马逊澳大利亚…加快实现海外目标"
-        },
-        {
           "title": "‘불후’ 손태진 이상형은 신동엽? “골프·새로운 음식 좋아하는 사람”",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15b1NjTWZBdUZ4SndYSVVXbklTeWM0dVZLQlVzSnF1UHEtMXNDR3hZQmM2LXlyc21abFVVSUdqSl9WSkJzakE?oc=5",
           "desc": "",
           "title_en": "Is‘ Unfinished ’Son Tae-jin Lee Sang-hyung Shin Dong-yeop? “A person who likes golf and new food”",
           "title_ja": "「未完」のソン・テジン、イ・サンヒョン、シン・ドンヨプですか？「ゴルフや新しい食べ物が好きな人」",
           "title_zh": "「未完成」是Son Tae-jin Lee Sang-hyung Shin Dong-yeop吗？ “喜欢高尔夫和新食物的人”"
+        },
+        {
+          "title": "“치맥·삼쏘만 찾으면 아재”…다크라거에 초콜릿, 확 달라진 ‘페어링’",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PR3JDeldIbFdBdThQLUw5bDRCR1FWREtRcm1uWEppbF9nb0ZJYzFlbFdpRTE1QkpXamtGMUhuX1FRc0UyeFE?oc=5",
+          "desc": "",
+          "title_en": "“If you only find Chi-mac and Samso, Ajae” … Dark lager and chocolate, completely different ‘pairing’",
+          "title_ja": "「Chi - macとSamso、Ajaeしか見つからない場合」…ダークラガーとチョコレート、まったく異なる「ペアリング」",
+          "title_zh": "“如果你只找到Chi-mac和Samso ， Ajae” ……深色拉格啤酒和巧克力，完全不同的“搭配”"
         },
         {
           "title": "MK Pick | 태국서 K-푸드와 한국 관광 매력 전파한다…삼양식품, ‘Love Korea 2026’ 참가",
