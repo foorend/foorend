@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T15:22:17Z",
+  "lastUpdated": "2026-08-23T18:29:09Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -166,20 +166,20 @@
           "title_zh": "“韩国面包师欢迎” ……在澳大利亚开设K-Food工作岗位"
         },
         {
-          "title": "롯데웰푸드 영등포공장서 암모니아 누출…“재발 방지 대책 마련”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mUExxMVA2bmZrTzAxckRyV0lPdy01WXVDdkZ0RDJMRDZhV2FPYkpsTjB0enI0ZmpGMnc0dnd5YkVJdzRPQmh5RVc2d3VUclpjN0tv?oc=5",
-          "desc": "",
-          "title_en": "Ammonia leak at Lotte Well Food Yeongdeungpo Plant… “Prepare measures to prevent recurrence”",
-          "title_ja": "ロッテウェルフード永登浦工場のアンモニア漏れ…「再発防止対策の準備」",
-          "title_zh": "乐天威尔食品永登浦工厂的氨泄漏…… “准备好预防再次发生的措施”"
-        },
-        {
           "title": "삼양식품, 태국서 K푸드 알린다…문체부 ‘한국 관광 페스티벌’ 참가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwM3VueEcyTWdWS21oblVBZ2huZWRRMzFhYUE3eWFScy1lQUt1QWw4YWI3WWY2VTFDVWQwOGMtcjVOcExQWGRVbnc4bmRjUUtuSEE?oc=5",
           "desc": "",
           "title_en": "Samyang Foods Announces K-Foods in Thailand… Participated in ‘Korea Tourism Festival‘ by Ministry of Culture and Culture",
           "title_ja": "Samyang FoodsがタイでK - Foodsを発表…文化部主催の「韓国観光フェスティバル」に参加",
           "title_zh": "Samyang Foods宣布在泰国推出K-Foods......参加文化部举办的“韩国旅游节”"
+        },
+        {
+          "title": "“호국보훈 정신 계승”…오뚜기, 국방부 유해발굴감식단 장병 위해 푸드트럭 운영",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Yd0NTSExhWmVHaTNBV0Z1cVhWVzNob3h3cDJFMGpOMG1jc1NWbVgxRU1LeVpXRG1vd05MVmJMa0pub3ZTem1QMklHdHl0djVMMGc?oc=5",
+          "desc": "",
+          "title_en": "“Succession of the spirit of Veterans Affairs” … Ottogi operates food trucks for soldiers of the Ministry of National Defense's Hazardous Excavation Team",
+          "title_ja": "「退役軍人問題の精神の継承」… Ottogiは、国防省の危険な発掘チームの兵士のためのフードトラックを運営しています",
+          "title_zh": "“退伍军人事务精神的传承” …… Ottogi为国防部危险挖掘小组的士兵经营食品卡车"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "동원홈푸드 비비드키친, 호주 아마존 입점…해외 공략 가속",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TTDN4WlhVSGpqZ3dEMGNBdDdsd3lSd2t6cTlnZXVGZzNXRkZrVTJnYnFYVk1ENEJ6WkhaWTVIWVc2Y2trYnR4X2lhVzBDZzBSMUE?oc=5",
+          "desc": "",
+          "title_en": "Dongwon Home Food Vivid Kitchen Enters Amazon Australia… Accelerates Overseas Targets",
+          "title_ja": "Dongwon Home Food Vivid KitchenがAmazon Australiaに参入…海外目標を加速",
+          "title_zh": "Dongwon Home Food Vivid Kitchen进入亚马逊澳大利亚…加快实现海外目标"
+        },
         {
           "title": "‘불후’ 손태진 이상형은 신동엽? “골프·새로운 음식 좋아하는 사람”",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15b1NjTWZBdUZ4SndYSVVXbklTeWM0dVZLQlVzSnF1UHEtMXNDR3hZQmM2LXlyc21abFVVSUdqSl9WSkJzakE?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "“If you only find Chi-mac and Samso, Ajae” … Dark lager and chocolate, completely different ‘pairing’",
           "title_ja": "「Chi - macとSamso、Ajaeしか見つからない場合」…ダークラガーとチョコレート、まったく異なる「ペアリング」",
           "title_zh": "“如果你只找到Chi-mac和Samso ， Ajae” ……深色拉格啤酒和巧克力，完全不同的“搭配”"
-        },
-        {
-          "title": "MK Pick | 태국서 K-푸드와 한국 관광 매력 전파한다…삼양식품, ‘Love Korea 2026’ 참가",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yUW0xaWhkTHJQeTc4enpsWGZlTVptOF9ZemJFZGJLMXpNV1JRX1UtN3JiWERYNFByVlFTLVB4eWlHNF9mcHJFNWhuQTF2WVZk?oc=5",
-          "desc": "",
-          "title_en": "MK Pick | Propagate K-Foods and Korean Tourism Attractions in Thailand… Samyang Foods Participates in ‘Love Korea 2026’",
-          "title_ja": "MKピック|タイでK - Foodsと韓国の観光スポットを広める… Samyang Foodsが「Love Korea 2026」に参加",
-          "title_zh": "MK精选|在泰国宣传K-Foods和韩国旅游景点… Samyang Foods参加“Love Korea 2026”"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
-          "desc": "",
-          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
-          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
-          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
-        },
         {
           "title": "K-콤부차 알린다…티젠, ‘올리브영 페스타 LA’ 참가",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZVkttb1BNQ0N6S0t2cmtqRURCLXJpWnN2Wkk0Q3cxQ3ViUWh1UUNqZjB4NVM1QW1oblpQcE00ZmR4Tnc3eFdmeGhXVGdOT3BVRDFIU2czMA?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Tomato mash and cumin powder toktok... ‘tomato chutney’",
           "title_ja": "トマトマッシュとクミンパウダーのトクトック…「トマトチャツネ」",
           "title_zh": "番茄泥和孜然粉toktok... “番茄酸辣酱”"
+        },
+        {
+          "title": "북유럽 와인 주목, 기후위기가 바꾸는 유럽 와인 지도",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVeURIVTNPYWR3Nm9BTFFNWU1sSk9WQ3J4cWNaM1Zhc3o5R1dyY3dFelk1MTlodFg4em1Ia1U2djVCbHNuS3F3RWlNc3RiMWFNeG5KeDhwUQ?oc=5",
+          "desc": "",
+          "title_en": "Nordic Wine Spotlight, Climate Changing Map of European Wines",
+          "title_ja": "北欧ワインのスポットライト、ヨーロッパワインの気候変動マップ",
+          "title_zh": "北欧葡萄酒聚焦，欧洲葡萄酒气候变化地图"
         }
       ]
     }
