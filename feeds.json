@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T18:29:09Z",
+  "lastUpdated": "2026-08-23T21:21:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "아르헨티나서 역대 최대 K푸드 판촉 행사 열렸다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1QnNjWE5HVEIzcXFubUxpRmR0S2N6WGNEQXZNREVYQWNCa0xVa25ZemF3MHJWdEpqRDhIRVMtRHY1U21mTmdYTkp0Q1ZmX0p5cmc?oc=5",
+          "desc": "",
+          "title_en": "Argentina's Largest K-Food Promotion Ever Held",
+          "title_ja": "アルゼンチン史上最大のK - Foodプロモーション開催",
+          "title_zh": "阿根廷有史以来最大的K-Food促销活动"
+        },
+        {
           "title": "“한국 제빵사 환영합니다”…호주서 K푸드 채용 열기",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pckFvU2VKdVRjZmZwYkN0UW5zTUE2NWVwV1p1SWxCQTNudnJXUjJZbzNkd093c2gzelBjcS1sVlBsNjEyZ0tiR3dtVmI0QzBETGc?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Samyang Foods Announces K-Foods in Thailand… Participated in ‘Korea Tourism Festival‘ by Ministry of Culture and Culture",
           "title_ja": "Samyang FoodsがタイでK - Foodsを発表…文化部主催の「韓国観光フェスティバル」に参加",
           "title_zh": "Samyang Foods宣布在泰国推出K-Foods......参加文化部举办的“韩国旅游节”"
-        },
-        {
-          "title": "“호국보훈 정신 계승”…오뚜기, 국방부 유해발굴감식단 장병 위해 푸드트럭 운영",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Yd0NTSExhWmVHaTNBV0Z1cVhWVzNob3h3cDJFMGpOMG1jc1NWbVgxRU1LeVpXRG1vd05MVmJMa0pub3ZTem1QMklHdHl0djVMMGc?oc=5",
-          "desc": "",
-          "title_en": "“Succession of the spirit of Veterans Affairs” … Ottogi operates food trucks for soldiers of the Ministry of National Defense's Hazardous Excavation Team",
-          "title_ja": "「退役軍人問題の精神の継承」… Ottogiは、国防省の危険な発掘チームの兵士のためのフードトラックを運営しています",
-          "title_zh": "“退伍军人事务精神的传承” …… Ottogi为国防部危险挖掘小组的士兵经营食品卡车"
         }
       ]
     },
@@ -196,12 +196,12 @@
           "title_zh": "Dongwon Home Food Vivid Kitchen进入亚马逊澳大利亚…加快实现海外目标"
         },
         {
-          "title": "‘불후’ 손태진 이상형은 신동엽? “골프·새로운 음식 좋아하는 사람”",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15b1NjTWZBdUZ4SndYSVVXbklTeWM0dVZLQlVzSnF1UHEtMXNDR3hZQmM2LXlyc21abFVVSUdqSl9WSkJzakE?oc=5",
+          "title": "‘불후’ 손태진 이상형은 신동엽? “골프·새로운 음식 좋아하는 사람” - 스타투데이",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRWmxZRWRpeW1FYm8wN2hPQTc3YWNxMHNUSWd4eVFEQjBZZExfbDc3LXEtbnloalVXUmlJWnUyTlcwYTh1YXJHZEtmM3RGMG9qdjNBd2owTnJZSmJpT0hwbnRYWVBoQQ?oc=5",
           "desc": "",
-          "title_en": "Is‘ Unfinished ’Son Tae-jin Lee Sang-hyung Shin Dong-yeop? “A person who likes golf and new food”",
-          "title_ja": "「未完」のソン・テジン、イ・サンヒョン、シン・ドンヨプですか？「ゴルフや新しい食べ物が好きな人」",
-          "title_zh": "「未完成」是Son Tae-jin Lee Sang-hyung Shin Dong-yeop吗？ “喜欢高尔夫和新食物的人”"
+          "title_en": "Is‘ Unfinished ’Son Tae-jin Lee Sang-hyung Shin Dong-yeop? “Golf, new food lovers” - StarToday",
+          "title_ja": "「未完」のソン・テジン、イ・サンヒョン、シン・ドンヨプですか？「ゴルフ、新しいフード愛好家」- StarToday",
+          "title_zh": "「未完成」是Son Tae-jin Lee Sang-hyung Shin Dong-yeop吗？ “高尔夫，新美食爱好者” - StarToday"
         },
         {
           "title": "“치맥·삼쏘만 찾으면 아재”…다크라거에 초콜릿, 확 달라진 ‘페어링’",
