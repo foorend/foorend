@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T03:53:43Z",
+  "lastUpdated": "2026-08-24T06:58:04Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
         },
         {
-          "title": "\"배달 음식 끊지 마세요\"…의사가 권한 '뜻밖의 식습관'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6T3BIaDR3SlktdW43VGI1aEZhazdsVF9zemlBbnZpOXZLd3dPbTVhbm1FSGpFb29vTmp6S0w5ZENEWS1iUllaN2R1ZzFrY29oX1dncVcwbzlWZw?oc=5",
-          "desc": "",
-          "title_en": "\"Don't hang up on delivery food\" … 'Unexpected eating habits' authorized by the doctor",
-          "title_ja": "「配達時に電話を切らないでください」…医師の承認を受けた「予期せぬ食習慣」",
-          "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
-        },
-        {
           "title": "'스레파' 매출 1위 정호영 황태해장국, 인천공항 푸드코트 온다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVc0lLTkpoZUpzV0ZSdlUyLWlJWFpqWngyalo0RVFFV09wRmRscU5sR1I1dG11cEstNXBJOVltSjZSVUVoYmw1Vnk2MlBtREpIYnQzbk5tV2tVUQ?oc=5",
           "desc": "",
           "title_en": "'Srefa' sales number one Jeong Ho-young Hwang Taehaejangguk comes to Incheon Airport Food Court",
           "title_ja": "「Srefa」セールナンバーワンJeong Ho - young Hwang Taehaejanggukが仁川空港フードコートにやってくる",
           "title_zh": "「Srefa」销售一号Jeong Ho-young Hwang Taehaejangguk来到仁川机场美食广场"
+        },
+        {
+          "title": "\"배달 음식 끊지 마세요\"…의사가 권한 '뜻밖의 식습관'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6T3BIaDR3SlktdW43VGI1aEZhazdsVF9zemlBbnZpOXZLd3dPbTVhbm1FSGpFb29vTmp6S0w5ZENEWS1iUllaN2R1ZzFrY29oX1dncVcwbzlWZw?oc=5",
+          "desc": "",
+          "title_en": "\"Don't hang up on delivery food\" … 'Unexpected eating habits' authorized by the doctor",
+          "title_ja": "「配達時に電話を切らないでください」…医師の承認を受けた「予期せぬ食習慣」",
+          "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "독일 대형 마켓서 K푸드 매출 7배 ‘쑥’…판촉전 성황",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TdDRNQllGSjNPSU12U3hwbUZGLU1UTGJjMEZhVjJ1eGF0Q3NaSVZHVUh3MWtTVVh3NHZwdUdvVUhiRTBkR3RCdThfNFRQOGhyN0E?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBLXFEd1ZvT0I3OWw0Z0ZJNGdzN0ZrNUZUM1VPUnVaVk05b1hfa0dSUTJLemo0SE9xVE5aMDFkcGxXQzNEZ05OZGdiLXAzOHZnNzJ3?oc=5",
           "desc": "",
           "title_en": "7x the sales of K-Foods in large German markets’ Buk-uk ’…",
           "title_ja": "大規模なドイツ市場「Buk - uk」におけるK - Foodsの売上高の7倍…",
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "스타벅스 ‘추석 선물’, 28일부터 사전예약",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53MEpKeEdfNDlqNm9ocDNiZWowSDJuSWI4Q19CSjZ3RldoU0s0Zy03Y3EtNXBTSlFuNHVwbWQxaUk4U0dnZGdOQzZIb1RfRFJGNkstbE1FRQ?oc=5",
+          "desc": "",
+          "title_en": "Starbucks‘ Chuseok Gift ’, pre-booking from the 28th",
+          "title_ja": "スターバックス「Chuseokギフト」、28日からの事前予約",
+          "title_zh": "星巴克“Chuseok礼物” ，从28日开始提前预订"
+        },
+        {
           "title": "K-콤부차 알린다…티젠, ‘올리브영 페스타 LA’ 참가",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZVkttb1BNQ0N6S0t2cmtqRURCLXJpWnN2Wkk0Q3cxQ3ViUWh1UUNqZjB4NVM1QW1oblpQcE00ZmR4Tnc3eFdmeGhXVGdOT3BVRDFIU2czMA?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "The newly renovated ‘Maxim Tiopi’ … “The Closest Rest”",
           "title_ja": "新しく改装された「マキシム・ティオピ」…「最寄りの休憩所」",
           "title_zh": "新装修的「Maxim Tiopi」……「最近的休息」"
-        },
-        {
-          "title": "토마토 으깨서 커민가루 톡톡…‘토마토 처트니’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yTDU5QzF0N0FlRzdDMXNFUFNOdnQ0S2NBd3hWNFlDLTNXMWN0QkFPTktiUlR4Qi1KRExIMGROYWNFcXlEcVdjdWg2dmJ5ZGpCaWRIRkF0cw?oc=5",
-          "desc": "",
-          "title_en": "Tomato mash and cumin powder toktok... ‘tomato chutney’",
-          "title_ja": "トマトマッシュとクミンパウダーのトクトック…「トマトチャツネ」",
-          "title_zh": "番茄泥和孜然粉toktok... “番茄酸辣酱”"
         }
       ]
     }
