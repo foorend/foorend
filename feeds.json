@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T09:47:22Z",
+  "lastUpdated": "2026-08-24T12:50:18Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "上个季度，低收入用餐者的流失让麦当劳损失了很多钱"
         },
         {
+          "title": "Steak fans are seeking a more casual dining experience, and Outback is delivering",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2tKSkk2cVJPY3AxZ0ZxNFlsVjdtZEdVcE9YY3BJdzhCUFNMb3RFV3l6bHBPWjdtaVVLZHNUaEFsa19yS25PUXg0UnZaYUNNZzRkS2c4dWNNTFBmMFBoQnNweFplSjRVV2ltbnJHVFRUb1NCMEppY0FrTjNVNXdlZ3pxVXdmVG9yUWFXcGRlYTdTNENqalRoQlVraWVzSEUzNWdfaU1PTkRzdXUzWEVmTWM0NA?oc=5",
+          "desc": "",
+          "title_ko": "스테이크 애호가들은 좀 더 캐주얼한 식사 경험을 원하고 있으며, 아웃백은",
+          "title_ja": "ステーキファンはよりカジュアルなダイニング体験を求めており、アウトバックは",
+          "title_zh": "牛排爱好者正在寻求更休闲的用餐体验，而Outback正在提供"
+        },
+        {
           "title": "'Vibe coding' is changing the build-or-buy debate for restaurants",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmtkc2VoV3QxU0xZTUE3UVVxbElMa2Nkd1ZKVVVINDRLbHo1eEtEbXFqQ3R6Q2hmOXQzNkxqMGJyYlJIOEJVS3luSUpyVkN0N2Z3dmRicWI2dXlfOGMyUk9NN2RVdlplbmxURkRjbWw2Nl8xbENObWUyY2pWZWMwOER3dUtRR0drSHJzNXN3WDVuZ3hTTHpWMnk1YXEyZTd5Q0E?oc=5",
           "desc": "",
           "title_ko": "'바이브 코딩 (Vibe coding)' 은 레스토랑에 대한 빌드 또는 바이 (build-or-buy) 논쟁을 변화시키고",
           "title_ja": "「雰囲気コーディング」は、レストランの構築または購入の議論を変えています",
           "title_zh": "“氛围编码”正在改变餐厅的构建或购买争论"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "K-Foods在德国大型市场“Buk-uk”的销售额是其7倍……"
         },
         {
+          "title": "[영상] 대선 전보다 10㎏ 찌자 의사들 경고까지…“정크푸드 너무 좋다”는 80세 트럼프 건강 상태는?",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lVXZYYnZ0Yjdqb2JHUF90X0VHUzcxY29SRGtkVVA5cThLN25EUUJZLU9sa2ExNUpzMWNyZGhfcWV3dDE2XzBxQjd5VzJzRWVUUEE?oc=5",
+          "desc": "",
+          "title_en": "[Video] Doctors warn of 10 kilograms more than before the presidential election… What is the health status of Trump, 80, who says “junk food is so good”?",
+          "title_ja": "[ビデオ]医師は、大統領選挙前よりも10キロ多いことを警告しています...「ジャンクフードはとてもおいしい」と言う80歳のトランプの健康状態はどうですか？",
+          "title_zh": "[视频]医生警告说，体重比总统大选前增加了10公斤…… 80岁的特朗普说“垃圾食品这么好吃” ，他的健康状况如何？"
+        },
+        {
           "title": "아르헨티나서 역대 최대 K푸드 판촉 행사 열렸다",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TVFJTdjBHS05RZkpKbEgxZ2R6OTRKXzVOMGJCLXUzYVFFN2JCNXRMbEl0bE5HRXVNanowWDdxNkRJVzlZWVBaRTBhQjZ5UzBpcWNr?oc=5",
           "desc": "",
           "title_en": "Argentina's Largest K-Food Promotion Ever Held",
           "title_ja": "アルゼンチン史上最大のK - Foodプロモーション開催",
           "title_zh": "阿根廷有史以来最大的K-Food促销活动"
-        },
-        {
-          "title": "“한국 제빵사 환영합니다”…호주서 K푸드 채용 열기",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pckFvU2VKdVRjZmZwYkN0UW5zTUE2NWVwV1p1SWxCQTNudnJXUjJZbzNkd093c2gzelBjcS1sVlBsNjEyZ0tiR3dtVmI0QzBETGc?oc=5",
-          "desc": "",
-          "title_en": "“Korean Baker Welcomes” … Opening K-Food Jobs in Australia",
-          "title_ja": "「韓国のベーカーが歓迎」…オーストラリアでK - Foodの仕事を開く",
-          "title_zh": "“韩国面包师欢迎” ……在澳大利亚开设K-Food工作岗位"
         }
       ]
     },
