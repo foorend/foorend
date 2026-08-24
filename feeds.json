@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T21:21:03Z",
+  "lastUpdated": "2026-08-24T01:17:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
         },
         {
-          "title": "서울 양평동 롯데웰푸드 공장서 암모니아 누출…인명피해 없어",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wOHhyTVFFS2lBM3JGWnAxMGdpRUU2YUd2ZWVmSWV4b25TcTNxRHhaT0g2R3p4NjQyZlZ4YlR6M0Q5aVpuWlJRamEyMFRjR3Q4dVFldzgzUTJFQQ?oc=5",
+          "title": "'스레파' 매출 1위 정호영 황태해장국, 인천공항 푸드코트 온다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVc0lLTkpoZUpzV0ZSdlUyLWlJWFpqWngyalo0RVFFV09wRmRscU5sR1I1dG11cEstNXBJOVltSjZSVUVoYmw1Vnk2MlBtREpIYnQzbk5tV2tVUQ?oc=5",
           "desc": "",
-          "title_en": "Ammonia leak at Lotte Well Food factory in Yangpyeong-dong, Seoul… No casualties",
-          "title_ja": "ソウル市楊坪洞のロッテウェルフード工場でアンモニア漏れ…死傷者なし",
-          "title_zh": "首尔杨坪洞乐天健康食品工厂氨泄漏…无人员伤亡"
+          "title_en": "'Srefa' sales number one Jeong Ho-young Hwang Taehaejangguk comes to Incheon Airport Food Court",
+          "title_ja": "「Srefa」セールナンバーワンJeong Ho - young Hwang Taehaejanggukが仁川空港フードコートにやってくる",
+          "title_zh": "「Srefa」销售一号Jeong Ho-young Hwang Taehaejangguk来到仁川机场美食广场"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "아르헨티나서 역대 최대 K푸드 판촉 행사 열렸다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1QnNjWE5HVEIzcXFubUxpRmR0S2N6WGNEQXZNREVYQWNCa0xVa25ZemF3MHJWdEpqRDhIRVMtRHY1U21mTmdYTkp0Q1ZmX0p5cmc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TVFJTdjBHS05RZkpKbEgxZ2R6OTRKXzVOMGJCLXUzYVFFN2JCNXRMbEl0bE5HRXVNanowWDdxNkRJVzlZWVBaRTBhQjZ5UzBpcWNr?oc=5",
           "desc": "",
           "title_en": "Argentina's Largest K-Food Promotion Ever Held",
           "title_ja": "アルゼンチン史上最大のK - Foodプロモーション開催",
@@ -196,20 +196,20 @@
           "title_zh": "Dongwon Home Food Vivid Kitchen进入亚马逊澳大利亚…加快实现海外目标"
         },
         {
-          "title": "‘불후’ 손태진 이상형은 신동엽? “골프·새로운 음식 좋아하는 사람” - 스타투데이",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRWmxZRWRpeW1FYm8wN2hPQTc3YWNxMHNUSWd4eVFEQjBZZExfbDc3LXEtbnloalVXUmlJWnUyTlcwYTh1YXJHZEtmM3RGMG9qdjNBd2owTnJZSmJpT0hwbnRYWVBoQQ?oc=5",
-          "desc": "",
-          "title_en": "Is‘ Unfinished ’Son Tae-jin Lee Sang-hyung Shin Dong-yeop? “Golf, new food lovers” - StarToday",
-          "title_ja": "「未完」のソン・テジン、イ・サンヒョン、シン・ドンヨプですか？「ゴルフ、新しいフード愛好家」- StarToday",
-          "title_zh": "「未完成」是Son Tae-jin Lee Sang-hyung Shin Dong-yeop吗？ “高尔夫，新美食爱好者” - StarToday"
-        },
-        {
           "title": "“치맥·삼쏘만 찾으면 아재”…다크라거에 초콜릿, 확 달라진 ‘페어링’",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PR3JDeldIbFdBdThQLUw5bDRCR1FWREtRcm1uWEppbF9nb0ZJYzFlbFdpRTE1QkpXamtGMUhuX1FRc0UyeFE?oc=5",
           "desc": "",
           "title_en": "“If you only find Chi-mac and Samso, Ajae” … Dark lager and chocolate, completely different ‘pairing’",
           "title_ja": "「Chi - macとSamso、Ajaeしか見つからない場合」…ダークラガーとチョコレート、まったく異なる「ペアリング」",
           "title_zh": "“如果你只找到Chi-mac和Samso ， Ajae” ……深色拉格啤酒和巧克力，完全不同的“搭配”"
+        },
+        {
+          "title": "‘불후’ 손태진 이상형은 신동엽? “골프·새로운 음식 좋아하는 사람” - 스타투데이",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRWmxZRWRpeW1FYm8wN2hPQTc3YWNxMHNUSWd4eVFEQjBZZExfbDc3LXEtbnloalVXUmlJWnUyTlcwYTh1YXJHZEtmM3RGMG9qdjNBd2owTnJZSmJpT0hwbnRYWVBoQQ?oc=5",
+          "desc": "",
+          "title_en": "Is‘ Unfinished ’Son Tae-jin Lee Sang-hyung Shin Dong-yeop? “Golf, new food lovers” - StarToday",
+          "title_ja": "「未完」のソン・テジン、イ・サンヒョン、シン・ドンヨプですか？「ゴルフ、新しいフード愛好家」- StarToday",
+          "title_zh": "「未完成」是Son Tae-jin Lee Sang-hyung Shin Dong-yeop吗？ “高尔夫，新美食爱好者” - StarToday"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
+          "desc": "",
+          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
+          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
+          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
+        },
         {
           "title": "K-콤부차 알린다…티젠, ‘올리브영 페스타 LA’ 참가",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZVkttb1BNQ0N6S0t2cmtqRURCLXJpWnN2Wkk0Q3cxQ3ViUWh1UUNqZjB4NVM1QW1oblpQcE00ZmR4Tnc3eFdmeGhXVGdOT3BVRDFIU2czMA?oc=5",
@@ -226,20 +234,12 @@
           "title_zh": "Kombucha Alinda… Tizen将参加“Olive Young Festa LA”"
         },
         {
-          "title": "토마토 으깨서 커민가루 톡톡…‘토마토 처트니’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yTDU5QzF0N0FlRzdDMXNFUFNOdnQ0S2NBd3hWNFlDLTNXMWN0QkFPTktiUlR4Qi1KRExIMGROYWNFcXlEcVdjdWg2dmJ5ZGpCaWRIRkF0cw?oc=5",
+          "title": "새 단장한 ‘맥심 티오피’…“가장 가까운 휴식”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnM1VJb3lZQUxjTnluUzZmOEhhUjg4MDFSblUwZm0tbWtfTFA2NzdCX2dpTWlCTFFhSUZWYThGeWZyTDV4MDh1SnBkLWJBNWoweENSa0JJRQ?oc=5",
           "desc": "",
-          "title_en": "Tomato mash and cumin powder toktok... ‘tomato chutney’",
-          "title_ja": "トマトマッシュとクミンパウダーのトクトック…「トマトチャツネ」",
-          "title_zh": "番茄泥和孜然粉toktok... “番茄酸辣酱”"
-        },
-        {
-          "title": "북유럽 와인 주목, 기후위기가 바꾸는 유럽 와인 지도",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVeURIVTNPYWR3Nm9BTFFNWU1sSk9WQ3J4cWNaM1Zhc3o5R1dyY3dFelk1MTlodFg4em1Ia1U2djVCbHNuS3F3RWlNc3RiMWFNeG5KeDhwUQ?oc=5",
-          "desc": "",
-          "title_en": "Nordic Wine Spotlight, Climate Changing Map of European Wines",
-          "title_ja": "北欧ワインのスポットライト、ヨーロッパワインの気候変動マップ",
-          "title_zh": "北欧葡萄酒聚焦，欧洲葡萄酒气候变化地图"
+          "title_en": "The newly renovated ‘Maxim Tiopi’ … “The Closest Rest”",
+          "title_ja": "新しく改装された「マキシム・ティオピ」…「最寄りの休憩所」",
+          "title_zh": "新装修的「Maxim Tiopi」……「最近的休息」"
         }
       ]
     }
