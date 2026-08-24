@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T12:50:18Z",
+  "lastUpdated": "2026-08-24T15:38:38Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "上个季度，低收入用餐者的流失让麦当劳损失了很多钱"
         },
         {
-          "title": "Steak fans are seeking a more casual dining experience, and Outback is delivering",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2tKSkk2cVJPY3AxZ0ZxNFlsVjdtZEdVcE9YY3BJdzhCUFNMb3RFV3l6bHBPWjdtaVVLZHNUaEFsa19yS25PUXg0UnZaYUNNZzRkS2c4dWNNTFBmMFBoQnNweFplSjRVV2ltbnJHVFRUb1NCMEppY0FrTjNVNXdlZ3pxVXdmVG9yUWFXcGRlYTdTNENqalRoQlVraWVzSEUzNWdfaU1PTkRzdXUzWEVmTWM0NA?oc=5",
-          "desc": "",
-          "title_ko": "스테이크 애호가들은 좀 더 캐주얼한 식사 경험을 원하고 있으며, 아웃백은",
-          "title_ja": "ステーキファンはよりカジュアルなダイニング体験を求めており、アウトバックは",
-          "title_zh": "牛排爱好者正在寻求更休闲的用餐体验，而Outback正在提供"
-        },
-        {
           "title": "'Vibe coding' is changing the build-or-buy debate for restaurants",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmtkc2VoV3QxU0xZTUE3UVVxbElMa2Nkd1ZKVVVINDRLbHo1eEtEbXFqQ3R6Q2hmOXQzNkxqMGJyYlJIOEJVS3luSUpyVkN0N2Z3dmRicWI2dXlfOGMyUk9NN2RVdlplbmxURkRjbWw2Nl8xbENObWUyY2pWZWMwOER3dUtRR0drSHJzNXN3WDVuZ3hTTHpWMnk1YXEyZTd5Q0E?oc=5",
           "desc": "",
           "title_ko": "'바이브 코딩 (Vibe coding)' 은 레스토랑에 대한 빌드 또는 바이 (build-or-buy) 논쟁을 변화시키고",
           "title_ja": "「雰囲気コーディング」は、レストランの構築または購入の議論を変えています",
           "title_zh": "“氛围编码”正在改变餐厅的构建或购买争论"
+        },
+        {
+          "title": "Steak fans are seeking a more casual dining experience, and Outback is delivering",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2tKSkk2cVJPY3AxZ0ZxNFlsVjdtZEdVcE9YY3BJdzhCUFNMb3RFV3l6bHBPWjdtaVVLZHNUaEFsa19yS25PUXg0UnZaYUNNZzRkS2c4dWNNTFBmMFBoQnNweFplSjRVV2ltbnJHVFRUb1NCMEppY0FrTjNVNXdlZ3pxVXdmVG9yUWFXcGRlYTdTNENqalRoQlVraWVzSEUzNWdfaU1PTkRzdXUzWEVmTWM0NA?oc=5",
+          "desc": "",
+          "title_ko": "스테이크 애호가들은 좀 더 캐주얼한 식사 경험을 원하고 있으며, 아웃백은",
+          "title_ja": "ステーキファンはよりカジュアルなダイニング体験を求めており、アウトバックは",
+          "title_zh": "牛排爱好者正在寻求更休闲的用餐体验，而Outback正在提供"
         }
       ]
     },
@@ -35,6 +35,14 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
+        {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -50,14 +58,6 @@
           "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
           "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
           "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DWFVxRGJMeWJZTFBqS0tWcWtaNFZKNzZtMDlrN3hqOUFfS2dqRUpHYlhqSHpJY1lWa01LVWdIMDJ4dkg0TGJoNjV0a081Nkt5YjVaSGIwMmxlZw?oc=5",
-          "desc": "",
-          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
-          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
-          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
-        },
-        {
           "title": "'스레파' 매출 1위 정호영 황태해장국, 인천공항 푸드코트 온다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVc0lLTkpoZUpzV0ZSdlUyLWlJWFpqWngyalo0RVFFV09wRmRscU5sR1I1dG11cEstNXBJOVltSjZSVUVoYmw1Vnk2MlBtREpIYnQzbk5tV2tVUQ?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "\"Don't hang up on delivery food\" … 'Unexpected eating habits' authorized by the doctor",
           "title_ja": "「配達時に電話を切らないでください」…医師の承認を受けた「予期せぬ食習慣」",
           "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
+        },
+        {
+          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DWFVxRGJMeWJZTFBqS0tWcWtaNFZKNzZtMDlrN3hqOUFfS2dqRUpHYlhqSHpJY1lWa01LVWdIMDJ4dkg0TGJoNjV0a081Nkt5YjVaSGIwMmxlZw?oc=5",
+          "desc": "",
+          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
+          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
+          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
         }
       ]
     },
