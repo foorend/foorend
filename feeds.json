@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T01:17:34Z",
+  "lastUpdated": "2026-08-24T03:53:43Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "독일 대형 마켓서 K푸드 매출 7배 ‘쑥’…판촉전 성황",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TdDRNQllGSjNPSU12U3hwbUZGLU1UTGJjMEZhVjJ1eGF0Q3NaSVZHVUh3MWtTVVh3NHZwdUdvVUhiRTBkR3RCdThfNFRQOGhyN0E?oc=5",
+          "desc": "",
+          "title_en": "7x the sales of K-Foods in large German markets’ Buk-uk ’…",
+          "title_ja": "大規模なドイツ市場「Buk - uk」におけるK - Foodsの売上高の7倍…",
+          "title_zh": "K-Foods在德国大型市场“Buk-uk”的销售额是其7倍……"
+        },
+        {
           "title": "아르헨티나서 역대 최대 K푸드 판촉 행사 열렸다",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TVFJTdjBHS05RZkpKbEgxZ2R6OTRKXzVOMGJCLXUzYVFFN2JCNXRMbEl0bE5HRXVNanowWDdxNkRJVzlZWVBaRTBhQjZ5UzBpcWNr?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "“Korean Baker Welcomes” … Opening K-Food Jobs in Australia",
           "title_ja": "「韓国のベーカーが歓迎」…オーストラリアでK - Foodの仕事を開く",
           "title_zh": "“韩国面包师欢迎” ……在澳大利亚开设K-Food工作岗位"
-        },
-        {
-          "title": "삼양식품, 태국서 K푸드 알린다…문체부 ‘한국 관광 페스티벌’ 참가",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwM3VueEcyTWdWS21oblVBZ2huZWRRMzFhYUE3eWFScy1lQUt1QWw4YWI3WWY2VTFDVWQwOGMtcjVOcExQWGRVbnc4bmRjUUtuSEE?oc=5",
-          "desc": "",
-          "title_en": "Samyang Foods Announces K-Foods in Thailand… Participated in ‘Korea Tourism Festival‘ by Ministry of Culture and Culture",
-          "title_ja": "Samyang FoodsがタイでK - Foodsを発表…文化部主催の「韓国観光フェスティバル」に参加",
-          "title_zh": "Samyang Foods宣布在泰国推出K-Foods......参加文化部举办的“韩国旅游节”"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Dongwon Home Food Vivid Kitchen进入亚马逊澳大利亚…加快实现海外目标"
         },
         {
+          "title": "“추석 선물도 ‘스벅 감성’으로”…스타벅스, 명절 푸드 5종 출시",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2eFEwcTJBTjJ3MHkzOS13TTVXNE81ZDRnd0ZRWUlPckVuVzNkNDJlTmVkNF91dE16bWhIWGhqNFRITTlqU3c?oc=5",
+          "desc": "",
+          "title_en": "“Thanksgiving Gifts with ‘Swag Emotion’” … Starbucks Launches 5 Holiday Foods",
+          "title_ja": "「『Swag Emotion』の感謝祭プレゼント」…スターバックスがホリデーフード5品を発売",
+          "title_zh": "“带有‘Swag Emotion‘的感恩节礼物” ……星巴克推出5款节日食品"
+        },
+        {
           "title": "“치맥·삼쏘만 찾으면 아재”…다크라거에 초콜릿, 확 달라진 ‘페어링’",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PR3JDeldIbFdBdThQLUw5bDRCR1FWREtRcm1uWEppbF9nb0ZJYzFlbFdpRTE1QkpXamtGMUhuX1FRc0UyeFE?oc=5",
           "desc": "",
           "title_en": "“If you only find Chi-mac and Samso, Ajae” … Dark lager and chocolate, completely different ‘pairing’",
           "title_ja": "「Chi - macとSamso、Ajaeしか見つからない場合」…ダークラガーとチョコレート、まったく異なる「ペアリング」",
           "title_zh": "“如果你只找到Chi-mac和Samso ， Ajae” ……深色拉格啤酒和巧克力，完全不同的“搭配”"
-        },
-        {
-          "title": "‘불후’ 손태진 이상형은 신동엽? “골프·새로운 음식 좋아하는 사람” - 스타투데이",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRWmxZRWRpeW1FYm8wN2hPQTc3YWNxMHNUSWd4eVFEQjBZZExfbDc3LXEtbnloalVXUmlJWnUyTlcwYTh1YXJHZEtmM3RGMG9qdjNBd2owTnJZSmJpT0hwbnRYWVBoQQ?oc=5",
-          "desc": "",
-          "title_en": "Is‘ Unfinished ’Son Tae-jin Lee Sang-hyung Shin Dong-yeop? “Golf, new food lovers” - StarToday",
-          "title_ja": "「未完」のソン・テジン、イ・サンヒョン、シン・ドンヨプですか？「ゴルフ、新しいフード愛好家」- StarToday",
-          "title_zh": "「未完成」是Son Tae-jin Lee Sang-hyung Shin Dong-yeop吗？ “高尔夫，新美食爱好者” - StarToday"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
-          "desc": "",
-          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
-          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
-          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
-        },
         {
           "title": "K-콤부차 알린다…티젠, ‘올리브영 페스타 LA’ 참가",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZVkttb1BNQ0N6S0t2cmtqRURCLXJpWnN2Wkk0Q3cxQ3ViUWh1UUNqZjB4NVM1QW1oblpQcE00ZmR4Tnc3eFdmeGhXVGdOT3BVRDFIU2czMA?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "The newly renovated ‘Maxim Tiopi’ … “The Closest Rest”",
           "title_ja": "新しく改装された「マキシム・ティオピ」…「最寄りの休憩所」",
           "title_zh": "新装修的「Maxim Tiopi」……「最近的休息」"
+        },
+        {
+          "title": "토마토 으깨서 커민가루 톡톡…‘토마토 처트니’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yTDU5QzF0N0FlRzdDMXNFUFNOdnQ0S2NBd3hWNFlDLTNXMWN0QkFPTktiUlR4Qi1KRExIMGROYWNFcXlEcVdjdWg2dmJ5ZGpCaWRIRkF0cw?oc=5",
+          "desc": "",
+          "title_en": "Tomato mash and cumin powder toktok... ‘tomato chutney’",
+          "title_ja": "トマトマッシュとクミンパウダーのトクトック…「トマトチャツネ」",
+          "title_zh": "番茄泥和孜然粉toktok... “番茄酸辣酱”"
         }
       ]
     }
