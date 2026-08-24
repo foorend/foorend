@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-08-24T18:39:39Z",
+  "lastUpdated": "2026-08-24T21:28:46Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "The loss of low-income diners cost McDonald’s a lot of money last quarter",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTk1taVFFbGViYWwtTXRQQ3NRTnJIZWxCc05xeFJzQ3FjanVadWczUkJmaDIwb2dkamlCYlFkT2NzM0N5TjdOOGZQNFFuWVhGcFktX0pPVF9OZ045Z3ZWRzVybFU2SGw0dWttRjNNaG5JX1NmMDE3aXpFTXdJcWVleEttOWh5emtRc3dTTXN3aDM3NXR1dll0VzFGT3dQUkVPU2hoWEdkbmtnclk?oc=5",
-          "desc": "",
-          "title_ko": "저소득층 손님의 손실은 지난 분기에 맥도날드의 많은 돈을 요합니다.",
-          "title_ja": "低収入のダイナーの損失は、前四半期にマクドナルドに多額のお金を費やしました",
-          "title_zh": "上个季度，低收入用餐者的流失让麦当劳损失了很多钱"
-        },
         {
           "title": "'Vibe coding' is changing the build-or-buy debate for restaurants",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmtkc2VoV3QxU0xZTUE3UVVxbElMa2Nkd1ZKVVVINDRLbHo1eEtEbXFqQ3R6Q2hmOXQzNkxqMGJyYlJIOEJVS3luSUpyVkN0N2Z3dmRicWI2dXlfOGMyUk9NN2RVdlplbmxURkRjbWw2Nl8xbENObWUyY2pWZWMwOER3dUtRR0drSHJzNXN3WDVuZ3hTTHpWMnk1YXEyZTd5Q0E?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "'바이브 코딩 (Vibe coding)' 은 레스토랑에 대한 빌드 또는 바이 (build-or-buy) 논쟁을 변화시키고",
           "title_ja": "「雰囲気コーディング」は、レストランの構築または購入の議論を変えています",
           "title_zh": "“氛围编码”正在改变餐厅的构建或购买争论"
+        },
+        {
+          "title": "The loss of low-income diners cost McDonald’s a lot of money last quarter",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTk1taVFFbGViYWwtTXRQQ3NRTnJIZWxCc05xeFJzQ3FjanVadWczUkJmaDIwb2dkamlCYlFkT2NzM0N5TjdOOGZQNFFuWVhGcFktX0pPVF9OZ045Z3ZWRzVybFU2SGw0dWttRjNNaG5JX1NmMDE3aXpFTXdJcWVleEttOWh5emtRc3dTTXN3aDM3NXR1dll0VzFGT3dQUkVPU2hoWEdkbmtnclk?oc=5",
+          "desc": "",
+          "title_ko": "저소득층 손님의 손실은 지난 분기에 맥도날드의 많은 돈을 요합니다.",
+          "title_ja": "低収入のダイナーの損失は、前四半期にマクドナルドに多額のお金を費やしました",
+          "title_zh": "上个季度，低收入用餐者的流失让麦当劳损失了很多钱"
         },
         {
           "title": "Steak fans are seeking a more casual dining experience, and Outback is delivering",
@@ -188,12 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "동원홈푸드 비비드키친, 호주 아마존 입점…해외 공략 가속",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TTDN4WlhVSGpqZ3dEMGNBdDdsd3lSd2t6cTlnZXVGZzNXRkZrVTJnYnFYVk1ENEJ6WkhaWTVIWVc2Y2trYnR4X2lhVzBDZzBSMUE?oc=5",
+          "title": "타이슨 푸드, 12억 달러 규모 채권 조기 매입..15억 달러 응모",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfUlozM2F3UEVQb21yQ0JtTF8wYzB5WjQzOENOOGladk0xX2xkaW9OZlBHd3BDSVRpaEwxR3dLNEFKVVZtWUxmcmRVNmM3VVBqbXc?oc=5",
           "desc": "",
-          "title_en": "Dongwon Home Food Vivid Kitchen Enters Amazon Australia… Accelerates Overseas Targets",
-          "title_ja": "Dongwon Home Food Vivid KitchenがAmazon Australiaに参入…海外目標を加速",
-          "title_zh": "Dongwon Home Food Vivid Kitchen进入亚马逊澳大利亚…加快实现海外目标"
+          "title_en": "Tyson Foods Buys $1.2 Billion Bond Early.. Wins $1.5 Billion",
+          "title_ja": "タイソン・フーズ、12億ドルの債券を早期に購入… 15億ドルを獲得",
+          "title_zh": "泰森食品提前购买12亿美元债券..赢得15亿美元"
+        },
+        {
+          "title": "롯데웰푸드(주) 기업설명회(IR) 개최(안내공시)",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUQVU4blk3UHBrblQybUVNRlZxMlRsWXZsNS1ad2hUQmY2NEowTGQzZ1lhMWZ0cHlZbDlxdUdUQWNUVTBSMDdLWkRkekJndmV2XzY5QWI1VlZBUQ?oc=5",
+          "desc": "",
+          "title_en": "Held IR meeting of Lotte Well Food Co., Ltd. (Information Disclosure)",
+          "title_ja": "ロッテウェルフード株式会社IR会合開催（情報開示）",
+          "title_zh": "乐天威尔食品股份有限公司召开投资者关系会议（信息披露）"
         },
         {
           "title": "“추석 선물도 ‘스벅 감성’으로”…스타벅스, 명절 푸드 5종 출시",
@@ -202,14 +210,6 @@
           "title_en": "“Thanksgiving Gifts with ‘Swag Emotion’” … Starbucks Launches 5 Holiday Foods",
           "title_ja": "「『Swag Emotion』の感謝祭プレゼント」…スターバックスがホリデーフード5品を発売",
           "title_zh": "“带有‘Swag Emotion‘的感恩节礼物” ……星巴克推出5款节日食品"
-        },
-        {
-          "title": "“치맥·삼쏘만 찾으면 아재”…다크라거에 초콜릿, 확 달라진 ‘페어링’",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PR3JDeldIbFdBdThQLUw5bDRCR1FWREtRcm1uWEppbF9nb0ZJYzFlbFdpRTE1QkpXamtGMUhuX1FRc0UyeFE?oc=5",
-          "desc": "",
-          "title_en": "“If you only find Chi-mac and Samso, Ajae” … Dark lager and chocolate, completely different ‘pairing’",
-          "title_ja": "「Chi - macとSamso、Ajaeしか見つからない場合」…ダークラガーとチョコレート、まったく異なる「ペアリング」",
-          "title_zh": "“如果你只找到Chi-mac和Samso ， Ajae” ……深色拉格啤酒和巧克力，完全不同的“搭配”"
         }
       ]
     },
