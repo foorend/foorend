@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T09:34:48Z",
+  "lastUpdated": "2026-08-25T12:47:00Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"80분이라더니 왜 벌써 와\"…배달 음식 훼손에 환불 요구 논란",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuM1J3akhqeW9seEQ5aU9RWWxBM1RrRlJtN2s2ZEhaSmZKYm55Qm4yUWhCcGxMUC1VMmxUWUNzUHl1ZXFXeHJQUU9ndVFJUEtHU0QtU1NHT3daZw?oc=5",
+          "desc": "",
+          "title_en": "“Why did you say 80 minutes already come?” … Controversy over demanding a refund for damaging the delivery food",
+          "title_ja": "「80分がすでに来たとおっしゃったのはなぜですか？」…配達中の料理に損傷を与えた場合の返金を要求することをめぐる論争",
+          "title_zh": "“你为什么说80分钟已经到了？” ……关于因派送餐点损坏而要求退款的争议"
+        },
+        {
           "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DWFVxRGJMeWJZTFBqS0tWcWtaNFZKNzZtMDlrN3hqOUFfS2dqRUpHYlhqSHpJY1lWa01LVWdIMDJ4dkg0TGJoNjV0a081Nkt5YjVaSGIwMmxlZw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "'Srefa' sales number one Jeong Ho-young Hwang Taehaejangguk comes to Incheon Airport Food Court",
           "title_ja": "「Srefa」セールナンバーワンJeong Ho - young Hwang Taehaejanggukが仁川空港フードコートにやってくる",
           "title_zh": "「Srefa」销售一号Jeong Ho-young Hwang Taehaejangguk来到仁川机场美食广场"
-        },
-        {
-          "title": "현대그린푸드, 농림축산식품부 ‘모두의 상생 프로젝트’ 첫 시범사업 맡는다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUem1CVm84UmpDOEJpSzJycmtLamQzclJkSlRDamxOZ0NkMV80Q3ZTRlhzWGNNbGR6UUQ0N09zME9PZ1dCdlNwcnQ1RjBwa01rS3htTDZEbmVsUQ?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food will be in charge of the first pilot project of the Ministry of Agriculture, Food and Rural Affairs‘ Coexistence of All Projects’",
-          "title_ja": "現代グリーンフードは、農業食糧農村省の最初のパイロットプロジェクト「すべてのプロジェクトの共存」を担当します",
-          "title_zh": "现代绿色食品将负责农业、食品和农村事务部“所有项目共存”的第一个试点项目"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "现代绿色食品， “共赢共赢”的首个试点项目……在忠清南道购买了500吨农产品"
         },
         {
+          "title": "현대그린푸드, ‘모두의 상생’ 첫 시범사업…충남 농산물 500t 매입",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1R1VuWE9pSHcwWkJfeE9zeEhPZUtRN1lySjNWMlc0MTJoaVZ0dHpRRENmQXlqUGdVTFY2X0FOdUNKdzJ2Q1gxYjN4QzYxdi1DWEJB?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, the first pilot project for ’win-win for all' … Purchased 500t of agricultural products in Chungcheongnam-do",
+          "title_ja": "現代グリーンフード、「すべての人のためのウィンウィン」の最初のパイロットプロジェクト…忠清南道で500トンの農産物を購入",
+          "title_zh": "现代绿色食品， “共赢共赢”的首个试点项目……在忠清南道购买了500吨农产品"
+        },
+        {
           "title": "통관부터 콜드체인·마케팅까지…코트라, K푸드 美 물류 원스톱 지원",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KbW1na0ZRUmxCSVctWkhpUE5sZ0NiYzhreU1rQ3Jsa25aVGRITkdvZUtxZnNVelREdnEtS3ljSXFhR1VQX1ZRQjFiRWpTU3hlQWc?oc=5",
           "desc": "",
           "title_en": "From customs clearance to cold chain marketing… KOTRA, K-FOOD beauty logistics one-stop support",
           "title_ja": "通関からコールドチェーンマーケティングまで… KOTRA、K - FOOD BEAUTYロジスティクスワンストップサポート",
           "title_zh": "从清关到冷链营销…… KOTRA、K-FOOD美容物流一站式支持"
-        },
-        {
-          "title": "독일 대형 마켓서 K푸드 매출 7배 ‘쑥’…판촉전 성황",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TdDRNQllGSjNPSU12U3hwbUZGLU1UTGJjMEZhVjJ1eGF0Q3NaSVZHVUh3MWtTVVh3NHZwdUdvVUhiRTBkR3RCdThfNFRQOGhyN0E?oc=5",
-          "desc": "",
-          "title_en": "7x the sales of K-Foods in large German markets’ Buk-uk ’…",
-          "title_ja": "大規模なドイツ市場「Buk - uk」におけるK - Foodsの売上高の7倍…",
-          "title_zh": "K-Foods在德国大型市场“Buk-uk”的销售额是其7倍……"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "景北食品科技产业化速度…发掘本土专业化企业，衔接企业投资"
         },
         {
+          "title": "여수서 세계 섬 음식 맛본다…올가을 미식가들 몰린다는 축제 [페스티벌 플러스]",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSGotWWsyVXBLbU53UzJMbjY5TXU5dldkWEl6cGt3ektWZ0VXS2JZc0cxMmVKZkpGdjd6Y2lEYTc1ZzNnUHl6U3RIV2lDNkhOSEZEcFdhdjLSAV5BVV95cUxOYjFIWS10RDlNTTczSWZYVDhmU2NySFJCdFctUHpiYXJWY1NLTHBMcmlBZUlkQ0RNc2xkdW9ZdXpMalhIdm8wZ3NBUkczTl9kdzlkYmN6UVpMTzlLaDZn?oc=5",
+          "desc": "",
+          "title_en": "Try the World Island Food of Yeosu Seo… Festivals that attract gourmets this fall [Festival Plus]",
+          "title_ja": "麗水ソのワールドアイランドフードを試してみよう…この秋グルメが集まるお祭り【フェスティバルプラス】",
+          "title_zh": "尝试丽水徐的世界岛美食……今年秋天吸引美食家的节日[Festival Plus]"
+        },
+        {
           "title": "타이슨 푸드, 12억 달러 규모 채권 조기 매입..15억 달러 응모",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfUlozM2F3UEVQb21yQ0JtTF8wYzB5WjQzOENOOGladk0xX2xkaW9OZlBHd3BDSVRpaEwxR3dLNEFKVVZtWUxmcmRVNmM3VVBqbXc?oc=5",
           "desc": "",
           "title_en": "Tyson Foods Buys $1.2 Billion Bond Early.. Wins $1.5 Billion",
           "title_ja": "タイソン・フーズ、12億ドルの債券を早期に購入… 15億ドルを獲得",
           "title_zh": "泰森食品提前购买12亿美元债券..赢得15亿美元"
-        },
-        {
-          "title": "#음식여행 (2 Posts)",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zc0pqMHg3TDZKeWZEUkhpQTQ3djJXbEd6cnJIRWRRdDlHcDRGQndiTWhQSlh5YnRWZkZjN1Q3bE1GTnRwTGxOc2trOEoxRmYyLVlIbHJ3Z2tJeFpaNG9YVkpUdW1yWC1GR3FiUDdCSFI2NnZaNXc?oc=5",
-          "desc": "",
-          "title_en": "# Food Travel (2 Posts)",
-          "title_ja": "#フードトラベル（ 2投稿）",
-          "title_zh": "#美食之旅（ 2个帖子）"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "星巴克“Chuseok礼物” ，从28日开始提前预订"
         },
         {
-          "title": "짠맛에서 감칠맛·발효로…유럽 입맛의 변화",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yN1BEcnU1WlZvYjF4SFNwVHdIX3lpaGtHWlctbDByOWwxYklfX0JZdC0tQWlZdXdrVDVmOFBhaXpHbExZNm84SFZCNWVQUkRrdEZGRHZEVQ?oc=5",
-          "desc": "",
-          "title_en": "From saltiness to umami · fermentation… Changing the taste of Europe",
-          "title_ja": "塩味からうま味・発酵・・・ヨーロッパの味を変える",
-          "title_zh": "从咸味到鲜味·发酵……改变欧洲的味道"
-        },
-        {
           "title": "호두크림의 새로운 활용법…캘리포니아 호두협회, 세미나 개최",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ucGRlUjg0MW1vcTIxeE9lenlDdW1taWJGcnk5dERwWkhNQWxsaWJ2OWZ2UXcwc3RHU1YzNTNfLUxtZC1CUEZVLW1CQ3JKWTQ2M2k2ZTg2VQ?oc=5",
           "desc": "",
           "title_en": "New Uses of Walnut Cream… California Walnut Association to Host Seminar",
           "title_ja": "クルミクリームの新しい用途…カリフォルニアクルミ協会がセミナーを開催",
           "title_zh": "核桃奶油的新用途……加州核桃协会举办研讨会"
+        },
+        {
+          "title": "K-콤부차 알린다…티젠, ‘올리브영 페스타 LA’ 참가",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZVkttb1BNQ0N6S0t2cmtqRURCLXJpWnN2Wkk0Q3cxQ3ViUWh1UUNqZjB4NVM1QW1oblpQcE00ZmR4Tnc3eFdmeGhXVGdOT3BVRDFIU2czMA?oc=5",
+          "desc": "",
+          "title_en": "Kombucha Alinda… Tizen to Participate in ‘Olive Young Festa LA’",
+          "title_ja": "Kombucha Alinda… Tizenが「Olive Young Festa LA」に参加",
+          "title_zh": "Kombucha Alinda… Tizen将参加“Olive Young Festa LA”"
         }
       ]
     }
