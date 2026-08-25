@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T21:28:46Z",
+  "lastUpdated": "2026-08-25T01:15:31Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
         },
         {
-          "title": "\"배달 음식 끊지 마세요\"…의사가 권한 '뜻밖의 식습관'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6T3BIaDR3SlktdW43VGI1aEZhazdsVF9zemlBbnZpOXZLd3dPbTVhbm1FSGpFb29vTmp6S0w5ZENEWS1iUllaN2R1ZzFrY29oX1dncVcwbzlWZw?oc=5",
+          "title": "현대그린푸드, 농림축산식품부 ‘모두의 상생 프로젝트’ 첫 시범사업 맡는다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUem1CVm84UmpDOEJpSzJycmtLamQzclJkSlRDamxOZ0NkMV80Q3ZTRlhzWGNNbGR6UUQ0N09zME9PZ1dCdlNwcnQ1RjBwa01rS3htTDZEbmVsUQ?oc=5",
           "desc": "",
-          "title_en": "\"Don't hang up on delivery food\" … 'Unexpected eating habits' authorized by the doctor",
-          "title_ja": "「配達時に電話を切らないでください」…医師の承認を受けた「予期せぬ食習慣」",
-          "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
+          "title_en": "Hyundai Green Food will be in charge of the first pilot project of the Ministry of Agriculture, Food and Rural Affairs‘ Coexistence of All Projects’",
+          "title_ja": "現代グリーンフードは、農業食糧農村省の最初のパイロットプロジェクト「すべてのプロジェクトの共存」を担当します",
+          "title_zh": "现代绿色食品将负责农业、食品和农村事务部“所有项目共存”的第一个试点项目"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "통관부터 콜드체인·마케팅까지…코트라, K푸드 美 물류 원스톱 지원",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KbW1na0ZRUmxCSVctWkhpUE5sZ0NiYzhreU1rQ3Jsa25aVGRITkdvZUtxZnNVelREdnEtS3ljSXFhR1VQX1ZRQjFiRWpTU3hlQWc?oc=5",
+          "desc": "",
+          "title_en": "From customs clearance to cold chain marketing… KOTRA, K-FOOD beauty logistics one-stop support",
+          "title_ja": "通関からコールドチェーンマーケティングまで… KOTRA、K - FOOD BEAUTYロジスティクスワンストップサポート",
+          "title_zh": "从清关到冷链营销…… KOTRA、K-FOOD美容物流一站式支持"
+        },
         {
           "title": "독일 대형 마켓서 K푸드 매출 7배 ‘쑥’…판촉전 성황",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBLXFEd1ZvT0I3OWw0Z0ZJNGdzN0ZrNUZUM1VPUnVaVk05b1hfa0dSUTJLemo0SE9xVE5aMDFkcGxXQzNEZ05OZGdiLXAzOHZnNzJ3?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "[Video] Doctors warn of 10 kilograms more than before the presidential election… What is the health status of Trump, 80, who says “junk food is so good”?",
           "title_ja": "[ビデオ]医師は、大統領選挙前よりも10キロ多いことを警告しています...「ジャンクフードはとてもおいしい」と言う80歳のトランプの健康状態はどうですか？",
           "title_zh": "[视频]医生警告说，体重比总统大选前增加了10公斤…… 80岁的特朗普说“垃圾食品这么好吃” ，他的健康状况如何？"
-        },
-        {
-          "title": "아르헨티나서 역대 최대 K푸드 판촉 행사 열렸다",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TVFJTdjBHS05RZkpKbEgxZ2R6OTRKXzVOMGJCLXUzYVFFN2JCNXRMbEl0bE5HRXVNanowWDdxNkRJVzlZWVBaRTBhQjZ5UzBpcWNr?oc=5",
-          "desc": "",
-          "title_en": "Argentina's Largest K-Food Promotion Ever Held",
-          "title_ja": "アルゼンチン史上最大のK - Foodプロモーション開催",
-          "title_zh": "阿根廷有史以来最大的K-Food促销活动"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "泰森食品提前购买12亿美元债券..赢得15亿美元"
         },
         {
-          "title": "롯데웰푸드(주) 기업설명회(IR) 개최(안내공시)",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUQVU4blk3UHBrblQybUVNRlZxMlRsWXZsNS1ad2hUQmY2NEowTGQzZ1lhMWZ0cHlZbDlxdUdUQWNUVTBSMDdLWkRkekJndmV2XzY5QWI1VlZBUQ?oc=5",
+          "title": "롯데웰푸드(주) 변경상장(감자(주식소각))",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhdTR2Y0dJMDBhaDBxMndoZm1vRTVfX3k0V0F1ZWNHSnJWT2F1Uk9XQUJTRnp2WERVSVlfVVlKNGN3bmp2bHVDM2JZa3ZHTjYzMkUyOEdnNkltVVE?oc=5",
           "desc": "",
-          "title_en": "Held IR meeting of Lotte Well Food Co., Ltd. (Information Disclosure)",
-          "title_ja": "ロッテウェルフード株式会社IR会合開催（情報開示）",
-          "title_zh": "乐天威尔食品股份有限公司召开投资者关系会议（信息披露）"
+          "title_en": "Listed on Lotte Well Food Co., Ltd. change (Potato (stock incineration))",
+          "title_ja": "ロッテウェルフード（株）変更上場（ジャガイモ（ストック焼却） ）",
+          "title_zh": "在Lotte Well Food Co., Ltd.变更上市（马铃薯（股票焚烧） ）"
         },
         {
-          "title": "“추석 선물도 ‘스벅 감성’으로”…스타벅스, 명절 푸드 5종 출시",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2eFEwcTJBTjJ3MHkzOS13TTVXNE81ZDRnd0ZRWUlPckVuVzNkNDJlTmVkNF91dE16bWhIWGhqNFRITTlqU3c?oc=5",
+          "title": "동원홈푸드 비비드키친, 호주 아마존 입점…해외 공략 가속",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TTDN4WlhVSGpqZ3dEMGNBdDdsd3lSd2t6cTlnZXVGZzNXRkZrVTJnYnFYVk1ENEJ6WkhaWTVIWVc2Y2trYnR4X2lhVzBDZzBSMUE?oc=5",
           "desc": "",
-          "title_en": "“Thanksgiving Gifts with ‘Swag Emotion’” … Starbucks Launches 5 Holiday Foods",
-          "title_ja": "「『Swag Emotion』の感謝祭プレゼント」…スターバックスがホリデーフード5品を発売",
-          "title_zh": "“带有‘Swag Emotion‘的感恩节礼物” ……星巴克推出5款节日食品"
+          "title_en": "Dongwon Home Food Vivid Kitchen Enters Amazon Australia… Accelerates Overseas Targets",
+          "title_ja": "Dongwon Home Food Vivid KitchenがAmazon Australiaに参入…海外目標を加速",
+          "title_zh": "Dongwon Home Food Vivid Kitchen进入亚马逊澳大利亚…加快实现海外目标"
         }
       ]
     },
