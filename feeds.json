@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T03:53:18Z",
+  "lastUpdated": "2026-08-26T06:49:46Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "You’re Invited to Eater Off Menu 2026",
+          "link": "https://www.eater.com/press-room/981518/eater-off-menu-tickets-2026",
+          "desc": "We’re excited to invite you to Eater Off Menu, a night dedicated to tasting what’s trending and what’s next in food and drink at our biggest Los Angel",
+          "title_ko": "Eater Off Menu 2026에 초대되셨습니다.",
+          "title_ja": "2026年の注文者オフメニューに招待されました",
+          "title_zh": "您已受邀加入顾客关闭菜单2026"
+        },
+        {
           "title": "Tea Is So Hot Right Now",
           "link": "https://www.eater.com/drinks/981280/modern-late-night-teahouse-trend-heytea-expansion",
           "desc": "In Los Angeles, Tea at Shiloh describes itself as a “late night teahouse.” Here, visitors can reserve slots from 7 to 11 p.m. to sip unlimited amounts",
@@ -110,14 +118,6 @@
           "title_ko": "Anthony Bourdain의 편집자가 ‘Tony‘ 가 더 어두워지기를 바랐던 이유",
           "title_ja": "アンソニー・ボーデインの編集者が「トニー」をダークにしたかった理由",
           "title_zh": "为什么Anthony Bourdain的编辑希望“Tony”更黑暗"
-        },
-        {
-          "title": "The Dinner Party Has Left the Building",
-          "link": "https://www.eater.com/food-culture/980064/earthwork-land-art-dinners",
-          "desc": "A few months ago, a small group gathered for a picnic during a retreat in upstate New York. In lieu of sitting on a grassy knoll with a checkered blan",
-          "title_ko": "저녁 식사 파티가 건물을 떠났습니다.",
-          "title_ja": "ディナーパーティーが建物を離れました",
-          "title_zh": "晚宴已经离开大楼"
         }
       ]
     }
@@ -167,7 +167,7 @@
         },
         {
           "title": "한국관광공사, 13개국 인플루언서와 K-로컬푸드 알린다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82WEg5RnZ0SHNrTUE2dTdfYmZnTEZTZ3ZPQ1BRQnRFLXUwRkp0SS1PckV6MW5hWHZaa3NTM0xTLVNEVDBobzBLeGNkQXlhcEZnN0NsemFCbGZwSzJNMTdwR0drMlBrQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WMUs2SWpXR1d2elFVelU4Y091MUNEMjc3VVNudnlSb0hkZ094NEFITENsQjBmaU9uSzdxRThDeFZxQkhvd2Y4NGozSGc0dVU4Z2c?oc=5",
           "desc": "",
           "title_en": "Korea Tourism Organization announces 13 influencers and K-local food",
           "title_ja": "韓国観光機構、13人のインフルエンサーとKローカルフードを発表",
