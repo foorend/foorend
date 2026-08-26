@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T21:27:48Z",
+  "lastUpdated": "2026-08-26T01:18:19Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -39,7 +39,7 @@
           "title": "Food News & Trends",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ko": "Food News & Trends",
           "title_ja": "フードニュース＆トレンド",
           "title_zh": "美食新闻和趋势"
         },
@@ -86,7 +86,7 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
           "desc": "",
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_ja": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
         }
       ]
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "W컨셉, 첫 ‘푸드페어’ 개최…프리미엄 미식 선보여",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hMHYtV29ZXzdscG9fekpKU0dQZlk0S05zaXNQV1pRS2VTRk9PbWRqVFVfeG1lVVJhQnJ5Yk5aa001NldTakQ2eFpsaTZuS29BMjQzSGRzaXRNTlczSWx5VW1JZUVlQjZad0NKYg?oc=5",
+          "desc": "",
+          "title_en": "W Concept Holds First ‘Food Fair’ … Showcasing Premium Gastronomy",
+          "title_ja": "Wコンセプトが初の「フードフェア」を開催…プレミアムガストロノミーを披露",
+          "title_zh": "W Concept举办首届“美食博览会” …展示顶级美食"
+        },
+        {
+          "title": "한우 뭉티기 영상 44만뷰…K-푸드 콘텐츠로 외국인 방한객 잡는다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVRTE1RnIxdHQzQVlmQXVPZjFqMk1wN1FjQUozU0g0QlRYelhmRjBPTERvUW5udzAtTTNwcmdSR2llbEtzNzNQUG94Z3Y0S0ZNUkEzS0VVYW1Gdw?oc=5",
+          "desc": "",
+          "title_en": "Korean beef clumping video 440,000 views... Catch foreign visitors with K-food content",
+          "title_ja": "韓国産牛塊動画44万視聴・・・K - foodコンテンツで外国人観光客をつかむ",
+          "title_zh": "韩国牛肉聚集视频44万次观看……用韩国美食内容吸引外国游客"
+        },
+        {
           "title": "\"80분이라더니 왜 벌써 와\"…배달 음식 훼손에 환불 요구 논란",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuM1J3akhqeW9seEQ5aU9RWWxBM1RrRlJtN2s2ZEhaSmZKYm55Qm4yUWhCcGxMUC1VMmxUWUNzUHl1ZXFXeHJQUU9ndVFJUEtHU0QtU1NHT3daZw?oc=5",
           "desc": "",
           "title_en": "“Why did you say 80 minutes already come?” … Controversy over demanding a refund for damaging the delivery food",
           "title_ja": "「80分がすでに来たとおっしゃったのはなぜですか？」…配達中の料理に損傷を与えた場合の返金を要求することをめぐる論争",
           "title_zh": "“你为什么说80分钟已经到了？” ……关于因派送餐点损坏而要求退款的争议"
-        },
-        {
-          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DWFVxRGJMeWJZTFBqS0tWcWtaNFZKNzZtMDlrN3hqOUFfS2dqRUpHYlhqSHpJY1lWa01LVWdIMDJ4dkg0TGJoNjV0a081Nkt5YjVaSGIwMmxlZw?oc=5",
-          "desc": "",
-          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
-          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
-          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
-        },
-        {
-          "title": "'스레파' 매출 1위 정호영 황태해장국, 인천공항 푸드코트 온다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVc0lLTkpoZUpzV0ZSdlUyLWlJWFpqWngyalo0RVFFV09wRmRscU5sR1I1dG11cEstNXBJOVltSjZSVUVoYmw1Vnk2MlBtREpIYnQzbk5tV2tVUQ?oc=5",
-          "desc": "",
-          "title_en": "'Srefa' sales number one Jeong Ho-young Hwang Taehaejangguk comes to Incheon Airport Food Court",
-          "title_ja": "「Srefa」セールナンバーワンJeong Ho - young Hwang Taehaejanggukが仁川空港フードコートにやってくる",
-          "title_zh": "「Srefa」销售一号Jeong Ho-young Hwang Taehaejangguk来到仁川机场美食广场"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "\"누적 조회수 1천만회\"…한국관광공사, K-푸드 콘텐츠 900여건",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WTZoODd5Z2h1Z1Q2UC1CUmVWQXQ1S3k3WWNqV2ZaSDE4SHZ3Nmg1WENfWnlRS0QxR2NWZUpveTFoVW56UmlUVmtFWDhweTNIM2c?oc=5",
+          "desc": "",
+          "title_en": "“10 million cumulative views” … Korea Tourism Organization, K-Food Content 900",
+          "title_ja": "「累計再生回数1,000万回」…韓国観光公社、K - Food Content 900",
+          "title_zh": "“累计浏览量1000万” ……韩国旅游组织， K-Food Content 900"
+        },
+        {
           "title": "경북도 푸드테크 산업화 속도…지역 특화사업 발굴·기업 투자 연계",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE81UmdRS0k1OTRMcElrX3c1U3Y5TG41TEFCaVN5ZVFxSTdEMmotdkJVUlRpVFBGNW1MUWZkRHdDdWJ3bE54bXc?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "景北食品科技产业化速度…发掘本土专业化企业，衔接企业投资"
         },
         {
-          "title": "여수서 세계 섬 음식 맛본다…올가을 미식가들 몰린다는 축제 [페스티벌 플러스]",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSGotWWsyVXBLbU53UzJMbjY5TXU5dldkWEl6cGt3ektWZ0VXS2JZc0cxMmVKZkpGdjd6Y2lEYTc1ZzNnUHl6U3RIV2lDNkhOSEZEcFdhdjLSAV5BVV95cUxOYjFIWS10RDlNTTczSWZYVDhmU2NySFJCdFctUHpiYXJWY1NLTHBMcmlBZUlkQ0RNc2xkdW9ZdXpMalhIdm8wZ3NBUkczTl9kdzlkYmN6UVpMTzlLaDZn?oc=5",
+          "title": "주식회사 현대그린푸드 변경상장(감자(주식소각))",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GaFVhNDFMTjAtbTF6RWdlOC1mVEVoUWFtRm9rbkN2ekpxZF9TWndWQWNKc0Jwb2hsd2ZWRGVob08wOVZwYUh5SUxlOGlraWVEX1RkMU1qbm9wZkk?oc=5",
           "desc": "",
-          "title_en": "Try the World Island Food of Yeosu Seo… Festivals that attract gourmets this fall [Festival Plus]",
-          "title_ja": "麗水ソのワールドアイランドフードを試してみよう…この秋グルメが集まるお祭り【フェスティバルプラス】",
-          "title_zh": "尝试丽水徐的世界岛美食……今年秋天吸引美食家的节日[Festival Plus]"
-        },
-        {
-          "title": "타이슨 푸드, 12억 달러 규모 채권 조기 매입..15억 달러 응모",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfUlozM2F3UEVQb21yQ0JtTF8wYzB5WjQzOENOOGladk0xX2xkaW9OZlBHd3BDSVRpaEwxR3dLNEFKVVZtWUxmcmRVNmM3VVBqbXc?oc=5",
-          "desc": "",
-          "title_en": "Tyson Foods Buys $1.2 Billion Bond Early.. Wins $1.5 Billion",
-          "title_ja": "タイソン・フーズ、12億ドルの債券を早期に購入… 15億ドルを獲得",
-          "title_zh": "泰森食品提前购买12亿美元债券..赢得15亿美元"
+          "title_en": "Changed listing of Hyundai Green Food Co., Ltd. (Potato (stock incineration))",
+          "title_ja": "現代グリーンフード（株）の上場変更（ジャガイモ（ストック焼却） ）",
+          "title_zh": "现代绿色食品股份有限公司上市变更（马铃薯（股票焚烧） ）"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "星巴克“Chuseok礼物” ，从28日开始提前预订"
         },
         {
+          "title": "고소한 맛 생각날 때 “참지 마요~”…‘참치마요 샐러드’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uNzZBV1l6dU5EN1RGdjlfMEhMSVdzUElvbzNQZ2VScno3RnY3R1FXa2lnRDhNRUpFd1hMZzJZbFlHOTJ5Slk4cklkNV9hdVZ1QkhMNUNBTQ?oc=5",
+          "desc": "",
+          "title_en": "When I think of savory flavors, I say, “Don't hold back!” … ‘Tuna Mayo Salad’",
+          "title_ja": "おいしい風味を思い浮かべると、「我慢しないで！」…「マグロのマヨサラダ」",
+          "title_zh": "当我想到咸味时，我会说： “不要犹豫！” …… “金枪鱼蛋黄酱沙拉”"
+        },
+        {
           "title": "호두크림의 새로운 활용법…캘리포니아 호두협회, 세미나 개최",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ucGRlUjg0MW1vcTIxeE9lenlDdW1taWJGcnk5dERwWkhNQWxsaWJ2OWZ2UXcwc3RHU1YzNTNfLUxtZC1CUEZVLW1CQ3JKWTQ2M2k2ZTg2VQ?oc=5",
           "desc": "",
           "title_en": "New Uses of Walnut Cream… California Walnut Association to Host Seminar",
           "title_ja": "クルミクリームの新しい用途…カリフォルニアクルミ協会がセミナーを開催",
           "title_zh": "核桃奶油的新用途……加州核桃协会举办研讨会"
-        },
-        {
-          "title": "K-콤부차 알린다…티젠, ‘올리브영 페스타 LA’ 참가",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZVkttb1BNQ0N6S0t2cmtqRURCLXJpWnN2Wkk0Q3cxQ3ViUWh1UUNqZjB4NVM1QW1oblpQcE00ZmR4Tnc3eFdmeGhXVGdOT3BVRDFIU2czMA?oc=5",
-          "desc": "",
-          "title_en": "Kombucha Alinda… Tizen to Participate in ‘Olive Young Festa LA’",
-          "title_ja": "Kombucha Alinda… Tizenが「Olive Young Festa LA」に参加",
-          "title_zh": "Kombucha Alinda… Tizen将参加“Olive Young Festa LA”"
         }
       ]
     }
