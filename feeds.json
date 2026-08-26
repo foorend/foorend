@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T12:51:35Z",
+  "lastUpdated": "2026-08-26T16:17:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -25,7 +25,7 @@
           "title": "The loss of low-income diners cost McDonald’s a lot of money last quarter",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTk1taVFFbGViYWwtTXRQQ3NRTnJIZWxCc05xeFJzQ3FjanVadWczUkJmaDIwb2dkamlCYlFkT2NzM0N5TjdOOGZQNFFuWVhGcFktX0pPVF9OZ045Z3ZWRzVybFU2SGw0dWttRjNNaG5JX1NmMDE3aXpFTXdJcWVleEttOWh5emtRc3dTTXN3aDM3NXR1dll0VzFGT3dQUkVPU2hoWEdkbmtnclk?oc=5",
           "desc": "",
-          "title_ko": "The loss of low-income diners cost McDonald’s a lot of money last quarter",
+          "title_ko": "저소득층 손님의 손실은 지난 분기에 맥도날드의 많은 돈을 요합니다.",
           "title_ja": "低収入のダイナーの損失は、前四半期にマクドナルドに多額のお金を費やしました",
           "title_zh": "上个季度，低收入用餐者的流失让麦当劳损失了很多钱"
         }
@@ -85,7 +85,7 @@
           "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
           "desc": "",
-          "title_ko": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
         }
@@ -95,6 +95,14 @@
       "label": "Eater",
       "site": "https://www.eater.com/trends",
       "items": [
+        {
+          "title": "I’m Over the Erewhonification of Fancy Grocery Stores",
+          "link": "https://www.eater.com/food-culture/981913/fancy-luxury-grocery-stores-have-gone-too-far-erewhon",
+          "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
+          "title_ko": "I 'm Over the Erewhonification of Fancy Grocery Stores",
+          "title_ja": "I 'm Over the Erewhonification of Fancy Grocery Stores",
+          "title_zh": "我对花式杂货店的Erewhonification感到满意"
+        },
         {
           "title": "You’re Invited to Eater Off Menu 2026",
           "link": "https://www.eater.com/press-room/981518/eater-off-menu-tickets-2026",
@@ -110,14 +118,6 @@
           "title_ko": "지금 차가 너무 뜨거워요",
           "title_ja": "お茶は今とても暑いです",
           "title_zh": "茶现在很热"
-        },
-        {
-          "title": "Why Anthony Bourdain’s Editor Wanted ‘Tony’ to Be Darker",
-          "link": "https://www.eater.com/food-culture/981130/tony-bourdain-screenwriters-movie-interview",
-          "desc": "There are two types of biopics: those that unconventionally show, and those that exhaustively tell. Thank goodness that Tony, the highly anticipated A",
-          "title_ko": "Anthony Bourdain의 편집자가 ‘Tony‘ 가 더 어두워지기를 바랐던 이유",
-          "title_ja": "アンソニー・ボーデインの編集者が「トニー」をダークにしたかった理由",
-          "title_zh": "为什么Anthony Bourdain的编辑希望“Tony”更黑暗"
         }
       ]
     }
@@ -140,7 +140,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iNTd2UFhyZjl6R3Y3TjR1SWczZklIVUtWNW9uNHl5ajVMZjNmc2JoTnlGU0s3cDd4eUt4NUFURU5sb25wSjFNZGlZVklqa2hrU0cxbWlDQVI1QQ?oc=5",
           "desc": "",
           "title_en": "Namdo Food Culture Big Banquet will be held in Najuseo, Jeonnam, Gwangju in October",
-          "title_ja": "남도음식문화큰잔치 10월 전남광주 나주서 열린다",
+          "title_ja": "南道食文化大宴会10月全南・光州・名古屋で開催",
           "title_zh": "南岛美食文化大宴会将于10月在光州全南Najuseo举行"
         },
         {
@@ -171,7 +171,7 @@
           "desc": "",
           "title_en": "Korea Tourism Organization announces 13 influencers and K-local food",
           "title_ja": "韓国観光機構、13人のインフルエンサーとKローカルフードを発表",
-          "title_zh": "한국관광공사, 13개국 인플루언서와 K-로컬푸드 알린다"
+          "title_zh": "韩国旅游组织宣布13位影响者和韩国当地美食"
         },
         {
           "title": "현대그린푸드, ‘모두의 상생’ 첫 시범사업…충남 농산물 500t 매입",
@@ -196,20 +196,20 @@
           "title_zh": "“累计浏览量1000万” ……韩国旅游组织， K-Food Content 900"
         },
         {
-          "title": "경북도 푸드테크 산업화 속도…지역 특화사업 발굴·기업 투자 연계",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE81UmdRS0k1OTRMcElrX3c1U3Y5TG41TEFCaVN5ZVFxSTdEMmotdkJVUlRpVFBGNW1MUWZkRHdDdWJ3bE54bXc?oc=5",
+          "title": "현대그린푸드 \"구내식당 간편식 인기\"…이용 비중 28% 역대 최대",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wNWFJMGVHdFJQbDdEdVhXazBkQlF3dTdwX283WnBscV9OdHluZ1Rqb2huSVVubUFUQnFFY1NVQXZNa19TbzEyMHJfWDZsa0hVbkE?oc=5",
           "desc": "",
-          "title_en": "Gyeongbuk Food Tech Industrialization Speed… Discovering Local Specialized Businesses and Linking Corporate Investment",
-          "title_ja": "景北のフードテック産業化スピード…地域特化ビジネスの発掘と企業投資の連携",
-          "title_zh": "景北食品科技产业化速度…发掘本土专业化企业，衔接企业投资"
+          "title_en": "Hyundai Green Food \"Popularity of cafeteria easy meals\" … 28% of use is the largest ever",
+          "title_ja": "ヒュンダイグリーンフード「カフェテリアの簡単な食事の人気」…使用率28 ％が史上最大",
+          "title_zh": "现代绿色食品“自助餐厅轻松用餐的受欢迎程度” …… 28%的使用率是有史以来最大的"
         },
         {
-          "title": "여수서 세계 섬 음식 맛본다…올가을 미식가들 몰린다는 축제 [페스티벌 플러스]",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSGotWWsyVXBLbU53UzJMbjY5TXU5dldkWEl6cGt3ektWZ0VXS2JZc0cxMmVKZkpGdjd6Y2lEYTc1ZzNnUHl6U3RIV2lDNkhOSEZEcFdhdjLSAV5BVV95cUxOYjFIWS10RDlNTTczSWZYVDhmU2NySFJCdFctUHpiYXJWY1NLTHBMcmlBZUlkQ0RNc2xkdW9ZdXpMalhIdm8wZ3NBUkczTl9kdzlkYmN6UVpMTzlLaDZn?oc=5",
+          "title": "커피부터 전통주까지…‘푸드’ 파는 패션 플랫폼들",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMG9pWlgxU3g1QzFNYVd6dGFzV1RFRUFhZFBpMDJXR0E5U0NsNUtwQXhyT0NUMWg4eXgtS2hINVk4d3hOSzRSdnlqN1lwRXYtSTJ3RFZR?oc=5",
           "desc": "",
-          "title_en": "Try the World Island Food of Yeosu Seo… Festivals that attract gourmets this fall [Festival Plus]",
-          "title_ja": "麗水ソのワールドアイランドフードを試してみよう…この秋グルメが集まるお祭り【フェスティバルプラス】",
-          "title_zh": "尝试丽水徐的世界岛美食……今年秋天吸引美食家的节日[Festival Plus]"
+          "title_en": "From coffee to traditional liquor… Fashion platforms that sell ‘food’",
+          "title_ja": "コーヒーから伝統的なお酒まで…「食」を売るファッションプラットフォーム",
+          "title_zh": "从咖啡到传统酒类……销售「美食」的时尚平台"
         }
       ]
     },
