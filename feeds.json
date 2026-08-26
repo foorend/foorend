@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T01:18:19Z",
+  "lastUpdated": "2026-08-26T03:53:18Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -39,7 +39,7 @@
           "title": "Food News & Trends",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
-          "title_ko": "Food News & Trends",
+          "title_ko": "음식 뉴스 및 트렌드",
           "title_ja": "フードニュース＆トレンド",
           "title_zh": "美食新闻和趋势"
         },
@@ -86,7 +86,7 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
           "desc": "",
           "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
         }
       ]
@@ -95,14 +95,6 @@
       "label": "Eater",
       "site": "https://www.eater.com/trends",
       "items": [
-        {
-          "title": "You’re Invited to Eater Off Menu 2026",
-          "link": "https://www.eater.com/press-room/981518/eater-off-menu-tickets-2026",
-          "desc": "We’re excited to invite you to Eater Off Menu, a night dedicated to tasting what’s trending and what’s next in food and drink at our biggest Los Angel",
-          "title_ko": "Eater Off Menu 2026에 초대되셨습니다.",
-          "title_ja": "2026年の注文者オフメニューに招待されました",
-          "title_zh": "您已受邀加入顾客关闭菜单2026"
-        },
         {
           "title": "Tea Is So Hot Right Now",
           "link": "https://www.eater.com/drinks/981280/modern-late-night-teahouse-trend-heytea-expansion",
@@ -118,6 +110,14 @@
           "title_ko": "Anthony Bourdain의 편집자가 ‘Tony‘ 가 더 어두워지기를 바랐던 이유",
           "title_ja": "アンソニー・ボーデインの編集者が「トニー」をダークにしたかった理由",
           "title_zh": "为什么Anthony Bourdain的编辑希望“Tony”更黑暗"
+        },
+        {
+          "title": "The Dinner Party Has Left the Building",
+          "link": "https://www.eater.com/food-culture/980064/earthwork-land-art-dinners",
+          "desc": "A few months ago, a small group gathered for a picnic during a retreat in upstate New York. In lieu of sitting on a grassy knoll with a checkered blan",
+          "title_ko": "저녁 식사 파티가 건물을 떠났습니다.",
+          "title_ja": "ディナーパーティーが建物を離れました",
+          "title_zh": "晚宴已经离开大楼"
         }
       ]
     }
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "한국관광공사, 13개국 인플루언서와 K-로컬푸드 알린다",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11OUhlbXpCb2lkTWg0UE9JRUJxMnQwQ3ZqbngxeTZDTThBVlBXdV9ydk1hcnZUNDF3bExlRS1Wb3Z0SklTbHk0Y3AyY1p1R2NRdUhZ?oc=5",
+          "desc": "",
+          "title_en": "Korea Tourism Organization announces 13 influencers and K-local food",
+          "title_ja": "韓国観光機構、13人のインフルエンサーとKローカルフードを発表",
+          "title_zh": "韩国旅游组织宣布13位影响者和韩国当地美食"
+        },
+        {
+          "title": "한국관광공사, 13개국 인플루언서와 K-로컬푸드 알린다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82WEg5RnZ0SHNrTUE2dTdfYmZnTEZTZ3ZPQ1BRQnRFLXUwRkp0SS1PckV6MW5hWHZaa3NTM0xTLVNEVDBobzBLeGNkQXlhcEZnN0NsemFCbGZwSzJNMTdwR0drMlBrQQ?oc=5",
+          "desc": "",
+          "title_en": "Korea Tourism Organization announces 13 influencers and K-local food",
+          "title_ja": "韓国観光機構、13人のインフルエンサーとKローカルフードを発表",
+          "title_zh": "韩国旅游组织宣布13位影响者和韩国当地美食"
+        },
+        {
           "title": "현대그린푸드, ‘모두의 상생’ 첫 시범사업…충남 농산물 500t 매입",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42MG0wZEZHVUNNMHhaWEJpMzRWSDBaUW9wX0d4WDgwVUc3My1zWHpOZ3ZSMmxQa09rQ0x3MGluLWpRckR0NExzTmhsUXUwVnUxNHc?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Food, the first pilot project for ’win-win for all' … Purchased 500t of agricultural products in Chungcheongnam-do",
           "title_ja": "現代グリーンフード、「すべての人のためのウィンウィン」の最初のパイロットプロジェクト…忠清南道で500トンの農産物を購入",
           "title_zh": "现代绿色食品， “共赢共赢”的首个试点项目……在忠清南道购买了500吨农产品"
-        },
-        {
-          "title": "현대그린푸드, ‘모두의 상생’ 첫 시범사업…충남 농산물 500t 매입",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1R1VuWE9pSHcwWkJfeE9zeEhPZUtRN1lySjNWMlc0MTJoaVZ0dHpRRENmQXlqUGdVTFY2X0FOdUNKdzJ2Q1gxYjN4QzYxdi1DWEJB?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, the first pilot project for ’win-win for all' … Purchased 500t of agricultural products in Chungcheongnam-do",
-          "title_ja": "現代グリーンフード、「すべての人のためのウィンウィン」の最初のパイロットプロジェクト…忠清南道で500トンの農産物を購入",
-          "title_zh": "现代绿色食品， “共赢共赢”的首个试点项目……在忠清南道购买了500吨农产品"
-        },
-        {
-          "title": "통관부터 콜드체인·마케팅까지…코트라, K푸드 美 물류 원스톱 지원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KbW1na0ZRUmxCSVctWkhpUE5sZ0NiYzhreU1rQ3Jsa25aVGRITkdvZUtxZnNVelREdnEtS3ljSXFhR1VQX1ZRQjFiRWpTU3hlQWc?oc=5",
-          "desc": "",
-          "title_en": "From customs clearance to cold chain marketing… KOTRA, K-FOOD beauty logistics one-stop support",
-          "title_ja": "通関からコールドチェーンマーケティングまで… KOTRA、K - FOOD BEAUTYロジスティクスワンストップサポート",
-          "title_zh": "从清关到冷链营销…… KOTRA、K-FOOD美容物流一站式支持"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "景北食品科技产业化速度…发掘本土专业化企业，衔接企业投资"
         },
         {
-          "title": "주식회사 현대그린푸드 변경상장(감자(주식소각))",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GaFVhNDFMTjAtbTF6RWdlOC1mVEVoUWFtRm9rbkN2ekpxZF9TWndWQWNKc0Jwb2hsd2ZWRGVob08wOVZwYUh5SUxlOGlraWVEX1RkMU1qbm9wZkk?oc=5",
+          "title": "여수서 세계 섬 음식 맛본다…올가을 미식가들 몰린다는 축제 [페스티벌 플러스]",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSGotWWsyVXBLbU53UzJMbjY5TXU5dldkWEl6cGt3ektWZ0VXS2JZc0cxMmVKZkpGdjd6Y2lEYTc1ZzNnUHl6U3RIV2lDNkhOSEZEcFdhdjLSAV5BVV95cUxOYjFIWS10RDlNTTczSWZYVDhmU2NySFJCdFctUHpiYXJWY1NLTHBMcmlBZUlkQ0RNc2xkdW9ZdXpMalhIdm8wZ3NBUkczTl9kdzlkYmN6UVpMTzlLaDZn?oc=5",
           "desc": "",
-          "title_en": "Changed listing of Hyundai Green Food Co., Ltd. (Potato (stock incineration))",
-          "title_ja": "現代グリーンフード（株）の上場変更（ジャガイモ（ストック焼却） ）",
-          "title_zh": "现代绿色食品股份有限公司上市变更（马铃薯（股票焚烧） ）"
+          "title_en": "Try the World Island Food of Yeosu Seo… Festivals that attract gourmets this fall [Festival Plus]",
+          "title_ja": "麗水ソのワールドアイランドフードを試してみよう…この秋グルメが集まるお祭り【フェスティバルプラス】",
+          "title_zh": "尝试丽水徐的世界岛美食……今年秋天吸引美食家的节日[Festival Plus]"
         }
       ]
     },
