@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T00:29:37Z",
+  "lastUpdated": "2026-08-27T13:51:13Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "“氛围编码”正在改变餐厅的构建或购买争论"
         },
         {
-          "title": "The loss of low-income diners cost McDonald’s a lot of money last quarter",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTk1taVFFbGViYWwtTXRQQ3NRTnJIZWxCc05xeFJzQ3FjanVadWczUkJmaDIwb2dkamlCYlFkT2NzM0N5TjdOOGZQNFFuWVhGcFktX0pPVF9OZ045Z3ZWRzVybFU2SGw0dWttRjNNaG5JX1NmMDE3aXpFTXdJcWVleEttOWh5emtRc3dTTXN3aDM3NXR1dll0VzFGT3dQUkVPU2hoWEdkbmtnclk?oc=5",
+          "title": "Steak fans are seeking a more casual dining experience, and Outback is delivering",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2tKSkk2cVJPY3AxZ0ZxNFlsVjdtZEdVcE9YY3BJdzhCUFNMb3RFV3l6bHBPWjdtaVVLZHNUaEFsa19yS25PUXg0UnZaYUNNZzRkS2c4dWNNTFBmMFBoQnNweFplSjRVV2ltbnJHVFRUb1NCMEppY0FrTjNVNXdlZ3pxVXdmVG9yUWFXcGRlYTdTNENqalRoQlVraWVzSEUzNWdfaU1PTkRzdXUzWEVmTWM0NA?oc=5",
           "desc": "",
-          "title_ko": "저소득층 손님의 손실은 지난 분기에 맥도날드의 많은 돈을 요합니다.",
-          "title_ja": "低収入のダイナーの損失は、前四半期にマクドナルドに多額のお金を費やしました",
-          "title_zh": "上个季度，低收入用餐者的流失让麦当劳损失了很多钱"
+          "title_ko": "스테이크 애호가들은 좀 더 캐주얼한 식사 경험을 원하고 있으며, 아웃백은",
+          "title_ja": "ステーキファンはよりカジュアルなダイニング体験を求めており、アウトバックは",
+          "title_zh": "牛排爱好者正在寻求更休闲的用餐体验，而Outback正在提供"
         }
       ]
     },
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "W컨셉, 첫 ‘푸드페어’ 개최…프리미엄 미식 선보여",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hMHYtV29ZXzdscG9fekpKU0dQZlk0S05zaXNQV1pRS2VTRk9PbWRqVFVfeG1lVVJhQnJ5Yk5aa001NldTakQ2eFpsaTZuS29BMjQzSGRzaXRNTlczSWx5VW1JZUVlQjZad0NKYg?oc=5",
-          "desc": "",
-          "title_en": "W Concept Holds First ‘Food Fair’ … Showcasing Premium Gastronomy",
-          "title_ja": "Wコンセプトが初の「フードフェア」を開催…プレミアムガストロノミーを披露",
-          "title_zh": "W Concept举办首届“美食博览会” …展示顶级美食"
-        },
-        {
           "title": "남도음식문화큰잔치 10월 전남광주 나주서 열린다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iNTd2UFhyZjl6R3Y3TjR1SWczZklIVUtWNW9uNHl5ajVMZjNmc2JoTnlGU0s3cDd4eUt4NUFURU5sb25wSjFNZGlZVklqa2hrU0cxbWlDQVI1QQ?oc=5",
           "desc": "",
@@ -144,12 +136,20 @@
           "title_zh": "南岛美食文化大宴会将于10月在光州全南Najuseo举行"
         },
         {
-          "title": "한우 뭉티기 영상 44만뷰…K-푸드 콘텐츠로 외국인 방한객 잡는다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVRTE1RnIxdHQzQVlmQXVPZjFqMk1wN1FjQUozU0g0QlRYelhmRjBPTERvUW5udzAtTTNwcmdSR2llbEtzNzNQUG94Z3Y0S0ZNUkEzS0VVYW1Gdw?oc=5",
+          "title": "W컨셉, 첫 ‘푸드페어’ 개최…프리미엄 미식 선보여",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hMHYtV29ZXzdscG9fekpKU0dQZlk0S05zaXNQV1pRS2VTRk9PbWRqVFVfeG1lVVJhQnJ5Yk5aa001NldTakQ2eFpsaTZuS29BMjQzSGRzaXRNTlczSWx5VW1JZUVlQjZad0NKYg?oc=5",
           "desc": "",
-          "title_en": "Korean beef clumping video 440,000 views... Catch foreign visitors with K-food content",
-          "title_ja": "韓国産牛塊動画44万視聴・・・K - foodコンテンツで外国人観光客をつかむ",
-          "title_zh": "韩国牛肉聚集视频44万次观看……用韩国美食内容吸引外国游客"
+          "title_en": "W Concept Holds First ‘Food Fair’ … Showcasing Premium Gastronomy",
+          "title_ja": "Wコンセプトが初の「フードフェア」を開催…プレミアムガストロノミーを披露",
+          "title_zh": "W Concept举办首届“美食博览会” …展示顶级美食"
+        },
+        {
+          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DWFVxRGJMeWJZTFBqS0tWcWtaNFZKNzZtMDlrN3hqOUFfS2dqRUpHYlhqSHpJY1lWa01LVWdIMDJ4dkg0TGJoNjV0a081Nkt5YjVaSGIwMmxlZw?oc=5",
+          "desc": "",
+          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
+          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
+          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“야장에서 꼬깔콘을”…롯데웰푸드, 을지로 만선호프와 이색 협업",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQRnJ0QzJmOWFwbWlDSV91TmYtdUZEd29wV0haT2ZsbHRlZEdkRUNjWVoxc2pUNzYtMHgxNE1wWEtQR0tBNkJhaFJnSGR2OU5DdFE?oc=5",
+          "desc": "",
+          "title_en": "“Kokkakkon in the night field” … Exotic collaboration with Lotte Well Food and Euljiro Manseonhof",
+          "title_ja": "「Kokkakkon in the night field」…ロッテウェルフードとEuljiro Manseonhofとのエキゾチックなコラボレーション",
+          "title_zh": "「Kokkakkon in the night field」…与Lotte Well Food和Euljiro Manseonhof进行异国情调的合作"
+        },
         {
           "title": "패스트푸드 넘어 미식으로…버거킹, 와퍼 코스·플래그십으로 ‘1조 시대’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KV3VjUUNha1g3SUVQMkFXaFVUOEU2UnBoMFRhTnlIUVZvRHpLeUhyalNkclJ4b0w4SzdibWZTTEl1YmFrTVMwNjVPV2RSSk1vV2c?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Korea Tourism Organization announces 13 influencers and K-local food",
           "title_ja": "韓国観光機構、13人のインフルエンサーとKローカルフードを発表",
           "title_zh": "韩国旅游组织宣布13位影响者和韩国当地美食"
-        },
-        {
-          "title": "한국관광공사, 13개국 인플루언서와 K-로컬푸드 알린다",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11OUhlbXpCb2lkTWg0UE9JRUJxMnQwQ3ZqbngxeTZDTThBVlBXdV9ydk1hcnZUNDF3bExlRS1Wb3Z0SklTbHk0Y3AyY1p1R2NRdUhZ?oc=5",
-          "desc": "",
-          "title_en": "Korea Tourism Organization announces 13 influencers and K-local food",
-          "title_ja": "韓国観光機構、13人のインフルエンサーとKローカルフードを発表",
-          "title_zh": "韩国旅游组织宣布13位影响者和韩国当地美食"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "가톨릭관동대·연암대, 푸드테크·스마트팜 융합 연구개발 맞손",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoWTVhZ19JdWpqc2dud0tMc0pXS29sTTI0ZzAwc1FXM29HMHFzN1ZxU0xPR29LRE9Ba0hMX3hhZ0JtYVhFWkxub01zV0pqNDJaVkE?oc=5",
+          "desc": "",
+          "title_en": "Catholic Kwandong University · Yonam University, Food Tech · Smart Farm Convergence R&D",
+          "title_ja": "カトリック関東大学・ヨナム大学、フードテック・スマートファームコンバージェンス研究開発",
+          "title_zh": "天主教广东大学· Yonam大学，食品科技·智慧农场融合研发"
+        },
+        {
+          "title": "농식품부, '기본소득·K푸드수출' 등 성과에 포상금 8천만원",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOVkxjWm5Ha2xzUU02bTl3RXFzT0x1dzhBUDc0cG9GV3pTY3VRNjBTa3NfbVNYV2Q5N3JDWC1SVndobmtSQmk3R2MzdXoxRTdLSGc?oc=5",
+          "desc": "",
+          "title_en": "Bounty of 80 million won for achievements such as the Ministry of Agriculture and Food, 'Basic Income and K-Food Export'",
+          "title_ja": "農林水産省、「ベーシックインカムとK食品輸出」などの業績に対して8000万ウォンの報奨金",
+          "title_zh": "为农业和食品部、“基本收入和K-Food出口”等成就提供8000万韩元的奖金"
+        },
+        {
           "title": "\"누적 조회수 1천만회\"…한국관광공사, K-푸드 콘텐츠 900여건",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WTZoODd5Z2h1Z1Q2UC1CUmVWQXQ1S3k3WWNqV2ZaSDE4SHZ3Nmg1WENfWnlRS0QxR2NWZUpveTFoVW56UmlUVmtFWDhweTNIM2c?oc=5",
           "desc": "",
           "title_en": "“10 million cumulative views” … Korea Tourism Organization, K-Food Content 900",
           "title_ja": "「累計再生回数1,000万回」…韓国観光公社、K - Food Content 900",
           "title_zh": "“累计浏览量1000万” ……韩国旅游组织， K-Food Content 900"
-        },
-        {
-          "title": "현대그린푸드 \"구내식당 간편식 인기\"…이용 비중 28% 역대 최대",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wNWFJMGVHdFJQbDdEdVhXazBkQlF3dTdwX283WnBscV9OdHluZ1Rqb2huSVVubUFUQnFFY1NVQXZNa19TbzEyMHJfWDZsa0hVbkE?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food \"Popularity of cafeteria easy meals\" … 28% of use is the largest ever",
-          "title_ja": "ヒュンダイグリーンフード「カフェテリアの簡単な食事の人気」…使用率28 ％が史上最大",
-          "title_zh": "现代绿色食品“自助餐厅轻松用餐的受欢迎程度” …… 28%的使用率是有史以来最大的"
-        },
-        {
-          "title": "커피부터 전통주까지…‘푸드’ 파는 패션 플랫폼들",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMG9pWlgxU3g1QzFNYVd6dGFzV1RFRUFhZFBpMDJXR0E5U0NsNUtwQXhyT0NUMWg4eXgtS2hINVk4d3hOSzRSdnlqN1lwRXYtSTJ3RFZR?oc=5",
-          "desc": "",
-          "title_en": "From coffee to traditional liquor… Fashion platforms that sell ‘food’",
-          "title_ja": "コーヒーから伝統的なお酒まで…「食」を売るファッションプラットフォーム",
-          "title_zh": "从咖啡到传统酒类……销售「美食」的时尚平台"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "当我想到咸味时，我会说： “不要犹豫！” …… “金枪鱼蛋黄酱沙拉”"
         },
         {
-          "title": "호두크림의 새로운 활용법…캘리포니아 호두협회, 세미나 개최",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ucGRlUjg0MW1vcTIxeE9lenlDdW1taWJGcnk5dERwWkhNQWxsaWJ2OWZ2UXcwc3RHU1YzNTNfLUxtZC1CUEZVLW1CQ3JKWTQ2M2k2ZTg2VQ?oc=5",
+          "title": "새 단장한 ‘맥심 티오피’…“가장 가까운 휴식”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnM1VJb3lZQUxjTnluUzZmOEhhUjg4MDFSblUwZm0tbWtfTFA2NzdCX2dpTWlCTFFhSUZWYThGeWZyTDV4MDh1SnBkLWJBNWoweENSa0JJRQ?oc=5",
           "desc": "",
-          "title_en": "New Uses of Walnut Cream… California Walnut Association to Host Seminar",
-          "title_ja": "クルミクリームの新しい用途…カリフォルニアクルミ協会がセミナーを開催",
-          "title_zh": "核桃奶油的新用途……加州核桃协会举办研讨会"
+          "title_en": "The newly renovated ‘Maxim Tiopi’ … “The Closest Rest”",
+          "title_ja": "新しく改装された「マキシム・ティオピ」…「最寄りの休憩所」",
+          "title_zh": "新装修的「Maxim Tiopi」……「最近的休息」"
         }
       ]
     }
