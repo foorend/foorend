@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T19:46:01Z",
+  "lastUpdated": "2026-08-27T00:29:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "패스트푸드 넘어 미식으로…버거킹, 와퍼 코스·플래그십으로 ‘1조 시대’ 연다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KV3VjUUNha1g3SUVQMkFXaFVUOEU2UnBoMFRhTnlIUVZvRHpLeUhyalNkclJ4b0w4SzdibWZTTEl1YmFrTVMwNjVPV2RSSk1vV2c?oc=5",
+          "desc": "",
+          "title_en": "Beyond fast food, gourmet… Burger King opens‘ Trillion Era ‘with Wafer Course and Flagship",
+          "title_ja": "ファストフードを超えて、グルメ…バーガーキングがウェーハコースとフラッグシップで「Trillion Era」を開く",
+          "title_zh": "除了快餐，还有美食……汉堡王开启“万亿时代” ，推出威化课程和旗舰店"
+        },
+        {
           "title": "한국관광공사, 13개국 인플루언서와 K-로컬푸드 알린다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WMUs2SWpXR1d2elFVelU4Y091MUNEMjc3VVNudnlSb0hkZ094NEFITENsQjBmaU9uSzdxRThDeFZxQkhvd2Y4NGozSGc0dVU4Z2c?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "Korea Tourism Organization announces 13 influencers and K-local food",
           "title_ja": "韓国観光機構、13人のインフルエンサーとKローカルフードを発表",
           "title_zh": "韩国旅游组织宣布13位影响者和韩国当地美食"
-        },
-        {
-          "title": "통관부터 콜드체인·마케팅까지…코트라, K푸드 美 물류 원스톱 지원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KbW1na0ZRUmxCSVctWkhpUE5sZ0NiYzhreU1rQ3Jsa25aVGRITkdvZUtxZnNVelREdnEtS3ljSXFhR1VQX1ZRQjFiRWpTU3hlQWc?oc=5",
-          "desc": "",
-          "title_en": "From customs clearance to cold chain marketing… KOTRA, K-FOOD beauty logistics one-stop support",
-          "title_ja": "通関からコールドチェーンマーケティングまで… KOTRA、K - FOOD BEAUTYロジスティクスワンストップサポート",
-          "title_zh": "从清关到冷链营销…… KOTRA、K-FOOD美容物流一站式支持"
         }
       ]
     },
