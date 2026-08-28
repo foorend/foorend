@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T00:15:42Z",
+  "lastUpdated": "2026-08-28T14:56:59Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "德克萨斯州Roadhouse说，指控种族主义行为的帖子是一个骗局"
         },
         {
-          "title": "'Vibe coding' is changing the build-or-buy debate for restaurants",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmtkc2VoV3QxU0xZTUE3UVVxbElMa2Nkd1ZKVVVINDRLbHo1eEtEbXFqQ3R6Q2hmOXQzNkxqMGJyYlJIOEJVS3luSUpyVkN0N2Z3dmRicWI2dXlfOGMyUk9NN2RVdlplbmxURkRjbWw2Nl8xbENObWUyY2pWZWMwOER3dUtRR0drSHJzNXN3WDVuZ3hTTHpWMnk1YXEyZTd5Q0E?oc=5",
+          "title": "Why fast food's drive toward 100% digital is misguided",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFFGZHROc24tZkNnb2xWSHp5TDV0YUtUVXpSQUlhSWxtdGJwcjNfNmMzdXZhT2d2Q2dMYjNlSlBPYUZSRnhiYXlQZ2JRQjNFbVNhWkVnU1VvdklqMDdHSFVQYVpWdnBuM0VKY3FvYXBlSHZVcW5Kc2RjcjlfMjFDZGhTVmFqUE5GU0VVejdZbjY1YTFsWDRMakNGT2k?oc=5",
           "desc": "",
-          "title_ko": "'바이브 코딩 (Vibe coding)' 은 레스토랑에 대한 빌드 또는 바이 (build-or-buy) 논쟁을 변화시키고",
-          "title_ja": "「雰囲気コーディング」は、レストランの構築または購入の議論を変えています",
-          "title_zh": "“氛围编码”正在改变餐厅的构建或购买争论"
+          "title_ko": "100% 디지털을 향한 패스트푸드의 추진력이 잘못된 이유",
+          "title_ja": "ファーストフードが100 ％デジタル化を目指しているのは、なぜ間違っているのか",
+          "title_zh": "为什么快餐业向100%数字化迈进被误导了"
         }
       ]
     },
@@ -128,12 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "남도음식문화큰잔치 10월 전남광주 나주서 열린다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iNTd2UFhyZjl6R3Y3TjR1SWczZklIVUtWNW9uNHl5ajVMZjNmc2JoTnlGU0s3cDd4eUt4NUFURU5sb25wSjFNZGlZVklqa2hrU0cxbWlDQVI1QQ?oc=5",
+          "title": "\"요즘 술을 안 먹어요\" 고민하더니…'음식 페어링'에 꽂혔다 [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qT1BqVk83aWVlV2t5WlZxY01FaHlZenlfX09XWUcxZ2ZNVzY5RWMtbVR0ZnRXMUpGdkdlaTlHOTdkUFlwSklDODFyTzdwMFZ6Y3JNWmF5RGFzUQ?oc=5",
           "desc": "",
-          "title_en": "Namdo Food Culture Big Banquet will be held in Najuseo, Jeonnam, Gwangju in October",
-          "title_ja": "南道食文化大宴会10月全南・光州・名古屋で開催",
-          "title_zh": "南岛美食文化大宴会将于10月在光州全南Najuseo举行"
+          "title_en": "\"I don't drink alcohol these days\" I thought about it... I was hooked on 'food pairing' [Trend +]",
+          "title_ja": "「最近はアルコールを飲まない」と考えていました…「フードペアリング」に夢中になっていました[トレンド+]",
+          "title_zh": "“这些天我不喝酒”我想了想……我迷上了“食物搭配” [趋势+]"
+        },
+        {
+          "title": "K-푸드 세계화, 이제 ‘법의 국경’을 넘어야 한다 [황우진의 글로벌 퍼스펙티브]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBadThZVk13MF9qYlhnT2xESlgxdEM3WHNCSHZpLUk5LVdneVp6aW5aczVwZ2FROGhya2p4VGp5UUgwaGNVdlpPWmF0NWpQNFR4UE43bVdtUVgyQQ?oc=5",
+          "desc": "",
+          "title_en": "K-Food Globalization Must Now Cross‘ Law Borders’ [Woojin Hwang's Global Perspective]",
+          "title_ja": "K - Foodグローバリゼーションは今や「法の国境」を越えなければならない[Woojin Hwangのグローバルな視点]",
+          "title_zh": "K-Food全球化现在必须跨越“法律边界” [Woojin Hwang的全球视角]"
         },
         {
           "title": "W컨셉, 첫 ‘푸드페어’ 개최…프리미엄 미식 선보여",
@@ -142,14 +150,6 @@
           "title_en": "W Concept Holds First ‘Food Fair’ … Showcasing Premium Gastronomy",
           "title_ja": "Wコンセプトが初の「フードフェア」を開催…プレミアムガストロノミーを披露",
           "title_zh": "W Concept举办首届“美食博览会” …展示顶级美食"
-        },
-        {
-          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DWFVxRGJMeWJZTFBqS0tWcWtaNFZKNzZtMDlrN3hqOUFfS2dqRUpHYlhqSHpJY1lWa01LVWdIMDJ4dkg0TGJoNjV0a081Nkt5YjVaSGIwMmxlZw?oc=5",
-          "desc": "",
-          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
-          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
-          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
         }
       ]
     },
@@ -188,20 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "가톨릭관동대·연암대, 푸드테크·스마트팜 융합 연구개발 맞손",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoWTVhZ19JdWpqc2dud0tMc0pXS29sTTI0ZzAwc1FXM29HMHFzN1ZxU0xPR29LRE9Ba0hMX3hhZ0JtYVhFWkxub01zV0pqNDJaVkE?oc=5",
+          "title": "특징주, 롯데웰푸드-여름 테마 상승세에 7.79% ↑",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13Y3E5aWpMUG1QWjRQdzY2UFQ0MTcxVXdQX3RpR21QdkZQMjFTT1lHMGxRdjNQdVl1TFl4NFZCSk54eXlsUW4xN1ZUeUtVQ2x0blE?oc=5",
           "desc": "",
-          "title_en": "Catholic Kwandong University · Yonam University, Food Tech · Smart Farm Convergence R&D",
-          "title_ja": "カトリック関東大学・ヨナム大学、フードテック・スマートファームコンバージェンス研究開発",
-          "title_zh": "天主教广东大学· Yonam大学，食品科技·智慧农场融合研发"
-        },
-        {
-          "title": "농식품부, '기본소득·K푸드수출' 등 성과에 포상금 8천만원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOVkxjWm5Ha2xzUU02bTl3RXFzT0x1dzhBUDc0cG9GV3pTY3VRNjBTa3NfbVNYV2Q5N3JDWC1SVndobmtSQmk3R2MzdXoxRTdLSGc?oc=5",
-          "desc": "",
-          "title_en": "Bounty of 80 million won for achievements such as the Ministry of Agriculture and Food, 'Basic Income and K-Food Export'",
-          "title_ja": "農林水産省、「ベーシックインカムとK食品輸出」などの業績に対して8000万ウォンの報奨金",
-          "title_zh": "为农业和食品部、“基本收入和K-Food出口”等成就提供8000万韩元的奖金"
+          "title_en": "Characteristic shares, Lotte Well Food-Summer theme up 7.79% ↑",
+          "title_ja": "特徴的な株、ロッテウェルフード-夏のテーマは7.79 ％上昇 ↑",
+          "title_zh": "特色股，乐天Well Food-Summer主题上涨7.79% ↑"
         },
         {
           "title": "현대그린푸드, 강남에 ‘이탈리’ 4호점…다이닝 특화로 승부",
@@ -210,6 +202,14 @@
           "title_en": "Hyundai Green Food, the 4th ‘Italy’ store in Gangnam… Battled by Dining Specialty",
           "title_ja": "ヒュンダイグリーンフード、江南で4番目の「イタリア」店…ダイニングスペシャリティとの戦い",
           "title_zh": "现代绿色食品，江南第四家“意大利”商店……与特色餐饮作斗争"
+        },
+        {
+          "title": "“남편이 밤마다 사라져요”…바지내리는 남성의 고민 ‘이 음식’ 때문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JUlNuUU83M2EtTE9yaGxUQmZiVzlvT3VveXRORi1uT1h5TWNJeFB2V21mMERjTFpkN2hzOFRmZmtITDlTOS1DQXVPZXd2dw?oc=5",
+          "desc": "",
+          "title_en": "“My husband disappears every night” … Because of the man's troubles with his pants down ‘This food’",
+          "title_ja": "「私の夫は毎晩姿を消します」…男がズボンを履いているトラブルのため「この食べ物」",
+          "title_zh": "“我丈夫每晚都会消失” ……因为那个男人裤子穿得很麻烦“这道菜”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "星巴克“Chuseok礼物” ，从28日开始提前预订"
         },
         {
-          "title": "새 단장한 ‘맥심 티오피’…“가장 가까운 휴식”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnM1VJb3lZQUxjTnluUzZmOEhhUjg4MDFSblUwZm0tbWtfTFA2NzdCX2dpTWlCTFFhSUZWYThGeWZyTDV4MDh1SnBkLWJBNWoweENSa0JJRQ?oc=5",
-          "desc": "",
-          "title_en": "The newly renovated ‘Maxim Tiopi’ … “The Closest Rest”",
-          "title_ja": "新しく改装された「マキシム・ティオピ」…「最寄りの休憩所」",
-          "title_zh": "新装修的「Maxim Tiopi」……「最近的休息」"
-        },
-        {
           "title": "토마토 으깨서 커민가루 톡톡…‘토마토 처트니’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yTDU5QzF0N0FlRzdDMXNFUFNOdnQ0S2NBd3hWNFlDLTNXMWN0QkFPTktiUlR4Qi1KRExIMGROYWNFcXlEcVdjdWg2dmJ5ZGpCaWRIRkF0cw?oc=5",
           "desc": "",
           "title_en": "Tomato mash and cumin powder toktok... ‘tomato chutney’",
           "title_ja": "トマトマッシュとクミンパウダーのトクトック…「トマトチャツネ」",
           "title_zh": "番茄泥和孜然粉toktok... “番茄酸辣酱”"
+        },
+        {
+          "title": "“커피도 ‘언제’ 마시느냐가 중요”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBocGMzNTRuLTg4Vmw1dHRwSGR4Zkh4Q1pkUm5QNWhSemgyVnBJRHBHbGFJVHJrZmVDV21NZk9PbjBHZERNdzZ4RzViQlZ6VjBzcHlzZmc0WQ?oc=5",
+          "desc": "",
+          "title_en": "&quot;Even with coffee, &#39;when&#39; you drink it matters.&quot;",
+          "title_ja": "「『いつ』コーヒーを飲むことも重要です。」",
+          "title_zh": "“'什么时候‘喝咖啡也很重要。”"
         }
       ]
     }
