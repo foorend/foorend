@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-08-28T14:56:59Z",
+  "lastUpdated": "2026-08-28T23:57:55Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Owner raises $240M for 'AI-native' restaurant tech",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGJnRUVESUUyNWVSc2JINDJCWDBHNWpzODVQRjV2YjNrV1lVMkIyTGJLdVlXQ3RST0gzWXdZVVBoMXhEb2JXaDVpTTNxc3FZQTJSS196SXE0eVBmbGFLbzR6alRnS0h5VnZTVkFVMUlQcEZxdHlaaGpMSF8yc0NJNm5LLVhsTFpXc3cwTGhKOFpKdWlPTkJORjRTcw?oc=5",
+          "desc": "",
+          "title_ko": "오너, 'AI 네이티브' 레스토랑 기술로 $ 240M 모금",
+          "title_ja": "オーナーが「AIネイティブ」レストラン技術のために2億4000万$を調達",
+          "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
+        },
         {
           "title": "McDonald's franchisee profitability takes a hit just as the company eyes remodels",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1RTDBtcG8tZ0xPRjQ5aEg1eHJIQWNxTEpWWVpiS1NDRzFYOTBIVDJvZGZIQUhXeWEwVnktU29BSjhOTG1YUUpYLVU2d2V4TGM3WXkwVEJUaEpGZjBZYm5HUEUtUzVQcXU2N1VpaklYQ2t1eHU0TXNjWU5adE1mX1Y4ZXNFVVRyTVNWUmVUR3lsTGN3bGpSaF8yaks1dlZQcEQyVGNzQU4zSnBrRWdyaFpVeGFncC0waHc?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "텍사스 로드하우스는 인종차별적 관행을 주장하는 게시물이 사기라고 말했습니다.",
           "title_ja": "テキサス州ロードハウスは、人種差別的な慣行を主張する投稿はでっち上げだったと言います",
           "title_zh": "德克萨斯州Roadhouse说，指控种族主义行为的帖子是一个骗局"
-        },
-        {
-          "title": "Why fast food's drive toward 100% digital is misguided",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFFGZHROc24tZkNnb2xWSHp5TDV0YUtUVXpSQUlhSWxtdGJwcjNfNmMzdXZhT2d2Q2dMYjNlSlBPYUZSRnhiYXlQZ2JRQjNFbVNhWkVnU1VvdklqMDdHSFVQYVpWdnBuM0VKY3FvYXBlSHZVcW5Kc2RjcjlfMjFDZGhTVmFqUE5GU0VVejdZbjY1YTFsWDRMakNGT2k?oc=5",
-          "desc": "",
-          "title_ko": "100% 디지털을 향한 패스트푸드의 추진력이 잘못된 이유",
-          "title_ja": "ファーストフードが100 ％デジタル化を目指しているのは、なぜ間違っているのか",
-          "title_zh": "为什么快餐业向100%数字化迈进被误导了"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "‘Still or Sparkling’ Must Be Stopped",
+          "link": "https://www.eater.com/dining-out/982697/still-sparkling-or-filtered-tap",
+          "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
+          "title_ko": "‘스틸 또는 스파클링’ 을 중지해야 함",
+          "title_ja": "「スティルまたはスパークリング」を止める必要があります",
+          "title_zh": "必须停止“静止或闪闪发光”"
+        },
+        {
           "title": "Actually, Dining Side-by-Side in Restaurants Is Good",
           "link": "https://www.eater.com/dining-out/981844/is-it-ok-to-dine-side-by-side-in-a-restaurant",
           "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
@@ -110,14 +118,6 @@
           "title_ko": "I 'm Over the Erewhonification of Fancy Grocery Stores",
           "title_ja": "I 'm Over the Erewhonification of Fancy Grocery Stores",
           "title_zh": "我对花式杂货店的Erewhonification感到满意"
-        },
-        {
-          "title": "You’re Invited to Eater Off Menu 2026",
-          "link": "https://www.eater.com/press-room/981518/eater-off-menu-tickets-2026",
-          "desc": "We’re excited to invite you to Eater Off Menu, a night dedicated to tasting what’s trending and what’s next in food and drink at our biggest Los Angel",
-          "title_ko": "Eater Off Menu 2026에 초대되셨습니다.",
-          "title_ja": "2026年の注文者オフメニューに招待されました",
-          "title_zh": "您已受邀加入顾客关闭菜单2026"
         }
       ]
     }
@@ -144,12 +144,12 @@
           "title_zh": "K-Food全球化现在必须跨越“法律边界” [Woojin Hwang的全球视角]"
         },
         {
-          "title": "W컨셉, 첫 ‘푸드페어’ 개최…프리미엄 미식 선보여",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hMHYtV29ZXzdscG9fekpKU0dQZlk0S05zaXNQV1pRS2VTRk9PbWRqVFVfeG1lVVJhQnJ5Yk5aa001NldTakQ2eFpsaTZuS29BMjQzSGRzaXRNTlczSWx5VW1JZUVlQjZad0NKYg?oc=5",
+          "title": "'스레파' 매출 1위 정호영 황태해장국, 인천공항 푸드코트 온다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVc0lLTkpoZUpzV0ZSdlUyLWlJWFpqWngyalo0RVFFV09wRmRscU5sR1I1dG11cEstNXBJOVltSjZSVUVoYmw1Vnk2MlBtREpIYnQzbk5tV2tVUQ?oc=5",
           "desc": "",
-          "title_en": "W Concept Holds First ‘Food Fair’ … Showcasing Premium Gastronomy",
-          "title_ja": "Wコンセプトが初の「フードフェア」を開催…プレミアムガストロノミーを披露",
-          "title_zh": "W Concept举办首届“美食博览会” …展示顶级美食"
+          "title_en": "'Srefa' sales number one Jeong Ho-young Hwang Taehaejangguk comes to Incheon Airport Food Court",
+          "title_ja": "「Srefa」セールナンバーワンJeong Ho - young Hwang Taehaejanggukが仁川空港フードコートにやってくる",
+          "title_zh": "「Srefa」销售一号Jeong Ho-young Hwang Taehaejangguk来到仁川机场美食广场"
         }
       ]
     },
@@ -196,12 +196,12 @@
           "title_zh": "特色股，乐天Well Food-Summer主题上涨7.79% ↑"
         },
         {
-          "title": "현대그린푸드, 강남에 ‘이탈리’ 4호점…다이닝 특화로 승부",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXV29UUEk5ZElVSjhVY3pIYWxQdHpvSURqSGtfRG5JMkpoMTIwWEk2MGdiREN0UWJZdE04d2htVDlyMnNJZFFaalY2TjhxQ3E4RzFiMmVR?oc=5",
+          "title": "브랜치아웃 푸드, 279만 달러 규모 공모 완료..주당 3.4달러 확정",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mVnc0YlZQUWltZDJUb3NsZXlGY2U5elYzQ0NsS0c0bVdCT2Z4NXhxNjRLTk5vM0xTOF9wQnJTZ1lQTTlfcURmbGhaQ2NNdVFGaXc?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food, the 4th ‘Italy’ store in Gangnam… Battled by Dining Specialty",
-          "title_ja": "ヒュンダイグリーンフード、江南で4番目の「イタリア」店…ダイニングスペシャリティとの戦い",
-          "title_zh": "现代绿色食品，江南第四家“意大利”商店……与特色餐饮作斗争"
+          "title_en": "Branchout Food Completes $2.79 M Public Offering.. Confirmed at $3.4/week",
+          "title_ja": "Branchout Foodが$ 2.79 Mの公募を完了..週3.4ドルで確定",
+          "title_zh": "Branchout Food完成了279万美元的公开募股......确认为每周340万美元"
         },
         {
           "title": "“남편이 밤마다 사라져요”…바지내리는 남성의 고민 ‘이 음식’ 때문",
@@ -237,7 +237,7 @@
           "title": "“커피도 ‘언제’ 마시느냐가 중요”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBocGMzNTRuLTg4Vmw1dHRwSGR4Zkh4Q1pkUm5QNWhSemgyVnBJRHBHbGFJVHJrZmVDV21NZk9PbjBHZERNdzZ4RzViQlZ6VjBzcHlzZmc0WQ?oc=5",
           "desc": "",
-          "title_en": "&quot;Even with coffee, &#39;when&#39; you drink it matters.&quot;",
+          "title_en": "“It's also important to drink coffee ‘when’.”",
           "title_ja": "「『いつ』コーヒーを飲むことも重要です。」",
           "title_zh": "“'什么时候‘喝咖啡也很重要。”"
         }
