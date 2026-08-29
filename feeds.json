@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-08-29T06:55:15Z",
+  "lastUpdated": "2026-08-29T14:11:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Texas Roadhouse says post alleging racist practices was a hoax",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWpwdHJDUlpGMS1xZjNrUldhWU1ac0FwckJDT3p5ZVpCbl95elFMajB2STRiRHFwNDlNYk5IRWxuSUg1cFdSdzlQR2NhNlplZ2hGVXBuRTdXdlh0YUtCRzdfc2JTR2syS1lKVUhsbHdwQlRGRDI1bXpHT0ppWXNKUk81bjFQaExpS3FGdHl5Tm5LTWRrTzlrUWUxNVdlQV9BMWgySjExNS1OSS1E?oc=5",
+          "desc": "",
+          "title_ko": "텍사스 로드하우스는 인종차별적 관행을 주장하는 게시물이 사기라고 말했습니다.",
+          "title_ja": "テキサス州ロードハウスは、人種差別的な慣行を主張する投稿はでっち上げだったと言います",
+          "title_zh": "德克萨斯州Roadhouse说，指控种族主义行为的帖子是一个骗局"
+        },
         {
           "title": "Owner raises $240M for 'AI-native' restaurant tech",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGJnRUVESUUyNWVSc2JINDJCWDBHNWpzODVQRjV2YjNrV1lVMkIyTGJLdVlXQ3RST0gzWXdZVVBoMXhEb2JXaDVpTTNxc3FZQTJSS196SXE0eVBmbGFLbzR6alRnS0h5VnZTVkFVMUlQcEZxdHlaaGpMSF8yc0NJNm5LLVhsTFpXc3cwTGhKOFpKdWlPTkJORjRTcw?oc=5",
@@ -18,16 +26,8 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1RTDBtcG8tZ0xPRjQ5aEg1eHJIQWNxTEpWWVpiS1NDRzFYOTBIVDJvZGZIQUhXeWEwVnktU29BSjhOTG1YUUpYLVU2d2V4TGM3WXkwVEJUaEpGZjBZYm5HUEUtUzVQcXU2N1VpaklYQ2t1eHU0TXNjWU5adE1mX1Y4ZXNFVVRyTVNWUmVUR3lsTGN3bGpSaF8yaks1dlZQcEQyVGNzQU4zSnBrRWdyaFpVeGFncC0waHc?oc=5",
           "desc": "",
           "title_ko": "맥도날드의 프랜차이즈 가맹점 수익성은 회사의 시선이 리모델링되는 것처럼 타격을 입습니다.",
-          "title_ja": "McDonald's franchisee profitability takes a hit just as the company eyes remodels",
+          "title_ja": "マクドナルドのフランチャイズ加盟店の収益性は、同社が見直すのと同じように打撃を受ける",
           "title_zh": "麦当劳的加盟商盈利能力受到影响，正如该公司的眼睛重塑"
-        },
-        {
-          "title": "Texas Roadhouse says post alleging racist practices was a hoax",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWpwdHJDUlpGMS1xZjNrUldhWU1ac0FwckJDT3p5ZVpCbl95elFMajB2STRiRHFwNDlNYk5IRWxuSUg1cFdSdzlQR2NhNlplZ2hGVXBuRTdXdlh0YUtCRzdfc2JTR2syS1lKVUhsbHdwQlRGRDI1bXpHT0ppWXNKUk81bjFQaExpS3FGdHl5Tm5LTWRrTzlrUWUxNVdlQV9BMWgySjExNS1OSS1E?oc=5",
-          "desc": "",
-          "title_ko": "텍사스 로드하우스는 인종차별적 관행을 주장하는 게시물이 사기라고 말했습니다.",
-          "title_ja": "テキサス州ロードハウスは、人種差別的な慣行を主張する投稿はでっち上げだったと言います",
-          "title_zh": "德克萨斯州Roadhouse说，指控种族主义行为的帖子是一个骗局"
         }
       ]
     },
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "You’re Invited to Eater Off Menu 2026",
-          "link": "https://www.eater.com/press-room/981518/eater-off-menu-tickets-2026",
-          "desc": "We’re excited to invite you to Eater Off Menu, a night dedicated to tasting what’s trending and what’s next in food and drink at our biggest Los Angel",
-          "title_ko": "Eater Off Menu 2026에 초대되셨습니다.",
-          "title_ja": "2026年の注文者オフメニューに招待されました",
-          "title_zh": "您已受邀加入顾客关闭菜单2026"
+          "title": "‘Still or Sparkling’ Must Be Stopped",
+          "link": "https://www.eater.com/dining-out/982697/still-sparkling-or-filtered-tap",
+          "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
+          "title_ko": "‘스틸 또는 스파클링’ 을 중지해야 함",
+          "title_ja": "「スティルまたはスパークリング」を止める必要があります",
+          "title_zh": "必须停止“静止或闪闪发光”"
         },
         {
-          "title": "Tea Is So Hot Right Now",
-          "link": "https://www.eater.com/drinks/981280/modern-late-night-teahouse-trend-heytea-expansion",
-          "desc": "In Los Angeles, Tea at Shiloh describes itself as a “late night teahouse.” Here, visitors can reserve slots from 7 to 11 p.m. to sip unlimited amounts",
-          "title_ko": "지금 차가 너무 뜨거워요",
-          "title_ja": "お茶は今とても暑いです",
-          "title_zh": "茶现在很热"
+          "title": "Actually, Dining Side-by-Side in Restaurants Is Good",
+          "link": "https://www.eater.com/dining-out/981844/is-it-ok-to-dine-side-by-side-in-a-restaurant",
+          "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
+          "title_ko": "사실, 레스토랑에서 나란히 식사하는 것은 좋은 일입니다.",
+          "title_ja": "実際、レストランで並んで食事をするのは良いことです",
+          "title_zh": "实际上，在餐厅并排用餐是件好事"
         },
         {
-          "title": "Why Anthony Bourdain’s Editor Wanted ‘Tony’ to Be Darker",
-          "link": "https://www.eater.com/food-culture/981130/tony-bourdain-screenwriters-movie-interview",
-          "desc": "There are two types of biopics: those that unconventionally show, and those that exhaustively tell. Thank goodness that Tony, the highly anticipated A",
-          "title_ko": "Anthony Bourdain의 편집자가 ‘Tony‘ 가 더 어두워지기를 바랐던 이유",
-          "title_ja": "アンソニー・ボーデインの編集者が「トニー」をダークにしたかった理由",
-          "title_zh": "为什么Anthony Bourdain的编辑希望“Tony”更黑暗"
+          "title": "I’m Over the Erewhonification of Fancy Grocery Stores",
+          "link": "https://www.eater.com/food-culture/981913/fancy-luxury-grocery-stores-have-gone-too-far-erewhon",
+          "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
+          "title_ko": "I 'm Over the Erewhonification of Fancy Grocery Stores",
+          "title_ja": "I 'm Over the Erewhonification of Fancy Grocery Stores",
+          "title_zh": "我对花式杂货店的Erewhonification感到满意"
         }
       ]
     }
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "특징주, 롯데웰푸드-여름 테마 상승세에 7.79% ↑",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13Y3E5aWpMUG1QWjRQdzY2UFQ0MTcxVXdQX3RpR21QdkZQMjFTT1lHMGxRdjNQdVl1TFl4NFZCSk54eXlsUW4xN1ZUeUtVQ2x0blE?oc=5",
-          "desc": "",
-          "title_en": "Characteristic shares, Lotte Well Food-Summer theme up 7.79% ↑",
-          "title_ja": "特徴的な株、ロッテウェルフード-夏のテーマは7.79 ％上昇 ↑",
-          "title_zh": "特色股，乐天Well Food-Summer主题上涨7.79% ↑"
-        },
-        {
           "title": "브랜치아웃 푸드, 279만 달러 규모 공모 완료..주당 3.4달러 확정",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mVnc0YlZQUWltZDJUb3NsZXlGY2U5elYzQ0NsS0c0bVdCT2Z4NXhxNjRLTk5vM0xTOF9wQnJTZ1lQTTlfcURmbGhaQ2NNdVFGaXc?oc=5",
           "desc": "",
           "title_en": "Branchout Food Completes $2.79 M Public Offering.. Confirmed at $3.4/week",
           "title_ja": "Branchout Foodが$ 2.79 Mの公募を完了..週3.4ドルで確定",
           "title_zh": "Branchout Food完成了279万美元的公开募股......确认为每周340万美元"
+        },
+        {
+          "title": "특징주, 롯데웰푸드-여름 테마 상승세에 7.79% ↑",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13Y3E5aWpMUG1QWjRQdzY2UFQ0MTcxVXdQX3RpR21QdkZQMjFTT1lHMGxRdjNQdVl1TFl4NFZCSk54eXlsUW4xN1ZUeUtVQ2x0blE?oc=5",
+          "desc": "",
+          "title_en": "Characteristic shares, Lotte Well Food-Summer theme up 7.79% ↑",
+          "title_ja": "特徴的な株、ロッテウェルフード-夏のテーマは7.79 ％上昇 ↑",
+          "title_zh": "特色股，乐天Well Food-Summer主题上涨7.79% ↑"
         },
         {
           "title": "“남편이 밤마다 사라져요”…바지내리는 남성의 고민 ‘이 음식’ 때문",
@@ -226,20 +226,20 @@
           "title_zh": "星巴克“Chuseok礼物” ，从28日开始提前预订"
         },
         {
+          "title": "“강력한 미식 소프트파워”…‘미식 한류’로 부상하는 한식",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zeVNaNDR3VElLcERuX1N3c1VLbHNMZTkyZmpzRlRYMFIzMjJMRFBYS1diY3ktV1pxM1JrV0JLQ0JBMjZzcGNaUnZ5WXltZ2xWX0VrSkhlNA?oc=5",
+          "desc": "",
+          "title_en": "“Strong gastronomic soft power” … Korean food emerging as‘ gastronomic Hallyu ’",
+          "title_ja": "「ガストロノミックソフトパワー」…「ガストロノミックハリウ」として台頭する韓国料理",
+          "title_zh": "“强大的美食软实力” ……韩国美食正在成为“美食Hallyu”"
+        },
+        {
           "title": "토마토 으깨서 커민가루 톡톡…‘토마토 처트니’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yTDU5QzF0N0FlRzdDMXNFUFNOdnQ0S2NBd3hWNFlDLTNXMWN0QkFPTktiUlR4Qi1KRExIMGROYWNFcXlEcVdjdWg2dmJ5ZGpCaWRIRkF0cw?oc=5",
           "desc": "",
           "title_en": "Tomato mash and cumin powder toktok... ‘tomato chutney’",
           "title_ja": "トマトマッシュとクミンパウダーのトクトック…「トマトチャツネ」",
           "title_zh": "番茄泥和孜然粉toktok... “番茄酸辣酱”"
-        },
-        {
-          "title": "“커피도 ‘언제’ 마시느냐가 중요”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBocGMzNTRuLTg4Vmw1dHRwSGR4Zkh4Q1pkUm5QNWhSemgyVnBJRHBHbGFJVHJrZmVDV21NZk9PbjBHZERNdzZ4RzViQlZ6VjBzcHlzZmc0WQ?oc=5",
-          "desc": "",
-          "title_en": "“It's also important to drink coffee ‘when’.”",
-          "title_ja": "「『いつ』コーヒーを飲むことも重要です。」",
-          "title_zh": "“'什么时候‘喝咖啡也很重要。”"
         }
       ]
     }
