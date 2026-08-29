@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T18:11:37Z",
+  "lastUpdated": "2026-08-29T22:59:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -174,12 +174,12 @@
           "title_zh": "除了快餐，还有美食……汉堡王开启“万亿时代” ，推出威化课程和旗舰店"
         },
         {
-          "title": "한국관광공사, 13개국 인플루언서와 K-로컬푸드 알린다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WMUs2SWpXR1d2elFVelU4Y091MUNEMjc3VVNudnlSb0hkZ094NEFITENsQjBmaU9uSzdxRThDeFZxQkhvd2Y4NGozSGc0dVU4Z2c?oc=5",
+          "title": "“집에 아이들만 있어요, 나중에 결제할게요”…상습 무전취식한 20대 결국 구속",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYUNuR2ZGTnZYaWI2QnpOTC1BSWtmMGY3anNSQUFuc1ZOZjBfS29melpHazhjNUZUcDNvazNQUzlrNzlsUXVYd3Bwakl4TF9kTlE?oc=5",
           "desc": "",
-          "title_en": "Korea Tourism Organization announces 13 influencers and K-local food",
-          "title_ja": "韓国観光機構、13人のインフルエンサーとKローカルフードを発表",
-          "title_zh": "韩国旅游组织宣布13位影响者和韩国当地美食"
+          "title_en": "“I only have kids at home, I'll pay later” … Restrainted in the twenties",
+          "title_ja": "「家には子供しかいません。後で払います」… 20代で拘束されました",
+          "title_zh": "“我家里只有孩子，我以后再付钱” ……二十多岁时受到限制"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "롯데마트, 인도네시아 끌라빠가딩점 재단장…K푸드 콘텐츠 결합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwTEVod3NPUVZuWkVsXzlvb0ZHUlpKdWxNd093RmxzbGl3ZFBHVzhodnpYZW83ZG1vVEp5Q3RuSDlBcENFR0ZFeU9BcWx4R3FjNlE?oc=5",
+          "desc": "",
+          "title_en": "Lotte Mart Renovates Clapagading Branch in Indonesia… Combines K-Food Content",
+          "title_ja": "ロッテマート、インドネシアのクラパガディング支店を改装… K - Foodコンテンツを統合",
+          "title_zh": "乐天玛特翻新印尼Clapagading分店…结合K-Food内容"
+        },
         {
           "title": "브랜치아웃 푸드, 279만 달러 규모 공모 완료..주당 3.4달러 확정",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mVnc0YlZQUWltZDJUb3NsZXlGY2U5elYzQ0NsS0c0bVdCT2Z4NXhxNjRLTk5vM0xTOF9wQnJTZ1lQTTlfcURmbGhaQ2NNdVFGaXc?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Characteristic shares, Lotte Well Food-Summer theme up 7.79% ↑",
           "title_ja": "特徴的な株、ロッテウェルフード-夏のテーマは7.79 ％上昇 ↑",
           "title_zh": "特色股，乐天Well Food-Summer主题上涨7.79% ↑"
-        },
-        {
-          "title": "“남편이 밤마다 사라져요”…바지내리는 남성의 고민 ‘이 음식’ 때문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JUlNuUU83M2EtTE9yaGxUQmZiVzlvT3VveXRORi1uT1h5TWNJeFB2V21mMERjTFpkN2hzOFRmZmtITDlTOS1DQXVPZXd2dw?oc=5",
-          "desc": "",
-          "title_en": "“My husband disappears every night” … Because of the man's troubles with his pants down ‘This food’",
-          "title_ja": "「私の夫は毎晩姿を消します」…男がズボンを履いているトラブルのため「この食べ物」",
-          "title_zh": "“我丈夫每晚都会消失” ……因为那个男人裤子穿得很麻烦“这道菜”"
         }
       ]
     },
