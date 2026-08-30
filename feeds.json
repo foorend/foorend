@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T04:01:39Z",
+  "lastUpdated": "2026-08-30T11:23:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "롯데웰푸드, ‘K스낵’ 팝업스토어 진행",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGY0FrWXlHeXl3OTdfSmxXYzBSR1JzRWVEbWNCUURpVTltOWhGcUJhcTRKNjNMbkRpSDN4YmEzTmFiT0w3dE1vRzh3LUZna1ZHTVE?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food hosts‘ K Snack ’pop-up store",
+          "title_ja": "「Kスナック」ポップアップストアをホストするロッテウェルフード",
+          "title_zh": "乐天健康食品（ Lotte Well Food ）快闪店「K Snack」"
+        },
+        {
           "title": "롯데마트, 인니 끌라빠가딩점 새단장…K푸드 콘텐츠 강화",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81MlN2WFVoRXJLa3FhV2E5VnA1NkdlTGE3TThVU0g2SWlrTHNMZXVDYWE0R05VZzJjeTIzOTJybDc5RGVnQlppV2RNM3RISXBiSVE?oc=5",
           "desc": "",
@@ -166,20 +174,12 @@
           "title_zh": "乐天玛特翻新Inni Klapagading商店...提升K-Food含量"
         },
         {
-          "title": "“아침마다 간편해서 먹었는데” 콜레스테롤 ‘쑥’...심장 전문의가 경고한 ‘이 음식’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xZnY5R0NvQWpCVWE5ZlZSZWVrczV5SjZyVy02VWp1ZUhuLWRNX3hySFpVc1hFYTlCay1UREtNQkxkYzUzMy0yQ2pqZGFuaHdMQnc?oc=5",
+          "title": "롯데마트, 인니 끌라빠가딩점 새단장…K푸드 콘텐츠 강화",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yZG1YajJjLXI1Smk1bzhOamlvb0Z6bC1fTG84Y2dySllWT2Q0VGxoMFFQbHhNNnYzdm94TlRwT2dISXhTWjZzYVYzd0hGbGVYU25z?oc=5",
           "desc": "",
-          "title_en": "“I ate it easily every morning” cholesterol ‘wormwood’... ’this food‘ warned by a cardiologist",
-          "title_ja": "「私は毎朝簡単にそれを食べました」コレステロール「ヨモギ」...心臓専門医によって警告された「この食べ物」",
-          "title_zh": "心脏病专家警告说： “我每天早上都很容易吃”胆固醇“茵陈” …… “这种食物”"
-        },
-        {
-          "title": "“야장에서 꼬깔콘을”…롯데웰푸드, 을지로 만선호프와 이색 협업",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQRnJ0QzJmOWFwbWlDSV91TmYtdUZEd29wV0haT2ZsbHRlZEdkRUNjWVoxc2pUNzYtMHgxNE1wWEtQR0tBNkJhaFJnSGR2OU5DdFE?oc=5",
-          "desc": "",
-          "title_en": "“Kokkakkon in the night field” … Exotic collaboration with Lotte Well Food and Euljiro Manseonhof",
-          "title_ja": "「Kokkakkon in the night field」…ロッテウェルフードとEuljiro Manseonhofとのエキゾチックなコラボレーション",
-          "title_zh": "「Kokkakkon in the night field」…与Lotte Well Food和Euljiro Manseonhof进行异国情调的合作"
+          "title_en": "Lotte Mart Renovates Inni Klapagading Store... Enhances K-Food Content",
+          "title_ja": "ロッテマート、Inni Klapagadingストアをリニューアル... K - Foodコンテンツを強化",
+          "title_zh": "乐天玛特翻新Inni Klapagading商店...提升K-Food含量"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "「K-Snack House」弹出式房源...乐天美食、乐天百西吸引外国人"
         },
         {
+          "title": "롯데마트, 인도네시아 끌라빠가딩점 재단장…K푸드 콘텐츠 결합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwTEVod3NPUVZuWkVsXzlvb0ZHUlpKdWxNd093RmxzbGl3ZFBHVzhodnpYZW83ZG1vVEp5Q3RuSDlBcENFR0ZFeU9BcWx4R3FjNlE?oc=5",
+          "desc": "",
+          "title_en": "Lotte Mart Renovates Clapagading Branch in Indonesia… Combines K-Food Content",
+          "title_ja": "ロッテマート、インドネシアのクラパガディング支店を改装… K - Foodコンテンツを統合",
+          "title_zh": "乐天玛特翻新印尼Clapagading分店…结合K-Food内容"
+        },
+        {
           "title": "브랜치아웃 푸드, 279만 달러 규모 공모 완료..주당 3.4달러 확정",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mVnc0YlZQUWltZDJUb3NsZXlGY2U5elYzQ0NsS0c0bVdCT2Z4NXhxNjRLTk5vM0xTOF9wQnJTZ1lQTTlfcURmbGhaQ2NNdVFGaXc?oc=5",
           "desc": "",
           "title_en": "Branchout Food Completes $2.79 M Public Offering.. Confirmed at $3.4/week",
           "title_ja": "Branchout Foodが$ 2.79 Mの公募を完了..週3.4ドルで確定",
           "title_zh": "Branchout Food完成了279万美元的公开募股......确认为每周340万美元"
-        },
-        {
-          "title": "특징주, 롯데웰푸드-여름 테마 상승세에 7.79% ↑",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13Y3E5aWpMUG1QWjRQdzY2UFQ0MTcxVXdQX3RpR21QdkZQMjFTT1lHMGxRdjNQdVl1TFl4NFZCSk54eXlsUW4xN1ZUeUtVQ2x0blE?oc=5",
-          "desc": "",
-          "title_en": "Characteristic shares, Lotte Well Food-Summer theme up 7.79% ↑",
-          "title_ja": "特徴的な株、ロッテウェルフード-夏のテーマは7.79 ％上昇 ↑",
-          "title_zh": "特色股，乐天Well Food-Summer主题上涨7.79% ↑"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "미국, 한국산 식품의 FDA 수입 거부 증가",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxUkNxdVBkaHBhcEVNZ211bXBfLUR5UUxmSVRsT1kzb0dlWlVXeHI1X2hxOUZ0VEFvNVBxVXJ6MXRuMElxUEtoalluYnUwNGhXXy1OT0c3SQ?oc=5",
+          "desc": "",
+          "title_en": "US rejects FDA imports of Korean foods",
+          "title_ja": "米国、韓国産食品のFDAへの輸入を拒否",
+          "title_zh": "美国拒绝FDA进口韩国食品"
+        },
+        {
+          "title": "한류 강한 브라질, 음식으로 소비 확산",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mc2dhcC10UE9WbDlqNVZjWVFyTVVXM3h4MnRTbkJMMlk4U2hGWUExNHV3RlZoOGNGYXJmVEVoT1N1aDFzcnV2SVZUeGFrZTdsWnBwU2JlUQ?oc=5",
+          "desc": "",
+          "title_en": "Brazil, strong in Hallyu, spreads consumption to food",
+          "title_ja": "ハリウで強いブラジル、消費を食品に広げる",
+          "title_zh": "在Hallyu强劲的巴西将消费扩展到食品"
+        },
+        {
           "title": "스타벅스 ‘추석 선물’, 28일부터 사전예약",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53MEpKeEdfNDlqNm9ocDNiZWowSDJuSWI4Q19CSjZ3RldoU0s0Zy03Y3EtNXBTSlFuNHVwbWQxaUk4U0dnZGdOQzZIb1RfRFJGNkstbE1FRQ?oc=5",
           "desc": "",
           "title_en": "Starbucks‘ Chuseok Gift ’, pre-booking from the 28th",
           "title_ja": "スターバックス「Chuseokギフト」、28日からの事前予約",
           "title_zh": "星巴克“Chuseok礼物” ，从28日开始提前预订"
-        },
-        {
-          "title": "브리타 코리아, ‘일하기 좋은 기업’ 인증 획득",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9URWpfLXQyNVdWaEhwOHYzWS1TMERlSTFKZmVOTURSOThmT1ZKaUJFaHhJZVZXSDhpQzhiUmgyR3lxQ3c5U0stbWdVVTN3b3VMWVBNem1rNA?oc=5",
-          "desc": "",
-          "title_en": "Brita Korea Accredited as a ‘Best Place to Work’",
-          "title_ja": "BRITA KOREAが「最高の職場」に認定",
-          "title_zh": "BRITA Korea被评为“最佳工作场所”"
-        },
-        {
-          "title": "커피에도 단백질 넣는다…러시아 단백질 시장의 성장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qZnFYMVpBNl9hV1hrSG9fRmIzVFotYWtWN2VVSEhTcnpNaFRJME5CSndvR3hOOFV4bFI2WjdoM2tiSW8yRDhlUWRrU1FfajRuajhOUWtZQQ?oc=5",
-          "desc": "",
-          "title_en": "Add Protein to Coffee… Growth of the Russian Protein Market",
-          "title_ja": "コーヒーにタンパク質を加える…ロシアのタンパク質市場の成長",
-          "title_zh": "将蛋白质添加到咖啡中……俄罗斯蛋白质市场的增长"
         }
       ]
     }
