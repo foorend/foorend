@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T12:53:49Z",
+  "lastUpdated": "2026-08-31T20:40:31Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
           "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
           "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "庆南道自9月起推出42个高尔夫球场和食品价格"
         },
         {
+          "title": "브랜치아웃 푸드, 공모 추가배정 옵션 전량 행사로 320만 달러 조달",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WdFlYTGVsUDZkS3QzV3FhU213Q3ZsMWFjQy1XdkpRU21tX0ptaWlSTlF0X3RyRS1nZ1dWQVdkMzJCRHR5YkZfVndNdUNkeDI2Smc?oc=5",
+          "desc": "",
+          "title_en": "Branch Out Food Raises $3.2 Million with Full Exercise of Additional Allocation Options for Public Offering",
+          "title_ja": "ブランチアウトフードは、公募のための追加配分オプションを完全に行使することで320万ドルを調達",
+          "title_zh": "通过全面行使公开发行的额外分配选择权， Branch Out Food筹集了320万美元"
+        },
+        {
           "title": "하이트진로 맥주에 완주 와일드&로컬푸드축제 알린다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JUy12cUFYNTNYSkI5bGxwQ01HcHV6RG5pTFJWUDI2X0MyQzgwZ2xKSlB1UlBDZkVrWkNla3F5OGhvS0c1dWlLaFlZazBOZFhNOGc?oc=5",
           "desc": "",
           "title_en": "Inform HITEJINRO beer about Wanju Wild & Local Food Festival",
           "title_ja": "ワンジュワイルド＆ローカルフードフェスティバルについてHITEJINROビールに教えよう",
           "title_zh": "告知HITEJINRO啤酒关于万寿野生和当地美食节"
-        },
-        {
-          "title": "‘K-스낵 하우스’ 팝업...롯데웰푸드, 롯데百서 외국인 사로 잡는다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1FTk5rSHVXeXpFeVd2alY3YktrQl9wVndlZ0RSNzQ4T2hyZmlvcTBOQzRxSWFzNldUTDQtS0s0bW5LeTJLU0E?oc=5",
-          "desc": "",
-          "title_en": "‘K-Snack House’ Pop-up... Lotte Well Food, Lotte Baekseo attract foreigners",
-          "title_ja": "「K - Snack House」ポップアップ…ロッテウェルフード、ロッテベクソが外国人を魅了",
-          "title_zh": "「K-Snack House」弹出式房源...乐天美食、乐天百西吸引外国人"
         }
       ]
     },
