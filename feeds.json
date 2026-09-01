@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T08:21:33Z",
+  "lastUpdated": "2026-09-01T13:57:38Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -66,14 +66,6 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
           "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
           "desc": "",
@@ -88,6 +80,14 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
+        },
+        {
+          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
+          "desc": "",
+          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
+          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
+          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "NS Home Shopping ，委托“NS Food Festa 2026 Iksan”烹饪比赛评审团"
         },
         {
-          "title": "\"상추에 과자 싸먹어봄?\"…요즘 2030 난리 난 '의외의 조합' [트렌드+]",
+          "title": "\"쌈장 찍어 먹었더니 대박\"…'삼겹살 과자' 품절 대란 [트렌드+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43OVV0WlA5d1JoUVRRbnF5TVUwZk1xRC1GRm85MS1JM2gzME5DaUhFOUdEUTdqTlkwRjlfMkdOQldKb3F4VEFxRmQwS0FsOFl3ZlFXalBPY01Udw?oc=5",
           "desc": "",
-          "title_en": "\"Wrapping up sweets in lettuce?\" … The 'surprising combination' of 2030 fuss these days [Trend +]",
-          "title_ja": "「レタスでスイーツを包む？」…最近では2030年の「驚きの組み合わせ」が大騒ぎ【トレンド＋】",
-          "title_zh": "“用莴苣包装糖果？” ……如今2030年的“惊人组合”大惊小怪【趋势+】"
+          "title_en": "\"I took a ssamjang and it was awesome\"... 'Pork Belly Sweets' Out of Stock [Trend +]",
+          "title_ja": "「サムジャンを食べましたが、最高でした」…「ポークベリースイーツ」品切れ[トレンド+]",
+          "title_zh": "“我吃了三明治，太棒了” …… '猪肚糖果'缺货[趋势+]"
         }
       ]
     },
@@ -167,19 +167,19 @@
         },
         {
           "title": "롯데웰푸드, ‘K스낵’ 팝업스토어 진행",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGY0FrWXlHeXl3OTdfSmxXYzBSR1JzRWVEbWNCUURpVTltOWhGcUJhcTRKNjNMbkRpSDN4YmEzTmFiT0w3dE1vRzh3LUZna1ZHTVE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGY0FrWXlHeXl3OTdfSmxXYzBSR1JzRWVEbWNCUURpVTltOWhGcUJhcTRKNjNMbkRpSDN4YmEzTmFiT0w3dE1vRzh3LUZna1ZHTVHSAVNBVV95cUxQNUcxMlNEQ3k3T3JOV3ZBNFRwSHg4MFkwNTZUVkxZVDg2amQ2VDR4RDRKQVZPbkdXcTFhM0Vqejk1U0JOeXltcHY2VjVDbGZsUWxsMA?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food hosts‘ K Snack ’pop-up store",
           "title_ja": "「Kスナック」ポップアップストアをホストするロッテウェルフード",
           "title_zh": "乐天健康食品（ Lotte Well Food ）快闪店「K Snack」"
         },
         {
-          "title": "롯데마트, 인니 끌라빠가딩점 새단장…K푸드 콘텐츠 강화",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81MlN2WFVoRXJLa3FhV2E5VnA1NkdlTGE3TThVU0g2SWlrTHNMZXVDYWE0R05VZzJjeTIzOTJybDc5RGVnQlppV2RNM3RISXBiSVE?oc=5",
+          "title": "“아침마다 간편해서 먹었는데” 콜레스테롤 ‘쑥’...심장 전문의가 경고한 ‘이 음식’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xZnY5R0NvQWpCVWE5ZlZSZWVrczV5SjZyVy02VWp1ZUhuLWRNX3hySFpVc1hFYTlCay1UREtNQkxkYzUzMy0yQ2pqZGFuaHdMQnc?oc=5",
           "desc": "",
-          "title_en": "Lotte Mart Renovates Inni Klapagading Store... Enhances K-Food Content",
-          "title_ja": "ロッテマート、Inni Klapagadingストアをリニューアル... K - Foodコンテンツを強化",
-          "title_zh": "乐天玛特翻新Inni Klapagading商店...提升K-Food含量"
+          "title_en": "“I ate it easily every morning” cholesterol ‘wormwood’... ’this food‘ warned by a cardiologist",
+          "title_ja": "「私は毎朝簡単にそれを食べました」コレステロール「ヨモギ」...心臓専門医によって警告された「この食べ物」",
+          "title_zh": "心脏病专家警告说： “我每天早上都很容易吃”胆固醇“茵陈” …… “这种食物”"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "\"김치·라면 다음은?\"… K푸드 신제품, 日시장 조준",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oWDVqOFhvYXFYeXdaWHpydXZmN0FHa0lzZnQ2ZkZEdFJCVzBxYzFYdm14ZG5NU2VYOFYzLTRGelVZdjkwMHc?oc=5",
+          "desc": "",
+          "title_en": "\"What's next for Kimchi Ramen?\" … K-Food's new product, aimed at the Japanese market",
+          "title_ja": "「キムチラーメンの今後は？」…日本市場をターゲットにしたK - Foodの新商品",
+          "title_zh": "“泡菜拉面下一步是什么？” …… K-Food面向日本市场的新产品"
+        },
         {
           "title": "경남도, 9월부터 골프장 42곳 이용료·음식 가격 홈페이지 공개",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sbXQxZE9ya01uaHNZZ1NjZjVrVXJwNlB0NVpiazJTdTl1cUNYOWtTSU8zT0NSTGtZR202dDZjZWRuZGtTaGxkdE1JQ05wVTdYb3c?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Branch Out Food Raises $3.2 Million with Full Exercise of Additional Allocation Options for Public Offering",
           "title_ja": "ブランチアウトフードは、公募のための追加配分オプションを完全に行使することで320万ドルを調達",
           "title_zh": "通过全面行使公开发行的额外分配选择权， Branch Out Food筹集了320万美元"
-        },
-        {
-          "title": "하이트진로 맥주에 완주 와일드&로컬푸드축제 알린다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JUy12cUFYNTNYSkI5bGxwQ01HcHV6RG5pTFJWUDI2X0MyQzgwZ2xKSlB1UlBDZkVrWkNla3F5OGhvS0c1dWlLaFlZazBOZFhNOGc?oc=5",
-          "desc": "",
-          "title_en": "Inform HITEJINRO beer about Wanju Wild & Local Food Festival",
-          "title_ja": "ワンジュワイルド＆ローカルフードフェスティバルについてHITEJINROビールに教えよう",
-          "title_zh": "告知HITEJINRO啤酒关于万寿野生和当地美食节"
         }
       ]
     },
