@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T00:24:23Z",
+  "lastUpdated": "2026-09-01T08:21:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "德克萨斯州Roadhouse说，指控种族主义行为的帖子是一个骗局"
         },
         {
-          "title": "McDonald's franchisee profitability takes a hit just as the company eyes remodels",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1RTDBtcG8tZ0xPRjQ5aEg1eHJIQWNxTEpWWVpiS1NDRzFYOTBIVDJvZGZIQUhXeWEwVnktU29BSjhOTG1YUUpYLVU2d2V4TGM3WXkwVEJUaEpGZjBZYm5HUEUtUzVQcXU2N1VpaklYQ2t1eHU0TXNjWU5adE1mX1Y4ZXNFVVRyTVNWUmVUR3lsTGN3bGpSaF8yaks1dlZQcEQyVGNzQU4zSnBrRWdyaFpVeGFncC0waHc?oc=5",
+          "title": "Another restaurant chain doesn’t get sold",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeU1RaFVLX214Y2dzWEdPLTZJN1hVTnI2T3hPblVRUnBKV3BTMGRabXV1dTQwekdYTkNUV0R2U2FCUjZYZmtpQkJwanNxX0EtWGtmN1RnT3hIN0UtczYzOFlvVXpYeXNOQmFOTEE2Yi1kYjVSZzhGT3ExSEhfWVlNT2hvUF9wUTluaEZFRzlLV2M?oc=5",
           "desc": "",
-          "title_ko": "맥도날드의 프랜차이즈 가맹점 수익성은 회사의 시선이 리모델링되는 것처럼 타격을 입습니다.",
-          "title_ja": "マクドナルドのフランチャイズ加盟店の収益性は、同社が見直すのと同じように打撃を受ける",
-          "title_zh": "麦当劳的加盟商盈利能力受到影响，正如该公司的眼睛重塑"
+          "title_ko": "다른 레스토랑 체인이 판매되지 않음",
+          "title_ja": "別のレストランチェーンは販売されません",
+          "title_zh": "其他连锁餐厅无法出售"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "NS Home Shopping ，委托“NS Food Festa 2026 Iksan”烹饪比赛评审团"
         },
         {
-          "title": "\"요즘 술을 안 먹어요\" 고민하더니…'음식 페어링'에 꽂혔다 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qT1BqVk83aWVlV2t5WlZxY01FaHlZenlfX09XWUcxZ2ZNVzY5RWMtbVR0ZnRXMUpGdkdlaTlHOTdkUFlwSklDODFyTzdwMFZ6Y3JNWmF5RGFzUQ?oc=5",
+          "title": "\"상추에 과자 싸먹어봄?\"…요즘 2030 난리 난 '의외의 조합' [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43OVV0WlA5d1JoUVRRbnF5TVUwZk1xRC1GRm85MS1JM2gzME5DaUhFOUdEUTdqTlkwRjlfMkdOQldKb3F4VEFxRmQwS0FsOFl3ZlFXalBPY01Udw?oc=5",
           "desc": "",
-          "title_en": "\"I don't drink alcohol these days\" I thought about it... I was hooked on 'food pairing' [Trend +]",
-          "title_ja": "「最近はアルコールを飲まない」と考えていました…「フードペアリング」に夢中になっていました[トレンド+]",
-          "title_zh": "“这些天我不喝酒”我想了想……我迷上了“食物搭配” [趋势+]"
+          "title_en": "\"Wrapping up sweets in lettuce?\" … The 'surprising combination' of 2030 fuss these days [Trend +]",
+          "title_ja": "「レタスでスイーツを包む？」…最近では2030年の「驚きの組み合わせ」が大騒ぎ【トレンド＋】",
+          "title_zh": "“用莴苣包装糖果？” ……如今2030年的“惊人组合”大惊小怪【趋势+】"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "추석 음식과 어울리는 9월 대표 전통주는…‘섬진강바람 오크40’",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CT0NncFFsb3NLVnNMd0JNUC1kNzJ6NVZzTDJ2dFNKa2lUZjZXZml5YTU4aWxNanRocG5NV29UeWk0NGg2RjA1XzdzTE1yeVpMZUpr0gFTQVVfeXFMTUJPQ2dwUWxvc0tWc0x3Qk1QLWQ3Mno1VnNMMnZ0U0praVRmNldmaXlhNThpbE1qdGhwbk1Xb1R5aTQ0aDZGMDVfN3NMTXJ5WkxlSms?oc=5",
+          "desc": "",
+          "title_en": "The representative traditional wine of September paired with Chuseok food… ‘Seomjin River Breeze Oak 40’",
+          "title_ja": "9月の代表的な伝統的なワインとチュソク料理…「ソムジンリバーブリーズオーク40」",
+          "title_zh": "九月的代表性传统葡萄酒搭配Chuseok美食...... “Seomjin River Breeze Oak 40”"
+        },
         {
           "title": "롯데웰푸드, ‘K스낵’ 팝업스토어 진행",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGY0FrWXlHeXl3OTdfSmxXYzBSR1JzRWVEbWNCUURpVTltOWhGcUJhcTRKNjNMbkRpSDN4YmEzTmFiT0w3dE1vRzh3LUZna1ZHTVE?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Lotte Mart Renovates Inni Klapagading Store... Enhances K-Food Content",
           "title_ja": "ロッテマート、Inni Klapagadingストアをリニューアル... K - Foodコンテンツを強化",
           "title_zh": "乐天玛特翻新Inni Klapagading商店...提升K-Food含量"
-        },
-        {
-          "title": "“아침마다 간편해서 먹었는데” 콜레스테롤 ‘쑥’...심장 전문의가 경고한 ‘이 음식’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xZnY5R0NvQWpCVWE5ZlZSZWVrczV5SjZyVy02VWp1ZUhuLWRNX3hySFpVc1hFYTlCay1UREtNQkxkYzUzMy0yQ2pqZGFuaHdMQnc?oc=5",
-          "desc": "",
-          "title_en": "“I ate it easily every morning” cholesterol ‘wormwood’... ’this food‘ warned by a cardiologist",
-          "title_ja": "「私は毎朝簡単にそれを食べました」コレステロール「ヨモギ」...心臓専門医によって警告された「この食べ物」",
-          "title_zh": "心脏病专家警告说： “我每天早上都很容易吃”胆固醇“茵陈” …… “这种食物”"
         }
       ]
     },
