@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T18:11:29Z",
+  "lastUpdated": "2026-09-01T23:03:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "[포토] 씨푸드프롬노르웨이, '2026 올해의 브랜드 대상' 수입수산물 부문 수상",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CUHdhZHVCYV80NkRjeGxZdHhEZ2lxVFhXQjlCbEg2Q2tDcVM4LU45dUhrOFpvcDVwb3p6YzdVbzRQaVhiNnRlSkFIN3RJNFJ5QXl5SHI1OU1YZw?oc=5",
+          "desc": "",
+          "title_en": "[Photo] Seafood from Norway wins' 2026 Brand of the Year Award 'for imported seafood products",
+          "title_ja": "【写真】ノルウェーの魚介類が輸入魚介類の「2026 Brand of the Year Award」を受賞",
+          "title_zh": "【图片】挪威海鲜荣获进口海鲜产品“2026年度品牌奖”"
+        },
+        {
           "title": "[포토] 풍림푸드, '2026 올해의 브랜드 대상' 가공계란 부문 수상",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOQUl3eDRiX0pRdHQyTGtxRHdFeEFLb2JyUDJvRTdOcHRzYjdISXhoV0M4WDNkNFE2cmZoLUQxa1lxbDNZb29nMDZickp6b3BWOGEwZXBsSGpyQQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "I thought it was paint... Amazing food I met in Türkiye [Shin Ye-hee's solo bite trip]",
           "title_ja": "絵の具かと思った・・・トルコで出会った素敵な食べ物【シン・イェヒのひとり旅】",
           "title_zh": "我以为是油漆……我在Türkiye遇到的美食[Shin Ye-hee's solo bite trip]"
-        },
-        {
-          "title": "\"쌈장 찍어 먹었더니 대박\"…'삼겹살 과자' 품절 대란 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43OVV0WlA5d1JoUVRRbnF5TVUwZk1xRC1GRm85MS1JM2gzME5DaUhFOUdEUTdqTlkwRjlfMkdOQldKb3F4VEFxRmQwS0FsOFl3ZlFXalBPY01Udw?oc=5",
-          "desc": "",
-          "title_en": "\"I took a ssamjang and it was awesome\"... 'Pork Belly Sweets' Out of Stock [Trend +]",
-          "title_ja": "「サムジャンを食べましたが、最高でした」…「ポークベリースイーツ」品切れ[トレンド+]",
-          "title_zh": "“我吃了三明治，太棒了” …… '猪肚糖果'缺货[趋势+]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“泡菜拉面下一步是什么？” …… K-Food面向日本市场的新产品"
         },
         {
-          "title": "경남도, 9월부터 골프장 42곳 이용료·음식 가격 홈페이지 공개",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sbXQxZE9ya01uaHNZZ1NjZjVrVXJwNlB0NVpiazJTdTl1cUNYOWtTSU8zT0NSTGtZR202dDZjZWRuZGtTaGxkdE1JQ05wVTdYb3c?oc=5",
-          "desc": "",
-          "title_en": "Gyeongnam-do unveils 42 golf courses and food prices from September",
-          "title_ja": "慶南道、9月から42のゴルフコースと食料価格を発表",
-          "title_zh": "庆南道自9月起推出42个高尔夫球场和食品价格"
-        },
-        {
           "title": "브랜치아웃 푸드, 공모 추가배정 옵션 전량 행사로 320만 달러 조달",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WdFlYTGVsUDZkS3QzV3FhU213Q3ZsMWFjQy1XdkpRU21tX0ptaWlSTlF0X3RyRS1nZ1dWQVdkMzJCRHR5YkZfVndNdUNkeDI2Smc?oc=5",
           "desc": "",
           "title_en": "Branch Out Food Raises $3.2 Million with Full Exercise of Additional Allocation Options for Public Offering",
           "title_ja": "ブランチアウトフードは、公募のための追加配分オプションを完全に行使することで320万ドルを調達",
           "title_zh": "通过全面行使公开发行的额外分配选择权， Branch Out Food筹集了320万美元"
+        },
+        {
+          "title": "美 멕시칸 음식 전문점 치폴레 아시아 첫 매장 강남에 열어",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uZVpnYXNVXzcxbFAzdFZKaVkxaGFXbzJwMzM0OHM3akJhV3dQdXB0NlRwbmZQMDBTYk9EVzE1dHpKZkNPZ0E?oc=5",
+          "desc": "",
+          "title_en": "Opened in Gangnam, the first store in Chipotle Asia, a Mexican restaurant in the US",
+          "title_ja": "米国のメキシコ料理店Chipotle Asiaの最初の店舗である江南に出店",
+          "title_zh": "在美国墨西哥餐厅Chipotle Asia的第一家商店江南开业"
         }
       ]
     },
