@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T13:57:38Z",
+  "lastUpdated": "2026-09-01T18:11:29Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
         },
         {
-          "title": "Texas Roadhouse says post alleging racist practices was a hoax",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWpwdHJDUlpGMS1xZjNrUldhWU1ac0FwckJDT3p5ZVpCbl95elFMajB2STRiRHFwNDlNYk5IRWxuSUg1cFdSdzlQR2NhNlplZ2hGVXBuRTdXdlh0YUtCRzdfc2JTR2syS1lKVUhsbHdwQlRGRDI1bXpHT0ppWXNKUk81bjFQaExpS3FGdHl5Tm5LTWRrTzlrUWUxNVdlQV9BMWgySjExNS1OSS1E?oc=5",
-          "desc": "",
-          "title_ko": "텍사스 로드하우스는 인종차별적 관행을 주장하는 게시물이 사기라고 말했습니다.",
-          "title_ja": "テキサス州ロードハウスは、人種差別的な慣行を主張する投稿はでっち上げだったと言います",
-          "title_zh": "德克萨斯州Roadhouse说，指控种族主义行为的帖子是一个骗局"
-        },
-        {
           "title": "Another restaurant chain doesn’t get sold",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeU1RaFVLX214Y2dzWEdPLTZJN1hVTnI2T3hPblVRUnBKV3BTMGRabXV1dTQwekdYTkNUV0R2U2FCUjZYZmtpQkJwanNxX0EtWGtmN1RnT3hIN0UtczYzOFlvVXpYeXNOQmFOTEE2Yi1kYjVSZzhGT3ExSEhfWVlNT2hvUF9wUTluaEZFRzlLV2M?oc=5",
           "desc": "",
           "title_ko": "다른 레스토랑 체인이 판매되지 않음",
           "title_ja": "別のレストランチェーンは販売されません",
           "title_zh": "其他连锁餐厅无法出售"
+        },
+        {
+          "title": "Texas Roadhouse says post alleging racist practices was a hoax",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWpwdHJDUlpGMS1xZjNrUldhWU1ac0FwckJDT3p5ZVpCbl95elFMajB2STRiRHFwNDlNYk5IRWxuSUg1cFdSdzlQR2NhNlplZ2hGVXBuRTdXdlh0YUtCRzdfc2JTR2syS1lKVUhsbHdwQlRGRDI1bXpHT0ppWXNKUk81bjFQaExpS3FGdHl5Tm5LTWRrTzlrUWUxNVdlQV9BMWgySjExNS1OSS1E?oc=5",
+          "desc": "",
+          "title_ko": "텍사스 로드하우스는 인종차별적 관행을 주장하는 게시물이 사기라고 말했습니다.",
+          "title_ja": "テキサス州ロードハウスは、人種差別的な慣行を主張する投稿はでっち上げだったと言います",
+          "title_zh": "德克萨斯州Roadhouse说，指控种族主义行为的帖子是一个骗局"
         }
       ]
     },
@@ -35,14 +35,6 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
-        {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
-          "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
-        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -58,6 +50,14 @@
           "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
           "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
           "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
+          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -65,6 +65,14 @@
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
       "items": [
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
+          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+        },
         {
           "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
@@ -80,14 +88,6 @@
           "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
           "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
           "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
-          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
-          "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "[포토] 풍림푸드, '2026 올해의 브랜드 대상' 가공계란 부문 수상",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOQUl3eDRiX0pRdHQyTGtxRHdFeEFLb2JyUDJvRTdOcHRzYjdISXhoV0M4WDNkNFE2cmZoLUQxa1lxbDNZb29nMDZickp6b3BWOGEwZXBsSGpyQQ?oc=5",
+          "desc": "",
+          "title_en": "[Photo] Poonglim Food Receives' 2026 Brand of the Year Award 'in Processing Egg Category",
+          "title_ja": "【写真】Poonglim Food、卵加工部門で「2026 Brand of the Year Award」を受賞",
+          "title_zh": "【图片】Poonglim Food在加工鸡蛋类别中荣获“2026年度品牌奖”"
+        },
+        {
           "title": "페인트인 줄 알았다…튀르키예서 만난 놀라운 음식 [신예희의 나홀로 한입여행]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qX2RxMWlFYjYzNnVjTzdQM3JTdlRMQVItcHVIakFBejROdE9kN3g5SXljczVJRDhyMDkzRkZrS3pIaVM5dnRUd2lVTVBjS1dqMFVna2hpVWFfUQ?oc=5",
           "desc": "",
           "title_en": "I thought it was paint... Amazing food I met in Türkiye [Shin Ye-hee's solo bite trip]",
           "title_ja": "絵の具かと思った・・・トルコで出会った素敵な食べ物【シン・イェヒのひとり旅】",
           "title_zh": "我以为是油漆……我在Türkiye遇到的美食[Shin Ye-hee's solo bite trip]"
-        },
-        {
-          "title": "NS홈쇼핑, ‘NS푸드페스타 2026 익산’ 요리경연 심사위원 위촉식 가져",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKc0hQWVB3T2ZfR2liRjZGUFlsWDRiRjI0Zkt2N015SWt0Wm1BZEJPa2ZiUFFlUGpiZDE0ZHNPellVQVVRNkVBdWhTMnhqV2l3OFBvSTJOc1N5UQ?oc=5",
-          "desc": "",
-          "title_en": "NS Home Shopping, ‘NS Food Festa 2026 Iksan’ Cooking Competition Jury Commissioned",
-          "title_ja": "NS Home Shopping、「NS Food Festa 2026 Iksan」クッキングコンペティション審査員受託",
-          "title_zh": "NS Home Shopping ，委托“NS Food Festa 2026 Iksan”烹饪比赛评审团"
         },
         {
           "title": "\"쌈장 찍어 먹었더니 대박\"…'삼겹살 과자' 품절 대란 [트렌드+]",
