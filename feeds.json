@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T20:36:26Z",
+  "lastUpdated": "2026-09-02T23:00:59Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "[반려동물] 반려묘 200만마리 넘었다…'습식·기능성' 펫푸드 시장 성장",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Cb0xRRG5EbzNvZ0o4TFJOT1VKeDNDTGRwbHVtQ0dhcTF5enFlT09va1hBOXkzRnhpb2Z3aFZRX0J4eFh3ZWNLcVlPNjJjV0FIY0E?oc=5",
+          "desc": "",
+          "title_en": "[Pets] Over 2 million cats... 'wet and functional' pet food market growth",
+          "title_ja": "[ペット] 200万匹以上の猫…「濡れた機能的な」ペットフード市場の成長",
+          "title_zh": "[宠物]超过200万只猫...... “潮湿和功能性”宠物食品市场增长"
+        },
+        {
           "title": "롯데웰푸드·빙그레 내수·수출 실적개선 주가도 따라 웃었다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsMHBPQl9MNlQzbUpJbVdjczk0ejlhNjk2dGVYVl8zQ1pQOGNGZmQxTzFKM2w1X0hzUUFfM2k0dzRvNnh5bDZha2xfck5Ja2VvRXc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Lotte Mart, K-Food Specialty Store in Jakarta… Targeting the Local Wholesale and Retail Distribution Market",
           "title_ja": "ロッテマート、ジャカルタのK - Food専門店…地元の卸売・小売流通市場をターゲットに",
           "title_zh": "乐天玛特，雅加达的K-Food专卖店……瞄准当地批发和零售分销市场"
-        },
-        {
-          "title": "롯데웰푸드·빙그레 내수·수출 실적개선 주가도 따라 웃었다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Bc1VtZnB1S3lrZUN4NUVfdjlpaERZdWZ2cGNZNVE2LVJ3akcxV1BTV1hBLUVaSUlIMHlqX29vWF81ampORkpGVGxKLUZqdXVUNGc?oc=5",
-          "desc": "",
-          "title_en": "I laughed along with Lotte Well Food and Binggrae domestic and export performance improvement stock prices.",
-          "title_ja": "ロッテウェルフードやビングレーの国内・輸出業績改善株と一緒に笑いました。",
-          "title_zh": "我与乐天Well Food和Binggrae一起笑国内和出口业绩改善股票价格。"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "“羽衣甘蓝和菠菜汁有助于改善炎症”"
         },
         {
-          "title": "스타벅스 ‘추석 선물’, 28일부터 사전예약",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53MEpKeEdfNDlqNm9ocDNiZWowSDJuSWI4Q19CSjZ3RldoU0s0Zy03Y3EtNXBTSlFuNHVwbWQxaUk4U0dnZGdOQzZIb1RfRFJGNkstbE1FRQ?oc=5",
-          "desc": "",
-          "title_en": "Starbucks‘ Chuseok Gift ’, pre-booking from the 28th",
-          "title_ja": "スターバックス「Chuseokギフト」、28日からの事前予約",
-          "title_zh": "星巴克“Chuseok礼物” ，从28日开始提前预订"
-        },
-        {
           "title": "“폴 바셋에서 ‘더드라마’ 보세요”…영화 시사회 열어",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01T280UlF4M0J0M2xXb3AxeVMwRWFKVmZKWmFTYzJxMGZfX0hfT2Qzck1kWWFlMkktSHBnX3NKSnNWOW9ad2hyUXRxY3NQd2p4b1dyYXZlRQ?oc=5",
           "desc": "",
           "title_en": "“Watch 'The Drama‘ at Paul Bassett” … Open the movie premiere",
           "title_ja": "「ポール・バセットで『ドラマ』を見る」…映画のプレミアを開く",
           "title_zh": "“观看保罗·巴塞特的《戏剧》” ……开启电影首映式"
+        },
+        {
+          "title": "UAE 맥도날드, 현지화한 K-불고기 맛 한정 출시",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1abE9OSXZmX2JqZzR2eEx3a25PMXQ2d3VqRm54QTlMc19JYnpfTkdQNXRmUEVUTmUwbUxzajlRNGR5R1pGekE2ZkhSYkdWejBYZTJfTFhVdw?oc=5",
+          "desc": "",
+          "title_en": "UAE McDonald's Launches Localized K-Beat Flavors Limited",
+          "title_ja": "アラブ首長国連邦マクドナルド、ローカライズされたK - Beat Flavors Limitedを発売",
+          "title_zh": "阿联酋麦当劳推出本地化K-Beat Flavors Limited"
         }
       ]
     }
