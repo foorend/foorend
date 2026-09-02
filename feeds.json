@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T16:04:57Z",
+  "lastUpdated": "2026-09-02T20:36:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "It’s Time to Take Ranch Dressing Seriously",
+          "link": "https://www.eater.com/dining-out/984279/ranch-dressing-history-world-cup-fine-dining",
+          "desc": "You can tell a lot about someone by the way they talk about ranch dressing. Do they express Midwestern passion for the condiment, or coastal-elite dis",
+          "title_ko": "목장 드레싱을 진지하게 받아들여야 할 때입니다",
+          "title_ja": "牧場でドレッシングを真剣に楽しもう",
+          "title_zh": "是时候认真对待牧场敷料了"
+        },
+        {
           "title": "‘Still or Sparkling’ Must Be Stopped",
           "link": "https://www.eater.com/dining-out/982697/still-sparkling-or-filtered-tap",
           "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
@@ -110,14 +118,6 @@
           "title_ko": "사실, 레스토랑에서 나란히 식사하는 것은 좋은 일입니다.",
           "title_ja": "実際、レストランで並んで食事をするのは良いことです",
           "title_zh": "实际上，在餐厅并排用餐是件好事"
-        },
-        {
-          "title": "I’m Over the Erewhonification of Fancy Grocery Stores",
-          "link": "https://www.eater.com/food-culture/981913/fancy-luxury-grocery-stores-have-gone-too-far-erewhon",
-          "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
-          "title_ko": "I 'm Over the Erewhonification of Fancy Grocery Stores",
-          "title_ja": "I 'm Over the Erewhonification of Fancy Grocery Stores",
-          "title_zh": "我对花式杂货店的Erewhonification感到满意"
         }
       ]
     }
@@ -127,6 +127,14 @@
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
       "items": [
+        {
+          "title": "장스푸드, 우아한형제들과 협약…가맹점 운영 지원 협력",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0RmeHFVZWtaMHdCemlidG9mck9fdmRjRTZfbGtEWlNSR1BkYjZ1MUdjc3k4VXU4MURBN3BnemlqZHVVQjhXZ05MMG9yUk9xMnZZYnpiMUR2YXM1ellvTE1IbXNSNGNtY0phZHRCUGt4YVVHS1dVMVo5bDY3MlFiTG05c1FSeW8?oc=5",
+          "desc": "",
+          "title_en": "Jiangsu Food Signs Agreement with Elegant Brothers… Cooperate in Supporting Merchant Operations",
+          "title_ja": "江蘇食品、エレガントブラザーズと契約…加盟店運営支援に協力",
+          "title_zh": "江苏美食与Elegant Brothers签约…配合支持商户运营"
+        },
         {
           "title": "[포토] 풍림푸드, '2026 올해의 브랜드 대상' 가공계란 부문 수상",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOQUl3eDRiX0pRdHQyTGtxRHdFeEFLb2JyUDJvRTdOcHRzYjdISXhoV0M4WDNkNFE2cmZoLUQxa1lxbDNZb29nMDZickp6b3BWOGEwZXBsSGpyQQ?oc=5",
@@ -142,14 +150,6 @@
           "title_en": "[Photo] Seafood from Norway wins' 2026 Brand of the Year Award 'for imported seafood products",
           "title_ja": "【写真】ノルウェーの魚介類が輸入魚介類の「2026 Brand of the Year Award」を受賞",
           "title_zh": "【图片】挪威海鲜荣获进口海鲜产品“2026年度品牌奖”"
-        },
-        {
-          "title": "장스푸드, 우아한형제들과 협약…가맹점 운영 지원 협력",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0RmeHFVZWtaMHdCemlidG9mck9fdmRjRTZfbGtEWlNSR1BkYjZ1MUdjc3k4VXU4MURBN3BnemlqZHVVQjhXZ05MMG9yUk9xMnZZYnpiMUR2YXM1ellvTE1IbXNSNGNtY0phZHRCUGt4YVVHS1dVMVo5bDY3MlFiTG05c1FSeW8?oc=5",
-          "desc": "",
-          "title_en": "Jiangsu Food Signs Agreement with Elegant Brothers… Cooperate in Supporting Merchant Operations",
-          "title_ja": "江蘇食品、エレガントブラザーズと契約…加盟店運営支援に協力",
-          "title_zh": "江苏美食与Elegant Brothers签约…配合支持商户运营"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "乐天玛特，雅加达的K-Food专卖店……瞄准当地批发和零售分销市场"
         },
         {
-          "title": "\"김치·라면 다음은?\"… K푸드 신제품, 日시장 조준",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XX0IyZVlRSlE0Ukt0VVJOYklRYUg0elBjdjVpa3JnSXBwZGd2c3llU1N1RkxRaW4xb2JiQjVJZGpKVThkNWR6eXB4bkVteU5rbFNLZXJR?oc=5",
+          "title": "롯데웰푸드·빙그레 내수·수출 실적개선 주가도 따라 웃었다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Bc1VtZnB1S3lrZUN4NUVfdjlpaERZdWZ2cGNZNVE2LVJ3akcxV1BTV1hBLUVaSUlIMHlqX29vWF81ampORkpGVGxKLUZqdXVUNGc?oc=5",
           "desc": "",
-          "title_en": "\"What's next for Kimchi Ramen?\" … K-Food's new product, aimed at the Japanese market",
-          "title_ja": "「キムチラーメンの今後は？」…日本市場をターゲットにしたK - Foodの新商品",
-          "title_zh": "“泡菜拉面下一步是什么？” …… K-Food面向日本市场的新产品"
+          "title_en": "I laughed along with Lotte Well Food and Binggrae domestic and export performance improvement stock prices.",
+          "title_ja": "ロッテウェルフードやビングレーの国内・輸出業績改善株と一緒に笑いました。",
+          "title_zh": "我与乐天Well Food和Binggrae一起笑国内和出口业绩改善股票价格。"
         }
       ]
     },
