@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T23:03:52Z",
+  "lastUpdated": "2026-09-02T03:15:22Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "[포토] 씨푸드프롬노르웨이, '2026 올해의 브랜드 대상' 수입수산물 부문 수상",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CUHdhZHVCYV80NkRjeGxZdHhEZ2lxVFhXQjlCbEg2Q2tDcVM4LU45dUhrOFpvcDVwb3p6YzdVbzRQaVhiNnRlSkFIN3RJNFJ5QXl5SHI1OU1YZw?oc=5",
-          "desc": "",
-          "title_en": "[Photo] Seafood from Norway wins' 2026 Brand of the Year Award 'for imported seafood products",
-          "title_ja": "【写真】ノルウェーの魚介類が輸入魚介類の「2026 Brand of the Year Award」を受賞",
-          "title_zh": "【图片】挪威海鲜荣获进口海鲜产品“2026年度品牌奖”"
-        },
-        {
           "title": "[포토] 풍림푸드, '2026 올해의 브랜드 대상' 가공계란 부문 수상",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOQUl3eDRiX0pRdHQyTGtxRHdFeEFLb2JyUDJvRTdOcHRzYjdISXhoV0M4WDNkNFE2cmZoLUQxa1lxbDNZb29nMDZickp6b3BWOGEwZXBsSGpyQQ?oc=5",
           "desc": "",
           "title_en": "[Photo] Poonglim Food Receives' 2026 Brand of the Year Award 'in Processing Egg Category",
           "title_ja": "【写真】Poonglim Food、卵加工部門で「2026 Brand of the Year Award」を受賞",
           "title_zh": "【图片】Poonglim Food在加工鸡蛋类别中荣获“2026年度品牌奖”"
+        },
+        {
+          "title": "[포토] 씨푸드프롬노르웨이, '2026 올해의 브랜드 대상' 수입수산물 부문 수상",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CUHdhZHVCYV80NkRjeGxZdHhEZ2lxVFhXQjlCbEg2Q2tDcVM4LU45dUhrOFpvcDVwb3p6YzdVbzRQaVhiNnRlSkFIN3RJNFJ5QXl5SHI1OU1YZw?oc=5",
+          "desc": "",
+          "title_en": "[Photo] Seafood from Norway wins' 2026 Brand of the Year Award 'for imported seafood products",
+          "title_ja": "【写真】ノルウェーの魚介類が輸入魚介類の「2026 Brand of the Year Award」を受賞",
+          "title_zh": "【图片】挪威海鲜荣获进口海鲜产品“2026年度品牌奖”"
         },
         {
           "title": "페인트인 줄 알았다…튀르키예서 만난 놀라운 음식 [신예희의 나홀로 한입여행]",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "美 멕시칸 음식 전문점 치폴레 아시아 첫 매장 강남에 열어",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04V1d1cDJYcmZlT1dYUk5kbXhjc3FRUG9DRGp5WFU3aVR6WUZhd19ZQ0pLSjl5TmdvVFFKZ2RqT19yUFF4YWtDR0lWT0JnOTdFMHRwQ2h3?oc=5",
+          "desc": "",
+          "title_en": "Opened in Gangnam, the first store in Chipotle Asia, a Mexican restaurant in the US",
+          "title_ja": "米国のメキシコ料理店Chipotle Asiaの最初の店舗である江南に出店",
+          "title_zh": "在美国墨西哥餐厅Chipotle Asia的第一家商店江南开业"
+        },
+        {
           "title": "\"김치·라면 다음은?\"… K푸드 신제품, 日시장 조준",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oWDVqOFhvYXFYeXdaWHpydXZmN0FHa0lzZnQ2ZkZEdFJCVzBxYzFYdm14ZG5NU2VYOFYzLTRGelVZdjkwMHc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Branch Out Food Raises $3.2 Million with Full Exercise of Additional Allocation Options for Public Offering",
           "title_ja": "ブランチアウトフードは、公募のための追加配分オプションを完全に行使することで320万ドルを調達",
           "title_zh": "通过全面行使公开发行的额外分配选择权， Branch Out Food筹集了320万美元"
-        },
-        {
-          "title": "美 멕시칸 음식 전문점 치폴레 아시아 첫 매장 강남에 열어",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uZVpnYXNVXzcxbFAzdFZKaVkxaGFXbzJwMzM0OHM3akJhV3dQdXB0NlRwbmZQMDBTYk9EVzE1dHpKZkNPZ0E?oc=5",
-          "desc": "",
-          "title_en": "Opened in Gangnam, the first store in Chipotle Asia, a Mexican restaurant in the US",
-          "title_ja": "米国のメキシコ料理店Chipotle Asiaの最初の店舗である江南に出店",
-          "title_zh": "在美国墨西哥餐厅Chipotle Asia的第一家商店江南开业"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "美国拒绝FDA进口韩国食品"
         },
         {
-          "title": "한류 강한 브라질, 음식으로 소비 확산",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mc2dhcC10UE9WbDlqNVZjWVFyTVVXM3h4MnRTbkJMMlk4U2hGWUExNHV3RlZoOGNGYXJmVEVoT1N1aDFzcnV2SVZUeGFrZTdsWnBwU2JlUQ?oc=5",
-          "desc": "",
-          "title_en": "Brazil, strong in Hallyu, spreads consumption to food",
-          "title_ja": "ハリウで強いブラジル、消費を食品に広げる",
-          "title_zh": "在Hallyu强劲的巴西将消费扩展到食品"
-        },
-        {
           "title": "“케일·시금치 착즙 주스, 염증 개선 도움”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ST1hKb3FpYzlHMVJnM2J6NjlpTWhxdTRwNGNiMjg5Y2dLWXRYaFc4bHJCNXlLWlFnVV91ZzFzWnQzM2hydjUyZE1sSkZ4UVVlSEwyZFJCSQ?oc=5",
           "desc": "",
           "title_en": "“Kale and spinach juice helps improve inflammation”",
           "title_ja": "「ケールとほうれん草ジュースは炎症を改善するのに役立ちます」",
           "title_zh": "“羽衣甘蓝和菠菜汁有助于改善炎症”"
+        },
+        {
+          "title": "스타벅스 ‘추석 선물’, 28일부터 사전예약",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53MEpKeEdfNDlqNm9ocDNiZWowSDJuSWI4Q19CSjZ3RldoU0s0Zy03Y3EtNXBTSlFuNHVwbWQxaUk4U0dnZGdOQzZIb1RfRFJGNkstbE1FRQ?oc=5",
+          "desc": "",
+          "title_en": "Starbucks‘ Chuseok Gift ’, pre-booking from the 28th",
+          "title_ja": "スターバックス「Chuseokギフト」、28日からの事前予約",
+          "title_zh": "星巴克“Chuseok礼物” ，从28日开始提前预订"
         }
       ]
     }
