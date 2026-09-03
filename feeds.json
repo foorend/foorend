@@ -1,65 +1,15 @@
 {
-  "lastUpdated": "2026-09-03T15:54:53Z",
+  "lastUpdated": "2026-09-03T20:35:40Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "Owner raises $240M for 'AI-native' restaurant tech",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmh5czlULWxodzVpUjBMY3pnSC1STXlOZkNlWjBXWnd5Qk0wZ2VyN21SaDItRVlud0R4ZTROQ1NRS0RXTUs2eDJnSVNuVDZnQ1dmWUtPTEp1ak04WWdKb2tzd3MwbVFVZUN6TEJBcHRraHRRNDJ3SHdYb0w2SHJsY0ozdTFSRTNYTUNKRGtnUVdjY0ZxV1E?oc=5",
-          "desc": "",
-          "title_ko": "Owner raises $240M for 'AI-native' restaurant tech",
-          "title_ja": "Owner raises $240M for 'AI-native' restaurant tech",
-          "title_zh": "Owner raises $240M for 'AI-native' restaurant tech"
-        },
-        {
-          "title": "Another restaurant chain doesn’t get sold",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeU1RaFVLX214Y2dzWEdPLTZJN1hVTnI2T3hPblVRUnBKV3BTMGRabXV1dTQwekdYTkNUV0R2U2FCUjZYZmtpQkJwanNxX0EtWGtmN1RnT3hIN0UtczYzOFlvVXpYeXNOQmFOTEE2Yi1kYjVSZzhGT3ExSEhfWVlNT2hvUF9wUTluaEZFRzlLV2M?oc=5",
-          "desc": "",
-          "title_ko": "Another restaurant chain doesn’t get sold",
-          "title_ja": "Another restaurant chain doesn’t get sold",
-          "title_zh": "Another restaurant chain doesn’t get sold"
-        },
-        {
-          "title": "A Dubai-born tiramisu-focused dessert concept makes its U.S. debut",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTEyN040NVpENWNiQlpCdlRfWE5ldEZvb2xiQUZHdWVMZnVQU0xqT1hDZDR6dnVkQWxSLXZvZGl4U3dLMHFTN01seTdFTUV6N2ZJOXU0cl9NcUZyRDlqeUVhcmhyWDQ1WDZIV0xhUFBFODVtQjVBSkNJNERMeThPMW4xbWFwXzhUaEsxbTJYSi1lZ2pWWG5xZVRQWFd4ZXpxdEttZFhJQ0tiVV8wMTRLYzJHbnc1dw?oc=5",
-          "desc": "",
-          "title_ko": "A Dubai-born tiramisu-focused dessert concept makes its U.S. debut",
-          "title_ja": "A Dubai-born tiramisu-focused dessert concept makes its U.S. debut",
-          "title_zh": "A Dubai-born tiramisu-focused dessert concept makes its U.S. debut"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": [
-        {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
-          "desc": "",
-          "title_ko": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "title_ja": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "title_zh": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland"
-        },
-        {
-          "title": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOENiSW9IR2xIaG9BNkhpYnhEWTNmNVQ1VEhkXzh4a2Z3bWZ5a1UwSDY1Q1RUU0pPZUV2WDZBazJHSUNnTVNuWE02VlZLYVY0RTNGWVpmVl9PWjVrYUpNLXBrM0JMMWlrblZVanlYWEhzdFBycVp6Sml4R2NrTTd0MTJtejNZZw?oc=5",
-          "desc": "",
-          "title_ko": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
-          "title_ja": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
-          "title_zh": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "title_ja": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "title_zh": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar"
-        }
-      ]
+      "items": []
     },
     "businessinsider": {
       "label": "Business Insider",
@@ -74,25 +24,25 @@
           "title": "It’s Time to Take Ranch Dressing Seriously",
           "link": "https://www.eater.com/dining-out/984279/ranch-dressing-history-world-cup-fine-dining",
           "desc": "You can tell a lot about someone by the way they talk about ranch dressing. Do they express Midwestern passion for the condiment, or coastal-elite dis",
-          "title_ko": "It’s Time to Take Ranch Dressing Seriously",
-          "title_ja": "It’s Time to Take Ranch Dressing Seriously",
-          "title_zh": "It’s Time to Take Ranch Dressing Seriously"
+          "title_ko": "목장 드레싱을 진지하게 받아들여야 할 때입니다",
+          "title_ja": "牧場でドレッシングを真剣に楽しもう",
+          "title_zh": "是时候认真对待牧场敷料了"
         },
         {
           "title": "‘Still or Sparkling’ Must Be Stopped",
           "link": "https://www.eater.com/dining-out/982697/still-sparkling-or-filtered-tap",
           "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
-          "title_ko": "‘Still or Sparkling’ Must Be Stopped",
-          "title_ja": "‘Still or Sparkling’ Must Be Stopped",
-          "title_zh": "‘Still or Sparkling’ Must Be Stopped"
+          "title_ko": "‘스틸 또는 스파클링’ 을 중지해야 함",
+          "title_ja": "「スティルまたはスパークリング」を止める必要があります",
+          "title_zh": "必须停止“静止或闪闪发光”"
         },
         {
           "title": "Actually, Dining Side-by-Side in Restaurants Is Good",
           "link": "https://www.eater.com/dining-out/981844/is-it-ok-to-dine-side-by-side-in-a-restaurant",
           "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
-          "title_ko": "Actually, Dining Side-by-Side in Restaurants Is Good",
-          "title_ja": "Actually, Dining Side-by-Side in Restaurants Is Good",
-          "title_zh": "Actually, Dining Side-by-Side in Restaurants Is Good"
+          "title_ko": "사실, 레스토랑에서 나란히 식사하는 것은 좋은 일입니다.",
+          "title_ja": "実際、レストランで並んで食事をするのは良いことです",
+          "title_zh": "实际上，在餐厅并排用餐是件好事"
         }
       ]
     }
@@ -101,32 +51,7 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "K-푸드 수출 160억 달러 목표로…정부 총력전 돌입",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CRFJvMFB1bU9QR1FsTkdmREJSekhNS2J4Y3ROVVBZQWFFUjVOdWx1TmJPMmpSTGhXZTV4aVVSYnhrUDhNRG9JVHA5TGVIaG1zX2ZaejV4bE92dw?oc=5",
-          "desc": "",
-          "title_en": "K-푸드 수출 160억 달러 목표로…정부 총력전 돌입",
-          "title_ja": "K-푸드 수출 160억 달러 목표로…정부 총력전 돌입",
-          "title_zh": "K-푸드 수출 160억 달러 목표로…정부 총력전 돌입"
-        },
-        {
-          "title": "현대그린푸드, 구내식당서 ‘양 티본 스테이크’ 선보인다 … 단체급식 차별화 ‘박차’",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VamRZdTdBQm1OTzEwaXQtYWE2eHl4TU1WaDlBUzkta0N0UzM0RVRmSERwUm54ZEhUUVROVTRUa0Y5bXJ2d3NoNzBYY2JSTFZxY1RUVGdYbnlyQQ?oc=5",
-          "desc": "",
-          "title_en": "현대그린푸드, 구내식당서 ‘양 티본 스테이크’ 선보인다 … 단체급식 차별화 ‘박차’",
-          "title_ja": "현대그린푸드, 구내식당서 ‘양 티본 스테이크’ 선보인다 … 단체급식 차별화 ‘박차’",
-          "title_zh": "현대그린푸드, 구내식당서 ‘양 티본 스테이크’ 선보인다 … 단체급식 차별화 ‘박차’"
-        },
-        {
-          "title": "박우연 오웬푸드셰프애찬 대표, 중진공 투자자 복합금융 심의서 IR 발표",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRmNsaGhMV0o2V3c3UnpNRjM5S3M0TXFQcVAyNGxzYzZCdVdPM3JiV3RPQzUzZWkxRG82SC1aNzNud3RkUGxrRklteEZQd1ZFTEJjeUxvS3Fidw?oc=5",
-          "desc": "",
-          "title_en": "박우연 오웬푸드셰프애찬 대표, 중진공 투자자 복합금융 심의서 IR 발표",
-          "title_ja": "박우연 오웬푸드셰프애찬 대표, 중진공 투자자 복합금융 심의서 IR 발표",
-          "title_zh": "박우연 오웬푸드셰프애찬 대표, 중진공 투자자 복합금융 심의서 IR 발표"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
@@ -141,32 +66,7 @@
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "스타벅스 ‘추석 선물’, 28일부터 사전예약",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53MEpKeEdfNDlqNm9ocDNiZWowSDJuSWI4Q19CSjZ3RldoU0s0Zy03Y3EtNXBTSlFuNHVwbWQxaUk4U0dnZGdOQzZIb1RfRFJGNkstbE1FRQ?oc=5",
-          "desc": "",
-          "title_en": "스타벅스 ‘추석 선물’, 28일부터 사전예약",
-          "title_ja": "스타벅스 ‘추석 선물’, 28일부터 사전예약",
-          "title_zh": "스타벅스 ‘추석 선물’, 28일부터 사전예약"
-        },
-        {
-          "title": "“폴 바셋에서 ‘더드라마’ 보세요”…영화 시사회 열어",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01T280UlF4M0J0M2xXb3AxeVMwRWFKVmZKWmFTYzJxMGZfX0hfT2Qzck1kWWFlMkktSHBnX3NKSnNWOW9ad2hyUXRxY3NQd2p4b1dyYXZlRQ?oc=5",
-          "desc": "",
-          "title_en": "“폴 바셋에서 ‘더드라마’ 보세요”…영화 시사회 열어",
-          "title_ja": "“폴 바셋에서 ‘더드라마’ 보세요”…영화 시사회 열어",
-          "title_zh": "“폴 바셋에서 ‘더드라마’ 보세요”…영화 시사회 열어"
-        },
-        {
-          "title": "정식품, 추석 맞이 ‘그린비아 기프트세트 2종’ 선봬",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VaWNqUjllZ2NRXzlQaUI0cTdDODB0eU9nMl93ODBGc2VZX09kMGZodTR1QmlPbFNlWG9yQ1NZckZQTEMzS0stZ0R2Y3J4cHZOa2hvMmhBcw?oc=5",
-          "desc": "",
-          "title_en": "정식품, 추석 맞이 ‘그린비아 기프트세트 2종’ 선봬",
-          "title_ja": "정식품, 추석 맞이 ‘그린비아 기프트세트 2종’ 선봬",
-          "title_zh": "정식품, 추석 맞이 ‘그린비아 기프트세트 2종’ 선봬"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
