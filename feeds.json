@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T03:17:40Z",
+  "lastUpdated": "2026-09-03T10:46:47Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "K-푸드 수출 160억 달러 목표로…정부 총력전 돌입",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CRFJvMFB1bU9QR1FsTkdmREJSekhNS2J4Y3ROVVBZQWFFUjVOdWx1TmJPMmpSTGhXZTV4aVVSYnhrUDhNRG9JVHA5TGVIaG1zX2ZaejV4bE92dw?oc=5",
+          "desc": "",
+          "title_en": "K-Food exports aim for $16 billion… The government is in full swing",
+          "title_ja": "K - Foodの輸出は160億ドルを目指しています…政府は本格的に動いています",
+          "title_zh": "K-Food出口的目标是160亿美元……政府正在全力以赴"
+        },
+        {
           "title": "현대그린푸드, 구내식당서 ‘양 티본 스테이크’ 선보인다 … 단체급식 차별화 ‘박차’",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VamRZdTdBQm1OTzEwaXQtYWE2eHl4TU1WaDlBUzkta0N0UzM0RVRmSERwUm54ZEhUUVROVTRUa0Y5bXJ2d3NoNzBYY2JSTFZxY1RUVGdYbnlyQQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Park Woo-yeon, CEO of Owen Foods Chef Achan, Announces IR Deliberation on Complex Finance for Heavy-duty Investors",
           "title_ja": "Owen FoodsのシェフAchanのCEOであるPark Woo - yeonは、ヘビーデューティ投資家のための複雑なファイナンスに関するIR審議を発表します",
           "title_zh": "Owen Foods大厨Achan的首席执行官Park Woo-yeon宣布就重型投资者的复杂融资进行IR审议"
-        },
-        {
-          "title": "NS홈쇼핑, 익산시와 함께 ‘NS푸드페스타2026익산’ 성공 개최 준비 박차",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95M1AyQVhUYWpZNXNCcGVmaEwyUWE1QTFMRU4yanN0ZkhuMUtkV29GVkl0X0FWMlUzVzB4Ml96RkZUX2pkaFhJOXBCYzNLbHViTjB5ZkpGYU9lZw?oc=5",
-          "desc": "",
-          "title_en": "NS Home Shopping prepares to hold ‘NS Food Festa 2026 Iksan’ with Iksan City",
-          "title_ja": "NS Home Shoppingが益山市と「NS Food Festa 2026益山」を開催",
-          "title_zh": "NS Home Shopping准备与益山市共同举办“NS Food Festa 2026益山”"
         }
       ]
     },
@@ -158,8 +158,16 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "이노하스, 키아프 서울 2026 VIP 라운지서 식물성 K-푸드 선봬",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NcXl6TE9yS2d5LS1HTmliLWVTZ2haR1RkNm1lcVNRMnIwbXU0eXJpT2FmQU1jMjR1THR1WE1VWGhnWlVHN3pEQTZuV3d2eGlUVWlV0gFTQVVfeXFMTU1xeXpMT3JLZ3ktLUdOaWItZVNnaFpHVGQ2bWVxU1EycjBtdTR5cmlPYWZBTWMyNHVMdHVYTVVYaGdaVUc3ekRBNm5Xd3Z4aVRVaVU?oc=5",
+          "desc": "",
+          "title_en": "Innohas, Chiaf Seoul 2026 VIP Lounge Vegetable K-Food Restaurant",
+          "title_ja": "Innohas, Chiafソウル2026 VIPラウンジ野菜K - Foodレストラン",
+          "title_zh": "Innohas, Chiaf首尔2026贵宾休息室蔬菜K-Food餐厅"
+        },
+        {
           "title": "추석 음식과 어울리는 9월 대표 전통주는…‘섬진강바람 오크40’",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CT0NncFFsb3NLVnNMd0JNUC1kNzJ6NVZzTDJ2dFNKa2lUZjZXZml5YTU4aWxNanRocG5NV29UeWk0NGg2RjA1XzdzTE1yeVpMZUpr0gFTQVVfeXFMTUJPQ2dwUWxvc0tWc0x3Qk1QLWQ3Mno1VnNMMnZ0U0praVRmNldmaXlhNThpbE1qdGhwbk1Xb1R5aTQ0aDZGMDVfN3NMTXJ5WkxlSms?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zajlXbE8yMV92M0FvOVpibGxxUHRjMjYwM1NIRDdMaHVkWlRoNjAtcnpKMXV4Z2JBT0dmajlvbTUyYVdWOVBZbmdVUFBLSC1DZWfSAVNBVV95cUxNQk9DZ3BRbG9zS1ZzTHdCTVAtZDcyejVWc0wydnRTSmtpVGY2V2ZpeWE1OGlsTWp0aHBuTVdvVHlpNDRoNkYwNV83c0xNcnlaTGVKaw?oc=5",
           "desc": "",
           "title_en": "The representative traditional wine of September paired with Chuseok food… ‘Seomjin River Breeze Oak 40’",
           "title_ja": "9月の代表的な伝統的なワインとチュソク料理…「ソムジンリバーブリーズオーク40」",
@@ -172,14 +180,6 @@
           "title_en": "Lotte Well Food hosts‘ K Snack ’pop-up store",
           "title_ja": "「Kスナック」ポップアップストアをホストするロッテウェルフード",
           "title_zh": "乐天健康食品（ Lotte Well Food ）快闪店「K Snack」"
-        },
-        {
-          "title": "“건대 근처가 차이나타운 돼간다…中식당 제한해 세계음식거리로 만들자” 민원에 답변은",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVMHh5bUlaekFyNjRBS3g2VWNlcnRkRFZSU1I2bFZTREVfT1RCQVdZZDNpNURVM2RJd29qZFVOSTVaSzQ2bUMxSnVZRFJ1SmI2UmtCZWlwVTVlUlRjNVdiNnVYT3Nid9IBU0FVX3lxTE50eWdvNENRYU41OVN6LUFGTVU3aTZpX2hPT01wTTczNzRRUGdrMEZPZm9DX0ZuNGd6dC1TU2pWV2V1TlVLZGdXS0tZM2wxLUZCVDhN?oc=5",
-          "desc": "",
-          "title_en": "“Chinatown near Konkuk University is becoming… Let's restrict restaurants in China and make it a world food street.” The answer to the complaint",
-          "title_ja": "「コンクック大学に近いチャイナタウンが変わりつつあります…中国のレストランを制限し、世界のフードストリートにしましょう」苦情に対する回答",
-          "title_zh": "“建国大学附近的唐人街正在成为……让我们限制中国的餐馆，让它成为世界美食街。”投诉的答案"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "김제·코레일, 군위·롯데웰푸드 '맞손'…지지체-기업 상생 협약",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15WmltT1B6ekRubmJtM04yck1fVTBCcjhwVlB5MWhZNXAxUFBPLThxeFBkLXJtUlEzRjA2MXFNUVBNbGVBblNkOG5RUGo2ZVhhZkE?oc=5",
+          "desc": "",
+          "title_en": "Gimje · Korail, Armed Forces · Lotte Well Food 'Jamson' … Support-Corporate Win-Win Agreement",
+          "title_ja": "Gimje・Korail、Armed Forces・Lotte Well Food「Jamson」…サポート-企業Win - Win契約",
+          "title_zh": "Gimje · Korail、武装部队·乐天井食品「Jamson」……支持-企业双赢协议"
+        },
+        {
+          "title": "반도체 말고 ‘K뷰티·K푸드’…수출 성장주로 ‘주목’",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OaGRlbEhlT2NQY1N6bzh4WW8zQUM2NjRlWFR2SHJoM3VWa0ZkTnJsZzdmYnBMNVVvWDNtcXV1M1lTTG1CeHFfYUVESGdOMnc?oc=5",
+          "desc": "",
+          "title_en": "In addition to semiconductors, ‘K-beauty and K-food’ … ’attention‘ as an export growth leader",
+          "title_ja": "半導体に加えて、「KビューティーとKフード」…輸出成長リーダーとしての「注目」",
+          "title_zh": "除了半导体， “K-beauty和K-food” ……作为出口增长领导者的“关注”"
+        },
+        {
           "title": "롯데웰푸드·빙그레 내수·수출 실적개선 주가도 따라 웃었다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsMHBPQl9MNlQzbUpJbVdjczk0ejlhNjk2dGVYVl8zQ1pQOGNGZmQxTzFKM2w1X0hzUUFfM2k0dzRvNnh5bDZha2xfck5Ja2VvRXc?oc=5",
           "desc": "",
           "title_en": "I laughed along with Lotte Well Food and Binggrae domestic and export performance improvement stock prices.",
           "title_ja": "ロッテウェルフードやビングレーの国内・輸出業績改善株と一緒に笑いました。",
           "title_zh": "我与乐天Well Food和Binggrae一起笑国内和出口业绩改善股票价格。"
-        },
-        {
-          "title": "[반려동물] 반려묘 200만마리 넘었다…'습식·기능성' 펫푸드 시장 성장",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Cb0xRRG5EbzNvZ0o4TFJOT1VKeDNDTGRwbHVtQ0dhcTF5enFlT09va1hBOXkzRnhpb2Z3aFZRX0J4eFh3ZWNLcVlPNjJjV0FIY0E?oc=5",
-          "desc": "",
-          "title_en": "[Pets] Over 2 million cats... 'wet and functional' pet food market growth",
-          "title_ja": "[ペット] 200万匹以上の猫…「濡れた機能的な」ペットフード市場の成長",
-          "title_zh": "[宠物]超过200万只猫...... “潮湿和功能性”宠物食品市场增长"
-        },
-        {
-          "title": "롯데마트, 자카르타에 K푸드 특화매장… 현지 도소매 유통시장 공략",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KZUFMN3BvM0RPSkNpUXZnN3JLQWZVRk5HNGxkTHdLNmE2MDhkQzZSeFJSX25FMHhRcXpCb3ZlYUZHOTEtbnc?oc=5",
-          "desc": "",
-          "title_en": "Lotte Mart, K-Food Specialty Store in Jakarta… Targeting the Local Wholesale and Retail Distribution Market",
-          "title_ja": "ロッテマート、ジャカルタのK - Food専門店…地元の卸売・小売流通市場をターゲットに",
-          "title_zh": "乐天玛特，雅加达的K-Food专卖店……瞄准当地批发和零售分销市场"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "“케일·시금치 착즙 주스, 염증 개선 도움”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ST1hKb3FpYzlHMVJnM2J6NjlpTWhxdTRwNGNiMjg5Y2dLWXRYaFc4bHJCNXlLWlFnVV91ZzFzWnQzM2hydjUyZE1sSkZ4UVVlSEwyZFJCSQ?oc=5",
-          "desc": "",
-          "title_en": "“Kale and spinach juice helps improve inflammation”",
-          "title_ja": "「ケールとほうれん草ジュースは炎症を改善するのに役立ちます」",
-          "title_zh": "“羽衣甘蓝和菠菜汁有助于改善炎症”"
-        },
         {
           "title": "스타벅스 ‘추석 선물’, 28일부터 사전예약",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53MEpKeEdfNDlqNm9ocDNiZWowSDJuSWI4Q19CSjZ3RldoU0s0Zy03Y3EtNXBTSlFuNHVwbWQxaUk4U0dnZGdOQzZIb1RfRFJGNkstbE1FRQ?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "“Watch 'The Drama‘ at Paul Bassett” … Open the movie premiere",
           "title_ja": "「ポール・バセットで『ドラマ』を見る」…映画のプレミアを開く",
           "title_zh": "“观看保罗·巴塞特的《戏剧》” ……开启电影首映式"
+        },
+        {
+          "title": "UAE 맥도날드, 현지화한 K-불고기 맛 한정 출시",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1abE9OSXZmX2JqZzR2eEx3a25PMXQ2d3VqRm54QTlMc19JYnpfTkdQNXRmUEVUTmUwbUxzajlRNGR5R1pGekE2ZkhSYkdWejBYZTJfTFhVdw?oc=5",
+          "desc": "",
+          "title_en": "UAE McDonald's Launches Localized K-Beat Flavors Limited",
+          "title_ja": "アラブ首長国連邦マクドナルド、ローカライズされたK - Beat Flavors Limitedを発売",
+          "title_zh": "阿联酋麦当劳推出本地化K-Beat Flavors Limited"
         }
       ]
     }
