@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T03:15:30Z",
+  "lastUpdated": "2026-09-04T10:45:43Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
         },
         {
-          "title": "A Dubai-born tiramisu-focused dessert concept makes its U.S. debut",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTEyN040NVpENWNiQlpCdlRfWE5ldEZvb2xiQUZHdWVMZnVQU0xqT1hDZDR6dnVkQWxSLXZvZGl4U3dLMHFTN01seTdFTUV6N2ZJOXU0cl9NcUZyRDlqeUVhcmhyWDQ1WDZIV0xhUFBFODVtQjVBSkNJNERMeThPMW4xbWFwXzhUaEsxbTJYSi1lZ2pWWG5xZVRQWFd4ZXpxdEttZFhJQ0tiVV8wMTRLYzJHbnc1dw?oc=5",
-          "desc": "",
-          "title_ko": "두바이 태생의 티라미수 중심의 디저트 컨셉으로 미국 데뷔",
-          "title_ja": "ドバイ生まれのティラミスを中心としたデザートコンセプトが米国でデビュー",
-          "title_zh": "迪拜诞生的提拉米苏甜点概念在美国首次亮相"
-        },
-        {
           "title": "Texas Roadhouse says post alleging racist practices was a hoax",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWpwdHJDUlpGMS1xZjNrUldhWU1ac0FwckJDT3p5ZVpCbl95elFMajB2STRiRHFwNDlNYk5IRWxuSUg1cFdSdzlQR2NhNlplZ2hGVXBuRTdXdlh0YUtCRzdfc2JTR2syS1lKVUhsbHdwQlRGRDI1bXpHT0ppWXNKUk81bjFQaExpS3FGdHl5Tm5LTWRrTzlrUWUxNVdlQV9BMWgySjExNS1OSS1E?oc=5",
           "desc": "",
           "title_ko": "텍사스 로드하우스는 인종차별적 관행을 주장하는 게시물이 사기라고 말했습니다.",
           "title_ja": "テキサス州ロードハウスは、人種差別的な慣行を主張する投稿はでっち上げだったと言います",
           "title_zh": "德克萨斯州Roadhouse说，指控种族主义行为的帖子是一个骗局"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -69,7 +69,7 @@
           "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
           "desc": "",
-          "title_ko": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
           "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
         },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "식품진흥원, 푸드폴리스마켓 추석 선물 기획전…최대 50% 할인",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13UGpJaDNDVC00WGtDckxBVFl5NWdSTkFZcW1KQzUtOGRzZG5pREJNQWZzZTh3OXpOTl9weW1VcFRRWnVYZzhjdTR6LVlJelhiNGc?oc=5",
+          "desc": "",
+          "title_en": "Food Agency, Food Police Market Chuseok Gift Exhibition… Up to 50% off",
+          "title_ja": "Food Agency、Food Police Market Chuseokギフト展…最大50%オフ",
+          "title_zh": "食品机构、食品警察市场Chuseok礼品展……低至五折"
+        },
+        {
+          "title": "국비 이월 불발·시 재정 부담…전주 음식관광창조타운 '재검토'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Ung0cTctWHFfYjZudlVfMDUtX0RaenlQRUFtaGh5eU1VOXpFLU9fcXFOOExUUjRzdExOVEdpQzBRc0c5djhZalIwZFdUWk1mTVE?oc=5",
+          "desc": "",
+          "title_en": "When the national treasury fails to carry over, the financial burden... Jeonju Food and Tourism Creative Town 'Review'",
+          "title_ja": "国庫が持ち越しに失敗した場合、財政的な負担…全州フード＆ツーリズムクリエイティブタウン「見直し」",
+          "title_zh": "当国库不能结转，财政负担……全州美食旅游创意小镇“回顾”"
+        },
+        {
           "title": "HF 푸드 그룹, 캐나다 씨레이푸드 3,500만 달러 인수 완료",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RU2FLVzFMM25TLTQxc3RQVE1Cc1UtQVd0cDlXakdHMlVYcXU0UUt4eVlKaGhnMVEzSm9CVkoxeTZhVUVzWFZMcWVIWFZFMDREZkE?oc=5",
           "desc": "",
           "title_en": "HF Food Group Completes Acquisition of Canada Sea Ray Foods for $35 Million",
           "title_ja": "HF Food Group、Canada Sea Ray Foodsの買収を3500万ドルで完了",
           "title_zh": "HF Food Group以3500万美元完成对Canada Sea Ray Foods的收购"
-        },
-        {
-          "title": "김제·코레일, 군위·롯데웰푸드 '맞손'…지지체-기업 상생 협약",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15WmltT1B6ekRubmJtM04yck1fVTBCcjhwVlB5MWhZNXAxUFBPLThxeFBkLXJtUlEzRjA2MXFNUVBNbGVBblNkOG5RUGo2ZVhhZkE?oc=5",
-          "desc": "",
-          "title_en": "Gimje · Korail, Armed Forces · Lotte Well Food 'Jamson' … Support-Corporate Win-Win Agreement",
-          "title_ja": "Gimje・Korail、Armed Forces・Lotte Well Food「Jamson」…サポート-企業Win - Win契約",
-          "title_zh": "Gimje · Korail、武装部队·乐天井食品「Jamson」……支持-企业双赢协议"
-        },
-        {
-          "title": "반도체 말고 ‘K뷰티·K푸드’…수출 성장주로 ‘주목’",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OaGRlbEhlT2NQY1N6bzh4WW8zQUM2NjRlWFR2SHJoM3VWa0ZkTnJsZzdmYnBMNVVvWDNtcXV1M1lTTG1CeHFfYUVESGdOMnc?oc=5",
-          "desc": "",
-          "title_en": "In addition to semiconductors, ‘K-beauty and K-food’ … ’attention‘ as an export growth leader",
-          "title_ja": "半導体に加えて、「KビューティーとKフード」…輸出成長リーダーとしての「注目」",
-          "title_zh": "除了半导体， “K-beauty和K-food” ……作为出口增长领导者的“关注”"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "이스터 베이, 뉴질랜드 대사관·NZTE와 미식 행사 마쳐",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VUklJNE9WMjVDQ2hLVkdtc3Z4M2hiTFBTQkU4UENkVjY3cF9MZHFReGg3azNlUEJWdkZJSTZRY1lZMDJZWmMwYm5pSGlnbWRXU2V2MktiRQ?oc=5",
+          "desc": "",
+          "title_en": "Easter Bay, New Zealand Embassy · After food events with NZTE",
+          "title_ja": "ニュージーランド大使館イースターベイ・NZTEとのアフターフードイベント",
+          "title_zh": "新西兰大使馆复活节湾· NZTE餐后活动"
+        },
         {
           "title": "스타벅스 ‘추석 선물’, 28일부터 사전예약",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53MEpKeEdfNDlqNm9ocDNiZWowSDJuSWI4Q19CSjZ3RldoU0s0Zy03Y3EtNXBTSlFuNHVwbWQxaUk4U0dnZGdOQzZIb1RfRFJGNkstbE1FRQ?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "“Watch 'The Drama‘ at Paul Bassett” … Open the movie premiere",
           "title_ja": "「ポール・バセットで『ドラマ』を見る」…映画のプレミアを開く",
           "title_zh": "“观看保罗·巴塞特的《戏剧》” ……开启电影首映式"
-        },
-        {
-          "title": "정식품, 추석 맞이 ‘그린비아 기프트세트 2종’ 선봬",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VaWNqUjllZ2NRXzlQaUI0cTdDODB0eU9nMl93ODBGc2VZX09kMGZodTR1QmlPbFNlWG9yQ1NZckZQTEMzS0stZ0R2Y3J4cHZOa2hvMmhBcw?oc=5",
-          "desc": "",
-          "title_en": "Special, ‘Green Via Gift Set 2 Types’ for Chuseok",
-          "title_ja": "Chuseokのスペシャル「Green Viaギフトセット2種類」",
-          "title_zh": "Chuseok的“绿色Via礼品套装2种类型”特别版"
         }
       ]
     }
