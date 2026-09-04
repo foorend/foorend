@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T15:52:19Z",
+  "lastUpdated": "2026-09-04T20:21:49Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Steal My Food Itinerary: A Long Weekend in Upstate New York",
+          "link": "https://www.eater.com/dining-out/984656/steal-my-food-itinerary-upstate-new-york",
+          "desc": "I love New York City in the summer, especially this past one, but I grew up in the shadow of the Rocky Mountains. I’m in my late 20s, I rock climb, an",
+          "title_ko": "내 음식 훔치기 여행 일정: 북부 뉴욕의 긴 주말",
+          "title_ja": "スティール・マイ・フードの旅程：ニューヨーク州北部での長い週末",
+          "title_zh": "偷走我的美食行程：在纽约州北部度过漫长的周末"
+        },
+        {
           "title": "It’s Time to Take Ranch Dressing Seriously",
           "link": "https://www.eater.com/dining-out/984279/ranch-dressing-history-world-cup-fine-dining",
           "desc": "You can tell a lot about someone by the way they talk about ranch dressing. Do they express Midwestern passion for the condiment, or coastal-elite dis",
@@ -110,14 +118,6 @@
           "title_ko": "‘스틸 또는 스파클링’ 을 중지해야 함",
           "title_ja": "「スティルまたはスパークリング」を止める必要があります",
           "title_zh": "必须停止“静止或闪闪发光”"
-        },
-        {
-          "title": "Actually, Dining Side-by-Side in Restaurants Is Good",
-          "link": "https://www.eater.com/dining-out/981844/is-it-ok-to-dine-side-by-side-in-a-restaurant",
-          "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
-          "title_ko": "사실, 레스토랑에서 나란히 식사하는 것은 좋은 일입니다.",
-          "title_ja": "実際、レストランで並んで食事をするのは良いことです",
-          "title_zh": "实际上，在餐厅并排用餐是件好事"
         }
       ]
     }
@@ -234,12 +234,12 @@
           "title_zh": "星巴克“Chuseok礼物” ，从28日开始提前预订"
         },
         {
-          "title": "“폴 바셋에서 ‘더드라마’ 보세요”…영화 시사회 열어",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01T280UlF4M0J0M2xXb3AxeVMwRWFKVmZKWmFTYzJxMGZfX0hfT2Qzck1kWWFlMkktSHBnX3NKSnNWOW9ad2hyUXRxY3NQd2p4b1dyYXZlRQ?oc=5",
+          "title": "브리타 코리아, ‘일하기 좋은 기업’ 인증 획득",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9URWpfLXQyNVdWaEhwOHYzWS1TMERlSTFKZmVOTURSOThmT1ZKaUJFaHhJZVZXSDhpQzhiUmgyR3lxQ3c5U0stbWdVVTN3b3VMWVBNem1rNA?oc=5",
           "desc": "",
-          "title_en": "“Watch 'The Drama‘ at Paul Bassett” … Open the movie premiere",
-          "title_ja": "「ポール・バセットで『ドラマ』を見る」…映画のプレミアを開く",
-          "title_zh": "“观看保罗·巴塞特的《戏剧》” ……开启电影首映式"
+          "title_en": "Brita Korea Accredited as a ‘Best Place to Work’",
+          "title_ja": "BRITA KOREAが「最高の職場」に認定",
+          "title_zh": "BRITA Korea被评为“最佳工作场所”"
         }
       ]
     }
