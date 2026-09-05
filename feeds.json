@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T17:10:37Z",
+  "lastUpdated": "2026-09-05T20:00:13Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -226,20 +226,20 @@
           "title_zh": "新西兰大使馆复活节湾· NZTE餐后活动"
         },
         {
-          "title": "브리타 코리아, ‘일하기 좋은 기업’ 인증 획득",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9URWpfLXQyNVdWaEhwOHYzWS1TMERlSTFKZmVOTURSOThmT1ZKaUJFaHhJZVZXSDhpQzhiUmgyR3lxQ3c5U0stbWdVVTN3b3VMWVBNem1rNA?oc=5",
-          "desc": "",
-          "title_en": "Brita Korea Accredited as a ‘Best Place to Work’",
-          "title_ja": "BRITA KOREAが「最高の職場」に認定",
-          "title_zh": "BRITA Korea被评为“最佳工作场所”"
-        },
-        {
           "title": "정식품, 추석 맞이 ‘그린비아 기프트세트 2종’ 선봬",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VaWNqUjllZ2NRXzlQaUI0cTdDODB0eU9nMl93ODBGc2VZX09kMGZodTR1QmlPbFNlWG9yQ1NZckZQTEMzS0stZ0R2Y3J4cHZOa2hvMmhBcw?oc=5",
           "desc": "",
           "title_en": "Special, ‘Green Via Gift Set 2 Types’ for Chuseok",
           "title_ja": "Chuseokのスペシャル「Green Viaギフトセット2種類」",
           "title_zh": "Chuseok的“绿色Via礼品套装2种类型”特别版"
+        },
+        {
+          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
+          "desc": "",
+          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
+          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
+          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
         }
       ]
     }
