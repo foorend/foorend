@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T03:18:40Z",
+  "lastUpdated": "2026-09-05T10:03:24Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "甜酸味……日本葫芦伊米美食「杯腌」"
         },
         {
-          "title": "K-푸드 수출 160억 달러 목표로…정부 총력전 돌입",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CRFJvMFB1bU9QR1FsTkdmREJSekhNS2J4Y3ROVVBZQWFFUjVOdWx1TmJPMmpSTGhXZTV4aVVSYnhrUDhNRG9JVHA5TGVIaG1zX2ZaejV4bE92dw?oc=5",
-          "desc": "",
-          "title_en": "K-Food exports aim for $16 billion… The government is in full swing",
-          "title_ja": "K - Foodの輸出は160億ドルを目指しています…政府は本格的に動いています",
-          "title_zh": "K-Food出口的目标是160亿美元……政府正在全力以赴"
-        },
-        {
           "title": "요즘 '이 사과' 많이 보인다 했더니…\"왜 여기서 나와?\" 깜짝",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSHlXX0Y3ZnM0dWo1T2ZIX3REb3hOOGNDUVF2RjFGVE1scjVSUkFScS1jNVhoLU9XNzItZEFOdll3cjdObHJrVWR2U3JWSURkaThxTDk2Nld5QQ?oc=5",
           "desc": "",
           "title_en": "I heard I see a lot of 'this apple' these days... \"Why are you coming out of here?\"",
           "title_ja": "最近、「このりんご」をたくさん見かけたそうですが……「なんでここから出てくるんですか？」",
           "title_zh": "我听说最近看到很多'这个苹果' …… “你为什么要出来？”"
+        },
+        {
+          "title": "K-푸드 수출 160억 달러 목표로…정부 총력전 돌입",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CRFJvMFB1bU9QR1FsTkdmREJSekhNS2J4Y3ROVVBZQWFFUjVOdWx1TmJPMmpSTGhXZTV4aVVSYnhrUDhNRG9JVHA5TGVIaG1zX2ZaejV4bE92dw?oc=5",
+          "desc": "",
+          "title_en": "K-Food exports aim for $16 billion… The government is in full swing",
+          "title_ja": "K - Foodの輸出は160億ドルを目指しています…政府は本格的に動いています",
+          "title_zh": "K-Food出口的目标是160亿美元……政府正在全力以赴"
         }
       ]
     },
@@ -157,14 +157,6 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
-        {
-          "title": "[2027학년도 대학 수시모집] 대구한의대, 식품산업학과 신설…K-푸드 급성장에 대응",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjSkdqQVNYMkJ6M0FQZHE0YmpWSk4zek1JX0MxTXRNOFBJVWFpWjBsRHBlSFlKeElKc3lqM1dGcTU5eFJIelY1dTBsZVRKQ25sU3fSAVNBVV95cUxONnBuOXlEcXBDaHI2SHBFbkF3MkFXa2JrTXdKRlFoTHJsMDZpMkg0eGVpSzRDX3lKbVgxWUFMMkpBZlBvVXBjMW5JOW93dVBjOUpBMA?oc=5",
-          "desc": "",
-          "title_en": "[Occasional recruitment of universities for the 2027 academic year] Daegu Han Medical University, New Department of Food Industry... Responding to the rapid growth of K-Food",
-          "title_ja": "【2027年度大学の臨時募集】大邱漢医科大学新食品工業学科… K - Foodの急成長に対応",
-          "title_zh": "【2027学年偶尔招生】大邱汉医科大学食品工业新系……应对K-Food快速增长"
-        },
         {
           "title": "“살 빼려고 먹었는데 탄수화물 폭탄이었다”…다이어트의 적이라는 음식들, 뭐길래 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fVm5WM1BGdUJsRFJhbXM4MTVsOGhNdUFZd1ZkclBTSnhJVWNNZVF3Nk9MV0pjS1haUUU1TmhGajgzNnRPcUxkZGRQWnUzNkZIT3fSAVNBVV95cUxNWEVrbGZLVGoxQ0NoQXJFVE9Mb3RvaXB3SnRtQ2YwVVZ2THl1XzB2WmZaZHNZWkYtZzJOSjhlaVBtUVEtYktNdmp0Q0FlRTlsaHRacw?oc=5",
@@ -180,6 +172,14 @@
           "title_en": "Innohas, Chiaf Seoul 2026 VIP Lounge Vegetable K-Food Restaurant",
           "title_ja": "Innohas, Chiafソウル2026 VIPラウンジ野菜K - Foodレストラン",
           "title_zh": "Innohas, Chiaf首尔2026贵宾休息室蔬菜K-Food餐厅"
+        },
+        {
+          "title": "추석 음식과 어울리는 9월 대표 전통주는…‘섬진강바람 오크40’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zajlXbE8yMV92M0FvOVpibGxxUHRjMjYwM1NIRDdMaHVkWlRoNjAtcnpKMXV4Z2JBT0dmajlvbTUyYVdWOVBZbmdVUFBLSC1DZWfSAVNBVV95cUxNQk9DZ3BRbG9zS1ZzTHdCTVAtZDcyejVWc0wydnRTSmtpVGY2V2ZpeWE1OGlsTWp0aHBuTVdvVHlpNDRoNkYwNV83c0xNcnlaTGVKaw?oc=5",
+          "desc": "",
+          "title_en": "The representative traditional wine of September paired with Chuseok food… ‘Seomjin River Breeze Oak 40’",
+          "title_ja": "9月の代表的な伝統的なワインとチュソク料理…「ソムジンリバーブリーズオーク40」",
+          "title_zh": "九月的代表性传统葡萄酒搭配Chuseok美食...... “Seomjin River Breeze Oak 40”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "新西兰大使馆复活节湾· NZTE餐后活动"
         },
         {
-          "title": "스타벅스 ‘추석 선물’, 28일부터 사전예약",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53MEpKeEdfNDlqNm9ocDNiZWowSDJuSWI4Q19CSjZ3RldoU0s0Zy03Y3EtNXBTSlFuNHVwbWQxaUk4U0dnZGdOQzZIb1RfRFJGNkstbE1FRQ?oc=5",
-          "desc": "",
-          "title_en": "Starbucks‘ Chuseok Gift ’, pre-booking from the 28th",
-          "title_ja": "スターバックス「Chuseokギフト」、28日からの事前予約",
-          "title_zh": "星巴克“Chuseok礼物” ，从28日开始提前预订"
-        },
-        {
           "title": "브리타 코리아, ‘일하기 좋은 기업’ 인증 획득",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9URWpfLXQyNVdWaEhwOHYzWS1TMERlSTFKZmVOTURSOThmT1ZKaUJFaHhJZVZXSDhpQzhiUmgyR3lxQ3c5U0stbWdVVTN3b3VMWVBNem1rNA?oc=5",
           "desc": "",
           "title_en": "Brita Korea Accredited as a ‘Best Place to Work’",
           "title_ja": "BRITA KOREAが「最高の職場」に認定",
           "title_zh": "BRITA Korea被评为“最佳工作场所”"
+        },
+        {
+          "title": "정식품, 추석 맞이 ‘그린비아 기프트세트 2종’ 선봬",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VaWNqUjllZ2NRXzlQaUI0cTdDODB0eU9nMl93ODBGc2VZX09kMGZodTR1QmlPbFNlWG9yQ1NZckZQTEMzS0stZ0R2Y3J4cHZOa2hvMmhBcw?oc=5",
+          "desc": "",
+          "title_en": "Special, ‘Green Via Gift Set 2 Types’ for Chuseok",
+          "title_ja": "Chuseokのスペシャル「Green Viaギフトセット2種類」",
+          "title_zh": "Chuseok的“绿色Via礼品套装2种类型”特别版"
         }
       ]
     }
