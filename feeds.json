@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T14:42:53Z",
+  "lastUpdated": "2026-09-05T17:10:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
         },
         {
-          "title": "A Dubai-born tiramisu-focused dessert concept makes its U.S. debut",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTEyN040NVpENWNiQlpCdlRfWE5ldEZvb2xiQUZHdWVMZnVQU0xqT1hDZDR6dnVkQWxSLXZvZGl4U3dLMHFTN01seTdFTUV6N2ZJOXU0cl9NcUZyRDlqeUVhcmhyWDQ1WDZIV0xhUFBFODVtQjVBSkNJNERMeThPMW4xbWFwXzhUaEsxbTJYSi1lZ2pWWG5xZVRQWFd4ZXpxdEttZFhJQ0tiVV8wMTRLYzJHbnc1dw?oc=5",
+          "title": "Texas Roadhouse says post alleging racist practices was a hoax",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWpwdHJDUlpGMS1xZjNrUldhWU1ac0FwckJDT3p5ZVpCbl95elFMajB2STRiRHFwNDlNYk5IRWxuSUg1cFdSdzlQR2NhNlplZ2hGVXBuRTdXdlh0YUtCRzdfc2JTR2syS1lKVUhsbHdwQlRGRDI1bXpHT0ppWXNKUk81bjFQaExpS3FGdHl5Tm5LTWRrTzlrUWUxNVdlQV9BMWgySjExNS1OSS1E?oc=5",
           "desc": "",
-          "title_ko": "두바이 태생의 티라미수 중심의 디저트 컨셉으로 미국 데뷔",
-          "title_ja": "ドバイ生まれのティラミスを中心としたデザートコンセプトが米国でデビュー",
-          "title_zh": "迪拜诞生的提拉米苏甜点概念在美国首次亮相"
+          "title_ko": "텍사스 로드하우스는 인종차별적 관행을 주장하는 게시물이 사기라고 말했습니다.",
+          "title_ja": "テキサス州ロードハウスは、人種差別的な慣行を主張する投稿はでっち上げだったと言います",
+          "title_zh": "德克萨斯州Roadhouse说，指控种族主义行为的帖子是一个骗局"
         }
       ]
     },
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "[2027학년도 대학 수시모집] 대구한의대, 식품산업학과 신설…K-푸드 급성장에 대응",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42cG45eURxcENocjZIcEVuQXcyQVdrYmtNd0pGUWhMcmwwNmkySDR4ZWlLNENfeUptWDFZQUwySkFmUG9VcGMxbkk5b3d1UGM5SkEw0gFTQVVfeXFMTjZwbjl5RHFwQ2hyNkhwRW5BdzJBV2tia013SkZRaExybDA2aTJINHhlaUs0Q195Sm1YMVlBTDJKQWZQb1VwYzFuSTlvd3VQYzlKQTA?oc=5",
-          "desc": "",
-          "title_en": "[Occasional recruitment of universities for the 2027 academic year] Daegu Han Medical University, New Department of Food Industry... Responding to the rapid growth of K-Food",
-          "title_ja": "【2027年度大学の臨時募集】大邱漢医科大学新食品工業学科… K - Foodの急成長に対応",
-          "title_zh": "【2027学年偶尔招生】大邱汉医科大学食品工业新系……应对K-Food快速增长"
-        },
-        {
           "title": "“살 빼려고 먹었는데 탄수화물 폭탄이었다”…다이어트의 적이라는 음식들, 뭐길래 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fVm5WM1BGdUJsRFJhbXM4MTVsOGhNdUFZd1ZkclBTSnhJVWNNZVF3Nk9MV0pjS1haUUU1TmhGajgzNnRPcUxkZGRQWnUzNkZIT3fSAVNBVV95cUxNWEVrbGZLVGoxQ0NoQXJFVE9Mb3RvaXB3SnRtQ2YwVVZ2THl1XzB2WmZaZHNZWkYtZzJOSjhlaVBtUVEtYktNdmp0Q0FlRTlsaHRacw?oc=5",
           "desc": "",
@@ -180,6 +172,14 @@
           "title_en": "Innohas, Chiaf Seoul 2026 VIP Lounge Vegetable K-Food Restaurant",
           "title_ja": "Innohas, Chiafソウル2026 VIPラウンジ野菜K - Foodレストラン",
           "title_zh": "Innohas, Chiaf首尔2026贵宾休息室蔬菜K-Food餐厅"
+        },
+        {
+          "title": "추석 음식과 어울리는 9월 대표 전통주는…‘섬진강바람 오크40’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zajlXbE8yMV92M0FvOVpibGxxUHRjMjYwM1NIRDdMaHVkWlRoNjAtcnpKMXV4Z2JBT0dmajlvbTUyYVdWOVBZbmdVUFBLSC1DZWfSAVNBVV95cUxNQk9DZ3BRbG9zS1ZzTHdCTVAtZDcyejVWc0wydnRTSmtpVGY2V2ZpeWE1OGlsTWp0aHBuTVdvVHlpNDRoNkYwNV83c0xNcnlaTGVKaw?oc=5",
+          "desc": "",
+          "title_en": "The representative traditional wine of September paired with Chuseok food… ‘Seomjin River Breeze Oak 40’",
+          "title_ja": "9月の代表的な伝統的なワインとチュソク料理…「ソムジンリバーブリーズオーク40」",
+          "title_zh": "九月的代表性传统葡萄酒搭配Chuseok美食...... “Seomjin River Breeze Oak 40”"
         }
       ]
     },
