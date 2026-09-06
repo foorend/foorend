@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T22:40:27Z",
+  "lastUpdated": "2026-09-06T03:18:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "甜酸味……日本葫芦伊米美食「杯腌」"
         },
         {
+          "title": "야구장 '치맥 시대' 끝났다…1위 메뉴 알고 보니 '반전'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sdzBOdHpBejh2VWx0bjV4VHFxVEFweUQzZUhJQkNEMThJZnR0WlBPS2x4d3o5cHB0THY0bGpIUWJrTXI1V0lXcW5kU3plTHc5UGRmT2xzc3JsQQ?oc=5",
+          "desc": "",
+          "title_en": "Baseball stadium 'Chimak era' is over... As it turns out, the # 1 menu is' inverted '",
+          "title_ja": "野球場「チマク時代」が終わった・・・結局、ナンバーワンのメニューは「反転」",
+          "title_zh": "“奇马克时代”棒球场已经结束……事实证明，排名第一的菜单是“倒置的”"
+        },
+        {
           "title": "요즘 '이 사과' 많이 보인다 했더니…\"왜 여기서 나와?\" 깜짝",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSHlXX0Y3ZnM0dWo1T2ZIX3REb3hOOGNDUVF2RjFGVE1scjVSUkFScS1jNVhoLU9XNzItZEFOdll3cjdObHJrVWR2U3JWSURkaThxTDk2Nld5QQ?oc=5",
           "desc": "",
           "title_en": "I heard I see a lot of 'this apple' these days... \"Why are you coming out of here?\"",
           "title_ja": "最近、「このりんご」をたくさん見かけたそうですが……「なんでここから出てくるんですか？」",
           "title_zh": "我听说最近看到很多'这个苹果' …… “你为什么要出来？”"
-        },
-        {
-          "title": "\"쌈장 찍어 먹었더니 대박\"…'삼겹살 과자' 품절 대란 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43OVV0WlA5d1JoUVRRbnF5TVUwZk1xRC1GRm85MS1JM2gzME5DaUhFOUdEUTdqTlkwRjlfMkdOQldKb3F4VEFxRmQwS0FsOFl3ZlFXalBPY01Udw?oc=5",
-          "desc": "",
-          "title_en": "\"I took a ssamjang and it was awesome\"... 'Pork Belly Sweets' Out of Stock [Trend +]",
-          "title_ja": "「サムジャンを食べましたが、最高でした」…「ポークベリースイーツ」品切れ[トレンド+]",
-          "title_zh": "“我吃了三明治，太棒了” …… '猪肚糖果'缺货[趋势+]"
         }
       ]
     },
@@ -175,7 +175,7 @@
         },
         {
           "title": "이노하스, 키아프 서울 2026 VIP 라운지서 식물성 K-푸드 선봬",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NcXl6TE9yS2d5LS1HTmliLWVTZ2haR1RkNm1lcVNRMnIwbXU0eXJpT2FmQU1jMjR1THR1WE1VWGhnWlVHN3pEQTZuV3d2eGlUVWlV0gFTQVVfeXFMTU1xeXpMT3JLZ3ktLUdOaWItZVNnaFpHVGQ2bWVxU1EycjBtdTR5cmlPYWZBTWMyNHVMdHVYTVVYaGdaVUc3ekRBNm5Xd3Z4aVRVaVU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94Q1h4NUhwOUpLeWtnQlZJOVk3a0h6bWJ0UlFtR3Y0QkIyRkJmTlRpSzY4S0J5b2M5cTdia3Btei1vN0RIZXgxMm43bEJ1ZWtyQ3fSAVNBVV95cUxNTXF5ekxPcktneS0tR05pYi1lU2doWkdUZDZtZXFTUTJyMG11NHlyaU9hZkFNYzI0dUx0dVhNVVhoZ1pVRzd6REE2bld3dnhpVFVpVQ?oc=5",
           "desc": "",
           "title_en": "Innohas, Chiaf Seoul 2026 VIP Lounge Vegetable K-Food Restaurant",
           "title_ja": "Innohas, Chiafソウル2026 VIPラウンジ野菜K - Foodレストラン",
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "\"기차역 음식값 5년 새 24%↑…김밥 4천78원·돈가스 1만26원\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUdmU5NHB5T1Q2X0VYRVZ1amxzSzlJMVRVQjhFeVNTQmNYbjRYU2dKcWJCazdIUHNIN19fYVJpZGlLTzYza3JsSDZGdXJBOHZCS3c?oc=5",
+          "desc": "",
+          "title_en": "\"The price of food at the train station is 24% for 5 years↑... Gimbap 478 won · Don gas 1226 won\"",
+          "title_ja": "「駅での食べ物の値段は５年間で２ ４ ％↑ …ジンバプ４ ７ ８ウォン・ドンガソリン１ ２ ２ ６ウォン」",
+          "title_zh": "\"火车站的食物价格为24% ，为期5年↑... Gimbap 478韩元· Don gas 1226韩元\""
+        },
         {
           "title": "식품진흥원, 푸드폴리스마켓 추석 선물 기획전…최대 50% 할인",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13UGpJaDNDVC00WGtDckxBVFl5NWdSTkFZcW1KQzUtOGRzZG5pREJNQWZzZTh3OXpOTl9weW1VcFRRWnVYZzhjdTR6LVlJelhiNGc?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "When the national treasury fails to carry over, the financial burden... Jeonju Food and Tourism Creative Town 'Review'",
           "title_ja": "国庫が持ち越しに失敗した場合、財政的な負担…全州フード＆ツーリズムクリエイティブタウン「見直し」",
           "title_zh": "当国库不能结转，财政负担……全州美食旅游创意小镇“回顾”"
-        },
-        {
-          "title": "콰삭·쫀득·꾸덕…요즘 잘 팔리는 음식의 비밀 [노승욱의 리테일 인사이트]",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JX2t2cTlqOFRXdng4QXVBeVZTa1U2dmlGNVFYV1hldDYwZmJjbWhiNjZTa04zbXNuUEFmTDFhUEVISEZlaEE?oc=5",
-          "desc": "",
-          "title_en": "Kwasak, Chewk, Kudok… Secrets of Food That Sells Well These Days [Noh Seung-wook's Retail Insights]",
-          "title_ja": "Kwasak、Chewk、Kudok…最近よく売れている食べ物の秘密[ノー・スンウクのリテールインサイト]",
-          "title_zh": "Kwasak、Chewk、Kudok……如今畅销食品的秘密[Noh Seung-wook的零售见解]"
         }
       ]
     },
@@ -218,20 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "이스터 베이, 뉴질랜드 대사관·NZTE와 미식 행사 마쳐",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VUklJNE9WMjVDQ2hLVkdtc3Z4M2hiTFBTQkU4UENkVjY3cF9MZHFReGg3azNlUEJWdkZJSTZRY1lZMDJZWmMwYm5pSGlnbWRXU2V2MktiRQ?oc=5",
+          "title": "“알렉산드리아 1호점 시작”…투썸플레이스 美 진출",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DcEttVFhKR0ltS2xRUzFHT21yOUo0Y0ZiZ1d6MUJLY3BONXJDS3pkenhoRjlBVEI4VG1YQjJKMUdCYTBNQW1Ib2czWDc3XzV0ejhGUmlDNA?oc=5",
           "desc": "",
-          "title_en": "Easter Bay, New Zealand Embassy · After food events with NZTE",
-          "title_ja": "ニュージーランド大使館イースターベイ・NZTEとのアフターフードイベント",
-          "title_zh": "新西兰大使馆复活节湾· NZTE餐后活动"
-        },
-        {
-          "title": "정식품, 추석 맞이 ‘그린비아 기프트세트 2종’ 선봬",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VaWNqUjllZ2NRXzlQaUI0cTdDODB0eU9nMl93ODBGc2VZX09kMGZodTR1QmlPbFNlWG9yQ1NZckZQTEMzS0stZ0R2Y3J4cHZOa2hvMmhBcw?oc=5",
-          "desc": "",
-          "title_en": "Special, ‘Green Via Gift Set 2 Types’ for Chuseok",
-          "title_ja": "Chuseokのスペシャル「Green Viaギフトセット2種類」",
-          "title_zh": "Chuseok的“绿色Via礼品套装2种类型”特别版"
+          "title_en": "“Start of Alexandria 1st store” … Entering Twosome Place USA",
+          "title_ja": "「アレクサンドリア1号店開店」… Twosome Place USA入店",
+          "title_zh": "“亚历山大港第一家商店开业” ……进入美国Twosome Place"
         },
         {
           "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
@@ -240,6 +232,14 @@
           "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
           "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
           "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
+        },
+        {
+          "title": "한국 코카-콜라, 2026 에피 어워드 코리아 ‘그랜드 에피’ 수상",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xajlhX1Z5MlNDRVlmbzRMa2l6cEQwN2lFTzNaWkVGTDhtZ1duZGk0cm92NFZQdFBpTEZNRlJkLVM0UVVIZWxOMUdYRUtZc2tTNElTRTBQZw?oc=5",
+          "desc": "",
+          "title_en": "Coca-Cola Korea Wins 2026 Epi Award Korea ‘Grand Epi’",
+          "title_ja": "コカ・コーラ韓国が2026年エピ賞韓国「グランドエピ」を受賞",
+          "title_zh": "可口可乐韩国分公司荣获2026年韩国Epi大奖“Grand Epi”"
         }
       ]
     }
