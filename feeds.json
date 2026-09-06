@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T03:18:26Z",
+  "lastUpdated": "2026-09-06T10:24:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "새콤달콤 알싸한 맛…日 홀린 일미푸드 '컵피클'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wRG5aTThzV0VTTTBCcGp3bmN1MExLX1lJbmNyZlNaUUdZQUtkU3g4U3FSYm9jQ3lTRUJIT1Iyd0tRblVZNnNjTTI5Wk4tTWs3TlhybFQ2akFHdw?oc=5",
+          "title": "\"K푸드 수출, 법률도 따라가야\"",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qUF9OOGtNbDF4bmp5blRfLTBnQVdBaDJQNnRtcUJXamNFdWdKcjhfclREbTl0TDVEM3gtanRqdFpDTFpBZlhDQjJKMFJ3em9QZHBYV0RTS29mdw?oc=5",
           "desc": "",
-          "title_en": "Sweet and sour flavor... Japanese holin yilmi food 'cup pickle'",
-          "title_ja": "甘酸っぱい味わい・・・日本のホリンイルミ料理「カップピクルス」",
-          "title_zh": "甜酸味……日本葫芦伊米美食「杯腌」"
+          "title_en": "\"Export K food, follow the law\"",
+          "title_ja": "「K食を輸出し、法を守る」",
+          "title_zh": "“出口K食品，遵纪守法”"
         },
         {
-          "title": "야구장 '치맥 시대' 끝났다…1위 메뉴 알고 보니 '반전'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sdzBOdHpBejh2VWx0bjV4VHFxVEFweUQzZUhJQkNEMThJZnR0WlBPS2x4d3o5cHB0THY0bGpIUWJrTXI1V0lXcW5kU3plTHc5UGRmT2xzc3JsQQ?oc=5",
+          "title": "풍림푸드, 30년 계란 가공 노하우로 디저트까지 공략",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6aDFsMU1iakRYOU5qcmVUdmUyWWFwcXNfdkx2UUU5R0V3UHlvWWJjcklSOHlVQldPN1poN0IydUNWMWtsaUxYVlhMVlI2bFVXQlNQaFlpSDdRQQ?oc=5",
           "desc": "",
-          "title_en": "Baseball stadium 'Chimak era' is over... As it turns out, the # 1 menu is' inverted '",
-          "title_ja": "野球場「チマク時代」が終わった・・・結局、ナンバーワンのメニューは「反転」",
-          "title_zh": "“奇马克时代”棒球场已经结束……事实证明，排名第一的菜单是“倒置的”"
+          "title_en": "Poonglim Food targets desserts with 30 years of egg processing know-how",
+          "title_ja": "Poonglim Foodは、30年にわたる卵加工のノウハウを備えたデザートをターゲットにしています",
+          "title_zh": "Poonglim Food针对具有30年鸡蛋加工专业知识的甜点"
         },
         {
-          "title": "요즘 '이 사과' 많이 보인다 했더니…\"왜 여기서 나와?\" 깜짝",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSHlXX0Y3ZnM0dWo1T2ZIX3REb3hOOGNDUVF2RjFGVE1scjVSUkFScS1jNVhoLU9XNzItZEFOdll3cjdObHJrVWR2U3JWSURkaThxTDk2Nld5QQ?oc=5",
+          "title": "삼육두유, 두유 명가…건강식품·케어푸드까지 확장",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjaEpxcGIwQVBnVWRyTVpaSGpTRy1OQzIwTERFaXpfXzM5NWtibi1peUNyeUloX29BYVFHbm5mX3VvRlVvcE9YdnRfS1dLM09fa0FMUmY3cTYzdw?oc=5",
           "desc": "",
-          "title_en": "I heard I see a lot of 'this apple' these days... \"Why are you coming out of here?\"",
-          "title_ja": "最近、「このりんご」をたくさん見かけたそうですが……「なんでここから出てくるんですか？」",
-          "title_zh": "我听说最近看到很多'这个苹果' …… “你为什么要出来？”"
+          "title_en": "Tripe Milk, Soybean Milk Famous… Expanding to Health Foods and Care Foods",
+          "title_ja": "トリッペミルク、豆乳有名…健康食品やケア食品に拡大",
+          "title_zh": "Tripe牛奶，以豆浆闻名……扩展到健康食品和护理食品"
         }
       ]
     },
@@ -157,14 +157,6 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
-        {
-          "title": "[2027학년도 대학 수시모집] 대구한의대, 식품산업학과 신설…K-푸드 급성장에 대응",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42cG45eURxcENocjZIcEVuQXcyQVdrYmtNd0pGUWhMcmwwNmkySDR4ZWlLNENfeUptWDFZQUwySkFmUG9VcGMxbkk5b3d1UGM5SkEw0gFTQVVfeXFMTjZwbjl5RHFwQ2hyNkhwRW5BdzJBV2tia013SkZRaExybDA2aTJINHhlaUs0Q195Sm1YMVlBTDJKQWZQb1VwYzFuSTlvd3VQYzlKQTA?oc=5",
-          "desc": "",
-          "title_en": "[Occasional recruitment of universities for the 2027 academic year] Daegu Han Medical University, New Department of Food Industry... Responding to the rapid growth of K-Food",
-          "title_ja": "【2027年度大学の臨時募集】大邱漢医科大学新食品工業学科… K - Foodの急成長に対応",
-          "title_zh": "【2027学年偶尔招生】大邱汉医科大学食品工业新系……应对K-Food快速增长"
-        },
         {
           "title": "“살 빼려고 먹었는데 탄수화물 폭탄이었다”…다이어트의 적이라는 음식들, 뭐길래 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fVm5WM1BGdUJsRFJhbXM4MTVsOGhNdUFZd1ZkclBTSnhJVWNNZVF3Nk9MV0pjS1haUUU1TmhGajgzNnRPcUxkZGRQWnUzNkZIT3fSAVNBVV95cUxNWEVrbGZLVGoxQ0NoQXJFVE9Mb3RvaXB3SnRtQ2YwVVZ2THl1XzB2WmZaZHNZWkYtZzJOSjhlaVBtUVEtYktNdmp0Q0FlRTlsaHRacw?oc=5",
@@ -180,6 +172,14 @@
           "title_en": "Innohas, Chiaf Seoul 2026 VIP Lounge Vegetable K-Food Restaurant",
           "title_ja": "Innohas, Chiafソウル2026 VIPラウンジ野菜K - Foodレストラン",
           "title_zh": "Innohas, Chiaf首尔2026贵宾休息室蔬菜K-Food餐厅"
+        },
+        {
+          "title": "추석 음식과 어울리는 9월 대표 전통주는…‘섬진강바람 오크40’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zajlXbE8yMV92M0FvOVpibGxxUHRjMjYwM1NIRDdMaHVkWlRoNjAtcnpKMXV4Z2JBT0dmajlvbTUyYVdWOVBZbmdVUFBLSC1DZWfSAVNBVV95cUxNQk9DZ3BRbG9zS1ZzTHdCTVAtZDcyejVWc0wydnRTSmtpVGY2V2ZpeWE1OGlsTWp0aHBuTVdvVHlpNDRoNkYwNV83c0xNcnlaTGVKaw?oc=5",
+          "desc": "",
+          "title_en": "The representative traditional wine of September paired with Chuseok food… ‘Seomjin River Breeze Oak 40’",
+          "title_ja": "9月の代表的な伝統的なワインとチュソク料理…「ソムジンリバーブリーズオーク40」",
+          "title_zh": "九月的代表性传统葡萄酒搭配Chuseok美食...... “Seomjin River Breeze Oak 40”"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“한국건데 한국선 안팔아요”…여행서 만난 K푸드, ‘귀국템’ 됐다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zZlFybzEzd2Y5NUlvSDhFS0xSbzdSMFg1U1JOdHJSU2VyVS1lQlV0YVNOaFYyOU1KaV90Nk9tTXVkUzVHWXc?oc=5",
+          "desc": "",
+          "title_en": "“I'm from Korea, but I don't sell Korean lines” … K Food, which I met on a trip, has become ‘Return Item’",
+          "title_ja": "「韓国出身ですが、韓国ラインは販売していません」…旅行中に出会ったK Foodが「返品商品」になりました",
+          "title_zh": "「我来自韩国，但我不销售韩国线路」……我在旅途中遇到的K Food已成为「退货商品」"
+        },
+        {
+          "title": "“기차 타기전 산 김밥 한 줄 가격이”…철도역 음식값 5년 새 24.4% 껑충",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05V2ZaZWdwYmpab0k4WHJUYTVJNklPaWJMc3FjNVhkaTNicGpURnpMVi1PbFdUYVFfNlRJR0ZfN2NYUEJCMmc?oc=5",
+          "desc": "",
+          "title_en": "“The price of a line of Mt. Gimbap before taking the train” … The price of food at the railway station is 24.4% for five years.",
+          "title_ja": "「電車に乗る前のギンバプ山の路線の価格」…鉄道駅での食事の価格は5年間で24.4 ％です。",
+          "title_zh": "「乘坐火车前的金巴山（ Mt. Gimbap ）路线的价格」……火车站的食物价格为24.4% ，为期五年。"
+        },
+        {
           "title": "\"기차역 음식값 5년 새 24%↑…김밥 4천78원·돈가스 1만26원\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUdmU5NHB5T1Q2X0VYRVZ1amxzSzlJMVRVQjhFeVNTQmNYbjRYU2dKcWJCazdIUHNIN19fYVJpZGlLTzYza3JsSDZGdXJBOHZCS3c?oc=5",
           "desc": "",
           "title_en": "\"The price of food at the train station is 24% for 5 years↑... Gimbap 478 won · Don gas 1226 won\"",
           "title_ja": "「駅での食べ物の値段は５年間で２ ４ ％↑ …ジンバプ４ ７ ８ウォン・ドンガソリン１ ２ ２ ６ウォン」",
           "title_zh": "\"火车站的食物价格为24% ，为期5年↑... Gimbap 478韩元· Don gas 1226韩元\""
-        },
-        {
-          "title": "식품진흥원, 푸드폴리스마켓 추석 선물 기획전…최대 50% 할인",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13UGpJaDNDVC00WGtDckxBVFl5NWdSTkFZcW1KQzUtOGRzZG5pREJNQWZzZTh3OXpOTl9weW1VcFRRWnVYZzhjdTR6LVlJelhiNGc?oc=5",
-          "desc": "",
-          "title_en": "Food Agency, Food Police Market Chuseok Gift Exhibition… Up to 50% off",
-          "title_ja": "Food Agency、Food Police Market Chuseokギフト展…最大50%オフ",
-          "title_zh": "食品机构、食品警察市场Chuseok礼品展……低至五折"
-        },
-        {
-          "title": "국비 이월 불발·시 재정 부담…전주 음식관광창조타운 '재검토'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Ung0cTctWHFfYjZudlVfMDUtX0RaenlQRUFtaGh5eU1VOXpFLU9fcXFOOExUUjRzdExOVEdpQzBRc0c5djhZalIwZFdUWk1mTVE?oc=5",
-          "desc": "",
-          "title_en": "When the national treasury fails to carry over, the financial burden... Jeonju Food and Tourism Creative Town 'Review'",
-          "title_ja": "国庫が持ち越しに失敗した場合、財政的な負担…全州フード＆ツーリズムクリエイティブタウン「見直し」",
-          "title_zh": "当国库不能结转，财政负担……全州美食旅游创意小镇“回顾”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "“亚历山大港第一家商店开业” ……进入美国Twosome Place"
         },
         {
-          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
+          "title": "지니스램프, 스위트 라이스 와인 ‘온더램프’ 일본 론칭",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84bk9Ta2t0aVNLQ3FTMjVhZncxOVhRZE91eldZNXcxdHVvSDVUUzNwWUlXc3dKdE1zbkNCOFh6Z1ZLaE1seGJQVnFQOWlldEdsNi1SOHBWaw?oc=5",
           "desc": "",
-          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
-          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
-          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
+          "title_en": "Zenith Ramp Launches Japan Sweet Rice Wine ‘On the Ramp'",
+          "title_ja": "Zenith Ramp、日本のスイートライスワイン「On the Ramp」を発売",
+          "title_zh": "Zenith Ramp推出日本甜米酒“On the Ramp”"
         },
         {
-          "title": "한국 코카-콜라, 2026 에피 어워드 코리아 ‘그랜드 에피’ 수상",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xajlhX1Z5MlNDRVlmbzRMa2l6cEQwN2lFTzNaWkVGTDhtZ1duZGk0cm92NFZQdFBpTEZNRlJkLVM0UVVIZWxOMUdYRUtZc2tTNElTRTBQZw?oc=5",
+          "title": "한류 강한 브라질, 음식으로 소비 확산",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mc2dhcC10UE9WbDlqNVZjWVFyTVVXM3h4MnRTbkJMMlk4U2hGWUExNHV3RlZoOGNGYXJmVEVoT1N1aDFzcnV2SVZUeGFrZTdsWnBwU2JlUQ?oc=5",
           "desc": "",
-          "title_en": "Coca-Cola Korea Wins 2026 Epi Award Korea ‘Grand Epi’",
-          "title_ja": "コカ・コーラ韓国が2026年エピ賞韓国「グランドエピ」を受賞",
-          "title_zh": "可口可乐韩国分公司荣获2026年韩国Epi大奖“Grand Epi”"
+          "title_en": "Brazil, strong in Hallyu, spreads consumption to food",
+          "title_ja": "ハリウで強いブラジル、消費を食品に広げる",
+          "title_zh": "在Hallyu强劲的巴西将消费扩展到食品"
         }
       ]
     }
