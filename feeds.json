@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T10:24:05Z",
+  "lastUpdated": "2026-09-06T15:01:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
         },
         {
-          "title": "Texas Roadhouse says post alleging racist practices was a hoax",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWpwdHJDUlpGMS1xZjNrUldhWU1ac0FwckJDT3p5ZVpCbl95elFMajB2STRiRHFwNDlNYk5IRWxuSUg1cFdSdzlQR2NhNlplZ2hGVXBuRTdXdlh0YUtCRzdfc2JTR2syS1lKVUhsbHdwQlRGRDI1bXpHT0ppWXNKUk81bjFQaExpS3FGdHl5Tm5LTWRrTzlrUWUxNVdlQV9BMWgySjExNS1OSS1E?oc=5",
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
-          "title_ko": "텍사스 로드하우스는 인종차별적 관행을 주장하는 게시물이 사기라고 말했습니다.",
-          "title_ja": "テキサス州ロードハウスは、人種差別的な慣行を主張する投稿はでっち上げだったと言います",
-          "title_zh": "德克萨斯州Roadhouse说，指控种族主义行为的帖子是一个骗局"
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "Poonglim Food针对具有30年鸡蛋加工专业知识的甜点"
         },
         {
-          "title": "삼육두유, 두유 명가…건강식품·케어푸드까지 확장",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjaEpxcGIwQVBnVWRyTVpaSGpTRy1OQzIwTERFaXpfXzM5NWtibi1peUNyeUloX29BYVFHbm5mX3VvRlVvcE9YdnRfS1dLM09fa0FMUmY3cTYzdw?oc=5",
+          "title": "씨엔티테크, 수산·스마트블루푸드 기업 '뉴헤리티지'에 투자",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neUp3aFFZcW1LMGpJVGJFZ1ZtbWkwVlRuMTFqaUFhRjRNYkN0OTRlYUxSYWYzQ0ZpVmVHNTRpSmJZQVJOcVlUZ1dhNjhmOXFDSVhPa0pROC02UUpwb0pVcmdsMWJzNzRsVFI0?oc=5",
           "desc": "",
-          "title_en": "Tripe Milk, Soybean Milk Famous… Expanding to Health Foods and Care Foods",
-          "title_ja": "トリッペミルク、豆乳有名…健康食品やケア食品に拡大",
-          "title_zh": "Tripe牛奶，以豆浆闻名……扩展到健康食品和护理食品"
+          "title_en": "CNTech invests in 'New Heritage', a fisheries and smart blue food company",
+          "title_ja": "CNTechは、漁業とスマートブルーフード会社である「New Heritage」に投資しています",
+          "title_zh": "CNTech投资“新遗产” ，一家渔业和智能蓝色食品公司"
         }
       ]
     },
@@ -189,7 +189,7 @@
       "items": [
         {
           "title": "“한국건데 한국선 안팔아요”…여행서 만난 K푸드, ‘귀국템’ 됐다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zZlFybzEzd2Y5NUlvSDhFS0xSbzdSMFg1U1JOdHJSU2VyVS1lQlV0YVNOaFYyOU1KaV90Nk9tTXVkUzVHWXc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMGNnbjNYY3VDdnJScVlqbTBIWUxhMFhSUWtsd2s4VDZaOU43MjBNZnRuLUFBOWdoZ1J2OENEMW9LM0tDa015SmlRWUdqenJycnFaQw?oc=5",
           "desc": "",
           "title_en": "“I'm from Korea, but I don't sell Korean lines” … K Food, which I met on a trip, has become ‘Return Item’",
           "title_ja": "「韓国出身ですが、韓国ラインは販売していません」…旅行中に出会ったK Foodが「返品商品」になりました",
@@ -226,20 +226,20 @@
           "title_zh": "“亚历山大港第一家商店开业” ……进入美国Twosome Place"
         },
         {
+          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
+          "desc": "",
+          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
+          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
+          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
+        },
+        {
           "title": "지니스램프, 스위트 라이스 와인 ‘온더램프’ 일본 론칭",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84bk9Ta2t0aVNLQ3FTMjVhZncxOVhRZE91eldZNXcxdHVvSDVUUzNwWUlXc3dKdE1zbkNCOFh6Z1ZLaE1seGJQVnFQOWlldEdsNi1SOHBWaw?oc=5",
           "desc": "",
           "title_en": "Zenith Ramp Launches Japan Sweet Rice Wine ‘On the Ramp'",
           "title_ja": "Zenith Ramp、日本のスイートライスワイン「On the Ramp」を発売",
           "title_zh": "Zenith Ramp推出日本甜米酒“On the Ramp”"
-        },
-        {
-          "title": "한류 강한 브라질, 음식으로 소비 확산",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mc2dhcC10UE9WbDlqNVZjWVFyTVVXM3h4MnRTbkJMMlk4U2hGWUExNHV3RlZoOGNGYXJmVEVoT1N1aDFzcnV2SVZUeGFrZTdsWnBwU2JlUQ?oc=5",
-          "desc": "",
-          "title_en": "Brazil, strong in Hallyu, spreads consumption to food",
-          "title_ja": "ハリウで強いブラジル、消費を食品に広げる",
-          "title_zh": "在Hallyu强劲的巴西将消费扩展到食品"
         }
       ]
     }
