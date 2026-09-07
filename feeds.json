@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-09-07T03:16:53Z",
+  "lastUpdated": "2026-09-07T11:45:19Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Food delivery is booming at the movie theater",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjZrR2FvTFN6bHByOHlHb0NNZXZIanJQd2dxdE02aDV1T0cxMG0wVi1pOWt5X2l6WDBtVVdSMFJpUEpjMUpFTkZQV1NPVXFRUk1XeWQwTGFoNUkzWmlRNHBZQ3hJZk03WjIybzhFMHpfcG1pemh0cUlCcHNabVBHYWRZTWtNOWFpZ2VTREpnczV2QQ?oc=5",
-          "desc": "",
-          "title_ko": "영화관에서 음식 배달이 붐비고 있습니다",
-          "title_ja": "映画館でのフードデリバリーが活況を呈しています",
-          "title_zh": "电影院的送餐服务正蓬勃发展"
-        },
         {
           "title": "Owner raises $240M for 'AI-native' restaurant tech",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmh5czlULWxodzVpUjBMY3pnSC1STXlOZkNlWjBXWnd5Qk0wZ2VyN21SaDItRVlud0R4ZTROQ1NRS0RXTUs2eDJnSVNuVDZnQ1dmWUtPTEp1ak04WWdKb2tzd3MwbVFVZUN6TEJBcHRraHRRNDJ3SHdYb0w2SHJsY0ozdTFSRTNYTUNKRGtnUVdjY0ZxV1E?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+        },
+        {
+          "title": "Order cancellations cost the typical restaurant up to 3% of digital sales, new data show",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa21GRUdKSG1LcjFDc29GU3UyVFVQbEM3TWJJZGRGc1ZHcnkySjhLdHJDNklIcEZoYURZRnUzUEp2VEhVb0tHT09DTm1qUXJFMG1kV3F1cjcteDNYTHpqNngtS1JWUWNENnphYVplZW43VVN3OUV0cjF1dzBGNVk1YzhEY0d3SDRqdkh6OEZOWDhqSnhtMmpvdVk5WWIxMUpjNERjaUhjVnJadEp4NFBMSjZkXzJ4NGs5WTVqcHJ3?oc=5",
+          "desc": "",
+          "title_ko": "주문 취소 비용 일반적인 레스토랑은 디지털 매출의 최대 3%, 새로운 데이터 쇼",
+          "title_ja": "新しいデータによると、注文のキャンセルには、典型的なレストランではデジタル売り上げの最大3 ％がかかります",
+          "title_zh": "新数据显示，典型餐厅取消订单的成本高达数字销售额的3%"
         }
       ]
     },
@@ -188,12 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "수출주 변신도 모자라 배당까지…증권가 “변동성장엔 K푸드 투자 제격” [오늘 나온 보고서]",
+          "title": "“삼전닉스도 식후경입니다”…수출주·배당주 효자된 K푸드에 쏠린 눈 [오늘 나온 보고서]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BXzZoQUM1cUtaZHJNWWNXYlhZWjE0NGQxOExtekI0bUVuUGI4ZmFpN3RsR3FFTE41OXEyMlhJVTdnUnEzbktsYnNLQUJnUXJOMEE?oc=5",
           "desc": "",
-          "title_en": "Exporter's transformation is also insufficient, leading to dividends… Securities prices are “perfect for investment in K-Foods for volatile growth” [Report released today]",
-          "title_ja": "輸出業者の変革も不十分で、配当につながっています…有価証券価格は「不安定な成長のためのK - Foodsへの投資に最適です」[本日発表されたレポート]",
-          "title_zh": "出口商的转型也不够，导致股息……证券价格“非常适合投资K-Foods以应对波动性增长” [今日发布的报告]"
+          "title_en": "“Samsun Nyx is also a postprandial view” … Eyes focused on export shares and dividend shares Hyoja K Food [Report released today]",
+          "title_ja": "「サムスンニュクスも食後の視点」…輸出シェアと配当シェアに焦点を当てた目Hyoja K Food【本日発表のレポート】",
+          "title_zh": "“Samsun Nyx也是餐后观点” …专注于出口股和股息股Hyoja K Food [今日发布报告]"
         },
         {
           "title": "롯데웰푸드, 나뚜루 가맹사업 철수…완제품 유통 집중",
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "이스터 베이, 뉴질랜드 대사관·NZTE와 미식 행사 마쳐",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VUklJNE9WMjVDQ2hLVkdtc3Z4M2hiTFBTQkU4UENkVjY3cF9MZHFReGg3azNlUEJWdkZJSTZRY1lZMDJZWmMwYm5pSGlnbWRXU2V2MktiRQ?oc=5",
+          "desc": "",
+          "title_en": "Easter Bay, New Zealand Embassy · After food events with NZTE",
+          "title_ja": "ニュージーランド大使館イースターベイ・NZTEとのアフターフードイベント",
+          "title_zh": "新西兰大使馆复活节湾· NZTE餐后活动"
+        },
+        {
+          "title": "커피에도 단백질 넣는다…러시아 단백질 시장의 성장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qZnFYMVpBNl9hV1hrSG9fRmIzVFotYWtWN2VVSEhTcnpNaFRJME5CSndvR3hOOFV4bFI2WjdoM2tiSW8yRDhlUWRrU1FfajRuajhOUWtZQQ?oc=5",
+          "desc": "",
+          "title_en": "Add Protein to Coffee… Growth of the Russian Protein Market",
+          "title_ja": "コーヒーにタンパク質を加える…ロシアのタンパク質市場の成長",
+          "title_zh": "将蛋白质添加到咖啡中……俄罗斯蛋白质市场的增长"
+        },
+        {
           "title": "UAE의 카락 차이 티, 프리믹스 시장으로 확산",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZ0dIbmJHbmhXTVZBc01NSWNqUWZtTUJhaE5ZbEFPVmZHWE81cldKZ3pNYTdvRVhjR0hKYXktVmhjTWRwbFhLTm8xaEFteEdVTkxHSGZyZw?oc=5",
           "desc": "",
           "title_en": "Karak Chai Tea in UAE Expands into Premix Market",
           "title_ja": "アラブ首長国連邦のカラクチャイティーがプレミックス市場に拡大",
           "title_zh": "阿联酋Karak Chai Tea进军预混料市场"
-        },
-        {
-          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
-          "desc": "",
-          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
-          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
-          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
-        },
-        {
-          "title": "돈가스에 넣은 ‘아보카도’, 비타민 보충 돕는답니다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pelYwUUktajdDUHNVT3ZIWGdkRFpRQnc3SFFqdVpTMXo4TjVXZVZPbkZLSVNqS0ZGSDZzQWpHT2otTUdPQU5jQ0JGcmtQdzBfRU1KUW1aZw?oc=5",
-          "desc": "",
-          "title_en": "\"Avocado\" in money gas helps replenish vitamins",
-          "title_ja": "お金のガスの「アボカド」はビタミンを補給するのに役立ちます",
-          "title_zh": "金钱气体中的“鳄梨”有助于补充维生素"
         }
       ]
     }
