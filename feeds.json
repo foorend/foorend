@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T22:43:46Z",
+  "lastUpdated": "2026-09-07T03:16:53Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "씨엔티테크, 수산·스마트블루푸드 기업 '뉴헤리티지'에 투자",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neUp3aFFZcW1LMGpJVGJFZ1ZtbWkwVlRuMTFqaUFhRjRNYkN0OTRlYUxSYWYzQ0ZpVmVHNTRpSmJZQVJOcVlUZ1dhNjhmOXFDSVhPa0pROC02UUpwb0pVcmdsMWJzNzRsVFI0?oc=5",
+          "desc": "",
+          "title_en": "CNTech invests in 'New Heritage', a fisheries and smart blue food company",
+          "title_ja": "CNTechは、漁業とスマートブルーフード会社である「New Heritage」に投資しています",
+          "title_zh": "CNTech投资“新遗产” ，一家渔业和智能蓝色食品公司"
+        },
+        {
           "title": "\"K푸드 수출, 법률도 따라가야\"",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qUF9OOGtNbDF4bmp5blRfLTBnQVdBaDJQNnRtcUJXamNFdWdKcjhfclREbTl0TDVEM3gtanRqdFpDTFpBZlhDQjJKMFJ3em9QZHBYV0RTS29mdw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Poonglim Food targets desserts with 30 years of egg processing know-how",
           "title_ja": "Poonglim Foodは、30年にわたる卵加工のノウハウを備えたデザートをターゲットにしています",
           "title_zh": "Poonglim Food针对具有30年鸡蛋加工专业知识的甜点"
-        },
-        {
-          "title": "씨엔티테크, 수산·스마트블루푸드 기업 '뉴헤리티지'에 투자",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neUp3aFFZcW1LMGpJVGJFZ1ZtbWkwVlRuMTFqaUFhRjRNYkN0OTRlYUxSYWYzQ0ZpVmVHNTRpSmJZQVJOcVlUZ1dhNjhmOXFDSVhPa0pROC02UUpwb0pVcmdsMWJzNzRsVFI0?oc=5",
-          "desc": "",
-          "title_en": "CNTech invests in 'New Heritage', a fisheries and smart blue food company",
-          "title_ja": "CNTechは、漁業とスマートブルーフード会社である「New Heritage」に投資しています",
-          "title_zh": "CNTech投资“新遗产” ，一家渔业和智能蓝色食品公司"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“냉장고에 넣었으니 괜찮겠지” 했다간 큰일…남은 음식, ‘이런 신호’ 보이면 당장 버려야 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41NTNrdjhUYmhIc2xYb1VSUUFSUFBKVU1vMmpWZVRHUU4wancxUW9BQVhpendxUHVBNlU4TmE3azRMWXdvX2Q1dDJRdGRJZVI1R0HSAVNBVV95cUxNSTZDSm9aMVNNWkZVX2xwaEp2RGtoS0thUm9rbnZDandxV3h4cmlDaVZhUFNrMWxJa1N4MGxhdk04SDN0VXdkYmpWMzhPaGxMcUtqUQ?oc=5",
+          "desc": "",
+          "title_en": "If you said, “I put it in the fridge, so it's okay,” then it's a big problem... If you see any leftovers, ‘signals like this,’ you should throw it away right away [Health Time].",
+          "title_ja": "「冷蔵庫に入れたから大丈夫」と言ったら、大変なことになってしまいます…「このようなシグナル」などの残り物があれば、すぐに[Health Time]に捨てるべきです。",
+          "title_zh": "如果你说， “我把它放在冰箱里，所以没关系，”那么这是一个大问题……如果你看到任何剩菜， ‘这样的信号’ ，你应该立即扔掉它[健康时间]。"
+        },
         {
           "title": "“살 빼려고 먹었는데 탄수화물 폭탄이었다”…다이어트의 적이라는 음식들, 뭐길래 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fVm5WM1BGdUJsRFJhbXM4MTVsOGhNdUFZd1ZkclBTSnhJVWNNZVF3Nk9MV0pjS1haUUU1TmhGajgzNnRPcUxkZGRQWnUzNkZIT3fSAVNBVV95cUxNWEVrbGZLVGoxQ0NoQXJFVE9Mb3RvaXB3SnRtQ2YwVVZ2THl1XzB2WmZaZHNZWkYtZzJOSjhlaVBtUVEtYktNdmp0Q0FlRTlsaHRacw?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Innohas, Chiaf Seoul 2026 VIP Lounge Vegetable K-Food Restaurant",
           "title_ja": "Innohas, Chiafソウル2026 VIPラウンジ野菜K - Foodレストラン",
           "title_zh": "Innohas, Chiaf首尔2026贵宾休息室蔬菜K-Food餐厅"
-        },
-        {
-          "title": "추석 음식과 어울리는 9월 대표 전통주는…‘섬진강바람 오크40’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zajlXbE8yMV92M0FvOVpibGxxUHRjMjYwM1NIRDdMaHVkWlRoNjAtcnpKMXV4Z2JBT0dmajlvbTUyYVdWOVBZbmdVUFBLSC1DZWfSAVNBVV95cUxNQk9DZ3BRbG9zS1ZzTHdCTVAtZDcyejVWc0wydnRTSmtpVGY2V2ZpeWE1OGlsTWp0aHBuTVdvVHlpNDRoNkYwNV83c0xNcnlaTGVKaw?oc=5",
-          "desc": "",
-          "title_en": "The representative traditional wine of September paired with Chuseok food… ‘Seomjin River Breeze Oak 40’",
-          "title_ja": "9月の代表的な伝統的なワインとチュソク料理…「ソムジンリバーブリーズオーク40」",
-          "title_zh": "九月的代表性传统葡萄酒搭配Chuseok美食...... “Seomjin River Breeze Oak 40”"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "수출주 변신도 모자라 배당까지…증권가 “변동성장엔 K푸드 투자 제격” [오늘 나온 보고서]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BXzZoQUM1cUtaZHJNWWNXYlhZWjE0NGQxOExtekI0bUVuUGI4ZmFpN3RsR3FFTE41OXEyMlhJVTdnUnEzbktsYnNLQUJnUXJOMEE?oc=5",
+          "desc": "",
+          "title_en": "Exporter's transformation is also insufficient, leading to dividends… Securities prices are “perfect for investment in K-Foods for volatile growth” [Report released today]",
+          "title_ja": "輸出業者の変革も不十分で、配当につながっています…有価証券価格は「不安定な成長のためのK - Foodsへの投資に最適です」[本日発表されたレポート]",
+          "title_zh": "出口商的转型也不够，导致股息……证券价格“非常适合投资K-Foods以应对波动性增长” [今日发布的报告]"
+        },
+        {
+          "title": "롯데웰푸드, 나뚜루 가맹사업 철수…완제품 유통 집중",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YWFlxYTZLMEJ3OElLZG1ocEJDRHN0TzJscFdFV1huQVR2Y2kyem9BNlJBaGVyT1QtdU1ZRHRkM3NwdUJaTHpBRnlsLTF1a2dTT2c?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Withdraws Naturu Affiliated Business… Focus on Distribution of Finished Goods",
+          "title_ja": "ロッテウェルフード、ナトゥル関連事業を撤退…完成品の流通に注力",
+          "title_zh": "乐天Well Food退出Naturu附属业务…专注于成品的分销"
+        },
+        {
           "title": "“한국건데 한국선 안팔아요”…여행서 만난 K푸드, ‘귀국템’ 됐다",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMGNnbjNYY3VDdnJScVlqbTBIWUxhMFhSUWtsd2s4VDZaOU43MjBNZnRuLUFBOWdoZ1J2OENEMW9LM0tDa015SmlRWUdqenJycnFaQw?oc=5",
           "desc": "",
           "title_en": "“I'm from Korea, but I don't sell Korean lines” … K Food, which I met on a trip, has become ‘Return Item’",
           "title_ja": "「韓国出身ですが、韓国ラインは販売していません」…旅行中に出会ったK Foodが「返品商品」になりました",
           "title_zh": "「我来自韩国，但我不销售韩国线路」……我在旅途中遇到的K Food已成为「退货商品」"
-        },
-        {
-          "title": "“기차 타기전 산 김밥 한 줄 가격이”…철도역 음식값 5년 새 24.4% 껑충",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05V2ZaZWdwYmpab0k4WHJUYTVJNklPaWJMc3FjNVhkaTNicGpURnpMVi1PbFdUYVFfNlRJR0ZfN2NYUEJCMmc?oc=5",
-          "desc": "",
-          "title_en": "“The price of a line of Mt. Gimbap before taking the train” … The price of food at the railway station is 24.4% for five years.",
-          "title_ja": "「電車に乗る前のギンバプ山の路線の価格」…鉄道駅での食事の価格は5年間で24.4 ％です。",
-          "title_zh": "「乘坐火车前的金巴山（ Mt. Gimbap ）路线的价格」……火车站的食物价格为24.4% ，为期五年。"
-        },
-        {
-          "title": "\"기차역 음식값 5년 새 24%↑…김밥 4천78원·돈가스 1만26원\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUdmU5NHB5T1Q2X0VYRVZ1amxzSzlJMVRVQjhFeVNTQmNYbjRYU2dKcWJCazdIUHNIN19fYVJpZGlLTzYza3JsSDZGdXJBOHZCS3c?oc=5",
-          "desc": "",
-          "title_en": "\"The price of food at the train station is 24% for 5 years↑... Gimbap 478 won · Don gas 1226 won\"",
-          "title_ja": "「駅での食べ物の値段は５年間で２ ４ ％↑ …ジンバプ４ ７ ８ウォン・ドンガソリン１ ２ ２ ６ウォン」",
-          "title_zh": "\"火车站的食物价格为24% ，为期5年↑... Gimbap 478韩元· Don gas 1226韩元\""
         }
       ]
     },
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "“알렉산드리아 1호점 시작”…투썸플레이스 美 진출",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DcEttVFhKR0ltS2xRUzFHT21yOUo0Y0ZiZ1d6MUJLY3BONXJDS3pkenhoRjlBVEI4VG1YQjJKMUdCYTBNQW1Ib2czWDc3XzV0ejhGUmlDNA?oc=5",
+          "title": "UAE의 카락 차이 티, 프리믹스 시장으로 확산",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZ0dIbmJHbmhXTVZBc01NSWNqUWZtTUJhaE5ZbEFPVmZHWE81cldKZ3pNYTdvRVhjR0hKYXktVmhjTWRwbFhLTm8xaEFteEdVTkxHSGZyZw?oc=5",
           "desc": "",
-          "title_en": "“Start of Alexandria 1st store” … Entering Twosome Place USA",
-          "title_ja": "「アレクサンドリア1号店開店」… Twosome Place USA入店",
-          "title_zh": "“亚历山大港第一家商店开业” ……进入美国Twosome Place"
+          "title_en": "Karak Chai Tea in UAE Expands into Premix Market",
+          "title_ja": "アラブ首長国連邦のカラクチャイティーがプレミックス市場に拡大",
+          "title_zh": "阿联酋Karak Chai Tea进军预混料市场"
         },
         {
           "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
@@ -234,12 +234,12 @@
           "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
         },
         {
-          "title": "지니스램프, 스위트 라이스 와인 ‘온더램프’ 일본 론칭",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84bk9Ta2t0aVNLQ3FTMjVhZncxOVhRZE91eldZNXcxdHVvSDVUUzNwWUlXc3dKdE1zbkNCOFh6Z1ZLaE1seGJQVnFQOWlldEdsNi1SOHBWaw?oc=5",
+          "title": "돈가스에 넣은 ‘아보카도’, 비타민 보충 돕는답니다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pelYwUUktajdDUHNVT3ZIWGdkRFpRQnc3SFFqdVpTMXo4TjVXZVZPbkZLSVNqS0ZGSDZzQWpHT2otTUdPQU5jQ0JGcmtQdzBfRU1KUW1aZw?oc=5",
           "desc": "",
-          "title_en": "Zenith Ramp Launches Japan Sweet Rice Wine ‘On the Ramp'",
-          "title_ja": "Zenith Ramp、日本のスイートライスワイン「On the Ramp」を発売",
-          "title_zh": "Zenith Ramp推出日本甜米酒“On the Ramp”"
+          "title_en": "\"Avocado\" in money gas helps replenish vitamins",
+          "title_ja": "お金のガスの「アボカド」はビタミンを補給するのに役立ちます",
+          "title_zh": "金钱气体中的“鳄梨”有助于补充维生素"
         }
       ]
     }
