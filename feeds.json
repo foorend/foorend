@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T11:45:19Z",
+  "lastUpdated": "2026-09-07T17:22:50Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "씨엔티테크, 수산·스마트블루푸드 기업 '뉴헤리티지'에 투자",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neUp3aFFZcW1LMGpJVGJFZ1ZtbWkwVlRuMTFqaUFhRjRNYkN0OTRlYUxSYWYzQ0ZpVmVHNTRpSmJZQVJOcVlUZ1dhNjhmOXFDSVhPa0pROC02UUpwb0pVcmdsMWJzNzRsVFI0?oc=5",
+          "title": "일동제약그룹 일동바이오사이언스, ‘비타푸드 아시아’ 참가해 글로벌 시장 공략 모색",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JS3VnM0xQUWsxM0M1TkUzSXYySEs5d3I0VC1TQjl5VHN5VzIwbU1JV3Z2ZWY3U3FWaE9KU0tyWUQ2aTZoc2lBV0FDRFZ2M1FkejhVcnJBbGQ2UQ?oc=5",
           "desc": "",
-          "title_en": "CNTech invests in 'New Heritage', a fisheries and smart blue food company",
-          "title_ja": "CNTechは、漁業とスマートブルーフード会社である「New Heritage」に投資しています",
-          "title_zh": "CNTech投资“新遗产” ，一家渔业和智能蓝色食品公司"
+          "title_en": "Ildong Pharmaceutical Group Ildong Bioscience participates in ‘Vitafood Asia’ and seeks to target the global market",
+          "title_ja": "Ildong Pharmaceutical Group Ildong Bioscienceは「Vitafood Asia」に参加し、世界市場をターゲットにしています",
+          "title_zh": "Ildong Pharmaceutical Group Ildong Bioscience参与“Vitafood Asia”并寻求瞄准全球市场"
         },
         {
           "title": "\"K푸드 수출, 법률도 따라가야\"",
@@ -234,12 +234,12 @@
           "title_zh": "将蛋白质添加到咖啡中……俄罗斯蛋白质市场的增长"
         },
         {
-          "title": "UAE의 카락 차이 티, 프리믹스 시장으로 확산",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZ0dIbmJHbmhXTVZBc01NSWNqUWZtTUJhaE5ZbEFPVmZHWE81cldKZ3pNYTdvRVhjR0hKYXktVmhjTWRwbFhLTm8xaEFteEdVTkxHSGZyZw?oc=5",
+          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
           "desc": "",
-          "title_en": "Karak Chai Tea in UAE Expands into Premix Market",
-          "title_ja": "アラブ首長国連邦のカラクチャイティーがプレミックス市場に拡大",
-          "title_zh": "阿联酋Karak Chai Tea进军预混料市场"
+          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
+          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
+          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
         }
       ]
     }
