@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T10:43:40Z",
+  "lastUpdated": "2026-09-08T16:07:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "Ildong Pharmaceutical Group Ildong Bioscience参与“Vitafood Asia”并寻求瞄准全球市场"
         },
         {
-          "title": "\"K푸드 수출, 법률도 따라가야\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qUF9OOGtNbDF4bmp5blRfLTBnQVdBaDJQNnRtcUJXamNFdWdKcjhfclREbTl0TDVEM3gtanRqdFpDTFpBZlhDQjJKMFJ3em9QZHBYV0RTS29mdw?oc=5",
+          "title": "명절 도시락 매출 두 자릿수! CU, 추석 맞이 한가위 간편식 출시",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HNHVfWjJfb1V3RVcyYnF5NGpnQkxSMlByaUpsaS02MlVfRS10LS1ndlFpa18tbXctWmVNdFlsSlRMYk14bWJkRlVJU3VETXpKQzdDS0R1a29LZw?oc=5",
           "desc": "",
-          "title_en": "\"Export K food, follow the law\"",
-          "title_ja": "「K食を輸出し、法を守る」",
-          "title_zh": "“出口K食品，遵纪守法”"
+          "title_en": "Double-digit holiday lunch sales! CU Launches Korean Rice Cake Easy for Chuseok",
+          "title_ja": "ホリデーランチ2桁セール！ CU、Chuseok向けの韓国ライスケーキを発売",
+          "title_zh": "假日午餐销售额达到两位数！ CU推出适合Chuseok的韩国年糕"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "김포공항 라운지에 ‘1인석·미팅룸’…풀무원푸드앤컬처, 프리미엄 모델 첫 도입",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55V2ZWUFV5Q0FWTWZJZnhXUGt5T1JHLWczZ1hvRmdkbGxtVHVlZjVUc3k1Ymx0VTIwMlBxZ25BVWVaZ1ViWVRteDdFMGx1ZURhLW800gFTQVVfeXFMTnlXZlZQVXlDQVZNZklmeFdQa3lPUkctZzNnWG9GZ2RsbG1UdWVmNVRzeTVibHRVMjAyUHFnbkFVZVpnVWJZVG14N0UwbHVlRGEtbzQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zaUx0OW02T0RmXzhJSy05aWZPRUYwQkNSV2JzZ1kySGJEWDJIS1FkZGpXVXZCNXB6aWlCYm5Hc1dFenlOSVNyTl9FOF9qVjU0SlHSAVNBVV95cUxOeVdmVlBVeUNBVk1mSWZ4V1BreU9SRy1nM2dYb0ZnZGxsbVR1ZWY1VHN5NWJsdFUyMDJQcWduQVVlWmdVYllUbXg3RTBsdWVEYS1vNA?oc=5",
           "desc": "",
           "title_en": "'Single-seat · Meeting Room‘ in Gimpo Airport Lounge… Pulmuone Food and Culture Introduces First Premium Model",
           "title_ja": "金浦空港ラウンジ「シングルシート・ミーティングルーム」…プルムオーネフード＆カルチャー初のプレミアムモデル登場",
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "최대 55% 저렴하게…샘표 ‘추석 기획전’ 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95WmN3WlNSWGdzREZYMExBU09sZk1pZl9YeGZkbF9TVW03Wk9lTXptUWJTV0trRXhndE16c2ZvT2dTNUhpMnRSM1lTQTFCdlZGazFrSGhOTQ?oc=5",
+          "desc": "",
+          "title_en": "Up to 55% cheaper… Sampyo opens‘ Korean Thanksgiving Exhibition ’",
+          "title_ja": "最大55 ％安い… Sampyoが「韓国の感謝祭展示会」を開きます",
+          "title_zh": "最多便宜55% …… Sampyo开设了“韩国感恩节展览”"
+        },
+        {
           "title": "“알렉산드리아 1호점 시작”…투썸플레이스 美 진출",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DcEttVFhKR0ltS2xRUzFHT21yOUo0Y0ZiZ1d6MUJLY3BONXJDS3pkenhoRjlBVEI4VG1YQjJKMUdCYTBNQW1Ib2czWDc3XzV0ejhGUmlDNA?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
           "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
           "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
-        },
-        {
-          "title": "대추 조린 ‘대추고’, 가을철 만능 소스네",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iVWhMYzUyQ0Vac2d2RFl5R3pCeGZlTHNNa1U3ZDFYLWVaV3UxamxtdlBNUlhyNlRwQzM0Z3FUOHlLaHJucjdBU0E5Zl9HX2RPVWh4SC1FWQ?oc=5",
-          "desc": "",
-          "title_en": "Daechu Zorin ‘Daechou’, all-around sauce in autumn",
-          "title_ja": "Daechu Zorin ‘Daechou '（秋のオールアラウンドソース）",
-          "title_zh": "Daechu Zorin ‘Daechou‘ ，秋季全方位酱汁"
         }
       ]
     }
