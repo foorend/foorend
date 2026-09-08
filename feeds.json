@@ -1,17 +1,25 @@
 {
-  "lastUpdated": "2026-09-08T16:07:23Z",
+  "lastUpdated": "2026-09-08T20:48:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
         {
-          "title": "Food delivery is booming at the movie theater",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjZrR2FvTFN6bHByOHlHb0NNZXZIanJQd2dxdE02aDV1T0cxMG0wVi1pOWt5X2l6WDBtVVdSMFJpUEpjMUpFTkZQV1NPVXFRUk1XeWQwTGFoNUkzWmlRNHBZQ3hJZk03WjIybzhFMHpfcG1pemh0cUlCcHNabVBHYWRZTWtNOWFpZ2VTREpnczV2QQ?oc=5",
+          "title": "Walmart makes a bold play for restaurant delivery",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFJxc0FWVkVtTURTZEpOcGVNb2ZOZFNiME1kWGllbjJ5cGZTWVF4Z3JzT1Y5bEtkM1pLM0t0bkxLZDVJU194bzEzS3JneTJMMmRLWXgwdDUzelF1Vjd5SlBlQ1Bpc2FrXzlrejFvanhzcnliaUtRWjBPaG15eTNROXlTTmRrQ3IydnFndE5PRHZFdzkzenc?oc=5",
           "desc": "",
-          "title_ko": "영화관에서 음식 배달이 붐비고 있습니다",
-          "title_ja": "映画館でのフードデリバリーが活況を呈しています",
-          "title_zh": "电影院的送餐服务正蓬勃发展"
+          "title_ko": "월마트는 레스토랑 배달을 위해 대담한 플레이를 펼칩니다.",
+          "title_ja": "ウォルマートはレストランの配達に大胆に取り組んでいます",
+          "title_zh": "沃尔玛大胆推出餐厅派送服务"
+        },
+        {
+          "title": "Restaurant Business Magazine - Trends, Ideas and News",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
+          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
+          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
         },
         {
           "title": "Owner raises $240M for 'AI-native' restaurant tech",
@@ -20,14 +28,6 @@
           "title_ko": "오너, 'AI 네이티브' 레스토랑 기술로 $ 240M 모금",
           "title_ja": "オーナーが「AIネイティブ」レストラン技術のために2億4000万$を調達",
           "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "김포공항 라운지에 ‘1인석·미팅룸’…풀무원푸드앤컬처, 프리미엄 모델 첫 도입",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zaUx0OW02T0RmXzhJSy05aWZPRUYwQkNSV2JzZ1kySGJEWDJIS1FkZGpXVXZCNXB6aWlCYm5Hc1dFenlOSVNyTl9FOF9qVjU0SlHSAVNBVV95cUxOeVdmVlBVeUNBVk1mSWZ4V1BreU9SRy1nM2dYb0ZnZGxsbVR1ZWY1VHN5NWJsdFUyMDJQcWduQVVlWmdVYllUbXg3RTBsdWVEYS1vNA?oc=5",
-          "desc": "",
-          "title_en": "'Single-seat · Meeting Room‘ in Gimpo Airport Lounge… Pulmuone Food and Culture Introduces First Premium Model",
-          "title_ja": "金浦空港ラウンジ「シングルシート・ミーティングルーム」…プルムオーネフード＆カルチャー初のプレミアムモデル登場",
-          "title_zh": "金浦机场休息室的「单座·会议室」… Pulmuone Food and Culture推出首款高级机型"
-        },
-        {
           "title": "야장부터 미술·세계음식까지…서울 골목상권 10곳서 가을축제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56cDItWk1la2JpQ0RGM21mSXRja281U3BZZWFYdWlfTEJIb3RCdTNwZDJyZ3R3ZnQwZmhGRTNsdTRNeGZ1X1lWaHk2U04xQmRXNVHSAVNBVV95cUxNOEJPSC1fZktNRUFuUmItazNhZ1V2RzVPSXVQc2J3UG5HTFVQcXlyTVBaM29JV09BQzVQVFVYTWtTcW84NmZEXzlhUkxWSTlPSFhVUQ?oc=5",
           "desc": "",
           "title_en": "From nightlife to art and world food… Autumn Festival in 10 Seoul Alley Shopping Spheres",
           "title_ja": "ナイトライフからアート、世界の食べ物まで、ソウル路地のショッピングスフィア10か所で秋のフェスティバルを楽しもう",
           "title_zh": "从夜生活到艺术和世界美食…… 10个首尔小巷购物圈的秋季节"
+        },
+        {
+          "title": "김포공항 라운지에 ‘1인석·미팅룸’…풀무원푸드앤컬처, 프리미엄 모델 첫 도입",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zaUx0OW02T0RmXzhJSy05aWZPRUYwQkNSV2JzZ1kySGJEWDJIS1FkZGpXVXZCNXB6aWlCYm5Hc1dFenlOSVNyTl9FOF9qVjU0SlHSAVNBVV95cUxOeVdmVlBVeUNBVk1mSWZ4V1BreU9SRy1nM2dYb0ZnZGxsbVR1ZWY1VHN5NWJsdFUyMDJQcWduQVVlWmdVYllUbXg3RTBsdWVEYS1vNA?oc=5",
+          "desc": "",
+          "title_en": "'Single-seat · Meeting Room‘ in Gimpo Airport Lounge… Pulmuone Food and Culture Introduces First Premium Model",
+          "title_ja": "金浦空港ラウンジ「シングルシート・ミーティングルーム」…プルムオーネフード＆カルチャー初のプレミアムモデル登場",
+          "title_zh": "金浦机场休息室的「单座·会议室」… Pulmuone Food and Culture推出首款高级机型"
         },
         {
           "title": "“냉장고에 넣었으니 괜찮겠지” 했다간 큰일…남은 음식, ‘이런 신호’ 보이면 당장 버려야 [헬시타임]",
@@ -204,12 +204,12 @@
           "title_zh": "红色美食节的味道……长寿汉武朗萨瓜朗节将于10日开幕"
         },
         {
-          "title": "“삼전닉스도 식후경입니다”…수출주·배당주 효자된 K푸드에 쏠린 눈 [오늘 나온 보고서]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BXzZoQUM1cUtaZHJNWWNXYlhZWjE0NGQxOExtekI0bUVuUGI4ZmFpN3RsR3FFTE41OXEyMlhJVTdnUnEzbktsYnNLQUJnUXJOMEE?oc=5",
+          "title": "롯데웰푸드, 나뚜루 가맹사업 철수…완제품 유통 집중",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YWFlxYTZLMEJ3OElLZG1ocEJDRHN0TzJscFdFV1huQVR2Y2kyem9BNlJBaGVyT1QtdU1ZRHRkM3NwdUJaTHpBRnlsLTF1a2dTT2c?oc=5",
           "desc": "",
-          "title_en": "“Samsun Nyx is also a postprandial view” … Eyes focused on export shares and dividend shares Hyoja K Food [Report released today]",
-          "title_ja": "「サムスンニュクスも食後の視点」…輸出シェアと配当シェアに焦点を当てた目Hyoja K Food【本日発表のレポート】",
-          "title_zh": "“Samsun Nyx也是餐后观点” …专注于出口股和股息股Hyoja K Food [今日发布报告]"
+          "title_en": "Lotte Well Food Withdraws Naturu Affiliated Business… Focus on Distribution of Finished Goods",
+          "title_ja": "ロッテウェルフード、ナトゥル関連事業を撤退…完成品の流通に注力",
+          "title_zh": "乐天Well Food退出Naturu附属业务…专注于成品的分销"
         }
       ]
     },
