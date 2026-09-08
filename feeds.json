@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:48:10Z",
+  "lastUpdated": "2026-09-08T23:13:04Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "沃尔玛大胆推出餐厅派送服务"
         },
         {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
-          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
-        },
-        {
           "title": "Owner raises $240M for 'AI-native' restaurant tech",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmh5czlULWxodzVpUjBMY3pnSC1STXlOZkNlWjBXWnd5Qk0wZ2VyN21SaDItRVlud0R4ZTROQ1NRS0RXTUs2eDJnSVNuVDZnQ1dmWUtPTEp1ak04WWdKb2tzd3MwbVFVZUN6TEJBcHRraHRRNDJ3SHdYb0w2SHJsY0ozdTFSRTNYTUNKRGtnUVdjY0ZxV1E?oc=5",
           "desc": "",
           "title_ko": "오너, 'AI 네이티브' 레스토랑 기술로 $ 240M 모금",
           "title_ja": "オーナーが「AIネイティブ」レストラン技術のために2億4000万$を調達",
           "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "바이오니아 자회사 에이스바이옴, 비타푸드 아시아 2026 성료",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUThGYXBvbGU0cEhicTZ5Y1poWXRvYVZieVNqaWM2amtCNW0zVzROUWFBMWhoVXJlTmhHVW9EMXc2WHVIMDVJM3FsVjVtYUdZeWJ5cTl6WXo5dw?oc=5",
-          "desc": "",
-          "title_en": "Bionia subsidiary Acebiom, Vitafood Asia 2026",
-          "title_ja": "Bionia子会社Acebiom、Vitafood Asia 2026",
-          "title_zh": "Bionia子公司Acebiom ， Vitafood Asia 2026"
-        },
-        {
-          "title": "일동제약그룹 일동바이오사이언스, ‘비타푸드 아시아’ 참가해 글로벌 시장 공략 모색",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JS3VnM0xQUWsxM0M1TkUzSXYySEs5d3I0VC1TQjl5VHN5VzIwbU1JV3Z2ZWY3U3FWaE9KU0tyWUQ2aTZoc2lBV0FDRFZ2M1FkejhVcnJBbGQ2UQ?oc=5",
-          "desc": "",
-          "title_en": "Ildong Pharmaceutical Group Ildong Bioscience participates in ‘Vitafood Asia’ and seeks to target the global market",
-          "title_ja": "Ildong Pharmaceutical Group Ildong Bioscienceは「Vitafood Asia」に参加し、世界市場をターゲットにしています",
-          "title_zh": "Ildong Pharmaceutical Group Ildong Bioscience参与“Vitafood Asia”并寻求瞄准全球市场"
-        },
-        {
           "title": "명절 도시락 매출 두 자릿수! CU, 추석 맞이 한가위 간편식 출시",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HNHVfWjJfb1V3RVcyYnF5NGpnQkxSMlByaUpsaS02MlVfRS10LS1ndlFpa18tbXctWmVNdFlsSlRMYk14bWJkRlVJU3VETXpKQzdDS0R1a29LZw?oc=5",
           "desc": "",
           "title_en": "Double-digit holiday lunch sales! CU Launches Korean Rice Cake Easy for Chuseok",
           "title_ja": "ホリデーランチ2桁セール！ CU、Chuseok向けの韓国ライスケーキを発売",
           "title_zh": "假日午餐销售额达到两位数！ CU推出适合Chuseok的韩国年糕"
+        },
+        {
+          "title": "6만원대 참가비에도 '완판'…식품회사가 러닝에 꽂힌 이유 [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0Yl94SWlPc19kLTdpVjJFVkItakh4b0dXWmFLRnRfaFA3dHVlSlVsVmtvdXZIYlk2Q1ZrVmlFY0RrOWZabm9UdkdBdC0wV3M4TmNXa0pweG9Mdw?oc=5",
+          "desc": "",
+          "title_en": "'Wanpan' for the participation fee of KRW 60,000… Why food companies are plugged into running [Kwon Yong-hoon's Trend Watch]",
+          "title_ja": "6万ウォンの参加費で「Wanpan」…なぜ食品会社がランニングに参加するのか【Kwon Yong - hoonのトレンドウォッチ】",
+          "title_zh": "“Wanpan” ，参与费6万韩元……为什么食品公司要投入运营[Kwon Yong-hoon's Trend Watch]"
+        },
+        {
+          "title": "소금 핥고 원샷? 이젠 음미하며 마신다…초밥·튀김과 '의외의 꿀조합'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOSXFCS2F1elZUUWZrLUh5amlWZ0pXTGwtUjN1S2gtaFdCRzhDYU4yUXpNczhpN3VrN05LUVJXYlZCcGNTV1hNMTFrM19ISE9zQm5QTjB6R3NLdw?oc=5",
+          "desc": "",
+          "title_en": "Salt licked and one-shot? Now I savor and drink... Sushi, fries and a 'surprising combination of honey'",
+          "title_ja": "塩を舐めてワンショット？今、私は味わい、飲みます...寿司、フライドポテト、そして「驚くべき蜂蜜の組み合わせ」",
+          "title_zh": "盐舔一次？现在我品尝和饮用......寿司，薯条和“令人惊讶的蜂蜜组合”"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "红色美食节的味道……长寿汉武朗萨瓜朗节将于10日开幕"
         },
         {
-          "title": "롯데웰푸드, 나뚜루 가맹사업 철수…완제품 유통 집중",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YWFlxYTZLMEJ3OElLZG1ocEJDRHN0TzJscFdFV1huQVR2Y2kyem9BNlJBaGVyT1QtdU1ZRHRkM3NwdUJaTHpBRnlsLTF1a2dTT2c?oc=5",
+          "title": "“삼전닉스도 식후경입니다”…수출주·배당주 효자된 K푸드에 쏠린 눈 [오늘 나온 보고서]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BXzZoQUM1cUtaZHJNWWNXYlhZWjE0NGQxOExtekI0bUVuUGI4ZmFpN3RsR3FFTE41OXEyMlhJVTdnUnEzbktsYnNLQUJnUXJOMEE?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Withdraws Naturu Affiliated Business… Focus on Distribution of Finished Goods",
-          "title_ja": "ロッテウェルフード、ナトゥル関連事業を撤退…完成品の流通に注力",
-          "title_zh": "乐天Well Food退出Naturu附属业务…专注于成品的分销"
+          "title_en": "“Samsun Nyx is also a postprandial view” … Eyes focused on export shares and dividend shares Hyoja K Food [Report released today]",
+          "title_ja": "「サムスンニュクスも食後の視点」…輸出シェアと配当シェアに焦点を当てた目Hyoja K Food【本日発表のレポート】",
+          "title_zh": "“Samsun Nyx也是餐后观点” …专注于出口股和股息股Hyoja K Food [今日发布报告]"
         }
       ]
     },
