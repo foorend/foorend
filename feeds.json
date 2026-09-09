@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T16:02:03Z",
+  "lastUpdated": "2026-09-09T20:33:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "沃尔玛大胆推出餐厅派送服务"
         },
         {
+          "title": "Food delivery is booming at the movie theater",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjZrR2FvTFN6bHByOHlHb0NNZXZIanJQd2dxdE02aDV1T0cxMG0wVi1pOWt5X2l6WDBtVVdSMFJpUEpjMUpFTkZQV1NPVXFRUk1XeWQwTGFoNUkzWmlRNHBZQ3hJZk03WjIybzhFMHpfcG1pemh0cUlCcHNabVBHYWRZTWtNOWFpZ2VTREpnczV2QQ?oc=5",
+          "desc": "",
+          "title_ko": "영화관에서 음식 배달이 붐비고 있습니다",
+          "title_ja": "映画館でのフードデリバリーが活況を呈しています",
+          "title_zh": "电影院的送餐服务正蓬勃发展"
+        },
+        {
           "title": "Owner raises $240M for 'AI-native' restaurant tech",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmh5czlULWxodzVpUjBMY3pnSC1STXlOZkNlWjBXWnd5Qk0wZ2VyN21SaDItRVlud0R4ZTROQ1NRS0RXTUs2eDJnSVNuVDZnQ1dmWUtPTEp1ak04WWdKb2tzd3MwbVFVZUN6TEJBcHRraHRRNDJ3SHdYb0w2SHJsY0ozdTFSRTNYTUNKRGtnUVdjY0ZxV1E?oc=5",
           "desc": "",
           "title_ko": "오너, 'AI 네이티브' 레스토랑 기술로 $ 240M 모금",
           "title_ja": "オーナーが「AIネイティブ」レストラン技術のために2億4000万$を調達",
           "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -35,6 +35,14 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
+        {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -50,14 +58,6 @@
           "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
           "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
           "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Ultimate Gift Guide for Home Cooks",
+          "link": "https://www.eater.com/23969820/best-cooking-gifts-kitchen-tools-appliances",
+          "desc": "When it comes to finding gifts for people who love to cook, I stand by a simple gift shopping mantra: Know what your giftee likes, and then expand upo",
+          "title_ko": "가정 요리사를 위한 최고의 선물 가이드",
+          "title_ja": "家庭料理のための究極のギフトガイド",
+          "title_zh": "家庭烹饪终极礼品指南"
+        },
+        {
           "title": "Steal My Food Itinerary: A Long Weekend in Upstate New York",
           "link": "https://www.eater.com/dining-out/984656/steal-my-food-itinerary-upstate-new-york",
           "desc": "I love New York City in the summer, especially this past one, but I grew up in the shadow of the Rocky Mountains. I’m in my late 20s, I rock climb, an",
@@ -110,14 +118,6 @@
           "title_ko": "목장 드레싱을 진지하게 받아들여야 할 때입니다",
           "title_ja": "牧場でドレッシングを真剣に楽しもう",
           "title_zh": "是时候认真对待牧场敷料了"
-        },
-        {
-          "title": "‘Still or Sparkling’ Must Be Stopped",
-          "link": "https://www.eater.com/dining-out/982697/still-sparkling-or-filtered-tap",
-          "desc": "All this week, the Eater Today newsletter is dedicated to editor Hot Takes, a way to release the pressure valve of crankiness that comes with sweating",
-          "title_ko": "‘스틸 또는 스파클링’ 을 중지해야 함",
-          "title_ja": "「スティルまたはスパークリング」を止める必要があります",
-          "title_zh": "必须停止“静止或闪闪发光”"
         }
       ]
     }
@@ -128,12 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "K푸드 수출 늘어나는 중동…지난해 라면 수출 22% 증가",
+          "title": "라면에 물 대신 '이것' 넣는다…외국인 K푸드 취향에 '화들짝' [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcG5PeE16d1ZKdVpMU0htcmg0bFducDNlU2tlV3pISFoweDc5cU1xaF8zeVcwOF9VNjl5ODUzYkdOWlA3bl80VkRaMEdicnlUaVJmV0k0ZHhMcjR6ZS1HWlJLa0duS2lHbmZmMEFDR3lYcDRubVJXS2VUckhRQkt0TTBmQ0REWVU?oc=5",
+          "desc": "",
+          "title_en": "Add 'this' instead of water to the ramen... 'this' to the taste of foreign K-foods [Trend +]",
+          "title_ja": "ラーメンに水の代わりに「これ」を加える…外国のKフードの味に「これ」を加える[トレンド+]",
+          "title_zh": "在拉面中添加“this”而不是水…… “this”来品尝外国K-foods的味道[趋势+]"
+        },
+        {
+          "title": "K푸드, 중동서 인기 폭발…지난해 라면 수출 22% 증가",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oTHhweGNHMXdKdU1YeG9hbFVrZktDTFQtMmVsSXRJaXZwLVh2RnhmZ3JfQjM5ZTlyVkJtWEkwUHhHSl9mWjdCdDh4TndoM0o5NEtkZUZMMnhzZw?oc=5",
           "desc": "",
-          "title_en": "K-Food Exports Growing in the Middle East... Ramen Exports Increased 22% Last Year",
-          "title_ja": "K - Food輸出は中東で伸びている…昨年のラーメン輸出は22 ％増加",
-          "title_zh": "K-Food中东出口增长...拉面出口去年增长22%"
+          "title_en": "K-Food Explodes in the Middle East… Ramen Exports Increased 22% Last Year",
+          "title_ja": "K - Foodが中東で爆発…昨年のラーメン輸出は22 ％増加",
+          "title_zh": "K-Food在中东爆发…拉面出口去年增长22%"
         },
         {
           "title": "일미푸드, \"미국 시장 겨냥 'K-컵피클' 본격 제품화에 나선다\"",
@@ -142,14 +150,6 @@
           "title_en": "Ilmi Foods, \"K-Cup Pickles will be fully commercialized for the US market\"",
           "title_ja": "Ilmi Foods、「Kカップピクルスは米国市場向けに完全に商品化されます」",
           "title_zh": "Ilmi Foods ， “K-Cup Pickles将在美国市场完全商业化”"
-        },
-        {
-          "title": "K-푸드 세계화, 이제 ‘법의 국경’을 넘어야 한다 [황우진의 글로벌 퍼스펙티브]",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaU8tTWNWRExmNDdFSDY1R2Y4bl9wc3lpd1J0OHBGcVJsekp4Q0dhNjl1SkJfNXRCdHJJNG1nTGpwTHl4cFpvUTdkZm12NDN4b0xmNmVtYU8yYUtJay1zVDhtVXRWalR0cU5XUjhUbGwyY056MnNyNVZVN1BUeXMyR09EMUw?oc=5",
-          "desc": "",
-          "title_en": "K-Food Globalization Must Now Cross‘ Law Borders’ [Woojin Hwang's Global Perspective]",
-          "title_ja": "K - Foodグローバリゼーションは今や「法の国境」を越えなければならない[Woojin Hwangのグローバルな視点]",
-          "title_zh": "K-Food全球化现在必须跨越“法律边界” [Woojin Hwang的全球视角]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“卖腐烂的食物” ……丽水博览会商家退出电力"
         },
         {
-          "title": "(주)신세계푸드 (정정)주주총회소집결의",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43clVpcmdCT3I2MEhuWXZfcEJtUzhOS25LTlRLbHdkRHJfd1FkMGdQUEEyMkxhQk83ek9IUnVraG5ZU1puaHFWcGtfdUFMSndJbHdESXNZZldKZ1U?oc=5",
-          "desc": "",
-          "title_en": "Shinsegae Food Co., Ltd. (Correction) Meeting of Shareholders",
-          "title_ja": "新世界食品（訂正）株主総会",
-          "title_zh": "新世界食品股份有限公司（更正）股东会"
-        },
-        {
           "title": "차세대 'K푸드 월드스타' 찾는다",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03bm5IcXI2VjYxVDJwcUJFZnJnS3lVMVJkdllJWmdZWXhURFJlRWZKQ2gtX3dhTTVXYVJ4b2paNk1JejM0bF9SUEdsTW9pUzY4YWFaN2Vn?oc=5",
           "desc": "",
           "title_en": "Look for the next generation of 'K-Food World Star'",
           "title_ja": "次世代の「K - Food World Star」を探す",
           "title_zh": "寻找下一代“K-Food世界之星”"
+        },
+        {
+          "title": "(주)신세계푸드 (정정)주주총회소집결의",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43clVpcmdCT3I2MEhuWXZfcEJtUzhOS25LTlRLbHdkRHJfd1FkMGdQUEEyMkxhQk83ek9IUnVraG5ZU1puaHFWcGtfdUFMSndJbHdESXNZZldKZ1U?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Food Co., Ltd. (Correction) Meeting of Shareholders",
+          "title_ja": "新世界食品（訂正）株主総会",
+          "title_zh": "新世界食品股份有限公司（更正）股东会"
         }
       ]
     },
