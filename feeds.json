@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:33:03Z",
+  "lastUpdated": "2026-09-09T22:58:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "라면에 물 대신 '이것' 넣는다…외국인 K푸드 취향에 '화들짝' [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcG5PeE16d1ZKdVpMU0htcmg0bFducDNlU2tlV3pISFoweDc5cU1xaF8zeVcwOF9VNjl5ODUzYkdOWlA3bl80VkRaMEdicnlUaVJmV0k0ZHhMcjR6ZS1HWlJLa0duS2lHbmZmMEFDR3lYcDRubVJXS2VUckhRQkt0TTBmQ0REWVU?oc=5",
-          "desc": "",
-          "title_en": "Add 'this' instead of water to the ramen... 'this' to the taste of foreign K-foods [Trend +]",
-          "title_ja": "ラーメンに水の代わりに「これ」を加える…外国のKフードの味に「これ」を加える[トレンド+]",
-          "title_zh": "在拉面中添加“this”而不是水…… “this”来品尝外国K-foods的味道[趋势+]"
-        },
-        {
           "title": "K푸드, 중동서 인기 폭발…지난해 라면 수출 22% 증가",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oTHhweGNHMXdKdU1YeG9hbFVrZktDTFQtMmVsSXRJaXZwLVh2RnhmZ3JfQjM5ZTlyVkJtWEkwUHhHSl9mWjdCdDh4TndoM0o5NEtkZUZMMnhzZw?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "Ilmi Foods, \"K-Cup Pickles will be fully commercialized for the US market\"",
           "title_ja": "Ilmi Foods、「Kカップピクルスは米国市場向けに完全に商品化されます」",
           "title_zh": "Ilmi Foods ， “K-Cup Pickles将在美国市场完全商业化”"
+        },
+        {
+          "title": "K-푸드 세계화, 이제 ‘법의 국경’을 넘어야 한다 [황우진의 글로벌 퍼스펙티브]",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaU8tTWNWRExmNDdFSDY1R2Y4bl9wc3lpd1J0OHBGcVJsekp4Q0dhNjl1SkJfNXRCdHJJNG1nTGpwTHl4cFpvUTdkZm12NDN4b0xmNmVtYU8yYUtJay1zVDhtVXRWalR0cU5XUjhUbGwyY056MnNyNVZVN1BUeXMyR09EMUw?oc=5",
+          "desc": "",
+          "title_en": "K-Food Globalization Must Now Cross‘ Law Borders’ [Woojin Hwang's Global Perspective]",
+          "title_ja": "K - Foodグローバリゼーションは今や「法の国境」を越えなければならない[Woojin Hwangのグローバルな視点]",
+          "title_zh": "K-Food全球化现在必须跨越“法律边界” [Woojin Hwang的全球视角]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“卖腐烂的食物” ……丽水博览会商家退出电力"
         },
         {
-          "title": "차세대 'K푸드 월드스타' 찾는다",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03bm5IcXI2VjYxVDJwcUJFZnJnS3lVMVJkdllJWmdZWXhURFJlRWZKQ2gtX3dhTTVXYVJ4b2paNk1JejM0bF9SUEdsTW9pUzY4YWFaN2Vn?oc=5",
-          "desc": "",
-          "title_en": "Look for the next generation of 'K-Food World Star'",
-          "title_ja": "次世代の「K - Food World Star」を探す",
-          "title_zh": "寻找下一代“K-Food世界之星”"
-        },
-        {
           "title": "(주)신세계푸드 (정정)주주총회소집결의",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43clVpcmdCT3I2MEhuWXZfcEJtUzhOS25LTlRLbHdkRHJfd1FkMGdQUEEyMkxhQk83ek9IUnVraG5ZU1puaHFWcGtfdUFMSndJbHdESXNZZldKZ1U?oc=5",
           "desc": "",
           "title_en": "Shinsegae Food Co., Ltd. (Correction) Meeting of Shareholders",
           "title_ja": "新世界食品（訂正）株主総会",
           "title_zh": "新世界食品股份有限公司（更正）股东会"
+        },
+        {
+          "title": "차세대 'K푸드 월드스타' 찾는다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03bm5IcXI2VjYxVDJwcUJFZnJnS3lVMVJkdllJWmdZWXhURFJlRWZKQ2gtX3dhTTVXYVJ4b2paNk1JejM0bF9SUEdsTW9pUzY4YWFaN2Vn?oc=5",
+          "desc": "",
+          "title_en": "Look for the next generation of 'K-Food World Star'",
+          "title_ja": "次世代の「K - Food World Star」を探す",
+          "title_zh": "寻找下一代“K-Food世界之星”"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "이스터 베이, 뉴질랜드 대사관·NZTE와 미식 행사 마쳐",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VUklJNE9WMjVDQ2hLVkdtc3Z4M2hiTFBTQkU4UENkVjY3cF9MZHFReGg3azNlUEJWdkZJSTZRY1lZMDJZWmMwYm5pSGlnbWRXU2V2MktiRQ?oc=5",
-          "desc": "",
-          "title_en": "Easter Bay, New Zealand Embassy · After food events with NZTE",
-          "title_ja": "ニュージーランド大使館イースターベイ・NZTEとのアフターフードイベント",
-          "title_zh": "新西兰大使馆复活节湾· NZTE餐后活动"
-        },
         {
           "title": "신진대사 높이려면 이 영양소 ‘조합’ 기억",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uc2p3M2ROSkZnMkNGbjk4dDNrZHFIQ3d6LXZfRlpYNExlU2lGNnVHX0p0Y0dWZEJyUmpHdjRTa0VDdXZGRUFOUE9RdkJCOGdkNk5EOHFsZw?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Up to 55% cheaper… Sampyo opens‘ Korean Thanksgiving Exhibition ’",
           "title_ja": "最大55 ％安い… Sampyoが「韓国の感謝祭展示会」を開きます",
           "title_zh": "最多便宜55% …… Sampyo开设了“韩国感恩节展览”"
+        },
+        {
+          "title": "“알렉산드리아 1호점 시작”…투썸플레이스 美 진출",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DcEttVFhKR0ltS2xRUzFHT21yOUo0Y0ZiZ1d6MUJLY3BONXJDS3pkenhoRjlBVEI4VG1YQjJKMUdCYTBNQW1Ib2czWDc3XzV0ejhGUmlDNA?oc=5",
+          "desc": "",
+          "title_en": "“Start of Alexandria 1st store” … Entering Twosome Place USA",
+          "title_ja": "「アレクサンドリア1号店開店」… Twosome Place USA入店",
+          "title_zh": "“亚历山大港第一家商店开业” ……进入美国Twosome Place"
         }
       ]
     }
