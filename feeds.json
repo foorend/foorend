@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T03:27:39Z",
+  "lastUpdated": "2026-09-09T10:52:00Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "K푸드 수출 늘어나는 중동…지난해 라면 수출 22% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oTHhweGNHMXdKdU1YeG9hbFVrZktDTFQtMmVsSXRJaXZwLVh2RnhmZ3JfQjM5ZTlyVkJtWEkwUHhHSl9mWjdCdDh4TndoM0o5NEtkZUZMMnhzZw?oc=5",
+          "desc": "",
+          "title_en": "K-Food Exports Growing in the Middle East... Ramen Exports Increased 22% Last Year",
+          "title_ja": "K - Food輸出は中東で伸びている…昨年のラーメン輸出は22 ％増加",
+          "title_zh": "K-Food中东出口增长...拉面出口去年增长22%"
+        },
+        {
           "title": "K-푸드 세계화, 이제 ‘법의 국경’을 넘어야 한다 [황우진의 글로벌 퍼스펙티브]",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaU8tTWNWRExmNDdFSDY1R2Y4bl9wc3lpd1J0OHBGcVJsekp4Q0dhNjl1SkJfNXRCdHJJNG1nTGpwTHl4cFpvUTdkZm12NDN4b0xmNmVtYU8yYUtJay1zVDhtVXRWalR0cU5XUjhUbGwyY056MnNyNVZVN1BUeXMyR09EMUw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Ilmi Foods, \"K-Cup Pickles will be fully commercialized for the US market\"",
           "title_ja": "Ilmi Foods、「Kカップピクルスは米国市場向けに完全に商品化されます」",
           "title_zh": "Ilmi Foods ， “K-Cup Pickles将在美国市场完全商业化”"
-        },
-        {
-          "title": "바이오니아 자회사 에이스바이옴, 비타푸드 아시아 2026 성료",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUThGYXBvbGU0cEhicTZ5Y1poWXRvYVZieVNqaWM2amtCNW0zVzROUWFBMWhoVXJlTmhHVW9EMXc2WHVIMDVJM3FsVjVtYUdZeWJ5cTl6WXo5dw?oc=5",
-          "desc": "",
-          "title_en": "Bionia subsidiary Acebiom, Vitafood Asia 2026",
-          "title_ja": "Bionia子会社Acebiom、Vitafood Asia 2026",
-          "title_zh": "Bionia子公司Acebiom ， Vitafood Asia 2026"
         }
       ]
     },
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "김포공항 라운지에 ‘1인석·미팅룸’…풀무원푸드앤컬처, 프리미엄 모델 첫 도입",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zaUx0OW02T0RmXzhJSy05aWZPRUYwQkNSV2JzZ1kySGJEWDJIS1FkZGpXVXZCNXB6aWlCYm5Hc1dFenlOSVNyTl9FOF9qVjU0SlHSAVNBVV95cUxOeVdmVlBVeUNBVk1mSWZ4V1BreU9SRy1nM2dYb0ZnZGxsbVR1ZWY1VHN5NWJsdFUyMDJQcWduQVVlWmdVYllUbXg3RTBsdWVEYS1vNA?oc=5",
-          "desc": "",
-          "title_en": "'Single-seat · Meeting Room‘ in Gimpo Airport Lounge… Pulmuone Food and Culture Introduces First Premium Model",
-          "title_ja": "金浦空港ラウンジ「シングルシート・ミーティングルーム」…プルムオーネフード＆カルチャー初のプレミアムモデル登場",
-          "title_zh": "金浦机场休息室的「单座·会议室」… Pulmuone Food and Culture推出首款高级机型"
-        },
-        {
           "title": "야장부터 미술·세계음식까지…서울 골목상권 10곳서 가을축제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56cDItWk1la2JpQ0RGM21mSXRja281U3BZZWFYdWlfTEJIb3RCdTNwZDJyZ3R3ZnQwZmhGRTNsdTRNeGZ1X1lWaHk2U04xQmRXNVHSAVNBVV95cUxNOEJPSC1fZktNRUFuUmItazNhZ1V2RzVPSXVQc2J3UG5HTFVQcXlyTVBaM29JV09BQzVQVFVYTWtTcW84NmZEXzlhUkxWSTlPSFhVUQ?oc=5",
           "desc": "",
           "title_en": "From nightlife to art and world food… Autumn Festival in 10 Seoul Alley Shopping Spheres",
           "title_ja": "ナイトライフからアート、世界の食べ物まで、ソウル路地のショッピングスフィア10か所で秋のフェスティバルを楽しもう",
           "title_zh": "从夜生活到艺术和世界美食…… 10个首尔小巷购物圈的秋季节"
+        },
+        {
+          "title": "김포공항 라운지에 ‘1인석·미팅룸’…풀무원푸드앤컬처, 프리미엄 모델 첫 도입",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zaUx0OW02T0RmXzhJSy05aWZPRUYwQkNSV2JzZ1kySGJEWDJIS1FkZGpXVXZCNXB6aWlCYm5Hc1dFenlOSVNyTl9FOF9qVjU0SlHSAVNBVV95cUxOeVdmVlBVeUNBVk1mSWZ4V1BreU9SRy1nM2dYb0ZnZGxsbVR1ZWY1VHN5NWJsdFUyMDJQcWduQVVlWmdVYllUbXg3RTBsdWVEYS1vNA?oc=5",
+          "desc": "",
+          "title_en": "'Single-seat · Meeting Room‘ in Gimpo Airport Lounge… Pulmuone Food and Culture Introduces First Premium Model",
+          "title_ja": "金浦空港ラウンジ「シングルシート・ミーティングルーム」…プルムオーネフード＆カルチャー初のプレミアムモデル登場",
+          "title_zh": "金浦机场休息室的「单座·会议室」… Pulmuone Food and Culture推出首款高级机型"
         },
         {
           "title": "“한국식 너무 맛있잖아” 뭐가 다르길래?…외국인들 줄 서서 먹는 이 음식",
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "[부안소식] 추석 맞이 14∼24일 로컬푸드 20% 할인행사",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xaEJiYXZEVkktTG9aWjJEbHE5LUNiYllBaDg5MTJWMlhhVEd0elJ4MmRqVzk4cFFzNFhjM09ST01QV19LS0E1aHVZU0hvME9ncXc?oc=5",
+          "title": "“썩은 음식 팔란 말인가”…여수박람회 상인들, 전기끊겨 철수하기도",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NNjU2ZlNjdVQtRGFfdERaMkxhV2xuampQTlFUbmRxUHQzQ1pkTWQxbWRZWmhCYnhDaXNiY2hrYXJFSWFmbkpvU19KUjV0bWpkazFfeA?oc=5",
           "desc": "",
-          "title_en": "[Buan News] 20% discount on local food from 14th to 24th for Chuseok",
-          "title_ja": "[Buan News] Chuseokの14日から24日までの地元料理が20 ％割引",
-          "title_zh": "[Buan News] 14日至24日Chuseok当地美食八折优惠"
+          "title_en": "“Selling rotten food” … Yeosu Fair Merchants Withdraw Electricity",
+          "title_ja": "「腐った食べ物を売る」…麗水フェアマーチャントが電気を引き出す",
+          "title_zh": "“卖腐烂的食物” ……丽水博览会商家退出电力"
         },
         {
-          "title": "레어드 슈퍼푸드, CPG 25년 경력 마크 존슨 CFO 선임",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsOHNoYmxNdnJMQ0Z0TXFVYTVyeEdzSU4zZ0E1U3RzbGtacEN0Z1VvU3drd0RKNGpUUDl4TVlzTjZFSnZFTzVNMlVMbThvaVRsUnc?oc=5",
+          "title": "차세대 'K푸드 월드스타' 찾는다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52S2Q4alhJajdVU2tObHBRdndTcEVLLWFEa0hZMGMyX2RrTW1meUlzTjVZQktnSFdieXB4aU1IWFFnUS1pVHc?oc=5",
           "desc": "",
-          "title_en": "Laird Superfood Appoints CFO Mark Johnson with 25 Years of CpG Experience",
-          "title_ja": "Laird Superfood、25年のCPG経験を持つCFO Mark Johnsonを任命",
-          "title_zh": "Laird Superfood任命拥有25年CPG经验的首席财务官Mark Johnson"
+          "title_en": "Look for the next generation of 'K-Food World Star'",
+          "title_ja": "次世代の「K - Food World Star」を探す",
+          "title_zh": "寻找下一代“K-Food世界之星”"
         },
         {
-          "title": "붉은색 음식의 맛 축제…장수 한우랑사과랑축제 10일 개막",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43Q2h2VnBJU0JGaHliOTlLVks0TWk1U0RMZ2lfN3h1eGRvZzJ6Y2VlZG9KQWJXT3VpWU5uTXNobEk1eE5JWXNjRlhsSFlnLXY0Y3c?oc=5",
+          "title": "불닭면 성공해보니 “K-푸드 잘되려면...K-컬처보다 맛이 먼저”",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DVXVmb2l5MXNZNFZpdkZqT0VpeGlNTExjOFhQUVNXSzNJNGZPSnR6UFJaTUNqWGROOWVURG5YUTZYSjBfclE?oc=5",
           "desc": "",
-          "title_en": "Taste of red food festival… Longevity Hanurang Saguarang Festival opens on the 10th",
-          "title_ja": "赤いフードフェスティバルの味…長寿ハヌランサグアランフェスティバルは10日に開かれます",
-          "title_zh": "红色美食节的味道……长寿汉武朗萨瓜朗节将于10日开幕"
+          "title_en": "When I succeeded, “K-food to be good… taste before K-culture”",
+          "title_ja": "成功したとき、「K - food to be good… Taste before K - culture」",
+          "title_zh": "当我成功时， “K-food to be good… taste before K-culture”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "新西兰大使馆复活节湾· NZTE餐后活动"
         },
         {
+          "title": "신진대사 높이려면 이 영양소 ‘조합’ 기억",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uc2p3M2ROSkZnMkNGbjk4dDNrZHFIQ3d6LXZfRlpYNExlU2lGNnVHX0p0Y0dWZEJyUmpHdjRTa0VDdXZGRUFOUE9RdkJCOGdkNk5EOHFsZw?oc=5",
+          "desc": "",
+          "title_en": "Remember this nutrient ‘combination‘ to increase metabolism",
+          "title_ja": "代謝を高めるこの栄養素の「組み合わせ」を覚えておいてください",
+          "title_zh": "记住这种营养“组合”以增加新陈代谢"
+        },
+        {
           "title": "최대 55% 저렴하게…샘표 ‘추석 기획전’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95WmN3WlNSWGdzREZYMExBU09sZk1pZl9YeGZkbF9TVW03Wk9lTXptUWJTV0trRXhndE16c2ZvT2dTNUhpMnRSM1lTQTFCdlZGazFrSGhOTQ?oc=5",
           "desc": "",
           "title_en": "Up to 55% cheaper… Sampyo opens‘ Korean Thanksgiving Exhibition ’",
           "title_ja": "最大55 ％安い… Sampyoが「韓国の感謝祭展示会」を開きます",
           "title_zh": "最多便宜55% …… Sampyo开设了“韩国感恩节展览”"
-        },
-        {
-          "title": "“알렉산드리아 1호점 시작”…투썸플레이스 美 진출",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DcEttVFhKR0ltS2xRUzFHT21yOUo0Y0ZiZ1d6MUJLY3BONXJDS3pkenhoRjlBVEI4VG1YQjJKMUdCYTBNQW1Ib2czWDc3XzV0ejhGUmlDNA?oc=5",
-          "desc": "",
-          "title_en": "“Start of Alexandria 1st store” … Entering Twosome Place USA",
-          "title_ja": "「アレクサンドリア1号店開店」… Twosome Place USA入店",
-          "title_zh": "“亚历山大港第一家商店开业” ……进入美国Twosome Place"
         }
       ]
     }
