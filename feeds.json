@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T03:25:39Z",
+  "lastUpdated": "2026-09-10T10:46:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "“썩은 음식 팔란 말인가”…여수박람회 상인들, 전기끊겨 철수하기도",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NNjU2ZlNjdVQtRGFfdERaMkxhV2xuampQTlFUbmRxUHQzQ1pkTWQxbWRZWmhCYnhDaXNiY2hrYXJFSWFmbkpvU19KUjV0bWpkazFfeA?oc=5",
-          "desc": "",
-          "title_en": "“Selling rotten food” … Yeosu Fair Merchants Withdraw Electricity",
-          "title_ja": "「腐った食べ物を売る」…麗水フェアマーチャントが電気を引き出す",
-          "title_zh": "“卖腐烂的食物” ……丽水博览会商家退出电力"
-        },
-        {
           "title": "명절 선물·음식 온라인 구매 늘고 소량 구매 선호…실속 소비",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNQWZ5N0RueE01ME1yU1FNaWdsVUM2TzJFQi1xdUk0UXlrYkpWYkZpbGtPNjEzNUpHWjZ6TVhIV1NnbWo4NWxKZ3JocjNFTUwwd0E?oc=5",
           "desc": "",
@@ -210,6 +202,14 @@
           "title_en": "Look for the next generation of 'K-Food World Star'",
           "title_ja": "次世代の「K - Food World Star」を探す",
           "title_zh": "寻找下一代“K-Food世界之星”"
+        },
+        {
+          "title": "“썩은 음식 팔란 말인가”…여수박람회 상인들, 전기끊겨 철수하기도",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NNjU2ZlNjdVQtRGFfdERaMkxhV2xuampQTlFUbmRxUHQzQ1pkTWQxbWRZWmhCYnhDaXNiY2hrYXJFSWFmbkpvU19KUjV0bWpkazFfeA?oc=5",
+          "desc": "",
+          "title_en": "“Selling rotten food” … Yeosu Fair Merchants Withdraw Electricity",
+          "title_ja": "「腐った食べ物を売る」…麗水フェアマーチャントが電気を引き出す",
+          "title_zh": "“卖腐烂的食物” ……丽水博览会商家退出电力"
         }
       ]
     },
