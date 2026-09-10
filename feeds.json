@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-09-10T10:46:51Z",
+  "lastUpdated": "2026-09-10T15:56:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Proposed bill would end restaurant purchases with food stamps",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWU1RclEtQUMwVENGZnd0TFVhWWQ5QjJabFlGLVR5Y0pfLVVFUjFodUtJTWhEUGRNcWhhZlhMaThCVm1mandSQ0VyTjMzRFZtV2xBaWVuU1Q5NThBZ1J2aUVDVGRXY0lfbExDZTA1bmZuSWRpdUQ3MlF5bWxwT3V5Q3U4bDljSm1kdmJBQng2aHFUSEFSek8tZWdST254TllHbE9Tbm8zaw?oc=5",
+          "desc": "",
+          "title_ko": "제안된 법안은 푸드 스탬프로 레스토랑 구매를 종료합니다",
+          "title_ja": "提案された法案は、フードスタンプでレストランの購入を終了する",
+          "title_zh": "拟议的法案将通过食品券结束餐厅购物"
+        },
         {
           "title": "O'Charley's closes 18 restaurants in one day as sales struggle",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXg4MTZnX3kxa1Y4X01tT0otbDhXTnJ2VUwyYXFGOEw3ZExnQU5zSkxTU1dpNXB5N09SeHV3X2RyakpzU2pXXzRvck4xTUVPQUphQ3hnTWk2RW0ySXhLMzVMcldTT3FOcVBveGdyUnZJT28xV2s1dFU3ekJWanBLVHJGOWZieVNuYUVGYm5DQmtzZjhPVjJBYW92LXkwbUpBSE1B?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "월마트는 레스토랑 배달을 위해 대담한 플레이를 펼칩니다.",
           "title_ja": "ウォルマートはレストランの配達に大胆に取り組んでいます",
           "title_zh": "沃尔玛大胆推出餐厅派送服务"
-        },
-        {
-          "title": "Food delivery is booming at the movie theater",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjZrR2FvTFN6bHByOHlHb0NNZXZIanJQd2dxdE02aDV1T0cxMG0wVi1pOWt5X2l6WDBtVVdSMFJpUEpjMUpFTkZQV1NPVXFRUk1XeWQwTGFoNUkzWmlRNHBZQ3hJZk03WjIybzhFMHpfcG1pemh0cUlCcHNabVBHYWRZTWtNOWFpZ2VTREpnczV2QQ?oc=5",
-          "desc": "",
-          "title_ko": "영화관에서 음식 배달이 붐비고 있습니다",
-          "title_ja": "映画館でのフードデリバリーが活況を呈しています",
-          "title_zh": "电影院的送餐服务正蓬勃发展"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The 12 New Cookbooks We Can’t Wait to Cook From This Fall",
+          "link": "https://www.eater.com/cookbooks-eater-at-home/985529/fall-2026-best-new-cookbook-preview",
+          "desc": "We have reached that time of year again. Every good tomato suddenly prompts the pondering: Will this be the last one for the season? The heat begins t",
+          "title_ko": "이번 가을부터 요리하고 싶은 12가지 새로운 요리책",
+          "title_ja": "今年の秋から待ちきれない料理を作る12冊の新作クックブック",
+          "title_zh": "我们迫不及待地想从今年秋天开始烹饪的12本新烹饪书"
+        },
+        {
           "title": "The Ultimate Gift Guide for Home Cooks",
           "link": "https://www.eater.com/23969820/best-cooking-gifts-kitchen-tools-appliances",
           "desc": "When it comes to finding gifts for people who love to cook, I stand by a simple gift shopping mantra: Know what your giftee likes, and then expand upo",
@@ -110,14 +118,6 @@
           "title_ko": "내 음식 훔치기 여행 일정: 북부 뉴욕의 긴 주말",
           "title_ja": "スティール・マイ・フードの旅程：ニューヨーク州北部での長い週末",
           "title_zh": "偷走我的美食行程：在纽约州北部度过漫长的周末"
-        },
-        {
-          "title": "It’s Time to Take Ranch Dressing Seriously",
-          "link": "https://www.eater.com/dining-out/984279/ranch-dressing-history-world-cup-fine-dining",
-          "desc": "You can tell a lot about someone by the way they talk about ranch dressing. Do they express Midwestern passion for the condiment, or coastal-elite dis",
-          "title_ko": "목장 드레싱을 진지하게 받아들여야 할 때입니다",
-          "title_ja": "牧場でドレッシングを真剣に楽しもう",
-          "title_zh": "是时候认真对待牧场敷料了"
         }
       ]
     }
@@ -196,20 +196,20 @@
           "title_zh": "在线购买更多节日礼品和食品，最好是少量……消费更多"
         },
         {
+          "title": "(주)신세계푸드 (정정)주주총회소집결의",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43clVpcmdCT3I2MEhuWXZfcEJtUzhOS25LTlRLbHdkRHJfd1FkMGdQUEEyMkxhQk83ek9IUnVraG5ZU1puaHFWcGtfdUFMSndJbHdESXNZZldKZ1U?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Food Co., Ltd. (Correction) Meeting of Shareholders",
+          "title_ja": "新世界食品（訂正）株主総会",
+          "title_zh": "新世界食品股份有限公司（更正）股东会"
+        },
+        {
           "title": "차세대 'K푸드 월드스타' 찾는다",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03bm5IcXI2VjYxVDJwcUJFZnJnS3lVMVJkdllJWmdZWXhURFJlRWZKQ2gtX3dhTTVXYVJ4b2paNk1JejM0bF9SUEdsTW9pUzY4YWFaN2Vn?oc=5",
           "desc": "",
           "title_en": "Look for the next generation of 'K-Food World Star'",
           "title_ja": "次世代の「K - Food World Star」を探す",
           "title_zh": "寻找下一代“K-Food世界之星”"
-        },
-        {
-          "title": "“썩은 음식 팔란 말인가”…여수박람회 상인들, 전기끊겨 철수하기도",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NNjU2ZlNjdVQtRGFfdERaMkxhV2xuampQTlFUbmRxUHQzQ1pkTWQxbWRZWmhCYnhDaXNiY2hrYXJFSWFmbkpvU19KUjV0bWpkazFfeA?oc=5",
-          "desc": "",
-          "title_en": "“Selling rotten food” … Yeosu Fair Merchants Withdraw Electricity",
-          "title_ja": "「腐った食べ物を売る」…麗水フェアマーチャントが電気を引き出す",
-          "title_zh": "“卖腐烂的食物” ……丽水博览会商家退出电力"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "记住这种营养“组合”以增加新陈代谢"
         },
         {
-          "title": "“알렉산드리아 1호점 시작”…투썸플레이스 美 진출",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DcEttVFhKR0ltS2xRUzFHT21yOUo0Y0ZiZ1d6MUJLY3BONXJDS3pkenhoRjlBVEI4VG1YQjJKMUdCYTBNQW1Ib2czWDc3XzV0ejhGUmlDNA?oc=5",
+          "title": "최대 55% 저렴하게…샘표 ‘추석 기획전’ 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95WmN3WlNSWGdzREZYMExBU09sZk1pZl9YeGZkbF9TVW03Wk9lTXptUWJTV0trRXhndE16c2ZvT2dTNUhpMnRSM1lTQTFCdlZGazFrSGhOTQ?oc=5",
           "desc": "",
-          "title_en": "“Start of Alexandria 1st store” … Entering Twosome Place USA",
-          "title_ja": "「アレクサンドリア1号店開店」… Twosome Place USA入店",
-          "title_zh": "“亚历山大港第一家商店开业” ……进入美国Twosome Place"
+          "title_en": "Up to 55% cheaper… Sampyo opens‘ Korean Thanksgiving Exhibition ’",
+          "title_ja": "最大55 ％安い… Sampyoが「韓国の感謝祭展示会」を開きます",
+          "title_zh": "最多便宜55% …… Sampyo开设了“韩国感恩节展览”"
         }
       ]
     }
