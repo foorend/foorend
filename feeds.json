@@ -1,100 +1,33 @@
 {
-  "lastUpdated": "2026-09-11T15:59:17Z",
+  "lastUpdated": "2026-09-11T20:34:21Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "Proposed bill would end restaurant purchases with food stamps",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWU1RclEtQUMwVENGZnd0TFVhWWQ5QjJabFlGLVR5Y0pfLVVFUjFodUtJTWhEUGRNcWhhZlhMaThCVm1mandSQ0VyTjMzRFZtV2xBaWVuU1Q5NThBZ1J2aUVDVGRXY0lfbExDZTA1bmZuSWRpdUQ3MlF5bWxwT3V5Q3U4bDljSm1kdmJBQng2aHFUSEFSek8tZWdST254TllHbE9Tbm8zaw?oc=5",
-          "desc": "",
-          "title_ko": "제안된 법안은 푸드 스탬프로 레스토랑 구매를 종료합니다",
-          "title_ja": "提案された法案は、フードスタンプでレストランの購入を終了する",
-          "title_zh": "拟议的法案将通过食品券结束餐厅购物"
-        },
-        {
-          "title": "A look at 2 years of massive changes at Starbucks",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWNRbG9GaGhFcFAxV1lpUmotamNUTFlqZUZyUVQ4NnhReXdiOGJMWTY1NncxcWhTa2MwUTVTUzBOS1VxTUNrVFhCNXE5alVGN09scnR0akpHQXB0NjdqZ2I0N18taHpPNElWbXNaMi1FNlNlYjJPMGNxMVpadWxybDFyOXJEZjZoZVpYVkVR?oc=5",
-          "desc": "",
-          "title_ko": "스타벅스의 2년간의 대대적인 변화 살펴보기",
-          "title_ja": "スターバックスでの2年間の大きな変化を見てみましょう",
-          "title_zh": "看看星巴克2年来的巨大变化"
-        },
-        {
-          "title": "Walmart makes a bold play for restaurant delivery",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFJxc0FWVkVtTURTZEpOcGVNb2ZOZFNiME1kWGllbjJ5cGZTWVF4Z3JzT1Y5bEtkM1pLM0t0bkxLZDVJU194bzEzS3JneTJMMmRLWXgwdDUzelF1Vjd5SlBlQ1Bpc2FrXzlrejFvanhzcnliaUtRWjBPaG15eTNROXlTTmRrQ3IydnFndE5PRHZFdzkzenc?oc=5",
-          "desc": "",
-          "title_ko": "월마트는 레스토랑 배달을 위해 대담한 플레이를 펼칩니다.",
-          "title_ja": "ウォルマートはレストランの配達に大胆に取り組んでいます",
-          "title_zh": "沃尔玛大胆推出餐厅派送服务"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": [
-        {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
-          "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOENiSW9IR2xIaG9BNkhpYnhEWTNmNVQ1VEhkXzh4a2Z3bWZ5a1UwSDY1Q1RUU0pPZUV2WDZBazJHSUNnTVNuWE02VlZLYVY0RTNGWVpmVl9PWjVrYUpNLXBrM0JMMWlrblZVanlYWEhzdFBycVp6Sml4R2NrTTd0MTJtejNZZw?oc=5",
-          "desc": "",
-          "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
-          "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
-          "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        }
-      ]
+      "items": []
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": [
-        {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
-          "desc": "",
-          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
-          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
-          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
-          "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
-        }
-      ]
+      "items": []
     },
     "eater": {
       "label": "Eater",
       "site": "https://www.eater.com/trends",
       "items": [
+        {
+          "title": "The 12 Essential Kitchen Tools for Beginners, According to Cooking Instructors",
+          "link": "https://www.eater.com/24254397/best-kitchen-tools-utensils-beginner-cooks-essential",
+          "desc": "Every time I see a meat tenderizer, I think of my mother. Specifically of the way in which she, as someone wary of emotional vulnerability yet full of",
+          "title_ko": "요리 강사가 알려주는 초보자를 위한 12가지 필수 주방 도구",
+          "title_ja": "クッキングインストラクターが教える、初心者に欠かせないキッチン用具12選",
+          "title_zh": "烹饪教练讲解的12种初学者必备厨房工具"
+        },
         {
           "title": "The 12 New Cookbooks We Can’t Wait to Cook From This Fall",
           "link": "https://www.eater.com/cookbooks-eater-at-home/985529/fall-2026-best-new-cookbook-preview",
@@ -110,14 +43,6 @@
           "title_ko": "가정 요리사를 위한 최고의 선물 가이드",
           "title_ja": "家庭料理のための究極のギフトガイド",
           "title_zh": "家庭烹饪终极礼品指南"
-        },
-        {
-          "title": "Steal My Food Itinerary: A Long Weekend in Upstate New York",
-          "link": "https://www.eater.com/dining-out/984656/steal-my-food-itinerary-upstate-new-york",
-          "desc": "I love New York City in the summer, especially this past one, but I grew up in the shadow of the Rocky Mountains. I’m in my late 20s, I rock climb, an",
-          "title_ko": "내 음식 훔치기 여행 일정: 북부 뉴욕의 긴 주말",
-          "title_ja": "スティール・マイ・フードの旅程：ニューヨーク州北部での長い週末",
-          "title_zh": "偷走我的美食行程：在纽约州北部度过漫长的周末"
         }
       ]
     }
@@ -126,122 +51,22 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "“이 정도일 줄은” 5년 새 45% 뛴 공항 음식값",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeVlRZEpPU01DdGZFNHNkdm5zQU0wYVduSEZBaUlGSDRFQjBCdjkxX3BPai13Z1ZrczZpUmVrT2Q2UTk5Tk41b1dNbkx2eXdlbzVoMmt5QUhXcTlXQlRIakZEZHVmVjZCbXhWRg?oc=5",
-          "desc": "",
-          "title_en": "Airport food prices jumped 45% in 5 years “I don't know how much”",
-          "title_ja": "空港の食料品の価格が5年間で45 ％上昇した「いくらかわからない」",
-          "title_zh": "机场食品价格在5年内上涨了45 ％ “我不知道多少钱”"
-        },
-        {
-          "title": "\"배달은 안 한다\"더니…1년 새 6000곳 문 닫은 식당 정체가",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSE5mUEJMV0YyQVNJQ3ozdzAwZURBS2tPa09CT1RibkZtZ1JYRlJJZjlFYkFSS0Q0SlVhWXJqeUtQN05Oc0VacFREUE1CZ2FTZkVreC1IczJVdw?oc=5",
-          "desc": "",
-          "title_en": "\"I don't deliver,\" so... 6000 restaurants closed in a year",
-          "title_ja": "「配達しない」ということで、1年で6000軒のレストランが閉店しました",
-          "title_zh": "“我不提供派送服务” ，所以……一年内有6000家餐厅关闭"
-        },
-        {
-          "title": "K푸드, 중동서 인기 폭발…지난해 라면 수출 22% 증가",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNFRRMzNsbk95ckVUTl9NeGNiTTFqR21lZi1yNkxNQ1VfZlVvNWQ1eTV1eUx1SExtODVCajFNYnNTaUlabXFFYVJGeWtBYTcyWUpWd0t2ZV9RN3RmNWVwbW9pbnh4M0JmOTZndE5EdEtmbFRHQnhNTTVjMHhhd1E?oc=5",
-          "desc": "",
-          "title_en": "K-Food Explodes in the Middle East… Ramen Exports Increased 22% Last Year",
-          "title_ja": "K - Foodが中東で爆発…昨年のラーメン輸出は22 ％増加",
-          "title_zh": "K-Food在中东爆发…拉面出口去年增长22%"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": [
-        {
-          "title": "“벌레 나왔다” 10만원 전액 환불해 줬는데…돌아온 건 다 먹은 음식과 쓰레기",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ca1REOWVGNFNLbnQyM1R3MWRwOV90ZkE1MllLZEtrQjVoMElOLUdUMVJUZGxQU2FNMWlDcWIxLXRjTkM3ZHc1cmJhaklmM1FkcVHSAVNBVV95cUxNbFdqOF9UVW83czFUOXphRzZGRjlXOW5BVmJlZVJfb0lOVFRqaFExSEx1RE0wemxFM2ZXd0lFVFRLZlp6OFpOc2NNNGluTXNvR1E1QQ?oc=5",
-          "desc": "",
-          "title_en": "“Insect came out” I gave him a full refund of 100,000 won... All the food and trash I ate back",
-          "title_ja": "「虫が出てきました」私は彼に100,000ウォンの全額返金をしました...私が食べたすべての食べ物とゴミ",
-          "title_zh": "「虫子出来了」我给了他10万韩元的全额退款……我吃回来的所有食物和垃圾"
-        },
-        {
-          "title": "“저녁 밥상에서 당장 빼라”…고혈압·뇌졸중 위험 쑥 올린다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDNzVtVTB3WXlwNWo1dHJ3SmwxYmtoYjlyX1QxSHZVTGttd2phSFRzcWVNcDZydy1YR2JtVFR1NjRjSUZKY1c2WEVyR3lOT3NkU2fSAVNBVV95cUxNWko0ak5zSGhkNXVHUnFzWmRzMVB6dFI3eXp3bFk3cDEyNkZkQmpZYU5Oejc1cmk4Y3RobmJzQXlvVnVpRHk4WDl3RFAwTzhvbDFYdw?oc=5",
-          "desc": "",
-          "title_en": "“Get off the dinner table right away” … ‘This food‘ raises the risk of high blood pressure and stroke [Healthy time]",
-          "title_ja": "「すぐに食卓から降りてください」…「この食べ物」は高血圧や脳卒中のリスクを高めます[ヘルシータイム]",
-          "title_zh": "“立即离开餐桌” …… “这种食物”会增加高血压和中风的风险[健康时间]"
-        },
-        {
-          "title": "야장부터 미술·세계음식까지…서울 골목상권 10곳서 가을축제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56cDItWk1la2JpQ0RGM21mSXRja281U3BZZWFYdWlfTEJIb3RCdTNwZDJyZ3R3ZnQwZmhGRTNsdTRNeGZ1X1lWaHk2U04xQmRXNVHSAVNBVV95cUxNOEJPSC1fZktNRUFuUmItazNhZ1V2RzVPSXVQc2J3UG5HTFVQcXlyTVBaM29JV09BQzVQVFVYTWtTcW84NmZEXzlhUkxWSTlPSFhVUQ?oc=5",
-          "desc": "",
-          "title_en": "From nightlife to art and world food… Autumn Festival in 10 Seoul Alley Shopping Spheres",
-          "title_ja": "ナイトライフからアート、世界の食べ物まで、ソウル路地のショッピングスフィア10か所で秋のフェスティバルを楽しもう",
-          "title_zh": "从夜生活到艺术和世界美食…… 10个首尔小巷购物圈的秋季节"
-        }
-      ]
+      "items": []
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": [
-        {
-          "title": "“오늘부터 키오스크 당장 치웁니다”…美 패스트푸드, 다시 사람 쓰는 이유는",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1leDNYRElYeENHSTNXeUtMU3lTMHE5cVVDQ0E1NDk3cThSSDhTYVZMaHdJemI0VUFDZnhQSVNhR3pGZFJaTHB2NUlUWkN1Vl9hcWc?oc=5",
-          "desc": "",
-          "title_en": "“Remove the kiosk from today” … Beauty fast food, the reason for using people again",
-          "title_ja": "「今日からキオスクを取り除く」…美容ファストフード、人々が再び使用する理由",
-          "title_zh": "“从今天起移除信息亭” ……美食快餐，再次使用人的原因"
-        },
-        {
-          "title": "롯데웰푸드, 한글날 100주년 기념 'ABC 한글 한정판' 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83UEtjb250S0RLYTM3X0FNcGl4SVhyRjhkdnByajVyYndmTm1OeHI3YXpIYjdMZE5pdVVqMTJZT0NaakFCUFgwYXc4YmNYcGJtUUE?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Launches' ABC Hangul Limited Edition 'to Celebrate 100 Years of Hangul Day",
-          "title_ja": "ロッテウェルフード、ハングルデー100周年を記念して「ABCハングルリミテッドエディション」を発売",
-          "title_zh": "乐天健康食品推出“ABC韩文限量版” ，庆祝韩文日100周年"
-        },
-        {
-          "title": "명절 선물·음식 온라인 구매 늘고 소량 구매 선호…실속 소비",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNQWZ5N0RueE01ME1yU1FNaWdsVUM2TzJFQi1xdUk0UXlrYkpWYkZpbGtPNjEzNUpHWjZ6TVhIV1NnbWo4NWxKZ3JocjNFTUwwd0E?oc=5",
-          "desc": "",
-          "title_en": "Buy more holiday gifts and food online, preferably in small quantities… Consuming more",
-          "title_ja": "より多くのホリデーギフトや食品をオンラインで購入し、できれば少量を購入します…より多くを消費します",
-          "title_zh": "在线购买更多节日礼品和食品，最好是少量……消费更多"
-        }
-      ]
+      "items": []
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "단백질 최강 스테이크는 소고기 아닌 ‘이것’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LcTczR2swazdPdGRJUjJDbC10cDd3clNHeHZmanZLUXpzbV9zOGZYTVRURjAtTmVRV2o2aHByTG41NDZLQlkzTl9zUV94V2ttdUJhdmFmQQ?oc=5",
-          "desc": "",
-          "title_en": "The strongest protein steak is‘ this‘, not beef",
-          "title_ja": "最強のタンパク質ステーキは、牛肉ではなく「これ」です",
-          "title_zh": "最强的蛋白质牛排是“this” ，而不是牛肉"
-        },
-        {
-          "title": "“크런치하게 터지는 초콜릿”…허쉬와 협업한 설빙 신메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94c1lZVEc3YXZoRFFfRjNzS2E4QjNxekdDeXhHUTQ5b05fNGtlQ3ZTQmltNUZHZHNxNVN5MDdvelB5MW5oTi14ako5Rm41WkNRdGJHdkl4TQ?oc=5",
-          "desc": "",
-          "title_en": "“Chocolate bursting with crunch” … New menu for snowing in collaboration with Hershey",
-          "title_ja": "「チョコレートがクランチではじける」…ハーシーとのコラボレーションによる雪のための新メニュー",
-          "title_zh": "“巧克力爆脆” …与好时合作推出下雪新菜单"
-        },
-        {
-          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
-          "desc": "",
-          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
-          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
-          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
