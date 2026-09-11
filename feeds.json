@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T03:22:49Z",
+  "lastUpdated": "2026-09-11T10:43:46Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "拟议的法案将通过食品券结束餐厅购物"
         },
         {
-          "title": "O'Charley's closes 18 restaurants in one day as sales struggle",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXg4MTZnX3kxa1Y4X01tT0otbDhXTnJ2VUwyYXFGOEw3ZExnQU5zSkxTU1dpNXB5N09SeHV3X2RyakpzU2pXXzRvck4xTUVPQUphQ3hnTWk2RW0ySXhLMzVMcldTT3FOcVBveGdyUnZJT28xV2s1dFU3ekJWanBLVHJGOWZieVNuYUVGYm5DQmtzZjhPVjJBYW92LXkwbUpBSE1B?oc=5",
-          "desc": "",
-          "title_ko": "O'Charley 's는 영업 투쟁으로 하루 동안 18개의 레스토랑을 닫습니다",
-          "title_ja": "O'Charley'sは、販売に苦労しているため、1日で18のレストランを閉鎖します",
-          "title_zh": "由于销售困难， O'Charley's在一天内关闭了18家餐厅"
-        },
-        {
           "title": "Walmart makes a bold play for restaurant delivery",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFJxc0FWVkVtTURTZEpOcGVNb2ZOZFNiME1kWGllbjJ5cGZTWVF4Z3JzT1Y5bEtkM1pLM0t0bkxLZDVJU194bzEzS3JneTJMMmRLWXgwdDUzelF1Vjd5SlBlQ1Bpc2FrXzlrejFvanhzcnliaUtRWjBPaG15eTNROXlTTmRrQ3IydnFndE5PRHZFdzkzenc?oc=5",
           "desc": "",
           "title_ko": "월마트는 레스토랑 배달을 위해 대담한 플레이를 펼칩니다.",
           "title_ja": "ウォルマートはレストランの配達に大胆に取り組んでいます",
           "title_zh": "沃尔玛大胆推出餐厅派送服务"
+        },
+        {
+          "title": "Owner raises $240M for 'AI-native' restaurant tech",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmh5czlULWxodzVpUjBMY3pnSC1STXlOZkNlWjBXWnd5Qk0wZ2VyN21SaDItRVlud0R4ZTROQ1NRS0RXTUs2eDJnSVNuVDZnQ1dmWUtPTEp1ak04WWdKb2tzd3MwbVFVZUN6TEJBcHRraHRRNDJ3SHdYb0w2SHJsY0ozdTFSRTNYTUNKRGtnUVdjY0ZxV1E?oc=5",
+          "desc": "",
+          "title_ko": "오너, 'AI 네이티브' 레스토랑 기술로 $ 240M 모금",
+          "title_ja": "オーナーが「AIネイティブ」レストラン技術のために2億4000万$を調達",
+          "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
         }
       ]
     },
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "K푸드 난리라는데…정작 '한식당'은 1년새 6000곳 문 닫았다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSE5mUEJMV0YyQVNJQ3ozdzAwZURBS2tPa09CT1RibkZtZ1JYRlJJZjlFYkFSS0Q0SlVhWXJqeUtQN05Oc0VacFREUE1CZ2FTZkVreC1IczJVdw?oc=5",
-          "desc": "",
-          "title_en": "It's called the K-Food mess... but 'Korean Restaurant' closed 6,000 places in a year.",
-          "title_ja": "K - Foodの混乱と呼ばれていますが、「韓国料理レストラン」は年間6,000店舗を閉鎖しました。",
-          "title_zh": "这被称为K-Food混乱……但「韩国餐厅」一年关闭了6000家餐厅。"
-        },
-        {
           "title": "“이 정도일 줄은” 5년 새 45% 뛴 공항 음식값",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeVlRZEpPU01DdGZFNHNkdm5zQU0wYVduSEZBaUlGSDRFQjBCdjkxX3BPai13Z1ZrczZpUmVrT2Q2UTk5Tk41b1dNbkx2eXdlbzVoMmt5QUhXcTlXQlRIakZEZHVmVjZCbXhWRg?oc=5",
           "desc": "",
@@ -144,12 +136,20 @@
           "title_zh": "机场食品价格在5年内上涨了45 ％ “我不知道多少钱”"
         },
         {
-          "title": "라면에 물 대신 '이것' 넣는다…외국인 K푸드 취향에 '화들짝' [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcG5PeE16d1ZKdVpMU0htcmg0bFducDNlU2tlV3pISFoweDc5cU1xaF8zeVcwOF9VNjl5ODUzYkdOWlA3bl80VkRaMEdicnlUaVJmV0k0ZHhMcjR6ZS1HWlJLa0duS2lHbmZmMEFDR3lYcDRubVJXS2VUckhRQkt0TTBmQ0REWVU?oc=5",
+          "title": "K푸드, 중동서 인기 폭발…지난해 라면 수출 22% 증가",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNFRRMzNsbk95ckVUTl9NeGNiTTFqR21lZi1yNkxNQ1VfZlVvNWQ1eTV1eUx1SExtODVCajFNYnNTaUlabXFFYVJGeWtBYTcyWUpWd0t2ZV9RN3RmNWVwbW9pbnh4M0JmOTZndE5EdEtmbFRHQnhNTTVjMHhhd1E?oc=5",
           "desc": "",
-          "title_en": "Add 'this' instead of water to the ramen... 'this' to the taste of foreign K-foods [Trend +]",
-          "title_ja": "ラーメンに水の代わりに「これ」を加える…外国のKフードの味に「これ」を加える[トレンド+]",
-          "title_zh": "在拉面中添加“this”而不是水…… “this”来品尝外国K-foods的味道[趋势+]"
+          "title_en": "K-Food Explodes in the Middle East… Ramen Exports Increased 22% Last Year",
+          "title_ja": "K - Foodが中東で爆発…昨年のラーメン輸出は22 ％増加",
+          "title_zh": "K-Food在中东爆发…拉面出口去年增长22%"
+        },
+        {
+          "title": "\"배달은 안 한다\"더니…1년 새 6000곳 문 닫은 식당 정체가",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSE5mUEJMV0YyQVNJQ3ozdzAwZURBS2tPa09CT1RibkZtZ1JYRlJJZjlFYkFSS0Q0SlVhWXJqeUtQN05Oc0VacFREUE1CZ2FTZkVreC1IczJVdw?oc=5",
+          "desc": "",
+          "title_en": "\"I don't deliver,\" so... 6000 restaurants closed in a year",
+          "title_ja": "「配達しない」ということで、1年で6000軒のレストランが閉店しました",
+          "title_zh": "“我不提供派送服务” ，所以……一年内有6000家餐厅关闭"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“저녁 밥상에서 당장 빼라”…고혈압·뇌졸중 위험 쑥 올린다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDNzVtVTB3WXlwNWo1dHJ3SmwxYmtoYjlyX1QxSHZVTGttd2phSFRzcWVNcDZydy1YR2JtVFR1NjRjSUZKY1c2WEVyR3lOT3NkU2fSAVNBVV95cUxNWko0ak5zSGhkNXVHUnFzWmRzMVB6dFI3eXp3bFk3cDEyNkZkQmpZYU5Oejc1cmk4Y3RobmJzQXlvVnVpRHk4WDl3RFAwTzhvbDFYdw?oc=5",
+          "desc": "",
+          "title_en": "“Get off the dinner table right away” … ‘This food‘ raises the risk of high blood pressure and stroke [Healthy time]",
+          "title_ja": "「すぐに食卓から降りてください」…「この食べ物」は高血圧や脳卒中のリスクを高めます[ヘルシータイム]",
+          "title_zh": "“立即离开餐桌” …… “这种食物”会增加高血压和中风的风险[健康时间]"
+        },
         {
           "title": "야장부터 미술·세계음식까지…서울 골목상권 10곳서 가을축제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56cDItWk1la2JpQ0RGM21mSXRja281U3BZZWFYdWlfTEJIb3RCdTNwZDJyZ3R3ZnQwZmhGRTNsdTRNeGZ1X1lWaHk2U04xQmRXNVHSAVNBVV95cUxNOEJPSC1fZktNRUFuUmItazNhZ1V2RzVPSXVQc2J3UG5HTFVQcXlyTVBaM29JV09BQzVQVFVYTWtTcW84NmZEXzlhUkxWSTlPSFhVUQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "'Single-seat · Meeting Room‘ in Gimpo Airport Lounge… Pulmuone Food and Culture Introduces First Premium Model",
           "title_ja": "金浦空港ラウンジ「シングルシート・ミーティングルーム」…プルムオーネフード＆カルチャー初のプレミアムモデル登場",
           "title_zh": "金浦机场休息室的「单座·会议室」… Pulmuone Food and Culture推出首款高级机型"
-        },
-        {
-          "title": "“한국식 너무 맛있잖아” 뭐가 다르길래?…외국인들 줄 서서 먹는 이 음식",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtMUcyck00YXQwaHpFOVd6OVhVX3Uyb1EyYVY2bkU0MVBKNnhkZHphRXhfcW9ZMmE5bHZuQTZiTVI0YnlYVkg3SmRpRFhDakx2U3fSAVNBVV95cUxOcGJwX1VUa1E4TkRUZ2Uwb2d3cV82QzZEU19zYUxrNXpHTlo1RFU3UFA3cktoT0pac0FuN1VocjlYWkhIT1ZKemNoeTdBX0lHUUUycw?oc=5",
-          "desc": "",
-          "title_en": "“Korean food is so good” What's the difference? … this food that foreigners eat in line",
-          "title_ja": "「韓国料理はとてもおいしい」違いは何ですか？ …外国人が並んで食べるこの食べ物",
-          "title_zh": "「韩国菜真好吃」有什么区别？ ……外国人排队吃的这种食物"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“从今天起移除信息亭” ……美食快餐，再次使用人的原因"
         },
         {
-          "title": "키오스크 늘리던 美 패스트푸드, 다시 직원 주문으로 ‘유턴’",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1aNTZNY2RPaHpCamhraURXMUxud0VrRklkVlVwWE1tWWVzME9KbklHekQ1Rm9wbWZfdGNxRUYtM0pOek9HMHc?oc=5",
-          "desc": "",
-          "title_en": "Beauty fast food that used to increase kiosks, ‘U-turn‘ to order staff again",
-          "title_ja": "キオスクを増やしていた美容ファーストフード、スタッフを再度注文する「Uターン」",
-          "title_zh": "曾经增加售货亭的美容快餐， “掉头”再次订购员工"
-        },
-        {
           "title": "롯데웰푸드, 한글날 100주년 기념 'ABC 한글 한정판' 출시",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83UEtjb250S0RLYTM3X0FNcGl4SVhyRjhkdnByajVyYndmTm1OeHI3YXpIYjdMZE5pdVVqMTJZT0NaakFCUFgwYXc4YmNYcGJtUUE?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Launches' ABC Hangul Limited Edition 'to Celebrate 100 Years of Hangul Day",
           "title_ja": "ロッテウェルフード、ハングルデー100周年を記念して「ABCハングルリミテッドエディション」を発売",
           "title_zh": "乐天健康食品推出“ABC韩文限量版” ，庆祝韩文日100周年"
+        },
+        {
+          "title": "명절 선물·음식 온라인 구매 늘고 소량 구매 선호…실속 소비",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNQWZ5N0RueE01ME1yU1FNaWdsVUM2TzJFQi1xdUk0UXlrYkpWYkZpbGtPNjEzNUpHWjZ6TVhIV1NnbWo4NWxKZ3JocjNFTUwwd0E?oc=5",
+          "desc": "",
+          "title_en": "Buy more holiday gifts and food online, preferably in small quantities… Consuming more",
+          "title_ja": "より多くのホリデーギフトや食品をオンラインで購入し、できれば少量を購入します…より多くを消費します",
+          "title_zh": "在线购买更多节日礼品和食品，最好是少量……消费更多"
         }
       ]
     },
