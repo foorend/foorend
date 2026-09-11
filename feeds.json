@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T10:43:46Z",
+  "lastUpdated": "2026-09-11T15:59:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "拟议的法案将通过食品券结束餐厅购物"
         },
         {
+          "title": "A look at 2 years of massive changes at Starbucks",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWNRbG9GaGhFcFAxV1lpUmotamNUTFlqZUZyUVQ4NnhReXdiOGJMWTY1NncxcWhTa2MwUTVTUzBOS1VxTUNrVFhCNXE5alVGN09scnR0akpHQXB0NjdqZ2I0N18taHpPNElWbXNaMi1FNlNlYjJPMGNxMVpadWxybDFyOXJEZjZoZVpYVkVR?oc=5",
+          "desc": "",
+          "title_ko": "스타벅스의 2년간의 대대적인 변화 살펴보기",
+          "title_ja": "スターバックスでの2年間の大きな変化を見てみましょう",
+          "title_zh": "看看星巴克2年来的巨大变化"
+        },
+        {
           "title": "Walmart makes a bold play for restaurant delivery",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFJxc0FWVkVtTURTZEpOcGVNb2ZOZFNiME1kWGllbjJ5cGZTWVF4Z3JzT1Y5bEtkM1pLM0t0bkxLZDVJU194bzEzS3JneTJMMmRLWXgwdDUzelF1Vjd5SlBlQ1Bpc2FrXzlrejFvanhzcnliaUtRWjBPaG15eTNROXlTTmRrQ3IydnFndE5PRHZFdzkzenc?oc=5",
           "desc": "",
           "title_ko": "월마트는 레스토랑 배달을 위해 대담한 플레이를 펼칩니다.",
           "title_ja": "ウォルマートはレストランの配達に大胆に取り組んでいます",
           "title_zh": "沃尔玛大胆推出餐厅派送服务"
-        },
-        {
-          "title": "Owner raises $240M for 'AI-native' restaurant tech",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmh5czlULWxodzVpUjBMY3pnSC1STXlOZkNlWjBXWnd5Qk0wZ2VyN21SaDItRVlud0R4ZTROQ1NRS0RXTUs2eDJnSVNuVDZnQ1dmWUtPTEp1ak04WWdKb2tzd3MwbVFVZUN6TEJBcHRraHRRNDJ3SHdYb0w2SHJsY0ozdTFSRTNYTUNKRGtnUVdjY0ZxV1E?oc=5",
-          "desc": "",
-          "title_ko": "오너, 'AI 네이티브' 레스토랑 기술로 $ 240M 모금",
-          "title_ja": "オーナーが「AIネイティブ」レストラン技術のために2億4000万$を調達",
-          "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "机场食品价格在5年内上涨了45 ％ “我不知道多少钱”"
         },
         {
-          "title": "K푸드, 중동서 인기 폭발…지난해 라면 수출 22% 증가",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNFRRMzNsbk95ckVUTl9NeGNiTTFqR21lZi1yNkxNQ1VfZlVvNWQ1eTV1eUx1SExtODVCajFNYnNTaUlabXFFYVJGeWtBYTcyWUpWd0t2ZV9RN3RmNWVwbW9pbnh4M0JmOTZndE5EdEtmbFRHQnhNTTVjMHhhd1E?oc=5",
-          "desc": "",
-          "title_en": "K-Food Explodes in the Middle East… Ramen Exports Increased 22% Last Year",
-          "title_ja": "K - Foodが中東で爆発…昨年のラーメン輸出は22 ％増加",
-          "title_zh": "K-Food在中东爆发…拉面出口去年增长22%"
-        },
-        {
           "title": "\"배달은 안 한다\"더니…1년 새 6000곳 문 닫은 식당 정체가",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSE5mUEJMV0YyQVNJQ3ozdzAwZURBS2tPa09CT1RibkZtZ1JYRlJJZjlFYkFSS0Q0SlVhWXJqeUtQN05Oc0VacFREUE1CZ2FTZkVreC1IczJVdw?oc=5",
           "desc": "",
           "title_en": "\"I don't deliver,\" so... 6000 restaurants closed in a year",
           "title_ja": "「配達しない」ということで、1年で6000軒のレストランが閉店しました",
           "title_zh": "“我不提供派送服务” ，所以……一年内有6000家餐厅关闭"
+        },
+        {
+          "title": "K푸드, 중동서 인기 폭발…지난해 라면 수출 22% 증가",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNFRRMzNsbk95ckVUTl9NeGNiTTFqR21lZi1yNkxNQ1VfZlVvNWQ1eTV1eUx1SExtODVCajFNYnNTaUlabXFFYVJGeWtBYTcyWUpWd0t2ZV9RN3RmNWVwbW9pbnh4M0JmOTZndE5EdEtmbFRHQnhNTTVjMHhhd1E?oc=5",
+          "desc": "",
+          "title_en": "K-Food Explodes in the Middle East… Ramen Exports Increased 22% Last Year",
+          "title_ja": "K - Foodが中東で爆発…昨年のラーメン輸出は22 ％増加",
+          "title_zh": "K-Food在中东爆发…拉面出口去年增长22%"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“벌레 나왔다” 10만원 전액 환불해 줬는데…돌아온 건 다 먹은 음식과 쓰레기",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ca1REOWVGNFNLbnQyM1R3MWRwOV90ZkE1MllLZEtrQjVoMElOLUdUMVJUZGxQU2FNMWlDcWIxLXRjTkM3ZHc1cmJhaklmM1FkcVHSAVNBVV95cUxNbFdqOF9UVW83czFUOXphRzZGRjlXOW5BVmJlZVJfb0lOVFRqaFExSEx1RE0wemxFM2ZXd0lFVFRLZlp6OFpOc2NNNGluTXNvR1E1QQ?oc=5",
+          "desc": "",
+          "title_en": "“Insect came out” I gave him a full refund of 100,000 won... All the food and trash I ate back",
+          "title_ja": "「虫が出てきました」私は彼に100,000ウォンの全額返金をしました...私が食べたすべての食べ物とゴミ",
+          "title_zh": "「虫子出来了」我给了他10万韩元的全额退款……我吃回来的所有食物和垃圾"
+        },
         {
           "title": "“저녁 밥상에서 당장 빼라”…고혈압·뇌졸중 위험 쑥 올린다는 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDNzVtVTB3WXlwNWo1dHJ3SmwxYmtoYjlyX1QxSHZVTGttd2phSFRzcWVNcDZydy1YR2JtVFR1NjRjSUZKY1c2WEVyR3lOT3NkU2fSAVNBVV95cUxNWko0ak5zSGhkNXVHUnFzWmRzMVB6dFI3eXp3bFk3cDEyNkZkQmpZYU5Oejc1cmk4Y3RobmJzQXlvVnVpRHk4WDl3RFAwTzhvbDFYdw?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "From nightlife to art and world food… Autumn Festival in 10 Seoul Alley Shopping Spheres",
           "title_ja": "ナイトライフからアート、世界の食べ物まで、ソウル路地のショッピングスフィア10か所で秋のフェスティバルを楽しもう",
           "title_zh": "从夜生活到艺术和世界美食…… 10个首尔小巷购物圈的秋季节"
-        },
-        {
-          "title": "김포공항 라운지에 ‘1인석·미팅룸’…풀무원푸드앤컬처, 프리미엄 모델 첫 도입",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zaUx0OW02T0RmXzhJSy05aWZPRUYwQkNSV2JzZ1kySGJEWDJIS1FkZGpXVXZCNXB6aWlCYm5Hc1dFenlOSVNyTl9FOF9qVjU0SlHSAVNBVV95cUxOeVdmVlBVeUNBVk1mSWZ4V1BreU9SRy1nM2dYb0ZnZGxsbVR1ZWY1VHN5NWJsdFUyMDJQcWduQVVlWmdVYllUbXg3RTBsdWVEYS1vNA?oc=5",
-          "desc": "",
-          "title_en": "'Single-seat · Meeting Room‘ in Gimpo Airport Lounge… Pulmuone Food and Culture Introduces First Premium Model",
-          "title_ja": "金浦空港ラウンジ「シングルシート・ミーティングルーム」…プルムオーネフード＆カルチャー初のプレミアムモデル登場",
-          "title_zh": "金浦机场休息室的「单座·会议室」… Pulmuone Food and Culture推出首款高级机型"
         }
       ]
     },
@@ -226,12 +226,12 @@
           "title_zh": "最强的蛋白质牛排是“this” ，而不是牛肉"
         },
         {
-          "title": "최대 55% 저렴하게…샘표 ‘추석 기획전’ 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95WmN3WlNSWGdzREZYMExBU09sZk1pZl9YeGZkbF9TVW03Wk9lTXptUWJTV0trRXhndE16c2ZvT2dTNUhpMnRSM1lTQTFCdlZGazFrSGhOTQ?oc=5",
+          "title": "“크런치하게 터지는 초콜릿”…허쉬와 협업한 설빙 신메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94c1lZVEc3YXZoRFFfRjNzS2E4QjNxekdDeXhHUTQ5b05fNGtlQ3ZTQmltNUZHZHNxNVN5MDdvelB5MW5oTi14ako5Rm41WkNRdGJHdkl4TQ?oc=5",
           "desc": "",
-          "title_en": "Up to 55% cheaper… Sampyo opens‘ Korean Thanksgiving Exhibition ’",
-          "title_ja": "最大55 ％安い… Sampyoが「韓国の感謝祭展示会」を開きます",
-          "title_zh": "最多便宜55% …… Sampyo开设了“韩国感恩节展览”"
+          "title_en": "“Chocolate bursting with crunch” … New menu for snowing in collaboration with Hershey",
+          "title_ja": "「チョコレートがクランチではじける」…ハーシーとのコラボレーションによる雪のための新メニュー",
+          "title_zh": "“巧克力爆脆” …与好时合作推出下雪新菜单"
         },
         {
           "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
