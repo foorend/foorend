@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T03:28:19Z",
+  "lastUpdated": "2026-09-12T10:13:07Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "“이 정도일 줄은” 5년 새 45% 뛴 공항 음식값",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeVlRZEpPU01DdGZFNHNkdm5zQU0wYVduSEZBaUlGSDRFQjBCdjkxX3BPai13Z1ZrczZpUmVrT2Q2UTk5Tk41b1dNbkx2eXdlbzVoMmt5QUhXcTlXQlRIakZEZHVmVjZCbXhWRg?oc=5",
-          "desc": "",
-          "title_en": "Airport food prices jumped 45% in 5 years “I don't know how much”",
-          "title_ja": "空港の食料品の価格が5年間で45 ％上昇した「いくらかわからない」",
-          "title_zh": "机场食品价格在5年内上涨了45 ％ “我不知道多少钱”"
-        },
-        {
           "title": "원조를 뛰어넘은 K푸드",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iUzgyMmNkclFoTUtWZF9IRk5Wd1cydGQ2THY3N1MyaGVOdHdoWXZNMWhfLXNEMWpzN2xoczdrYzZFZ2xwUW9hUnFqYUJwN0pGZm5mZ3lXdEQ4Q183cTBMcUZHRV82Mlg4VFZ3WUZnX3oxRlRLUzR5TE9WVHdMUjg?oc=5",
           "desc": "",
           "title_en": "K-Food goes above and beyond",
           "title_ja": "K - Foodはそれを超えています",
           "title_zh": "K-Food超越一切"
+        },
+        {
+          "title": "“이 정도일 줄은” 5년 새 45% 뛴 공항 음식값",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeVlRZEpPU01DdGZFNHNkdm5zQU0wYVduSEZBaUlGSDRFQjBCdjkxX3BPai13Z1ZrczZpUmVrT2Q2UTk5Tk41b1dNbkx2eXdlbzVoMmt5QUhXcTlXQlRIakZEZHVmVjZCbXhWRg?oc=5",
+          "desc": "",
+          "title_en": "Airport food prices jumped 45% in 5 years “I don't know how much”",
+          "title_ja": "空港の食料品の価格が5年間で45 ％上昇した「いくらかわからない」",
+          "title_zh": "机场食品价格在5年内上涨了45 ％ “我不知道多少钱”"
         },
         {
           "title": "\"배달은 안 한다\"더니…1년 새 6000곳 문 닫은 식당 정체가",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "한국인들 좋아하는 ‘이 음식’…잘못 먹었다간 ‘치사율 50%’ 감염병 위험 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ram5mX09rQlBjaU1UOXNKV3FLTF9SY3lzY3ZWekFlLXBPb1pVdVJzTmhMd1QtN0lwbVZoSXI1dWowaDdtcmlZWmpzc3plRUE3OVHSAVNBVV95cUxQM3ZyUlhFQm84ajVqcEFCNzktV0ZJckp5OGZxTWRuMmZkMnpMb3MzOTVxck9hZmcyc1Z4Q21haW9pZmJBNmFxMTlwdEYzTkVEamRXMA?oc=5",
+          "desc": "",
+          "title_en": "‘This food‘ liked by Koreans… If you eat wrongly, ‘Mortality rate 50%’ Infectious disease risk [Health time]",
+          "title_ja": "韓国人に好かれている「この食べ物」…誤って食べると、「死亡率50 ％」感染症のリスク【健康時間】",
+          "title_zh": "韩国人喜欢的“这种食物” ……如果你吃错了， “死亡率50%”传染病风险[健康时间]"
+        },
+        {
           "title": "“벌레 나왔다” 10만원 전액 환불해 줬는데…돌아온 건 다 먹은 음식과 쓰레기",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ca1REOWVGNFNLbnQyM1R3MWRwOV90ZkE1MllLZEtrQjVoMElOLUdUMVJUZGxQU2FNMWlDcWIxLXRjTkM3ZHc1cmJhaklmM1FkcVHSAVNBVV95cUxNbFdqOF9UVW83czFUOXphRzZGRjlXOW5BVmJlZVJfb0lOVFRqaFExSEx1RE0wemxFM2ZXd0lFVFRLZlp6OFpOc2NNNGluTXNvR1E1QQ?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "“Get off the dinner table right away” … ‘This food‘ raises the risk of high blood pressure and stroke [Healthy time]",
           "title_ja": "「すぐに食卓から降りてください」…「この食べ物」は高血圧や脳卒中のリスクを高めます[ヘルシータイム]",
           "title_zh": "“立即离开餐桌” …… “这种食物”会增加高血压和中风的风险[健康时间]"
-        },
-        {
-          "title": "“한국식 너무 맛있잖아” 뭐가 다르길래?…외국인들 줄 서서 먹는 이 음식",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtMUcyck00YXQwaHpFOVd6OVhVX3Uyb1EyYVY2bkU0MVBKNnhkZHphRXhfcW9ZMmE5bHZuQTZiTVI0YnlYVkg3SmRpRFhDakx2U3fSAVNBVV95cUxOcGJwX1VUa1E4TkRUZ2Uwb2d3cV82QzZEU19zYUxrNXpHTlo1RFU3UFA3cktoT0pac0FuN1VocjlYWkhIT1ZKemNoeTdBX0lHUUUycw?oc=5",
-          "desc": "",
-          "title_en": "“Korean food is so good” What's the difference? … this food that foreigners eat in line",
-          "title_ja": "「韓国料理はとてもおいしい」違いは何ですか？ …外国人が並んで食べるこの食べ物",
-          "title_zh": "「韩国菜真好吃」有什么区别？ ……外国人排队吃的这种食物"
         }
       ]
     },
@@ -218,20 +218,20 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "단백질 최강 스테이크는 소고기 아닌 ‘이것’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LcTczR2swazdPdGRJUjJDbC10cDd3clNHeHZmanZLUXpzbV9zOGZYTVRURjAtTmVRV2o2aHByTG41NDZLQlkzTl9zUV94V2ttdUJhdmFmQQ?oc=5",
-          "desc": "",
-          "title_en": "The strongest protein steak is‘ this‘, not beef",
-          "title_ja": "最強のタンパク質ステーキは、牛肉ではなく「これ」です",
-          "title_zh": "最强的蛋白质牛排是“this” ，而不是牛肉"
-        },
-        {
           "title": "“크런치하게 터지는 초콜릿”…허쉬와 협업한 설빙 신메뉴",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94c1lZVEc3YXZoRFFfRjNzS2E4QjNxekdDeXhHUTQ5b05fNGtlQ3ZTQmltNUZHZHNxNVN5MDdvelB5MW5oTi14ako5Rm41WkNRdGJHdkl4TQ?oc=5",
           "desc": "",
           "title_en": "“Chocolate bursting with crunch” … New menu for snowing in collaboration with Hershey",
           "title_ja": "「チョコレートがクランチではじける」…ハーシーとのコラボレーションによる雪のための新メニュー",
           "title_zh": "“巧克力爆脆” …与好时合作推出下雪新菜单"
+        },
+        {
+          "title": "최대 55% 저렴하게…샘표 ‘추석 기획전’ 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95WmN3WlNSWGdzREZYMExBU09sZk1pZl9YeGZkbF9TVW03Wk9lTXptUWJTV0trRXhndE16c2ZvT2dTNUhpMnRSM1lTQTFCdlZGazFrSGhOTQ?oc=5",
+          "desc": "",
+          "title_en": "Up to 55% cheaper… Sampyo opens‘ Korean Thanksgiving Exhibition ’",
+          "title_ja": "最大55 ％安い… Sampyoが「韓国の感謝祭展示会」を開きます",
+          "title_zh": "最多便宜55% …… Sampyo开设了“韩国感恩节展览”"
         },
         {
           "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
