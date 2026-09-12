@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T20:15:33Z",
+  "lastUpdated": "2026-09-12T22:51:49Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -174,12 +174,12 @@
           "title_zh": "韩国人喜欢的“这种食物” ……如果你吃错了， “死亡率50%”传染病风险[健康时间]"
         },
         {
-          "title": "“벌레 나왔다” 10만원 전액 환불해 줬는데…돌아온 건 다 먹은 음식과 쓰레기",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ca1REOWVGNFNLbnQyM1R3MWRwOV90ZkE1MllLZEtrQjVoMElOLUdUMVJUZGxQU2FNMWlDcWIxLXRjTkM3ZHc1cmJhaklmM1FkcVHSAVNBVV95cUxNbFdqOF9UVW83czFUOXphRzZGRjlXOW5BVmJlZVJfb0lOVFRqaFExSEx1RE0wemxFM2ZXd0lFVFRLZlp6OFpOc2NNNGluTXNvR1E1QQ?oc=5",
+          "title": "“저녁 밥상에서 당장 빼라”…고혈압·뇌졸중 위험 쑥 올린다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDNzVtVTB3WXlwNWo1dHJ3SmwxYmtoYjlyX1QxSHZVTGttd2phSFRzcWVNcDZydy1YR2JtVFR1NjRjSUZKY1c2WEVyR3lOT3NkU2fSAVNBVV95cUxNWko0ak5zSGhkNXVHUnFzWmRzMVB6dFI3eXp3bFk3cDEyNkZkQmpZYU5Oejc1cmk4Y3RobmJzQXlvVnVpRHk4WDl3RFAwTzhvbDFYdw?oc=5",
           "desc": "",
-          "title_en": "“Insect came out” I gave him a full refund of 100,000 won... All the food and trash I ate back",
-          "title_ja": "「虫が出てきました」私は彼に100,000ウォンの全額返金をしました...私が食べたすべての食べ物とゴミ",
-          "title_zh": "「虫子出来了」我给了他10万韩元的全额退款……我吃回来的所有食物和垃圾"
+          "title_en": "“Get off the dinner table right away” … ‘This food‘ raises the risk of high blood pressure and stroke [Healthy time]",
+          "title_ja": "「すぐに食卓から降りてください」…「この食べ物」は高血圧や脳卒中のリスクを高めます[ヘルシータイム]",
+          "title_zh": "“立即离开餐桌” …… “这种食物”会增加高血压和中风的风险[健康时间]"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "“크런치하게 터지는 초콜릿”…허쉬와 협업한 설빙 신메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94c1lZVEc3YXZoRFFfRjNzS2E4QjNxekdDeXhHUTQ5b05fNGtlQ3ZTQmltNUZHZHNxNVN5MDdvelB5MW5oTi14ako5Rm41WkNRdGJHdkl4TQ?oc=5",
-          "desc": "",
-          "title_en": "“Chocolate bursting with crunch” … New menu for snowing in collaboration with Hershey",
-          "title_ja": "「チョコレートがクランチではじける」…ハーシーとのコラボレーションによる雪のための新メニュー",
-          "title_zh": "“巧克力爆脆” …与好时合作推出下雪新菜单"
-        },
-        {
           "title": "최대 55% 저렴하게…샘표 ‘추석 기획전’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95WmN3WlNSWGdzREZYMExBU09sZk1pZl9YeGZkbF9TVW03Wk9lTXptUWJTV0trRXhndE16c2ZvT2dTNUhpMnRSM1lTQTFCdlZGazFrSGhOTQ?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
           "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
           "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
+        },
+        {
+          "title": "한류 강한 브라질, 음식으로 소비 확산",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mc2dhcC10UE9WbDlqNVZjWVFyTVVXM3h4MnRTbkJMMlk4U2hGWUExNHV3RlZoOGNGYXJmVEVoT1N1aDFzcnV2SVZUeGFrZTdsWnBwU2JlUQ?oc=5",
+          "desc": "",
+          "title_en": "Brazil, strong in Hallyu, spreads consumption to food",
+          "title_ja": "ハリウで強いブラジル、消費を食品に広げる",
+          "title_zh": "在Hallyu强劲的巴西将消费扩展到食品"
         }
       ]
     }
