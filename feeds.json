@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T10:13:07Z",
+  "lastUpdated": "2026-09-12T15:07:20Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“채소 듬뿍이라 안심했는데”…건강식인 줄 알았던 ‘이 음식’, 췌장 망가뜨릴 수도 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QY2ZibFJRZ3FJWWJCUGdZUEpGUm8zNk5USzgtOHRlMlNiT2t5dTd4dEY3X3daaUppS1gyZ3BwOE1QeWdRdUNIQkVxejZyczJCYnfSAVNBVV95cUxObHZkRTFzODIwWlJRTC1yejBsS1RhZ0ozYnI3blVmY1NCRVB0aFAtR0ppSzZZVmQ2SzB1WHBJWnp2d2RrZEdZQ3E0THhyLVplck9LOA?oc=5",
+          "desc": "",
+          "title_en": "“I was relieved that there were plenty of vegetables” … ‘This food‘, which I thought was a healthy food, could ruin my pancreas [heal time]",
+          "title_ja": "「野菜がたっぷりあってほっとしました」…健康的な食べ物だと思っていた「この食べ物」が膵臓を台無しにしてしまう【ヒールタイム】",
+          "title_zh": "“我松了一口气，因为有足够的蔬菜” …… ‘这种食物‘ ，我认为这是一种健康的食物，可能会破坏我的胰腺[治愈时间]"
+        },
+        {
           "title": "한국인들 좋아하는 ‘이 음식’…잘못 먹었다간 ‘치사율 50%’ 감염병 위험 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ram5mX09rQlBjaU1UOXNKV3FLTF9SY3lzY3ZWekFlLXBPb1pVdVJzTmhMd1QtN0lwbVZoSXI1dWowaDdtcmlZWmpzc3plRUE3OVHSAVNBVV95cUxQM3ZyUlhFQm84ajVqcEFCNzktV0ZJckp5OGZxTWRuMmZkMnpMb3MzOTVxck9hZmcyc1Z4Q21haW9pZmJBNmFxMTlwdEYzTkVEamRXMA?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "“Insect came out” I gave him a full refund of 100,000 won... All the food and trash I ate back",
           "title_ja": "「虫が出てきました」私は彼に100,000ウォンの全額返金をしました...私が食べたすべての食べ物とゴミ",
           "title_zh": "「虫子出来了」我给了他10万韩元的全额退款……我吃回来的所有食物和垃圾"
-        },
-        {
-          "title": "“저녁 밥상에서 당장 빼라”…고혈압·뇌졸중 위험 쑥 올린다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDNzVtVTB3WXlwNWo1dHJ3SmwxYmtoYjlyX1QxSHZVTGttd2phSFRzcWVNcDZydy1YR2JtVFR1NjRjSUZKY1c2WEVyR3lOT3NkU2fSAVNBVV95cUxNWko0ak5zSGhkNXVHUnFzWmRzMVB6dFI3eXp3bFk3cDEyNkZkQmpZYU5Oejc1cmk4Y3RobmJzQXlvVnVpRHk4WDl3RFAwTzhvbDFYdw?oc=5",
-          "desc": "",
-          "title_en": "“Get off the dinner table right away” … ‘This food‘ raises the risk of high blood pressure and stroke [Healthy time]",
-          "title_ja": "「すぐに食卓から降りてください」…「この食べ物」は高血圧や脳卒中のリスクを高めます[ヘルシータイム]",
-          "title_zh": "“立即离开餐桌” …… “这种食物”会增加高血压和中风的风险[健康时间]"
         }
       ]
     },
