@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T22:51:49Z",
+  "lastUpdated": "2026-09-13T03:34:20Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,20 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "“오늘부터 키오스크 당장 치웁니다”…美 패스트푸드, 다시 사람 쓰는 이유는",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1leDNYRElYeENHSTNXeUtMU3lTMHE5cVVDQ0E1NDk3cThSSDhTYVZMaHdJemI0VUFDZnhQSVNhR3pGZFJaTHB2NUlUWkN1Vl9hcWc?oc=5",
+          "title": "배민, 한강 드론라이트쇼서 지역 맛집 소개 부스·푸드트럭 운영",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yc2lNcGV1VUtBTkZSWkREci1zZjgxR0VzRkJwb0N1blRXVmVybmJsbVhtaVBaX25GaGVXb2dPMmtLWGx2V0hxQm4ybjFUV1RULVE?oc=5",
           "desc": "",
-          "title_en": "“Remove the kiosk from today” … Beauty fast food, the reason for using people again",
-          "title_ja": "「今日からキオスクを取り除く」…美容ファストフード、人々が再び使用する理由",
-          "title_zh": "“从今天起移除信息亭” ……美食快餐，再次使用人的原因"
-        },
-        {
-          "title": "롯데웰푸드, 한글날 100주년 기념 'ABC 한글 한정판' 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83UEtjb250S0RLYTM3X0FNcGl4SVhyRjhkdnByajVyYndmTm1OeHI3YXpIYjdMZE5pdVVqMTJZT0NaakFCUFgwYXc4YmNYcGJtUUE?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Launches' ABC Hangul Limited Edition 'to Celebrate 100 Years of Hangul Day",
-          "title_ja": "ロッテウェルフード、ハングルデー100周年を記念して「ABCハングルリミテッドエディション」を発売",
-          "title_zh": "乐天健康食品推出“ABC韩文限量版” ，庆祝韩文日100周年"
+          "title_en": "Baemin, Hangang Drone Light Showers Local Restaurant Booth and Food Truck Operator",
+          "title_ja": "Baemin、Hangangドローンライトシャワー地元のレストランブースとフードトラックオペレーター",
+          "title_zh": "Baemin、Hangang无人机淋浴本地餐厅展位和美食卡车运营商"
         },
         {
           "title": "“썩은 음식 팔란 말인가”…여수박람회 상인들, 전기끊겨 철수하기도",
@@ -210,6 +202,14 @@
           "title_en": "“Selling rotten food” … Yeosu Fair Merchants Withdraw Electricity",
           "title_ja": "「腐った食べ物を売る」…麗水フェアマーチャントが電気を引き出す",
           "title_zh": "“卖腐烂的食物” ……丽水博览会商家退出电力"
+        },
+        {
+          "title": "“오늘부터 키오스크 당장 치웁니다”…美 패스트푸드, 다시 사람 쓰는 이유는",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1leDNYRElYeENHSTNXeUtMU3lTMHE5cVVDQ0E1NDk3cThSSDhTYVZMaHdJemI0VUFDZnhQSVNhR3pGZFJaTHB2NUlUWkN1Vl9hcWc?oc=5",
+          "desc": "",
+          "title_en": "“Remove the kiosk from today” … Beauty fast food, the reason for using people again",
+          "title_ja": "「今日からキオスクを取り除く」…美容ファストフード、人々が再び使用する理由",
+          "title_zh": "“从今天起移除信息亭” ……美食快餐，再次使用人的原因"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
         },
         {
-          "title": "한류 강한 브라질, 음식으로 소비 확산",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mc2dhcC10UE9WbDlqNVZjWVFyTVVXM3h4MnRTbkJMMlk4U2hGWUExNHV3RlZoOGNGYXJmVEVoT1N1aDFzcnV2SVZUeGFrZTdsWnBwU2JlUQ?oc=5",
+          "title": "중동에서 가장 높은 성장률, UAE 디카페인 시장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTblRqaVRsckp5S1NTXzYwaHlrVlVEa1hlNnc2VkJ4RUFnVkRNRkJrNVpzeXAybnBRSTlHZHlRdE5Ba1ZxX2x1dGFSWVZQMjN6U0dCMV9xRQ?oc=5",
           "desc": "",
-          "title_en": "Brazil, strong in Hallyu, spreads consumption to food",
-          "title_ja": "ハリウで強いブラジル、消費を食品に広げる",
-          "title_zh": "在Hallyu强劲的巴西将消费扩展到食品"
+          "title_en": "UAE decaffeinated market with highest growth rate in Middle East",
+          "title_ja": "中東で最も高い成長率を誇るアラブ首長国連邦のカフェイン抜き市場",
+          "title_zh": "阿联酋无咖啡因市场，中东增长率最高"
         }
       ]
     }
