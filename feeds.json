@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T20:25:13Z",
+  "lastUpdated": "2026-09-13T22:55:35Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,14 +96,6 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "The 12 Essential Kitchen Tools for Beginners, According to Cooking Instructors",
-          "link": "https://www.eater.com/24254397/best-kitchen-tools-utensils-beginner-cooks-essential",
-          "desc": "Every time I see a meat tenderizer, I think of my mother. Specifically of the way in which she, as someone wary of emotional vulnerability yet full of",
-          "title_ko": "요리 강사가 알려주는 초보자를 위한 12가지 필수 주방 도구",
-          "title_ja": "クッキングインストラクターが教える、初心者に欠かせないキッチン用具12選",
-          "title_zh": "烹饪教练讲解的12种初学者必备厨房工具"
-        },
-        {
           "title": "The 12 New Cookbooks We Can’t Wait to Cook From This Fall",
           "link": "https://www.eater.com/cookbooks-eater-at-home/985529/fall-2026-best-new-cookbook-preview",
           "desc": "We have reached that time of year again. Every good tomato suddenly prompts the pondering: Will this be the last one for the season? The heat begins t",
@@ -118,6 +110,14 @@
           "title_ko": "가정 요리사를 위한 최고의 선물 가이드",
           "title_ja": "家庭料理のための究極のギフトガイド",
           "title_zh": "家庭烹饪终极礼品指南"
+        },
+        {
+          "title": "Steal My Food Itinerary: A Long Weekend in Upstate New York",
+          "link": "https://www.eater.com/dining-out/984656/steal-my-food-itinerary-upstate-new-york",
+          "desc": "I love New York City in the summer, especially this past one, but I grew up in the shadow of the Rocky Mountains. I’m in my late 20s, I rock climb, an",
+          "title_ko": "내 음식 훔치기 여행 일정: 북부 뉴욕의 긴 주말",
+          "title_ja": "スティール・マイ・フードの旅程：ニューヨーク州北部での長い週末",
+          "title_zh": "偷走我的美食行程：在纽约州北部度过漫长的周末"
         }
       ]
     }
@@ -144,12 +144,12 @@
           "title_zh": "K-Food超越一切"
         },
         {
-          "title": "“이 정도일 줄은” 5년 새 45% 뛴 공항 음식값",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeVlRZEpPU01DdGZFNHNkdm5zQU0wYVduSEZBaUlGSDRFQjBCdjkxX3BPai13Z1ZrczZpUmVrT2Q2UTk5Tk41b1dNbkx2eXdlbzVoMmt5QUhXcTlXQlRIakZEZHVmVjZCbXhWRg?oc=5",
+          "title": "\"5kg 찌며 쓴 피자 백서\"…피자에 '진심'인 이 회사 직원들 [씬메이커]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yU0VQZmFodzZCc1k4eDluYzE3cE1iR3lzOFZycXNlU2l0TlZrVnA0REZOekNxY2J2NzZJb0M2enl6NElsMUlESjJUSEdLU0l1VmRwMWdRZzNTQQ?oc=5",
           "desc": "",
-          "title_en": "Airport food prices jumped 45% in 5 years “I don't know how much”",
-          "title_ja": "空港の食料品の価格が5年間で45 ％上昇した「いくらかわからない」",
-          "title_zh": "机场食品价格在5年内上涨了45 ％ “我不知道多少钱”"
+          "title_en": "\"Pizza White Paper with 5kg\" … employees of this company who are 'serious' about their pizza [Thinmaker]",
+          "title_ja": "「5 kgのピザホワイトペーパー」…ピザに「真剣」な当社社員【Thinmaker】",
+          "title_zh": "“5公斤披萨白皮书” ……这家公司“认真对待”披萨的员工[Thinmaker]"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "과테말라까지 K-푸드 열풍…현지 최대 식품전에 국내 기업 43곳 출품",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fbU5sRHA3LWY2eC1KTWd1b0J4Z0hNN0ZGT2U0S3pDZ2pvcldabEpRcWU2Y1hGWVV0NlNxc1NKSHJnSHlZdzZhNG85clVsdVFzanfSAVNBVV95cUxNamJxVGFBQmI0c0k1Rkl5WjNobjQyZXdpTkJFWFJpODM5RksyeEZiN1E0V2FCZzRGQlluNFppQlFGNzVMbGJNM2w5b2xSR3hhVHl0UQ?oc=5",
+          "desc": "",
+          "title_en": "K-Food craze to Guatemala… 43 domestic companies exhibited at the largest local food exhibition",
+          "title_ja": "グアテマラへのK - Foodの流行… 43の国内企業が最大の地元の食品展示会に出展",
+          "title_zh": "危地马拉的K-Food热潮…… 43家国内公司参加了当地最大的食品展览会"
+        },
         {
           "title": "한국인들 좋아하는 ‘이 음식’…잘못 먹었다간 ‘치사율 50%’ 감염병 위험 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ram5mX09rQlBjaU1UOXNKV3FLTF9SY3lzY3ZWekFlLXBPb1pVdVJzTmhMd1QtN0lwbVZoSXI1dWowaDdtcmlZWmpzc3plRUE3OVHSAVNBVV95cUxQM3ZyUlhFQm84ajVqcEFCNzktV0ZJckp5OGZxTWRuMmZkMnpMb3MzOTVxck9hZmcyc1Z4Q21haW9pZmJBNmFxMTlwdEYzTkVEamRXMA?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "“Get off the dinner table right away” … ‘This food‘ raises the risk of high blood pressure and stroke [Healthy time]",
           "title_ja": "「すぐに食卓から降りてください」…「この食べ物」は高血圧や脳卒中のリスクを高めます[ヘルシータイム]",
           "title_zh": "“立即离开餐桌” …… “这种食物”会增加高血压和中风的风险[健康时间]"
-        },
-        {
-          "title": "“벌레 나왔다” 10만원 전액 환불해 줬는데…돌아온 건 다 먹은 음식과 쓰레기",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sV2o4X1RVbzdzMVQ5emFHNkZGOVc5bkFWYmVlUl9vSU5UVGpoUTFITHVETTB6bEUzZld3SUVUVEtmWno4Wk5zY000aW5Nc29HUTVB0gFTQVVfeXFMTWxXajhfVFVvN3MxVDl6YUc2RkY5VzluQVZiZWVSX29JTlRUamhRMUhMdURNMHpsRTNmV3dJRVRUS2ZaejhaTnNjTTRpbk1zb0dRNUE?oc=5",
-          "desc": "",
-          "title_en": "“Insect came out” I gave him a full refund of 100,000 won... All the food and trash I ate back",
-          "title_ja": "「虫が出てきました」私は彼に100,000ウォンの全額返金をしました...私が食べたすべての食べ物とゴミ",
-          "title_zh": "「虫子出来了」我给了他10万韩元的全额退款……我吃回来的所有食物和垃圾"
         }
       ]
     },
@@ -197,7 +197,7 @@
         },
         {
           "title": "“오늘부터 키오스크 당장 치웁니다”…美 패스트푸드, 다시 사람 쓰는 이유는",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1leDNYRElYeENHSTNXeUtMU3lTMHE5cVVDQ0E1NDk3cThSSDhTYVZMaHdJemI0VUFDZnhQSVNhR3pGZFJaTHB2NUlUWkN1Vl9hcWc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1aNTZNY2RPaHpCamhraURXMUxud0VrRklkVlVwWE1tWWVzME9KbklHekQ1Rm9wbWZfdGNxRUYtM0pOek9HMHc?oc=5",
           "desc": "",
           "title_en": "“Remove the kiosk from today” … Beauty fast food, the reason for using people again",
           "title_ja": "「今日からキオスクを取り除く」…美容ファストフード、人々が再び使用する理由",
