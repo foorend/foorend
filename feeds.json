@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T11:13:06Z",
+  "lastUpdated": "2026-09-13T15:43:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "포항시, 푸드테크 로봇 거점 구축…국비 등 19억 확보",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yeHBlQURqZm4yUkZLaWtubWp5YmNZRFhiQU41Z0k1UlpOVTBPc1llemFpaUNlOUNnX3lVMGhIZ1hZWExkUmhFdUFBUy1vc3ZMd0hJZS1jNW45ZHZTRk9rVEczOWl1MndWY0pGRzNraFY5UElRR1c5Mm53WVdMNDA?oc=5",
+          "desc": "",
+          "title_en": "Pohang City establishes food tech robot base… Secures 1.9 billion won in national expenses, etc.",
+          "title_ja": "浦項市がフードテックロボットの拠点を確立…国費等で19億ウォンを確保",
+          "title_zh": "浦项市建立食品科技机器人基地…保障国家支出19亿韩元等"
+        },
+        {
           "title": "원조를 뛰어넘은 K푸드",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iUzgyMmNkclFoTUtWZF9IRk5Wd1cydGQ2THY3N1MyaGVOdHdoWXZNMWhfLXNEMWpzN2xoczdrYzZFZ2xwUW9hUnFqYUJwN0pGZm5mZ3lXdEQ4Q183cTBMcUZHRV82Mlg4VFZ3WUZnX3oxRlRLUzR5TE9WVHdMUjg?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Airport food prices jumped 45% in 5 years “I don't know how much”",
           "title_ja": "空港の食料品の価格が5年間で45 ％上昇した「いくらかわからない」",
           "title_zh": "机场食品价格在5年内上涨了45 ％ “我不知道多少钱”"
-        },
-        {
-          "title": "\"5kg 찌며 쓴 피자 백서\"…피자에 '진심'인 이 회사 직원들 [씬메이커]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yU0VQZmFodzZCc1k4eDluYzE3cE1iR3lzOFZycXNlU2l0TlZrVnA0REZOekNxY2J2NzZJb0M2enl6NElsMUlESjJUSEdLU0l1VmRwMWdRZzNTQQ?oc=5",
-          "desc": "",
-          "title_en": "\"Pizza White Paper with 5kg\" … employees of this company who are 'serious' about their pizza [Thinmaker]",
-          "title_ja": "「5 kgのピザホワイトペーパー」…ピザに「真剣」な当社社員【Thinmaker】",
-          "title_zh": "“5公斤披萨白皮书” ……这家公司“认真对待”披萨的员工[Thinmaker]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Baemin、Hangang无人机淋浴本地餐厅展位和美食卡车运营商"
         },
         {
-          "title": "“썩은 음식 팔란 말인가”…여수박람회 상인들, 전기끊겨 철수하기도",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NNjU2ZlNjdVQtRGFfdERaMkxhV2xuampQTlFUbmRxUHQzQ1pkTWQxbWRZWmhCYnhDaXNiY2hrYXJFSWFmbkpvU19KUjV0bWpkazFfeA?oc=5",
-          "desc": "",
-          "title_en": "“Selling rotten food” … Yeosu Fair Merchants Withdraw Electricity",
-          "title_ja": "「腐った食べ物を売る」…麗水フェアマーチャントが電気を引き出す",
-          "title_zh": "“卖腐烂的食物” ……丽水博览会商家退出电力"
-        },
-        {
           "title": "“오늘부터 키오스크 당장 치웁니다”…美 패스트푸드, 다시 사람 쓰는 이유는",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1leDNYRElYeENHSTNXeUtMU3lTMHE5cVVDQ0E1NDk3cThSSDhTYVZMaHdJemI0VUFDZnhQSVNhR3pGZFJaTHB2NUlUWkN1Vl9hcWc?oc=5",
           "desc": "",
           "title_en": "“Remove the kiosk from today” … Beauty fast food, the reason for using people again",
           "title_ja": "「今日からキオスクを取り除く」…美容ファストフード、人々が再び使用する理由",
           "title_zh": "“从今天起移除信息亭” ……美食快餐，再次使用人的原因"
+        },
+        {
+          "title": "롯데웰푸드, 한글날 100주년 기념 'ABC 한글 한정판' 출시",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83UEtjb250S0RLYTM3X0FNcGl4SVhyRjhkdnByajVyYndmTm1OeHI3YXpIYjdMZE5pdVVqMTJZT0NaakFCUFgwYXc4YmNYcGJtUUE?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Launches' ABC Hangul Limited Edition 'to Celebrate 100 Years of Hangul Day",
+          "title_ja": "ロッテウェルフード、ハングルデー100周年を記念して「ABCハングルリミテッドエディション」を発売",
+          "title_zh": "乐天健康食品推出“ABC韩文限量版” ，庆祝韩文日100周年"
         }
       ]
     },
