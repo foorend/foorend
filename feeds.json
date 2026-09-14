@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-09-14T12:00:22Z",
+  "lastUpdated": "2026-09-14T18:02:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Yum Brands is ‘prepared to make bold moves around its portfolio’",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkhiXzBlM3pQUGVuT0dKazExQWI3NkF0dXF5eDlONkdfN3QwNlBjTXViZ1BJTWJVRmtQbVNiYkN2dGgxdWdQV09yajdENjJHQk5KOEgyTC0tZWlRcTlsVGpSR3didWtlU0NfdXFHVXVpV0p0eTE3aHVOU1dBVm5vZkVudkdlb1BPTXBwaTdRVUNCWlZNUHZob1M1enZKS1h1MlczVUVR?oc=5",
+          "desc": "",
+          "title_ko": "Yum Brands는 ‘포트폴리오를 중심으로 과감한 움직임을 보일 준비’ 를 갖추고 있습니다.",
+          "title_ja": "Yum Brandsは「ポートフォリオの周りに大胆な動きをする準備ができている」",
+          "title_zh": "Yum Brands “准备在其投资组合中做出大胆的举动”"
+        },
         {
           "title": "A look at 2 years of massive changes at Starbucks",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWNRbG9GaGhFcFAxV1lpUmotamNUTFlqZUZyUVQ4NnhReXdiOGJMWTY1NncxcWhTa2MwUTVTUzBOS1VxTUNrVFhCNXE5alVGN09scnR0akpHQXB0NjdqZ2I0N18taHpPNElWbXNaMi1FNlNlYjJPMGNxMVpadWxybDFyOXJEZjZoZVpYVkVR?oc=5",
@@ -12,14 +20,6 @@
           "title_ko": "스타벅스의 2년간의 대대적인 변화 살펴보기",
           "title_ja": "スターバックスでの2年間の大きな変化を見てみましょう",
           "title_zh": "看看星巴克2年来的巨大变化"
-        },
-        {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
-          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
         },
         {
           "title": "Owner raises $240M for 'AI-native' restaurant tech",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "D.C.’s Most Exciting New Restaurant Started as a Pop-Up",
+          "link": "https://www.eater.com/pre-shift/985977/alfies-dc-pop-up-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "팝업으로 시작된 워싱턴 D.C. 의 가장 흥미진진한 새로운 레스토랑",
+          "title_ja": "ワシントンD.C.で最もエキサイティングな新しいレストランがポップアップレストランとしてスタート",
+          "title_zh": "华盛顿特区最令人兴奋的新餐厅从弹出式餐厅开始"
+        },
+        {
           "title": "The 12 Essential Kitchen Tools for Beginners, According to Cooking Instructors",
           "link": "https://www.eater.com/24254397/best-kitchen-tools-utensils-beginner-cooks-essential",
           "desc": "Every time I see a meat tenderizer, I think of my mother. Specifically of the way in which she, as someone wary of emotional vulnerability yet full of",
@@ -110,14 +118,6 @@
           "title_ko": "이번 가을부터 요리하고 싶은 12가지 새로운 요리책",
           "title_ja": "今年の秋から待ちきれない料理を作る12冊の新作クックブック",
           "title_zh": "我们迫不及待地想从今年秋天开始烹饪的12本新烹饪书"
-        },
-        {
-          "title": "The Ultimate Gift Guide for Home Cooks",
-          "link": "https://www.eater.com/23969820/best-cooking-gifts-kitchen-tools-appliances",
-          "desc": "When it comes to finding gifts for people who love to cook, I stand by a simple gift shopping mantra: Know what your giftee likes, and then expand upo",
-          "title_ko": "가정 요리사를 위한 최고의 선물 가이드",
-          "title_ja": "家庭料理のための究極のギフトガイド",
-          "title_zh": "家庭烹饪终极礼品指南"
         }
       ]
     }
@@ -166,20 +166,20 @@
           "title_zh": "危地马拉的K-Food热潮…… 43家国内公司参加了当地最大的食品展览会"
         },
         {
-          "title": "“채소 듬뿍이라 안심했는데”…건강식인 줄 알았던 ‘이 음식’, 췌장 망가뜨릴 수도 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QY2ZibFJRZ3FJWWJCUGdZUEpGUm8zNk5USzgtOHRlMlNiT2t5dTd4dEY3X3daaUppS1gyZ3BwOE1QeWdRdUNIQkVxejZyczJCYnfSAVNBVV95cUxObHZkRTFzODIwWlJRTC1yejBsS1RhZ0ozYnI3blVmY1NCRVB0aFAtR0ppSzZZVmQ2SzB1WHBJWnp2d2RrZEdZQ3E0THhyLVplck9LOA?oc=5",
-          "desc": "",
-          "title_en": "“I was relieved that there were plenty of vegetables” … ‘This food‘, which I thought was a healthy food, could ruin my pancreas [heal time]",
-          "title_ja": "「野菜がたっぷりあってほっとしました」…健康的な食べ物だと思っていた「この食べ物」が膵臓を台無しにしてしまう【ヒールタイム】",
-          "title_zh": "“我松了一口气，因为有足够的蔬菜” …… ‘这种食物‘ ，我认为这是一种健康的食物，可能会破坏我的胰腺[治愈时间]"
-        },
-        {
           "title": "한국인들 좋아하는 ‘이 음식’…잘못 먹었다간 ‘치사율 50%’ 감염병 위험 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ram5mX09rQlBjaU1UOXNKV3FLTF9SY3lzY3ZWekFlLXBPb1pVdVJzTmhMd1QtN0lwbVZoSXI1dWowaDdtcmlZWmpzc3plRUE3OVHSAVNBVV95cUxQM3ZyUlhFQm84ajVqcEFCNzktV0ZJckp5OGZxTWRuMmZkMnpMb3MzOTVxck9hZmcyc1Z4Q21haW9pZmJBNmFxMTlwdEYzTkVEamRXMA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdnJSWEVCbzhqNWpwQUI3OS1XRklySnk4ZnFNZG4yZmQyekxvczM5NXFyT2FmZzJzVnhDbWFpb2lmYkE2YXExOXB0RjNORURqZFcw0gFTQVVfeXFMUDN2clJYRUJvOGo1anBBQjc5LVdGSXJKeThmcU1kbjJmZDJ6TG9zMzk1cXJPYWZnMnNWeENtYWlvaWZiQTZhcTE5cHRGM05FRGpkVzA?oc=5",
           "desc": "",
           "title_en": "‘This food‘ liked by Koreans… If you eat wrongly, ‘Mortality rate 50%’ Infectious disease risk [Health time]",
           "title_ja": "韓国人に好かれている「この食べ物」…誤って食べると、「死亡率50 ％」感染症のリスク【健康時間】",
           "title_zh": "韩国人喜欢的“这种食物” ……如果你吃错了， “死亡率50%”传染病风险[健康时间]"
+        },
+        {
+          "title": "아침마다 먹었는데 “식탁에서 당장 치워라”…노화 앞당기는 주범이라는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hc0NRS2NnTDNWYWw3akpUZlVBTU9ROUR2dk5Pa1VkUVFUT0Ftc0FENlNLYWtkdl9CQlJ2eV9ZS3liV05YM3g1V0Zvc2xROExUQmfSAVNBVV95cUxOVWZtN1d1dHgzWUt3RHlHWlJRR2tSZ09xUU41ei1DZTR2bVJ5dUhCdG1LNmZjZldiU1VWNXk1dFF2SS01OFAtbm5MQ0VWVWRxRlR2aw?oc=5",
+          "desc": "",
+          "title_en": "I ate it every morning, but “get it off the table right away” … ‘This food‘ is the main culprit for aging [Health Time]",
+          "title_ja": "毎朝食べていましたが、「すぐにテーブルから外してください」…「この食べ物」が老化の主な原因です[Health Time]",
+          "title_zh": "我每天早上都吃，但“马上把它从桌子上拿下来” …… ‘这种食物‘是老化的主要罪魁祸首[健康时间]"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“라면만 잘 팔리는 줄 알았는데”…K-푸드 수출, 253일 만에 100억달러 돌파",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbF91OE5SUGw1c3FSYmpZWVV0bF90RldNZm02YXFGWXY0UzFMQk5CcWtlcUppUVlHSXdxUEVRaERnZ3BxSllIeXBBS0ViSU84LUM3TEJ3?oc=5",
+          "desc": "",
+          "title_en": "“I thought ramen only sold well” … K-Food exports surpass $10 billion in 253 days",
+          "title_ja": "「ラーメンしか売れていないと思っていました」… K - Foodの輸出は253日間で100億ドルを超えました",
+          "title_zh": "“我以为拉面卖得很好” ……韩国食品出口在253天内超过100亿美元"
+        },
+        {
           "title": "K푸드 수출 날개 달았다 … 최단 기간 100억불 달성",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1mSUJuVDNRRGJmZzZzZEVVUjNkdTQyWEVEZ0lWdlVxdW9fMHVrSjFkV2pkR3FULUxfSlpFVmNWSzhnM2tSWkE?oc=5",
           "desc": "",
           "title_en": "K-Food Export Winged… Achieved $10 Billion in Shortest Period",
           "title_ja": "K - Food Export Winged…最短期間で100億ドルを達成",
           "title_zh": "K-Food出口翅膀…在最短的时间内实现了100亿美元"
-        },
-        {
-          "title": "“라면만 잘 팔리는 줄 알았는데”…K-푸드 수출, 253일 만에 100억달러 돌파",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBteWVRM2hJLVZNb1M3eUM5VmVlaTNWQWY5MVN5NGJWdTdXdC1zT0d0Y3RNTG5faTV0MlU0VGZCaHRWak9GVVE?oc=5",
-          "desc": "",
-          "title_en": "“I thought ramen only sold well” … K-Food exports surpass $10 billion in 253 days",
-          "title_ja": "「ラーメンしか売れていないと思っていました」… K - Foodの輸出は253日間で100億ドルを超えました",
-          "title_zh": "“我以为拉面卖得很好” ……韩国食品出口在253天内超过100亿美元"
         },
         {
           "title": "‘이랬다저랬다’로 유명한 이 음식...이번엔 남성 전립선에 안 좋다고 합니다",
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "치아시드 넣은 과일주스…인도네시아의 기능성 음료",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42T3ZGY2lyWklBYUFsbWtzSVRNQXNtVEx4bC13S1ZsSlVMWXJUekd4SU9WeTdzUi1BRDdxbU53WExpTkNpR3RwRkJYNlU1cUloRmhUN0Jfaw?oc=5",
+          "title": "K-디저트, 일본의 냉동고를 채운다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KakszY21pcWptaXQzTzNiQUR6b3pVVnVfZzB5VE1zYzBveV9rY0s2cV9kd1EtY1h5aGNJdUJTbzdwa0VSRzAzY1A2R0NnekI2ZDZxYzF1aw?oc=5",
           "desc": "",
-          "title_en": "Fruit juice with chia seeds… a functional beverage in Indonesia",
-          "title_ja": "チアシードのフルーツジュース…インドネシアの機能性飲料",
-          "title_zh": "奇亚籽果汁……印度尼西亚的功能性饮料"
+          "title_en": "K-Dessert Fills Freezer in Japan",
+          "title_ja": "日本の冷凍庫にKデザートを充填",
+          "title_zh": "日本K-Dessert冰柜"
         },
         {
-          "title": "일본의 세대별 주류시장 소비 특징은?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlSXFZVmhPOXlCS2YtUlBrTnZPbllxQncxZmhzZUdnNi10cXFPMktRb19fZmhVREZ3MFotazVyaXpEdTBCU2FVSzl3ak5zZC1LUEtEZjdNbw?oc=5",
+          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
           "desc": "",
-          "title_en": "What are the characteristics of Japan's generation-specific alcohol consumption market?",
-          "title_ja": "日本の世代別アルコール消費市場の特徴は何ですか？",
-          "title_zh": "日本特定世代的酒类消费市场有哪些特点？"
+          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
+          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
+          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
         },
         {
-          "title": "최대 55% 저렴하게…샘표 ‘추석 기획전’ 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95WmN3WlNSWGdzREZYMExBU09sZk1pZl9YeGZkbF9TVW03Wk9lTXptUWJTV0trRXhndE16c2ZvT2dTNUhpMnRSM1lTQTFCdlZGazFrSGhOTQ?oc=5",
+          "title": "글로벌 식품기업이 만드는 ‘한국의 맛’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51elJrRDc3cV80RlJSbkJQNmp5czhKTEk3cnZTRW0yeWg5d2JSUHVzR3pTWjQtVVlUMmg4MHZfeTZycGFUeGwzVDNuQ2x5bFl5TVVxbDJNTQ?oc=5",
           "desc": "",
-          "title_en": "Up to 55% cheaper… Sampyo opens‘ Korean Thanksgiving Exhibition ’",
-          "title_ja": "最大55 ％安い… Sampyoが「韓国の感謝祭展示会」を開きます",
-          "title_zh": "最多便宜55% …… Sampyo开设了“韩国感恩节展览”"
+          "title_en": "'Taste of Korea‘ made by a global food company",
+          "title_ja": "世界的な食品会社がつくる「韓国の味」",
+          "title_zh": "一家全球食品公司制作的“Taste of Korea”"
         }
       ]
     }
