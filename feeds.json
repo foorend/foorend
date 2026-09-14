@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T22:55:35Z",
+  "lastUpdated": "2026-09-14T03:43:59Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The 12 Essential Kitchen Tools for Beginners, According to Cooking Instructors",
+          "link": "https://www.eater.com/24254397/best-kitchen-tools-utensils-beginner-cooks-essential",
+          "desc": "Every time I see a meat tenderizer, I think of my mother. Specifically of the way in which she, as someone wary of emotional vulnerability yet full of",
+          "title_ko": "요리 강사가 알려주는 초보자를 위한 12가지 필수 주방 도구",
+          "title_ja": "クッキングインストラクターが教える、初心者に欠かせないキッチン用具12選",
+          "title_zh": "烹饪教练讲解的12种初学者必备厨房工具"
+        },
+        {
           "title": "The 12 New Cookbooks We Can’t Wait to Cook From This Fall",
           "link": "https://www.eater.com/cookbooks-eater-at-home/985529/fall-2026-best-new-cookbook-preview",
           "desc": "We have reached that time of year again. Every good tomato suddenly prompts the pondering: Will this be the last one for the season? The heat begins t",
@@ -110,14 +118,6 @@
           "title_ko": "가정 요리사를 위한 최고의 선물 가이드",
           "title_ja": "家庭料理のための究極のギフトガイド",
           "title_zh": "家庭烹饪终极礼品指南"
-        },
-        {
-          "title": "Steal My Food Itinerary: A Long Weekend in Upstate New York",
-          "link": "https://www.eater.com/dining-out/984656/steal-my-food-itinerary-upstate-new-york",
-          "desc": "I love New York City in the summer, especially this past one, but I grew up in the shadow of the Rocky Mountains. I’m in my late 20s, I rock climb, an",
-          "title_ko": "내 음식 훔치기 여행 일정: 북부 뉴욕의 긴 주말",
-          "title_ja": "スティール・マイ・フードの旅程：ニューヨーク州北部での長い週末",
-          "title_zh": "偷走我的美食行程：在纽约州北部度过漫长的周末"
         }
       ]
     }
@@ -127,6 +127,14 @@
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
       "items": [
+        {
+          "title": "\"우리 가족이 먹는 음식처럼\"…오뚜기, 故 함태호 10주기 추모식",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMa2ItRkdyaTZNWFRUM3JpdjR1QUFsS2JUX0NQMXQybVJZN1JKRktDUGw3N0s3ZnRjYlFxaDZGZVpTMDNwYkk4RXhYVDlWMGY4YXZBY3J5N3U1UQ?oc=5",
+          "desc": "",
+          "title_en": "“Like the food my family eats” … Ottogi, the late Ham Taeho 10th anniversary memorial ceremony",
+          "title_ja": "「家族が食べる食べ物のように」…オットギ、ハム・テホ10周年記念式典",
+          "title_zh": "「就像我家人吃的食物」…… Ottogi ，已故的Ham Taeho十周年纪念仪式"
+        },
         {
           "title": "포항시, 푸드테크 로봇 거점 구축…국비 등 19억 확보",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yeHBlQURqZm4yUkZLaWtubWp5YmNZRFhiQU41Z0k1UlpOVTBPc1llemFpaUNlOUNnX3lVMGhIZ1hZWExkUmhFdUFBUy1vc3ZMd0hJZS1jNW45ZHZTRk9rVEczOWl1MndWY0pGRzNraFY5UElRR1c5Mm53WVdMNDA?oc=5",
@@ -142,14 +150,6 @@
           "title_en": "K-Food goes above and beyond",
           "title_ja": "K - Foodはそれを超えています",
           "title_zh": "K-Food超越一切"
-        },
-        {
-          "title": "\"5kg 찌며 쓴 피자 백서\"…피자에 '진심'인 이 회사 직원들 [씬메이커]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yU0VQZmFodzZCc1k4eDluYzE3cE1iR3lzOFZycXNlU2l0TlZrVnA0REZOekNxY2J2NzZJb0M2enl6NElsMUlESjJUSEdLU0l1VmRwMWdRZzNTQQ?oc=5",
-          "desc": "",
-          "title_en": "\"Pizza White Paper with 5kg\" … employees of this company who are 'serious' about their pizza [Thinmaker]",
-          "title_ja": "「5 kgのピザホワイトペーパー」…ピザに「真剣」な当社社員【Thinmaker】",
-          "title_zh": "“5公斤披萨白皮书” ……这家公司“认真对待”披萨的员工[Thinmaker]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Baemin、Hangang无人机淋浴本地餐厅展位和美食卡车运营商"
         },
         {
-          "title": "“오늘부터 키오스크 당장 치웁니다”…美 패스트푸드, 다시 사람 쓰는 이유는",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1aNTZNY2RPaHpCamhraURXMUxud0VrRklkVlVwWE1tWWVzME9KbklHekQ1Rm9wbWZfdGNxRUYtM0pOek9HMHc?oc=5",
+          "title": "‘이랬다저랬다’로 유명한 이 음식...이번엔 남성 전립선에 안 좋다고 합니다",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54S2wyTEwycmFJYmktZHJrM2JNLXZhM0E3UWNhTFExUkdQZTZHdHptTmlnLUN1Qm5rQUdEcXN5NU9PcXdsS3EyaWQzVDYyUQ?oc=5",
           "desc": "",
-          "title_en": "“Remove the kiosk from today” … Beauty fast food, the reason for using people again",
-          "title_ja": "「今日からキオスクを取り除く」…美容ファストフード、人々が再び使用する理由",
-          "title_zh": "“从今天起移除信息亭” ……美食快餐，再次使用人的原因"
+          "title_en": "This food is famous for ’this and that'... This time it is said to be bad for the male prostate",
+          "title_ja": "この食べ物は「これとあれ」で有名です…今回は男性の前立腺に悪いと言われています",
+          "title_zh": "这种食物以“这个和那个”而闻名......这次据说对男性前列腺有害"
         },
         {
-          "title": "롯데웰푸드, 한글날 100주년 기념 'ABC 한글 한정판' 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83UEtjb250S0RLYTM3X0FNcGl4SVhyRjhkdnByajVyYndmTm1OeHI3YXpIYjdMZE5pdVVqMTJZT0NaakFCUFgwYXc4YmNYcGJtUUE?oc=5",
+          "title": "MK Pick | 한식진흥원 ‘이음’, 추석 특집 전통 디저트 ‘곶감호두말이’ 무료 체험 진행",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYZ1BrRlVGeWpMQ0FwMFhLX2tNZllES0NJY01VNGJjWml6V2ViRVIzRUdpUzk4Unl6bVBsZ19hSlNzZ1Nzd2NvakwtMnE3YUVw?oc=5",
           "desc": "",
-          "title_en": "Lotte Well Food Launches' ABC Hangul Limited Edition 'to Celebrate 100 Years of Hangul Day",
-          "title_ja": "ロッテウェルフード、ハングルデー100周年を記念して「ABCハングルリミテッドエディション」を発売",
-          "title_zh": "乐天健康食品推出“ABC韩文限量版” ，庆祝韩文日100周年"
+          "title_en": "MK Pick | Free trial of Korean Food Promotion Institute's ’Igeum‘ and Chuseok's special traditional dessert ’Cape Gamjidumal'",
+          "title_ja": "MKピック｜韓国食文化振興院の「イゲウム」と中ソクの伝統デザート「ガムジドゥマル岬」の無料体験",
+          "title_zh": "MK Pick |免费试用韩国食品推广学院的“Igeum”和Chuseok的特色传统甜点“Cape Gamjidumal”"
         }
       ]
     },
