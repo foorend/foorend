@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T18:02:17Z",
+  "lastUpdated": "2026-09-14T23:42:02Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Yum Brands “准备在其投资组合中做出大胆的举动”"
         },
         {
-          "title": "A look at 2 years of massive changes at Starbucks",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWNRbG9GaGhFcFAxV1lpUmotamNUTFlqZUZyUVQ4NnhReXdiOGJMWTY1NncxcWhTa2MwUTVTUzBOS1VxTUNrVFhCNXE5alVGN09scnR0akpHQXB0NjdqZ2I0N18taHpPNElWbXNaMi1FNlNlYjJPMGNxMVpadWxybDFyOXJEZjZoZVpYVkVR?oc=5",
-          "desc": "",
-          "title_ko": "스타벅스의 2년간의 대대적인 변화 살펴보기",
-          "title_ja": "スターバックスでの2年間の大きな変化を見てみましょう",
-          "title_zh": "看看星巴克2年来的巨大变化"
-        },
-        {
           "title": "Owner raises $240M for 'AI-native' restaurant tech",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmh5czlULWxodzVpUjBMY3pnSC1STXlOZkNlWjBXWnd5Qk0wZ2VyN21SaDItRVlud0R4ZTROQ1NRS0RXTUs2eDJnSVNuVDZnQ1dmWUtPTEp1ak04WWdKb2tzd3MwbVFVZUN6TEJBcHRraHRRNDJ3SHdYb0w2SHJsY0ozdTFSRTNYTUNKRGtnUVdjY0ZxV1E?oc=5",
           "desc": "",
           "title_ko": "오너, 'AI 네이티브' 레스토랑 기술로 $ 240M 모금",
           "title_ja": "オーナーが「AIネイティブ」レストラン技術のために2億4000万$を調達",
           "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -35,6 +35,14 @@
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
       "items": [
+        {
+          "title": "New High-Protein, Low-Calorie Beer Targets Gym Goers",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnUwVWFUaGxUUEo0V2pMVGhGRlJUOGd0enhNNjhGc01EWjVua05WMFhaS0xuOHBpdGxIbWFmbllaVFYydEp0S2VDQThSZktPRlNxX3NKbXdDMjhUTEVNSEl3bHVXYlE3UzhzQkpOWUZrbmRXTENqNDUxeHVpMFJQQ1RXaElkeE9QYy04bw?oc=5",
+          "desc": "",
+          "title_ko": "새로운 고단백 저칼로리 맥주 타겟 체육관 방문객",
+          "title_ja": "新しい高タンパク質、低カロリーのビールはジムに行く人をターゲットにしています",
+          "title_zh": "全新高蛋白、低热量啤酒瞄准健身爱好者"
+        },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
@@ -50,14 +58,6 @@
           "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
           "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
           "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "NS홈쇼핑, ‘NS푸드페스타2026익산’서 홈플러스 익스프레스 팝업 스토어 운영",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WHh1bFZBNmg4VG4xNktkM2FDdGxJZ3NXY3pWMkRhMjlMQ2l0ZHpsd3JrLTlqelVRSDdia0JoQ2s2SzFZMTh0S0lnT0tsVzEwRUprMHZMX3RKdw?oc=5",
+          "desc": "",
+          "title_en": "NS Home Shopping, ‘NS Food Festa 2026 Iksan' operated by HomePlus Express pop-up store",
+          "title_ja": "NS Home Shopping、HomePlus Expressポップアップストアが運営する「NS Food Festa 2026 Iksan」",
+          "title_zh": "NS Home Shopping ，由HomePlus Express弹出式商店运营的“NS Food Festa 2026 Iksan”"
+        },
+        {
           "title": "해외매출 커진 K푸드…원·달러 환율 하락에 음식株 '희비'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFVmRKa0lhRmU0Qkt3cXBRMTRDaXJjRDdhVHR1YWd2VEM3bndPSHkzVk5tY1B1VDYwUXlScG5zTE4zdWM0TnE0UmR4ZXRGWmpUQVkxLWswN3NDQQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "“Like the food my family eats” … Ottogi, the late Ham Taeho 10th anniversary memorial ceremony",
           "title_ja": "「家族が食べる食べ物のように」…オットギ、ハム・テホ10周年記念式典",
           "title_zh": "「就像我家人吃的食物」…… Ottogi ，已故的Ham Taeho十周年纪念仪式"
-        },
-        {
-          "title": "포항시, 푸드테크 로봇 거점 구축…국비 등 19억 확보",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yeHBlQURqZm4yUkZLaWtubWp5YmNZRFhiQU41Z0k1UlpOVTBPc1llemFpaUNlOUNnX3lVMGhIZ1hZWExkUmhFdUFBUy1vc3ZMd0hJZS1jNW45ZHZTRk9rVEczOWl1MndWY0pGRzNraFY5UElRR1c5Mm53WVdMNDA?oc=5",
-          "desc": "",
-          "title_en": "Pohang City establishes food tech robot base… Secures 1.9 billion won in national expenses, etc.",
-          "title_ja": "浦項市がフードテックロボットの拠点を確立…国費等で19億ウォンを確保",
-          "title_zh": "浦项市建立食品科技机器人基地…保障国家支出19亿韩元等"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“식탁에서 당장 치워라”…암 위험 높인다는 ‘이 음식’, 의사 경고 나왔다 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aMFhGLUEwdHJxZkQ3ZmJOclFybkNvQWp5UnFiMG80TlNLMGxlelNZaTFMOFRvREJZbUJxZU1oYWhUc1p2eHFsQVJOMmU4VzFVVGfSAVNBVV95cUxPRGtXVnRfNW1SdjNQcGtrOU5rN01DRU5RTnd2OFZRLTZlYXVfY1VHbE9kTmpGSkluZG5CaFNSSHA2MEtRSUx0dWJ3LW01RkthWFdVaw?oc=5",
+          "desc": "",
+          "title_en": "“Remove Me from Table” … ‘This Food‘ Increases Cancer Risk, Doctor Warned [Health Time]",
+          "title_ja": "「テーブルから私を取り除いてください」…「この食べ物」はがんのリスクを高めます、医師は警告しました[健康時間]",
+          "title_zh": "“把我从餐桌上移开” … ‘这种食物‘会增加癌症风险，医生警告[健康时间]"
+        },
         {
           "title": "과테말라까지 K-푸드 열풍…현지 최대 식품전에 국내 기업 43곳 출품",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fbU5sRHA3LWY2eC1KTWd1b0J4Z0hNN0ZGT2U0S3pDZ2pvcldabEpRcWU2Y1hGWVV0NlNxc1NKSHJnSHlZdzZhNG85clVsdVFzanfSAVNBVV95cUxNamJxVGFBQmI0c0k1Rkl5WjNobjQyZXdpTkJFWFJpODM5RksyeEZiN1E0V2FCZzRGQlluNFppQlFGNzVMbGJNM2w5b2xSR3hhVHl0UQ?oc=5",
@@ -166,20 +174,12 @@
           "title_zh": "危地马拉的K-Food热潮…… 43家国内公司参加了当地最大的食品展览会"
         },
         {
-          "title": "한국인들 좋아하는 ‘이 음식’…잘못 먹었다간 ‘치사율 50%’ 감염병 위험 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdnJSWEVCbzhqNWpwQUI3OS1XRklySnk4ZnFNZG4yZmQyekxvczM5NXFyT2FmZzJzVnhDbWFpb2lmYkE2YXExOXB0RjNORURqZFcw0gFTQVVfeXFMUDN2clJYRUJvOGo1anBBQjc5LVdGSXJKeThmcU1kbjJmZDJ6TG9zMzk1cXJPYWZnMnNWeENtYWlvaWZiQTZhcTE5cHRGM05FRGpkVzA?oc=5",
+          "title": "“채소 듬뿍이라 안심했는데”…건강식인 줄 알았던 ‘이 음식’, 췌장 망가뜨릴 수도 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QY2ZibFJRZ3FJWWJCUGdZUEpGUm8zNk5USzgtOHRlMlNiT2t5dTd4dEY3X3daaUppS1gyZ3BwOE1QeWdRdUNIQkVxejZyczJCYnfSAVNBVV95cUxObHZkRTFzODIwWlJRTC1yejBsS1RhZ0ozYnI3blVmY1NCRVB0aFAtR0ppSzZZVmQ2SzB1WHBJWnp2d2RrZEdZQ3E0THhyLVplck9LOA?oc=5",
           "desc": "",
-          "title_en": "‘This food‘ liked by Koreans… If you eat wrongly, ‘Mortality rate 50%’ Infectious disease risk [Health time]",
-          "title_ja": "韓国人に好かれている「この食べ物」…誤って食べると、「死亡率50 ％」感染症のリスク【健康時間】",
-          "title_zh": "韩国人喜欢的“这种食物” ……如果你吃错了， “死亡率50%”传染病风险[健康时间]"
-        },
-        {
-          "title": "아침마다 먹었는데 “식탁에서 당장 치워라”…노화 앞당기는 주범이라는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hc0NRS2NnTDNWYWw3akpUZlVBTU9ROUR2dk5Pa1VkUVFUT0Ftc0FENlNLYWtkdl9CQlJ2eV9ZS3liV05YM3g1V0Zvc2xROExUQmfSAVNBVV95cUxOVWZtN1d1dHgzWUt3RHlHWlJRR2tSZ09xUU41ei1DZTR2bVJ5dUhCdG1LNmZjZldiU1VWNXk1dFF2SS01OFAtbm5MQ0VWVWRxRlR2aw?oc=5",
-          "desc": "",
-          "title_en": "I ate it every morning, but “get it off the table right away” … ‘This food‘ is the main culprit for aging [Health Time]",
-          "title_ja": "毎朝食べていましたが、「すぐにテーブルから外してください」…「この食べ物」が老化の主な原因です[Health Time]",
-          "title_zh": "我每天早上都吃，但“马上把它从桌子上拿下来” …… ‘这种食物‘是老化的主要罪魁祸首[健康时间]"
+          "title_en": "“I was relieved that there were plenty of vegetables” … ‘This food‘, which I thought was a healthy food, could ruin my pancreas [heal time]",
+          "title_ja": "「野菜がたっぷりあってほっとしました」…健康的な食べ物だと思っていた「この食べ物」が膵臓を台無しにしてしまう【ヒールタイム】",
+          "title_zh": "“我松了一口气，因为有足够的蔬菜” …… ‘这种食物‘ ，我认为这是一种健康的食物，可能会破坏我的胰腺[治愈时间]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“我以为拉面卖得很好” ……韩国食品出口在253天内超过100亿美元"
         },
         {
-          "title": "K푸드 수출 날개 달았다 … 최단 기간 100억불 달성",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1mSUJuVDNRRGJmZzZzZEVVUjNkdTQyWEVEZ0lWdlVxdW9fMHVrSjFkV2pkR3FULUxfSlpFVmNWSzhnM2tSWkE?oc=5",
-          "desc": "",
-          "title_en": "K-Food Export Winged… Achieved $10 Billion in Shortest Period",
-          "title_ja": "K - Food Export Winged…最短期間で100億ドルを達成",
-          "title_zh": "K-Food出口翅膀…在最短的时间内实现了100亿美元"
-        },
-        {
           "title": "‘이랬다저랬다’로 유명한 이 음식...이번엔 남성 전립선에 안 좋다고 합니다",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54S2wyTEwycmFJYmktZHJrM2JNLXZhM0E3UWNhTFExUkdQZTZHdHptTmlnLUN1Qm5rQUdEcXN5NU9PcXdsS3EyaWQzVDYyUQ?oc=5",
           "desc": "",
           "title_en": "This food is famous for ’this and that'... This time it is said to be bad for the male prostate",
           "title_ja": "この食べ物は「これとあれ」で有名です…今回は男性の前立腺に悪いと言われています",
           "title_zh": "这种食物以“这个和那个”而闻名......这次据说对男性前列腺有害"
+        },
+        {
+          "title": "K푸드 수출 날개 달았다 … 최단 기간 100억불 달성",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1mSUJuVDNRRGJmZzZzZEVVUjNkdTQyWEVEZ0lWdlVxdW9fMHVrSjFkV2pkR3FULUxfSlpFVmNWSzhnM2tSWkE?oc=5",
+          "desc": "",
+          "title_en": "K-Food Export Winged… Achieved $10 Billion in Shortest Period",
+          "title_ja": "K - Food Export Winged…最短期間で100億ドルを達成",
+          "title_zh": "K-Food出口翅膀…在最短的时间内实现了100亿美元"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "“크런치하게 터지는 초콜릿”…허쉬와 협업한 설빙 신메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94c1lZVEc3YXZoRFFfRjNzS2E4QjNxekdDeXhHUTQ5b05fNGtlQ3ZTQmltNUZHZHNxNVN5MDdvelB5MW5oTi14ako5Rm41WkNRdGJHdkl4TQ?oc=5",
+          "desc": "",
+          "title_en": "“Chocolate bursting with crunch” … New menu for snowing in collaboration with Hershey",
+          "title_ja": "「チョコレートがクランチではじける」…ハーシーとのコラボレーションによる雪のための新メニュー",
+          "title_zh": "“巧克力爆脆” …与好时合作推出下雪新菜单"
+        },
+        {
+          "title": "최대 55% 저렴하게…샘표 ‘추석 기획전’ 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95WmN3WlNSWGdzREZYMExBU09sZk1pZl9YeGZkbF9TVW03Wk9lTXptUWJTV0trRXhndE16c2ZvT2dTNUhpMnRSM1lTQTFCdlZGazFrSGhOTQ?oc=5",
+          "desc": "",
+          "title_en": "Up to 55% cheaper… Sampyo opens‘ Korean Thanksgiving Exhibition ’",
+          "title_ja": "最大55 ％安い… Sampyoが「韓国の感謝祭展示会」を開きます",
+          "title_zh": "最多便宜55% …… Sampyo开设了“韩国感恩节展览”"
+        },
+        {
           "title": "K-디저트, 일본의 냉동고를 채운다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KakszY21pcWptaXQzTzNiQUR6b3pVVnVfZzB5VE1zYzBveV9rY0s2cV9kd1EtY1h5aGNJdUJTbzdwa0VSRzAzY1A2R0NnekI2ZDZxYzF1aw?oc=5",
           "desc": "",
           "title_en": "K-Dessert Fills Freezer in Japan",
           "title_ja": "日本の冷凍庫にKデザートを充填",
           "title_zh": "日本K-Dessert冰柜"
-        },
-        {
-          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
-          "desc": "",
-          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
-          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
-          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
-        },
-        {
-          "title": "글로벌 식품기업이 만드는 ‘한국의 맛’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51elJrRDc3cV80RlJSbkJQNmp5czhKTEk3cnZTRW0yeWg5d2JSUHVzR3pTWjQtVVlUMmg4MHZfeTZycGFUeGwzVDNuQ2x5bFl5TVVxbDJNTQ?oc=5",
-          "desc": "",
-          "title_en": "'Taste of Korea‘ made by a global food company",
-          "title_ja": "世界的な食品会社がつくる「韓国の味」",
-          "title_zh": "一家全球食品公司制作的“Taste of Korea”"
         }
       ]
     }
