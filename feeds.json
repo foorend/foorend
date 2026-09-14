@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-09-14T03:43:59Z",
+  "lastUpdated": "2026-09-14T12:00:22Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Proposed bill would end restaurant purchases with food stamps",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWU1RclEtQUMwVENGZnd0TFVhWWQ5QjJabFlGLVR5Y0pfLVVFUjFodUtJTWhEUGRNcWhhZlhMaThCVm1mandSQ0VyTjMzRFZtV2xBaWVuU1Q5NThBZ1J2aUVDVGRXY0lfbExDZTA1bmZuSWRpdUQ3MlF5bWxwT3V5Q3U4bDljSm1kdmJBQng2aHFUSEFSek8tZWdST254TllHbE9Tbm8zaw?oc=5",
-          "desc": "",
-          "title_ko": "제안된 법안은 푸드 스탬프로 레스토랑 구매를 종료합니다",
-          "title_ja": "提案された法案は、フードスタンプでレストランの購入を終了する",
-          "title_zh": "拟议的法案将通过食品券结束餐厅购物"
-        },
         {
           "title": "A look at 2 years of massive changes at Starbucks",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWNRbG9GaGhFcFAxV1lpUmotamNUTFlqZUZyUVQ4NnhReXdiOGJMWTY1NncxcWhTa2MwUTVTUzBOS1VxTUNrVFhCNXE5alVGN09scnR0akpHQXB0NjdqZ2I0N18taHpPNElWbXNaMi1FNlNlYjJPMGNxMVpadWxybDFyOXJEZjZoZVpYVkVR?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
           "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
           "title_zh": "餐厅商业杂志-趋势、创意和新闻"
+        },
+        {
+          "title": "Owner raises $240M for 'AI-native' restaurant tech",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmh5czlULWxodzVpUjBMY3pnSC1STXlOZkNlWjBXWnd5Qk0wZ2VyN21SaDItRVlud0R4ZTROQ1NRS0RXTUs2eDJnSVNuVDZnQ1dmWUtPTEp1ak04WWdKb2tzd3MwbVFVZUN6TEJBcHRraHRRNDJ3SHdYb0w2SHJsY0ozdTFSRTNYTUNKRGtnUVdjY0ZxV1E?oc=5",
+          "desc": "",
+          "title_ko": "오너, 'AI 네이티브' 레스토랑 기술로 $ 240M 모금",
+          "title_ja": "オーナーが「AIネイティブ」レストラン技術のために2億4000万$を調達",
+          "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "해외매출 커진 K푸드…원·달러 환율 하락에 음식株 '희비'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFVmRKa0lhRmU0Qkt3cXBRMTRDaXJjRDdhVHR1YWd2VEM3bndPSHkzVk5tY1B1VDYwUXlScG5zTE4zdWM0TnE0UmR4ZXRGWmpUQVkxLWswN3NDQQ?oc=5",
+          "desc": "",
+          "title_en": "Overseas Sales Increased K-Food… Food 'Heebi' as Won and Dollar Exchange Rates Decreased",
+          "title_ja": "海外売上高はK - Foodを増加させました…ウォンとドルの為替レートが低下するにつれて、食品「Heebi」が増加しました",
+          "title_zh": "海外销售额增加了K-Food......随着韩元和美元汇率的下降，食品“Heebi”"
+        },
+        {
           "title": "\"우리 가족이 먹는 음식처럼\"…오뚜기, 故 함태호 10주기 추모식",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMa2ItRkdyaTZNWFRUM3JpdjR1QUFsS2JUX0NQMXQybVJZN1JKRktDUGw3N0s3ZnRjYlFxaDZGZVpTMDNwYkk4RXhYVDlWMGY4YXZBY3J5N3U1UQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Pohang City establishes food tech robot base… Secures 1.9 billion won in national expenses, etc.",
           "title_ja": "浦項市がフードテックロボットの拠点を確立…国費等で19億ウォンを確保",
           "title_zh": "浦项市建立食品科技机器人基地…保障国家支出19亿韩元等"
-        },
-        {
-          "title": "원조를 뛰어넘은 K푸드",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iUzgyMmNkclFoTUtWZF9IRk5Wd1cydGQ2THY3N1MyaGVOdHdoWXZNMWhfLXNEMWpzN2xoczdrYzZFZ2xwUW9hUnFqYUJwN0pGZm5mZ3lXdEQ4Q183cTBMcUZHRV82Mlg4VFZ3WUZnX3oxRlRLUzR5TE9WVHdMUjg?oc=5",
-          "desc": "",
-          "title_en": "K-Food goes above and beyond",
-          "title_ja": "K - Foodはそれを超えています",
-          "title_zh": "K-Food超越一切"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "危地马拉的K-Food热潮…… 43家国内公司参加了当地最大的食品展览会"
         },
         {
+          "title": "“채소 듬뿍이라 안심했는데”…건강식인 줄 알았던 ‘이 음식’, 췌장 망가뜨릴 수도 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QY2ZibFJRZ3FJWWJCUGdZUEpGUm8zNk5USzgtOHRlMlNiT2t5dTd4dEY3X3daaUppS1gyZ3BwOE1QeWdRdUNIQkVxejZyczJCYnfSAVNBVV95cUxObHZkRTFzODIwWlJRTC1yejBsS1RhZ0ozYnI3blVmY1NCRVB0aFAtR0ppSzZZVmQ2SzB1WHBJWnp2d2RrZEdZQ3E0THhyLVplck9LOA?oc=5",
+          "desc": "",
+          "title_en": "“I was relieved that there were plenty of vegetables” … ‘This food‘, which I thought was a healthy food, could ruin my pancreas [heal time]",
+          "title_ja": "「野菜がたっぷりあってほっとしました」…健康的な食べ物だと思っていた「この食べ物」が膵臓を台無しにしてしまう【ヒールタイム】",
+          "title_zh": "“我松了一口气，因为有足够的蔬菜” …… ‘这种食物‘ ，我认为这是一种健康的食物，可能会破坏我的胰腺[治愈时间]"
+        },
+        {
           "title": "한국인들 좋아하는 ‘이 음식’…잘못 먹었다간 ‘치사율 50%’ 감염병 위험 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ram5mX09rQlBjaU1UOXNKV3FLTF9SY3lzY3ZWekFlLXBPb1pVdVJzTmhMd1QtN0lwbVZoSXI1dWowaDdtcmlZWmpzc3plRUE3OVHSAVNBVV95cUxQM3ZyUlhFQm84ajVqcEFCNzktV0ZJckp5OGZxTWRuMmZkMnpMb3MzOTVxck9hZmcyc1Z4Q21haW9pZmJBNmFxMTlwdEYzTkVEamRXMA?oc=5",
           "desc": "",
           "title_en": "‘This food‘ liked by Koreans… If you eat wrongly, ‘Mortality rate 50%’ Infectious disease risk [Health time]",
           "title_ja": "韓国人に好かれている「この食べ物」…誤って食べると、「死亡率50 ％」感染症のリスク【健康時間】",
           "title_zh": "韩国人喜欢的“这种食物” ……如果你吃错了， “死亡率50%”传染病风险[健康时间]"
-        },
-        {
-          "title": "“저녁 밥상에서 당장 빼라”…고혈압·뇌졸중 위험 쑥 올린다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDNzVtVTB3WXlwNWo1dHJ3SmwxYmtoYjlyX1QxSHZVTGttd2phSFRzcWVNcDZydy1YR2JtVFR1NjRjSUZKY1c2WEVyR3lOT3NkU2fSAVNBVV95cUxNWko0ak5zSGhkNXVHUnFzWmRzMVB6dFI3eXp3bFk3cDEyNkZkQmpZYU5Oejc1cmk4Y3RobmJzQXlvVnVpRHk4WDl3RFAwTzhvbDFYdw?oc=5",
-          "desc": "",
-          "title_en": "“Get off the dinner table right away” … ‘This food‘ raises the risk of high blood pressure and stroke [Healthy time]",
-          "title_ja": "「すぐに食卓から降りてください」…「この食べ物」は高血圧や脳卒中のリスクを高めます[ヘルシータイム]",
-          "title_zh": "“立即离开餐桌” …… “这种食物”会增加高血压和中风的风险[健康时间]"
         }
       ]
     },
@@ -188,12 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "배민, 한강 드론라이트쇼서 지역 맛집 소개 부스·푸드트럭 운영",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yc2lNcGV1VUtBTkZSWkREci1zZjgxR0VzRkJwb0N1blRXVmVybmJsbVhtaVBaX25GaGVXb2dPMmtLWGx2V0hxQm4ybjFUV1RULVE?oc=5",
+          "title": "K푸드 수출 날개 달았다 … 최단 기간 100억불 달성",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1mSUJuVDNRRGJmZzZzZEVVUjNkdTQyWEVEZ0lWdlVxdW9fMHVrSjFkV2pkR3FULUxfSlpFVmNWSzhnM2tSWkE?oc=5",
           "desc": "",
-          "title_en": "Baemin, Hangang Drone Light Showers Local Restaurant Booth and Food Truck Operator",
-          "title_ja": "Baemin、Hangangドローンライトシャワー地元のレストランブースとフードトラックオペレーター",
-          "title_zh": "Baemin、Hangang无人机淋浴本地餐厅展位和美食卡车运营商"
+          "title_en": "K-Food Export Winged… Achieved $10 Billion in Shortest Period",
+          "title_ja": "K - Food Export Winged…最短期間で100億ドルを達成",
+          "title_zh": "K-Food出口翅膀…在最短的时间内实现了100亿美元"
+        },
+        {
+          "title": "“라면만 잘 팔리는 줄 알았는데”…K-푸드 수출, 253일 만에 100억달러 돌파",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBteWVRM2hJLVZNb1M3eUM5VmVlaTNWQWY5MVN5NGJWdTdXdC1zT0d0Y3RNTG5faTV0MlU0VGZCaHRWak9GVVE?oc=5",
+          "desc": "",
+          "title_en": "“I thought ramen only sold well” … K-Food exports surpass $10 billion in 253 days",
+          "title_ja": "「ラーメンしか売れていないと思っていました」… K - Foodの輸出は253日間で100億ドルを超えました",
+          "title_zh": "“我以为拉面卖得很好” ……韩国食品出口在253天内超过100亿美元"
         },
         {
           "title": "‘이랬다저랬다’로 유명한 이 음식...이번엔 남성 전립선에 안 좋다고 합니다",
@@ -202,14 +210,6 @@
           "title_en": "This food is famous for ’this and that'... This time it is said to be bad for the male prostate",
           "title_ja": "この食べ物は「これとあれ」で有名です…今回は男性の前立腺に悪いと言われています",
           "title_zh": "这种食物以“这个和那个”而闻名......这次据说对男性前列腺有害"
-        },
-        {
-          "title": "MK Pick | 한식진흥원 ‘이음’, 추석 특집 전통 디저트 ‘곶감호두말이’ 무료 체험 진행",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYZ1BrRlVGeWpMQ0FwMFhLX2tNZllES0NJY01VNGJjWml6V2ViRVIzRUdpUzk4Unl6bVBsZ19hSlNzZ1Nzd2NvakwtMnE3YUVw?oc=5",
-          "desc": "",
-          "title_en": "MK Pick | Free trial of Korean Food Promotion Institute's ’Igeum‘ and Chuseok's special traditional dessert ’Cape Gamjidumal'",
-          "title_ja": "MKピック｜韓国食文化振興院の「イゲウム」と中ソクの伝統デザート「ガムジドゥマル岬」の無料体験",
-          "title_zh": "MK Pick |免费试用韩国食品推广学院的“Igeum”和Chuseok的特色传统甜点“Cape Gamjidumal”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "奇亚籽果汁……印度尼西亚的功能性饮料"
         },
         {
-          "title": "브라질 소스 시장 확대에 K-소스도 인기",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5meGJsZWUyOEZlamIyQTlFMVNhdzZtZkRvdThQZWdRenh5ZXJIcW54dTNDeUx5RHh1X3ZzQjNaZ05KMnRmVVlRdzgxZzBqT0U4aVMtYV9jaw?oc=5",
-          "desc": "",
-          "title_en": "K-Sauce is also popular for expanding Brazilian sauce market",
-          "title_ja": "Kソースは、ブラジルのソース市場を拡大するためにも人気があります",
-          "title_zh": "K酱在扩大巴西酱汁市场方面也很受欢迎"
-        },
-        {
           "title": "일본의 세대별 주류시장 소비 특징은?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlSXFZVmhPOXlCS2YtUlBrTnZPbllxQncxZmhzZUdnNi10cXFPMktRb19fZmhVREZ3MFotazVyaXpEdTBCU2FVSzl3ak5zZC1LUEtEZjdNbw?oc=5",
           "desc": "",
           "title_en": "What are the characteristics of Japan's generation-specific alcohol consumption market?",
           "title_ja": "日本の世代別アルコール消費市場の特徴は何ですか？",
           "title_zh": "日本特定世代的酒类消费市场有哪些特点？"
+        },
+        {
+          "title": "최대 55% 저렴하게…샘표 ‘추석 기획전’ 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95WmN3WlNSWGdzREZYMExBU09sZk1pZl9YeGZkbF9TVW03Wk9lTXptUWJTV0trRXhndE16c2ZvT2dTNUhpMnRSM1lTQTFCdlZGazFrSGhOTQ?oc=5",
+          "desc": "",
+          "title_en": "Up to 55% cheaper… Sampyo opens‘ Korean Thanksgiving Exhibition ’",
+          "title_ja": "最大55 ％安い… Sampyoが「韓国の感謝祭展示会」を開きます",
+          "title_zh": "最多便宜55% …… Sampyo开设了“韩国感恩节展览”"
         }
       ]
     }
