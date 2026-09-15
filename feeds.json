@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T11:14:37Z",
+  "lastUpdated": "2026-09-15T16:25:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "The Amount of Wood Pulp in Grated Parmesan Cheese May Surprise You",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTV9QcDh5R2ZUMVM2QW9RNGFMZng4eVlSa3BtOE1xQm1uQnJybV85STktRGNudUJ0cW9rVHd6Zk9ubV9TUW04SFEtMW1mSWNBQ1B6Y3VERUZLZHVQQ2JKM0lGVkx3eWZaRmxGSkZMUUpBdmdOTFhZdWxmNkliMU4wTTdPVFhOWGRZZklIRkFYc0g2M28?oc=5",
+          "desc": "",
+          "title_ko": "강판 파마산 치즈의 목재 펄프 양이 당신을 놀라게 할 수 있습니다",
+          "title_ja": "おろしパルメザンチーズの木材パルプの量はあなたを驚かせるかもしれません",
+          "title_zh": "磨碎的帕尔马干酪中的木浆量可能会让您大吃一惊"
+        },
+        {
           "title": "New High-Protein, Low-Calorie Beer Targets Gym Goers",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnUwVWFUaGxUUEo0V2pMVGhGRlJUOGd0enhNNjhGc01EWjVua05WMFhaS0xuOHBpdGxIbWFmbllaVFYydEp0S2VDQThSZktPRlNxX3NKbXdDMjhUTEVNSEl3bHVXYlE3UzhzQkpOWUZrbmRXTENqNDUxeHVpMFJQQ1RXaElkeE9QYy04bw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
           "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
           "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "옛날 음식 취급받더니…영국서 때아닌 '피클' 열풍, 왜",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iY2xhZXhwbzJlbTVieU5tQkJlcE54VjE5T3FoOVBEeWdSVVhhTlQwZXZUNDRWRi1IdkZEc2tqU051YUhLZ3lQZV9zcVFoX1NMMm0zaFRrLWRQQQ?oc=5",
+          "desc": "",
+          "title_en": "I was treated to old food... The 'pickle' craze, not in England, why",
+          "title_ja": "私は古い食べ物を扱われました...なぜイングランドではなく、「ピクルス」の流行",
+          "title_zh": "我吃了旧食物…… “泡菜”热潮，不是在英格兰，为什么"
+        },
+        {
           "title": "현대그린푸드, 카자흐에 K푸드 생산 거점 구축",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pOU5XdmJSOTA0ZUVsckxNZE1XM21qQ0FOYVBQblFUaFBqSFZnS3I4bl9xcHY0NE04RjYyZzhld2M4T0NqcUwwUDNJWXlKQlRDUGRVV2Jqc3FmQQ?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Foods Establishes K-Food Production Base in Kazakhstan",
           "title_ja": "Hyundai Green Foods、カザフスタンにK - Food生産拠点を設立",
           "title_zh": "现代绿色食品在哈萨克斯坦建立K-Food生产基地"
-        },
-        {
-          "title": "[2026 한국브랜드만족지수 1위] K-이너뷰티 브랜드, 푸드올로지",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yYjFOWlVPOG9lSi0zRV92VEhyM0NUSUJsOC1YZldKWGtHeXJaeUt4d0c4RWU4SkJJV0R0YkpUa0NhUzFLSUtzY3lJYlBBMVVWcXFDQ2pOX01rS21oVG9qd3dGSXRDZ0xRM1g0SQ?oc=5",
-          "desc": "",
-          "title_en": "[2026 Korea Brand Satisfaction Index No. 1] K-Inner Beauty Brand, Foodology",
-          "title_ja": "【2026年韓国ブランド満足度指数No.1】K - Inner Beauty Brand, Foodology",
-          "title_zh": "【2026韩国品牌满意度指数No.1】K-Inner美容品牌，食品学"
         },
         {
           "title": "현대그린푸드, 카자흐스탄 알라타우시에 ‘K푸드 생산 시설’ 만든다",
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "그린푸드, 카자흐에 K푸드 공장 만든다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vTElLUXZXUS1Lc1dOQlpxY2k0VWhmR3dSRlA2TWhlX0xVRlBSaUJJQk94Q0xyclMyY3RZLWZ6VEVZdXl0RFE?oc=5",
-          "desc": "",
-          "title_en": "Green Food Makes K-Food Factory in Kazakhstan",
-          "title_ja": "Green Food、カザフスタンにK - Food工場を建設",
-          "title_zh": "绿色食品在哈萨克斯坦建造K-Food工厂"
-        },
-        {
           "title": "현대그린푸드, 카자흐 알라타우시에 식품공장 건설 추진",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GVjU2aXJScmxpb0pFVkx4b1JCZXlhaXFCdzV5cDlWbzByZzhlQl92QVB6N1dQTnAwcG1VQ1A1VmtLbWl1Sm5qTF9OMUJSY2Jpa1E?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Foods promotes construction of a food factory in Alataúsi, Kazakhstan",
           "title_ja": "Hyundai Green Foods、カザフスタンのAlataúsiに食品工場の建設を推進",
           "title_zh": "现代绿色食品公司推动在哈萨克斯坦Alataúsi建造食品工厂"
+        },
+        {
+          "title": "그린푸드, 카자흐에 K푸드 공장 만든다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vTElLUXZXUS1Lc1dOQlpxY2k0VWhmR3dSRlA2TWhlX0xVRlBSaUJJQk94Q0xyclMyY3RZLWZ6VEVZdXl0RFE?oc=5",
+          "desc": "",
+          "title_en": "Green Food Makes K-Food Factory in Kazakhstan",
+          "title_ja": "Green Food、カザフスタンにK - Food工場を建設",
+          "title_zh": "绿色食品在哈萨克斯坦建造K-Food工厂"
         },
         {
           "title": "[게시판] 서울 마포구 SVC서울서 '늘편푸드' 품평회",
@@ -218,20 +218,20 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "‘맵단’부터 저당 소스까지…설빙 메뉴 옵션이 달라진다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05NmtkUVBqUkFIQi1MUzFHSG0wQVhoazA4NzVsWDdoY2xfZENfZm5HOFNOVjc4dFVEdTdFZ25DcFoyWXlZWnJXd2xYNklXTy1DclhIZ2o1bw?oc=5",
+          "desc": "",
+          "title_en": "From ‘map stage’ to mortgage sauce… the menu options for snowing are different",
+          "title_ja": "「マップステージ」から住宅ローンソースまで…雪のメニューオプションが異なります",
+          "title_zh": "从“地图阶段”到抵押贷款酱……下雪的菜单选项不同"
+        },
+        {
           "title": "건강한 지중해식에 레드와인이? 항산화효과 있을까",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZNW1Ga09IaEExak1oMy14Y1VJZ1JKUE9Od3NjZVZueWZpZ0FxdUxVT0JGa0lLRzZHaUJrVlVqWjlobEcwM1F6R0hJUXhLNnVIMXIzcWlEdw?oc=5",
           "desc": "",
           "title_en": "Does red wine have antioxidant effects on a healthy Mediterranean diet?",
           "title_ja": "赤ワインは、健康的な地中海式食事に抗酸化効果がありますか？",
           "title_zh": "红葡萄酒对健康的地中海饮食有抗氧化作用吗？"
-        },
-        {
-          "title": "K-디저트, 일본의 냉동고를 채운다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KakszY21pcWptaXQzTzNiQUR6b3pVVnVfZzB5VE1zYzBveV9rY0s2cV9kd1EtY1h5aGNJdUJTbzdwa0VSRzAzY1A2R0NnekI2ZDZxYzF1aw?oc=5",
-          "desc": "",
-          "title_en": "K-Dessert Fills Freezer in Japan",
-          "title_ja": "日本の冷凍庫にKデザートを充填",
-          "title_zh": "日本K-Dessert冰柜"
         },
         {
           "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
