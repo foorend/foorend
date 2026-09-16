@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T23:26:38Z",
+  "lastUpdated": "2026-09-16T03:41:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드, 육군과 손잡고 전역 장병 취업 지원 나선다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OVlhXby1BWEFsU2w1SXFhdm40TVA5R2wzMDg5OU9fR1BrNk5GMm51SGRYLTdSTUdlZUxJRFVxSUhFR09GaDdnUU1HUmVkS1FpaGczZngtVGhndw?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food Teams Up with Army to Support Employment of Military Soldiers",
+          "title_ja": "現代グリーンフード、陸軍と協力して軍人の雇用を支援",
+          "title_zh": "现代绿色食品与陆军合作支持军人就业"
+        },
+        {
           "title": "옛날 음식 취급받더니…영국서 때아닌 '피클' 열풍, 왜",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iY2xhZXhwbzJlbTVieU5tQkJlcE54VjE5T3FoOVBEeWdSVVhhTlQwZXZUNDRWRi1IdkZEc2tqU051YUhLZ3lQZV9zcVFoX1NMMm0zaFRrLWRQQQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Foods Builds K-Food Factory in Kazakhstan",
           "title_ja": "Hyundai Green Foods、カザフスタンにK - Food工場を建設",
           "title_zh": "现代绿色食品在哈萨克斯坦建立K-Food工厂"
-        },
-        {
-          "title": "현대그린푸드, 카자흐스탄 알라타우시에 ‘K푸드 생산 시설’ 만든다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CbVRKdk5DcUJKb0s4VEV6Wm56Ry05V0JtTk5TRXRPbXNXS1dER0dFSTVTZ0FuN2pxSDQxeFVQSno5MlBTRWhTVlV3aGNIbEpZalI2bXduZzU1dw?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food Creates' K-Food Production Facility ’in Alataushi, Kazakhstan",
-          "title_ja": "Hyundai Green Food、カザフスタンのAlataushiに「K - Food Production Facility」を設立",
-          "title_zh": "现代绿色食品在哈萨克斯坦Alataushi建立“K-Food生产设施”"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "현대그린푸드, 육군 조리병 대상 채용설명회…100명 이상 채용",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWm1KcEVWaFR4SS1XeThKRVdsSXBUZVR2a3lOV28zV3BTQmdtSlpxSU1Qd0xiOUZOUXh1REhRb0J1bzlCVk9RMHZCaTIwM0Rqdmc?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, Recruitment Explanation for Army Cook Soldiers… Over 100 Employees",
+          "title_ja": "ヒュンダイグリーンフード、陸軍調理兵士の募集説明… 100人以上の従業員",
+          "title_zh": "现代绿色食品，陆军厨师士兵招募说明……超过100名员工"
+        },
+        {
+          "title": "구미에 K-푸드 연구거점 짓는다…한국식품연구원 경북본부 착공",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNXB2Wk0tZG5hQ21kUmxBaTJjeTVtX3AxYnFaU1g0SGNqdEFXYmh5TEZ2X3pSTXVYTFRNcGRWSVN0cjd2Wk9LaTNhTUtqV0huRXc?oc=5",
+          "desc": "",
+          "title_en": "K-Food research base is built in Gumi… Korea Food Research Institute starts Gyeongbuk Headquarters",
+          "title_ja": "K - Food研究拠点を組に…韓国食品総合研究所京北本社開設",
+          "title_zh": "K-Food研究基地建在Gumi…韩国食品研究所启动庆北总部"
+        },
+        {
           "title": "현대그린푸드, 카자흐 알라타우시에 식품공장 건설 추진",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GVjU2aXJScmxpb0pFVkx4b1JCZXlhaXFCdzV5cDlWbzByZzhlQl92QVB6N1dQTnAwcG1VQ1A1VmtLbWl1Sm5qTF9OMUJSY2Jpa1E?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Foods promotes construction of a food factory in Alataúsi, Kazakhstan",
           "title_ja": "Hyundai Green Foods、カザフスタンのAlataúsiに食品工場の建設を推進",
           "title_zh": "现代绿色食品公司推动在哈萨克斯坦Alataúsi建造食品工厂"
-        },
-        {
-          "title": "그린푸드, 카자흐에 K푸드 공장 만든다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vTElLUXZXUS1Lc1dOQlpxY2k0VWhmR3dSRlA2TWhlX0xVRlBSaUJJQk94Q0xyclMyY3RZLWZ6VEVZdXl0RFE?oc=5",
-          "desc": "",
-          "title_en": "Green Food Makes K-Food Factory in Kazakhstan",
-          "title_ja": "Green Food、カザフスタンにK - Food工場を建設",
-          "title_zh": "绿色食品在哈萨克斯坦建造K-Food工厂"
-        },
-        {
-          "title": "[게시판] 서울 마포구 SVC서울서 '늘편푸드' 품평회",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tbFlsVHVZRlotaHlPU0JuQ0NOcEpRSnBBVXQwQUlsNko1dDFyUFFldDR3QlYzX1gzQ2NYVWg4WU1oZ3pnSjdSbFZRbTRSREUyaFE?oc=5",
-          "desc": "",
-          "title_en": "[Bulletin Board] SVC Seoul, Mapo-gu, Seoul 'Seolpyeon Food' Fair",
-          "title_ja": "【掲示板】SVCソウル、麻浦区、ソウル「ソルピョンフード」フェア",
-          "title_zh": "【公告栏】SVC首尔麻浦区「Seolpyeon Food」集市"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "红葡萄酒对健康的地中海饮食有抗氧化作用吗？"
         },
         {
-          "title": "미국, 단백질 수요 급증에 유청단백질 공급 부족",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kZkNNM2pPRFR4cXZjbS1PTFcxX2JKd3g5Uy14ODJBQTJIdzNzWkoydXNVWkRUaVhPQXRWTU51TWFESE5VTWJVN0FnMnJ5VFRhSjhzNFM2NA?oc=5",
+          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
           "desc": "",
-          "title_en": "US Lacks Whey Protein Supply as Protein Demand Surges",
-          "title_ja": "タンパク質需要の急増に伴う米国の乳清タンパク質供給不足",
-          "title_zh": "随着蛋白质需求激增，美国缺乏乳清蛋白供应"
+          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
+          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
+          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
         }
       ]
     }
