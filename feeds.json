@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-09-16T16:16:45Z",
+  "lastUpdated": "2026-09-16T20:56:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Burger King's owner to pay $18.2M in a settlement over its Carrols acquisition",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMF9VT0NMUFRXbmFCVG5DR1BfZlN4dWxzZGJwNUYtVVZzYWx1SndHSkJwWDVlX3h3cW8tbEYyX0syeTc1SzJWa29idDd0TVFMUGdRaUlLeDVwa1ZVSVFlMmZkaGdVdVNKQlpjd3pqWWtuOGM4aWZTTXNmeFJITm1ybDUtMmxkZWQtbVVUM1pGYUZOWjBUREJkcjIyRWs5TnBIdnJzb0VMNUhZSUdMWHN5Y3lHR3JRSmtKdGc?oc=5",
+          "desc": "",
+          "title_ko": "버거킹의 소유주가 Carrols 인수에 대한 합의금으로 $ 1,820만 지불",
+          "title_ja": "バーガーキングのオーナーは、キャロルズの買収に関する和解で1820万$を支払う",
+          "title_zh": "汉堡王的所有者将为其收购Carrols支付1820万美元的和解金"
+        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "맥도날드는 최고 육류 가공업체들이 돼지고기 가격을 담합했다고 비난합니다.",
           "title_ja": "マクドナルドは、豚肉の価格を固定していると一流の肉加工業者を非難",
           "title_zh": "麦当劳指责顶级肉类加工商操纵猪肉价格"
-        },
-        {
-          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
-          "desc": "",
-          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
-          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
-          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
         }
       ]
     },
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "현대그린푸드, 카자흐스탄에 K푸드 생산시설 구축",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxS0QzTW1DMjQzRG9wN2I1X1RxZjNWZF9aNUJMUXZOdmNqd3Y2Ym9WbzhMUXJIY25DMEJJNmxIaUR0UU1BZnVOX0ZTYXQ4OG1CQUdv0gFTQVVfeXFMUDFLRDNNbUMyNDNEb3A3YjVfVHFmM1ZkX1o1QkxRdk52Y2p3djZib1ZvOExRckhjbkMwQkk2bEhpRHRRTUFmdU5fRlNhdDg4bUJBR28?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Foods Establishes K-Food Production Facility in Kazakhstan",
-          "title_ja": "Hyundai Green Foods、カザフスタンにK - Food生産施設を設立",
-          "title_zh": "现代绿色食品在哈萨克斯坦建立K-Food生产设施"
-        },
-        {
           "title": "한국인들 소울푸드인데…“이젠 못 사먹겠다” 이것마저 1만원 코앞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BZDA0cktOTEhnVUc0d0NFMjJ2QlZzR1JGR0wyZXdLNHJESnVNZmFrN0ZoQUJqZWFibFpKODdSV0tMaGh1cDJoNHQzX2JiTXJ6UXfSAVNBVV95cUxPYXZpYUNiSE1uajdWNEg5amV0ZHRseUttX0JhV3Ytc3E4dlVKVHM1N3BmMW5kRTJHeklTcHNTcEpUaVBLd2txemJ2RXB0eXJJd1FKMA?oc=5",
           "desc": "",
@@ -175,11 +167,19 @@
         },
         {
           "title": "[사진] “K푸드 레시피 궁금해”…비빔밥 배우는 외국인들",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0LURzb09lVFd1YVJkZV9JdEwzVFdBbmFlVkdDbDAzcEhzZk83OVVxUTFZNlNEVkZmQWsxQlVCMHdoc3VZbHowOXk0NTZDTVM2V3dF0gFTQVVfeXFMUDQtRHNvT2VUV3VhUmRlX0l0TDNUV0FuYWVWR0NsMDNwSHNmTzc5VXFRMVk2U0RWRmZBazFCVUIwd2hzdVlsejA5eTQ1NkNNUzZXd0U?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93MXUtQ1p3cHRaeUJkSG9obDg1Q1EwQVlzcTZ5WEw2VTRhb2IwQndUMFpNSl9kT1N2c0NLcUJHajFMTWVOempHZjRyLUxka09YTGfSAVNBVV95cUxQNC1Ec29PZVRXdWFSZGVfSXRMM1RXQW5hZVZHQ2wwM3BIc2ZPNzlVcVExWTZTRFZGZkFrMUJVQjB3aHN1WWx6MDl5NDU2Q01TNld3RQ?oc=5",
           "desc": "",
           "title_en": "[Photo] “I'm curious about K-food recipes” … Foreigners learning bibimbap",
           "title_ja": "【写真】「Kフードのレシピに興味がある」…ビビンバを学ぶ外国人",
           "title_zh": "[照片] “我对K-food食谱很好奇” ……外国人学习拌饭"
+        },
+        {
+          "title": "현대그린푸드, 카자흐스탄에 K푸드 생산시설 구축",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxS0QzTW1DMjQzRG9wN2I1X1RxZjNWZF9aNUJMUXZOdmNqd3Y2Ym9WbzhMUXJIY25DMEJJNmxIaUR0UU1BZnVOX0ZTYXQ4OG1CQUdv0gFTQVVfeXFMUDFLRDNNbUMyNDNEb3A3YjVfVHFmM1ZkX1o1QkxRdk52Y2p3djZib1ZvOExRckhjbkMwQkk2bEhpRHRRTUFmdU5fRlNhdDg4bUJBR28?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Foods Establishes K-Food Production Facility in Kazakhstan",
+          "title_ja": "Hyundai Green Foods、カザフスタンにK - Food生産施設を設立",
+          "title_zh": "现代绿色食品在哈萨克斯坦建立K-Food生产设施"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "K-Food研究基地建在Gumi…韩国食品研究所启动庆北总部"
         },
         {
-          "title": "현대그린푸드, 카자흐 알라타우시에 식품공장 건설 추진",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GVjU2aXJScmxpb0pFVkx4b1JCZXlhaXFCdzV5cDlWbzByZzhlQl92QVB6N1dQTnAwcG1VQ1A1VmtLbWl1Sm5qTF9OMUJSY2Jpa1E?oc=5",
+          "title": "그린푸드, 카자흐에 K푸드 공장 만든다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vTElLUXZXUS1Lc1dOQlpxY2k0VWhmR3dSRlA2TWhlX0xVRlBSaUJJQk94Q0xyclMyY3RZLWZ6VEVZdXl0RFE?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Foods promotes construction of a food factory in Alataúsi, Kazakhstan",
-          "title_ja": "Hyundai Green Foods、カザフスタンのAlataúsiに食品工場の建設を推進",
-          "title_zh": "现代绿色食品公司推动在哈萨克斯坦Alataúsi建造食品工厂"
+          "title_en": "Green Food Makes K-Food Factory in Kazakhstan",
+          "title_ja": "Green Food、カザフスタンにK - Food工場を建設",
+          "title_zh": "绿色食品在哈萨克斯坦建造K-Food工厂"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "从“地图阶段”到抵押贷款酱……下雪的菜单选项不同"
         },
         {
-          "title": "건강한 지중해식에 레드와인이? 항산화효과 있을까",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZNW1Ga09IaEExak1oMy14Y1VJZ1JKUE9Od3NjZVZueWZpZ0FxdUxVT0JGa0lLRzZHaUJrVlVqWjlobEcwM1F6R0hJUXhLNnVIMXIzcWlEdw?oc=5",
+          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
           "desc": "",
-          "title_en": "Does red wine have antioxidant effects on a healthy Mediterranean diet?",
-          "title_ja": "赤ワインは、健康的な地中海式食事に抗酸化効果がありますか？",
-          "title_zh": "红葡萄酒对健康的地中海饮食有抗氧化作用吗？"
+          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
+          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
+          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
         },
         {
-          "title": "GLP-1 소비, 햄버거 메뉴도 바꾼다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCanFVcU9GeXRSTHh6Wl9GY0JqZXhSNk1yX3J5OVJUVFFhbnVlRjlVcFZsRERDMkRaajNXRU10dnRMdWF0cFUtRjdvZXloa3otam9CenNGTQ?oc=5",
+          "title": "전통주부터 해산물까지…호시노 리조트의 9월 상차림",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfRk80UTd5ZEV3aThncFlQRXVEMDc2VU0zSmFWQ0VEbDJEdGJIYU43V0pwdVcyOWN2RWxLT0ZPelFEU3U3cmpRYndwckx3RTdGWnVvdXVFOA?oc=5",
           "desc": "",
-          "title_en": "GLP-1 Consumption Changes Hamburger Menu",
-          "title_ja": "GLP -1消費量がハンバーガーメニューを変更",
-          "title_zh": "GLP-1消费量改变汉堡菜单"
+          "title_en": "From traditional spirits to seafood… Hoshino Resort's September meal",
+          "title_ja": "伝統的なスピリッツからシーフードまで…星野リゾートの9月の食事",
+          "title_zh": "从传统烈酒到海鲜……星野度假村的九月大餐"
         }
       ]
     }
