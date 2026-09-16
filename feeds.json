@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T10:57:34Z",
+  "lastUpdated": "2026-09-16T16:16:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Hoy Is Bringing Night-Market Energy to NYC",
+          "link": "https://www.eater.com/pre-shift/986732/hoy-filipino-restaurant-nyc-design-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "뉴욕에 야시장 에너지를 불어넣는 호이",
+          "title_ja": "HoyがNYCにナイトマーケットエネルギーをもたらす",
+          "title_zh": "Hoy为纽约市带来夜市能源"
+        },
+        {
           "title": "Eater Will Host the First-Ever El Pre Party During Billboard Latin Music Week",
           "link": "https://www.eater.com/press-room/984310/tickets-el-pre-party",
           "desc": "In its first-ever partnership with Billboard, Eater will host El Pre Party during Latin Music Week: an exclusive pregame to En Vivo featuring bites an",
@@ -110,14 +118,6 @@
           "title_ko": "이 레스토랑은 흔들립니다 (아니요, 말 그대로)",
           "title_ja": "このレストランは素晴らしい（いいえ、文字通り）",
           "title_zh": "这家餐厅很棒（不，从字面上看）"
-        },
-        {
-          "title": "D.C.’s Most Exciting New Restaurant Started as a Pop-Up",
-          "link": "https://www.eater.com/pre-shift/985977/alfies-dc-pop-up-pre-shift",
-          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "팝업으로 시작된 워싱턴 D.C. 의 가장 흥미진진한 새로운 레스토랑",
-          "title_ja": "ワシントンD.C.で最もエキサイティングな新しいレストランがポップアップレストランとしてスタート",
-          "title_zh": "华盛顿特区最令人兴奋的新餐厅从弹出式餐厅开始"
         }
       ]
     }
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "[사진] “K푸드 레시피 궁금해”…비빔밥 배우는 외국인들",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93MXUtQ1p3cHRaeUJkSG9obDg1Q1EwQVlzcTZ5WEw2VTRhb2IwQndUMFpNSl9kT1N2c0NLcUJHajFMTWVOempHZjRyLUxka09YTGfSAVNBVV95cUxQNC1Ec29PZVRXdWFSZGVfSXRMM1RXQW5hZVZHQ2wwM3BIc2ZPNzlVcVExWTZTRFZGZkFrMUJVQjB3aHN1WWx6MDl5NDU2Q01TNld3RQ?oc=5",
-          "desc": "",
-          "title_en": "[Photo] “I'm curious about K-food recipes” … Foreigners learning bibimbap",
-          "title_ja": "【写真】「Kフードのレシピに興味がある」…ビビンバを学ぶ外国人",
-          "title_zh": "[照片] “我对K-food食谱很好奇” ……外国人学习拌饭"
-        },
-        {
           "title": "현대그린푸드, 카자흐스탄에 K푸드 생산시설 구축",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxS0QzTW1DMjQzRG9wN2I1X1RxZjNWZF9aNUJMUXZOdmNqd3Y2Ym9WbzhMUXJIY25DMEJJNmxIaUR0UU1BZnVOX0ZTYXQ4OG1CQUdv0gFTQVVfeXFMUDFLRDNNbUMyNDNEb3A3YjVfVHFmM1ZkX1o1QkxRdk52Y2p3djZib1ZvOExRckhjbkMwQkk2bEhpRHRRTUFmdU5fRlNhdDg4bUJBR28?oc=5",
           "desc": "",
@@ -174,12 +166,20 @@
           "title_zh": "现代绿色食品在哈萨克斯坦建立K-Food生产设施"
         },
         {
-          "title": "“식탁에서 당장 치워라”…암 위험 높인다는 ‘이 음식’, 의사 경고 나왔다 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aMFhGLUEwdHJxZkQ3ZmJOclFybkNvQWp5UnFiMG80TlNLMGxlelNZaTFMOFRvREJZbUJxZU1oYWhUc1p2eHFsQVJOMmU4VzFVVGfSAVNBVV95cUxPRGtXVnRfNW1SdjNQcGtrOU5rN01DRU5RTnd2OFZRLTZlYXVfY1VHbE9kTmpGSkluZG5CaFNSSHA2MEtRSUx0dWJ3LW01RkthWFdVaw?oc=5",
+          "title": "한국인들 소울푸드인데…“이젠 못 사먹겠다” 이것마저 1만원 코앞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BZDA0cktOTEhnVUc0d0NFMjJ2QlZzR1JGR0wyZXdLNHJESnVNZmFrN0ZoQUJqZWFibFpKODdSV0tMaGh1cDJoNHQzX2JiTXJ6UXfSAVNBVV95cUxPYXZpYUNiSE1uajdWNEg5amV0ZHRseUttX0JhV3Ytc3E4dlVKVHM1N3BmMW5kRTJHeklTcHNTcEpUaVBLd2txemJ2RXB0eXJJd1FKMA?oc=5",
           "desc": "",
-          "title_en": "“Remove Me from Table” … ‘This Food‘ Increases Cancer Risk, Doctor Warned [Health Time]",
-          "title_ja": "「テーブルから私を取り除いてください」…「この食べ物」はがんのリスクを高めます、医師は警告しました[健康時間]",
-          "title_zh": "“把我从餐桌上移开” … ‘这种食物‘会增加癌症风险，医生警告[健康时间]"
+          "title_en": "It's a Korean soul food... Even “I can't buy it anymore” is 10,000 won right in front of me.",
+          "title_ja": "それは韓国のソウルフードです...「もう買えません」でさえ、私の目の前に1万ウォンです。",
+          "title_zh": "这是一种韩国灵魂美食……即使是「我再也买不到了」，我面前也是10000韩元。"
+        },
+        {
+          "title": "[사진] “K푸드 레시피 궁금해”…비빔밥 배우는 외국인들",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0LURzb09lVFd1YVJkZV9JdEwzVFdBbmFlVkdDbDAzcEhzZk83OVVxUTFZNlNEVkZmQWsxQlVCMHdoc3VZbHowOXk0NTZDTVM2V3dF0gFTQVVfeXFMUDQtRHNvT2VUV3VhUmRlX0l0TDNUV0FuYWVWR0NsMDNwSHNmTzc5VXFRMVk2U0RWRmZBazFCVUIwd2hzdVlsejA5eTQ1NkNNUzZXd0U?oc=5",
+          "desc": "",
+          "title_en": "[Photo] “I'm curious about K-food recipes” … Foreigners learning bibimbap",
+          "title_ja": "【写真】「Kフードのレシピに興味がある」…ビビンバを学ぶ外国人",
+          "title_zh": "[照片] “我对K-food食谱很好奇” ……外国人学习拌饭"
         }
       ]
     },
