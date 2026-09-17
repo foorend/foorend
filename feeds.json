@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T23:35:23Z",
+  "lastUpdated": "2026-09-17T03:46:21Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -74,20 +74,20 @@
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
         },
         {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
           "desc": "",
           "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
           "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
           "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
+        },
+        {
+          "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3pBcDV0OU9uRnJfSXZfMkYxTms3a2UtZ0swOU82YXpvQ3ZMTnJlS0dzNVJyakwtenBSWXhIT2RyVFBXTzNIbFdEM3dWeW92X3EyT3FGTUVxc3ptbGJRTDdPRkxoNU5ubng5ZlhXQTRBNmNnQWVXTm4wSlRSdGhwYjg0QnNTN2t6d2NmQWFhWnRuUmRjV0N2cHBXSXkxNkk?oc=5",
+          "desc": "",
+          "title_ko": "구글 벤처스 (Google Ventures) 등으로부터 1억 달러 ($) 를 모금하기 위해 사용된 독점적인 피치 데크 음식물 쓰레기 처리장 (Pitch deck food waste startup Mill) 을",
+          "title_ja": "Google Venturesなどから1億$を調達したピッチデッキ食品廃棄物スタートアップMillをチェック",
+          "title_zh": "查看独家推销平台食物垃圾初创公司Mill ，该公司曾从Google Ventures和其他公司筹集了1亿美元$"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "강원랜드,‘셰프와 함께 하는 행복한 음식 나눔’봉사활동 전개",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tZUNPTThOamhCenNqNGJiNWhXZ2FGSnFmaWJCUFN2U09tY0FsTndkV3Z4c09WM1BNZTNPVF9mMjI0b3MxM1h5SXl3N0l1eUdLQ1hqd29TZzQ2Zw?oc=5",
+          "desc": "",
+          "title_en": "Gangwon Land, ‘Sharing Happy Food with a Chef’ Volunteer Activities",
+          "title_ja": "カンウォンランド「シェフとハッピーフードをシェアする」ボランティア活動",
+          "title_zh": "江原道「与大厨分享快乐美食」志愿者活动"
+        },
+        {
           "title": "롯데웰푸드, 행안부-대구 군위군과 '지역 상생 업무협약' 체결… 군위 사과 시리즈 공개",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zV2w4TGk0Slg2a1E4bEJNUFR6TTMwTnRCSTVBVHVrSkowdDVHaGxZaS1XNDRwUzVRQnQ0THNSc1pONkxQMFVxUDZjRWtzOHhxajJwMFhJenFrQnZ0WVZSTVp2Z29RWFlGNm5SYQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food Creates' K-Food Production Facility ’in Alataushi, Kazakhstan",
           "title_ja": "Hyundai Green Food、カザフスタンのAlataushiに「K - Food Production Facility」を設立",
           "title_zh": "现代绿色食品在哈萨克斯坦Alataushi建立“K-Food生产设施”"
-        },
-        {
-          "title": "현대그린푸드, 육군과 손잡고 전역 장병 취업 지원 나선다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OVlhXby1BWEFsU2w1SXFhdm40TVA5R2wzMDg5OU9fR1BrNk5GMm51SGRYLTdSTUdlZUxJRFVxSUhFR09GaDdnUU1HUmVkS1FpaGczZngtVGhndw?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food Teams Up with Army to Support Employment of Military Soldiers",
-          "title_ja": "現代グリーンフード、陸軍と協力して軍人の雇用を支援",
-          "title_zh": "现代绿色食品与陆军合作支持军人就业"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "K-Food研究基地建在Gumi…韩国食品研究所启动庆北总部"
         },
         {
-          "title": "그린푸드, 카자흐에 K푸드 공장 만든다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vTElLUXZXUS1Lc1dOQlpxY2k0VWhmR3dSRlA2TWhlX0xVRlBSaUJJQk94Q0xyclMyY3RZLWZ6VEVZdXl0RFE?oc=5",
+          "title": "“군대에서도 햄버거 즐긴다”…노브랜드 버거, 군 부대 진출",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFUHZHLWxIcEhmU011em5tNzdoOXJ0ZjV3TVZKdUp3akN6UGdqaExuSDNqVmc0dkJQb0tzN1NCZTJfUDQ3cUE?oc=5",
           "desc": "",
-          "title_en": "Green Food Makes K-Food Factory in Kazakhstan",
-          "title_ja": "Green Food、カザフスタンにK - Food工場を建設",
-          "title_zh": "绿色食品在哈萨克斯坦建造K-Food工厂"
+          "title_en": "“I also enjoy hamburgers in the military” … No-brand burger, military troop entry",
+          "title_ja": "「軍隊でもハンバーガーを楽しんでいます」…ブランドなしのハンバーガー、軍隊への入場",
+          "title_zh": "“我也喜欢在军队吃汉堡” ……无品牌汉堡，军人入场"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "브라질 소스 시장 확대에 K-소스도 인기",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5meGJsZWUyOEZlamIyQTlFMVNhdzZtZkRvdThQZWdRenh5ZXJIcW54dTNDeUx5RHh1X3ZzQjNaZ05KMnRmVVlRdzgxZzBqT0U4aVMtYV9jaw?oc=5",
+          "desc": "",
+          "title_en": "K-Sauce is also popular for expanding Brazilian sauce market",
+          "title_ja": "Kソースは、ブラジルのソース市場を拡大するためにも人気があります",
+          "title_zh": "K酱在扩大巴西酱汁市场方面也很受欢迎"
+        },
         {
           "title": "‘맵단’부터 저당 소스까지…설빙 메뉴 옵션이 달라진다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05NmtkUVBqUkFIQi1MUzFHSG0wQVhoazA4NzVsWDdoY2xfZENfZm5HOFNOVjc4dFVEdTdFZ25DcFoyWXlZWnJXd2xYNklXTy1DclhIZ2o1bw?oc=5",
@@ -226,20 +234,12 @@
           "title_zh": "从“地图阶段”到抵押贷款酱……下雪的菜单选项不同"
         },
         {
-          "title": "“가지 싫어해도 이건 먹어요”…꿀맛 ‘가지 탕수’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oc1JmUVR4TTdnVjhRZXJzVl9UYUVGOEktR0FGT3VYbWoya055dWcwSEx3UXF6OHY5c0h1QThueUdYeUtJN2hYVm03QS1QVFRpSS1nVXo5WQ?oc=5",
+          "title": "“콩 식품, 치매 예방·기억력 개선에 도움”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KNDljeXVFQS1PN0cwZWFSSlA1ZUpRWU4wcnVXNkltakI5YTFnX2d4Y0Y2NFBSRkthZDVCVWdFOUVpV2U2TFlsT0kyV1dxRTFvSmVobHI5SQ?oc=5",
           "desc": "",
-          "title_en": "“Even if you don't like eggplant, eat this” … Honey ‘eggplant tangsu’",
-          "title_ja": "「茄子が嫌いでもこれを食べなさい」…はちみつ「茄子タンス」",
-          "title_zh": "“就算不喜欢茄子也要吃这个” ……蜂蜜‘茄子汤’"
-        },
-        {
-          "title": "전통주부터 해산물까지…호시노 리조트의 9월 상차림",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfRk80UTd5ZEV3aThncFlQRXVEMDc2VU0zSmFWQ0VEbDJEdGJIYU43V0pwdVcyOWN2RWxLT0ZPelFEU3U3cmpRYndwckx3RTdGWnVvdXVFOA?oc=5",
-          "desc": "",
-          "title_en": "From traditional spirits to seafood… Hoshino Resort's September meal",
-          "title_ja": "伝統的なスピリッツからシーフードまで…星野リゾートの9月の食事",
-          "title_zh": "从传统烈酒到海鲜……星野度假村的九月大餐"
+          "title_en": "“Soy foods help prevent dementia and improve memory”",
+          "title_ja": "「大豆食品は認知症を予防し、記憶力を向上させるのに役立ちます」",
+          "title_zh": "“大豆食品有助于预防痴呆症和改善记忆力”"
         }
       ]
     }
