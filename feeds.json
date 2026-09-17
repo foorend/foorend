@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-09-17T03:46:21Z",
+  "lastUpdated": "2026-09-17T11:06:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Burger King's owner to pay $18.2M in a settlement over its Carrols acquisition",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMF9VT0NMUFRXbmFCVG5DR1BfZlN4dWxzZGJwNUYtVVZzYWx1SndHSkJwWDVlX3h3cW8tbEYyX0syeTc1SzJWa29idDd0TVFMUGdRaUlLeDVwa1ZVSVFlMmZkaGdVdVNKQlpjd3pqWWtuOGM4aWZTTXNmeFJITm1ybDUtMmxkZWQtbVVUM1pGYUZOWjBUREJkcjIyRWs5TnBIdnJzb0VMNUhZSUdMWHN5Y3lHR3JRSmtKdGc?oc=5",
-          "desc": "",
-          "title_ko": "버거킹의 소유주가 Carrols 인수에 대한 합의금으로 $ 1,820만 지불",
-          "title_ja": "バーガーキングのオーナーは、キャロルズの買収に関する和解で1820万$を支払う",
-          "title_zh": "汉堡王的所有者将为其收购Carrols支付1820万美元的和解金"
-        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "맥도날드는 최고 육류 가공업체들이 돼지고기 가격을 담합했다고 비난합니다.",
           "title_ja": "マクドナルドは、豚肉の価格を固定していると一流の肉加工業者を非難",
           "title_zh": "麦当劳指责顶级肉类加工商操纵猪肉价格"
+        },
+        {
+          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
+          "desc": "",
+          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
+          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
+          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
         }
       ]
     },
@@ -128,12 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "강원랜드,‘셰프와 함께 하는 행복한 음식 나눔’봉사활동 전개",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tZUNPTThOamhCenNqNGJiNWhXZ2FGSnFmaWJCUFN2U09tY0FsTndkV3Z4c09WM1BNZTNPVF9mMjI0b3MxM1h5SXl3N0l1eUdLQ1hqd29TZzQ2Zw?oc=5",
+          "title": "한국농수산식품유통공사, 아시안경기대회를 K-푸드 수출 무대로…일본 현지에 시식·조리 체험·게임 부스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5akctTVNtQlZBcVc2cl9uTU94cjZ3MEtJSXZkQ2doTEhwVU94RVliWU9JR1lHXzdrQTZXbzAzYWxkaWUtZGYwSTNBSU9tSU56cldVZExJVFZfUQ?oc=5",
           "desc": "",
-          "title_en": "Gangwon Land, ‘Sharing Happy Food with a Chef’ Volunteer Activities",
-          "title_ja": "カンウォンランド「シェフとハッピーフードをシェアする」ボランティア活動",
-          "title_zh": "江原道「与大厨分享快乐美食」志愿者活动"
+          "title_en": "Korea Agriculture, Fisheries and Food Distribution Corporation, Asian Games on K-Food Export Stage… Tasting, Cooking Experience, Game Booth in Japan",
+          "title_ja": "韓国農水食品流通公社、K - Food輸出ステージのアジア競技大会…試食、料理体験、日本のゲームブース",
+          "title_zh": "韩国农业，渔业和食品配送公司， K-Food出口阶段的亚运会…品尝，烹饪体验，日本游戏展位"
+        },
+        {
+          "title": "오트리푸드, 스틱형 청크잼 2종 출시",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MaUl5NHBGUDBaaW5wRmRFNVZCMmNHZnVtRXMtQ2dMNTJ1ZG9mdEdFLWR5R3hOblI5bnFtNzBoVzlrcmtOaUc5blNSeWNZN1A1Q3NVeV81WDFaZw?oc=5",
+          "desc": "",
+          "title_en": "Otripod launches 2 stick-type chunk jams",
+          "title_ja": "Otripodがスティックタイプのチャンクジャムを2つ発売",
+          "title_zh": "Otripod推出2个棒式大块果酱"
         },
         {
           "title": "롯데웰푸드, 행안부-대구 군위군과 '지역 상생 업무협약' 체결… 군위 사과 시리즈 공개",
@@ -142,14 +150,6 @@
           "title_en": "Lotte Well Food Signs' Local Win-Win Business Agreement 'with Ministry of Public Administration-Daegu Armed Forces… Military Apology Series Revealed",
           "title_ja": "ロッテウェルフード、大邱軍と「現地ウィンウィンビジネス協定」を締結…軍事謝罪シリーズ公開",
           "title_zh": "乐天Well Food与公共管理部-大邱武装部队签署“本地双赢商业协议” …军事道歉系列揭晓"
-        },
-        {
-          "title": "현대그린푸드, 카자흐스탄 알라타우시에 ‘K푸드 생산 시설’ 만든다",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LYzNLZjBxcVFrVlV2Y1V3LTZoQjRJZTg3NzZQdVFVYmJJMmRKUl9MRWl4YVhWdWNJR2R0S0ZqUkdJT1FHN0xwS2FFM3AzNi02ODNVa2p3SU9KVzZpeVBQQzR4c09COWtSVGhISHdacGxQS011LVpoR3JoTlUwaXM?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food Creates' K-Food Production Facility ’in Alataushi, Kazakhstan",
-          "title_ja": "Hyundai Green Food、カザフスタンのAlataushiに「K - Food Production Facility」を設立",
-          "title_zh": "现代绿色食品在哈萨克斯坦Alataushi建立“K-Food生产设施”"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "신세계푸드, 프랑스 '라콩비에트' 버터로 베이커리 상품 강화",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wUGVwSWpDOVI2OG9PRTlZMHpfVlRRQVNrUnRpOXg4N3lYMlpZWnBXcTh5alhDUDh3NGNFR2FRbTJvRWtJeXpqb0lneHBXV0tVWHc?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Food boosts bakery offerings with French 'raconbiet' butter",
+          "title_ja": "新世界フードは、フランスの「ラコンビエット」バターでベーカリーの提供を高めます",
+          "title_zh": "Shinsegae Food用法国“raconbiet”黄油提升面包店服务"
+        },
+        {
           "title": "현대그린푸드, 육군 조리병 대상 채용설명회…100명 이상 채용",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWm1KcEVWaFR4SS1XeThKRVdsSXBUZVR2a3lOV28zV3BTQmdtSlpxSU1Qd0xiOUZOUXh1REhRb0J1bzlCVk9RMHZCaTIwM0Rqdmc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "K-Food research base is built in Gumi… Korea Food Research Institute starts Gyeongbuk Headquarters",
           "title_ja": "K - Food研究拠点を組に…韓国食品総合研究所京北本社開設",
           "title_zh": "K-Food研究基地建在Gumi…韩国食品研究所启动庆北总部"
-        },
-        {
-          "title": "“군대에서도 햄버거 즐긴다”…노브랜드 버거, 군 부대 진출",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFUHZHLWxIcEhmU011em5tNzdoOXJ0ZjV3TVZKdUp3akN6UGdqaExuSDNqVmc0dkJQb0tzN1NCZTJfUDQ3cUE?oc=5",
-          "desc": "",
-          "title_en": "“I also enjoy hamburgers in the military” … No-brand burger, military troop entry",
-          "title_ja": "「軍隊でもハンバーガーを楽しんでいます」…ブランドなしのハンバーガー、軍隊への入場",
-          "title_zh": "“我也喜欢在军队吃汉堡” ……无品牌汉堡，军人入场"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "K酱在扩大巴西酱汁市场方面也很受欢迎"
         },
         {
+          "title": "‘레스토랑 카페’ 전략 속도 낸다…팀홀튼, 배곧·압구정 개장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oMmJlNVVIemZHdUlSNUN3YUM3OGZmQ2VjSUREWWJYRmRINkh1OFNrUkRJblNaTzViRVNaR3EweEVIMjNlYUNMRVQ5UkhNMnl0Z3pJY2Q4WQ?oc=5",
+          "desc": "",
+          "title_en": "‘Restaurant Cafe’ strategy speeds up... Tim Houlton, Baebyeon · Apgujeong opened",
+          "title_ja": "「レストランカフェ」戦略がスピードアップ…ティム・ホールトン、ベビョン・アプグジョンオープン",
+          "title_zh": "「餐厅咖啡馆」策略加速... Tim Houlton、Baebyeon · Apgujeong开业"
+        },
+        {
           "title": "‘맵단’부터 저당 소스까지…설빙 메뉴 옵션이 달라진다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05NmtkUVBqUkFIQi1MUzFHSG0wQVhoazA4NzVsWDdoY2xfZENfZm5HOFNOVjc4dFVEdTdFZ25DcFoyWXlZWnJXd2xYNklXTy1DclhIZ2o1bw?oc=5",
           "desc": "",
           "title_en": "From ‘map stage’ to mortgage sauce… the menu options for snowing are different",
           "title_ja": "「マップステージ」から住宅ローンソースまで…雪のメニューオプションが異なります",
           "title_zh": "从“地图阶段”到抵押贷款酱……下雪的菜单选项不同"
-        },
-        {
-          "title": "“콩 식품, 치매 예방·기억력 개선에 도움”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KNDljeXVFQS1PN0cwZWFSSlA1ZUpRWU4wcnVXNkltakI5YTFnX2d4Y0Y2NFBSRkthZDVCVWdFOUVpV2U2TFlsT0kyV1dxRTFvSmVobHI5SQ?oc=5",
-          "desc": "",
-          "title_en": "“Soy foods help prevent dementia and improve memory”",
-          "title_ja": "「大豆食品は認知症を予防し、記憶力を向上させるのに役立ちます」",
-          "title_zh": "“大豆食品有助于预防痴呆症和改善记忆力”"
         }
       ]
     }
