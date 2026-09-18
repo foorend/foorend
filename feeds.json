@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-09-18T15:57:09Z",
+  "lastUpdated": "2026-09-18T20:30:38Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Chili’s is taking on the fast-food giants, and Taco Bell could be next",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHp1am9nRVk5X3R2cGNDMG15VnRlSGgwVmNiNm15NVFtbG9YU2ZRbFhkdTcwZEpfYWxQbjNTMHcyUk5veEJ1QTV3Z3hocmh5WnpEWmNxamxFQ19jVnVlVHBMT3lMZkNLZndpZk9FUi1aTVFya25zOWNLNW1lWElUTnBZV0lhSUJ5UTZFanJYSllhM2Jhb1J3UFFCdHZfZ184My0w?oc=5",
+          "desc": "",
+          "title_ko": "Chili 's는 패스트 푸드 거인을 상대하고 있으며, Taco Bell은 그 다음이 될 수 있습니다.",
+          "title_ja": "Chili'sはファーストフードの巨人に対抗しており、Taco Bellは次の可能性があります",
+          "title_zh": "Chili's正在与快餐巨头竞争， Taco Bell可能是下一个"
+        },
         {
           "title": "Dave & Buster’s shifts blame from economy to execution",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHE0c1dmbWVYcU80S3lvMFZhakgxYlRIRUlqYVV1ZDI4ekNpNUVrSHN2cjd1dUc4ZVo5eXhybW43bjlVSkQ5Z05FdXhrdWlEMklLNjhWTnBrWi1RYmlaREtXQTlKbHRQdmEtNkhyRFVXWmJoYTljN0xoX0FYaWU1NFZJaWFxMWlvcVdWYWNkNmFNSmt1?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "GLP-1 약물이 레스토랑에 영향을 미치는 방법과 그렇지 않은 방법",
           "title_ja": "GLP -1薬がレストランに及ぼす影響",
           "title_zh": "GLP-1药物如何影响和不影响餐厅"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -74,20 +74,20 @@
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
         },
         {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
           "desc": "",
           "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
           "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
           "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
+        },
+        {
+          "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3pBcDV0OU9uRnJfSXZfMkYxTms3a2UtZ0swOU82YXpvQ3ZMTnJlS0dzNVJyakwtenBSWXhIT2RyVFBXTzNIbFdEM3dWeW92X3EyT3FGTUVxc3ptbGJRTDdPRkxoNU5ubng5ZlhXQTRBNmNnQWVXTm4wSlRSdGhwYjg0QnNTN2t6d2NmQWFhWnRuUmRjV0N2cHBXSXkxNkk?oc=5",
+          "desc": "",
+          "title_ko": "구글 벤처스 (Google Ventures) 등으로부터 1억 달러 ($) 를 모금하기 위해 사용된 독점적인 피치 데크 음식물 쓰레기 처리장 (Pitch deck food waste startup Mill) 을",
+          "title_ja": "Google Venturesなどから1億$を調達したピッチデッキ食品廃棄物スタートアップMillをチェック",
+          "title_zh": "查看独家推销平台食物垃圾初创公司Mill ，该公司曾从Google Ventures和其他公司筹集了1亿美元$"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "한국농수산식품유통공사, 아시안경기대회를 K-푸드 수출 무대로…일본 현지에 시식·조리 체험·게임 부스",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDAtZFF1Z3BZanhwMmtqRXBqRVRPSW1ieHZnXzZvUUgzMWplT1NrdEYyNzJ0dk5FQ0FMN25taElKUDRsNjd6VEI4YUhVZ1NteVJFbWxfb19yOEpCbnhtaV9PM3ltckJyUFRnSmdJUm1pSlB3VEVIV2JFamlRQ2xUaWdTVmVlTFBJOGlSUkpqamtqbFU0U2NJUWdiNTlrc3puS2pkTUZrT01RS3ZBemc?oc=5",
+          "desc": "",
+          "title_en": "Korea Agriculture, Fisheries and Food Distribution Corporation, Asian Games on K-Food Export Stage… Tasting, Cooking Experience, Game Booth in Japan",
+          "title_ja": "韓国農水食品流通公社、K - Food輸出ステージのアジア競技大会…試食、料理体験、日本のゲームブース",
+          "title_zh": "韩国农业，渔业和食品配送公司， K-Food出口阶段的亚运会…品尝，烹饪体验，日本游戏展位"
+        },
+        {
           "title": "KB금융, 청년의 꿈을 싣고 달리는 'KB착한푸드트럭'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtRWtzS0JLNFBuY2xRWEM4VWxVekVXUDFJWXJxRHk4alJMUWZqTUNqaWVFX1lMSFBEUUhYNFlOWXFYc1V2NjNkYWtKNGR6b3VvWmJIZi1yTG85dw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Completion of the Food Tech Research Support Center in Pohang, Daegu-Gyeongbuk Kyungja Office",
           "title_ja": "大邱・慶北浦項にフードテック研究支援センター竣工",
           "title_zh": "大邱浦项庆北办事处食品技术研究支持中心落成"
-        },
-        {
-          "title": "현대그린푸드 '베즐리', 추석 디저트 선물세트 3종 선보인다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTnp1b25DWlRhaVozNUtxN0NVNzA1NUNGMTAtZjRZMEYxTXJucThSdUN4VV9TanNMbXZvVHQ5a3F5SGg1Z2ozY284NG9fMlZVNWdia2E2VC1DQQ?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food 'Vezli' Introduces 3 Gift Sets for Chuseok Desserts",
-          "title_ja": "現代グリーンフード「Vezli」がChuseokデザート用の3つのギフトセットを紹介",
-          "title_zh": "现代绿色食品“Vezli”推出3款Chuseok甜点礼品套装"
         }
       ]
     },
