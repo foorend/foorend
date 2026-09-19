@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T15:29:02Z",
+  "lastUpdated": "2026-09-19T20:08:35Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "한국농수산식품유통공사, 아시안경기대회를 K-푸드 수출 무대로…일본 현지에 시식·조리 체험·게임 부스",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDAtZFF1Z3BZanhwMmtqRXBqRVRPSW1ieHZnXzZvUUgzMWplT1NrdEYyNzJ0dk5FQ0FMN25taElKUDRsNjd6VEI4YUhVZ1NteVJFbWxfb19yOEpCbnhtaV9PM3ltckJyUFRnSmdJUm1pSlB3VEVIV2JFamlRQ2xUaWdTVmVlTFBJOGlSUkpqamtqbFU0U2NJUWdiNTlrc3puS2pkTUZrT01RS3ZBemc?oc=5",
+          "desc": "",
+          "title_en": "Korea Agriculture, Fisheries and Food Distribution Corporation, Asian Games on K-Food Export Stage… Tasting, Cooking Experience, Game Booth in Japan",
+          "title_ja": "韓国農水食品流通公社、K - Food輸出ステージのアジア競技大会…試食、料理体験、日本のゲームブース",
+          "title_zh": "韩国农业，渔业和食品配送公司， K-Food出口阶段的亚运会…品尝，烹饪体验，日本游戏展位"
+        },
+        {
           "title": "대구경북경자청, 포항에 푸드테크연구지원센터 준공",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TOXp0TnpfMjJDWnMzcEVFMlhad3dQdHlnVk94QVJ2MWllNUZyVTl3cm5LN08wS0VQNjZLSDA5Z1FDVXpfc0hlQ0pvdGxCRFJzMS1WVzc3MzVmQQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "KB Finance, the 'KB Food Truck' that carries the dreams of youth",
           "title_ja": "若者の夢を運ぶ「KBフードトラック」、KBファイナンス",
           "title_zh": "KB Finance ，承载青年梦想的“KB美食车”"
-        },
-        {
-          "title": "[단독] 맥도날드 올라탄 'CJ·동원·오뚜기' 아시아 식탁 파고든다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZ001S1VKM3JUMzlDNE8zZTNOTHl4QnZ1WVNrb0luQkxvd0I2ZGRsTXlERWE5RUxTY2s3bWVBTzhqd3dRenB4aDNnckRaUHlKdHN3SGVsYW5XZw?oc=5",
-          "desc": "",
-          "title_en": "[Solo] McDonald's Climb 'CJ · Dongwon · Ottogi' Asian Table Digging",
-          "title_ja": "【ソロ】マクドナルド登山「CJ・ドンウォン・オットーギ」アジアンテーブル掘り",
-          "title_zh": "[独奏]麦当劳攀岩体验： CJ ·东原· Ottogi亚洲餐桌挖掘"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "한국인들 소울푸드인데…“이젠 못 사먹겠다” 이것마저 1만원 코앞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BZDA0cktOTEhnVUc0d0NFMjJ2QlZzR1JGR0wyZXdLNHJESnVNZmFrN0ZoQUJqZWFibFpKODdSV0tMaGh1cDJoNHQzX2JiTXJ6UXfSAVNBVV95cUxPYXZpYUNiSE1uajdWNEg5amV0ZHRseUttX0JhV3Ytc3E4dlVKVHM1N3BmMW5kRTJHeklTcHNTcEpUaVBLd2txemJ2RXB0eXJJd1FKMA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hdmlhQ2JITW5qN1Y0SDlqZXRkdGx5S21fQmFXdi1zcTh2VUpUczU3cGYxbmRFMkd6SVNwc1NwSlRpUEt3a3F6YnZFcHR5ckl3UUow0gFTQVVfeXFMT2F2aWFDYkhNbmo3VjRIOWpldGR0bHlLbV9CYVd2LXNxOHZVSlRzNTdwZjFuZEUyR3pJU3BzU3BKVGlQS3drcXpidkVwdHlySXdRSjA?oc=5",
           "desc": "",
           "title_en": "It's a Korean soul food... Even “I can't buy it anymore” is 10,000 won right in front of me.",
           "title_ja": "それは韓国のソウルフードです...「もう買えません」でさえ、私の目の前に1万ウォンです。",
