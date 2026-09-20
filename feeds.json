@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T20:25:21Z",
+  "lastUpdated": "2026-09-20T23:01:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -74,20 +74,20 @@
           "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
         },
         {
-          "title": "The True Energy Price Exposure Of Everything You Eat",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMmhOTWJQZkI0QWRQdmtteXNIdmJNdzQ0V25iR2YyWldWYzgxUHh0QkU1Z211S1VjaEhlMGtOMHFXcTZIbDZEbzV1TXM4NnFGUTN3cTZEUVctd1hOYS1MMS1WaURtR0lQNEpwOEExRl9Dek0?oc=5",
-          "desc": "",
-          "title_ko": "당신이 먹는 모든 것의 진정한 에너지 가격 노출",
-          "title_ja": "あなたが食べるすべてのものの真のエネルギー価格露出",
-          "title_zh": "您吃的每样东西的真正能量价格曝光"
-        },
-        {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
           "desc": "",
           "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
           "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
           "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
+        },
+        {
+          "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3pBcDV0OU9uRnJfSXZfMkYxTms3a2UtZ0swOU82YXpvQ3ZMTnJlS0dzNVJyakwtenBSWXhIT2RyVFBXTzNIbFdEM3dWeW92X3EyT3FGTUVxc3ptbGJRTDdPRkxoNU5ubng5ZlhXQTRBNmNnQWVXTm4wSlRSdGhwYjg0QnNTN2t6d2NmQWFhWnRuUmRjV0N2cHBXSXkxNkk?oc=5",
+          "desc": "",
+          "title_ko": "구글 벤처스 (Google Ventures) 등으로부터 1억 달러 ($) 를 모금하기 위해 사용된 독점적인 피치 데크 음식물 쓰레기 처리장 (Pitch deck food waste startup Mill) 을",
+          "title_ja": "Google Venturesなどから1億$を調達したピッチデッキ食品廃棄物スタートアップMillをチェック",
+          "title_zh": "查看独家推销平台食物垃圾初创公司Mill ，该公司曾从Google Ventures和其他公司筹集了1亿美元$"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "‘한국 코너’ 밖으로 나온 K푸드…홍콩 시장에 주목하는 이유 [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82bUQwNkVlRmtPRm1ZbXFBeHBzSndRWTR1RnpVT1paZk9EM2JZWEJTZndaUl9COWFaSzl1dzg0LVRMU3F5WE5ETUNmRENBNkw0SlhVODJ3SU5CQQ?oc=5",
+          "desc": "",
+          "title_en": "K-Food Outside the ‘Korean Corner’ … Why You Should Pay Attention to the Hong Kong Market [Kwon Yong-hoon's Trendwatch]",
+          "title_ja": "「韓国コーナー」の外のK - Food…香港市場に注目すべき理由【クォン・ヨンフンのトレンドウォッチ】",
+          "title_zh": "“韩国角”之外的K-Food……为什么您应该关注香港市场[Kwon Yong-hoon's Trendwatch]"
+        },
+        {
           "title": "[포토] 2026평창농악·산골푸드축제…맛있는 소리 가득한 '이곳'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lUDBnY0paTHlRMGw3OXJTSjVaa3NUUFNCeXhrNllmMFRIWGVuTHRJYWp3N2Zlempjcml0WWNiSWV1NDQ5SGYtQTdBSDJQTGFidGc5MldfSjNHdw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "\"I don't like food,\" Hugobi said, then turned around... When it thundered,",
           "title_ja": "フゴビは「食べ物が嫌いだ」と言い、振り向いた……雷が鳴ると、",
           "title_zh": "“我不喜欢吃，” Hugobi说，然后转过身来……当它打雷时，"
-        },
-        {
-          "title": "치킨·불고기 넘어 족발·곱창까지…홍콩에 부는 ‘K푸드 2.0’ [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fdElydVlYMEphQjZRblhVNzNnY3hrdlM4a3h4TENVVXVMRE1DWTRDdVkyUDNBQ24zdXpScDN2N2U1SS0tcGNsUDZCdl9abEhiajNaUjlfdC1FQQ?oc=5",
-          "desc": "",
-          "title_en": "From Chicken and Bulgogi to Jokbal and Gobchang… 'K Food 2.0‘ in Hong Kong [Kwon Yong-hoon's Trendwatch]",
-          "title_ja": "チキンとブルゴーギからジョクバルとゴブチャンまで…香港の「Kフード2.0」[クォン・ヨンフンのトレンドウォッチ]",
-          "title_zh": "从Chicken和Bulgogi到Jokbal和Gobchang……香港的“K Food 2.0” [Kwon Yong-hoon‘s Trendwatch]"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "살충제 등 검출로 판매 정지된 세종 로컬푸드 3년간 145회",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44bkRwX3ZUTzBKeEQ2b1V0Z3RZZVNDaGRsMUlqUkRYdjgzT0lCMU1BUHVLMU1aNUNYNXVGUzBOMlF5THROZlRiWVdZZThDdEwxZXc?oc=5",
+          "desc": "",
+          "title_en": "Sejong local food suspended due to detection of pesticides, etc. 145 times in 3 years",
+          "title_ja": "世宗の地元食品は、農薬等の検出により3年間で145回中断",
+          "title_zh": "世宗当地食品因检测到农药等而在3年内停产145次"
+        },
+        {
           "title": "[게시판] 풀무원푸드앤컬처, '인적자원개발 우수기관' 재인증",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YTDhTa0lic2hQMU9aUmQ1bGh3OXpIZXhNQm92ams5MjFwaXdMdmEtQzNTaXdtc0hCaTBHeWZ0UVR1VUYwVEkxMUtTRWxidWtwSEE?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "[公告栏] Pulmuone Food and Culture重新认证“人力资源开发卓越机构”"
         },
         {
-          "title": "K푸드, 인도네시아 공략 속도 낸다…할랄제품 인증 협력",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GR3pDUE8zOTZiT1AydFZvdzdtTm5CU1BWbUlraWZxN0xGNy1QUXNoMTMyWHl6NnlyWVBET3Q1Smg1WjVrTmVITTJLVkt1QURzeFE?oc=5",
+          "title": "“애들이 먹자는데 별수있나요”…테마파크 푸드코트 노리는 외식업계",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84STNxN3Y2MmlVVXptVFpCTjNWdV9ObHJQd2dlU0pvTnhXVnMtamZ4bmtSdnlpOTBWdmVKd2QtZXVJa2x1OXF1R0lFOXhFXzlfMDhUS3NB?oc=5",
           "desc": "",
-          "title_en": "K-Foods pays the speed of Indonesia's attack... Halal product certification cooperation",
-          "title_ja": "K - Foodsはインドネシアの攻撃のスピードを支払っています...ハラール製品認証協力",
-          "title_zh": "K-Foods付出了印尼攻击的速度…清真产品认证合作"
-        },
-        {
-          "title": "[국경 넘은 K푸드] 오뚜기, 내수 한계 깬다…2030년 해외 매출 1.1조 달성 '총력' | 더구루",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VLXJWZ0JkZjFPQW9GSjFHU1VzSkpwdjN1TFlvWHNBSGVKWk9qa1Vwd1hVdFU3RWNrOTRCTjA3U21ERmxUb1hQX2lvMGRvYVozREVZU3lWbElxUHlLc2R6SkF6ak1qWlRzYWRoT242b0dvLWlV0gF6QVVfeXFMT0RnY0RIR2NmQ2dOZTFwT08tNmRHMjJrS3M2OXZfRXlhU09jUkptMTgtdThCc0FnalFRTkxIRFRNa2dOVWJpLUZGU2RhNHY3YmpzdGdvZzdWbjBqSGlORTF1Q0pZbTRjcmM1Mi16eU9QRnp2TnFNVDJpNUE?oc=5",
-          "desc": "",
-          "title_en": "[K food across the border] Ottogi breaks domestic limits... Reach 1.1 trillion overseas sales in 2030 'Total power' | The Guru",
-          "title_ja": "【国境を越えたK食】オットギが国内の限界を突破… 2030年に海外売上1.1兆に達する「トータルパワー」｜ザ・グル",
-          "title_zh": "[K food across the border] Ottogi突破国内极限... 2030年海外销售额达到1.1万亿“总功率” | The Guru"
+          "title_en": "“Can you make a big deal about kids eating?” … The theme park food court is aimed at the dining industry.",
+          "title_ja": "「子供の食事を大事にできますか？」…テーマパークのフードコートは、ダイニング業界を対象としています。",
+          "title_zh": "“你能为孩子们的饮食做点什么吗？” ……主题公园美食广场面向餐饮业。"
         }
       ]
     },
