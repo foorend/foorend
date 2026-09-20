@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T15:34:28Z",
+  "lastUpdated": "2026-09-20T20:25:21Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Dave & Buster将责任从经济转移到执行"
         },
         {
+          "title": "How GLP-1 drugs are, and aren’t, affecting restaurants",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGpQSzZWYmJLamMwdWNXOWJnMDczMWdyTC1KWGZCdmpwaDNXNXVMaFZKVnhaYlMyeU5DaVROaS1FaUNSd2lVazJJdlpUTFk1S3NmUGIzTmVhTndPNEE4a290QmQ5Z0I5UkFVbFBsZ1ViNmNHYzc5eTUtWGJoR0Mwa3BUN2MxRHJzTVNjQkVpWmlHNTBoUUZ6Y1NB?oc=5",
+          "desc": "",
+          "title_ko": "GLP-1 약물이 레스토랑에 영향을 미치는 방법과 그렇지 않은 방법",
+          "title_ja": "GLP -1薬がレストランに及ぼす影響",
+          "title_zh": "GLP-1药物如何影响和不影响餐厅"
+        },
+        {
           "title": "Owner raises $240M for 'AI-native' restaurant tech",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmh5czlULWxodzVpUjBMY3pnSC1STXlOZkNlWjBXWnd5Qk0wZ2VyN21SaDItRVlud0R4ZTROQ1NRS0RXTUs2eDJnSVNuVDZnQ1dmWUtPTEp1ak04WWdKb2tzd3MwbVFVZUN6TEJBcHRraHRRNDJ3SHdYb0w2SHJsY0ozdTFSRTNYTUNKRGtnUVdjY0ZxV1E?oc=5",
           "desc": "",
           "title_ko": "오너, 'AI 네이티브' 레스토랑 기술로 $ 240M 모금",
           "title_ja": "オーナーが「AIネイティブ」レストラン技術のために2億4000万$を調達",
           "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -167,19 +167,19 @@
         },
         {
           "title": "한국인들 소울푸드인데…“이젠 못 사먹겠다” 이것마저 1만원 코앞",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hdmlhQ2JITW5qN1Y0SDlqZXRkdGx5S21fQmFXdi1zcTh2VUpUczU3cGYxbmRFMkd6SVNwc1NwSlRpUEt3a3F6YnZFcHR5ckl3UUow0gFTQVVfeXFMT2F2aWFDYkhNbmo3VjRIOWpldGR0bHlLbV9CYVd2LXNxOHZVSlRzNTdwZjFuZEUyR3pJU3BzU3BKVGlQS3drcXpidkVwdHlySXdRSjA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BZDA0cktOTEhnVUc0d0NFMjJ2QlZzR1JGR0wyZXdLNHJESnVNZmFrN0ZoQUJqZWFibFpKODdSV0tMaGh1cDJoNHQzX2JiTXJ6UXfSAVNBVV95cUxPYXZpYUNiSE1uajdWNEg5amV0ZHRseUttX0JhV3Ytc3E4dlVKVHM1N3BmMW5kRTJHeklTcHNTcEpUaVBLd2txemJ2RXB0eXJJd1FKMA?oc=5",
           "desc": "",
           "title_en": "It's a Korean soul food... Even “I can't buy it anymore” is 10,000 won right in front of me.",
           "title_ja": "それは韓国のソウルフードです...「もう買えません」でさえ、私の目の前に1万ウォンです。",
           "title_zh": "这是一种韩国灵魂美食……即使是「我再也买不到了」，我面前也是10000韩元。"
         },
         {
-          "title": "“매일 식후 챙겨 마셨는데 어쩌나”…의사가 당장 피하라는 ‘이 음료’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xLTAzVnNPYndBSnZ3bUdGSkhsd3FjTkszQW5EcDRfaHNtWXlaNEFsZGJlSTlZWVJLRzRSZmFSVVZuYmZzejk5cmJrQy1HNTF1cUw40gFTQVVfeXFMTTEtMDNWc09id0FKdndtR0ZKSGx3cWNOSzNBbkRwNF9oc21ZeVo0QWxkYmVJOVlZUktHNFJmYVJVVm5iZnN6OTlyYmtDLUc1MXVxTDg?oc=5",
+          "title": "알고 보니 세균이 득실득실…“어제 먹다 남은 피자 먹어야지” 했다간 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BaC1GZWRYU1FIVUMzbkp3MmQ5OGtNOXpEUEZ6RnlmNjAxLWdhMkhZZkpXWUtJQmNPX195RFBwTG5tX2F2LUN6SzNZQkw5Nk9DV2fSAVNBVV95cUxPeFlDU0hfNkpjMUJaamZlU0UzelcxTnNnaXN2VmVhd3dxWWdyRGhNMVB0T3dvRWw0Q01VbmozcHAxVGVQdnFMM1pvc3JKcHBySUZ6NA?oc=5",
           "desc": "",
-          "title_en": "“I took care of my meals every day” … ‘This drink‘ that the doctor told me to avoid right away [Health Time]",
-          "title_ja": "「私は毎日食事の世話をしました」…医師がすぐに避けるように指示した「この飲み物」【ヘルスタイム】",
-          "title_zh": "“我每天都照顾好我的饭菜” ……医生告诉我要立即避免的‘这种饮料‘ [Health Time]"
+          "title_en": "As it turned out, it was full of germs… If you had to “eat leftover pizza from yesterday” [Health Time]",
+          "title_ja": "それが判明したように、それは細菌でいっぱいでした…あなたが「昨日の残りのピザを食べなければならなかった場合」[ Health Time]",
+          "title_zh": "事实证明，它充满了细菌……如果你不得不“吃昨天剩下的披萨” [健康时间]"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "GLP-1消费量改变汉堡菜单"
         },
         {
-          "title": "‘레스토랑 카페’ 전략 속도 낸다…팀홀튼, 배곧·압구정 개장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oMmJlNVVIemZHdUlSNUN3YUM3OGZmQ2VjSUREWWJYRmRINkh1OFNrUkRJblNaTzViRVNaR3EweEVIMjNlYUNMRVQ5UkhNMnl0Z3pJY2Q4WQ?oc=5",
-          "desc": "",
-          "title_en": "‘Restaurant Cafe’ strategy speeds up... Tim Houlton, Baebyeon · Apgujeong opened",
-          "title_ja": "「レストランカフェ」戦略がスピードアップ…ティム・ホールトン、ベビョン・アプグジョンオープン",
-          "title_zh": "「餐厅咖啡馆」策略加速... Tim Houlton、Baebyeon · Apgujeong开业"
-        },
-        {
           "title": "K-디저트, 일본의 냉동고를 채운다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KakszY21pcWptaXQzTzNiQUR6b3pVVnVfZzB5VE1zYzBveV9rY0s2cV9kd1EtY1h5aGNJdUJTbzdwa0VSRzAzY1A2R0NnekI2ZDZxYzF1aw?oc=5",
           "desc": "",
           "title_en": "K-Dessert Fills Freezer in Japan",
           "title_ja": "日本の冷凍庫にKデザートを充填",
           "title_zh": "日本K-Dessert冰柜"
+        },
+        {
+          "title": "맥도날드도 빈티지 숄더백…피스마이너스원, 협업 굿즈",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBadzZFdDB2U09JT1hidTlWNGNGT1l6b3RfLTc2RmZTdzNmczVVVnFnR2I0X2tWWmd6ZHhwRmJYLUVObi1vUWFlYTRDMXhrWC1ZWTV6R3QtWQ?oc=5",
+          "desc": "",
+          "title_en": "McDonald's Vintage Shoulder Bag… PeaceMinusOne, Collaborative Merch",
+          "title_ja": "マクドナルドのヴィンテージショルダーバッグ… PeaceMinusOne、コラボグッズ",
+          "title_zh": "麦当劳复古单肩包… PeaceMinusOne ，合作商品"
         }
       ]
     }
