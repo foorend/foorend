@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T22:41:55Z",
+  "lastUpdated": "2026-09-20T03:46:08Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "New High-Protein, Low-Calorie Beer Targets Gym Goers",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnUwVWFUaGxUUEo0V2pMVGhGRlJUOGd0enhNNjhGc01EWjVua05WMFhaS0xuOHBpdGxIbWFmbllaVFYydEp0S2VDQThSZktPRlNxX3NKbXdDMjhUTEVNSEl3bHVXYlE3UzhzQkpOWUZrbmRXTENqNDUxeHVpMFJQQ1RXaElkeE9QYy04bw?oc=5",
+          "desc": "",
+          "title_ko": "새로운 고단백 저칼로리 맥주 타겟 체육관 방문객",
+          "title_ja": "新しい高タンパク質、低カロリーのビールはジムに行く人をターゲットにしています",
+          "title_zh": "全新高蛋白、低热量啤酒瞄准健身爱好者"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
           "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
           "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"음식이 싫어요\" 위고비 맞더니 돌변…날벼락 떨어지자 결국",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRG9uQVdRaXRQTVJ6WUlJUXJOYmZ1MG01OTFmb2NFdHIxSVVlenhYdXc4Y3JsTjRyU3h1eXdmaDF5ekpZR1VTQnduMDVkNGQ3ZS1TblFTZ0liZW56a0lEX2dCN05zZVdwOUkzRmNtYmdZNWxpc2dmZk5GRVZmcW1fT2dEU0hWR2s?oc=5",
+          "desc": "",
+          "title_en": "\"I don't like food,\" Hugobi said, then turned around... When it thundered,",
+          "title_ja": "フゴビは「食べ物が嫌いだ」と言い、振り向いた……雷が鳴ると、",
+          "title_zh": "“我不喜欢吃，” Hugobi说，然后转过身来……当它打雷时，"
+        },
+        {
           "title": "치킨·불고기 넘어 족발·곱창까지…홍콩에 부는 ‘K푸드 2.0’ [권용훈의 트렌드워치]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fdElydVlYMEphQjZRblhVNzNnY3hrdlM4a3h4TENVVXVMRE1DWTRDdVkyUDNBQ24zdXpScDN2N2U1SS0tcGNsUDZCdl9abEhiajNaUjlfdC1FQQ?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "从Chicken和Bulgogi到Jokbal和Gobchang……香港的“K Food 2.0” [Kwon Yong-hoon‘s Trendwatch]"
         },
         {
-          "title": "대구경북경자청, 포항에 푸드테크연구지원센터 준공",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TOXp0TnpfMjJDWnMzcEVFMlhad3dQdHlnVk94QVJ2MWllNUZyVTl3cm5LN08wS0VQNjZLSDA5Z1FDVXpfc0hlQ0pvdGxCRFJzMS1WVzc3MzVmQQ?oc=5",
+          "title": "KB금융, 청년의 꿈을 싣고 달리는 'KB착한푸드트럭'",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazhxT09FTnZYajlHTS03dUhKRUw1c0IxeVgwSGNCUHpWWjNRbGN6alppWWthUVpRREIyOTlLNkdoRmZySGs1STVzZHNnS1gzcUN4RjNpOV9IUUZ2cmN6ZktKUGVRNUZ1ZGYtZzgzV25CajBES1phdGNYSFZWVUplU2FmaDYtaDQ?oc=5",
           "desc": "",
-          "title_en": "Completion of the Food Tech Research Support Center in Pohang, Daegu-Gyeongbuk Kyungja Office",
-          "title_ja": "大邱・慶北浦項にフードテック研究支援センター竣工",
-          "title_zh": "大邱浦项庆北办事处食品技术研究支持中心落成"
-        },
-        {
-          "title": "현대그린푸드, 카자흐에 K푸드 공장 짓는다",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGdETnJDYUZTVHV3MF9hLWNhR0RQVUphZFRvbnRIdHZGaDAwaTF2aGU3ME15Wm9WXzJmMHlSQXFJQzJuRnVvd1lrOHBjTXVWRTJKcmQ3TkJjRFFmeGJRS0NGOFRRRFJfSW1sMWZ0enhGdjRXV1lneDVuLTZPOFJ0bjRYWUFSWmxEVVppZ0w0aXBLR2pWSWZFVkF1MlRYZm5oN3ItQjBaSDR6alF6R0E?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Foods Builds K-Food Factory in Kazakhstan",
-          "title_ja": "Hyundai Green Foods、カザフスタンにK - Food工場を建設",
-          "title_zh": "现代绿色食品在哈萨克斯坦建立K-Food工厂"
+          "title_en": "KB Finance, the 'KB Food Truck' that carries the dreams of youth",
+          "title_ja": "若者の夢を運ぶ「KBフードトラック」、KBファイナンス",
+          "title_zh": "KB Finance ，承载青年梦想的“KB美食车”"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "한국인들 소울푸드인데…“이젠 못 사먹겠다” 이것마저 1만원 코앞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BZDA0cktOTEhnVUc0d0NFMjJ2QlZzR1JGR0wyZXdLNHJESnVNZmFrN0ZoQUJqZWFibFpKODdSV0tMaGh1cDJoNHQzX2JiTXJ6UXfSAVNBVV95cUxPYXZpYUNiSE1uajdWNEg5amV0ZHRseUttX0JhV3Ytc3E4dlVKVHM1N3BmMW5kRTJHeklTcHNTcEpUaVBLd2txemJ2RXB0eXJJd1FKMA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hdmlhQ2JITW5qN1Y0SDlqZXRkdGx5S21fQmFXdi1zcTh2VUpUczU3cGYxbmRFMkd6SVNwc1NwSlRpUEt3a3F6YnZFcHR5ckl3UUow0gFTQVVfeXFMT2F2aWFDYkhNbmo3VjRIOWpldGR0bHlLbV9CYVd2LXNxOHZVSlRzNTdwZjFuZEUyR3pJU3BzU3BKVGlQS3drcXpidkVwdHlySXdRSjA?oc=5",
           "desc": "",
           "title_en": "It's a Korean soul food... Even “I can't buy it anymore” is 10,000 won right in front of me.",
           "title_ja": "それは韓国のソウルフードです...「もう買えません」でさえ、私の目の前に1万ウォンです。",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "[게시판] 풀무원푸드앤컬처, '인적자원개발 우수기관' 재인증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YTDhTa0lic2hQMU9aUmQ1bGh3OXpIZXhNQm92ams5MjFwaXdMdmEtQzNTaXdtc0hCaTBHeWZ0UVR1VUYwVEkxMUtTRWxidWtwSEE?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] Pulmuone Food and Culture Recertifies' Human Resource Development Excellence Institution '",
+          "title_ja": "【掲示板】プルムオーネフード＆カルチャーが「人材育成優良機関」の認定を更新",
+          "title_zh": "[公告栏] Pulmuone Food and Culture重新认证“人力资源开发卓越机构”"
+        },
+        {
           "title": "HF 푸드 그룹, 1억 달러 수시공모 프로그램 종료",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lNEkxaVQtYzI0NWpPZndhdXVFVmwwWGtQNjVCSndidDlpaTRuVmYxSmxDZFhtcWMwdjI2TnJheVJZSVJTdjAyYnBjYUdwaDhRaHc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "K-Foods pays the speed of Indonesia's attack... Halal product certification cooperation",
           "title_ja": "K - Foodsはインドネシアの攻撃のスピードを支払っています...ハラール製品認証協力",
           "title_zh": "K-Foods付出了印尼攻击的速度…清真产品认证合作"
-        },
-        {
-          "title": "[기자24시] 월드컵과 음식문화",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1JTjFiX1BOQTVxNE1UM1YwTlFWaW5BRVBYam9XclNsbGZUOTJES2ZwUVUxakJjZWpYckR3eWRzb2todkhmeVE?oc=5",
-          "desc": "",
-          "title_en": "[24:00] World Cup and food culture",
-          "title_ja": "[24:00]ワールドカップと食文化",
-          "title_zh": "[24:00]世界杯和美食文化"
         }
       ]
     },
