@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T12:10:55Z",
+  "lastUpdated": "2026-09-21T19:52:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "Dave & Buster将责任从经济转移到执行"
         },
         {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
-          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
-        },
-        {
           "title": "How GLP-1 drugs are, and aren’t, affecting restaurants",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGpQSzZWYmJLamMwdWNXOWJnMDczMWdyTC1KWGZCdmpwaDNXNXVMaFZKVnhaYlMyeU5DaVROaS1FaUNSd2lVazJJdlpUTFk1S3NmUGIzTmVhTndPNEE4a290QmQ5Z0I5UkFVbFBsZ1ViNmNHYzc5eTUtWGJoR0Mwa3BUN2MxRHJzTVNjQkVpWmlHNTBoUUZ6Y1NB?oc=5",
           "desc": "",
           "title_ko": "GLP-1 약물이 레스토랑에 영향을 미치는 방법과 그렇지 않은 방법",
           "title_ja": "GLP -1薬がレストランに及ぼす影響",
           "title_zh": "GLP-1药物如何影响和不影响餐厅"
+        },
+        {
+          "title": "Owner raises $240M for 'AI-native' restaurant tech",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmh5czlULWxodzVpUjBMY3pnSC1STXlOZkNlWjBXWnd5Qk0wZ2VyN21SaDItRVlud0R4ZTROQ1NRS0RXTUs2eDJnSVNuVDZnQ1dmWUtPTEp1ak04WWdKb2tzd3MwbVFVZUN6TEJBcHRraHRRNDJ3SHdYb0w2SHJsY0ozdTFSRTNYTUNKRGtnUVdjY0ZxV1E?oc=5",
+          "desc": "",
+          "title_ko": "오너, 'AI 네이티브' 레스토랑 기술로 $ 240M 모금",
+          "title_ja": "オーナーが「AIネイティブ」レストラン技術のために2億4000万$を調達",
+          "title_zh": "业主为“AI原生”餐厅技术筹集了2.4亿美元"
         }
       ]
     },
@@ -136,12 +136,12 @@
           "title_zh": "“NS Food Festa 2026 Iksan”重返K-Food全家福节"
         },
         {
-          "title": "[포토] 2026평창농악·산골푸드축제…맛있는 소리 가득한 '이곳'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lUDBnY0paTHlRMGw3OXJTSjVaa3NUUFNCeXhrNllmMFRIWGVuTHRJYWp3N2Zlempjcml0WWNiSWV1NDQ5SGYtQTdBSDJQTGFidGc5MldfSjNHdw?oc=5",
+          "title": "롯데웰푸드(280360) 재조명될 해외 사업",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsc3hlTHFXQ3JUUVAwUTlIWVFqcnBIMnpBNGUtRlAxWFNUTXQwTFRoYmh0MUNWWTJ4M3kwWTRQeW4yZGRnWGhDaW95cXpRYzdxNGFXeGw2YnB2VVMyckYw?oc=5",
           "desc": "",
-          "title_en": "[Photo] 2026 Pyeongchang Nongak and Sangol Food Festival... 'Here' full of delicious sounds",
-          "title_ja": "【写真】2026年平昌農学とサンゴルフードフェスティバル…美味しい音でいっぱいの「ここ」",
-          "title_zh": "【照片】2026年平昌农阁（ Pyeongchang Nongak ）和Sangol美食节……「这里」充满了美味的声音"
+          "title_en": "Lotte Well Food (280360) Overseas business to be reconsidered",
+          "title_ja": "ロッテウェルフード(280360)海外事業再検討",
+          "title_zh": "乐天健康食品（ 280360 ）海外业务有待重新考虑"
         },
         {
           "title": "\"음식이 싫어요\" 위고비 맞더니 돌변…날벼락 떨어지자 결국",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "“추석 음식 먹고 힘내렴”…아워홈 셰프들, 아이들에게 명절 밥상 차려줘",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sRV9pR0ZCcmxBeFZXZGRzNlpmSlpIY0hIT21zdnVIaU9zc3M3R0wzdXJxZzRmaEJVTHBpN29xTDBSbWE3Tnc?oc=5",
+          "desc": "",
+          "title_en": "“Eat Chuseok food and cheer up” … Our home chefs, prepare holiday meals for children",
+          "title_ja": "「チュソク料理を食べて元気づけよう」…私たちのホームシェフがお子様のために休日の食事を準備します",
+          "title_zh": "“吃Chuseok美食，振作起来” ……我们的家庭厨师为孩子们准备节日餐"
+        },
+        {
           "title": "살충제 등 검출로 판매 정지된 세종 로컬푸드 3년간 145회",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44bkRwX3ZUTzBKeEQ2b1V0Z3RZZVNDaGRsMUlqUkRYdjgzT0lCMU1BUHVLMU1aNUNYNXVGUzBOMlF5THROZlRiWVdZZThDdEwxZXc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Bon Food Service Launches New Fall Chinese Menu at Lotte City and L7 Hotels",
           "title_ja": "Bon Food Service、ロッテシティとL 7ホテルで新しい秋の中華メニューを開始",
           "title_zh": "Bon Food Service在乐天城和L7酒店推出新的秋季中餐菜单"
-        },
-        {
-          "title": "“애들이 먹자는데 별수있나요”…테마파크 푸드코트 노리는 외식업계",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kNDdyakVPT1VZOHZRbDN0ZHFqa3hYSm0zT1lzbDA0N25iZWxIRFhnYUdMRFQtRVVsVWgzTjdiQmlkd1I1WEE?oc=5",
-          "desc": "",
-          "title_en": "“Can you make a big deal about kids eating?” … The theme park food court is aimed at the dining industry.",
-          "title_ja": "「子供の食事を大事にできますか？」…テーマパークのフードコートは、ダイニング業界を対象としています。",
-          "title_zh": "“你能为孩子们的饮食做点什么吗？” ……主题公园美食广场面向餐饮业。"
         }
       ]
     },
