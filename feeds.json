@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T23:01:54Z",
+  "lastUpdated": "2026-09-21T03:42:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "‘한국 코너’ 밖으로 나온 K푸드…홍콩 시장에 주목하는 이유 [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82bUQwNkVlRmtPRm1ZbXFBeHBzSndRWTR1RnpVT1paZk9EM2JZWEJTZndaUl9COWFaSzl1dzg0LVRMU3F5WE5ETUNmRENBNkw0SlhVODJ3SU5CQQ?oc=5",
+          "title": "‘NS푸드페스타2026익산’ 온 가족이 즐기는 K-푸드 축제로 돌아온다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ga1BnaEJNdE9aY0p3TjhLaFFlLUg3dUJmTjdEMk9taWlfUnkySHBnTGxWTWdmWVZyUk80NndpNlRRV3pSMTg4U0lGWUV2QmZndmhTYXJwdmlhdw?oc=5",
           "desc": "",
-          "title_en": "K-Food Outside the ‘Korean Corner’ … Why You Should Pay Attention to the Hong Kong Market [Kwon Yong-hoon's Trendwatch]",
-          "title_ja": "「韓国コーナー」の外のK - Food…香港市場に注目すべき理由【クォン・ヨンフンのトレンドウォッチ】",
-          "title_zh": "“韩国角”之外的K-Food……为什么您应该关注香港市场[Kwon Yong-hoon's Trendwatch]"
+          "title_en": "‘NS Food Festa 2026 Iksan’ Returns to K-Food Festival for the Whole Family",
+          "title_ja": "「NS Food Festa 2026 Iksan」がK - Food Festival for the Whole Familyに復帰",
+          "title_zh": "“NS Food Festa 2026 Iksan”重返K-Food全家福节"
         },
         {
           "title": "[포토] 2026평창농악·산골푸드축제…맛있는 소리 가득한 '이곳'",
@@ -174,12 +174,12 @@
           "title_zh": "这是一种韩国灵魂美食……即使是「我再也买不到了」，我面前也是10000韩元。"
         },
         {
-          "title": "알고 보니 세균이 득실득실…“어제 먹다 남은 피자 먹어야지” 했다간 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BaC1GZWRYU1FIVUMzbkp3MmQ5OGtNOXpEUEZ6RnlmNjAxLWdhMkhZZkpXWUtJQmNPX195RFBwTG5tX2F2LUN6SzNZQkw5Nk9DV2fSAVNBVV95cUxPeFlDU0hfNkpjMUJaamZlU0UzelcxTnNnaXN2VmVhd3dxWWdyRGhNMVB0T3dvRWw0Q01VbmozcHAxVGVQdnFMM1pvc3JKcHBySUZ6NA?oc=5",
+          "title": "\"마음 놓고 먹어라\" 의사도 추천한 ‘배달 음식’?",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ob0V5WkppNWRSOGM5eXVTandOTEV2V3Brd3hLbHQwY3hLMVNubENycGxQbmVKNEp5akFxZUY1MEM0NGZyTUVKaHd5ZkdDQ29oTDlN?oc=5",
           "desc": "",
-          "title_en": "As it turned out, it was full of germs… If you had to “eat leftover pizza from yesterday” [Health Time]",
-          "title_ja": "それが判明したように、それは細菌でいっぱいでした…あなたが「昨日の残りのピザを食べなければならなかった場合」[ Health Time]",
-          "title_zh": "事实证明，它充满了细菌……如果你不得不“吃昨天剩下的披萨” [健康时间]"
+          "title_en": "\"Eat with peace of mind\" ‘delivery food‘ recommended by the doctor?",
+          "title_ja": "「安心して食べる」医者が勧める「配達用の料理」？",
+          "title_zh": "“安心吃饭”医生推荐的“送餐” ？"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "본푸드서비스, 롯데시티·L7 호텔서 가을 중화 신메뉴 출시",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1peE5Zc3JNcjNqczhvUHJSZWlSVGpmOW1MT3h2TUJfWWdqckRZMDV6ZldBT05FSVBHSnhCQkR0OVI3RU9Ec29yU0dWQ3ZCTGZJUUE?oc=5",
+          "desc": "",
+          "title_en": "Bon Food Service Launches New Fall Chinese Menu at Lotte City and L7 Hotels",
+          "title_ja": "Bon Food Service、ロッテシティとL 7ホテルで新しい秋の中華メニューを開始",
+          "title_zh": "Bon Food Service在乐天城和L7酒店推出新的秋季中餐菜单"
+        },
         {
           "title": "살충제 등 검출로 판매 정지된 세종 로컬푸드 3년간 145회",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44bkRwX3ZUTzBKeEQ2b1V0Z3RZZVNDaGRsMUlqUkRYdjgzT0lCMU1BUHVLMU1aNUNYNXVGUzBOMlF5THROZlRiWVdZZThDdEwxZXc?oc=5",
@@ -196,16 +204,8 @@
           "title_zh": "世宗当地食品因检测到农药等而在3年内停产145次"
         },
         {
-          "title": "[게시판] 풀무원푸드앤컬처, '인적자원개발 우수기관' 재인증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YTDhTa0lic2hQMU9aUmQ1bGh3OXpIZXhNQm92ams5MjFwaXdMdmEtQzNTaXdtc0hCaTBHeWZ0UVR1VUYwVEkxMUtTRWxidWtwSEE?oc=5",
-          "desc": "",
-          "title_en": "[Bulletin Board] Pulmuone Food and Culture Recertifies' Human Resource Development Excellence Institution '",
-          "title_ja": "【掲示板】プルムオーネフード＆カルチャーが「人材育成優良機関」の認定を更新",
-          "title_zh": "[公告栏] Pulmuone Food and Culture重新认证“人力资源开发卓越机构”"
-        },
-        {
           "title": "“애들이 먹자는데 별수있나요”…테마파크 푸드코트 노리는 외식업계",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84STNxN3Y2MmlVVXptVFpCTjNWdV9ObHJQd2dlU0pvTnhXVnMtamZ4bmtSdnlpOTBWdmVKd2QtZXVJa2x1OXF1R0lFOXhFXzlfMDhUS3NB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kNDdyakVPT1VZOHZRbDN0ZHFqa3hYSm0zT1lzbDA0N25iZWxIRFhnYUdMRFQtRVVsVWgzTjdiQmlkd1I1WEE?oc=5",
           "desc": "",
           "title_en": "“Can you make a big deal about kids eating?” … The theme park food court is aimed at the dining industry.",
           "title_ja": "「子供の食事を大事にできますか？」…テーマパークのフードコートは、ダイニング業界を対象としています。",
