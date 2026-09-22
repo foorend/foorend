@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T20:57:36Z",
+  "lastUpdated": "2026-09-22T23:33:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"출시 시각까지 맞췄다”…홍콩 맥도날드가 밝힌 'K푸드 전략' [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRWtvQXJIZ2VRU1lVR251XzhKM2Q3UXZpUkFMN2ptbl9jUWd6YmZvblV3TjJWTEJ3ZXJhdEpOMl9FX1NHMWkxVGVNUWtWc2t2ODB6cXU0dXRvdw?oc=5",
+          "desc": "",
+          "title_en": "“We even hit the launch time” … 'K-Food Strategy' revealed by McDonald's Hong Kong [Kwon Yong-hoon's Trendwatch]",
+          "title_ja": "「発売時期にも間に合いました」…マクドナルド香港が明らかにした「Kフード戦略」【クォン・ヨンフンのトレンドウォッチ】",
+          "title_zh": "“我们甚至赶上了发布时间” ……麦当劳香港揭晓的“K-Food Strategy” [Kwon Yong-hoon's Trendwatch]"
+        },
+        {
           "title": "기름진 명절 음식 질렸다면…버거·치킨 최대 50% 할인",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMEJMNEVleTdjNnRHbWF6eU11WGdpNkRDeWZUTW5iUVg4RXlSV2Fha1g4STh1RkVvbk1FVi1JMG5GbEtESnBmYlFFbDdiaGFjWFB6ZGhOc041QQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food, ‘An Yu-sung Master’ hand in hand, introduces premium Japanese brand ‘Ga-mae Japanese'",
           "title_ja": "現代グリーンフード、「アンユーソンマスター」が手を携えて、プレミアムな日本ブランド「ガメジャパニーズ」を紹介",
           "title_zh": "“An Yu-sung Master”现代绿色食品携手推出高端日本品牌“Ga-mae Japanese”"
-        },
-        {
-          "title": "\"여기가 한국이야 홍콩이야\"…한글 간판 앞 외국인 '바글바글'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWNklobWNSc3Vnbi1CcjI2NnhzQ1dITWQ3c250ZzhVSjNsLVBnSnRCNmJOaVgzcjI5bXlBcmlKejd3RXFYaU9UdnRBWE51R1RMZHVHb3VYcl9iZw?oc=5",
-          "desc": "",
-          "title_en": "\"This is Korea, this is Hong Kong\" … Foreigner 'Babble' in front of the Hangul signboard",
-          "title_ja": "「ここは韓国、ここは香港」…ハングルの看板の前の外国人「バブル」",
-          "title_zh": "“这里是韩国，这里是香港” ……韩文招牌前面的外国人“Babble”"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“它不一定是昂贵的注射剂” …… “这种食物” ，即使你吃了它爆裂，你也会减肥[健康时间]"
         },
         {
-          "title": "“죄책감 없이 맘껏 시켜 먹어도 되겠네”…의사도 추천한 ‘다이어트 음식’, 뭐길래 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tWWhpaXJJZWlXOGRaa1Y4SnZqNldhNi0wRWExT1dFb1lwZGUwcGF6Q3pxSTVGNU92eWpnbGM0QnR5QnpoMTUyV202eXhFQ2hFN3fSAVNBVV95cUxNTDZTOGR0RUl3RUhPTDdBM0Y0YTdNRUhvYm95ZEI5MDVKVUx4LUpBN2pWUlR2NFo0cG9rY1lxUjExamFVR1JCTC1XeXBzTjZqR0RIRQ?oc=5",
-          "desc": "",
-          "title_en": "“You can eat as much as you want without guilt” … The ‘diet food‘ recommended by the doctor, what is it? [Health time]",
-          "title_ja": "「罪悪感なく好きなだけ食べることができます」…医者が勧める「ダイエットフード」、それは何ですか？【健康時間】",
-          "title_zh": "“你想吃多少就吃多少，没有内疚” ……医生推荐的“减肥食品” ，是什么？【健康时间】"
-        },
-        {
           "title": "[단독]‘빅3’ 넘본다…노랑통닭, 日 DBJ 추가 선임해 매각 본격 착수[시그널]",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xNW9TYmpSakNIMTc1TllfSEJyTVNPbzV2cERhcEltR3hTSUg5ckUxMUR3enlHVU5jc2Y0MVJFT2VyNWZ6VGo1bHJ5TXZ5M01Nd1hycHF3?oc=5",
           "desc": "",
           "title_en": "[Exclusive] Looking over the ‘Big 3’... Yellow Whole Chicken, DBJ further elected and started to sell [Signal]",
           "title_ja": "【限定】「ビッグ3」を覗き込んで…イエローホールチキン、更にDBJが選出されて売り始めた【シグナル】",
           "title_zh": "【专属】看着“三巨头” ……黄全鸡， DBJ进一步当选并开始卖出【Signal】"
+        },
+        {
+          "title": "“죄책감 없이 맘껏 시켜 먹어도 되겠네”…의사도 추천한 ‘다이어트 음식’, 뭐길래 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tWWhpaXJJZWlXOGRaa1Y4SnZqNldhNi0wRWExT1dFb1lwZGUwcGF6Q3pxSTVGNU92eWpnbGM0QnR5QnpoMTUyV202eXhFQ2hFN3fSAVNBVV95cUxNTDZTOGR0RUl3RUhPTDdBM0Y0YTdNRUhvYm95ZEI5MDVKVUx4LUpBN2pWUlR2NFo0cG9rY1lxUjExamFVR1JCTC1XeXBzTjZqR0RIRQ?oc=5",
+          "desc": "",
+          "title_en": "“You can eat as much as you want without guilt” … The ‘diet food‘ recommended by the doctor, what is it? [Health time]",
+          "title_ja": "「罪悪感なく好きなだけ食べることができます」…医者が勧める「ダイエットフード」、それは何ですか？【健康時間】",
+          "title_zh": "“你想吃多少就吃多少，没有内疚” ……医生推荐的“减肥食品” ，是什么？【健康时间】"
         }
       ]
     },
