@@ -1,17 +1,25 @@
 {
-  "lastUpdated": "2026-09-23T10:54:38Z",
+  "lastUpdated": "2026-09-23T16:15:14Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
         {
-          "title": "A big Wendy's bankruptcy reveals the chain's challenges",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVNoQjJ1SVhQNmQyR20xYXk4aUFnUlhnZURSazdJR2NmQm53bVpURXppWmNqdXEzbThMUWY0S2Y1RnBMdlJzNW9uejZaSGNLWHpmQzZqNTl5TUFJWFByOEJsYW15VU5KR3piR0hSNzRPNFFuTU1DNGxYMm5tTG9ZUHZsdlhlcFVGTDA4ZDRLNFY2R1FtREUtUFRn?oc=5",
+          "title": "Beef costs have been a big problem for fast-food chains",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOW84ZHRFc1BUMXNPVHdOMzFoZFlaajRRX0Z1NUdwZUEwWUpqM3RjM3NYMlczOEkyWkMtYzl2QjZtM3k0elFnU1N0ZjBEcjJfcElIOVBiVmlBdHk4UmR4QUhuODltbGV6MVJ0MkVXdHZfWnNLN0Z0dXA5R0tSRGNrNnRLVEpFOTdLZDVadFZLaGZ4NUlGU283RHZZSW0?oc=5",
           "desc": "",
-          "title_ko": "큰 웬디의 파산은 체인의 어려움을 드러냅니다",
-          "title_ja": "大きなウェンディの破産は、チェーンの課題を明らかにします",
-          "title_zh": "大温迪的破产揭示了连锁店的挑战"
+          "title_ko": "쇠고기 비용은 패스트푸드 체인점의 큰 문제였습니다.",
+          "title_ja": "牛肉のコストはファーストフードチェーンにとって大きな問題でした",
+          "title_zh": "牛肉成本一直是快餐连锁店的一个大问题"
+        },
+        {
+          "title": "Making the DoorDash/Wonder deal make sense",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTFUVTV4WElqRXNCMTk1d09TM3hVTElvVjhXOFJmcm1zX2VOSDA5VThaaElDSDdZbWhWaVZIajljTHkya2hZcjBnT1hUS3lqbmZzVE5GNEd6NVNiU0VpWDc1VkozUlJ6Sjl6QkN2ZGdMamNVTEEtakV1M0NtYWIzMWxFTXBPcHdPVWFOVE1B?oc=5",
+          "desc": "",
+          "title_ko": "DoorDash/Wonder 거래를 성사시키는 것이 타당합니다.",
+          "title_ja": "DoorDash/Wonderのセールを理にかなったものにする",
+          "title_zh": "让DoorDash/Wonder交易有意义"
         },
         {
           "title": "Taco Bell’s traffic still down double digits despite aggressive promotions",
@@ -20,14 +28,6 @@
           "title_ko": "공격적인 프로모션에도 불구하고 Taco Bell의 트래픽은 여전히 두 자리 수로 감소했습니다.",
           "title_ja": "積極的なプロモーションにもかかわらず、タコベルのトラフィックは依然として2桁減少しています",
           "title_zh": "尽管有激进的促销活动， Taco Bell的流量仍然下降了两位数"
-        },
-        {
-          "title": "How GLP-1 drugs are, and aren’t, affecting restaurants",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGpQSzZWYmJLamMwdWNXOWJnMDczMWdyTC1KWGZCdmpwaDNXNXVMaFZKVnhaYlMyeU5DaVROaS1FaUNSd2lVazJJdlpUTFk1S3NmUGIzTmVhTndPNEE4a290QmQ5Z0I5UkFVbFBsZ1ViNmNHYzc5eTUtWGJoR0Mwa3BUN2MxRHJzTVNjQkVpWmlHNTBoUUZ6Y1NB?oc=5",
-          "desc": "",
-          "title_ko": "GLP-1 약물이 레스토랑에 영향을 미치는 방법과 그렇지 않은 방법",
-          "title_ja": "GLP -1薬がレストランに及ぼす影響",
-          "title_zh": "GLP-1药物如何影响和不影响餐厅"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "How Himkok, One of the World’s Best Bars, Cultural Exchanges Are Key",
+          "link": "https://www.eater.com/pre-shift/987802/himkok-oslo-bar-nordic-sessions-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "세계 최고의 바, 문화 교류 중 하나인 힘콕의 비결",
+          "title_ja": "世界最高のバーの1つであるHimkokの文化交流がどのように重要であるか",
+          "title_zh": "世界上最好的酒吧之一Himkok的文化交流是如何成为关键的"
+        },
+        {
           "title": "The 38 Best Restaurants in Lisbon, Portugal, According to a Local Expert",
           "link": "https://www.eater.com/maps/best-lisbon-portugal-restaurants",
           "desc": "A food-loving visitor will quickly learn that sardines, cod, and the iconic pastel de nata are great, but the Lisbon restaurant scene can offer much m",
@@ -110,14 +118,6 @@
           "title_ko": "뉴욕에 야시장 에너지를 불어넣는 호이",
           "title_ja": "HoyがNYCにナイトマーケットエネルギーをもたらす",
           "title_zh": "Hoy为纽约市带来夜市能源"
-        },
-        {
-          "title": "Eater Will Host the First-Ever El Pre Party During Billboard Latin Music Week",
-          "link": "https://www.eater.com/press-room/984310/tickets-el-pre-party",
-          "desc": "In its first-ever partnership with Billboard, Eater will host El Pre Party during Latin Music Week: an exclusive pregame to En Vivo featuring bites an",
-          "title_ko": "Eater가 빌보드 라틴 뮤직 위크 기간 동안 최초의 El Pre 파티를 개최합니다.",
-          "title_ja": "注文者は、ビルボードラテンミュージックウィーク中に初のエルプレパーティーを開催します",
-          "title_zh": "顾客将在广告牌拉丁音乐周期间举办有史以来第一场El Pre派对"
         }
       ]
     }
@@ -166,20 +166,20 @@
           "title_zh": "只有11种苹果味甜点……乐天健康食品的目标品尝“军用苹果”"
         },
         {
-          "title": "‘불닭 맥앤치즈’ 加·멕시코에 뜬다…현지식 스며드는 K푸드",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SdXA5TnA2Nnd1T2FueUN0dEFUXy0yaWR1VTJ0U195YmlnelNkdnFSeUNBQnUzYVJBcmVYUlI5dEwxczN0TWprcVIzYzF0TzBwQWfSAVNBVV95cUxQUzFHTmM4Q3F2eGdTSXlEa3VXSTlNdHBsMnl6djEzVXQ3ZFVFaENSNG5xUGdmbU1aMXhfdUFrN0t1Q3dOTGJkUG42NDY3RFltcWoyUQ?oc=5",
-          "desc": "",
-          "title_en": "‘Fire Chicken Mac and Cheese’ · It is served in Mexico… K food that seeps local food",
-          "title_ja": "「火チキンマックとチーズ」・メキシコで提供されています…地元の食べ物を浸透させるKフード",
-          "title_zh": "「火鸡通心粉和奶酪」·在墨西哥供应……渗透当地美食的K食品"
-        },
-        {
           "title": "명절 음식 실컷 먹었는데 영양은 부족? 추석 식탁에 ‘이 과일’이 필요한 이유 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TWS03aGh0bHRmVjJ4VFRta25acGV2Y3h6dElBQ19OU3dHc1dSbTdaa3RjS2lpWmFGR21NYU9RMVJzR1F4SnZQcXdGeTd0QTBJMVHSAVNBVV95cUxPQnhnUU1QRU4yQzU1UmVPVDhIUnJ5cnNqZmdILWhqTUlvY05oSGNKS1Q2and6cGpIdjJmVzJpWW5KR1dSTVhFc3JqNE9pZGVsdk1Gaw?oc=5",
           "desc": "",
           "title_en": "Did you eat a lot of holiday food but lack nutrition? Why You Need ‘This Fruit’ for Your Chuseok Table [Healthy Time]",
           "title_ja": "ホリデーフードをたくさん食べましたが、栄養が足りませんでしたか？チュソクテーブルに「この果物」が必要な理由【ヘルシータイム】",
           "title_zh": "您是否吃了很多节日食物，但缺乏营养？为什么您的Chuseok餐桌需要“这种水果” [健康时光]"
+        },
+        {
+          "title": "‘불닭 맥앤치즈’ 加·멕시코에 뜬다…현지식 스며드는 K푸드",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SdXA5TnA2Nnd1T2FueUN0dEFUXy0yaWR1VTJ0U195YmlnelNkdnFSeUNBQnUzYVJBcmVYUlI5dEwxczN0TWprcVIzYzF0TzBwQWfSAVNBVV95cUxQUzFHTmM4Q3F2eGdTSXlEa3VXSTlNdHBsMnl6djEzVXQ3ZFVFaENSNG5xUGdmbU1aMXhfdUFrN0t1Q3dOTGJkUG42NDY3RFltcWoyUQ?oc=5",
+          "desc": "",
+          "title_en": "‘Fire Chicken Mac and Cheese’ · It is served in Mexico… K food that seeps local food",
+          "title_ja": "「火チキンマックとチーズ」・メキシコで提供されています…地元の食べ物を浸透させるKフード",
+          "title_zh": "「火鸡通心粉和奶酪」·在墨西哥供应……渗透当地美食的K食品"
         }
       ]
     },
