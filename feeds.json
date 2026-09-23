@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T23:33:03Z",
+  "lastUpdated": "2026-09-23T03:39:30Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "大温迪的破产揭示了连锁店的挑战"
         },
         {
-          "title": "Dave & Buster’s shifts blame from economy to execution",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHE0c1dmbWVYcU80S3lvMFZhakgxYlRIRUlqYVV1ZDI4ekNpNUVrSHN2cjd1dUc4ZVo5eXhybW43bjlVSkQ5Z05FdXhrdWlEMklLNjhWTnBrWi1RYmlaREtXQTlKbHRQdmEtNkhyRFVXWmJoYTljN0xoX0FYaWU1NFZJaWFxMWlvcVdWYWNkNmFNSmt1?oc=5",
-          "desc": "",
-          "title_ko": "데이브 & 버스터의 변화는 경제에서 실행으로 이어졌다.",
-          "title_ja": "デイブ＆バスターの責任を経済から実行に移す",
-          "title_zh": "Dave & Buster将责任从经济转移到执行"
-        },
-        {
           "title": "Taco Bell’s traffic still down double digits despite aggressive promotions",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUE2WWJ6bXZmdHc3TS02QW44X2pmOUhNa0VLbWZsUmdUM1VxenN0M0Z2cXVrb1ZaSC1OcVlFMVFCY1Eza0o3cUhrd1dGQThBUFNQbWV1emlDWjJydDUyY1lLZk1GSkRxMklWMWNUUE5RN0FMU1FuNEY0Q09qVEpOa29UX3JNSVJkUmhNMlBjdjFIRW9Nd3BiQ2pZV0JRdlBWak5tNHo5ZVl3a0d5V3lnT3lGSjRza3hRaWdrbA?oc=5",
           "desc": "",
           "title_ko": "공격적인 프로모션에도 불구하고 Taco Bell의 트래픽은 여전히 두 자리 수로 감소했습니다.",
           "title_ja": "積極的なプロモーションにもかかわらず、タコベルのトラフィックは依然として2桁減少しています",
           "title_zh": "尽管有激进的促销活动， Taco Bell的流量仍然下降了两位数"
+        },
+        {
+          "title": "How GLP-1 drugs are, and aren’t, affecting restaurants",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGpQSzZWYmJLamMwdWNXOWJnMDczMWdyTC1KWGZCdmpwaDNXNXVMaFZKVnhaYlMyeU5DaVROaS1FaUNSd2lVazJJdlpUTFk1S3NmUGIzTmVhTndPNEE4a290QmQ5Z0I5UkFVbFBsZ1ViNmNHYzc5eTUtWGJoR0Mwa3BUN2MxRHJzTVNjQkVpWmlHNTBoUUZ6Y1NB?oc=5",
+          "desc": "",
+          "title_ko": "GLP-1 약물이 레스토랑에 영향을 미치는 방법과 그렇지 않은 방법",
+          "title_ja": "GLP -1薬がレストランに及ぼす影響",
+          "title_zh": "GLP-1药物如何影响和不影响餐厅"
         }
       ]
     },
@@ -128,12 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"출시 시각까지 맞췄다”…홍콩 맥도날드가 밝힌 'K푸드 전략' [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRWtvQXJIZ2VRU1lVR251XzhKM2Q3UXZpUkFMN2ptbl9jUWd6YmZvblV3TjJWTEJ3ZXJhdEpOMl9FX1NHMWkxVGVNUWtWc2t2ODB6cXU0dXRvdw?oc=5",
+          "title": "\"이 맛있는 걸 한국인들만 먹었어?\"…미국서 입소문 난 K푸드",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NWkVuMHN2UWltQ1VuRFN1R193Wk1pU1NUZmlmU2RWZnlkVmRlT2d1RVdENE1BNFRnRjN3REdNdlNQVm1qaG5vdk9pTmYzdUtzNWVtUVZHellvUQ?oc=5",
           "desc": "",
-          "title_en": "“We even hit the launch time” … 'K-Food Strategy' revealed by McDonald's Hong Kong [Kwon Yong-hoon's Trendwatch]",
-          "title_ja": "「発売時期にも間に合いました」…マクドナルド香港が明らかにした「Kフード戦略」【クォン・ヨンフンのトレンドウォッチ】",
-          "title_zh": "“我们甚至赶上了发布时间” ……麦当劳香港揭晓的“K-Food Strategy” [Kwon Yong-hoon's Trendwatch]"
+          "title_en": "\"Did only Koreans eat this delicious food?\" … the rumored K-Foods of the United States",
+          "title_ja": "「このおいしい料理を食べたのは韓国人だけですか？「...噂されている米国のK - Foods",
+          "title_zh": "“只有韩国人吃这种好吃的吗？“ ……传闻中的美国K-Foods"
+        },
+        {
+          "title": "음식에도 '전조'가 있다… 서울과 진주, 이북과 병천을 잇는 맛 [김새봄의 미식 스프링노트]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xNVZqam1CcW1MVUc0c25EaVNOaWJoOVdXTHRURnowa3JRdDJIazNnNC05VFVWVE1WcExMSXBZOWZONVZxX2c2Zlk0ZjY3YjN4RDlCaFBNRkMyZw?oc=5",
+          "desc": "",
+          "title_en": "There is also 'foreshadowing' in the food… Taste that connects Seoul and Pearl, Ebuk and Byeongcheon [Gourmet Spring Note by Saebom Kim]",
+          "title_ja": "食べ物にも「予兆」があります…ソウルとパール、エブクとビョンチョンをつなぐ味【キム・サエボムによるグルメ春のメモ】",
+          "title_zh": "美食中也有“预示” ……连接首尔和珍珠、Ebuk和Byeongcheon的味道[Saebom Kim的美食春季笔记]"
         },
         {
           "title": "기름진 명절 음식 질렸다면…버거·치킨 최대 50% 할인",
@@ -142,14 +150,6 @@
           "title_en": "If You're Tired of Oily Holiday Food… Save Up to 50% on Burgers & Chicken",
           "title_ja": "油っぽいホリデーフードに飽きたら、ハンバーガーとチキンが最大50%オフ",
           "title_zh": "如果您厌倦了油腻的节日美食……汉堡和鸡肉最高可节省50%"
-        },
-        {
-          "title": "현대그린푸드, ‘안유성 명장’ 손잡고 프리미엄 일식 브랜드 ‘가매일식’ 선보인다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VYm5hREhRMzljZnBvZEF5OE0wdDdxTHRPV0h4c0R6MlJnUHB6UVlSRFl5eEh4X29hRzZUVXRpeEc0WHpMd1NnVnNrM2hVWVJNaTJnS2NVbzlQUQ?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, ‘An Yu-sung Master’ hand in hand, introduces premium Japanese brand ‘Ga-mae Japanese'",
-          "title_ja": "現代グリーンフード、「アンユーソンマスター」が手を携えて、プレミアムな日本ブランド「ガメジャパニーズ」を紹介",
-          "title_zh": "“An Yu-sung Master”现代绿色食品携手推出高端日本品牌“Ga-mae Japanese”"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "명절 음식 실컷 먹었는데 영양은 부족? 추석 식탁에 ‘이 과일’이 필요한 이유 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TWS03aGh0bHRmVjJ4VFRta25acGV2Y3h6dElBQ19OU3dHc1dSbTdaa3RjS2lpWmFGR21NYU9RMVJzR1F4SnZQcXdGeTd0QTBJMVHSAVNBVV95cUxPQnhnUU1QRU4yQzU1UmVPVDhIUnJ5cnNqZmdILWhqTUlvY05oSGNKS1Q2and6cGpIdjJmVzJpWW5KR1dSTVhFc3JqNE9pZGVsdk1Gaw?oc=5",
+          "desc": "",
+          "title_en": "Did you eat a lot of holiday food but lack nutrition? Why You Need ‘This Fruit’ for Your Chuseok Table [Healthy Time]",
+          "title_ja": "ホリデーフードをたくさん食べましたが、栄養が足りませんでしたか？チュソクテーブルに「この果物」が必要な理由【ヘルシータイム】",
+          "title_zh": "您是否吃了很多节日食物，但缺乏营养？为什么您的Chuseok餐桌需要“这种水果” [健康时光]"
+        },
         {
           "title": "“비싼 주사 안 맞아도 되겠네”…배 터지게 먹어도 살 빠진다는 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Sk00NHdHLVJpU0sxcWhoS1haTEgwWFBlWTN3S1R2bnY1a1JYWnNnblZJV3I1RU51OE10VEpRbGgwb2RtN2RlalNkN0ZNTkNnYkHSAVNBVV95cUxQYWcyZ1E2MUZWYTd1YlI4bWNQbDZaV1ZVdk1iNU1QMzdob3hTaS1hOVVyT2R2S0l0T1V5ZmZEWVEzS19XdTBHd3J0M2hKUkZJZGY4cw?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "[Exclusive] Looking over the ‘Big 3’... Yellow Whole Chicken, DBJ further elected and started to sell [Signal]",
           "title_ja": "【限定】「ビッグ3」を覗き込んで…イエローホールチキン、更にDBJが選出されて売り始めた【シグナル】",
           "title_zh": "【专属】看着“三巨头” ……黄全鸡， DBJ进一步当选并开始卖出【Signal】"
-        },
-        {
-          "title": "“죄책감 없이 맘껏 시켜 먹어도 되겠네”…의사도 추천한 ‘다이어트 음식’, 뭐길래 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tWWhpaXJJZWlXOGRaa1Y4SnZqNldhNi0wRWExT1dFb1lwZGUwcGF6Q3pxSTVGNU92eWpnbGM0QnR5QnpoMTUyV202eXhFQ2hFN3fSAVNBVV95cUxNTDZTOGR0RUl3RUhPTDdBM0Y0YTdNRUhvYm95ZEI5MDVKVUx4LUpBN2pWUlR2NFo0cG9rY1lxUjExamFVR1JCTC1XeXBzTjZqR0RIRQ?oc=5",
-          "desc": "",
-          "title_en": "“You can eat as much as you want without guilt” … The ‘diet food‘ recommended by the doctor, what is it? [Health time]",
-          "title_ja": "「罪悪感なく好きなだけ食べることができます」…医者が勧める「ダイエットフード」、それは何ですか？【健康時間】",
-          "title_zh": "“你想吃多少就吃多少，没有内疚” ……医生推荐的“减肥食品” ，是什么？【健康时间】"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "“1700년대 숙종의 기로연 잔칫상 재현”…한식문화공간 이음, ‘왕의 잔칫상’ 무료 전시",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGRFFFbGlWTGtrVVhOR3hSRGF4dmR3UVZfZ2NFMDhCUEV6R2wxYnluMWlHdXZqSnNkN2lmcGhJaUVJcWVVVHRzMTZ3clR0ZkI3?oc=5",
+          "title": "음식디미방부터 푸드테크까지…경북, 식품산업 키운다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2bTJHMzVvUXBuZXN1NHE2OEM0T21EbjlZdVR5WDNzc2FrOGJWRUxNbTV3UUpaeWwwQzRzaGZQVEUzeG9EdGx0c2IyNUI0Slc3U0E?oc=5",
           "desc": "",
-          "title_en": "“Reproduction of the feast of Sukjong in the 1700s” … Korean Food and Culture Space Split, ‘The King's Feast’ Free Exhibition",
-          "title_ja": "「1700年代のスクジョンの饗宴の再現」…韓国料理と文化スペースの分割、「王の饗宴」無料展示",
-          "title_zh": "“复制1700年代的竹节盛宴” ……韩国美食与文化空间分割， “国王的盛宴”免费展览"
+          "title_en": "From Food Demibeast to Food Tech… Gyeongbuk grows food industry",
+          "title_ja": "フードデミビーストからフードテックまで…景福は食品産業を成長させます",
+          "title_zh": "从食用半兽到食品科技……庆北发展食品工业"
         },
         {
-          "title": "“추석 음식 먹고 힘내렴”…아워홈 셰프들, 아이들에게 명절 밥상 차려줘",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sRV9pR0ZCcmxBeFZXZGRzNlpmSlpIY0hIT21zdnVIaU9zc3M3R0wzdXJxZzRmaEJVTHBpN29xTDBSbWE3Tnc?oc=5",
+          "title": "유럽 음식 해장 되는 인스브루크 레스토랑 3",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84WThydk96cDI2LXp6WFhrOU40TzJzRmw3RDdsM0RJLVBmN2FyR3AtdWlqQ2RJSklLLUszNnQzd1hWYzN3T2ZJdFdwdUNPSmpmRV9hQWtmM0otSWlIOFHSAWNBVV95cUxPRE96TnFRSzJRbjUxeTg3djJMUGN5RHRFT2lONjIyTzBVTWxFRHUwZkpwMW5TOW1RWExBaDZfUWhqeGJWYk9tUmdheVNqaDJLbnp1VnFfM0c0ajVLQWtqZEZDRGs?oc=5",
           "desc": "",
-          "title_en": "“Eat Chuseok food and cheer up” … Our home chefs, prepare holiday meals for children",
-          "title_ja": "「チュソク料理を食べて元気づけよう」…私たちのホームシェフがお子様のために休日の食事を準備します",
-          "title_zh": "“吃Chuseok美食，振作起来” ……我们的家庭厨师为孩子们准备节日餐"
+          "title_en": "Innsbruck Restaurant with European Disinfection 3",
+          "title_ja": "ヨーロッパ式消毒のインスブルックレストラン3",
+          "title_zh": "因斯布鲁克欧式消毒餐厅3"
         },
         {
-          "title": "본푸드서비스, 롯데시티·L7 호텔서 가을 중화 신메뉴 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1peE5Zc3JNcjNqczhvUHJSZWlSVGpmOW1MT3h2TUJfWWdqckRZMDV6ZldBT05FSVBHSnhCQkR0OVI3RU9Ec29yU0dWQ3ZCTGZJUUE?oc=5",
+          "title": "\"명절 음식만 먹나요\"…대형마트, 간편한 델리·버거 '특수'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZS1VKVWsyMm9wU3dPRk5Zd1FKWkxNamFmMTIyT1lRN0Z2ekRXMjIyYzdDV09sMmozS1h0Mlc1SF85d2NISFN4WEdYRUN5cm8yOXc?oc=5",
           "desc": "",
-          "title_en": "Bon Food Service Launches New Fall Chinese Menu at Lotte City and L7 Hotels",
-          "title_ja": "Bon Food Service、ロッテシティとL 7ホテルで新しい秋の中華メニューを開始",
-          "title_zh": "Bon Food Service在乐天城和L7酒店推出新的秋季中餐菜单"
+          "title_en": "\"Do you eat only holiday food\" … large grocery stores, easy delis and burgers' special '",
+          "title_ja": "「ホリデーフードだけを食べますか」…大型食料品店、簡単なデリ、ハンバーガー「特別」",
+          "title_zh": "「您只吃节日美食吗？」……大型杂货店、轻松熟食店和汉堡店「特别」"
         }
       ]
     },
