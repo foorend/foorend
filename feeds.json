@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T11:14:05Z",
+  "lastUpdated": "2026-09-24T16:37:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "麦当劳新任美国总统在关键时刻上任"
         },
         {
-          "title": "Beef costs have been a big problem for fast-food chains",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOW84ZHRFc1BUMXNPVHdOMzFoZFlaajRRX0Z1NUdwZUEwWUpqM3RjM3NYMlczOEkyWkMtYzl2QjZtM3k0elFnU1N0ZjBEcjJfcElIOVBiVmlBdHk4UmR4QUhuODltbGV6MVJ0MkVXdHZfWnNLN0Z0dXA5R0tSRGNrNnRLVEpFOTdLZDVadFZLaGZ4NUlGU283RHZZSW0?oc=5",
-          "desc": "",
-          "title_ko": "쇠고기 비용은 패스트푸드 체인점의 큰 문제였습니다.",
-          "title_ja": "牛肉のコストはファーストフードチェーンにとって大きな問題でした",
-          "title_zh": "牛肉成本一直是快餐连锁店的一个大问题"
-        },
-        {
           "title": "Taco Bell’s traffic still down double digits despite aggressive promotions",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUE2WWJ6bXZmdHc3TS02QW44X2pmOUhNa0VLbWZsUmdUM1VxenN0M0Z2cXVrb1ZaSC1OcVlFMVFCY1Eza0o3cUhrd1dGQThBUFNQbWV1emlDWjJydDUyY1lLZk1GSkRxMklWMWNUUE5RN0FMU1FuNEY0Q09qVEpOa29UX3JNSVJkUmhNMlBjdjFIRW9Nd3BiQ2pZV0JRdlBWak5tNHo5ZVl3a0d5V3lnT3lGSjRza3hRaWdrbA?oc=5",
           "desc": "",
           "title_ko": "공격적인 프로모션에도 불구하고 Taco Bell의 트래픽은 여전히 두 자리 수로 감소했습니다.",
           "title_ja": "積極的なプロモーションにもかかわらず、タコベルのトラフィックは依然として2桁減少しています",
           "title_zh": "尽管有激进的促销活动， Taco Bell的流量仍然下降了两位数"
+        },
+        {
+          "title": "A big Wendy's bankruptcy reveals the chain's challenges",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVNoQjJ1SVhQNmQyR20xYXk4aUFnUlhnZURSazdJR2NmQm53bVpURXppWmNqdXEzbThMUWY0S2Y1RnBMdlJzNW9uejZaSGNLWHpmQzZqNTl5TUFJWFByOEJsYW15VU5KR3piR0hSNzRPNFFuTU1DNGxYMm5tTG9ZUHZsdlhlcFVGTDA4ZDRLNFY2R1FtREUtUFRn?oc=5",
+          "desc": "",
+          "title_ko": "큰 웬디의 파산은 체인의 어려움을 드러냅니다",
+          "title_ja": "大きなウェンディの破産は、チェーンの課題を明らかにします",
+          "title_zh": "大温迪的破产揭示了连锁店的挑战"
         }
       ]
     },
@@ -104,12 +104,12 @@
           "title_zh": "以下是您在年度美食派对上错过的一切"
         },
         {
-          "title": "How Himkok, One of the World’s Best Bars, Cultural Exchanges Are Key",
+          "title": "At Himkok, One of the World’s Best Bars, Cultural Exchanges Are Key",
           "link": "https://www.eater.com/pre-shift/987802/himkok-oslo-bar-nordic-sessions-pre-shift",
           "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "세계 최고의 바, 문화 교류 중 하나인 힘콕의 비결",
-          "title_ja": "世界最高のバーの1つであるHimkokの文化交流がどのように重要であるか",
-          "title_zh": "世界上最好的酒吧之一Himkok的文化交流是如何成为关键的"
+          "title_ko": "세계 최고의 바 중 하나인 힘콕에서 문화 교류가 핵심입니다.",
+          "title_ja": "世界最高のバーの1つであるHimkokでは、文化交流が重要です",
+          "title_zh": "在世界上最好的酒吧之一Himkok ，文化交流是关键"
         },
         {
           "title": "The 38 Best Restaurants in Lisbon, Portugal, According to a Local Expert",
