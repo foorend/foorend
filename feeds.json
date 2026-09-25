@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T11:19:07Z",
+  "lastUpdated": "2026-09-25T16:42:57Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Steal My Food Itinerary: 3 Days in Sifnos, Greece",
+          "link": "https://www.eater.com/dining-out/987536/steal-my-food-itinerary-3-days-in-sifnos-greece",
+          "desc": "It felt like everyone I know traveled to Greece this summer. Friends chose Zakynthos, Crete, Naxos, Ikaria. I opted for Sifnos, one of the Cyclades’ m",
+          "title_ko": "내 음식 훔치기 여행 일정: 그리스 시프노스 3일",
+          "title_ja": "食事の旅程を盗もう：ギリシャのシフノス島で3日間",
+          "title_zh": "偷我的美食行程：希腊锡夫诺斯岛3日游"
+        },
+        {
           "title": "Why Chefs Love Cooking on Stainless Steel",
           "link": "https://www.eater.com/eater-at-home/988494/why-chefs-love-stainless-steel-cookware",
           "desc": "Stainless steel cookware is experiencing a cultural renaissance. This isn’t to say that the genre of cookware ever disappeared, but, once upon a lockd",
@@ -110,14 +118,6 @@
           "title_ko": "올해의 푸드 파티에서 놓친 모든 것을 소개합니다",
           "title_ja": "今年のフードパーティーで見逃したものをすべてご紹介します",
           "title_zh": "以下是您在年度美食派对上错过的一切"
-        },
-        {
-          "title": "At Himkok, One of the World’s Best Bars, Cultural Exchanges Are Key",
-          "link": "https://www.eater.com/pre-shift/987802/himkok-oslo-bar-nordic-sessions-pre-shift",
-          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "세계 최고의 바 중 하나인 힘콕에서 문화 교류가 핵심입니다.",
-          "title_ja": "世界最高のバーの1つであるHimkokでは、文化交流が重要です",
-          "title_zh": "在世界上最好的酒吧之一Himkok ，文化交流是关键"
         }
       ]
     }
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "AI 환경 개선한 풀무원 공식몰, 구매 건수 증가",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55VXExb0UtUi1CX3o4bDI3VTlEU0RJSXRkM0FOZDRPdVUwNno5eUNoRjZ6clYtYkM1SF9lMXhrbWU0eTRjSkg5Z1JpenE1Z0dzRWEyTFZmSQ?oc=5",
-          "desc": "",
-          "title_en": "Pulmuwon Official Mall Improves AI Environment, Increases Number of Purchases",
-          "title_ja": "Pulmuwon公式モールがAI環境を改善し、購入数を増やす",
-          "title_zh": "Pulmuwon官方商城改善AI环境，增加购买次数"
-        },
-        {
           "title": "메가MGC커피, NCT 127 10주년 팬사인회 연다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByUmNwSnRwWnAySG5LQW42aTJTM0NsMHhHUGsxMlg2Q2pkTmVNTEtFcWlkS1hjaVY0M0xYNlQxa3piMnE5SkVGYnFZVWdGN0VKYjEzc2hTZw?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "GLP-1 Consumption Changes Hamburger Menu",
           "title_ja": "GLP -1消費量がハンバーガーメニューを変更",
           "title_zh": "GLP-1消费量改变汉堡菜单"
+        },
+        {
+          "title": "명절 불고기와 배로 만든다, 환절기 보양식 ‘배꿀찜’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nTnRLaWZaaHJtOHRYS2NPOWd0RTFoOGFNMUlld0c3aEpPOE41S0g3NFRTaXpjVW9jOEZxSF80SmF0UFJJRE1CTkFqblcwVkRiTzZrbkJEbw?oc=5",
+          "desc": "",
+          "title_en": "Make with grilled meat and pears during the holidays, 'stewed pear‘ during the holidays",
+          "title_ja": "休日はグリルした肉と梨、休日は「煮込んだ梨」で作ろう",
+          "title_zh": "在假期用烤肉和梨制作，在假期用“炖梨”制作"
         }
       ]
     }
