@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T21:13:12Z",
+  "lastUpdated": "2026-09-25T03:47:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -166,20 +166,20 @@
           "title_zh": "「不用担心准备节日美食」……用真正的电器为感恩节做准备"
         },
         {
+          "title": "“음식에서 왜 농약 냄새가?”…한밤중 중식당 쑥대밭 만든 男 2명 추적",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tSlg4UWh0MVZzdzRMTGx5MjBVd2c4ekY0V0pkbEZtUlBacFhhRVVtdnF2WFppeXZrQkh1SThyTGpDSW1JalBBMHhrekZDNEZXVUJJ0gFTQVVfeXFMTi1KWDhRaHQxVnN3NExMbHkyMFV3Zzh6RjRXSmRsRm1SUFpwWGFFVW12cXZYWml5dmtCSHVJOHJMakNJbUlqUEEweGt6RkM0RldVQkk?oc=5",
+          "desc": "",
+          "title_en": "“Why is there a pesticide smell in the food?” … Pursuit of two men who made a Chinese restaurant blubber in the middle of the night",
+          "title_ja": "「食品に殺虫剤の臭いがするのはなぜですか？「…真夜中に中華レストランの脂肪を作った2人の男性の追跡",
+          "title_zh": "“为什么食物中有杀虫剂气味？“ ……追捕两名在半夜制造中餐馆鲸脂的男子"
+        },
+        {
           "title": "추석 연휴도 잊었다…K푸드·뷰티 수장이 멕시코 찾는 이유는 [김연하의 킬링이슈]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCb1g2dlFqcXlZa0Z0SmtLMC0zUjlMdVZBclpNU0txVHhiekQ3OGpTWnFmTzJDbTVTajZZUlBZNGNnUWtteVJIM2d6Um9RTWZ4ZkHSAVNBVV95cUxNRVJCOFZzLUh0RVhRZ0diZUpWbzhnWXotbXJIUnl3N1gxNE9wU2JlbGQxTXNTSVJHOW14eHRFRlI1eWZaV3QzbUxWTW5Wb0pEZ0lwNA?oc=5",
           "desc": "",
           "title_en": "I forgot about Chuseok… The reason the head of K-Food and Beauty is coming to Mexico is [Kim Yeon-ha's Killing Issue]",
           "title_ja": "Chuseokのことを忘れていました… K - Food and Beautyの責任者がメキシコに来ている理由は[Kim Yeonha's Killing Issue]",
           "title_zh": "我忘了Chuseok…… K-Food and Beauty的负责人来墨西哥的原因是[Kim Yeon-ha's Killing Issue]"
-        },
-        {
-          "title": "뉴욕 셰프도 41도 고급 소주에 ‘홀릭’…“K푸드에 딱 맞는 술”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZS0Nid205WWxXV0o0ZGg3SnZkUlJOMDdxZVptM0ltYjdEZEJ5LVVyS2lJQVdXTnBQU09JZ21zenRYZ3BwU2FxNVdfd0g1TVhJRHfSAVNBVV95cUxPWUNIdGgwVC1ZVHItRExzcTFJTl84MW1tbUJ5cEwyVVRzVmxYS1hrbV92MjVhckxUekRNYVloNGNfZ3Z0T3pUUEFxbl84WE9Vem9CTQ?oc=5",
-          "desc": "",
-          "title_en": "New York chef also calls 41-degree high-end soju 'holic’ … “The perfect drink for K-Food”",
-          "title_ja": "ニューヨークのシェフも41度の高級焼酎を「holic」と呼んでいます…「K - Foodにぴったりのドリンク」",
-          "title_zh": "纽约厨师还称41度高端烧酒为“holic” …… “K-Food的完美饮料”"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "경남도 골프장 이용료·음식값 공개…골퍼 '긍정'·업계 '글쎄'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tM0xhR2gwUi1DblFEclNlX1lrcjNiZ3g4ZzJBUk5hQkwxNDNySXh2clhSMlh4RVRwWHBwOFNtVG5zMnAyWm54WU5uOFZQRlpxSXc?oc=5",
+          "desc": "",
+          "title_en": "Gyeongnam-do golf course fees and food prices revealed… Golfers' affirmation 'and industry' well '",
+          "title_ja": "慶南道のゴルフコース料金と食料価格が明らかに…ゴルファーの「肯定」と業界の「うまく」",
+          "title_zh": "Gyeongnam-do高尔夫球场费用和食品价格揭晓……高尔夫球手的“肯定”和行业“好”"
+        },
         {
           "title": "\"명절 음식도 배달앱으로\"…작년 추석 당일 배민 송편 주문 폭증",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OeHBEc0dRVzRpcWNGRUNSVC0zdmU2S3g4dWs0M3dMc3lRTFpKLVc1azhnMGxQN1Fzbm10YTBOZWUxcjYxME5Hc1JxVWNuUkIxRHc?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Mobo · aT, Low carbon diet spread · K food export expansion MOU",
           "title_ja": "MOBO・aT、低炭素ダイエットスプレッド・K食品輸出拡大MOU",
           "title_zh": "Mobo · aT ，低碳饮食传播· K食品出口扩张谅解备忘录"
-        },
-        {
-          "title": "추석 음식 다 상한다…삼성 AI 냉장고 ‘먹통’에 소비자 발 동동",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SblNtdU55MVFieDYwNi1Td2NWenpmNGwtZTlNNF9zdkRSSmZ3Q0hXMzdFM2lKOWh2V09hNnJiSlkyTWVLbkhKWHRGYU50VUt6RjAwd3Z3?oc=5",
-          "desc": "",
-          "title_en": "All the Chuseok food is spoiled... Consumers are moving to Samsung AI refrigerator ‘muckbox'",
-          "title_ja": "Chuseokの食べ物はすべて腐っています...消費者はSamsung AI冷蔵庫「muckbox」に移行しています",
-          "title_zh": "所有的Chuseok食物都变质了……消费者正在转向三星人工智能冰箱“muckbox”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "Pulmuwon官方商城改善AI环境，增加购买次数"
         },
         {
-          "title": "아직도 안 먹어봤어요?…완벽한 조합 ‘땅콩사과 그릭요거트’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YYkp4MHllZFJwbVlWd041aENUeURrMHJzVzBrYjRvLXU4N2tjY3poZ2xXdTE0QXE4RTk1UE9hOUpMTUVNVTBLckV1OVlVU1R2b0VSYXZDaw?oc=5",
-          "desc": "",
-          "title_en": "Have you tried it yet? … The perfect combination ‘Peanut apple Greek yogurt’",
-          "title_ja": "もう試しましたか？ …「ピーナッツリンゴギリシャヨーグルト」の完璧な組み合わせ",
-          "title_zh": "您尝试过了吗？ ……完美搭配“花生苹果希腊酸奶”"
-        },
-        {
           "title": "메가MGC커피, NCT 127 10주년 팬사인회 연다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByUmNwSnRwWnAySG5LQW42aTJTM0NsMHhHUGsxMlg2Q2pkTmVNTEtFcWlkS1hjaVY0M0xYNlQxa3piMnE5SkVGYnFZVWdGN0VKYjEzc2hTZw?oc=5",
           "desc": "",
           "title_en": "MegaMGC Coffee Opens NCT 127 10th Anniversary Fan Signing",
           "title_ja": "MegaMGC Coffee、NCT 127 10周年記念ファン契約を開始",
           "title_zh": "MegaMGC Coffee开启NCT 127十周年粉丝签约"
+        },
+        {
+          "title": "GLP-1 소비, 햄버거 메뉴도 바꾼다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCanFVcU9GeXRSTHh6Wl9GY0JqZXhSNk1yX3J5OVJUVFFhbnVlRjlVcFZsRERDMkRaajNXRU10dnRMdWF0cFUtRjdvZXloa3otam9CenNGTQ?oc=5",
+          "desc": "",
+          "title_en": "GLP-1 Consumption Changes Hamburger Menu",
+          "title_ja": "GLP -1消費量がハンバーガーメニューを変更",
+          "title_zh": "GLP-1消费量改变汉堡菜单"
         }
       ]
     }
