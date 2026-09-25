@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T16:42:57Z",
+  "lastUpdated": "2026-09-25T21:10:35Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "麦当劳新任美国总统在关键时刻上任"
         },
         {
-          "title": "Beef costs have been a big problem for fast-food chains",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOW84ZHRFc1BUMXNPVHdOMzFoZFlaajRRX0Z1NUdwZUEwWUpqM3RjM3NYMlczOEkyWkMtYzl2QjZtM3k0elFnU1N0ZjBEcjJfcElIOVBiVmlBdHk4UmR4QUhuODltbGV6MVJ0MkVXdHZfWnNLN0Z0dXA5R0tSRGNrNnRLVEpFOTdLZDVadFZLaGZ4NUlGU283RHZZSW0?oc=5",
-          "desc": "",
-          "title_ko": "쇠고기 비용은 패스트푸드 체인점의 큰 문제였습니다.",
-          "title_ja": "牛肉のコストはファーストフードチェーンにとって大きな問題でした",
-          "title_zh": "牛肉成本一直是快餐连锁店的一个大问题"
-        },
-        {
           "title": "Making the DoorDash/Wonder deal make sense",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTFUVTV4WElqRXNCMTk1d09TM3hVTElvVjhXOFJmcm1zX2VOSDA5VThaaElDSDdZbWhWaVZIajljTHkya2hZcjBnT1hUS3lqbmZzVE5GNEd6NVNiU0VpWDc1VkozUlJ6Sjl6QkN2ZGdMamNVTEEtakV1M0NtYWIzMWxFTXBPcHdPVWFOVE1B?oc=5",
           "desc": "",
           "title_ko": "DoorDash/Wonder 거래를 성사시키는 것이 타당합니다.",
           "title_ja": "DoorDash/Wonderのセールを理にかなったものにする",
           "title_zh": "让DoorDash/Wonder交易有意义"
+        },
+        {
+          "title": "Taco Bell’s traffic still down double digits despite aggressive promotions",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUE2WWJ6bXZmdHc3TS02QW44X2pmOUhNa0VLbWZsUmdUM1VxenN0M0Z2cXVrb1ZaSC1OcVlFMVFCY1Eza0o3cUhrd1dGQThBUFNQbWV1emlDWjJydDUyY1lLZk1GSkRxMklWMWNUUE5RN0FMU1FuNEY0Q09qVEpOa29UX3JNSVJkUmhNMlBjdjFIRW9Nd3BiQ2pZV0JRdlBWak5tNHo5ZVl3a0d5V3lnT3lGSjRza3hRaWdrbA?oc=5",
+          "desc": "",
+          "title_ko": "공격적인 프로모션에도 불구하고 Taco Bell의 트래픽은 여전히 두 자리 수로 감소했습니다.",
+          "title_ja": "積極的なプロモーションにもかかわらず、タコベルのトラフィックは依然として2桁減少しています",
+          "title_zh": "尽管有激进的促销活动， Taco Bell的流量仍然下降了两位数"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "「不用担心准备节日美食」……用真正的电器为感恩节做准备"
         },
         {
-          "title": "추석 연휴도 잊었다…K푸드·뷰티 수장이 멕시코 찾는 이유는 [김연하의 킬링이슈]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCb1g2dlFqcXlZa0Z0SmtLMC0zUjlMdVZBclpNU0txVHhiekQ3OGpTWnFmTzJDbTVTajZZUlBZNGNnUWtteVJIM2d6Um9RTWZ4ZkHSAVNBVV95cUxNRVJCOFZzLUh0RVhRZ0diZUpWbzhnWXotbXJIUnl3N1gxNE9wU2JlbGQxTXNTSVJHOW14eHRFRlI1eWZaV3QzbUxWTW5Wb0pEZ0lwNA?oc=5",
+          "title": "뉴욕 셰프도 41도 고급 소주에 ‘홀릭’…“K푸드에 딱 맞는 술”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZS0Nid205WWxXV0o0ZGg3SnZkUlJOMDdxZVptM0ltYjdEZEJ5LVVyS2lJQVdXTnBQU09JZ21zenRYZ3BwU2FxNVdfd0g1TVhJRHfSAVNBVV95cUxPWUNIdGgwVC1ZVHItRExzcTFJTl84MW1tbUJ5cEwyVVRzVmxYS1hrbV92MjVhckxUekRNYVloNGNfZ3Z0T3pUUEFxbl84WE9Vem9CTQ?oc=5",
           "desc": "",
-          "title_en": "I forgot about Chuseok… The reason the head of K-Food and Beauty is coming to Mexico is [Kim Yeon-ha's Killing Issue]",
-          "title_ja": "Chuseokのことを忘れていました… K - Food and Beautyの責任者がメキシコに来ている理由は[Kim Yeonha's Killing Issue]",
-          "title_zh": "我忘了Chuseok…… K-Food and Beauty的负责人来墨西哥的原因是[Kim Yeon-ha's Killing Issue]"
+          "title_en": "New York chef also calls 41-degree high-end soju 'holic’ … “The perfect drink for K-Food”",
+          "title_ja": "ニューヨークのシェフも41度の高級焼酎を「holic」と呼んでいます…「K - Foodにぴったりのドリンク」",
+          "title_zh": "纽约厨师还称41度高端烧酒为“holic” …… “K-Food的完美饮料”"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Gyeongnam-do高尔夫球场费用和食品价格揭晓……高尔夫球手的“肯定”和行业“好”"
         },
         {
-          "title": "\"명절 음식도 배달앱으로\"…작년 추석 당일 배민 송편 주문 폭증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OeHBEc0dRVzRpcWNGRUNSVC0zdmU2S3g4dWs0M3dMc3lRTFpKLVc1azhnMGxQN1Fzbm10YTBOZWUxcjYxME5Hc1JxVWNuUkIxRHc?oc=5",
-          "desc": "",
-          "title_en": "\"Holiday food also as a delivery app\" … Last year, orders for Baemin songpyeon on the day of Chuseok exploded",
-          "title_ja": "「デリバリーアプリとしてのホリデーフードも」…昨年、Chuseokの日にBaemin songpyeonの注文が爆発的に増加",
-          "title_zh": "“节日美食也是送餐应用程序” ……去年， Chuseok当天Baemin songpyeon的订单激增"
-        },
-        {
           "title": "무보·aT, 저탄소 식생활 확산·K 푸드 수출 확대 MOU",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KOExBa2pFaUp0X2Y5Qmt1NkNMc1psOWlJVExQcnlKcGEybHUwcXpKd0dncUhYUmRGU1pNTWFmM0E5Wmh0SG54UGx6eEluRmNY?oc=5",
           "desc": "",
           "title_en": "Mobo · aT, Low carbon diet spread · K food export expansion MOU",
           "title_ja": "MOBO・aT、低炭素ダイエットスプレッド・K食品輸出拡大MOU",
           "title_zh": "Mobo · aT ，低碳饮食传播· K食品出口扩张谅解备忘录"
+        },
+        {
+          "title": "\"명절 음식도 배달앱으로\"…작년 추석 당일 배민 송편 주문 폭증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OeHBEc0dRVzRpcWNGRUNSVC0zdmU2S3g4dWs0M3dMc3lRTFpKLVc1azhnMGxQN1Fzbm10YTBOZWUxcjYxME5Hc1JxVWNuUkIxRHc?oc=5",
+          "desc": "",
+          "title_en": "\"Holiday food also as a delivery app\" … Last year, orders for Baemin songpyeon on the day of Chuseok exploded",
+          "title_ja": "「デリバリーアプリとしてのホリデーフードも」…昨年、Chuseokの日にBaemin songpyeonの注文が爆発的に増加",
+          "title_zh": "“节日美食也是送餐应用程序” ……去年， Chuseok当天Baemin songpyeon的订单激增"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "MegaMGC Coffee开启NCT 127十周年粉丝签约"
         },
         {
-          "title": "GLP-1 소비, 햄버거 메뉴도 바꾼다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCanFVcU9GeXRSTHh6Wl9GY0JqZXhSNk1yX3J5OVJUVFFhbnVlRjlVcFZsRERDMkRaajNXRU10dnRMdWF0cFUtRjdvZXloa3otam9CenNGTQ?oc=5",
-          "desc": "",
-          "title_en": "GLP-1 Consumption Changes Hamburger Menu",
-          "title_ja": "GLP -1消費量がハンバーガーメニューを変更",
-          "title_zh": "GLP-1消费量改变汉堡菜单"
-        },
-        {
           "title": "명절 불고기와 배로 만든다, 환절기 보양식 ‘배꿀찜’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nTnRLaWZaaHJtOHRYS2NPOWd0RTFoOGFNMUlld0c3aEpPOE41S0g3NFRTaXpjVW9jOEZxSF80SmF0UFJJRE1CTkFqblcwVkRiTzZrbkJEbw?oc=5",
           "desc": "",
           "title_en": "Make with grilled meat and pears during the holidays, 'stewed pear‘ during the holidays",
           "title_ja": "休日はグリルした肉と梨、休日は「煮込んだ梨」で作ろう",
           "title_zh": "在假期用烤肉和梨制作，在假期用“炖梨”制作"
+        },
+        {
+          "title": "“지방간 수치 줄인다”…새빨간 토마토 한 개",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZkduSzJSbEtZaHhHTHE1RGtrOHVoaEI1Ny1sRzFpd1F0dWRQSk5qZlUwRWFEd2p4Rk95UG45XzYwanpnelhMcEFOWDBPQV9sUldfeDlPOA?oc=5",
+          "desc": "",
+          "title_en": "“Reduce fatty liver levels” … one red tomato",
+          "title_ja": "「脂肪肝レベルを下げる」…赤いトマト1個",
+          "title_zh": "“降低脂肪肝水平” ……一个红番茄"
         }
       ]
     }
