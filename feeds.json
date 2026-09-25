@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T03:47:26Z",
+  "lastUpdated": "2026-09-25T11:19:07Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "牛肉成本一直是快餐连锁店的一个大问题"
         },
         {
-          "title": "Taco Bell’s traffic still down double digits despite aggressive promotions",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUE2WWJ6bXZmdHc3TS02QW44X2pmOUhNa0VLbWZsUmdUM1VxenN0M0Z2cXVrb1ZaSC1OcVlFMVFCY1Eza0o3cUhrd1dGQThBUFNQbWV1emlDWjJydDUyY1lLZk1GSkRxMklWMWNUUE5RN0FMU1FuNEY0Q09qVEpOa29UX3JNSVJkUmhNMlBjdjFIRW9Nd3BiQ2pZV0JRdlBWak5tNHo5ZVl3a0d5V3lnT3lGSjRza3hRaWdrbA?oc=5",
+          "title": "Making the DoorDash/Wonder deal make sense",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTFUVTV4WElqRXNCMTk1d09TM3hVTElvVjhXOFJmcm1zX2VOSDA5VThaaElDSDdZbWhWaVZIajljTHkya2hZcjBnT1hUS3lqbmZzVE5GNEd6NVNiU0VpWDc1VkozUlJ6Sjl6QkN2ZGdMamNVTEEtakV1M0NtYWIzMWxFTXBPcHdPVWFOVE1B?oc=5",
           "desc": "",
-          "title_ko": "공격적인 프로모션에도 불구하고 Taco Bell의 트래픽은 여전히 두 자리 수로 감소했습니다.",
-          "title_ja": "積極的なプロモーションにもかかわらず、タコベルのトラフィックは依然として2桁減少しています",
-          "title_zh": "尽管有激进的促销活动， Taco Bell的流量仍然下降了两位数"
+          "title_ko": "DoorDash/Wonder 거래를 성사시키는 것이 타당합니다.",
+          "title_ja": "DoorDash/Wonderのセールを理にかなったものにする",
+          "title_zh": "让DoorDash/Wonder交易有意义"
         }
       ]
     },
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"이걸 호텔방서 시켜 먹는다고?\"…외국인들 푹 빠진 한국 음식 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KY3RJcjZab3BFVzZ3cmJrbHNBc25Mb1k2dUxRN0Q1N1JQNGVIWnZZY29tT29TUUJrVUVHRml5V3BOZXpfdWNYcTU3cEo4dkJ3cG0wWjhEUGtvUQ?oc=5",
-          "desc": "",
-          "title_en": "\"You're ordering this from a hotel room?\" … Korean food with a passion for foreigners [Trend +]",
-          "title_ja": "「これをホテルの部屋に注文しているのですか？「…外国人に情熱を注ぐ韓国料理[トレンド+]",
-          "title_zh": "“你从酒店房间订的？「……对外国人充满热情的韩国美食[趋势+]"
-        },
-        {
           "title": "\"홍대 골목인 줄\"…북유럽서 인기 폭발한 길거리 간식 뭐길래 [씬메이커]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JZWVDdEE2NXRSYlRqcmVMaVgzYVdxQi1ucUlJZVY1dE84QjZHY0kyMU9JdTdkanRLMGJFcXA5d1I2Z1ZZTEhBMWFvUV8wTWNTTDVoaThfWHBVUQ?oc=5",
           "desc": "",
           "title_en": "“Hongdae Alley” … What is the popular street snack in Northern Europe? [Thin Maker]",
           "title_ja": "「弘大路地」…北ヨーロッパで人気のストリートスナックは何ですか？[ Thin Maker]",
           "title_zh": "「弘大巷」……北欧最受欢迎的街头小吃是什么？ [Thin Maker]"
+        },
+        {
+          "title": "\"이걸 호텔방서 시켜 먹는다고?\"…외국인들 푹 빠진 한국 음식 [트렌드+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KY3RJcjZab3BFVzZ3cmJrbHNBc25Mb1k2dUxRN0Q1N1JQNGVIWnZZY29tT29TUUJrVUVHRml5V3BOZXpfdWNYcTU3cEo4dkJ3cG0wWjhEUGtvUQ?oc=5",
+          "desc": "",
+          "title_en": "\"You're ordering this from a hotel room?\" … Korean food with a passion for foreigners [Trend +]",
+          "title_ja": "「これをホテルの部屋に注文しているのですか？「…外国人に情熱を注ぐ韓国料理[トレンド+]",
+          "title_zh": "“你从酒店房间订的？「……对外国人充满热情的韩国美食[趋势+]"
         },
         {
           "title": "부여·고창 이어 군위 사과로…롯데웰푸드 '맛있는 대한민국 상생로드' 확대",
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "“음식에서 왜 농약 냄새가?”…한밤중 중식당 쑥대밭 만든 男 2명 추적",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GMm1ySktiQzcxUS1iSFZqTUJWSkl3cVJiVFNraFNNUWIwaU84dGp5ZTR4OU8tU2tyT1Y2S2h0YXY0cVctLUFiaXFmY1lyaTdyTnfSAVNBVV95cUxOLUpYOFFodDFWc3c0TExseTIwVXdnOHpGNFdKZGxGbVJQWnBYYUVVbXZxdlhaaXl2a0JIdUk4ckxqQ0ltSWpQQTB4a3pGQzRGV1VCSQ?oc=5",
+          "desc": "",
+          "title_en": "“Why is there a pesticide smell in the food?” … Pursuit of two men who made a Chinese restaurant blubber in the middle of the night",
+          "title_ja": "「食品に殺虫剤の臭いがするのはなぜですか？「…真夜中に中華レストランの脂肪を作った2人の男性の追跡",
+          "title_zh": "“为什么食物中有杀虫剂气味？“ ……追捕两名在半夜制造中餐馆鲸脂的男子"
+        },
+        {
           "title": "“명절 음식 준비 걱정은 끝”… 실속 가전으로 추석 대비",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjLW04cGE1MGNJc3NEOXQ2WWZtVnNObUx6UjNKdlJPakxBME4tR0Q5WjByRHdET3lGb0stTlRHWHpVaEc4MFRRNmNHR0dQQTZyVEHSAVNBVV95cUxOSWZiUWNxUmNpc2hKLTAxdGpBRFIzSU42RTkwQzBuSVYxSXhmTTBpc0tyOWt2UWxjdFhyeDlPX0VPcHphRUNuZmJFUVp1T2Y2Mlc3Zw?oc=5",
           "desc": "",
           "title_en": "“No worries about preparing holiday food” … Preparing for Thanksgiving with real appliances",
           "title_ja": "「ホリデーフードの準備について心配する必要はありません」...本物の家電で感謝祭の準備をしましょう",
           "title_zh": "「不用担心准备节日美食」……用真正的电器为感恩节做准备"
-        },
-        {
-          "title": "“음식에서 왜 농약 냄새가?”…한밤중 중식당 쑥대밭 만든 男 2명 추적",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tSlg4UWh0MVZzdzRMTGx5MjBVd2c4ekY0V0pkbEZtUlBacFhhRVVtdnF2WFppeXZrQkh1SThyTGpDSW1JalBBMHhrekZDNEZXVUJJ0gFTQVVfeXFMTi1KWDhRaHQxVnN3NExMbHkyMFV3Zzh6RjRXSmRsRm1SUFpwWGFFVW12cXZYWml5dmtCSHVJOHJMakNJbUlqUEEweGt6RkM0RldVQkk?oc=5",
-          "desc": "",
-          "title_en": "“Why is there a pesticide smell in the food?” … Pursuit of two men who made a Chinese restaurant blubber in the middle of the night",
-          "title_ja": "「食品に殺虫剤の臭いがするのはなぜですか？「…真夜中に中華レストランの脂肪を作った2人の男性の追跡",
-          "title_zh": "“为什么食物中有杀虫剂气味？“ ……追捕两名在半夜制造中餐馆鲸脂的男子"
         },
         {
           "title": "추석 연휴도 잊었다…K푸드·뷰티 수장이 멕시코 찾는 이유는 [김연하의 킬링이슈]",
