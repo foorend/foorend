@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T10:55:45Z",
+  "lastUpdated": "2026-09-26T15:55:38Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "경남도 골프장 이용료·음식값 공개…골퍼 '긍정'·업계 '글쎄'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tM0xhR2gwUi1DblFEclNlX1lrcjNiZ3g4ZzJBUk5hQkwxNDNySXh2clhSMlh4RVRwWHBwOFNtVG5zMnAyWm54WU5uOFZQRlpxSXc?oc=5",
-          "desc": "",
-          "title_en": "Gyeongnam-do golf course fees and food prices revealed… Golfers' affirmation 'and industry' well '",
-          "title_ja": "慶南道のゴルフコース料金と食料価格が明らかに…ゴルファーの「肯定」と業界の「うまく」",
-          "title_zh": "Gyeongnam-do高尔夫球场费用和食品价格揭晓……高尔夫球手的“肯定”和行业“好”"
-        },
-        {
           "title": "도쿄에서 음식 주문했더니…K로봇이 “배달 왔습니다”",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdjZHNzIyU1llbnU1Vmp2Q25Bd1pPcUpFeGVOTEVtYVJKdld2X2staE1IclFHNG0tLThIbU5BU2Zia1JMNjhmSnk4ZEppbzBaRlNvYlV3?oc=5",
           "desc": "",
           "title_en": "I ordered food in Tokyo… and K-Robot “delivered”",
           "title_ja": "東京で料理を注文しました…そしてK - Robotが「配達」しました",
           "title_zh": "我在东京订购了餐点…… K-Robot “派送上门”"
+        },
+        {
+          "title": "경남도 골프장 이용료·음식값 공개…골퍼 '긍정'·업계 '글쎄'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tM0xhR2gwUi1DblFEclNlX1lrcjNiZ3g4ZzJBUk5hQkwxNDNySXh2clhSMlh4RVRwWHBwOFNtVG5zMnAyWm54WU5uOFZQRlpxSXc?oc=5",
+          "desc": "",
+          "title_en": "Gyeongnam-do golf course fees and food prices revealed… Golfers' affirmation 'and industry' well '",
+          "title_ja": "慶南道のゴルフコース料金と食料価格が明らかに…ゴルファーの「肯定」と業界の「うまく」",
+          "title_zh": "Gyeongnam-do高尔夫球场费用和食品价格揭晓……高尔夫球手的“肯定”和行业“好”"
         },
         {
           "title": "도쿄에서 음식 주문했더니…K로봇이 “배달 왔습니다”",
@@ -226,20 +226,20 @@
           "title_zh": "MegaMGC Coffee开启NCT 127十周年粉丝签约"
         },
         {
-          "title": "GLP-1 소비, 햄버거 메뉴도 바꾼다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCanFVcU9GeXRSTHh6Wl9GY0JqZXhSNk1yX3J5OVJUVFFhbnVlRjlVcFZsRERDMkRaajNXRU10dnRMdWF0cFUtRjdvZXloa3otam9CenNGTQ?oc=5",
-          "desc": "",
-          "title_en": "GLP-1 Consumption Changes Hamburger Menu",
-          "title_ja": "GLP -1消費量がハンバーガーメニューを変更",
-          "title_zh": "GLP-1消费量改变汉堡菜单"
-        },
-        {
           "title": "명절 불고기와 배로 만든다, 환절기 보양식 ‘배꿀찜’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nTnRLaWZaaHJtOHRYS2NPOWd0RTFoOGFNMUlld0c3aEpPOE41S0g3NFRTaXpjVW9jOEZxSF80SmF0UFJJRE1CTkFqblcwVkRiTzZrbkJEbw?oc=5",
           "desc": "",
           "title_en": "Make with grilled meat and pears during the holidays, 'stewed pear‘ during the holidays",
           "title_ja": "休日はグリルした肉と梨、休日は「煮込んだ梨」で作ろう",
           "title_zh": "在假期用烤肉和梨制作，在假期用“炖梨”制作"
+        },
+        {
+          "title": "“지방간 수치 줄인다”…새빨간 토마토 한 개",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZkduSzJSbEtZaHhHTHE1RGtrOHVoaEI1Ny1sRzFpd1F0dWRQSk5qZlUwRWFEd2p4Rk95UG45XzYwanpnelhMcEFOWDBPQV9sUldfeDlPOA?oc=5",
+          "desc": "",
+          "title_en": "“Reduce fatty liver levels” … one red tomato",
+          "title_ja": "「脂肪肝レベルを下げる」…赤いトマト1個",
+          "title_zh": "“降低脂肪肝水平” ……一个红番茄"
         }
       ]
     }
