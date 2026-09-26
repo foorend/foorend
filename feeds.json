@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T03:53:29Z",
+  "lastUpdated": "2026-09-26T10:55:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "麦当劳新任美国总统在关键时刻上任"
         },
         {
-          "title": "Making the DoorDash/Wonder deal make sense",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTFUVTV4WElqRXNCMTk1d09TM3hVTElvVjhXOFJmcm1zX2VOSDA5VThaaElDSDdZbWhWaVZIajljTHkya2hZcjBnT1hUS3lqbmZzVE5GNEd6NVNiU0VpWDc1VkozUlJ6Sjl6QkN2ZGdMamNVTEEtakV1M0NtYWIzMWxFTXBPcHdPVWFOVE1B?oc=5",
-          "desc": "",
-          "title_ko": "DoorDash/Wonder 거래를 성사시키는 것이 타당합니다.",
-          "title_ja": "DoorDash/Wonderのセールを理にかなったものにする",
-          "title_zh": "让DoorDash/Wonder交易有意义"
-        },
-        {
           "title": "Taco Bell’s traffic still down double digits despite aggressive promotions",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUE2WWJ6bXZmdHc3TS02QW44X2pmOUhNa0VLbWZsUmdUM1VxenN0M0Z2cXVrb1ZaSC1OcVlFMVFCY1Eza0o3cUhrd1dGQThBUFNQbWV1emlDWjJydDUyY1lLZk1GSkRxMklWMWNUUE5RN0FMU1FuNEY0Q09qVEpOa29UX3JNSVJkUmhNMlBjdjFIRW9Nd3BiQ2pZV0JRdlBWak5tNHo5ZVl3a0d5V3lnT3lGSjRza3hRaWdrbA?oc=5",
           "desc": "",
           "title_ko": "공격적인 프로모션에도 불구하고 Taco Bell의 트래픽은 여전히 두 자리 수로 감소했습니다.",
           "title_ja": "積極的なプロモーションにもかかわらず、タコベルのトラフィックは依然として2桁減少しています",
           "title_zh": "尽管有激进的促销活动， Taco Bell的流量仍然下降了两位数"
+        },
+        {
+          "title": "A big Wendy's bankruptcy reveals the chain's challenges",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVNoQjJ1SVhQNmQyR20xYXk4aUFnUlhnZURSazdJR2NmQm53bVpURXppWmNqdXEzbThMUWY0S2Y1RnBMdlJzNW9uejZaSGNLWHpmQzZqNTl5TUFJWFByOEJsYW15VU5KR3piR0hSNzRPNFFuTU1DNGxYMm5tTG9ZUHZsdlhlcFVGTDA4ZDRLNFY2R1FtREUtUFRn?oc=5",
+          "desc": "",
+          "title_ko": "큰 웬디의 파산은 체인의 어려움을 드러냅니다",
+          "title_ja": "大きなウェンディの破産は、チェーンの課題を明らかにします",
+          "title_zh": "大温迪的破产揭示了连锁店的挑战"
         }
       ]
     },
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"홍대 골목인 줄\"…북유럽서 인기 폭발한 길거리 간식 뭐길래 [씬메이커]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JZWVDdEE2NXRSYlRqcmVMaVgzYVdxQi1ucUlJZVY1dE84QjZHY0kyMU9JdTdkanRLMGJFcXA5d1I2Z1ZZTEhBMWFvUV8wTWNTTDVoaThfWHBVUQ?oc=5",
-          "desc": "",
-          "title_en": "“Hongdae Alley” … What is the popular street snack in Northern Europe? [Thin Maker]",
-          "title_ja": "「弘大路地」…北ヨーロッパで人気のストリートスナックは何ですか？[ Thin Maker]",
-          "title_zh": "「弘大巷」……北欧最受欢迎的街头小吃是什么？ [Thin Maker]"
-        },
-        {
           "title": "\"이걸 호텔방서 시켜 먹는다고?\"…외국인들 푹 빠진 한국 음식 [트렌드+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KY3RJcjZab3BFVzZ3cmJrbHNBc25Mb1k2dUxRN0Q1N1JQNGVIWnZZY29tT29TUUJrVUVHRml5V3BOZXpfdWNYcTU3cEo4dkJ3cG0wWjhEUGtvUQ?oc=5",
           "desc": "",
@@ -144,12 +136,20 @@
           "title_zh": "“你从酒店房间订的？「……对外国人充满热情的韩国美食[趋势+]"
         },
         {
-          "title": "부여·고창 이어 군위 사과로…롯데웰푸드 '맛있는 대한민국 상생로드' 확대",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TS29kdW90bk5pTWtwdFFvODBZNm9SRThIMTJfay1KQ0dkSXBSaDlrVm42N0Q3LWFxUjdKNF9kSm9RRU9yRTNkc0VTOHZyOTBjN3hsdFQ4UVpid3EtcUxISmFRZkNjbHlHblJ2SQ?oc=5",
+          "title": "\"한국이란 나라는 몰라도…\" 네덜란드 마트 싹쓸이한 '이것' [현장+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPT0cxWUUzUkVNSFZoalV0Z0czVEljajFmb0Y4WlhjM0ptVWU5SDRtWW9ZQTJzS2Flc1czbHdUOEtkdXN3NFRSMlU1SUlrMVZ1SUVOV3oyOXF0QQ?oc=5",
           "desc": "",
-          "title_en": "Granted · Gochang Ear Armed Forces With Apology… Lotte Well Food Expands' Delicious Korean Sangsang Road '",
-          "title_ja": "贈呈・謝罪の五昌耳軍…ロッテウェルフードが展開する「美味しい韓国サンサンロード」",
-          "title_zh": "授予· Gochang Ear武装部队道歉… Lotte Well Food扩展“美味的韩国桑桑路”"
+          "title_en": "\"I don't know about Korea...\" The Dutch Mart Swept This [Site +]",
+          "title_ja": "「韓国についてはわかりません...」オランダのマートがこの[Site +]を一掃しました",
+          "title_zh": "“我对韩国一无所知……”荷兰超市扫过这个[Site +]"
+        },
+        {
+          "title": "\"홍대 골목인 줄\"…북유럽서 인기 폭발한 길거리 간식 뭐길래 [씬메이커]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JZWVDdEE2NXRSYlRqcmVMaVgzYVdxQi1ucUlJZVY1dE84QjZHY0kyMU9JdTdkanRLMGJFcXA5d1I2Z1ZZTEhBMWFvUV8wTWNTTDVoaThfWHBVUQ?oc=5",
+          "desc": "",
+          "title_en": "“Hongdae Alley” … What is the popular street snack in Northern Europe? [Thin Maker]",
+          "title_ja": "「弘大路地」…北ヨーロッパで人気のストリートスナックは何ですか？[ Thin Maker]",
+          "title_zh": "「弘大巷」……北欧最受欢迎的街头小吃是什么？ [Thin Maker]"
         }
       ]
     },
@@ -197,7 +197,7 @@
         },
         {
           "title": "도쿄에서 음식 주문했더니…K로봇이 “배달 왔습니다”",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56cmlrME5ET3M4Z2xlSG1KOWlIc004dGZlMVVWREFZdzVsa0tBZUpjSlVROE9ZNjNndkNQc2FWdS04eXpQMGc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdjZHNzIyU1llbnU1Vmp2Q25Bd1pPcUpFeGVOTEVtYVJKdld2X2staE1IclFHNG0tLThIbU5BU2Zia1JMNjhmSnk4ZEppbzBaRlNvYlV3?oc=5",
           "desc": "",
           "title_en": "I ordered food in Tokyo… and K-Robot “delivered”",
           "title_ja": "東京で料理を注文しました…そしてK - Robotが「配達」しました",
@@ -205,7 +205,7 @@
         },
         {
           "title": "도쿄에서 음식 주문했더니…K로봇이 “배달 왔습니다”",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdjZHNzIyU1llbnU1Vmp2Q25Bd1pPcUpFeGVOTEVtYVJKdld2X2staE1IclFHNG0tLThIbU5BU2Zia1JMNjhmSnk4ZEppbzBaRlNvYlV3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56cmlrME5ET3M4Z2xlSG1KOWlIc004dGZlMVVWREFZdzVsa0tBZUpjSlVROE9ZNjNndkNQc2FWdS04eXpQMGc?oc=5",
           "desc": "",
           "title_en": "I ordered food in Tokyo… and K-Robot “delivered”",
           "title_ja": "東京で料理を注文しました…そしてK - Robotが「配達」しました",
@@ -226,20 +226,20 @@
           "title_zh": "MegaMGC Coffee开启NCT 127十周年粉丝签约"
         },
         {
+          "title": "GLP-1 소비, 햄버거 메뉴도 바꾼다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCanFVcU9GeXRSTHh6Wl9GY0JqZXhSNk1yX3J5OVJUVFFhbnVlRjlVcFZsRERDMkRaajNXRU10dnRMdWF0cFUtRjdvZXloa3otam9CenNGTQ?oc=5",
+          "desc": "",
+          "title_en": "GLP-1 Consumption Changes Hamburger Menu",
+          "title_ja": "GLP -1消費量がハンバーガーメニューを変更",
+          "title_zh": "GLP-1消费量改变汉堡菜单"
+        },
+        {
           "title": "명절 불고기와 배로 만든다, 환절기 보양식 ‘배꿀찜’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nTnRLaWZaaHJtOHRYS2NPOWd0RTFoOGFNMUlld0c3aEpPOE41S0g3NFRTaXpjVW9jOEZxSF80SmF0UFJJRE1CTkFqblcwVkRiTzZrbkJEbw?oc=5",
           "desc": "",
           "title_en": "Make with grilled meat and pears during the holidays, 'stewed pear‘ during the holidays",
           "title_ja": "休日はグリルした肉と梨、休日は「煮込んだ梨」で作ろう",
           "title_zh": "在假期用烤肉和梨制作，在假期用“炖梨”制作"
-        },
-        {
-          "title": "“지방간 수치 줄인다”…새빨간 토마토 한 개",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZkduSzJSbEtZaHhHTHE1RGtrOHVoaEI1Ny1sRzFpd1F0dWRQSk5qZlUwRWFEd2p4Rk95UG45XzYwanpnelhMcEFOWDBPQV9sUldfeDlPOA?oc=5",
-          "desc": "",
-          "title_en": "“Reduce fatty liver levels” … one red tomato",
-          "title_ja": "「脂肪肝レベルを下げる」…赤いトマト1個",
-          "title_zh": "“降低脂肪肝水平” ……一个红番茄"
         }
       ]
     }
