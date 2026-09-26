@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T20:43:15Z",
+  "lastUpdated": "2026-09-26T23:23:19Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -174,12 +174,12 @@
           "title_zh": "「不用担心准备节日美食」……用真正的电器为感恩节做准备"
         },
         {
-          "title": "뉴욕 셰프도 41도 고급 소주에 ‘홀릭’…“K푸드에 딱 맞는 술”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZS0Nid205WWxXV0o0ZGg3SnZkUlJOMDdxZVptM0ltYjdEZEJ5LVVyS2lJQVdXTnBQU09JZ21zenRYZ3BwU2FxNVdfd0g1TVhJRHfSAVNBVV95cUxPWUNIdGgwVC1ZVHItRExzcTFJTl84MW1tbUJ5cEwyVVRzVmxYS1hrbV92MjVhckxUekRNYVloNGNfZ3Z0T3pUUEFxbl84WE9Vem9CTQ?oc=5",
+          "title": "맛있어서 많이들 먹는데 “암세포 키우고 있었다”…사망 위험까지 높인다는 음식의 정체 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1McWt0MWh4TTM4RUpwb1diUmx1aUZwM0ZiRTNwT1ZTS212UVJFX0hLaXZqa0trMTV0UVJreGE2U1g2MnZwbVpxYmd3YU84dGNJRHfSAVNBVV95cUxNMTVZUEg3MUpmSFdBcGFGTFVfMlBMQjMyXy1SZ3B2XzdMTXVIdVNQSWxPRzhWQ3FVSEQ4bjNaUEw4WDFPblJhRDd3OHVLN0FxcnNNaw?oc=5",
           "desc": "",
-          "title_en": "New York chef also calls 41-degree high-end soju 'holic’ … “The perfect drink for K-Food”",
-          "title_ja": "ニューヨークのシェフも41度の高級焼酎を「holic」と呼んでいます…「K - Foodにぴったりのドリンク」",
-          "title_zh": "纽约厨师还称41度高端烧酒为“holic” …… “K-Food的完美饮料”"
+          "title_en": "Many people eat it because it's delicious, but “I was growing cancer cells” … Stagnation of food that increases the risk of death [Health time]",
+          "title_ja": "美味しいから食べる人が多いが、「がん細胞を増やしていた」…死のリスクを高める食べ物の停滞【健康時間】",
+          "title_zh": "很多人吃它，因为它很美味，但“我正在培养癌细胞” ……食物停滞会增加死亡风险[健康时间]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "작년 360억원 쏟은 K푸드 수출 지원…지원 기업 53% 수출액 감소",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FNENvMi1hTzBhNFhQRkFQWUhQSzBiaV9oWHhkYmdRX2ZNOENnbWNSckE4T0k0UGsxTkJpV2RQUlRrTW9rdWdDRWF6YUgtR2R4ckE?oc=5",
+          "desc": "",
+          "title_en": "K-Food export support that poured 36 billion won last year… Companies that support it fell 53% in exports",
+          "title_ja": "昨年360億ウォンを注ぎ込んだK - Foodの輸出支援…それを支援する企業の輸出は53 ％減少",
+          "title_zh": "去年注入360亿韩元的K-Food出口支持......支持它的公司的出口下降了53 ％"
+        },
         {
           "title": "도쿄에서 음식 주문했더니…K로봇이 “배달 왔습니다”",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdjZHNzIyU1llbnU1Vmp2Q25Bd1pPcUpFeGVOTEVtYVJKdld2X2staE1IclFHNG0tLThIbU5BU2Zia1JMNjhmSnk4ZEppbzBaRlNvYlV3?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "I ordered food in Tokyo… and K-Robot “delivered”",
           "title_ja": "東京で料理を注文しました…そしてK - Robotが「配達」しました",
           "title_zh": "我在东京订购了餐点…… K-Robot “派送上门”"
-        },
-        {
-          "title": "경남도 골프장 이용료·음식값 공개…골퍼 '긍정'·업계 '글쎄'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tM0xhR2gwUi1DblFEclNlX1lrcjNiZ3g4ZzJBUk5hQkwxNDNySXh2clhSMlh4RVRwWHBwOFNtVG5zMnAyWm54WU5uOFZQRlpxSXc?oc=5",
-          "desc": "",
-          "title_en": "Gyeongnam-do golf course fees and food prices revealed… Golfers' affirmation 'and industry' well '",
-          "title_ja": "慶南道のゴルフコース料金と食料価格が明らかに…ゴルファーの「肯定」と業界の「うまく」",
-          "title_zh": "Gyeongnam-do高尔夫球场费用和食品价格揭晓……高尔夫球手的“肯定”和行业“好”"
         }
       ]
     },
