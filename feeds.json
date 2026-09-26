@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T15:55:38Z",
+  "lastUpdated": "2026-09-26T20:43:15Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -196,20 +196,20 @@
           "title_zh": "我在东京订购了餐点…… K-Robot “派送上门”"
         },
         {
-          "title": "경남도 골프장 이용료·음식값 공개…골퍼 '긍정'·업계 '글쎄'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tM0xhR2gwUi1DblFEclNlX1lrcjNiZ3g4ZzJBUk5hQkwxNDNySXh2clhSMlh4RVRwWHBwOFNtVG5zMnAyWm54WU5uOFZQRlpxSXc?oc=5",
-          "desc": "",
-          "title_en": "Gyeongnam-do golf course fees and food prices revealed… Golfers' affirmation 'and industry' well '",
-          "title_ja": "慶南道のゴルフコース料金と食料価格が明らかに…ゴルファーの「肯定」と業界の「うまく」",
-          "title_zh": "Gyeongnam-do高尔夫球场费用和食品价格揭晓……高尔夫球手的“肯定”和行业“好”"
-        },
-        {
           "title": "도쿄에서 음식 주문했더니…K로봇이 “배달 왔습니다”",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56cmlrME5ET3M4Z2xlSG1KOWlIc004dGZlMVVWREFZdzVsa0tBZUpjSlVROE9ZNjNndkNQc2FWdS04eXpQMGc?oc=5",
           "desc": "",
           "title_en": "I ordered food in Tokyo… and K-Robot “delivered”",
           "title_ja": "東京で料理を注文しました…そしてK - Robotが「配達」しました",
           "title_zh": "我在东京订购了餐点…… K-Robot “派送上门”"
+        },
+        {
+          "title": "경남도 골프장 이용료·음식값 공개…골퍼 '긍정'·업계 '글쎄'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tM0xhR2gwUi1DblFEclNlX1lrcjNiZ3g4ZzJBUk5hQkwxNDNySXh2clhSMlh4RVRwWHBwOFNtVG5zMnAyWm54WU5uOFZQRlpxSXc?oc=5",
+          "desc": "",
+          "title_en": "Gyeongnam-do golf course fees and food prices revealed… Golfers' affirmation 'and industry' well '",
+          "title_ja": "慶南道のゴルフコース料金と食料価格が明らかに…ゴルファーの「肯定」と業界の「うまく」",
+          "title_zh": "Gyeongnam-do高尔夫球场费用和食品价格揭晓……高尔夫球手的“肯定”和行业“好”"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "일본의 세대별 주류시장 소비 특징은?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlSXFZVmhPOXlCS2YtUlBrTnZPbllxQncxZmhzZUdnNi10cXFPMktRb19fZmhVREZ3MFotazVyaXpEdTBCU2FVSzl3ak5zZC1LUEtEZjdNbw?oc=5",
+          "desc": "",
+          "title_en": "What are the characteristics of Japan's generation-specific alcohol consumption market?",
+          "title_ja": "日本の世代別アルコール消費市場の特徴は何ですか？",
+          "title_zh": "日本特定世代的酒类消费市场有哪些特点？"
+        },
         {
           "title": "메가MGC커피, NCT 127 10주년 팬사인회 연다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByUmNwSnRwWnAySG5LQW42aTJTM0NsMHhHUGsxMlg2Q2pkTmVNTEtFcWlkS1hjaVY0M0xYNlQxa3piMnE5SkVGYnFZVWdGN0VKYjEzc2hTZw?oc=5",
@@ -226,20 +234,12 @@
           "title_zh": "MegaMGC Coffee开启NCT 127十周年粉丝签约"
         },
         {
-          "title": "명절 불고기와 배로 만든다, 환절기 보양식 ‘배꿀찜’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nTnRLaWZaaHJtOHRYS2NPOWd0RTFoOGFNMUlld0c3aEpPOE41S0g3NFRTaXpjVW9jOEZxSF80SmF0UFJJRE1CTkFqblcwVkRiTzZrbkJEbw?oc=5",
+          "title": "K-디저트, 일본의 냉동고를 채운다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KakszY21pcWptaXQzTzNiQUR6b3pVVnVfZzB5VE1zYzBveV9rY0s2cV9kd1EtY1h5aGNJdUJTbzdwa0VSRzAzY1A2R0NnekI2ZDZxYzF1aw?oc=5",
           "desc": "",
-          "title_en": "Make with grilled meat and pears during the holidays, 'stewed pear‘ during the holidays",
-          "title_ja": "休日はグリルした肉と梨、休日は「煮込んだ梨」で作ろう",
-          "title_zh": "在假期用烤肉和梨制作，在假期用“炖梨”制作"
-        },
-        {
-          "title": "“지방간 수치 줄인다”…새빨간 토마토 한 개",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZkduSzJSbEtZaHhHTHE1RGtrOHVoaEI1Ny1sRzFpd1F0dWRQSk5qZlUwRWFEd2p4Rk95UG45XzYwanpnelhMcEFOWDBPQV9sUldfeDlPOA?oc=5",
-          "desc": "",
-          "title_en": "“Reduce fatty liver levels” … one red tomato",
-          "title_ja": "「脂肪肝レベルを下げる」…赤いトマト1個",
-          "title_zh": "“降低脂肪肝水平” ……一个红番茄"
+          "title_en": "K-Dessert Fills Freezer in Japan",
+          "title_ja": "日本の冷凍庫にKデザートを充填",
+          "title_zh": "日本K-Dessert冰柜"
         }
       ]
     }
