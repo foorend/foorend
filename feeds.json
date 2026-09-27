@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T20:59:00Z",
+  "lastUpdated": "2026-09-27T23:45:02Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "麦当劳新任美国总统在关键时刻上任"
         },
         {
-          "title": "A big Wendy's bankruptcy reveals the chain's challenges",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVNoQjJ1SVhQNmQyR20xYXk4aUFnUlhnZURSazdJR2NmQm53bVpURXppWmNqdXEzbThMUWY0S2Y1RnBMdlJzNW9uejZaSGNLWHpmQzZqNTl5TUFJWFByOEJsYW15VU5KR3piR0hSNzRPNFFuTU1DNGxYMm5tTG9ZUHZsdlhlcFVGTDA4ZDRLNFY2R1FtREUtUFRn?oc=5",
-          "desc": "",
-          "title_ko": "큰 웬디의 파산은 체인의 어려움을 드러냅니다",
-          "title_ja": "大きなウェンディの破産は、チェーンの課題を明らかにします",
-          "title_zh": "大温迪的破产揭示了连锁店的挑战"
-        },
-        {
           "title": "McDonald's just put forth a bold plan. Investors are not convinced",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmIwN1AyV0dqVUttSW1TOER3WHJnR2d2NFBWdEd1b1R6Z0xwWldNWjdkcGxUNGJwQTBGVlp4c19jcDRJZXhQdk52NkZYa1ZQWWFuSWR5RmdEajhUdWUtaFhzY3Z0Nl9wTy1WQ3YtbkI0a1VsN09wX000X0tJc0hBdlBjSENrVVJaNU1QUHRtVFVNNFJyUGIxeThObU5NcjBtSnlDS2dvMWJRRnBLUFE?oc=5",
           "desc": "",
           "title_ko": "맥도날드는 방금 대담한 계획을 세웠습니다. 투자자들이 확신하지 못함",
           "title_ja": "マクドナルドは大胆な計画を立てたばかりです。投資家は納得していない",
           "title_zh": "麦当劳刚刚提出了一个大胆的计划。投资者不相信"
+        },
+        {
+          "title": "A big Wendy's bankruptcy reveals the chain's challenges",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVNoQjJ1SVhQNmQyR20xYXk4aUFnUlhnZURSazdJR2NmQm53bVpURXppWmNqdXEzbThMUWY0S2Y1RnBMdlJzNW9uejZaSGNLWHpmQzZqNTl5TUFJWFByOEJsYW15VU5KR3piR0hSNzRPNFFuTU1DNGxYMm5tTG9ZUHZsdlhlcFVGTDA4ZDRLNFY2R1FtREUtUFRn?oc=5",
+          "desc": "",
+          "title_ko": "큰 웬디의 파산은 체인의 어려움을 드러냅니다",
+          "title_ja": "大きなウェンディの破産は、チェーンの課題を明らかにします",
+          "title_zh": "大温迪的破产揭示了连锁店的挑战"
         }
       ]
     },
@@ -144,12 +144,12 @@
           "title_zh": "“你从酒店房间订的？「……对外国人充满热情的韩国美食[趋势+]"
         },
         {
-          "title": "\"한국이란 나라는 몰라도…\" 네덜란드 마트 싹쓸이한 '이것' [현장+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPT0cxWUUzUkVNSFZoalV0Z0czVEljajFmb0Y4WlhjM0ptVWU5SDRtWW9ZQTJzS2Flc1czbHdUOEtkdXN3NFRSMlU1SUlrMVZ1SUVOV3oyOXF0QQ?oc=5",
+          "title": "\"얼음컵 하이라이터·만두 쿠션?\"…편의점 음식, 화장품 됐다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xdV9CRVQzNDByX202Q1FBd1BnVm9xUGR4TE5ZcDFtaDB5b0Exb094Y2pnbS1ZNjZxajEwc2lyYTl3SXJRcElqVVJWbVN0MHNfS3pDN0dnS25NZw?oc=5",
           "desc": "",
-          "title_en": "\"I don't know about Korea...\" The Dutch Mart Swept This [Site +]",
-          "title_ja": "「韓国についてはわかりません...」オランダのマートがこの[Site +]を一掃しました",
-          "title_zh": "“我对韩国一无所知……”荷兰超市扫过这个[Site +]"
+          "title_en": "\"Ice cup highlighter · Dumpling cushion?\" … Convenience store food, cosmetics.",
+          "title_ja": "「アイスカップハイライター・餃子クッション？「…コンビニ食品、化粧品。",
+          "title_zh": "“冰杯荧光笔·饺子垫？「……便利店食品、化妆品。"
         }
       ]
     },
