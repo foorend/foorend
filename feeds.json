@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T11:32:10Z",
+  "lastUpdated": "2026-09-27T16:31:41Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "이한위 “아내 음식 맛 절망적… 맛있게 먹는 아이들에 열심히 일하기로” (‘알토란’) - 스타투데이",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91OFdpeUJFSW0xdDZMUm1SRXRKb2pMTzBFX3RuWGZaNUJVOU1YbFltaEtqS3hPNGtiYlBhcUI2cGhHcVg5WFhoUUEzc1E0SXBsSFB3M2ZTcWxBY191bWpYbmVEQjExQQ?oc=5",
+          "desc": "",
+          "title_en": "Lee Han-wi “Desperate to taste wife's food… to work hard on kids who enjoy it” (‘Althoran’) - StarToday",
+          "title_ja": "イ・ハンウィ「妻の食べ物を味わいたくてたまらない…それを楽しむ子供たちのために一生懸命働く」(' Althoran ') - StarToday",
+          "title_zh": "Lee Han-wi “渴望品尝妻子的食物……努力培养喜欢它的孩子” （ ‘Althoran’ ） - StarToday"
+        },
+        {
           "title": "쿠팡, 내달 4일까지 '프리미엄 푸드' 기획전",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Z0hIcGdwbUxoSFhBQ09wN0tlX2xhQnFqb1dtX2hqb1dOM2RPMmdsUkJTeXo4QUQ3TUMtd1BTNmJaOWkyd1R5RUt0RXZCN3ZvUEE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Olive Oil · Dry-Style Rocket Delivery… Coupang 'Premium Food' Exhibition",
           "title_ja": "オリーブオイル・ドライスタイルのロケットデリバリー…クーパン「プレミアムフード」展",
           "title_zh": "橄榄油·干式火箭运送… Coupang “优质食品”展览"
-        },
-        {
-          "title": "작년 360억원 쏟은 K푸드 수출 지원…지원 기업 53% 수출액 감소",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FNENvMi1hTzBhNFhQRkFQWUhQSzBiaV9oWHhkYmdRX2ZNOENnbWNSckE4T0k0UGsxTkJpV2RQUlRrTW9rdWdDRWF6YUgtR2R4ckE?oc=5",
-          "desc": "",
-          "title_en": "K-Food export support that poured 36 billion won last year… Companies that support it fell 53% in exports",
-          "title_ja": "昨年360億ウォンを注ぎ込んだK - Foodの輸出支援…それを支援する企業の輸出は53 ％減少",
-          "title_zh": "去年注入360亿韩元的K-Food出口支持......支持它的公司的出口下降了53 ％"
         }
       ]
     },
