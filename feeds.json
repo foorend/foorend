@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T13:05:52Z",
+  "lastUpdated": "2026-09-28T21:05:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "“叔叔也排队买” ……最受欢迎的'这道菜'是什么？【朴秀彬的挖掘队】"
         },
         {
-          "title": "\"K푸드 수출 늘었다는데\"…180억 지원해도 뒷걸음",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rY01ScGdpUmdXX19OV2Ria0gzdkI1RVdsaExPajRjdDRpVUpfWUViaHFKeUZod0ZoLW1CQVBXTHhNTjhjTVB6WkcxdHpSR2RaTmU5MkFVWDE4QQ?oc=5",
-          "desc": "",
-          "title_en": "“K-Food Exports Increased” … Even if 18 Billion Supported, Backward Steps",
-          "title_ja": "「K - Food輸出増加」… 180億を支援しても後退",
-          "title_zh": "“韩国食品出口增加” ……即使支持180亿，退步"
-        },
-        {
           "title": "\"이걸 호텔방서 시켜 먹는다고?\"…외국인들 푹 빠진 한국 음식 [트렌드+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KY3RJcjZab3BFVzZ3cmJrbHNBc25Mb1k2dUxRN0Q1N1JQNGVIWnZZY29tT29TUUJrVUVHRml5V3BOZXpfdWNYcTU3cEo4dkJ3cG0wWjhEUGtvUQ?oc=5",
           "desc": "",
           "title_en": "\"You're ordering this from a hotel room?\" … Korean food with a passion for foreigners [Trend +]",
           "title_ja": "「これをホテルの部屋に注文しているのですか？「…外国人に情熱を注ぐ韓国料理[トレンド+]",
           "title_zh": "“你从酒店房间订的？「……对外国人充满热情的韩国美食[趋势+]"
+        },
+        {
+          "title": "\"K푸드 수출 늘었다는데\"…180억 지원해도 뒷걸음",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rY01ScGdpUmdXX19OV2Ria0gzdkI1RVdsaExPajRjdDRpVUpfWUViaHFKeUZod0ZoLW1CQVBXTHhNTjhjTVB6WkcxdHpSR2RaTmU5MkFVWDE4QQ?oc=5",
+          "desc": "",
+          "title_en": "“K-Food Exports Increased” … Even if 18 Billion Supported, Backward Steps",
+          "title_ja": "「K - Food輸出増加」… 180億を支援しても後退",
+          "title_zh": "“韩国食品出口增加” ……即使支持180亿，退步"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "Montshell和Kokkakkon有军用苹果…… Lotte Well Food Sangsang Road Sweets 15种新产品"
         },
         {
-          "title": "이한위 “아내 음식 맛 절망적… 맛있게 먹는 아이들에 열심히 일하기로” (‘알토란’) - 스타투데이",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91OFdpeUJFSW0xdDZMUm1SRXRKb2pMTzBFX3RuWGZaNUJVOU1YbFltaEtqS3hPNGtiYlBhcUI2cGhHcVg5WFhoUUEzc1E0SXBsSFB3M2ZTcWxBY191bWpYbmVEQjExQQ?oc=5",
+          "title": "[게시판] 바디프랜드, 상록보육원 찾아 음식·후원 물품 전달",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBValZqX2Nra0F2ejFVanRZU0R5X3Q5U0JEYS1KODIxUXpvemFUOTBwWjFPLWZqaXhkalNadDRfcUVWLXMyX0hsNTAxUF91QWxoYkE?oc=5",
           "desc": "",
-          "title_en": "Lee Han-wi “Desperate to taste wife's food… to work hard on kids who enjoy it” (‘Althoran’) - StarToday",
-          "title_ja": "イ・ハンウィ「妻の食べ物を味わいたくてたまらない…それを楽しむ子供たちのために一生懸命働く」(' Althoran ') - StarToday",
-          "title_zh": "Lee Han-wi “渴望品尝妻子的食物……努力培养喜欢它的孩子” （ ‘Althoran’ ） - StarToday"
+          "title_en": "[Bulletin Board] Body Friend Finds Evergreen Nursery and Delivers Food and Sponsored Goods",
+          "title_ja": "【掲示板】エバーグリーン保育園を見つけて食べ物やスポンサーグッズを届けるボディフレンド",
+          "title_zh": "[公告栏] Body Friend找到Evergreen Nursery并提供食品和赞助商品"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "수면 부족이 만든 인도네시아 수면 보조제 시장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WSURRck1fMHczRW5FQVc3dEpJV282bTc1NEUzUVdDTVQ0b0RLcmpsQUZGUEVQb0Z0SXBGUzF4aEVzcTF2cUFIS3p6NHdDZW1zcVVTeHVvcw?oc=5",
-          "desc": "",
-          "title_en": "Indonesian sleep aid market created by sleep deprivation",
-          "title_ja": "睡眠不足が生み出すインドネシアの睡眠補助市場",
-          "title_zh": "由睡眠剥夺创造的印尼睡眠辅助市场"
-        },
         {
           "title": "외국 브랜드 경쟁 심화…한국과 다른 일본 버거 시장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1N3lRTFBBTEFWTWxJQkNLWFVyM3ZrVHBlUHAxM3RuYk80bGxrempNUGhQaUF6ZWl2S1hYRkVBVEtFTzFIY3E0Y2ZzNUdsaWRhWWxIck5Bcw?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Non-Alcoholic Fusion Food… European Trends at Oktoberfest",
           "title_ja": "ノンアルコールフュージョンフード…オクトーバーフェストでヨーロッパのトレンドを学ぼう",
           "title_zh": "非酒精融合美食…慕尼黑啤酒节的欧洲潮流"
+        },
+        {
+          "title": "무당·고단백 스낵…홍콩 식품 시장의 변화",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vZnFZTnJvdlRydmRVd0dDRVFxR1ZmaWtXQndPbE8wVHNvWkMwZ29MWVFibXJZYTB5R2ZDTjJuek9ENTdRVmRtQk1YTE1UeFlHcXhJdl9FZw?oc=5",
+          "desc": "",
+          "title_en": "Shamanic and High Protein Snacks… Changes in the Hong Kong Food Market",
+          "title_ja": "シャーマンと高タンパク質のスナック…香港の食品市場の変化",
+          "title_zh": "萨满和高蛋白零食……香港食品市场的变化"
         }
       ]
     }
