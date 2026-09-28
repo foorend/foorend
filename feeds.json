@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T23:45:02Z",
+  "lastUpdated": "2026-09-28T04:04:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"K푸드 수출 늘었다는데\"…180억 지원해도 뒷걸음",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rY01ScGdpUmdXX19OV2Ria0gzdkI1RVdsaExPajRjdDRpVUpfWUViaHFKeUZod0ZoLW1CQVBXTHhNTjhjTVB6WkcxdHpSR2RaTmU5MkFVWDE4QQ?oc=5",
-          "desc": "",
-          "title_en": "“K-Food Exports Increased” … Even if 18 Billion Supported, Backward Steps",
-          "title_ja": "「K - Food輸出増加」… 180億を支援しても後退",
-          "title_zh": "“韩国食品出口增加” ……即使支持180亿，退步"
-        },
-        {
           "title": "\"이걸 호텔방서 시켜 먹는다고?\"…외국인들 푹 빠진 한국 음식 [트렌드+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KY3RJcjZab3BFVzZ3cmJrbHNBc25Mb1k2dUxRN0Q1N1JQNGVIWnZZY29tT29TUUJrVUVHRml5V3BOZXpfdWNYcTU3cEo4dkJ3cG0wWjhEUGtvUQ?oc=5",
           "desc": "",
@@ -144,12 +136,20 @@
           "title_zh": "“你从酒店房间订的？「……对外国人充满热情的韩国美食[趋势+]"
         },
         {
-          "title": "\"얼음컵 하이라이터·만두 쿠션?\"…편의점 음식, 화장품 됐다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xdV9CRVQzNDByX202Q1FBd1BnVm9xUGR4TE5ZcDFtaDB5b0Exb094Y2pnbS1ZNjZxajEwc2lyYTl3SXJRcElqVVJWbVN0MHNfS3pDN0dnS25NZw?oc=5",
+          "title": "\"K푸드 수출 늘었다는데\"…180억 지원해도 뒷걸음",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rY01ScGdpUmdXX19OV2Ria0gzdkI1RVdsaExPajRjdDRpVUpfWUViaHFKeUZod0ZoLW1CQVBXTHhNTjhjTVB6WkcxdHpSR2RaTmU5MkFVWDE4QQ?oc=5",
           "desc": "",
-          "title_en": "\"Ice cup highlighter · Dumpling cushion?\" … Convenience store food, cosmetics.",
-          "title_ja": "「アイスカップハイライター・餃子クッション？「…コンビニ食品、化粧品。",
-          "title_zh": "“冰杯荧光笔·饺子垫？「……便利店食品、化妆品。"
+          "title_en": "“K-Food Exports Increased” … Even if 18 Billion Supported, Backward Steps",
+          "title_ja": "「K - Food輸出増加」… 180億を支援しても後退",
+          "title_zh": "“韩国食品出口增加” ……即使支持180亿，退步"
+        },
+        {
+          "title": "\"한국이란 나라는 몰라도…\" 네덜란드 마트 싹쓸이한 '이것' [현장+]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPT0cxWUUzUkVNSFZoalV0Z0czVEljajFmb0Y4WlhjM0ptVWU5SDRtWW9ZQTJzS2Flc1czbHdUOEtkdXN3NFRSMlU1SUlrMVZ1SUVOV3oyOXF0QQ?oc=5",
+          "desc": "",
+          "title_en": "\"I don't know about Korea...\" The Dutch Mart Swept This [Site +]",
+          "title_ja": "「韓国についてはわかりません...」オランダのマートがこの[Site +]を一掃しました",
+          "title_zh": "“我对韩国一无所知……”荷兰超市扫过这个[Site +]"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“为什么食物中有杀虫剂气味？“ ……追捕两名在半夜制造中餐馆鲸脂的男子"
         },
         {
+          "title": "K-블루푸드 혁신 성과 한자리에…‘블루푸드 밸류업 데이’ 개최",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fUjBqRDhGaVFHdmt4VnRBcXkxcTRwZ1M4RDluSmFqTThFemd3QnFLb1h6NXFlSFZORTBGVkhmb21ORWI2VVNGQmg5aWYzUFpxSGfSAVNBVV95cUxPTFlpYVExTVJyV3NxbGZ6SkVNZTFMbzZpRHQwelNDdXNMcTNqRGZhWTg2MlpRVWJBVlo2cGppcTE0Qm1pYWEyV1E1QXRwR0dHOUlUTQ?oc=5",
+          "desc": "",
+          "title_en": "K-Blue Food Innovation Achievement in One Place… ‘Blue Food Value Up Day’ Held",
+          "title_ja": "K - Blue Food Innovation Achievement in One Place…「Blue Food Value Up Day」開催",
+          "title_zh": "K-Blue食品创新成果汇聚一堂……举办“蓝色食品价值提升日”"
+        },
+        {
           "title": "쿠팡, 프리미엄 푸드 기획전 오픈",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93SjJxTlRGZElDQzY5TW1XT2VnY256UG1PR05PaWQwOXQ1RDY3WnZ4aXlqWkhuM0lPazVzQWxza084RUtaSWFOSXZaZzhlcTBSaVHSAVNBVV95cUxObjVVcG9TZVVvdmpDTUR2LTZqRkpBQlQ0NUlVS2F2OUpnM1VHTGxKRjhDNWxOOHhuZVRkMk1DTGFDSnNIcm9Sb2RPMmdid1p6NWVWcw?oc=5",
           "desc": "",
           "title_en": "Coupang opens premium food exhibition",
           "title_ja": "クーパン、プレミアム食品展示会を開く",
           "title_zh": "Coupang开设高端食品展"
-        },
-        {
-          "title": "맛있어서 많이들 먹는데 “암세포 키우고 있었다”…사망 위험까지 높인다는 음식의 정체 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1McWt0MWh4TTM4RUpwb1diUmx1aUZwM0ZiRTNwT1ZTS212UVJFX0hLaXZqa0trMTV0UVJreGE2U1g2MnZwbVpxYmd3YU84dGNJRHfSAVNBVV95cUxNMTVZUEg3MUpmSFdBcGFGTFVfMlBMQjMyXy1SZ3B2XzdMTXVIdVNQSWxPRzhWQ3FVSEQ4bjNaUEw4WDFPblJhRDd3OHVLN0FxcnNNaw?oc=5",
-          "desc": "",
-          "title_en": "Many people eat it because it's delicious, but “I was growing cancer cells” … Stagnation of food that increases the risk of death [Health time]",
-          "title_ja": "美味しいから食べる人が多いが、「がん細胞を増やしていた」…死のリスクを高める食べ物の停滞【健康時間】",
-          "title_zh": "很多人吃它，因为它很美味，但“我正在培养癌细胞” ……食物停滞会增加死亡风险[健康时间]"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "몽쉘·꼬깔콘에 군위 사과가...롯데웰푸드 상생로드 과자 신제품 15종 선봬",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBScG9ORGpKS2prWWRDWGxSdno1OTZVMTlGNFY0bVdGNDJNM1hrbmluMjZiZUVmTEtJU254UTdNV0c2eDFacWc?oc=5",
+          "desc": "",
+          "title_en": "There are military apples in Montshell and Kokkakkon... Lotte Well Food Sangsang Road Sweets 15 new products",
+          "title_ja": "モンシェルとコッカッコンにはミリタリーリンゴがあります…ロッテウェルフードサンサンロードスイーツ新商品15品",
+          "title_zh": "Montshell和Kokkakkon有军用苹果…… Lotte Well Food Sangsang Road Sweets 15种新产品"
+        },
+        {
+          "title": "[게시판] 바디프랜드, 상록보육원 찾아 음식·후원 물품 전달",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBValZqX2Nra0F2ejFVanRZU0R5X3Q5U0JEYS1KODIxUXpvemFUOTBwWjFPLWZqaXhkalNadDRfcUVWLXMyX0hsNTAxUF91QWxoYkE?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] Body Friend Finds Evergreen Nursery and Delivers Food and Sponsored Goods",
+          "title_ja": "【掲示板】エバーグリーン保育園を見つけて食べ物やスポンサーグッズを届けるボディフレンド",
+          "title_zh": "[公告栏] Body Friend找到Evergreen Nursery并提供食品和赞助商品"
+        },
+        {
           "title": "이한위 “아내 음식 맛 절망적… 맛있게 먹는 아이들에 열심히 일하기로” (‘알토란’)",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91OFdpeUJFSW0xdDZMUm1SRXRKb2pMTzBFX3RuWGZaNUJVOU1YbFltaEtqS3hPNGtiYlBhcUI2cGhHcVg5WFhoUUEzc1E0SXBsSFB3M2ZTcWxBY191bWpYbmVEQjExQQ?oc=5",
           "desc": "",
           "title_en": "Lee Han-wi “Desperate to taste my wife's food… to work hard on the kids who enjoy it” (‘Althoran’)",
           "title_ja": "イ・ハンウィ「妻の食べ物を味わいたくてたまらない…それを楽しむ子供たちのために一生懸命働く」（「アルソラン」）",
           "title_zh": "Lee Han-wi “渴望品尝我妻子的食物......努力为喜欢它的孩子们服务” （ ‘Althoran’ ）"
-        },
-        {
-          "title": "쿠팡, 내달 4일까지 '프리미엄 푸드' 기획전",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Z0hIcGdwbUxoSFhBQ09wN0tlX2xhQnFqb1dtX2hqb1dOM2RPMmdsUkJTeXo4QUQ3TUMtd1BTNmJaOWkyd1R5RUt0RXZCN3ZvUEE?oc=5",
-          "desc": "",
-          "title_en": "Coupang, 'Premium Food' Exhibition until the 4th of next month",
-          "title_ja": "来月4日まで「プレミアムフード」展示会「クーパン」",
-          "title_zh": "Coupang ， “优质食品”展览，直至下个月4日"
-        },
-        {
-          "title": "올리브오일·건기식 로켓배송 … 쿠팡 '프리미엄 푸드' 기획전",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vaF9LMmtYelVxUnBHbEpNTkNualhkNUprTTBwYS1mS255Uml3NVVkRm53N0dFUGJMbVNhWlNyRnJWbXdrdUE?oc=5",
-          "desc": "",
-          "title_en": "Olive Oil · Dry-Style Rocket Delivery… Coupang 'Premium Food' Exhibition",
-          "title_ja": "オリーブオイル・ドライスタイルのロケットデリバリー…クーパン「プレミアムフード」展",
-          "title_zh": "橄榄油·干式火箭运送… Coupang “优质食品”展览"
         }
       ]
     },
