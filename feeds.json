@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T21:05:16Z",
+  "lastUpdated": "2026-09-29T04:37:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "麦当劳新任美国总统在关键时刻上任"
         },
         {
+          "title": "Consumers can’t find much to like about Wendy’s",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFFGcmpkSmtVbDk5Wkp0TGN0dGFZRTJWRXQ5R25pR3BHbUZIS0h0M1hsM2s5UDVwVlE0b205WUNMbmEzRVRuZHVnZVBmWkJIVEpFT3NLcEhmaVhRS0dXSWVkZkYxWnBsY0tnRDlTSVg4Rk1fVG9tSVY4NExVUnlFTDNpVmRPbGI2YUtfMnhSOWhOelV0RjJrQjh3?oc=5",
+          "desc": "",
+          "title_ko": "소비자는 Wendy 's에 대해 좋아할만한 것을 많이 찾을 수 없습니다.",
+          "title_ja": "消費者はウェンディーズを気に入るものがあまり見つかりません",
+          "title_zh": "消费者不太喜欢Wendy's"
+        },
+        {
           "title": "McDonald's just put forth a bold plan. Investors are not convinced",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmIwN1AyV0dqVUttSW1TOER3WHJnR2d2NFBWdEd1b1R6Z0xwWldNWjdkcGxUNGJwQTBGVlp4c19jcDRJZXhQdk52NkZYa1ZQWWFuSWR5RmdEajhUdWUtaFhzY3Z0Nl9wTy1WQ3YtbkI0a1VsN09wX000X0tJc0hBdlBjSENrVVJaNU1QUHRtVFVNNFJyUGIxeThObU5NcjBtSnlDS2dvMWJRRnBLUFE?oc=5",
           "desc": "",
           "title_ko": "맥도날드는 방금 대담한 계획을 세웠습니다. 투자자들이 확신하지 못함",
           "title_ja": "マクドナルドは大胆な計画を立てたばかりです。投資家は納得していない",
           "title_zh": "麦当劳刚刚提出了一个大胆的计划。投资者不相信"
-        },
-        {
-          "title": "A big Wendy's bankruptcy reveals the chain's challenges",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVNoQjJ1SVhQNmQyR20xYXk4aUFnUlhnZURSazdJR2NmQm53bVpURXppWmNqdXEzbThMUWY0S2Y1RnBMdlJzNW9uejZaSGNLWHpmQzZqNTl5TUFJWFByOEJsYW15VU5KR3piR0hSNzRPNFFuTU1DNGxYMm5tTG9ZUHZsdlhlcFVGTDA4ZDRLNFY2R1FtREUtUFRn?oc=5",
-          "desc": "",
-          "title_ko": "큰 웬디의 파산은 체인의 어려움을 드러냅니다",
-          "title_ja": "大きなウェンディの破産は、チェーンの課題を明らかにします",
-          "title_zh": "大温迪的破产揭示了连锁店的挑战"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "“叔叔也排队买” ……最受欢迎的'这道菜'是什么？【朴秀彬的挖掘队】"
         },
         {
+          "title": "\"스테이크 실컷 먹어도 2만원대인데\"…뷔페가 안 망하는 이유",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0bzJMbjNPTWw0cEk0QXlRTUR6NkJYTlhtWVNKUElKZVVkQUJjZXpRRVQzQTRxWkxfaFB2a21Wb0hpa1gxbVpTRjMwRFRoOUlJS2VMTW1uMWtUZw?oc=5",
+          "desc": "",
+          "title_en": "\"It's 20,000 won even if you eat a full steak\" … Why the buffet is not ruined",
+          "title_ja": "「フルステーキを食べても2万ウォン」…ビュッフェが台無しにならない理由",
+          "title_zh": "“就算吃了一整块牛排也要2万韩元” ……为什么自助餐没有被毁掉"
+        },
+        {
           "title": "\"이걸 호텔방서 시켜 먹는다고?\"…외국인들 푹 빠진 한국 음식 [트렌드+]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KY3RJcjZab3BFVzZ3cmJrbHNBc25Mb1k2dUxRN0Q1N1JQNGVIWnZZY29tT29TUUJrVUVHRml5V3BOZXpfdWNYcTU3cEo4dkJ3cG0wWjhEUGtvUQ?oc=5",
           "desc": "",
           "title_en": "\"You're ordering this from a hotel room?\" … Korean food with a passion for foreigners [Trend +]",
           "title_ja": "「これをホテルの部屋に注文しているのですか？「…外国人に情熱を注ぐ韓国料理[トレンド+]",
           "title_zh": "“你从酒店房间订的？「……对外国人充满热情的韩国美食[趋势+]"
-        },
-        {
-          "title": "\"K푸드 수출 늘었다는데\"…180억 지원해도 뒷걸음",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rY01ScGdpUmdXX19OV2Ria0gzdkI1RVdsaExPajRjdDRpVUpfWUViaHFKeUZod0ZoLW1CQVBXTHhNTjhjTVB6WkcxdHpSR2RaTmU5MkFVWDE4QQ?oc=5",
-          "desc": "",
-          "title_en": "“K-Food Exports Increased” … Even if 18 Billion Supported, Backward Steps",
-          "title_ja": "「K - Food輸出増加」… 180億を支援しても後退",
-          "title_zh": "“韩国食品出口增加” ……即使支持180亿，退步"
         }
       ]
     },
@@ -189,7 +189,7 @@
       "items": [
         {
           "title": "사찰음식·팟타이까지…냉동간편식 경쟁 가열",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LS19uLUVKdUFkSkRTSjhlZjdBWjFVZU44YVhzM0ZWdHQ3VEJJWEpMVnluOHFud2NscF9Kc21Ydmlnb1A1WlE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42Q3JKTUR1cEhvOWJuTWJncU9vc2tPdXdiWnlqZ3JjQzdTc3R4WEZVYkEzVDBvOXk4cUF1STFjTWZtNDR3aWgxT0ZTaWM4d0dhdEIyMnZn?oc=5",
           "desc": "",
           "title_en": "From temple food to pad thai… Heating up the frozen easy food competition",
           "title_ja": "寺院の食べ物からパッタイまで…冷凍の簡単な食べ物の競争を温めよう",
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "외국 브랜드 경쟁 심화…한국과 다른 일본 버거 시장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1N3lRTFBBTEFWTWxJQkNLWFVyM3ZrVHBlUHAxM3RuYk80bGxrempNUGhQaUF6ZWl2S1hYRkVBVEtFTzFIY3E0Y2ZzNUdsaWRhWWxIck5Bcw?oc=5",
+          "title": "캘리포니아주, 미국 최초 ‘비 초가공식품’ 인증제 추진",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85Z3hXUTNYcXBJcENLenB1REttVEF4dERqVVM4enpzcWhuYWRrYmFlamU3RHNxc2dpa2ZzUW5VVFFfc2R0YzhQa3hkWXY0TnlFUXRxOXEybw?oc=5",
           "desc": "",
-          "title_en": "Increasing competition from foreign brands… Korea and other Japanese burger markets",
-          "title_ja": "外国ブランドとの競争激化…韓国など日本のハンバーガー市場",
-          "title_zh": "来自外国品牌的竞争日益激烈……韩国和其他日本汉堡市场"
+          "title_en": "California promotes US's first non-processed food certification system",
+          "title_ja": "カリフォルニア州、米国初の非加工食品認証制度を推進",
+          "title_zh": "加州推广美国首个非加工食品认证系统"
         },
         {
           "title": "무알코올에 퓨전 음식…‘옥토버페스트’로 보는 유럽 트렌드",
