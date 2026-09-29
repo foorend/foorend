@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T04:37:16Z",
+  "lastUpdated": "2026-09-29T12:15:49Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "“叔叔也排队买” ……最受欢迎的'这道菜'是什么？【朴秀彬的挖掘队】"
         },
         {
-          "title": "\"스테이크 실컷 먹어도 2만원대인데\"…뷔페가 안 망하는 이유",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0bzJMbjNPTWw0cEk0QXlRTUR6NkJYTlhtWVNKUElKZVVkQUJjZXpRRVQzQTRxWkxfaFB2a21Wb0hpa1gxbVpTRjMwRFRoOUlJS2VMTW1uMWtUZw?oc=5",
+          "title": "케어푸드 가이드북 내놓은 현대그린푸드",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwWDhtakRtUC1fX2Jibm12aUNtLU82WHNfWHRlejNWcFJDU2RUNHI5MjFGUlpNREJvQ0VuYTRFM00wZ3dfNjcyYWFjakUxTTJ2ZXBUVXRwdlFzQQ?oc=5",
           "desc": "",
-          "title_en": "\"It's 20,000 won even if you eat a full steak\" … Why the buffet is not ruined",
-          "title_ja": "「フルステーキを食べても2万ウォン」…ビュッフェが台無しにならない理由",
-          "title_zh": "“就算吃了一整块牛排也要2万韩元” ……为什么自助餐没有被毁掉"
+          "title_en": "Hyundai Green Food released by Care Food Guidebook",
+          "title_ja": "ケアフードガイドブックが発表したヒュンダイグリーンフード",
+          "title_zh": "现代绿色食品由护理食品指南发布"
         },
         {
-          "title": "\"이걸 호텔방서 시켜 먹는다고?\"…외국인들 푹 빠진 한국 음식 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KY3RJcjZab3BFVzZ3cmJrbHNBc25Mb1k2dUxRN0Q1N1JQNGVIWnZZY29tT29TUUJrVUVHRml5V3BOZXpfdWNYcTU3cEo4dkJ3cG0wWjhEUGtvUQ?oc=5",
+          "title": "\"천천히 나이 드는 식사법\"…현대그린푸드, 저속노화 가이드북 출간",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80RkJVa0tXTzhCSjF0Sl9NQzQtNXdFTHNRbFdVNkJISjI3VU1Va0xpbG5OVjZzbEprMHhkQy1JTGdwa3dXcU51azRUMTkxWTRtQVpxa1ZRbGltUQ?oc=5",
           "desc": "",
-          "title_en": "\"You're ordering this from a hotel room?\" … Korean food with a passion for foreigners [Trend +]",
-          "title_ja": "「これをホテルの部屋に注文しているのですか？「…外国人に情熱を注ぐ韓国料理[トレンド+]",
-          "title_zh": "“你从酒店房间订的？「……对外国人充满热情的韩国美食[趋势+]"
+          "title_en": "“How to Eat Slowly and Age” … Hyundai Green Food Launches Guidebook on Slow Aging",
+          "title_ja": "「ゆっくり食べる方法と加齢」…現代グリーンフードがスローエイジングガイドブックを発表",
+          "title_zh": "“如何缓慢进食和衰老” ……现代绿色食品推出缓慢衰老指南"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "케어푸드 노하우 모았다…현대그린푸드, 식생활 가이드북 출간",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HMVhGY3ZVSFlROG8tWG5neGpwV0d0bmxZNHpzQlJLM0s3akNYanpCaXAwTEJPZjRwOVJvbzN5bkZVajFVSWRpSE9uWDlMdUFQTEHSAVNBVV95cUxNeHlUaUNfdlVvYlV6YUFVWmphVjl3clNzdjhKOXp5VWVZZjg3dzZnV1FrdFQ0cW9KLUlscHhiSzB1T1Zxb0hJUVk0WV91V3F2aVZWVQ?oc=5",
+          "desc": "",
+          "title_en": "Care food know-how collected… Hyundai Green Food publishes Diet Guidebook",
+          "title_ja": "ケアフードのノウハウを収集…現代グリーンフードがダイエットガイドブックを発行",
+          "title_zh": "收集的护理食品知识……现代绿色食品出版饮食指南"
+        },
         {
           "title": "“음식에서 왜 농약 냄새가?”…한밤중 중식당 쑥대밭 만든 男 2명 추적",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GMm1ySktiQzcxUS1iSFZqTUJWSkl3cVJiVFNraFNNUWIwaU84dGp5ZTR4OU8tU2tyT1Y2S2h0YXY0cVctLUFiaXFmY1lyaTdyTnfSAVNBVV95cUxOLUpYOFFodDFWc3c0TExseTIwVXdnOHpGNFdKZGxGbVJQWnBYYUVVbXZxdlhaaXl2a0JIdUk4ckxqQ0ltSWpQQTB4a3pGQzRGV1VCSQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "K-Blue Food Innovation Achievement in One Place… ‘Blue Food Value Up Day’ Held",
           "title_ja": "K - Blue Food Innovation Achievement in One Place…「Blue Food Value Up Day」開催",
           "title_zh": "K-Blue食品创新成果汇聚一堂……举办“蓝色食品价值提升日”"
-        },
-        {
-          "title": "똑같은 음식 먹었는데 나만 혈당 오른다?…‘이것’ 때문이라는 연구결과 나왔다 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mVWF4Vy03SGdmVjM5cmwtYjdINUtPOU5nQTJOdWNwQV9qcGVZUU5PampubFZCc2pCdWZRN0lJN0dHN2ZCa3dZejZnVTc5YjViUHfSAVNBVV95cUxQei13bC03bEFPdzJUTnZoUWZuUVhPMl9vdkdfUlVrQXlyQnBKUTJnekdqOXVvWTUwMFJoS1FzbkFsNGtaRlJXNmtPckFNdy00dDdqMA?oc=5",
-          "desc": "",
-          "title_en": "I ate the same food, but I'm the only one with blood glucose? … Research has shown that it is because of ‘this’ [Health Time]",
-          "title_ja": "同じ食べ物を食べましたが、血糖値を持っているのは私だけですか？ …研究によると、それは「この」[ヘルスタイム]のためであることが示されています",
-          "title_zh": "我吃了同样的食物，但我是唯一一个有血糖的人？ …研究表明，这是因为“这个” [健康时间]"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "사찰음식·팟타이까지…냉동간편식 경쟁 가열",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42Q3JKTUR1cEhvOWJuTWJncU9vc2tPdXdiWnlqZ3JjQzdTc3R4WEZVYkEzVDBvOXk4cUF1STFjTWZtNDR3aWgxT0ZTaWM4d0dhdEIyMnZn?oc=5",
+          "title": "현대그린푸드, 내달 1일 저속 노화 식생활 안내서 출간",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CWVJmRGxtZE1adkQ1MC16VVppZVdWMjhlS2FpQjUyVTNpWUE3dkF4MjZoN1ppTE9fSjN6X3Z4c1JkaEthOUhGbHAyN1p0RXRCaVE?oc=5",
           "desc": "",
-          "title_en": "From temple food to pad thai… Heating up the frozen easy food competition",
-          "title_ja": "寺院の食べ物からパッタイまで…冷凍の簡単な食べ物の競争を温めよう",
-          "title_zh": "从寺庙美食到泰式炒河粉……加热冷冻美食竞赛"
+          "title_en": "Hyundai Green Food publishes Low-Speed Aging Diet Guide on the 1st of next month",
+          "title_ja": "ヒュンダイグリーンフード、来月1日に低速エイジングダイエットガイドを発行",
+          "title_zh": "现代绿色食品下月1日发布《低速老化饮食指南》"
         },
         {
-          "title": "몽쉘·꼬깔콘에 군위 사과가...롯데웰푸드 상생로드 과자 신제품 15종 선봬",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBScG9ORGpKS2prWWRDWGxSdno1OTZVMTlGNFY0bVdGNDJNM1hrbmluMjZiZUVmTEtJU254UTdNV0c2eDFacWc?oc=5",
+          "title": "현대그린푸드 \"건강관리 식품 콘텐츠 강화\"",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyaXJtQWI0dlhHWEIyLTY0dF9jY2E0NmhLVHFBUENVb21TQ2d3eHVjWTA0cXoxWGNMV0ZPQ1kwdlRhUnFjaXc?oc=5",
           "desc": "",
-          "title_en": "There are military apples in Montshell and Kokkakkon... Lotte Well Food Sangsang Road Sweets 15 new products",
-          "title_ja": "モンシェルとコッカッコンにはミリタリーリンゴがあります…ロッテウェルフードサンサンロードスイーツ新商品15品",
-          "title_zh": "Montshell和Kokkakkon有军用苹果…… Lotte Well Food Sangsang Road Sweets 15种新产品"
+          "title_en": "Hyundai Green Food \"Strengthening Healthcare Food Content\"",
+          "title_ja": "現代グリーンフード「ヘルスケアフード含有量の強化」",
+          "title_zh": "现代绿色食品“强化保健食品含量”"
         },
         {
-          "title": "[게시판] 바디프랜드, 상록보육원 찾아 음식·후원 물품 전달",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBValZqX2Nra0F2ejFVanRZU0R5X3Q5U0JEYS1KODIxUXpvemFUOTBwWjFPLWZqaXhkalNadDRfcUVWLXMyX0hsNTAxUF91QWxoYkE?oc=5",
+          "title": "부산서 수산식품 기업 성과 공유 '블루푸드 밸류업 데이'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YanM3NzJDNzNhV3BtOTZaMTV4UmozSzNkcnRiMWxLdF9PQldfWWc2YkdqeEo1OEswTWFfcW1KVE4tQlBMUko0RkZyZnNsT0xwT3c?oc=5",
           "desc": "",
-          "title_en": "[Bulletin Board] Body Friend Finds Evergreen Nursery and Delivers Food and Sponsored Goods",
-          "title_ja": "【掲示板】エバーグリーン保育園を見つけて食べ物やスポンサーグッズを届けるボディフレンド",
-          "title_zh": "[公告栏] Body Friend找到Evergreen Nursery并提供食品和赞助商品"
+          "title_en": "Busan Seafood Company Performance Sharing 'Blue Food Value Up Day'",
+          "title_ja": "釜山水産会社の実績共有「ブルーフードバリューアップデー」",
+          "title_zh": "釜山海鲜公司业绩分享“蓝色食品价值提升日”"
         }
       ]
     },
