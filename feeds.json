@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-09-30T17:41:45Z",
+  "lastUpdated": "2026-09-30T21:56:01Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "McDonald's new U.S. president comes in at a crucial time",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWgwS0wzREVMN3ZQZ25XX19YY05KS1ZsbE5aVEpUa1pMNExfdk5XcGUyS1BlRzVxMks0MXNoMmVmV3ZsNTJBMFdCTGlUMjV2S19CV1dJNFhwYVhKUHU2TGwwcnFqb21JVDh2MDJrWlhZSlZWOXE3Zk11cW50Zm94Ymc5SU9lQ2hqU05MWHF6czE4QkkzaTEw?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드의 새로운 미국 대통령이 중요한 시기에 들어온다.",
-          "title_ja": "マクドナルドの米国新社長が重要な時期に就任",
-          "title_zh": "麦当劳新任美国总统在关键时刻上任"
-        },
         {
           "title": "Consumers can’t find much to like about Wendy’s",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUlZXVUJKOFV6Qmo0ZXRMUlg3d2VOVFVDZDltU2Vzd1d0SnBZVVQ0QnpHMEd4UGxMYzR4cWlVYmNRRTN2SXB1YVE4UVpsX2Z0RnFraGk2aGpGTGhQSVlXdmNqcTVQY1RrZ25Ld1NBWmVsVjlRaDRqYXBUVGg5cTcwWnlkcG45eFU3MTdONEZyOWZYN0xC?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "맥도날드는 방금 대담한 계획을 세웠습니다. 투자자들이 확신하지 못함",
           "title_ja": "マクドナルドは大胆な計画を立てたばかりです。投資家は納得していない",
           "title_zh": "麦当劳刚刚提出了一个大胆的计划。投资者不相信"
+        },
+        {
+          "title": "A look inside McDonald's secret, and important, archive",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnFxcjdJMW9jcEVLbDZTS3hwOXFZQXBfY2w0NmpnTlJ6TjYxd3ljOVNXSG9YaWxpV2ZtT0E5dDgtRkN2RExFNzZiaEo1MEY2aUZTN1g0MG5Nb1NLMWdaWDREc1FPcWhzM0VPUzZ4NnlrSWVXeVFXQkFUUDd3d0R2YzVLR25xdDdqeGNpakVmTTRScTJrLTVWT21nRmE2dWs?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드의 비밀, 그리고 중요한 아카이브 내부 모습",
+          "title_ja": "マクドナルドの秘密、そして重要なアーカイブをご覧ください",
+          "title_zh": "了解麦当劳的秘密和重要的档案"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "“叔叔也排队买” ……最受欢迎的'这道菜'是什么？【朴秀彬的挖掘队】"
         },
         {
+          "title": "서정호 롯데웰푸드 대표, 협력사 상생으로 사회적 가치 실현[2026 ESG 리더]",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oUDUwT3QtTWg5bGw3ZkVkV0YxUFRtSXNZRWpSWXZEd2x6RlduRzRKOUpaSzB3dnhFRUVKYTYxTnR4S3JEZzlLNWRvaVN3ZDVZU1lUSmlhdTQtZWxmMk1CVlNYaDVYdmF6a2Qwdg?oc=5",
+          "desc": "",
+          "title_en": "Seo Jeong-ho, CEO of Lotte Well Food, realizes social value through win-win partners [2026 ESG Leader]",
+          "title_ja": "ロッテウェルフードCEOソ・ジョンホ、ウィンウィンパートナーを通じて社会的価値を実現【2026年ESGリーダー】",
+          "title_zh": "乐天Well Food首席执行官Seo Jeong-ho通过双赢合作伙伴实现社会价值[2026 ESG Leader]"
+        },
+        {
           "title": "\"배달 음식 끊지 마세요\"…의사가 권한 '뜻밖의 식습관'",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb19aZUdQempzcHFXdHVITFZnTTNKdW4teUNaMlg1WW1xNmFaM3hJQVA3TDlvMzlWLVl0c2VGdEg3blhycEo3VVNrTUhHZjkxVUd5bkt5ckNTOXFtcG1tTTFXZURkdENCN3c3MHpxcXBkTE9XNXdUWnFuVXZPMWV6elNuOUVJRWM?oc=5",
           "desc": "",
           "title_en": "\"Don't hang up on delivery food\" … 'Unexpected eating habits' authorized by the doctor",
           "title_ja": "「配達時に電話を切らないでください」…医師の承認を受けた「予期せぬ食習慣」",
           "title_zh": "“不要挂断派送餐点” ……医生授权的“意外饮食习惯”"
-        },
-        {
-          "title": "\"맛이 썩을 X\"…침착맨, 음식 평가 중 갑자기 욕을?",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DZ0lvby1UUllOSXY4M2hDZDNGYXZ1NVI3QXExQThMLThheXAwVFZCblhoNWkxYVFXU0FvaVRwQ3NLcm05azRLOGtyemk4YXBrUE1YQ1RHWlBsUQ?oc=5",
-          "desc": "",
-          "title_en": "\"X that tastes rotten\" … calm man, suddenly cursing during food evaluation?",
-          "title_ja": "「腐った味のX」…落ち着いた男、食べ物の評価中に突然呪いをかける？",
-          "title_zh": "“味道腐烂的X” ……冷静的男人，在评估食物时突然咒骂？"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "光州新世界美食广场（ Gwangju Shinsegae Food Plaza ）已成为「值得信赖和享用的地方」"
         },
         {
-          "title": "“즐겨먹었지만 지금은 다 끊었다”…의사가 대장암 위험 경고한 ‘이 음식’, 뭐길래 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VNHgtVU4xZUpHWU1xb3NNTm03Z3pvREo3R3Y0UzhURTZSZmt5czZNeVJQR212QUpXNGlzUFM2d0plVnlHUHkyVlltY2NDZ2hhOWfSAVNBVV95cUxQcUZwbGpfT3Z3YXVsQ3laMnRWQnk4cHVhZ1RhbHZ3VzhsVTBQVllGWHBNdkdKbGw4YXpxNzl6OGJ0WHhscmNzRFlQV2ZoQjAyZHlOSQ?oc=5",
+          "title": "“음식에서 왜 농약 냄새가?”…한밤중 중식당 쑥대밭 만든 男 2명 추적",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GMm1ySktiQzcxUS1iSFZqTUJWSkl3cVJiVFNraFNNUWIwaU84dGp5ZTR4OU8tU2tyT1Y2S2h0YXY0cVctLUFiaXFmY1lyaTdyTnfSAVNBVV95cUxOLUpYOFFodDFWc3c0TExseTIwVXdnOHpGNFdKZGxGbVJQWnBYYUVVbXZxdlhaaXl2a0JIdUk4ckxqQ0ltSWpQQTB4a3pGQzRGV1VCSQ?oc=5",
           "desc": "",
-          "title_en": "“I enjoyed it, but I cut it off now” … ‘This food‘ that the doctor warned of the risk of colorectal cancer, what is it? [Health time]",
-          "title_ja": "「楽しかったですが、今は切っています」…医師が大腸がんのリスクについて警告した「この食べ物」、それは何ですか？【健康時間】",
-          "title_zh": "“我喜欢它，但我现在把它切断了” ……医生警告过患结直肠癌风险的‘这种食物‘ ，它是什么？ [健康时间]"
+          "title_en": "“Why is there a pesticide smell in the food?” … Pursuit of two men who made a Chinese restaurant blubber in the middle of the night",
+          "title_ja": "「食品に殺虫剤の臭いがするのはなぜですか？「…真夜中に中華レストランの脂肪を作った2人の男性の追跡",
+          "title_zh": "“为什么食物中有杀虫剂气味？“ ……追捕两名在半夜制造中餐馆鲸脂的男子"
         }
       ]
     },
