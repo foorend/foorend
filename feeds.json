@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T09:22:37Z",
+  "lastUpdated": "2026-09-30T17:41:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Hottest New Food Show Is a ‘Making the Restaurant’ Series",
+          "link": "https://www.eater.com/pre-shift/989802/restaurant-behind-the-scenes-series-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "가장 인기 있는 새로운 음식 쇼는 ‘레스토랑 만들기’ 시리즈입니다",
+          "title_ja": "最もホットな新しいフードショーは「レストランを作る」シリーズです",
+          "title_zh": "最热门的新食品展是“制作餐厅”系列"
+        },
+        {
           "title": "Steal My Food Itinerary: 3 Days in Sifnos, Greece",
           "link": "https://www.eater.com/dining-out/987536/steal-my-food-itinerary-3-days-in-sifnos-greece",
           "desc": "It felt like everyone I know traveled to Greece this summer. Friends chose Zakynthos, Crete, Naxos, Ikaria. I opted for Sifnos, one of the Cyclades’ m",
@@ -110,14 +118,6 @@
           "title_ko": "셰프가 스테인리스 스틸 요리를 좋아하는 이유",
           "title_ja": "シェフがステンレススチールで料理するのが好きな理由",
           "title_zh": "大厨喜欢用不锈钢烹饪的原因"
-        },
-        {
-          "title": "Here’s Everything You Missed at the Food Party of the Year",
-          "link": "https://www.eater.com/events/987972/eater-off-menu-2026-menu-and-recap",
-          "desc": "Where were you last weekend? If you live in Los Angeles (or will travel for great food parties), we hope you joined us at Eater Off Menu, our annual c",
-          "title_ko": "올해의 푸드 파티에서 놓친 모든 것을 소개합니다",
-          "title_ja": "今年のフードパーティーで見逃したものをすべてご紹介します",
-          "title_zh": "以下是您在年度美食派对上错过的一切"
         }
       ]
     }
@@ -166,20 +166,20 @@
           "title_zh": "收集的护理食品知识……现代绿色食品出版饮食指南"
         },
         {
-          "title": "“음식에서 왜 농약 냄새가?”…한밤중 중식당 쑥대밭 만든 男 2명 추적",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GMm1ySktiQzcxUS1iSFZqTUJWSkl3cVJiVFNraFNNUWIwaU84dGp5ZTR4OU8tU2tyT1Y2S2h0YXY0cVctLUFiaXFmY1lyaTdyTnfSAVNBVV95cUxOLUpYOFFodDFWc3c0TExseTIwVXdnOHpGNFdKZGxGbVJQWnBYYUVVbXZxdlhaaXl2a0JIdUk4ckxqQ0ltSWpQQTB4a3pGQzRGV1VCSQ?oc=5",
-          "desc": "",
-          "title_en": "“Why is there a pesticide smell in the food?” … Pursuit of two men who made a Chinese restaurant blubber in the middle of the night",
-          "title_ja": "「食品に殺虫剤の臭いがするのはなぜですか？「…真夜中に中華レストランの脂肪を作った2人の男性の追跡",
-          "title_zh": "“为什么食物中有杀虫剂气味？“ ……追捕两名在半夜制造中餐馆鲸脂的男子"
-        },
-        {
           "title": "광주신세계 푸드플라자, ‘믿고 먹는 공간’ 됐다",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtYmhHbmplb2dZVUlPczg1bjNFMHZlNVBJMllULW5wQXpJb0F4Qko0ZzVUUEJWUTFBZGdsbW1Qb0didF9CMkMtOEEwWGpnNWRZTjRV0gFTQVVfeXFMUC1iaEduamVvZ1lVSU9zODVuM0UwdmU1UEkyWVQtbnBBeklvQXhCSjRnNVRQQlZRMUFkZ2xtbVBvR2J0X0IyQy04QTBYamc1ZFlONFU?oc=5",
           "desc": "",
           "title_en": "Gwangju Shinsegae Food Plaza has become a ‘place to trust and eat’",
           "title_ja": "光州新世界フードプラザは「信頼して食べる場所」になりました",
           "title_zh": "光州新世界美食广场（ Gwangju Shinsegae Food Plaza ）已成为「值得信赖和享用的地方」"
+        },
+        {
+          "title": "“즐겨먹었지만 지금은 다 끊었다”…의사가 대장암 위험 경고한 ‘이 음식’, 뭐길래 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VNHgtVU4xZUpHWU1xb3NNTm03Z3pvREo3R3Y0UzhURTZSZmt5czZNeVJQR212QUpXNGlzUFM2d0plVnlHUHkyVlltY2NDZ2hhOWfSAVNBVV95cUxQcUZwbGpfT3Z3YXVsQ3laMnRWQnk4cHVhZ1RhbHZ3VzhsVTBQVllGWHBNdkdKbGw4YXpxNzl6OGJ0WHhscmNzRFlQV2ZoQjAyZHlOSQ?oc=5",
+          "desc": "",
+          "title_en": "“I enjoyed it, but I cut it off now” … ‘This food‘ that the doctor warned of the risk of colorectal cancer, what is it? [Health time]",
+          "title_ja": "「楽しかったですが、今は切っています」…医師が大腸がんのリスクについて警告した「この食べ物」、それは何ですか？【健康時間】",
+          "title_zh": "“我喜欢它，但我现在把它切断了” ……医生警告过患结直肠癌风险的‘这种食物‘ ，它是什么？ [健康时间]"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "칼마인 푸드, 1분기 매출 5억3961만 달러..41.5% 급감·적자전환",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fUkZDYU5NSnVZczRjalo5UDY3dUtmVFNYam80b1FKRmV3Mm1TaEJzN1NDSFB6VU1RaXVVTE1fX3FEUUU1dmFPc045b1lCSXU5UVE?oc=5",
+          "desc": "",
+          "title_en": "Carmine Foods, Q1 revenue of $539.61 million.. 41.5% Sharp Decline · Deficit Conversion",
+          "title_ja": "Carmine Foods、第1四半期の収益は5億3961万ドル.. 41.5 ％急激な減少·赤字換算",
+          "title_zh": "Carmine Foods ，第一季度收入为5.3961亿美元.. 41.5%大幅下降·赤字转换"
+        },
+        {
           "title": "현대그린푸드 \"건강관리 식품 콘텐츠 강화\"",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyaXJtQWI0dlhHWEIyLTY0dF9jY2E0NmhLVHFBUENVb21TQ2d3eHVjWTA0cXoxWGNMV0ZPQ1kwdlRhUnFjaXc?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Food \"Strengthening Healthcare Food Content\"",
           "title_ja": "現代グリーンフード「ヘルスケアフード含有量の強化」",
           "title_zh": "现代绿色食品“强化保健食品含量”"
-        },
-        {
-          "title": "현대그린푸드, 내달 1일 저속 노화 식생활 안내서 출간",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CWVJmRGxtZE1adkQ1MC16VVppZVdWMjhlS2FpQjUyVTNpWUE3dkF4MjZoN1ppTE9fSjN6X3Z4c1JkaEthOUhGbHAyN1p0RXRCaVE?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food publishes Low-Speed Aging Diet Guide on the 1st of next month",
-          "title_ja": "ヒュンダイグリーンフード、来月1日に低速エイジングダイエットガイドを発行",
-          "title_zh": "现代绿色食品下月1日发布《低速老化饮食指南》"
         },
         {
           "title": "부산서 수산식품 기업 성과 공유 '블루푸드 밸류업 데이'",
@@ -234,12 +234,12 @@
           "title_zh": "非酒精融合美食…慕尼黑啤酒节的欧洲潮流"
         },
         {
-          "title": "헷갈리네…추어탕에 뿌리는 초피·산초?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXdF9uLXRRLUJXWXVMODZPQkd4VjhsVWtSeVdrWlJ3cUoxeVhlYW56bzhXa1BqR3cwSHdSdDZjMmlkOF9XRGs4Y0Q4RDZVVWp4WHpRbk9POA?oc=5",
+          "title": "맛있게 매운 ‘우마카라’…일본 달구는 매운맛",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvQ0dCeE1xZ3BqNG1BOUJ5LWMxdjRVRS1xb25VTm1reUNmclQzZTNYMGVXNnF3M214M1A2MllIb2FSaXhJc0NSYjVWRFBBOWJDcHgzWlg5TQ?oc=5",
           "desc": "",
-          "title_en": "I'm confused... Chopi · Sancho sprinkled in Chuu sang?",
-          "title_ja": "混乱しています…チョピ・サンチョがチュウソングに振りかけたのですか？",
-          "title_zh": "我糊涂了…… Chopi · Sancho洒在Chuu唱歌？"
+          "title_en": "Deliciously spicy ‘Umakara’ … Japanese hot and spicy",
+          "title_ja": "美味しくスパイシーな「うまから」…日本のホット＆スパイシー",
+          "title_zh": "美味辛辣的「Umakara」……日式热辣"
         }
       ]
     }
