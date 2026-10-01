@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T12:34:43Z",
+  "lastUpdated": "2026-10-01T20:09:41Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "了解麦当劳的秘密和重要的档案"
         },
         {
+          "title": "McDonald's has another pricing-related headache",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGt5c3RWYWI0YUFYMk9GWW4xOW9HUW5PdFpYTGl6MndMMmw2V3pJcUZPc243OVA1RGY4S0gxU012cmZqdFhDVmlPZjRWLU1aaUhMRHlyTHROTW1tTGRLQ0VJcU5MMFZCWlZsVTNKVFF5XzcwXzVaNE1xSjlSa0Y3WUdLRHpROHhUcWdlVlZscmVxbGFRRExaNQ?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드에는 가격 책정과 관련된 또 다른 골칫거리가 있습니다.",
+          "title_ja": "マクドナルドは別の価格設定関連の頭痛の種を抱えている",
+          "title_zh": "麦当劳还有另一个与定价相关的麻烦"
+        },
+        {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
           "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
           "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
           "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
-        },
-        {
-          "title": "Franchisees are behind some iconic menu items",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGtHZFIwR29LV05ySlVERWtkYVRpOXRLVTdPOS1qTVd5VnFnTjNLaXozVWZJMk1VT0t5RFA2ZmNvTExUT3lCTC1LZXVFSUhFYWhaZHB4T281Z0tlSDRTZWFSUEhCV2NXelR3N2JWdGQtblk4Q0FCbkdycmFyZnptX3o2cFk5QnBqS3piNkZDSVdRV014T0M4?oc=5",
-          "desc": "",
-          "title_ko": "유명 메뉴 아이템을 판매하는 프랜차이즈 가맹점",
-          "title_ja": "フランチャイズ加盟店は、いくつかの象徴的なメニュー商品の背後にいます",
-          "title_zh": "加盟商推出了一些标志性的菜单餐点"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The 38 Best Restaurants in Mexico City, According to a Local Culinary Guide",
+          "link": "https://www.eater.com/maps/best-mexico-city-restaurants-38",
+          "desc": "The largest city in North America, Mexico City is a unique, elastic, ever-changing patchwork of food traditions. As a native of the city and a food wr",
+          "title_ko": "현지 요리 가이드가 선정한 멕시코시티 최고의 레스토랑 38곳",
+          "title_ja": "地元の料理ガイドが選ぶメキシコシティの人気レストラン38選",
+          "title_zh": "当地烹饪向导推荐的墨西哥城38家最佳餐厅"
+        },
+        {
           "title": "The Hottest New Food Show Is a ‘Making the Restaurant’ Series",
           "link": "https://www.eater.com/pre-shift/989802/restaurant-behind-the-scenes-series-pre-shift",
           "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
@@ -110,14 +118,6 @@
           "title_ko": "내 음식 훔치기 여행 일정: 그리스 시프노스 3일",
           "title_ja": "食事の旅程を盗もう：ギリシャのシフノス島で3日間",
           "title_zh": "偷我的美食行程：希腊锡夫诺斯岛3日游"
-        },
-        {
-          "title": "Why Chefs Love Cooking on Stainless Steel",
-          "link": "https://www.eater.com/eater-at-home/988494/why-chefs-love-stainless-steel-cookware",
-          "desc": "Stainless steel cookware is experiencing a cultural renaissance. This isn’t to say that the genre of cookware ever disappeared, but, once upon a lockd",
-          "title_ko": "셰프가 스테인리스 스틸 요리를 좋아하는 이유",
-          "title_ja": "シェフがステンレススチールで料理するのが好きな理由",
-          "title_zh": "大厨喜欢用不锈钢烹饪的原因"
         }
       ]
     }
@@ -166,20 +166,20 @@
           "title_zh": "Coupang · Coupangites帮助小企业进入日本……支持K-Food市场"
         },
         {
+          "title": "짜장면 120년 ‘노동자 소울푸드’ 재조명",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ONWlWY0wxNk9XX2pFcTU1ZVhMdzRzekRMR2VINGtPemFkbWxoZUM3R3pEMUZSZkxQSkFBUkdvdTZnQi1Pb29keFdSOUNXWlRnVnA40gFTQVVfeXFMTk41aVZjTDE2T1dfakVxNTVlWEx3NHN6RExHZUg0a096YWRtbGhlQzdHekQxRlJmTFBKQUFSR291NmdCLU9vb2R4V1I5Q1daVGdWcDg?oc=5",
+          "desc": "",
+          "title_en": "120 years of Jajangmyeon ‘Workers Soul Food’ reimagined",
+          "title_ja": "Jajangmyeon「Workers Soul Food」の120年を再考",
+          "title_zh": "120年的Jajangmyeon “工人灵魂美食”重新构想"
+        },
+        {
           "title": "‘식욕 실종’ 김준현 “아침 우유 한 컵에 저녁까지 음식 안 당겨”…대체 무슨 일?",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0YzNUN3NVS0J3Vmpjck0wM2NZLVphQ0lRQUktaFFPeUx1SGZuOUhVLWNWZ25fZmNPTDdzT1NNQTdhbEdTblF2SHRtZk83clh0TlJz0gFTQVVfeXFMUHRjM1Q3c1VLQndWamNyTTAzY1ktWmFDSVFBSS1oUU95THVIZm45SFUtY1Znbl9mY09MN3NPU01BN2FsR1NuUXZIdG1mTzdyWHROUnM?oc=5",
           "desc": "",
           "title_en": "‘Missing appetite’ Kim Jun-hyun “I don't pull food until dinner with a cup of morning milk” … What the hell is going on?",
           "title_ja": "「食欲不振」キム・ジュンヒョン「朝のミルクと一緒に夕食まで食べ物を引っ張りません」…一体何が起こっているのですか？",
           "title_zh": "“食欲不振” Kim Jun-hyun “我晚饭时才拿早奶吃饭” ……这到底是怎么回事？"
-        },
-        {
-          "title": "“음식에서 왜 농약 냄새가?”…한밤중 중식당 쑥대밭 만든 男 2명 추적",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GMm1ySktiQzcxUS1iSFZqTUJWSkl3cVJiVFNraFNNUWIwaU84dGp5ZTR4OU8tU2tyT1Y2S2h0YXY0cVctLUFiaXFmY1lyaTdyTnfSAVNBVV95cUxOLUpYOFFodDFWc3c0TExseTIwVXdnOHpGNFdKZGxGbVJQWnBYYUVVbXZxdlhaaXl2a0JIdUk4ckxqQ0ltSWpQQTB4a3pGQzRGV1VCSQ?oc=5",
-          "desc": "",
-          "title_en": "“Why is there a pesticide smell in the food?” … Pursuit of two men who made a Chinese restaurant blubber in the middle of the night",
-          "title_ja": "「食品に殺虫剤の臭いがするのはなぜですか？「…真夜中に中華レストランの脂肪を作った2人の男性の追跡",
-          "title_zh": "“为什么食物中有杀虫剂气味？“ ……追捕两名在半夜制造中餐馆鲸脂的男子"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "加州推广美国首个非加工食品认证系统"
         },
         {
-          "title": "무알코올에 퓨전 음식…‘옥토버페스트’로 보는 유럽 트렌드",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WkYyM2VnZHlLMGota0wwTTUxRlNjbVh4OFFBZmlqaDJqd3FQelR3OWpxTXZJX0lQdDN3cUVQVFpBU2N1SXRYaFlGUzk2bmdqb0U1dlN0WQ?oc=5",
+          "title": "차의 나라 인도에서 스페셜티 커피가 뜬다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93RXk3NUVjUEZySEIzN3I0a0RseGhtMFFSQkhkel9hdldPbXlrb0MyWGZYT0hKc1FVVVZqR2xWT2thWWZUN3hsM0Vkdll2X3hQV0thdFJxQQ?oc=5",
           "desc": "",
-          "title_en": "Non-Alcoholic Fusion Food… European Trends at Oktoberfest",
-          "title_ja": "ノンアルコールフュージョンフード…オクトーバーフェストでヨーロッパのトレンドを学ぼう",
-          "title_zh": "非酒精融合美食…慕尼黑啤酒节的欧洲潮流"
+          "title_en": "Specialty coffee rises in tea country India",
+          "title_ja": "インドのお茶の国でスペシャルティコーヒーが盛り上がる",
+          "title_zh": "茶乡印度的特色咖啡崛起"
         }
       ]
     }
