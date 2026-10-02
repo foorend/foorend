@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-10-01T20:09:41Z",
+  "lastUpdated": "2026-10-02T00:34:11Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "A cookie empire is starting to crumble",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1RKNTVBMVBMMkRfaVFja2lLZHJ3UzV0RU1aUHRNV0kxcFdFOHBYeWVFdTVtNzJlOTdaVUxNU0FhV0U2LTFHSzI0b1FHLS1XNmVyOUVpa1hrMjNYT2JJU09pREVZUmNoR190YVVNTjdxUTlNbG04NkF6VDdYQnVaQ2NUdDZfZHFz?oc=5",
+          "desc": "",
+          "title_ko": "쿠키 제국이 무너지기 시작했습니다",
+          "title_ja": "クッキー帝国が崩壊し始めています",
+          "title_zh": "饼干帝国开始崩溃"
+        },
         {
           "title": "A look inside McDonald's secret, and important, archive",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWR4bkFSRXBNM3I1b25nczE0UkxheFBjVG9jOTZBT3BnYzQwN2FJcmhVMTdJZWRXemtzMVFMTFBpcXJCUUYwSEloR2dmOHlCaXRSZXBCODBwSkU4Ty1fNmFyZkhiTnN4Y20tcjF0anZpZ1FhekJ4WG5TdERRczFTVjNzUlhGQktETjJ1RlEydEpGSWJZMkRqS1Fn?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "맥도날드에는 가격 책정과 관련된 또 다른 골칫거리가 있습니다.",
           "title_ja": "マクドナルドは別の価格設定関連の頭痛の種を抱えている",
           "title_zh": "麦当劳还有另一个与定价相关的麻烦"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "‘식욕 실종’ 김준현 “아침 우유 한 컵에 저녁까지 음식 안 당겨”…대체 무슨 일?",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUNERFVWZYb2FDa2VyT3VBa3ItcVRDXzhGRExNUEZRVHhseGFMT2pwWGdYcnBxUnV6eU5zYlhfdy1pM3R3VHM4bnlMS0NTR3ZZN1HSAVNBVV95cUxQdGMzVDdzVUtCd1ZqY3JNMDNjWS1aYUNJUUFJLWhRT3lMdUhmbjlIVS1jVmduX2ZjT0w3c09TTUE3YWxHU25Rdkh0bWZPN3JYdE5Scw?oc=5",
+          "desc": "",
+          "title_en": "‘Missing appetite’ Kim Jun-hyun “I don't pull food until dinner with a cup of morning milk” … What the hell is going on?",
+          "title_ja": "「食欲不振」キム・ジュンヒョン「朝のミルクと一緒に夕食まで食べ物を引っ張りません」…一体何が起こっているのですか？",
+          "title_zh": "“食欲不振” Kim Jun-hyun “我晚饭时才拿早奶吃饭” ……这到底是怎么回事？"
+        },
+        {
           "title": "쿠팡·쿠팡이츠, 소상공인 日 진출 돕는다…K푸드 판로 지원",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PNk1hRFp2MS1WX204RXlMVko2ZFhwTFlCVFUyRk1NYllvNFd1cFlrSGVyUGxIT01nZUpOZ2pRWlJVVkFKTXU1UkNfcVJGNkdXQlHSAVNBVV95cUxNRWltSmZxUF9BZXUtdlZJSGY0R2hmV1haUUpzdEUtNEljM090bmN2QXl1WUFmaFYzYk9ZaHprU3hlOXhXZXM4OXI3X1V0OFJ3TGlEWQ?oc=5",
           "desc": "",
@@ -166,20 +174,12 @@
           "title_zh": "Coupang · Coupangites帮助小企业进入日本……支持K-Food市场"
         },
         {
-          "title": "짜장면 120년 ‘노동자 소울푸드’ 재조명",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ONWlWY0wxNk9XX2pFcTU1ZVhMdzRzekRMR2VINGtPemFkbWxoZUM3R3pEMUZSZkxQSkFBUkdvdTZnQi1Pb29keFdSOUNXWlRnVnA40gFTQVVfeXFMTk41aVZjTDE2T1dfakVxNTVlWEx3NHN6RExHZUg0a096YWRtbGhlQzdHekQxRlJmTFBKQUFSR291NmdCLU9vb2R4V1I5Q1daVGdWcDg?oc=5",
+          "title": "“음식에서 왜 농약 냄새가?”…한밤중 중식당 쑥대밭 만든 男 2명 추적",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GMm1ySktiQzcxUS1iSFZqTUJWSkl3cVJiVFNraFNNUWIwaU84dGp5ZTR4OU8tU2tyT1Y2S2h0YXY0cVctLUFiaXFmY1lyaTdyTnfSAVNBVV95cUxOLUpYOFFodDFWc3c0TExseTIwVXdnOHpGNFdKZGxGbVJQWnBYYUVVbXZxdlhaaXl2a0JIdUk4ckxqQ0ltSWpQQTB4a3pGQzRGV1VCSQ?oc=5",
           "desc": "",
-          "title_en": "120 years of Jajangmyeon ‘Workers Soul Food’ reimagined",
-          "title_ja": "Jajangmyeon「Workers Soul Food」の120年を再考",
-          "title_zh": "120年的Jajangmyeon “工人灵魂美食”重新构想"
-        },
-        {
-          "title": "‘식욕 실종’ 김준현 “아침 우유 한 컵에 저녁까지 음식 안 당겨”…대체 무슨 일?",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0YzNUN3NVS0J3Vmpjck0wM2NZLVphQ0lRQUktaFFPeUx1SGZuOUhVLWNWZ25fZmNPTDdzT1NNQTdhbEdTblF2SHRtZk83clh0TlJz0gFTQVVfeXFMUHRjM1Q3c1VLQndWamNyTTAzY1ktWmFDSVFBSS1oUU95THVIZm45SFUtY1Znbl9mY09MN3NPU01BN2FsR1NuUXZIdG1mTzdyWHROUnM?oc=5",
-          "desc": "",
-          "title_en": "‘Missing appetite’ Kim Jun-hyun “I don't pull food until dinner with a cup of morning milk” … What the hell is going on?",
-          "title_ja": "「食欲不振」キム・ジュンヒョン「朝のミルクと一緒に夕食まで食べ物を引っ張りません」…一体何が起こっているのですか？",
-          "title_zh": "“食欲不振” Kim Jun-hyun “我晚饭时才拿早奶吃饭” ……这到底是怎么回事？"
+          "title_en": "“Why is there a pesticide smell in the food?” … Pursuit of two men who made a Chinese restaurant blubber in the middle of the night",
+          "title_ja": "「食品に殺虫剤の臭いがするのはなぜですか？「…真夜中に中華レストランの脂肪を作った2人の男性の追跡",
+          "title_zh": "“为什么食物中有杀虫剂气味？“ ……追捕两名在半夜制造中餐馆鲸脂的男子"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "수면 부족이 만든 인도네시아 수면 보조제 시장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WSURRck1fMHczRW5FQVc3dEpJV282bTc1NEUzUVdDTVQ0b0RLcmpsQUZGUEVQb0Z0SXBGUzF4aEVzcTF2cUFIS3p6NHdDZW1zcVVTeHVvcw?oc=5",
-          "desc": "",
-          "title_en": "Indonesian sleep aid market created by sleep deprivation",
-          "title_ja": "睡眠不足が生み出すインドネシアの睡眠補助市場",
-          "title_zh": "由睡眠剥夺创造的印尼睡眠辅助市场"
-        },
-        {
           "title": "캘리포니아주, 미국 최초 ‘비 초가공식품’ 인증제 추진",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85Z3hXUTNYcXBJcENLenB1REttVEF4dERqVVM4enpzcWhuYWRrYmFlamU3RHNxc2dpa2ZzUW5VVFFfc2R0YzhQa3hkWXY0TnlFUXRxOXEybw?oc=5",
           "desc": "",
@@ -234,12 +226,20 @@
           "title_zh": "加州推广美国首个非加工食品认证系统"
         },
         {
-          "title": "차의 나라 인도에서 스페셜티 커피가 뜬다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93RXk3NUVjUEZySEIzN3I0a0RseGhtMFFSQkhkel9hdldPbXlrb0MyWGZYT0hKc1FVVVZqR2xWT2thWWZUN3hsM0Vkdll2X3hQV0thdFJxQQ?oc=5",
+          "title": "맥도날드도 빈티지 숄더백…피스마이너스원, 협업 굿즈",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBadzZFdDB2U09JT1hidTlWNGNGT1l6b3RfLTc2RmZTdzNmczVVVnFnR2I0X2tWWmd6ZHhwRmJYLUVObi1vUWFlYTRDMXhrWC1ZWTV6R3QtWQ?oc=5",
           "desc": "",
-          "title_en": "Specialty coffee rises in tea country India",
-          "title_ja": "インドのお茶の国でスペシャルティコーヒーが盛り上がる",
-          "title_zh": "茶乡印度的特色咖啡崛起"
+          "title_en": "McDonald's Vintage Shoulder Bag… PeaceMinusOne, Collaborative Merch",
+          "title_ja": "マクドナルドのヴィンテージショルダーバッグ… PeaceMinusOne、コラボグッズ",
+          "title_zh": "麦当劳复古单肩包… PeaceMinusOne ，合作商品"
+        },
+        {
+          "title": "명절 체중증가, 영양 전문가가 말하는 진짜 이유",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pbjc5eURjQjF1MUJTdXdJODFHN1JuVnFlZV91eU05ZlFVTURPOHUzbXdoZVF1SGVSZDZBd05SMjJzcHJGUEl3bUNGdGhfbHNZMVhyRTZJdw?oc=5",
+          "desc": "",
+          "title_en": "Holiday weight gain, the real reason nutrition experts say",
+          "title_ja": "休日の体重増加、栄養の専門家が言う本当の理由",
+          "title_zh": "假日体重增加，营养专家说"
         }
       ]
     }
