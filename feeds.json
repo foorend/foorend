@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T09:25:51Z",
+  "lastUpdated": "2026-10-02T17:33:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "麦当劳还有另一个与定价相关的麻烦"
         },
         {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "title": "Consumers can’t find much to like about Wendy’s",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUlZXVUJKOFV6Qmo0ZXRMUlg3d2VOVFVDZDltU2Vzd1d0SnBZVVQ0QnpHMEd4UGxMYzR4cWlVYmNRRTN2SXB1YVE4UVpsX2Z0RnFraGk2aGpGTGhQSVlXdmNqcTVQY1RrZ25Ld1NBWmVsVjlRaDRqYXBUVGg5cTcwWnlkcG45eFU3MTdONEZyOWZYN0xC?oc=5",
           "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+          "title_ko": "소비자는 Wendy 's에 대해 좋아할만한 것을 많이 찾을 수 없습니다.",
+          "title_ja": "消費者はウェンディーズを気に入るものがあまり見つかりません",
+          "title_zh": "消费者不太喜欢Wendy's"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Best Food Advent Calendars of 2026 (Yes, They’re Already Here)",
+          "link": "https://www.eater.com/23943616/best-advent-calendars-to-buy-now-2026-chocolate-tea-jam",
+          "desc": "During the holiday season, most of us are so focused on buying gifts for other people that we don’t spend enough time treating ourselves. An advent ca",
+          "title_ko": "2026년 최고의 음식 강림절 달력 (예, 이미 도착했습니다)",
+          "title_ja": "2026年のベストフードアデントカレンダー（はい、すでにあります）",
+          "title_zh": "2026年最佳食物到来日历（是的，它们已经在这里了）"
+        },
+        {
           "title": "The 38 Best Restaurants in Mexico City, According to a Local Culinary Guide",
           "link": "https://www.eater.com/maps/best-mexico-city-restaurants-38",
           "desc": "The largest city in North America, Mexico City is a unique, elastic, ever-changing patchwork of food traditions. As a native of the city and a food wr",
@@ -110,14 +118,6 @@
           "title_ko": "가장 인기 있는 새로운 음식 쇼는 ‘레스토랑 만들기’ 시리즈입니다",
           "title_ja": "最もホットな新しいフードショーは「レストランを作る」シリーズです",
           "title_zh": "最热门的新食品展是“制作餐厅”系列"
-        },
-        {
-          "title": "Steal My Food Itinerary: 3 Days in Sifnos, Greece",
-          "link": "https://www.eater.com/dining-out/987536/steal-my-food-itinerary-3-days-in-sifnos-greece",
-          "desc": "It felt like everyone I know traveled to Greece this summer. Friends chose Zakynthos, Crete, Naxos, Ikaria. I opted for Sifnos, one of the Cyclades’ m",
-          "title_ko": "내 음식 훔치기 여행 일정: 그리스 시프노스 3일",
-          "title_ja": "食事の旅程を盗もう：ギリシャのシフノス島で3日間",
-          "title_zh": "偷我的美食行程：希腊锡夫诺斯岛3日游"
         }
       ]
     }
@@ -127,6 +127,14 @@
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
       "items": [
+        {
+          "title": "\"아저씨도 줄 서서 사 가요\"…인기 폭발한 '이 음식' 뭐길래 [박수빈의 발굴단]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qdzhXc3Rud3lDcENoVVU3QkNyWVcxejJ3dkRsRHlDeVpsa3A1Ymx1NzR0R0FHV1gwUkM0eWhBeElJbndHR1VtclJiekpzY1UyUVVXSVBhRWMzQQ?oc=5",
+          "desc": "",
+          "title_en": "\"Uncle is also standing in line to buy\" … What was the popular 'this food'? [Park Soo-bin's excavation team]",
+          "title_ja": "「おじさんも並んで買おうとしている」…人気の「この食べ物」は何でしたか？【パク・スビンの発掘チーム】",
+          "title_zh": "“叔叔也排队买” ……最受欢迎的'这道菜'是什么？【朴秀彬的挖掘队】"
+        },
         {
           "title": "서정호 롯데웰푸드 대표, 협력사 상생으로 사회적 가치 실현[2026 ESG 리더]",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oUDUwT3QtTWg5bGw3ZkVkV0YxUFRtSXNZRWpSWXZEd2x6RlduRzRKOUpaSzB3dnhFRUVKYTYxTnR4S3JEZzlLNWRvaVN3ZDVZU1lUSmlhdTQtZWxmMk1CVlNYaDVYdmF6a2Qwdg?oc=5",
@@ -142,14 +150,6 @@
           "title_en": "Korea Food Industry Association presents' SIAL Paris 2026 'West' K-Food Leading Company Hall 'in Paris",
           "title_ja": "韓国食品工業会、パリで「SIAL Paris 2026」西部「K - Food Leading Company Hall」を開催",
           "title_zh": "韩国食品工业协会在巴黎推出“SIAL Paris 2026”西方“K-Food Leading Company Hall”"
-        },
-        {
-          "title": "\"아이들 음식 만드는 냄비에 걸레를?\"…유치원 교사의 폭로",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBdHE1TVpwRWNBV1JRTjRaRnBTOUlLazlkeWFGOVpiWFZWendJWWZScFhCUjB6RGJoc3o0MFJnRGN2UnVleWkySzJoQkxTLXE3eDl6b3ZxMnp0UQ?oc=5",
-          "desc": "",
-          "title_en": "\"A mop in a pot for making children's food?\" … Kindergarten teacher revelations",
-          "title_ja": "「子供の食べ物を作るための鍋の中のモップ？「…幼稚園教師の啓示",
-          "title_zh": "“用拖把在锅里做儿童食品？“ ……幼儿园老师的启示"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "为什么泡菜炒饭是中国菜？...有争议，因为它在巴黎以错误的符号出售"
         },
         {
-          "title": "경남 콘텐츠기업·롯데웰푸드 협업 팝업스토어 2일 서울서 개장",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fSXdCUWloYmdSX1laYjM3ZHlzY1JLLVczUFhBcDJUc2lSWVVLdXJsdXZwYS1HSDM4STZidkRVUVVDaU83dkYtTVZ2N1BMSnFMbmc?oc=5",
+          "title": "“맛이 썩을 X”…침착맨, 음식 맛 표현에 ‘여성 혐오’ 논란",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UVUk4eXQ1OXAyNWVYMm94aERmRlV4MGwyNW9pZVUydlNpdUZWYzUzd0NZTmVhNENqdGp3eWNoUVQzekp6dUpFVFdRMzBtRUVRZDlIZg?oc=5",
           "desc": "",
-          "title_en": "Gyeongnam Contents Company and Lotte Well Food Collaboration Pop-up Store Opened in Seoul on the 2nd",
-          "title_ja": "Gyeongnam Contents Companyとロッテウェルフードコラボレーションポップアップストアが2日にソウルにオープン",
-          "title_zh": "Gyeongnam Contents Company和Lotte Well Food Collaboration快闪店于2日在首尔开业"
+          "title_en": "“X that tastes rotten” … calm man, controversial ‘misogyny‘ over food taste expression",
+          "title_ja": "「腐った味のX」…落ち着いた男性、食べ物の味の表現について物議を醸す「女嫌い」",
+          "title_zh": "“味道腐烂的X” ……冷静的男人，对食物味道表达有争议的“厌女症”"
         }
       ]
     },
