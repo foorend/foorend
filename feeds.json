@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T20:40:14Z",
+  "lastUpdated": "2026-10-03T23:32:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "加利福尼亚州因出售未注册的特许经营权而对The Kickin 'Crab处以罚款"
         },
         {
-          "title": "Consumers can’t find much to like about Wendy’s",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUlZXVUJKOFV6Qmo0ZXRMUlg3d2VOVFVDZDltU2Vzd1d0SnBZVVQ0QnpHMEd4UGxMYzR4cWlVYmNRRTN2SXB1YVE4UVpsX2Z0RnFraGk2aGpGTGhQSVlXdmNqcTVQY1RrZ25Ld1NBWmVsVjlRaDRqYXBUVGg5cTcwWnlkcG45eFU3MTdONEZyOWZYN0xC?oc=5",
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
-          "title_ko": "소비자는 Wendy 's에 대해 좋아할만한 것을 많이 찾을 수 없습니다.",
-          "title_ja": "消費者はウェンディーズを気に入るものがあまり見つかりません",
-          "title_zh": "消费者不太喜欢Wendy's"
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "‘식욕 실종’ 김준현 “아침 우유 한 컵에 저녁까지 음식 안 당겨”…대체 무슨 일?",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUNERFVWZYb2FDa2VyT3VBa3ItcVRDXzhGRExNUEZRVHhseGFMT2pwWGdYcnBxUnV6eU5zYlhfdy1pM3R3VHM4bnlMS0NTR3ZZN1HSAVNBVV95cUxQdGMzVDdzVUtCd1ZqY3JNMDNjWS1aYUNJUUFJLWhRT3lMdUhmbjlIVS1jVmduX2ZjT0w3c09TTUE3YWxHU25Rdkh0bWZPN3JYdE5Scw?oc=5",
-          "desc": "",
-          "title_en": "‘Missing appetite’ Kim Jun-hyun “I don't pull food until dinner with a cup of morning milk” … What the hell is going on?",
-          "title_ja": "「食欲不振」キム・ジュンヒョン「朝のミルクと一緒に夕食まで食べ物を引っ張りません」…一体何が起こっているのですか？",
-          "title_zh": "“食欲不振” Kim Jun-hyun “我晚饭时才拿早奶吃饭” ……这到底是怎么回事？"
-        },
-        {
           "title": "한국인들 안 먹고는 못 사는데…“대장암 전이 위험 높인다” 경고 나온 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1aTNoYUFnYkMwZjZxbjZNWTFDeWFFa21JaDV1bnpKbzdFTlF4UnJNTFFZWmtCdGNpTmlwLVVDbzhST3hVQVIxRkNUbFJPU3h6MkHSAVNBVV95cUxNc25SenY4VHNoclZDMldiSFh2QzFfQlhOOVU5NFNKMFZTaVV2X0R1RUI1ekctcV9HMW9KbXh4MEpzcnBoZXlwZ3NraTlGdDJoQVcwOA?oc=5",
           "desc": "",
@@ -174,12 +166,20 @@
           "title_zh": "韩国人不能不吃东西…… ‘这种食物‘警告“结直肠癌转移的风险增加” [健康时间]"
         },
         {
-          "title": "짜장면 120년 ‘노동자 소울푸드’ 재조명",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ONWlWY0wxNk9XX2pFcTU1ZVhMdzRzekRMR2VINGtPemFkbWxoZUM3R3pEMUZSZkxQSkFBUkdvdTZnQi1Pb29keFdSOUNXWlRnVnA40gFTQVVfeXFMTk41aVZjTDE2T1dfakVxNTVlWEx3NHN6RExHZUg0a096YWRtbGhlQzdHekQxRlJmTFBKQUFSR291NmdCLU9vb2R4V1I5Q1daVGdWcDg?oc=5",
+          "title": "‘식욕 실종’ 김준현 “아침 우유 한 컵에 저녁까지 음식 안 당겨”…대체 무슨 일?",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUNERFVWZYb2FDa2VyT3VBa3ItcVRDXzhGRExNUEZRVHhseGFMT2pwWGdYcnBxUnV6eU5zYlhfdy1pM3R3VHM4bnlMS0NTR3ZZN1HSAVNBVV95cUxQdGMzVDdzVUtCd1ZqY3JNMDNjWS1aYUNJUUFJLWhRT3lMdUhmbjlIVS1jVmduX2ZjT0w3c09TTUE3YWxHU25Rdkh0bWZPN3JYdE5Scw?oc=5",
           "desc": "",
-          "title_en": "120 years of Jajangmyeon ‘Workers Soul Food’ reimagined",
-          "title_ja": "Jajangmyeon「Workers Soul Food」の120年を再考",
-          "title_zh": "120年的Jajangmyeon “工人灵魂美食”重新构想"
+          "title_en": "‘Missing appetite’ Kim Jun-hyun “I don't pull food until dinner with a cup of morning milk” … What the hell is going on?",
+          "title_ja": "「食欲不振」キム・ジュンヒョン「朝のミルクと一緒に夕食まで食べ物を引っ張りません」…一体何が起こっているのですか？",
+          "title_zh": "“食欲不振” Kim Jun-hyun “我晚饭时才拿早奶吃饭” ……这到底是怎么回事？"
+        },
+        {
+          "title": "“음식에서 왜 농약 냄새가?”…한밤중 중식당 쑥대밭 만든 男 2명 추적",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GMm1ySktiQzcxUS1iSFZqTUJWSkl3cVJiVFNraFNNUWIwaU84dGp5ZTR4OU8tU2tyT1Y2S2h0YXY0cVctLUFiaXFmY1lyaTdyTnfSAVNBVV95cUxOLUpYOFFodDFWc3c0TExseTIwVXdnOHpGNFdKZGxGbVJQWnBYYUVVbXZxdlhaaXl2a0JIdUk4ckxqQ0ltSWpQQTB4a3pGQzRGV1VCSQ?oc=5",
+          "desc": "",
+          "title_en": "“Why is there a pesticide smell in the food?” … Pursuit of two men who made a Chinese restaurant blubber in the middle of the night",
+          "title_ja": "「食品に殺虫剤の臭いがするのはなぜですか？「…真夜中に中華レストランの脂肪を作った2人の男性の追跡",
+          "title_zh": "“为什么食物中有杀虫剂气味？“ ……追捕两名在半夜制造中餐馆鲸脂的男子"
         }
       ]
     },
@@ -199,17 +199,17 @@
           "title": "불맛 따라 떠나는 군산여행, 가을 한 그릇의 미식여행 [페스티벌 플러스]",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iM0VweUM4Y0NrYS1FTDhDRHlYZGpWT0VZSFBYYUpFVGhPSjBQbGlRcmFjVkY2em5SVV9NaFZrdDQwRkRDNmh2ekw1ZjkxZkpyQW5fMg?oc=5",
           "desc": "",
-          "title_en": "Gunsan Flavorful Trip, Autumn Bowl Foodie Journey [Festival Plus]",
-          "title_ja": "群山の美味しい旅、秋の丼グルメの旅【フェスティバルプラス】",
+          "title_en": "불맛 따라 떠나는 군산여행, 가을 한 그릇의 미식여행 [페스티벌 플러스]",
+          "title_ja": "불맛 따라 떠나는 군산여행, 가을 한 그릇의 미식여행 [페스티벌 플러스]",
           "title_zh": "群山美食之旅，秋碗美食之旅[Festival Plus]"
         },
         {
-          "title": "경남 콘텐츠기업·롯데웰푸드 협업 팝업스토어 2일 서울서 개장",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fSXdCUWloYmdSX1laYjM3ZHlzY1JLLVczUFhBcDJUc2lSWVVLdXJsdXZwYS1HSDM4STZidkRVUVVDaU83dkYtTVZ2N1BMSnFMbmc?oc=5",
+          "title": "익산시, NS푸드페스타와 유명 관광지 연계한 시티투어 운영",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tc2hLZlEzMWMtLXdKZVBsZ0gyMHRUWnZLZDFnbzNuQ1dRVTNkN1JJY3cyUGl6UDBBNGk1SGNGRjBBSS1WeHRVU2RRWDJlQ0NOb3c?oc=5",
           "desc": "",
-          "title_en": "Gyeongnam Contents Company and Lotte Well Food Collaboration Pop-up Store Opened in Seoul on the 2nd",
-          "title_ja": "Gyeongnam Contents Companyとロッテウェルフードコラボレーションポップアップストアが2日にソウルにオープン",
-          "title_zh": "Gyeongnam Contents Company和Lotte Well Food Collaboration快闪店于2日在首尔开业"
+          "title_en": "City tour linked with Iksan City and NS Food Festa",
+          "title_ja": "イクサン市とNSフードフェスタに関連する市内ツアー",
+          "title_zh": "与益山市和NS美食节相关的城市之旅"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "캘리포니아주, 미국 최초 ‘비 초가공식품’ 인증제 추진",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85Z3hXUTNYcXBJcENLenB1REttVEF4dERqVVM4enpzcWhuYWRrYmFlamU3RHNxc2dpa2ZzUW5VVFFfc2R0YzhQa3hkWXY0TnlFUXRxOXEybw?oc=5",
-          "desc": "",
-          "title_en": "California promotes US's first non-processed food certification system",
-          "title_ja": "カリフォルニア州、米国初の非加工食品認証制度を推進",
-          "title_zh": "加州推广美国首个非加工食品认证系统"
-        },
         {
           "title": "무알코올에 퓨전 음식…‘옥토버페스트’로 보는 유럽 트렌드",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WkYyM2VnZHlLMGota0wwTTUxRlNjbVh4OFFBZmlqaDJqd3FQelR3OWpxTXZJX0lQdDN3cUVQVFpBU2N1SXRYaFlGUzk2bmdqb0U1dlN0WQ?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "“Sweetened drinks double stomach cancer risk”",
           "title_ja": "「甘い飲み物は胃がんのリスクを倍増させます」",
           "title_zh": "“加糖饮料有双重胃癌风险”"
+        },
+        {
+          "title": "아웃백 ‘강남롯데점’ 개장…“브리즈번의 여유 담아”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wX3pVczNRZ2J2NnAyMkFBSkNra3BndWQxQTB6eDFnRVFYZWtLSkZMRUQzVDZobW5FeDFkaTltZDdldWlqT2doUnRoQUZHVnNwZDhaX0ltdw?oc=5",
+          "desc": "",
+          "title_en": "Outback ‘Gangnam Lotte Store’ Opens... “Brisbane Spares Me”",
+          "title_ja": "アウトバック「江南ロッテ店」オープン…「Brisbane Spares Me」",
+          "title_zh": "内陆「江南乐天商店」开业……「布里斯班不放过我」"
         }
       ]
     }
