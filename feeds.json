@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-10-03T04:07:58Z",
+  "lastUpdated": "2026-10-03T11:12:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "A cookie empire is starting to crumble",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWlPT0JWM1htbHFJUDBQZldveGFCTy1jMWotdzlwZVdzWHlKU2JZbWpEZkMxM3FCeWlWU0hDMno3MmNEZGQ1NEozZVdrRndVdkw3bXNvbzFtR1dPYU1PM0g1amhfSVJaR0pwaUZfcHNJQUpLbzZScnQ4TS1Ib0RWQ29YQQ?oc=5",
-          "desc": "",
-          "title_ko": "쿠키 제국이 무너지기 시작했습니다",
-          "title_ja": "クッキー帝国が崩壊し始めています",
-          "title_zh": "饼干帝国开始崩溃"
-        },
         {
           "title": "McDonald's has another pricing-related headache",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGt5c3RWYWI0YUFYMk9GWW4xOW9HUW5PdFpYTGl6MndMMmw2V3pJcUZPc243OVA1RGY4S0gxU012cmZqdFhDVmlPZjRWLU1aaUhMRHlyTHROTW1tTGRLQ0VJcU5MMFZCWlZsVTNKVFF5XzcwXzVaNE1xSjlSa0Y3WUdLRHpROHhUcWdlVlZscmVxbGFRRExaNQ?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "맥도날드에는 가격 책정과 관련된 또 다른 골칫거리가 있습니다.",
           "title_ja": "マクドナルドは別の価格設定関連の頭痛の種を抱えている",
           "title_zh": "麦当劳还有另一个与定价相关的麻烦"
+        },
+        {
+          "title": "California fines The Kickin' Crab for selling unregistered franchises",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUxfbUoxVkNSaHdELTY5dFQ2enNaWUJ5dW5KcVk2QUlYVVVfWllvc3RxN05ZWmJQa09SbEZoaFN1M25ZSDZwM0RPYmMxa3hGZV9QazJGSnR0WjZBM3ZhRlRLWmNuWTJ3TGoxb2wwOTc2RlpSNWxrMjI1ZDNPcy1qaVd4T1ZIUm04RjFPRDg4WDdPWDE1MFZBS0g5ZVFqZHV0b3VmVmlmNTFVNGs?oc=5",
+          "desc": "",
+          "title_ko": "캘리포니아는 등록되지 않은 프랜차이즈 판매에 대해 The Kickin 'Crab에게 벌금을 부과합니다.",
+          "title_ja": "カリフォルニア州、未登録のフランチャイズを販売したThe Kickin 'Crabに罰金",
+          "title_zh": "加利福尼亚州因出售未注册的特许经营权而对The Kickin 'Crab处以罚款"
         },
         {
           "title": "Consumers can’t find much to like about Wendy’s",
@@ -204,12 +204,12 @@
           "title_zh": "为什么泡菜炒饭是中国菜？...有争议，因为它在巴黎以错误的符号出售"
         },
         {
-          "title": "익산시, NS푸드페스타와 유명 관광지 연계한 시티투어 운영",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tc2hLZlEzMWMtLXdKZVBsZ0gyMHRUWnZLZDFnbzNuQ1dRVTNkN1JJY3cyUGl6UDBBNGk1SGNGRjBBSS1WeHRVU2RRWDJlQ0NOb3c?oc=5",
+          "title": "불맛 따라 떠나는 군산여행, 가을 한 그릇의 미식여행 [페스티벌 플러스]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iM0VweUM4Y0NrYS1FTDhDRHlYZGpWT0VZSFBYYUpFVGhPSjBQbGlRcmFjVkY2em5SVV9NaFZrdDQwRkRDNmh2ekw1ZjkxZkpyQW5fMg?oc=5",
           "desc": "",
-          "title_en": "City tour linked with Iksan City and NS Food Festa",
-          "title_ja": "イクサン市とNSフードフェスタに関連する市内ツアー",
-          "title_zh": "与益山市和NS美食节相关的城市之旅"
+          "title_en": "Gunsan Flavorful Trip, Autumn Bowl Foodie Journey [Festival Plus]",
+          "title_ja": "群山の美味しい旅、秋の丼グルメの旅【フェスティバルプラス】",
+          "title_zh": "群山美食之旅，秋碗美食之旅[Festival Plus]"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "加州推广美国首个非加工食品认证系统"
         },
         {
+          "title": "무알코올에 퓨전 음식…‘옥토버페스트’로 보는 유럽 트렌드",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WkYyM2VnZHlLMGota0wwTTUxRlNjbVh4OFFBZmlqaDJqd3FQelR3OWpxTXZJX0lQdDN3cUVQVFpBU2N1SXRYaFlGUzk2bmdqb0U1dlN0WQ?oc=5",
+          "desc": "",
+          "title_en": "Non-Alcoholic Fusion Food… European Trends at Oktoberfest",
+          "title_ja": "ノンアルコールフュージョンフード…オクトーバーフェストでヨーロッパのトレンドを学ぼう",
+          "title_zh": "非酒精融合美食…慕尼黑啤酒节的欧洲潮流"
+        },
+        {
           "title": "“단 음료, 위암 위험을 두 배로 높인다”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52UGdBd04zVTA0TUhqNHBUWmVpYzNHRzducWk3d3c3clpGN1dIZ3QtYXBrei10WFpoU2t5clBYZENHX3Q1cF9QMUxMeE5zMnJXV0xFc1FDSQ?oc=5",
           "desc": "",
           "title_en": "“Sweetened drinks double stomach cancer risk”",
           "title_ja": "「甘い飲み物は胃がんのリスクを倍増させます」",
           "title_zh": "“加糖饮料有双重胃癌风险”"
-        },
-        {
-          "title": "아웃백 ‘강남롯데점’ 개장…“브리즈번의 여유 담아”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wX3pVczNRZ2J2NnAyMkFBSkNra3BndWQxQTB6eDFnRVFYZWtLSkZMRUQzVDZobW5FeDFkaTltZDdldWlqT2doUnRoQUZHVnNwZDhaX0ltdw?oc=5",
-          "desc": "",
-          "title_en": "Outback ‘Gangnam Lotte Store’ Opens... “Brisbane Spares Me”",
-          "title_ja": "アウトバック「江南ロッテ店」オープン…「Brisbane Spares Me」",
-          "title_zh": "内陆「江南乐天商店」开业……「布里斯班不放过我」"
         }
       ]
     }
