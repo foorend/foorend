@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T21:53:28Z",
+  "lastUpdated": "2026-10-03T04:07:58Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "한국인 최애 음식…美서 인기 '폭발'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOVGp0YUEta3k5dm9PaFlQUmlIOU5UQzFvdDdUT29sbV8wcDdKOG9ZQ1JUNEF1YlhFZmg2SHVCdFZTOHBieW9Cc2IzSEFCOEpTVnpVd1ZKX1Q4VGFmam82dFZZNVo4OVplSVpnbA?oc=5",
+          "desc": "",
+          "title_en": "Korean's favorite food… 'Explosion' in popularity in the US",
+          "title_ja": "韓国のお気に入りの食べ物…アメリカで人気の「爆発」",
+          "title_zh": "韩国最受欢迎的美食……在美国大受欢迎的「爆炸」"
+        },
+        {
           "title": "\"아저씨도 줄 서서 사 가요\"…인기 폭발한 '이 음식' 뭐길래 [박수빈의 발굴단]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qdzhXc3Rud3lDcENoVVU3QkNyWVcxejJ3dkRsRHlDeVpsa3A1Ymx1NzR0R0FHV1gwUkM0eWhBeElJbndHR1VtclJiekpzY1UyUVVXSVBhRWMzQQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Seo Jeong-ho, CEO of Lotte Well Food, realizes social value through win-win partners [2026 ESG Leader]",
           "title_ja": "ロッテウェルフードCEOソ・ジョンホ、ウィンウィンパートナーを通じて社会的価値を実現【2026年ESGリーダー】",
           "title_zh": "乐天Well Food首席执行官Seo Jeong-ho通过双赢合作伙伴实现社会价值[2026 ESG Leader]"
-        },
-        {
-          "title": "한국식품산업협회, 파리 'SIAL Paris 2026'서 'K-푸드 선도기업관' 선보인다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96S19XcmVPa0szT09BeWwwc3FsdGprMktULTZPUV9HQjluMW9Ea2FXUDEtS2FjdWh4SmdyQU9kZUxvYkJOYUxrLW5IeV9CZ1RLbUlyR1QxNVdYUQ?oc=5",
-          "desc": "",
-          "title_en": "Korea Food Industry Association presents' SIAL Paris 2026 'West' K-Food Leading Company Hall 'in Paris",
-          "title_ja": "韓国食品工業会、パリで「SIAL Paris 2026」西部「K - Food Leading Company Hall」を開催",
-          "title_zh": "韩国食品工业协会在巴黎推出“SIAL Paris 2026”西方“K-Food Leading Company Hall”"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“食欲不振” Kim Jun-hyun “我晚饭时才拿早奶吃饭” ……这到底是怎么回事？"
         },
         {
-          "title": "짜장면 120년 ‘노동자 소울푸드’ 재조명",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ONWlWY0wxNk9XX2pFcTU1ZVhMdzRzekRMR2VINGtPemFkbWxoZUM3R3pEMUZSZkxQSkFBUkdvdTZnQi1Pb29keFdSOUNXWlRnVnA40gFTQVVfeXFMTk41aVZjTDE2T1dfakVxNTVlWEx3NHN6RExHZUg0a096YWRtbGhlQzdHekQxRlJmTFBKQUFSR291NmdCLU9vb2R4V1I5Q1daVGdWcDg?oc=5",
-          "desc": "",
-          "title_en": "120 years of Jajangmyeon ‘Workers Soul Food’ reimagined",
-          "title_ja": "Jajangmyeon「Workers Soul Food」の120年を再考",
-          "title_zh": "120年的Jajangmyeon “工人灵魂美食”重新构想"
-        },
-        {
           "title": "한국인들 안 먹고는 못 사는데…“대장암 전이 위험 높인다” 경고 나온 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1aTNoYUFnYkMwZjZxbjZNWTFDeWFFa21JaDV1bnpKbzdFTlF4UnJNTFFZWmtCdGNpTmlwLVVDbzhST3hVQVIxRkNUbFJPU3h6MkHSAVNBVV95cUxNc25SenY4VHNoclZDMldiSFh2QzFfQlhOOVU5NFNKMFZTaVV2X0R1RUI1ekctcV9HMW9KbXh4MEpzcnBoZXlwZ3NraTlGdDJoQVcwOA?oc=5",
           "desc": "",
           "title_en": "Koreans can't live without eating… ‘This food‘ warns of “increased risk of colorectal cancer metastasis” [Health Time]",
           "title_ja": "韓国人は食べなければ生きていけない…「この食べ物」は「大腸がん転移のリスクが高まる」と警告している【ヘルスタイム】",
           "title_zh": "韩国人不能不吃东西…… ‘这种食物‘警告“结直肠癌转移的风险增加” [健康时间]"
+        },
+        {
+          "title": "짜장면 120년 ‘노동자 소울푸드’ 재조명",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ONWlWY0wxNk9XX2pFcTU1ZVhMdzRzekRMR2VINGtPemFkbWxoZUM3R3pEMUZSZkxQSkFBUkdvdTZnQi1Pb29keFdSOUNXWlRnVnA40gFTQVVfeXFMTk41aVZjTDE2T1dfakVxNTVlWEx3NHN6RExHZUg0a096YWRtbGhlQzdHekQxRlJmTFBKQUFSR291NmdCLU9vb2R4V1I5Q1daVGdWcDg?oc=5",
+          "desc": "",
+          "title_en": "120 years of Jajangmyeon ‘Workers Soul Food’ reimagined",
+          "title_ja": "Jajangmyeon「Workers Soul Food」の120年を再考",
+          "title_zh": "120年的Jajangmyeon “工人灵魂美食”重新构想"
         }
       ]
     },
@@ -188,12 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "익산시, NS푸드페스타와 유명 관광지 연계한 시티투어 운영",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tc2hLZlEzMWMtLXdKZVBsZ0gyMHRUWnZLZDFnbzNuQ1dRVTNkN1JJY3cyUGl6UDBBNGk1SGNGRjBBSS1WeHRVU2RRWDJlQ0NOb3c?oc=5",
+          "title": "“치매 예방엔 이 음식이 최고”…뇌 노화 2.5년 늦추는 ‘기적의 식단’",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZbk5qV29WMjVqTVhCeE9GTEZtZHloVmpaVXdoeGczazBMQVJFWUV1N3VJUmZtdG15UHVnVFk2bDF3X2JzUmJ1QXRjM2N1Zw?oc=5",
           "desc": "",
-          "title_en": "City tour linked with Iksan City and NS Food Festa",
-          "title_ja": "イクサン市とNSフードフェスタに関連する市内ツアー",
-          "title_zh": "与益山市和NS美食节相关的城市之旅"
+          "title_en": "“This food is the best for preventing dementia” … A ‘miracle diet‘ that slows brain aging by 2.5 years",
+          "title_ja": "「この食品は認知症予防に最適」…脳の老化を2.5年遅らせる「奇跡の食事」",
+          "title_zh": "“这种食物是预防痴呆的最佳食物” ……一种能将大脑衰老减缓2.5年的“奇迹饮食”"
         },
         {
           "title": "김치볶음밥이 왜 중국 음식?…파리서 잘못된 표기로 팔려 논란",
@@ -204,12 +204,12 @@
           "title_zh": "为什么泡菜炒饭是中国菜？...有争议，因为它在巴黎以错误的符号出售"
         },
         {
-          "title": "“맛이 썩을 X”…침착맨, 음식 맛 표현에 ‘여성 혐오’ 논란",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UVUk4eXQ1OXAyNWVYMm94aERmRlV4MGwyNW9pZVUydlNpdUZWYzUzd0NZTmVhNENqdGp3eWNoUVQzekp6dUpFVFdRMzBtRUVRZDlIZg?oc=5",
+          "title": "익산시, NS푸드페스타와 유명 관광지 연계한 시티투어 운영",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tc2hLZlEzMWMtLXdKZVBsZ0gyMHRUWnZLZDFnbzNuQ1dRVTNkN1JJY3cyUGl6UDBBNGk1SGNGRjBBSS1WeHRVU2RRWDJlQ0NOb3c?oc=5",
           "desc": "",
-          "title_en": "“X that tastes rotten” … calm man, controversial ‘misogyny‘ over food taste expression",
-          "title_ja": "「腐った味のX」…落ち着いた男性、食べ物の味の表現について物議を醸す「女嫌い」",
-          "title_zh": "“味道腐烂的X” ……冷静的男人，对食物味道表达有争议的“厌女症”"
+          "title_en": "City tour linked with Iksan City and NS Food Festa",
+          "title_ja": "イクサン市とNSフードフェスタに関連する市内ツアー",
+          "title_zh": "与益山市和NS美食节相关的城市之旅"
         }
       ]
     },
