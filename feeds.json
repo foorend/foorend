@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T23:32:39Z",
+  "lastUpdated": "2026-10-04T04:40:03Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"4900원이면 커피에 밥까지\"…직장인 열광한 '가성비 음식' [박상경의 영수증 리뷰]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ETmlqSE9pNUx4Y1BOMHpCaUZRUUFuU0s3VnpsUzBnN25BTHJRTlprQzQ0T01keld3RjVRWkRKVUtlN3VsZXA5Vk5xZ2RnUzF2SlpSNk90eURaQQ?oc=5",
+          "desc": "",
+          "title_en": "\"Coffee and rice for 4900 won\" … 'Cost-effective food' enthusiastic for office workers [Park Sang-kyung's receipt review]",
+          "title_ja": "「4900ウォンのコーヒーとライス」…オフィスワーカーに熱心な「費用対効果の高い食べ物」【パク・サンギョンの領収書レビュー】",
+          "title_zh": "“4900韩元的咖啡和米饭” …… '性价比高的美食'热衷于上班族[Park Sang-kyung的收据审核]"
+        },
+        {
           "title": "한국인 최애 음식…美서 인기 '폭발'",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOVGp0YUEta3k5dm9PaFlQUmlIOU5UQzFvdDdUT29sbV8wcDdKOG9ZQ1JUNEF1YlhFZmg2SHVCdFZTOHBieW9Cc2IzSEFCOEpTVnpVd1ZKX1Q4VGFmam82dFZZNVo4OVplSVpnbA?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "\"Uncle is also standing in line to buy\" … What was the popular 'this food'? [Park Soo-bin's excavation team]",
           "title_ja": "「おじさんも並んで買おうとしている」…人気の「この食べ物」は何でしたか？【パク・スビンの発掘チーム】",
           "title_zh": "“叔叔也排队买” ……最受欢迎的'这道菜'是什么？【朴秀彬的挖掘队】"
-        },
-        {
-          "title": "\"3만원 맞아요, 열 번 넘게 셌어요\"…라이더 사연에 '울컥'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQmozdU5MbkQwMlpNemVsQ1JNczBTbG8yVG1COFBjZjdsRFVuMlA0V01mVmlIZ1luN0ljb2I4NHNTUmhfTkVSQi1HdG5mU3RMaFZLRUUzNW51UQ?oc=5",
-          "desc": "",
-          "title_en": "“30,000 won right, I counted more than ten times” … 'choked' on the rider's story",
-          "title_ja": "「30,000ウォン、10回以上数えた」…乗客の話に「窒息」した",
-          "title_zh": "“三万没错，我数了十多遍” ……对着骑手的故事“哽咽”"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "국내 펫푸드 시장 5년만에 70% 성장…수입산 비중은 ‘물음표’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42RllIRGVvYXBGX1FsaVB3d0h4UG1CeXZLU0FPYi1vdVJESGxjSjhMZ1BkaEtpUFRReUl2TmZoSlhFLUVuR0dLU3Y5djhKNWRQc3fSAVNBVV95cUxQaC1OaTFiSW9nZHRDSHBueXBSUUx0RHNjOXZzLWFTTlU5QTVuTVV5WE8wWUFxN2UyZ3ZsVFFwWWZzQTJyYXdERktPT1NkNlM4R0VTZw?oc=5",
+          "desc": "",
+          "title_en": "Domestic pet food market grew by 70% in 5 years... The proportion of imported products is‘ question mark ’",
+          "title_ja": "国内ペットフード市場は5年間で70 ％成長…輸入品の割合は「疑問符」",
+          "title_zh": "国内宠物食品市场在5年内增长了70 ％......进口产品的比例是“问号”"
+        },
         {
           "title": "한국인들 안 먹고는 못 사는데…“대장암 전이 위험 높인다” 경고 나온 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1aTNoYUFnYkMwZjZxbjZNWTFDeWFFa21JaDV1bnpKbzdFTlF4UnJNTFFZWmtCdGNpTmlwLVVDbzhST3hVQVIxRkNUbFJPU3h6MkHSAVNBVV95cUxNc25SenY4VHNoclZDMldiSFh2QzFfQlhOOVU5NFNKMFZTaVV2X0R1RUI1ekctcV9HMW9KbXh4MEpzcnBoZXlwZ3NraTlGdDJoQVcwOA?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "‘Missing appetite’ Kim Jun-hyun “I don't pull food until dinner with a cup of morning milk” … What the hell is going on?",
           "title_ja": "「食欲不振」キム・ジュンヒョン「朝のミルクと一緒に夕食まで食べ物を引っ張りません」…一体何が起こっているのですか？",
           "title_zh": "“食欲不振” Kim Jun-hyun “我晚饭时才拿早奶吃饭” ……这到底是怎么回事？"
-        },
-        {
-          "title": "“음식에서 왜 농약 냄새가?”…한밤중 중식당 쑥대밭 만든 男 2명 추적",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GMm1ySktiQzcxUS1iSFZqTUJWSkl3cVJiVFNraFNNUWIwaU84dGp5ZTR4OU8tU2tyT1Y2S2h0YXY0cVctLUFiaXFmY1lyaTdyTnfSAVNBVV95cUxOLUpYOFFodDFWc3c0TExseTIwVXdnOHpGNFdKZGxGbVJQWnBYYUVVbXZxdlhaaXl2a0JIdUk4ckxqQ0ltSWpQQTB4a3pGQzRGV1VCSQ?oc=5",
-          "desc": "",
-          "title_en": "“Why is there a pesticide smell in the food?” … Pursuit of two men who made a Chinese restaurant blubber in the middle of the night",
-          "title_ja": "「食品に殺虫剤の臭いがするのはなぜですか？「…真夜中に中華レストランの脂肪を作った2人の男性の追跡",
-          "title_zh": "“为什么食物中有杀虫剂气味？“ ……追捕两名在半夜制造中餐馆鲸脂的男子"
         }
       ]
     },
@@ -199,17 +199,17 @@
           "title": "불맛 따라 떠나는 군산여행, 가을 한 그릇의 미식여행 [페스티벌 플러스]",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iM0VweUM4Y0NrYS1FTDhDRHlYZGpWT0VZSFBYYUpFVGhPSjBQbGlRcmFjVkY2em5SVV9NaFZrdDQwRkRDNmh2ekw1ZjkxZkpyQW5fMg?oc=5",
           "desc": "",
-          "title_en": "불맛 따라 떠나는 군산여행, 가을 한 그릇의 미식여행 [페스티벌 플러스]",
-          "title_ja": "불맛 따라 떠나는 군산여행, 가을 한 그릇의 미식여행 [페스티벌 플러스]",
+          "title_en": "Gunsan Flavorful Trip, Autumn Bowl Foodie Journey [Festival Plus]",
+          "title_ja": "群山の美味しい旅、秋の丼グルメの旅【フェスティバルプラス】",
           "title_zh": "群山美食之旅，秋碗美食之旅[Festival Plus]"
         },
         {
-          "title": "익산시, NS푸드페스타와 유명 관광지 연계한 시티투어 운영",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tc2hLZlEzMWMtLXdKZVBsZ0gyMHRUWnZLZDFnbzNuQ1dRVTNkN1JJY3cyUGl6UDBBNGk1SGNGRjBBSS1WeHRVU2RRWDJlQ0NOb3c?oc=5",
+          "title": "사찰음식·팟타이까지…냉동간편식 경쟁 가열",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85X0Iwc3AtQUYyX0doQ2h2UXg1M253U0RJZThIdDZ4Z2JyRm9oWVZOTnRNZWlKUEF3Y3pNWHVkNUdpZGxxZ1k1QmctM29jdWY0eHB4eEF6X0RPZXpGME1FM21NbG0?oc=5",
           "desc": "",
-          "title_en": "City tour linked with Iksan City and NS Food Festa",
-          "title_ja": "イクサン市とNSフードフェスタに関連する市内ツアー",
-          "title_zh": "与益山市和NS美食节相关的城市之旅"
+          "title_en": "From temple food to pad thai… Heating up the frozen easy food competition",
+          "title_ja": "寺院の食べ物からパッタイまで…冷凍の簡単な食べ物の競争を温めよう",
+          "title_zh": "从寺庙美食到泰式炒河粉……加热冷冻美食竞赛"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“加糖饮料有双重胃癌风险”"
         },
         {
-          "title": "아웃백 ‘강남롯데점’ 개장…“브리즈번의 여유 담아”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wX3pVczNRZ2J2NnAyMkFBSkNra3BndWQxQTB6eDFnRVFYZWtLSkZMRUQzVDZobW5FeDFkaTltZDdldWlqT2doUnRoQUZHVnNwZDhaX0ltdw?oc=5",
+          "title": "맥도날드도 빈티지 숄더백…피스마이너스원, 협업 굿즈",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBadzZFdDB2U09JT1hidTlWNGNGT1l6b3RfLTc2RmZTdzNmczVVVnFnR2I0X2tWWmd6ZHhwRmJYLUVObi1vUWFlYTRDMXhrWC1ZWTV6R3QtWQ?oc=5",
           "desc": "",
-          "title_en": "Outback ‘Gangnam Lotte Store’ Opens... “Brisbane Spares Me”",
-          "title_ja": "アウトバック「江南ロッテ店」オープン…「Brisbane Spares Me」",
-          "title_zh": "内陆「江南乐天商店」开业……「布里斯班不放过我」"
+          "title_en": "McDonald's Vintage Shoulder Bag… PeaceMinusOne, Collaborative Merch",
+          "title_ja": "マクドナルドのヴィンテージショルダーバッグ… PeaceMinusOne、コラボグッズ",
+          "title_zh": "麦当劳复古单肩包… PeaceMinusOne ，合作商品"
         }
       ]
     }
