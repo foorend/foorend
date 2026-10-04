@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-10-04T16:32:06Z",
+  "lastUpdated": "2026-10-04T20:56:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "A cookie empire is starting to crumble",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWlPT0JWM1htbHFJUDBQZldveGFCTy1jMWotdzlwZVdzWHlKU2JZbWpEZkMxM3FCeWlWU0hDMno3MmNEZGQ1NEozZVdrRndVdkw3bXNvbzFtR1dPYU1PM0g1amhfSVJaR0pwaUZfcHNJQUpLbzZScnQ4TS1Ib0RWQ29YQQ?oc=5",
+          "desc": "",
+          "title_ko": "쿠키 제국이 무너지기 시작했습니다",
+          "title_ja": "クッキー帝国が崩壊し始めています",
+          "title_zh": "饼干帝国开始崩溃"
+        },
         {
           "title": "McDonald's has another pricing-related headache",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGt5c3RWYWI0YUFYMk9GWW4xOW9HUW5PdFpYTGl6MndMMmw2V3pJcUZPc243OVA1RGY4S0gxU012cmZqdFhDVmlPZjRWLU1aaUhMRHlyTHROTW1tTGRLQ0VJcU5MMFZCWlZsVTNKVFF5XzcwXzVaNE1xSjlSa0Y3WUdLRHpROHhUcWdlVlZscmVxbGFRRExaNQ?oc=5",
@@ -20,14 +28,6 @@
           "title_ko": "캘리포니아는 등록되지 않은 프랜차이즈 판매에 대해 The Kickin 'Crab에게 벌금을 부과합니다.",
           "title_ja": "カリフォルニア州、未登録のフランチャイズを販売したThe Kickin 'Crabに罰金",
           "title_zh": "加利福尼亚州因出售未注册的特许经营权而对The Kickin 'Crab处以罚款"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "“단 음료, 위암 위험을 두 배로 높인다”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52UGdBd04zVTA0TUhqNHBUWmVpYzNHRzducWk3d3c3clpGN1dIZ3QtYXBrei10WFpoU2t5clBYZENHX3Q1cF9QMUxMeE5zMnJXV0xFc1FDSQ?oc=5",
-          "desc": "",
-          "title_en": "“Sweetened drinks double stomach cancer risk”",
-          "title_ja": "「甘い飲み物は胃がんのリスクを倍増させます」",
-          "title_zh": "“加糖饮料有双重胃癌风险”"
-        },
-        {
           "title": "제철맞은 사과 vs 배, 혈당 관리에 유리한 것은?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QNkhfZnJScGxZa29SVkdBV3BWaFo4eVp5VlJGc3EtOVBVT2tZNlFvbURfbDdBaUhqX2djM2NFLTVlRHlrX2JqLWdJOVlEM0J3d0ppVVJ2aw?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "Make with grilled meat and pears during the holidays, 'stewed pear‘ during the holidays",
           "title_ja": "休日はグリルした肉と梨、休日は「煮込んだ梨」で作ろう",
           "title_zh": "在假期用烤肉和梨制作，在假期用“炖梨”制作"
+        },
+        {
+          "title": "이금기, 맛과 영양 잡은 두부 다이어트 제안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56YlZZbl90am13SER4NEl1RFRwR0xmU0VCRlpjZUFqMUJ4dnJrSE9FYUlKendNdzdreWplTWRuSFd2TnhCZGpQY1pNUG1JVm11WjJxdkdsQQ?oc=5",
+          "desc": "",
+          "title_en": "Suggested Tofu Diet with Taste and Nutrition",
+          "title_ja": "味と栄養のあるおすすめ豆腐ダイエット",
+          "title_zh": "推荐的豆腐饮食与味道和营养"
         }
       ]
     }
