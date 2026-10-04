@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T11:52:31Z",
+  "lastUpdated": "2026-10-04T16:32:06Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -166,20 +166,20 @@
           "title_zh": "国内宠物食品市场在5年内增长了70 ％......进口产品的比例是“问号”"
         },
         {
+          "title": "펫푸드 시장 2.5조로 커졌는데…정부는 ‘수입산 비중’ 파악 못해",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uc2VMWHlpMV9IMXVzUkxCdTFhTEpzQ3IyMkZwcWcwZFdKLWRGVFJzbkNDSTVpUDdEX3ZITVRPTXZwNlJxVFd1Y0h1cmNPb0RoRl9J0gFTQVVfeXFMTm5zZUxYeWkxX0gxdXNSTEJ1MWFMSnNDcjIyRnBxZzBkV0otZEZUUnNuQ0NJNWlQN0RfdkhNVE9NdnA2UnFUV3VjSHVyY09vRGhGX0k?oc=5",
+          "desc": "",
+          "title_en": "The pet food market grew to 2.5 trillion... The government did not know ’the proportion of income'",
+          "title_ja": "ペットフード市場は2.5兆に成長…政府は「収入の割合」を知らなかった",
+          "title_zh": "宠物食品市场增长到2.5万亿……政府不知道“收入占比”"
+        },
+        {
           "title": "한국인들 안 먹고는 못 사는데…“대장암 전이 위험 높인다” 경고 나온 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1aTNoYUFnYkMwZjZxbjZNWTFDeWFFa21JaDV1bnpKbzdFTlF4UnJNTFFZWmtCdGNpTmlwLVVDbzhST3hVQVIxRkNUbFJPU3h6MkHSAVNBVV95cUxNc25SenY4VHNoclZDMldiSFh2QzFfQlhOOVU5NFNKMFZTaVV2X0R1RUI1ekctcV9HMW9KbXh4MEpzcnBoZXlwZ3NraTlGdDJoQVcwOA?oc=5",
           "desc": "",
           "title_en": "Koreans can't live without eating… ‘This food‘ warns of “increased risk of colorectal cancer metastasis” [Health Time]",
           "title_ja": "韓国人は食べなければ生きていけない…「この食べ物」は「大腸がん転移のリスクが高まる」と警告している【ヘルスタイム】",
           "title_zh": "韩国人不能不吃东西…… ‘这种食物‘警告“结直肠癌转移的风险增加” [健康时间]"
-        },
-        {
-          "title": "‘식욕 실종’ 김준현 “아침 우유 한 컵에 저녁까지 음식 안 당겨”…대체 무슨 일?",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUNERFVWZYb2FDa2VyT3VBa3ItcVRDXzhGRExNUEZRVHhseGFMT2pwWGdYcnBxUnV6eU5zYlhfdy1pM3R3VHM4bnlMS0NTR3ZZN1HSAVNBVV95cUxQdGMzVDdzVUtCd1ZqY3JNMDNjWS1aYUNJUUFJLWhRT3lMdUhmbjlIVS1jVmduX2ZjT0w3c09TTUE3YWxHU25Rdkh0bWZPN3JYdE5Scw?oc=5",
-          "desc": "",
-          "title_en": "‘Missing appetite’ Kim Jun-hyun “I don't pull food until dinner with a cup of morning milk” … What the hell is going on?",
-          "title_ja": "「食欲不振」キム・ジュンヒョン「朝のミルクと一緒に夕食まで食べ物を引っ張りません」…一体何が起こっているのですか？",
-          "title_zh": "“食欲不振” Kim Jun-hyun “我晚饭时才拿早奶吃饭” ……这到底是怎么回事？"
         }
       ]
     },
@@ -187,14 +187,6 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
-        {
-          "title": "\"국내 펫푸드 시장 2.5조 규모…수입산 점유율 통계는 '없음'\"(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84WGhJU0VzSWNCaC1hbGp3b2laRjdMcGY4VG5oLS01LWpMbUx3SHREejlEelh3SU52MEJ0QzBET1ltN3otTUlfTGVqdE9tVVNoSFE?oc=5",
-          "desc": "",
-          "title_en": "\"Domestic pet food market 2.5 trillion size... 'None' for import share statistics\" (comprehensive)",
-          "title_ja": "「国内ペットフード市場2.5兆サイズ…輸入シェア統計「なし」」（総合）",
-          "title_zh": "“国内宠物食品市场规模2.5万亿……进口份额统计'无'” （综合）"
-        },
         {
           "title": "“요즘 K 붙으면 영 불안한데”…주가 조정받은 뷰티·푸드 대표주들",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yR0RvQlk0bnZPZ1lqc1pIUVpQSzJQMUFBU2t5MUpQaV8zWnd6QWl1Z1VyRUN5VmlhOGUyTUxSaFJ1NENkeDJtbVFvUlg0NENZQnc?oc=5",
@@ -204,12 +196,20 @@
           "title_zh": "“这些天我非常担心坚持K” ……美容和食品的代表，他们的股价已经调整"
         },
         {
-          "title": "원高 역풍…K뷰티·푸드株 실적전망 엇갈려",
+          "title": "'원高 역풍'에 실적전망 엇갈린 K뷰티·푸드株…옥석가리기 시작",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qZk1zNFpTWmVBdDhHWVhjNFVwR0txa0h2VFQ3MVlOWXBQSW1pRjU0RjZHYldWUGQxSlQxcEhpMlF5MG5RTXRYZjhOLWxWYUVCSHc?oc=5",
           "desc": "",
-          "title_en": "One headwind… K-beauty · Food performance prospects are mixed",
-          "title_ja": "1つの逆風… Kビューティー・食品性能の見通しが混在",
-          "title_zh": "一个逆风…… K-beauty ·食品性能前景喜忧参半"
+          "title_en": "K-beauty and food with a mixed performance outlook in the 'One Headwind' … Start to take care of",
+          "title_ja": "「1つの向かい風」で混在したパフォーマンスの見通しを持つKビューティーと食べ物…世話を始めましょう",
+          "title_zh": "K-beauty和美食，在“One Headwind”中的表现前景好坏参半……开始照顾"
+        },
+        {
+          "title": "\"국내 펫푸드 시장 2.5조 규모…수입산 점유율 통계는 '없음'\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84WGhJU0VzSWNCaC1hbGp3b2laRjdMcGY4VG5oLS01LWpMbUx3SHREejlEelh3SU52MEJ0QzBET1ltN3otTUlfTGVqdE9tVVNoSFE?oc=5",
+          "desc": "",
+          "title_en": "\"Domestic pet food market 2.5 trillion size... 'None' for import share statistics\" (comprehensive)",
+          "title_ja": "「国内ペットフード市場2.5兆サイズ…輸入シェア統計「なし」」（総合）",
+          "title_zh": "“国内宠物食品市场规模2.5万亿……进口份额统计'无'” （综合）"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "“加糖饮料有双重胃癌风险”"
         },
         {
-          "title": "맥도날드도 빈티지 숄더백…피스마이너스원, 협업 굿즈",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBadzZFdDB2U09JT1hidTlWNGNGT1l6b3RfLTc2RmZTdzNmczVVVnFnR2I0X2tWWmd6ZHhwRmJYLUVObi1vUWFlYTRDMXhrWC1ZWTV6R3QtWQ?oc=5",
+          "title": "제철맞은 사과 vs 배, 혈당 관리에 유리한 것은?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QNkhfZnJScGxZa29SVkdBV3BWaFo4eVp5VlJGc3EtOVBVT2tZNlFvbURfbDdBaUhqX2djM2NFLTVlRHlrX2JqLWdJOVlEM0J3d0ppVVJ2aw?oc=5",
           "desc": "",
-          "title_en": "McDonald's Vintage Shoulder Bag… PeaceMinusOne, Collaborative Merch",
-          "title_ja": "マクドナルドのヴィンテージショルダーバッグ… PeaceMinusOne、コラボグッズ",
-          "title_zh": "麦当劳复古单肩包… PeaceMinusOne ，合作商品"
+          "title_en": "What is the advantage of managing apples vs. pears and blood sugar in season?",
+          "title_ja": "季節にリンゴを管理することと、梨や血糖値を管理することの利点は何ですか？",
+          "title_zh": "季节性管理苹果与梨和血糖有什么优势？"
         },
         {
-          "title": "명절 체중증가, 영양 전문가가 말하는 진짜 이유",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pbjc5eURjQjF1MUJTdXdJODFHN1JuVnFlZV91eU05ZlFVTURPOHUzbXdoZVF1SGVSZDZBd05SMjJzcHJGUEl3bUNGdGhfbHNZMVhyRTZJdw?oc=5",
+          "title": "명절 불고기와 배로 만든다, 환절기 보양식 ‘배꿀찜’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nTnRLaWZaaHJtOHRYS2NPOWd0RTFoOGFNMUlld0c3aEpPOE41S0g3NFRTaXpjVW9jOEZxSF80SmF0UFJJRE1CTkFqblcwVkRiTzZrbkJEbw?oc=5",
           "desc": "",
-          "title_en": "Holiday weight gain, the real reason nutrition experts say",
-          "title_ja": "休日の体重増加、栄養の専門家が言う本当の理由",
-          "title_zh": "假日体重增加，营养专家说"
+          "title_en": "Make with grilled meat and pears during the holidays, 'stewed pear‘ during the holidays",
+          "title_ja": "休日はグリルした肉と梨、休日は「煮込んだ梨」で作ろう",
+          "title_zh": "在假期用烤肉和梨制作，在假期用“炖梨”制作"
         }
       ]
     }
