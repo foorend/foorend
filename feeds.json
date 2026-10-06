@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T21:50:45Z",
+  "lastUpdated": "2026-10-06T05:14:04Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "麦当劳还有另一个与定价相关的麻烦"
         },
         {
-          "title": "California fines The Kickin' Crab for selling unregistered franchises",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUxfbUoxVkNSaHdELTY5dFQ2enNaWUJ5dW5KcVk2QUlYVVVfWllvc3RxN05ZWmJQa09SbEZoaFN1M25ZSDZwM0RPYmMxa3hGZV9QazJGSnR0WjZBM3ZhRlRLWmNuWTJ3TGoxb2wwOTc2RlpSNWxrMjI1ZDNPcy1qaVd4T1ZIUm04RjFPRDg4WDdPWDE1MFZBS0g5ZVFqZHV0b3VmVmlmNTFVNGs?oc=5",
+          "title": "Sweet Tomatoes is not only back, it's growing",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3ZXZThmOWoxam5rN0J3ZU9aTnVrVzVmMzFYN2kwOTlyaE9MUUgtUk9PdHVyUEhrbUlOVEdIcml1LTlET1hKeHRkZ2R0WDVrWjBUNWk0MFp1cW95SklvaW4zcGdPaWxnTU53NjFhYm12VWxtWV9qMG56azhkLUdrTGlraUVtWXRUem5FUndCRXl6UQ?oc=5",
           "desc": "",
-          "title_ko": "캘리포니아는 등록되지 않은 프랜차이즈 판매에 대해 The Kickin 'Crab에게 벌금을 부과합니다.",
-          "title_ja": "カリフォルニア州、未登録のフランチャイズを販売したThe Kickin 'Crabに罰金",
-          "title_zh": "加利福尼亚州因出售未注册的特许经营权而对The Kickin 'Crab处以罚款"
+          "title_ko": "달콤한 토마토가 돌아왔을 뿐만 아니라 자라고 있습니다",
+          "title_ja": "スイートトマトは戻ってきただけでなく、成長しています",
+          "title_zh": "甜西红柿不仅回来了，而且还在生长"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "'닭한마리'까지 여행가방에…외국인 홀린 ‘K푸드’ [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02cEtjelZxVTROMl9OSDdsUEVxdHg3QmRFVVFHTlNmYXcxWUNkbnJ1YXdKTVlBWC13Wm11eW9VSlJXUTV6UzhaWGtsSzVBRkZsRWNELTE1X2dFUQ?oc=5",
+          "desc": "",
+          "title_en": "Even a chicken in a suitcase... Foreigner's ‘K-Food' [Kwon Yong-hoon's Trendwatch]",
+          "title_ja": "スーツケースの中の鶏でさえ…外国人の「Kフード」【クォン・ヨンフンのトレンドウォッチ】",
+          "title_zh": "即使是手提箱里的鸡……外国人的‘K-Food' [Kwon Yong-hoon's Trendwatch]"
+        },
+        {
           "title": "\"4900원이면 커피에 밥까지\"…직장인 열광한 '가성비 음식' [박상경의 영수증 리뷰]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ETmlqSE9pNUx4Y1BOMHpCaUZRUUFuU0s3VnpsUzBnN25BTHJRTlprQzQ0T01keld3RjVRWkRKVUtlN3VsZXA5Vk5xZ2RnUzF2SlpSNk90eURaQQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Gyeongju-si, Pariser temple food demonstration",
           "title_ja": "パリサーの慶州市で寺院料理のデモンストレーション",
           "title_zh": "巴黎人庆州市庙宇美食示范"
-        },
-        {
-          "title": "타코에 담고, 전통주 곁들이고…K-씨푸드에 빠진 미국·멕시코",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54QjVHMWdibXNiUk9MN1RhaFFhY2Vua2tJa3M2alJxc3c2cmx1Y01Memp4eTViUzJtUGYycnVldTR6Zk9MeXdBd2xtUi1WbW9nTkpOanlYc2JIZw?oc=5",
-          "desc": "",
-          "title_en": "Tacos, traditional spirits… US and Mexico in K-Seafood",
-          "title_ja": "タコス、伝統的なスピリッツ、アメリカとメキシコのKシーフード",
-          "title_zh": "墨西哥玉米饼、传统烈酒……美国和墨西哥的K-Seafood"
         }
       ]
     },
@@ -157,14 +157,6 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
-        {
-          "title": "펫푸드 시장 2.5조로 커졌는데…정부는 ‘수입산 비중’ 파악 못해",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uc2VMWHlpMV9IMXVzUkxCdTFhTEpzQ3IyMkZwcWcwZFdKLWRGVFJzbkNDSTVpUDdEX3ZITVRPTXZwNlJxVFd1Y0h1cmNPb0RoRl9J0gFTQVVfeXFMTm5zZUxYeWkxX0gxdXNSTEJ1MWFMSnNDcjIyRnBxZzBkV0otZEZUUnNuQ0NJNWlQN0RfdkhNVE9NdnA2UnFUV3VjSHVyY09vRGhGX0k?oc=5",
-          "desc": "",
-          "title_en": "The pet food market grew to 2.5 trillion... The government did not know ’the proportion of income'",
-          "title_ja": "ペットフード市場は2.5兆に成長…政府は「収入の割合」を知らなかった",
-          "title_zh": "宠物食品市场增长到2.5万亿……政府不知道“收入占比”"
-        },
         {
           "title": "“고기 구워 먹을 때 꼭 같이 먹어라”…대장암 막는다는 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVDJYbUFUVjdXLS1SdW5WZHN2a1B3UEhMRUFoTmtsWkZOZzdOclI2cHBIZ3g1TTRFSkVEWHdtMEZZbFZ2RmpNWkV2X3R2WDZrMXfSAVNBVV95cUxOYkRvTDJsZXZuZ0R1cmVjakpvNU1iWnJwR0czbGRhYlNUQXcwVkxNUlI4VmRKSWpiQkExRUYza3Z2M0FVLU9lR3FFdzdSbW85eHdacw?oc=5",
@@ -174,12 +166,20 @@
           "title_zh": "“烤肉时一定要吃东西” …… “这种食物可以预防结直肠癌” [健康时间]"
         },
         {
-          "title": "국내 펫푸드 시장 5년만에 70% 성장…수입산 비중은 ‘물음표’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42RllIRGVvYXBGX1FsaVB3d0h4UG1CeXZLU0FPYi1vdVJESGxjSjhMZ1BkaEtpUFRReUl2TmZoSlhFLUVuR0dLU3Y5djhKNWRQc3fSAVNBVV95cUxQaC1OaTFiSW9nZHRDSHBueXBSUUx0RHNjOXZzLWFTTlU5QTVuTVV5WE8wWUFxN2UyZ3ZsVFFwWWZzQTJyYXdERktPT1NkNlM4R0VTZw?oc=5",
+          "title": "펫푸드 시장 2.5조로 커졌는데…정부는 ‘수입산 비중’ 파악 못해",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uc2VMWHlpMV9IMXVzUkxCdTFhTEpzQ3IyMkZwcWcwZFdKLWRGVFJzbkNDSTVpUDdEX3ZITVRPTXZwNlJxVFd1Y0h1cmNPb0RoRl9J0gFTQVVfeXFMTm5zZUxYeWkxX0gxdXNSTEJ1MWFMSnNDcjIyRnBxZzBkV0otZEZUUnNuQ0NJNWlQN0RfdkhNVE9NdnA2UnFUV3VjSHVyY09vRGhGX0k?oc=5",
           "desc": "",
-          "title_en": "Domestic pet food market grew by 70% in 5 years... The proportion of imported products is‘ question mark ’",
-          "title_ja": "国内ペットフード市場は5年間で70 ％成長…輸入品の割合は「疑問符」",
-          "title_zh": "国内宠物食品市场在5年内增长了70 ％......进口产品的比例是“问号”"
+          "title_en": "The pet food market grew to 2.5 trillion... The government did not know ’the proportion of income'",
+          "title_ja": "ペットフード市場は2.5兆に成長…政府は「収入の割合」を知らなかった",
+          "title_zh": "宠物食品市场增长到2.5万亿……政府不知道“收入占比”"
+        },
+        {
+          "title": "맛있어서 자주 먹는데 의사들 “신장 다 망가진다”…경고 나온 ‘이 음식’, 뭐길래? [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRakx3b192NXE1T3dOZzJiMlJpbnd4d0VkQmUzNjNiS3FCd3VoOE1uYmZKNE1FUFpic0sxbHFQaldnLWpRV3NaQW5WSWNnLVNfQUHSAVNBVV95cUxQR09oSHlJTnZWWlR5cUo3TWVxMVJfeldIZlhmejM4NUllSmRIWXZqSS11a2JxYUZfWWYzZHhya2p5dTBzQUpuSTk2Z1lBb1d3UGxQdw?oc=5",
+          "desc": "",
+          "title_en": "I often eat it because it is delicious, but doctors say, “My kidneys are all broken” … ‘This food‘ came out as a warning, what is it? [Health time]",
+          "title_ja": "おいしいのでよく食べますが、医者が「腎臓が全部壊れている」と言います…「この食べ物」は警告として出てきましたが、それは何ですか？【健康時間】",
+          "title_zh": "我经常吃它，因为它很好吃，但医生说， “我的肾脏都坏了” …… ‘这种食物‘出来作为警告，它是什么？ [健康时间]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "한국관광음식문화협회, 관광음식·실버푸드 경연대회 시상식 개최",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kYXhBanhfcU16MnBBcHlZWi1wYUVaYkdpVzhfcWRyNC1VT1l3WDJpQV8zZE4tb1F5MFlBMUZDU19yTURRaEE?oc=5",
+          "desc": "",
+          "title_en": "Korea Tourism Food Culture Association, Awards Ceremony for Tourist Food and Silver Food Contest",
+          "title_ja": "韓国観光食文化協会観光食・銀食コンテスト表彰式",
+          "title_zh": "韩国旅游美食文化协会，旅游美食和白银美食大赛颁奖典礼"
+        },
         {
           "title": "샐러드가게 패스트푸드만큼 늘었다…20대女·30대男이 주고객",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80cGhocWc2T2JNdWgyNlRKNXVvdUkyUF9UeHp6eTdfeG1mU2ZLN2plZ09fOHZfUXdmMEJiM1ZrSnZjRnFiSlRsQjc3WFZIZGFaZ1E?oc=5",
@@ -196,20 +204,12 @@
           "title_zh": "沙拉店和快餐店一样多……一个20多岁的女人和一个30多岁的男人把它作为顾客送给我。"
         },
         {
-          "title": "“한국인들 어차피 몰라”…베트남 직원, 음식에 상한 생선 넣고 조롱 ‘논란’",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yZllsa0dxVGsyWlJkMEFteE9KS0luUHB5Si03cHR2WHhHSHVvYVctNXg2QlFkd0IwS2pteTlYRWo1enNMT1NvbzhETmJ3WDhqT0t6aA?oc=5",
+          "title": "#헝가리음식 (1 Posts)",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGVrWmRlS2xEb09LUDdYRDM5VXlKRU9qNmUtc2k2bjFJRXByendfcE9hYUlSTmc2Z0NpeEtTS2pDU1o5eDNLUTlpQVF1ZlhJZUtwa1JXcmpGa2ZrMlFwYzFfT0liTWlIMmk5ZnE2MllUdGsyOWY0dUs2WTZ3Q1k4VDlUdW1kR3c?oc=5",
           "desc": "",
-          "title_en": "“Koreans don't know it anyway” … Vietnamese employee mocks adding spoiled fish to food ‘Controversy’",
-          "title_ja": "「韓国人はとにかくそれを知らない」…ベトナムの従業員は食べ物に腐った魚を加えることを嘲笑する「論争」",
-          "title_zh": "“韩国人无论如何都不知道” ……越南员工嘲笑在食品中添加变质鱼‘争议’"
-        },
-        {
-          "title": "“요즘 K 붙으면 영 불안한데”…주가 조정받은 뷰티·푸드 대표주들",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yR0RvQlk0bnZPZ1lqc1pIUVpQSzJQMUFBU2t5MUpQaV8zWnd6QWl1Z1VyRUN5VmlhOGUyTUxSaFJ1NENkeDJtbVFvUlg0NENZQnc?oc=5",
-          "desc": "",
-          "title_en": "“I'm very anxious about sticking to K these days” … Representatives of beauty and food whose stock price has been adjusted",
-          "title_ja": "「最近はKに固執するのがとても心配です」…株価が調整された美容と食品の代表者",
-          "title_zh": "“这些天我非常担心坚持K” ……美容和食品的代表，他们的股价已经调整"
+          "title_en": "# Hungarian Food (1 Posts)",
+          "title_ja": "#ハンガリー料理（ 1件の投稿）",
+          "title_zh": "#匈牙利美食（ 1个帖子）"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "“들기름으로 볶았어요”…대상 종가 ‘볶음깍두기’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01aFFYeHlGTmtjcDV0cndBbGZwam5VQjVocVZVb3JFREtjSGllYUh4R3plTFRYcUZIYjZWWU5MdFpCVlNFQmFxSjNNc2tWcFRlaE9sS2N1aw?oc=5",
+          "desc": "",
+          "title_en": "“Stirred with perilla oil” … Target closing price ‘Stir-frying’",
+          "title_ja": "「シソ油炒め」…目標終値「炒め」",
+          "title_zh": "“用紫苏油搅拌” …目标收盘价“炒”"
+        },
         {
           "title": "제철맞은 사과 vs 배, 혈당 관리에 유리한 것은?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QNkhfZnJScGxZa29SVkdBV3BWaFo4eVp5VlJGc3EtOVBVT2tZNlFvbURfbDdBaUhqX2djM2NFLTVlRHlrX2JqLWdJOVlEM0J3d0ppVVJ2aw?oc=5",
@@ -226,20 +234,12 @@
           "title_zh": "季节性管理苹果与梨和血糖有什么优势？"
         },
         {
-          "title": "명절 불고기와 배로 만든다, 환절기 보양식 ‘배꿀찜’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nTnRLaWZaaHJtOHRYS2NPOWd0RTFoOGFNMUlld0c3aEpPOE41S0g3NFRTaXpjVW9jOEZxSF80SmF0UFJJRE1CTkFqblcwVkRiTzZrbkJEbw?oc=5",
+          "title": "완벽한 영양 조합, ‘구운 가지 샌드위치’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1td1ZMVzZteGJjTUN6eWVDLTZ3NF9oQlV2d19yQzZ3a3h1WnhJUzlUWjVwcWZlWFFMVmRPQzBUelA5R3JicnNFRU5HVWIteFpLUzBZb0VlZw?oc=5",
           "desc": "",
-          "title_en": "Make with grilled meat and pears during the holidays, 'stewed pear‘ during the holidays",
-          "title_ja": "休日はグリルした肉と梨、休日は「煮込んだ梨」で作ろう",
-          "title_zh": "在假期用烤肉和梨制作，在假期用“炖梨”制作"
-        },
-        {
-          "title": "이금기, 맛과 영양 잡은 두부 다이어트 제안",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56YlZZbl90am13SER4NEl1RFRwR0xmU0VCRlpjZUFqMUJ4dnJrSE9FYUlKendNdzdreWplTWRuSFd2TnhCZGpQY1pNUG1JVm11WjJxdkdsQQ?oc=5",
-          "desc": "",
-          "title_en": "Suggested Tofu Diet with Taste and Nutrition",
-          "title_ja": "味と栄養のあるおすすめ豆腐ダイエット",
-          "title_zh": "推荐的豆腐饮食与味道和营养"
+          "title_en": "Perfect nutritional combination, grilled eggplant sandwich",
+          "title_ja": "完璧な栄養の組み合わせ、グリルしたナスのサンドイッチ",
+          "title_zh": "完美的营养组合，烤茄子三明治"
         }
       ]
     }
