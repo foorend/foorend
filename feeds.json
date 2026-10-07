@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T19:59:32Z",
+  "lastUpdated": "2026-10-07T00:23:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "13 Very Cool Food Gifts to Buy Before They Sell Out",
-          "link": "https://www.eater.com/shopping/920231/best-cool-food-gifts-that-will-sell-out-limited-edition",
-          "desc": "I’ve always considered fall the true annual reset, if not the soft launch of the upcoming holiday season. I know, I know — we’re still in the month of",
-          "title_ko": "매진되기 전에 구입해야 할 13가지 멋진 음식 선물",
-          "title_ja": "売り切れる前に購入する13の非常にクールな食品ギフト",
-          "title_zh": "13非常酷的食品礼品，在售罄前购买"
-        },
-        {
-          "title": "The Fine Dining Flip",
-          "link": "https://www.eater.com/dining-out/991367/restaurants-flipping-into-more-affordable-restaurants-trend",
-          "desc": "When Chateau Royale opened in New York City last year, it embodied the city’s rising “swankstaurant” moment, in which the saturation of the steakhouse",
-          "title_ko": "파인 다이닝 플립",
-          "title_ja": "高級ダイニングフリップ",
-          "title_zh": "精致餐饮翻盖"
-        },
-        {
           "title": "Chicago’s Muhājir Honors the Spice Route with Flame-Grilled Food From Across the World",
           "link": "https://www.eater.com/video/990933/chicago-muhajir-restaurant-flame-grilled-food-video",
           "desc": "Chefs Zubair Mohajir and Jacob Dela Cruz debuted a new restaurant that explores culinary cultures across Europe, the Middle East, and Southeast Asia t",
           "title_ko": "시카고의 무하지르 (Muhājir), 전 세계에서 불에 구운 음식으로 향신료의 길을 걷다",
           "title_ja": "シカゴのMuhājirは、世界中からの炎焼き料理でスパイスルートを称えます",
           "title_zh": "芝加哥的Muhājir用来自世界各地的火焰烧烤食物来纪念香料之路"
+        },
+        {
+          "title": "The Best Food Advent Calendars of 2026 (Yes, They’re Already Here)",
+          "link": "https://www.eater.com/23943616/best-advent-calendars-to-buy-now-2026-chocolate-tea-jam",
+          "desc": "During the holiday season, most of us are so focused on buying gifts for other people that we don’t spend enough time treating ourselves. An advent ca",
+          "title_ko": "2026년 최고의 음식 강림절 달력 (예, 이미 도착했습니다)",
+          "title_ja": "2026年のベストフードアデントカレンダー（はい、すでにあります）",
+          "title_zh": "2026年最佳食物到来日历（是的，它们已经在这里了）"
+        },
+        {
+          "title": "The 38 Best Restaurants in Mexico City, According to a Local Culinary Guide",
+          "link": "https://www.eater.com/maps/best-mexico-city-restaurants-38",
+          "desc": "The largest city in North America, Mexico City is a unique, elastic, ever-changing patchwork of food traditions. As a native of the city and a food wr",
+          "title_ko": "현지 요리 가이드가 선정한 멕시코시티 최고의 레스토랑 38곳",
+          "title_ja": "地元の料理ガイドが選ぶメキシコシティの人気レストラン38選",
+          "title_zh": "当地烹饪向导推荐的墨西哥城38家最佳餐厅"
         }
       ]
     }
@@ -174,12 +174,12 @@
           "title_zh": "我经常吃它，因为它很好吃，但医生说， “我的肾脏都坏了” …… ‘这种食物‘出来作为警告，它是什么？ [健康时间]"
         },
         {
-          "title": "“아침마다 먹었는데 이럴 줄은”…알츠하이머 위험 무려 52% 높인다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFcGdMV1p4RnZDaGFvU0Nmd2FkejMzRjVxTVFhV1l4ZUROUUJXSG1vaWhnaVVQY0lLU2d1UlEtYzVNVEVsRUpxdV9iV0JOVjZZdmfSAVNBVV95cUxPckgwOFZiUnA4dl92R1VTNTFNT1QydUY2dFFuR0VGVmZ1ZW1ETHlXMTFSblVHWWhab2xrU0RhLXpFUTBIMklacl92VGozeHVCNkp3RQ?oc=5",
+          "title": "“매일 먹다간 위장 다 망가집니다”…의사들이 공복에 절대 안 먹는다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZGoxRGRRQ1ozOGkzS0VBMTI0VlZ0ejViS1NnTFg5QmV1QURDVVNFdnhiX0d5VWRUM3dxRV8ydnNFS1h0bmxQLXhXMHNSMU15b0HSAVNBVV95cUxOXzRPZkpOTDJWT2tsdFpsRHVuZGlTTWxmRmhQQnZDeTRpWFlTLUwyay1tX1BnTHF2NHRMaE9nQ01iQy13ZU5Dck1ENmJBY0g4S3UxMA?oc=5",
           "desc": "",
-          "title_en": "“I ate every morning, but I don't think so” … ‘This food‘ increases the risk of Alzheimer's by 52% [Health Time]",
-          "title_ja": "「私は毎朝食べていますが、そうは思いません」…「この食べ物」はアルツハイマー病のリスクを52 ％増加させます[Health Time]",
-          "title_zh": "“我每天早上都吃东西，但我不这么认为” …… ‘这种食物‘会使阿尔茨海默氏症的风险增加52% [Health Time]"
+          "title_en": "“Every day I eat, my stomach gets ruined” … ‘this food‘ that doctors will never eat on an empty stomach [Health Time]",
+          "title_ja": "「毎日食べると胃が壊れてしまう」…医者が空腹時に決して食べない「この食べ物」【ヘルスタイム】",
+          "title_zh": "“我每天吃东西，我的胃都会被毁掉” ……医生永远不会空腹吃的‘这种食物‘ [健康时间]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "부산국제음식박람회·마리나셰프챌린지 9일 벡스코서 개막",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZURnLWpqcjI2akthMUZLbFhHZDBxTzRRYk5OMm9IUHNrZWNQQmgzQ2hYMWYzRzF5NWRacERzSTZxcTR2UGd3OFllSXU5ZUJFc3c?oc=5",
+          "desc": "",
+          "title_en": "Busan International Food Fair & Marina Chef Challenge Bexcocer Opens on the 9th",
+          "title_ja": "釜山国際フードフェア＆マリーナシェフチャレンジベクスコーサー9日オープン",
+          "title_zh": "釜山国际美食博览会暨滨海厨师挑战赛Bexcocer将于9日开幕"
+        },
         {
           "title": "한국관광음식문화협회, 관광음식·실버푸드 경연대회 시상식 개최",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kYXhBanhfcU16MnBBcHlZWi1wYUVaYkdpVzhfcWRyNC1VT1l3WDJpQV8zZE4tb1F5MFlBMUZDU19yTURRaEE?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Salad shops have increased as much as fast food… A woman in her 20s and a man in her 30s have given it to me as a customer.",
           "title_ja": "サラダショップはファーストフードと同じくらい増えています… 20代の女性と30代の男性が顧客として私にそれを与えました。",
           "title_zh": "沙拉店和快餐店一样多……一个20多岁的女人和一个30多岁的男人把它作为顾客送给我。"
-        },
-        {
-          "title": "더 똑똑해진 ‘인천공항 면세점’ 앱…음식 사전 예약·주문·결제도 ‘뚝딱’",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHTVZQNE1lejc2aEtPbE9fdGdnS2lFWW5iNXlkZVRHSHA5TVR4TFlaMTd2bWprY3Y4Tk9iN29yam1XNlhMMEE?oc=5",
-          "desc": "",
-          "title_en": "Smarter ‘Incheon Airport Duty Free Shop’ app… 'Dok-dok‘ also pre-books, orders, and payments for food",
-          "title_ja": "よりスマートな「仁川空港免税店」アプリ…「Dok - dok」には、料理の事前予約、注文、支払いも含まれています",
-          "title_zh": "更智能的「仁川机场免税店」应用程序…「Dok-dok」还提供餐点预订、订单和付款服务"
         }
       ]
     },
