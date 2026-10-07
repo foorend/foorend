@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T00:23:26Z",
+  "lastUpdated": "2026-10-07T09:55:00Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "甜西红柿不仅回来了，而且还在生长"
         },
         {
-          "title": "McDonald's has another pricing-related headache",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGt5c3RWYWI0YUFYMk9GWW4xOW9HUW5PdFpYTGl6MndMMmw2V3pJcUZPc243OVA1RGY4S0gxU012cmZqdFhDVmlPZjRWLU1aaUhMRHlyTHROTW1tTGRLQ0VJcU5MMFZCWlZsVTNKVFF5XzcwXzVaNE1xSjlSa0Y3WUdLRHpROHhUcWdlVlZscmVxbGFRRExaNQ?oc=5",
+          "title": "The cookie boom, like others before it, proves temporary",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnVIaGhINjB2dDhta3diOWZydVBYMVdpdFNldXFkaUNiaEZveVlfMDRuRWdfT0VZbV9CWFNkT3hBUUdiZF9MRXpTNkd2eF84aG1CR1dMZWlFR0lMWEJNa0xOeGF1SUJCeTRYR21CSGEtYTRjQTlkQWNHX0YzdGNTYW1uOGpxVjdORlRrTGtB?oc=5",
           "desc": "",
-          "title_ko": "맥도날드에는 가격 책정과 관련된 또 다른 골칫거리가 있습니다.",
-          "title_ja": "マクドナルドは別の価格設定関連の頭痛の種を抱えている",
-          "title_zh": "麦当劳还有另一个与定价相关的麻烦"
+          "title_ko": "쿠키 붐은 이전의 다른 쿠키 붐과 마찬가지로 일시적인 것으로 입증됩니다.",
+          "title_ja": "クッキーブームは、それ以前の他のものと同様に、一時的であることが証明されています",
+          "title_zh": "与之前的其他饼干一样，饼干热潮被证明是暂时的"
         }
       ]
     },
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "13 Very Cool Food Gifts to Buy Before They Sell Out",
+          "link": "https://www.eater.com/shopping/920231/best-cool-food-gifts-that-will-sell-out-limited-edition",
+          "desc": "I’ve always considered fall the true annual reset, if not the soft launch of the upcoming holiday season. I know, I know — we’re still in the month of",
+          "title_ko": "매진되기 전에 구입해야 할 13가지 멋진 음식 선물",
+          "title_ja": "売り切れる前に購入する13の非常にクールな食品ギフト",
+          "title_zh": "13非常酷的食品礼品，在售罄前购买"
+        },
+        {
+          "title": "The Fine Dining Flip",
+          "link": "https://www.eater.com/dining-out/991367/restaurants-flipping-into-more-affordable-restaurants-trend",
+          "desc": "When Chateau Royale opened in New York City last year, it embodied the city’s rising “swankstaurant” moment, in which the saturation of the steakhouse",
+          "title_ko": "파인 다이닝 플립",
+          "title_ja": "高級ダイニングフリップ",
+          "title_zh": "精致餐饮翻盖"
+        },
+        {
           "title": "Chicago’s Muhājir Honors the Spice Route with Flame-Grilled Food From Across the World",
           "link": "https://www.eater.com/video/990933/chicago-muhajir-restaurant-flame-grilled-food-video",
           "desc": "Chefs Zubair Mohajir and Jacob Dela Cruz debuted a new restaurant that explores culinary cultures across Europe, the Middle East, and Southeast Asia t",
           "title_ko": "시카고의 무하지르 (Muhājir), 전 세계에서 불에 구운 음식으로 향신료의 길을 걷다",
           "title_ja": "シカゴのMuhājirは、世界中からの炎焼き料理でスパイスルートを称えます",
           "title_zh": "芝加哥的Muhājir用来自世界各地的火焰烧烤食物来纪念香料之路"
-        },
-        {
-          "title": "The Best Food Advent Calendars of 2026 (Yes, They’re Already Here)",
-          "link": "https://www.eater.com/23943616/best-advent-calendars-to-buy-now-2026-chocolate-tea-jam",
-          "desc": "During the holiday season, most of us are so focused on buying gifts for other people that we don’t spend enough time treating ourselves. An advent ca",
-          "title_ko": "2026년 최고의 음식 강림절 달력 (예, 이미 도착했습니다)",
-          "title_ja": "2026年のベストフードアデントカレンダー（はい、すでにあります）",
-          "title_zh": "2026年最佳食物到来日历（是的，它们已经在这里了）"
-        },
-        {
-          "title": "The 38 Best Restaurants in Mexico City, According to a Local Culinary Guide",
-          "link": "https://www.eater.com/maps/best-mexico-city-restaurants-38",
-          "desc": "The largest city in North America, Mexico City is a unique, elastic, ever-changing patchwork of food traditions. As a native of the city and a food wr",
-          "title_ko": "현지 요리 가이드가 선정한 멕시코시티 최고의 레스토랑 38곳",
-          "title_ja": "地元の料理ガイドが選ぶメキシコシティの人気レストラン38選",
-          "title_zh": "当地烹饪向导推荐的墨西哥城38家最佳餐厅"
         }
       ]
     }
@@ -127,6 +127,14 @@
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
       "items": [
+        {
+          "title": "\"매출 칠할이 해외\"…세계 휩쓴 K푸드의 놀라운 저력",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53NmlXVWZsc3gxcVRKYlNHTy1PUWtFVnpUejdSbHRUbEIzalc3cHNJOE1McG5YWlFLZHhkRk5UUjB6WmZ3LUFBRHVZZnoyTDRLR25XX2kzNkNpQQ?oc=5",
+          "desc": "",
+          "title_en": "“Sales Overseas” … The Surprising Power of K-Foods in the World",
+          "title_ja": "「海外販売」…世界のK - Foodsの驚くべき力",
+          "title_zh": "“海外销售” …… K-Foods在世界上的惊人力量"
+        },
         {
           "title": "\"동대문서 먹던 건데\"…외국인들 마트서 쓸어담은 'K푸드' [권용훈의 트렌드워치]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02cEtjelZxVTROMl9OSDdsUEVxdHg3QmRFVVFHTlNmYXcxWUNkbnJ1YXdKTVlBWC13Wm11eW9VSlJXUTV6UzhaWGtsSzVBRkZsRWNELTE1X2dFUQ?oc=5",
@@ -142,14 +150,6 @@
           "title_en": "“I Saw Jabchae at the Squid Game” … K-Food Coming to Korea [Korean Food in the Media by Lee Hye-won]",
           "title_ja": "「イカゲームでジャブチェを見た」… K - Foodが韓国にやってくる【イ・ヘウォンによるメディアでの韓国料理】",
           "title_zh": "“我在鱿鱼游戏中看到了Jabchae” …… K-Food来到韩国[Lee Hye-won的媒体韩国美食]"
-        },
-        {
-          "title": "\"4900원이면 커피에 밥까지\"…직장인 열광한 '가성비 음식' [박상경의 영수증 리뷰]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ETmlqSE9pNUx4Y1BOMHpCaUZRUUFuU0s3VnpsUzBnN25BTHJRTlprQzQ0T01keld3RjVRWkRKVUtlN3VsZXA5Vk5xZ2RnUzF2SlpSNk90eURaQQ?oc=5",
-          "desc": "",
-          "title_en": "\"Coffee and rice for 4900 won\" … 'Cost-effective food' enthusiastic for office workers [Park Sang-kyung's receipt review]",
-          "title_ja": "「4900ウォンのコーヒーとライス」…オフィスワーカーに熱心な「費用対効果の高い食べ物」【パク・サンギョンの領収書レビュー】",
-          "title_zh": "“4900韩元的咖啡和米饭” …… '性价比高的美食'热衷于上班族[Park Sang-kyung的收据审核]"
         }
       ]
     },
@@ -158,20 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“고기 구워 먹을 때 꼭 같이 먹어라”…대장암 막는다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVDJYbUFUVjdXLS1SdW5WZHN2a1B3UEhMRUFoTmtsWkZOZzdOclI2cHBIZ3g1TTRFSkVEWHdtMEZZbFZ2RmpNWkV2X3R2WDZrMXfSAVNBVV95cUxOYkRvTDJsZXZuZ0R1cmVjakpvNU1iWnJwR0czbGRhYlNUQXcwVkxNUlI4VmRKSWpiQkExRUYza3Z2M0FVLU9lR3FFdzdSbW85eHdacw?oc=5",
+          "title": "“스트레이 키즈 효과”…롯데웰푸드, 빼빼로 광고 6일만 1000만 뷰",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PUG4tQlo2d0tPZHBHOXpLVzlTdHlsUVVOaHk3MnhBMEN5Wll6WGhKSVNfaTBCRXpBYmdWZ1IyemlIOC1wQXVOSlNpcVVRdGNmRzI00gFTQVVfeXFMTk9Qbi1CWjZ3S09kcEc5ektXOVN0eWxRVU5oeTcyeEEwQ3laWXpYaEpJU19pMEJFekFiZ1ZnUjJ6aUg4LXBBdU5KU2lxVVF0Y2ZHMjQ?oc=5",
           "desc": "",
-          "title_en": "“Be sure to eat when grilling meat” … ‘This Food to Stop Colorectal Cancer’ [Health Time]",
-          "title_ja": "「肉を焼くときは必ず食べるようにしてください」…「大腸がんを防ぐこの食べ物」【健康タイム】",
-          "title_zh": "“烤肉时一定要吃东西” …… “这种食物可以预防结直肠癌” [健康时间]"
-        },
-        {
-          "title": "맛있어서 자주 먹는데 의사들 “신장 다 망가진다”…경고 나온 ‘이 음식’, 뭐길래? [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRakx3b192NXE1T3dOZzJiMlJpbnd4d0VkQmUzNjNiS3FCd3VoOE1uYmZKNE1FUFpic0sxbHFQaldnLWpRV3NaQW5WSWNnLVNfQUHSAVNBVV95cUxQR09oSHlJTnZWWlR5cUo3TWVxMVJfeldIZlhmejM4NUllSmRIWXZqSS11a2JxYUZfWWYzZHhya2p5dTBzQUpuSTk2Z1lBb1d3UGxQdw?oc=5",
-          "desc": "",
-          "title_en": "I often eat it because it is delicious, but doctors say, “My kidneys are all broken” … ‘This food‘ came out as a warning, what is it? [Health time]",
-          "title_ja": "おいしいのでよく食べますが、医者が「腎臓が全部壊れている」と言います…「この食べ物」は警告として出てきましたが、それは何ですか？【健康時間】",
-          "title_zh": "我经常吃它，因为它很好吃，但医生说， “我的肾脏都坏了” …… ‘这种食物‘出来作为警告，它是什么？ [健康时间]"
+          "title_en": "“Stray Kids Effect” … Lotte Well Food Ads 6 Days 10 Million Views",
+          "title_ja": "「ストレイキッズエフェクト」…ロッテウェルフード広告6日間1,000万回閲覧",
+          "title_zh": "“流浪儿童效应” …乐天Well Food广告6天1000万次浏览"
         },
         {
           "title": "“매일 먹다간 위장 다 망가집니다”…의사들이 공복에 절대 안 먹는다는 ‘이 음식’ [헬시타임]",
@@ -180,6 +172,14 @@
           "title_en": "“Every day I eat, my stomach gets ruined” … ‘this food‘ that doctors will never eat on an empty stomach [Health Time]",
           "title_ja": "「毎日食べると胃が壊れてしまう」…医者が空腹時に決して食べない「この食べ物」【ヘルスタイム】",
           "title_zh": "“我每天吃东西，我的胃都会被毁掉” ……医生永远不会空腹吃的‘这种食物‘ [健康时间]"
+        },
+        {
+          "title": "“고기 구워 먹을 때 꼭 같이 먹어라”…대장암 막는다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVDJYbUFUVjdXLS1SdW5WZHN2a1B3UEhMRUFoTmtsWkZOZzdOclI2cHBIZ3g1TTRFSkVEWHdtMEZZbFZ2RmpNWkV2X3R2WDZrMXfSAVNBVV95cUxOYkRvTDJsZXZuZ0R1cmVjakpvNU1iWnJwR0czbGRhYlNUQXcwVkxNUlI4VmRKSWpiQkExRUYza3Z2M0FVLU9lR3FFdzdSbW85eHdacw?oc=5",
+          "desc": "",
+          "title_en": "“Be sure to eat when grilling meat” … ‘This Food to Stop Colorectal Cancer’ [Health Time]",
+          "title_ja": "「肉を焼くときは必ず食べるようにしてください」…「大腸がんを防ぐこの食べ物」【健康タイム】",
+          "title_zh": "“烤肉时一定要吃东西” …… “这种食物可以预防结直肠癌” [健康时间]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "[게시판] 동원홈푸드, 딜리버리랩과 유통 디지털화 MOU",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ramJCdWJiLW1XRXRQRDZJZWVfQVlpLWhiZnQ3ZnZGYnRQUzdfeGR3aDQ2NUdXZjk1NFJvQUQwcVY4alZWLXdvOEI5OFppczdm?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] Dongwon Home Food, Delivery Lab and Distribution Digitalization MOU",
+          "title_ja": "【掲示板】Dongwon Home Food, Delivery Lab and Distribution Digitalization MOU",
+          "title_zh": "【公告栏】东原家居食品、配送实验室及配送数字化谅解备忘录"
+        },
         {
           "title": "부산국제음식박람회·마리나셰프챌린지 9일 벡스코서 개막",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZURnLWpqcjI2akthMUZLbFhHZDBxTzRRYk5OMm9IUHNrZWNQQmgzQ2hYMWYzRzF5NWRacERzSTZxcTR2UGd3OFllSXU5ZUJFc3c?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Korea Tourism Food Culture Association, Awards Ceremony for Tourist Food and Silver Food Contest",
           "title_ja": "韓国観光食文化協会観光食・銀食コンテスト表彰式",
           "title_zh": "韩国旅游美食文化协会，旅游美食和白银美食大赛颁奖典礼"
-        },
-        {
-          "title": "샐러드가게 패스트푸드만큼 늘었다…20대女·30대男이 주고객",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80cGhocWc2T2JNdWgyNlRKNXVvdUkyUF9UeHp6eTdfeG1mU2ZLN2plZ09fOHZfUXdmMEJiM1ZrSnZjRnFiSlRsQjc3WFZIZGFaZ1E?oc=5",
-          "desc": "",
-          "title_en": "Salad shops have increased as much as fast food… A woman in her 20s and a man in her 30s have given it to me as a customer.",
-          "title_ja": "サラダショップはファーストフードと同じくらい増えています… 20代の女性と30代の男性が顧客として私にそれを与えました。",
-          "title_zh": "沙拉店和快餐店一样多……一个20多岁的女人和一个30多岁的男人把它作为顾客送给我。"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "内陆「江南乐天商店」开业……「布里斯班不放过我」"
         },
         {
-          "title": "완벽한 영양 조합, ‘구운 가지 샌드위치’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1td1ZMVzZteGJjTUN6eWVDLTZ3NF9oQlV2d19yQzZ3a3h1WnhJUzlUWjVwcWZlWFFMVmRPQzBUelA5R3JicnNFRU5HVWIteFpLUzBZb0VlZw?oc=5",
+          "title": "제철맞은 사과 vs 배, 혈당 관리에 유리한 것은?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QNkhfZnJScGxZa29SVkdBV3BWaFo4eVp5VlJGc3EtOVBVT2tZNlFvbURfbDdBaUhqX2djM2NFLTVlRHlrX2JqLWdJOVlEM0J3d0ppVVJ2aw?oc=5",
           "desc": "",
-          "title_en": "Perfect nutritional combination, grilled eggplant sandwich",
-          "title_ja": "完璧な栄養の組み合わせ、グリルしたナスのサンドイッチ",
-          "title_zh": "完美的营养组合，烤茄子三明治"
+          "title_en": "What is the advantage of managing apples vs. pears and blood sugar in season?",
+          "title_ja": "季節にリンゴを管理することと、梨や血糖値を管理することの利点は何ですか？",
+          "title_zh": "季节性管理苹果与梨和血糖有什么优势？"
         }
       ]
     }
