@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T00:44:00Z",
+  "lastUpdated": "2026-10-08T10:06:59Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "饼干帝国开始崩溃"
         },
         {
+          "title": "How a trusted Subway co-op CEO allegedly hid a $200M kickback plot in plain sight",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDVyeXhYbFRLYlNjSkJ0OXhCR3RENGM5V3JTaXVPc0hvLXhIOURnOXdsLTM2Nmc1X0lwQ1JGY3F5NDEyZjh5Rkk0bkJGdmZWWDFpZ284THVKV2hZc19tbVptTTFEOERMVVJiUldUMkcyTXY1MUpacmt6Ym10UTluQWF0aTZROHN6SzhDVHFnLXNIY2lPay13bXNzeGo3cjFtbHhyUTNLNm1LNnk2RmFjdkRuYWswUjEwSzZCag?oc=5",
+          "desc": "",
+          "title_ko": "신뢰할 수 있는 지하철 협동조합 CEO가 평범한 시야에서 $ 200M 킥백 음모를 숨겼다고 주장하는 방법",
+          "title_ja": "信頼できるサブウェイ協同組合のCEOが、2億$のキックバックプロットを隠したとされる方法",
+          "title_zh": "据称，一位值得信赖的地铁合作社首席执行官如何将2亿美元的回扣阴谋隐藏在显而易见的地方"
+        },
+        {
           "title": "Sweet Tomatoes is not only back, it's growing",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3ZXZThmOWoxam5rN0J3ZU9aTnVrVzVmMzFYN2kwOTlyaE9MUUgtUk9PdHVyUEhrbUlOVEdIcml1LTlET1hKeHRkZ2R0WDVrWjBUNWk0MFp1cW95SklvaW4zcGdPaWxnTU53NjFhYm12VWxtWV9qMG56azhkLUdrTGlraUVtWXRUem5FUndCRXl6UQ?oc=5",
           "desc": "",
           "title_ko": "달콤한 토마토가 돌아왔을 뿐만 아니라 자라고 있습니다",
           "title_ja": "スイートトマトは戻ってきただけでなく、成長しています",
           "title_zh": "甜西红柿不仅回来了，而且还在生长"
-        },
-        {
-          "title": "How Del Taco is faring under its new owner",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1Z3bkpVMnFrcm13VjlveHpRalY2clJQWjhKZEJid2NtbDlhVGQzN05QZEx2OGNHTDY3cmJzRW1DTHUzYU53RjVVNEo1ZkltOXN6MjI2V1J4dU9HMEFaRTFBNEQ2SV9iS2JlVEwxOGlhT2ZjNlUyZE9MR1gzOGtqSXJ2RmhnbklSUmZxTG5LaEhnWjdz?oc=5",
-          "desc": "",
-          "title_ko": "Del Taco가 새 소유주 밑에서 싸우는 방법",
-          "title_ja": "新しいオーナーの下でのDel Tacoの状況",
-          "title_zh": "在新主人的带领下， Del Taco的表现如何"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "한글날 100주년…우리말 입은 K패션·푸드",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xM0xTVlZVVF9KSmdRRGtJVWRqSkI0eUFtM29PcWtqb1l6a0Jxakdxd0NlMklmYUItaWNzZmMtWXJCM3lsVmZVSFRoSlZncFdNSlk0UUlwVGR5QQ?oc=5",
+          "desc": "",
+          "title_en": "Hangeul Day 100th Anniversary… K-fashion · food worn by Korean speakers",
+          "title_ja": "ハングルの日100周年… Kファッション・韓国語話者が着る食べ物",
+          "title_zh": "韩文日100周年纪念……韩国时尚·韩语人士的美食"
+        },
+        {
           "title": "\"매출 칠할이 해외\"…세계 휩쓴 K푸드의 놀라운 저력",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53NmlXVWZsc3gxcVRKYlNHTy1PUWtFVnpUejdSbHRUbEIzalc3cHNJOE1McG5YWlFLZHhkRk5UUjB6WmZ3LUFBRHVZZnoyTDRLR25XX2kzNkNpQQ?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "“海外销售” …… K-Foods在世界上的惊人力量"
         },
         {
-          "title": "\"동대문서 먹던 건데\"…외국인들 마트서 쓸어담은 'K푸드' [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02cEtjelZxVTROMl9OSDdsUEVxdHg3QmRFVVFHTlNmYXcxWUNkbnJ1YXdKTVlBWC13Wm11eW9VSlJXUTV6UzhaWGtsSzVBRkZsRWNELTE1X2dFUQ?oc=5",
+          "title": "에쓰푸드, 'SIAL Paris 2026' 참가…JCDM '꼬단면' 혁신 프로그램 선정",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42cHVvczEwX0JXY202XzZlODNxYkh1bDJSRGNVQV9GQVg2b283TEo0T1RiQzZqWnVjNHU0dVZsbDR5eFVVaTdYWnltYmVKMjZNaTlOUG5rUGs2QQ?oc=5",
           "desc": "",
-          "title_en": "\"It used to eat Dongdaemun\" … 'K Food' swept by foreigners in the grocery store [Kwon Yong-hoon's Trendwatch]",
-          "title_ja": "「かつては東大門を食べていた」…食料品店で外国人が掃除した「Kフード」【クォン・ヨンフンのトレンドウォッチ】",
-          "title_zh": "“它曾经吃过东大门” ……杂货店里被外国人扫荡的'K Food'【权永勋的时尚腕表】"
-        },
-        {
-          "title": "\"오징어게임에서 잡채 봤어요\"…K푸드가 한국으로 오는 길 [이혜원의 미디어 속 한식]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbUhHc3VqNzkyX2ZCT0V4ZC0xSHVGRU1wMzBIVFpVY3BVUEIwV1FIeTdsaHpsYlZia3RXRjVhNWFEZGQyZmczTk8tYkcycHZNZndkYWw0MFFlUQ?oc=5",
-          "desc": "",
-          "title_en": "“I Saw Jabchae at the Squid Game” … K-Food Coming to Korea [Korean Food in the Media by Lee Hye-won]",
-          "title_ja": "「イカゲームでジャブチェを見た」… K - Foodが韓国にやってくる【イ・ヘウォンによるメディアでの韓国料理】",
-          "title_zh": "“我在鱿鱼游戏中看到了Jabchae” …… K-Food来到韩国[Lee Hye-won的媒体韩国美食]"
+          "title_en": "Ethfood to Participate in 'SIAL Paris 2026' … JCDM Selects' Cross Section 'Innovation Program",
+          "title_ja": "Ethfood、「SIAL Paris 2026」に参加… JCDM、「Cross Section」イノベーションプログラムを選択",
+          "title_zh": "Ethfood将参加“SIAL Paris 2026” …… JCDM选择“横截面”创新计划"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“流浪儿童效应” …乐天Well Food广告6天1000万次浏览"
         },
         {
-          "title": "“매일 먹다간 위장 다 망가집니다”…의사들이 공복에 절대 안 먹는다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZGoxRGRRQ1ozOGkzS0VBMTI0VlZ0ejViS1NnTFg5QmV1QURDVVNFdnhiX0d5VWRUM3dxRV8ydnNFS1h0bmxQLXhXMHNSMU15b0HSAVNBVV95cUxOXzRPZkpOTDJWT2tsdFpsRHVuZGlTTWxmRmhQQnZDeTRpWFlTLUwyay1tX1BnTHF2NHRMaE9nQ01iQy13ZU5Dck1ENmJBY0g4S3UxMA?oc=5",
-          "desc": "",
-          "title_en": "“Every day I eat, my stomach gets ruined” … ‘this food‘ that doctors will never eat on an empty stomach [Health Time]",
-          "title_ja": "「毎日食べると胃が壊れてしまう」…医者が空腹時に決して食べない「この食べ物」【ヘルスタイム】",
-          "title_zh": "“我每天吃东西，我的胃都会被毁掉” ……医生永远不会空腹吃的‘这种食物‘ [健康时间]"
-        },
-        {
           "title": "“고기 구워 먹을 때 꼭 같이 먹어라”…대장암 막는다는 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVDJYbUFUVjdXLS1SdW5WZHN2a1B3UEhMRUFoTmtsWkZOZzdOclI2cHBIZ3g1TTRFSkVEWHdtMEZZbFZ2RmpNWkV2X3R2WDZrMXfSAVNBVV95cUxOYkRvTDJsZXZuZ0R1cmVjakpvNU1iWnJwR0czbGRhYlNUQXcwVkxNUlI4VmRKSWpiQkExRUYza3Z2M0FVLU9lR3FFdzdSbW85eHdacw?oc=5",
           "desc": "",
           "title_en": "“Be sure to eat when grilling meat” … ‘This Food to Stop Colorectal Cancer’ [Health Time]",
           "title_ja": "「肉を焼くときは必ず食べるようにしてください」…「大腸がんを防ぐこの食べ物」【健康タイム】",
           "title_zh": "“烤肉时一定要吃东西” …… “这种食物可以预防结直肠癌” [健康时间]"
+        },
+        {
+          "title": "“데워 먹으면 괜찮겠지?” 했는데 ‘세균 범벅’…식탁 위 2시간 넘긴 ‘이 음식’, 그냥 먹었다간 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zWDBwMXRpVTBKZFFlQmdGTzFZRURFUTJINUhJOHJyNFNXSmFuRXFydWVnTzJYN1g1azJjX0ZnVGFhVDRtZXJNeXJOU2FOakQ4WkHSAVNBVV95cUxNN0xaemdLMTBOdGlxVVlXMEFhZU9Sc0trWlFXQlZXcHhVd3loLUxEb2dLSnJ3SW1kODdMSWJRdG9zdFFpSnQ1enZ4Vy1CWXZWNVhxUQ?oc=5",
+          "desc": "",
+          "title_en": "“It'll be okay if you warm it up, right?” But ‘germ overflow’ … ’This food’ that's been on the table for more than two hours, if you just ate it [heal time]",
+          "title_ja": "「温めてもらっても大丈夫ですよね？」でも「病原菌が溢れている」… 2時間以上も食卓に置かれている「この食べ物」は、[ヒールタイム]",
+          "title_zh": "“暖暖没关系，对吧？”但‘细菌溢出‘ ……桌子上已经放了两个多小时的’食物’ ，只要你吃了就好了[疗愈时间]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "Kim Young-ok ，他的媳妇牺牲的食物准备“这是一支高素质的劳动力......”"
         },
         {
+          "title": "고양시, 18일 '일산역 먹자골목 음식문화 특화거리 페스타'",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IakxreHg5REpfUW5mMHJveEF0bFlTaVJkUm95eDdjbDBhemVkVTJNa3hJZ1ZoS2JqZTZfUGlaWDBHTHJDRUI2eHkyUU4yeFF3bEE?oc=5",
+          "desc": "",
+          "title_en": "Goyang-si, 'Ilsan Station Food Alley Food Culture Special Street Festa' on the 18th",
+          "title_ja": "高陽市、18日の「一山駅路地食文化特別ストリートフェスタ」",
+          "title_zh": "高阳市， 18日「一山站美食小巷美食文化特色街头盛宴」"
+        },
+        {
           "title": "풀무원푸드앤컬처, 칼국수 전문 브랜드 출시…파주에 1호점",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qOVpTM0J6LXg2dGxRWld5cHJYcjI4R1RPa3RxOXQwVkptUXhUbU9sMFA1bkVyMXFCeTIzT0xvT1RlQ0RFRzVXMXBLSEVoTERwVHc?oc=5",
           "desc": "",
           "title_en": "Pulmuone Food and Culture launches a brand specializing in calguksu… No. 1 store in Paju",
           "title_ja": "Pulmuone Food and Cultureは、PajuのNo.1店舗であるcalguksuを専門とするブランドを立ち上げました",
           "title_zh": "Pulmuone Food and Culture推出Calguksu品牌…坡州第一店"
-        },
-        {
-          "title": "부산국제음식박람회·마리나셰프챌린지 9일 벡스코서 개막",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZURnLWpqcjI2akthMUZLbFhHZDBxTzRRYk5OMm9IUHNrZWNQQmgzQ2hYMWYzRzF5NWRacERzSTZxcTR2UGd3OFllSXU5ZUJFc3c?oc=5",
-          "desc": "",
-          "title_en": "Busan International Food Fair & Marina Chef Challenge Bexcocer Opens on the 9th",
-          "title_ja": "釜山国際フードフェア＆マリーナシェフチャレンジベクスコーサー9日オープン",
-          "title_zh": "釜山国际美食博览会暨滨海厨师挑战赛Bexcocer将于9日开幕"
         }
       ]
     },
