@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T10:06:59Z",
+  "lastUpdated": "2026-10-08T18:31:02Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The 38 Best Restaurants in Tokyo, According to a Local Expert",
+          "link": "https://www.eater.com/maps/best-restaurants-tokyo-japan",
+          "desc": "Restaurants in Tokyo are known for shokunin, the people who focus on a single skill to the point of obsession. These chefs dedicate their lives to the",
+          "title_ko": "현지 전문가가 선정한 도쿄 최고의 레스토랑 38곳",
+          "title_ja": "現地エキスパートによる東京のおすすめレストラン38選",
+          "title_zh": "据当地专家介绍，东京最好的38家餐厅"
+        },
+        {
           "title": "13 Very Cool Food Gifts to Buy Before They Sell Out",
           "link": "https://www.eater.com/shopping/920231/best-cool-food-gifts-that-will-sell-out-limited-edition",
           "desc": "I’ve always considered fall the true annual reset, if not the soft launch of the upcoming holiday season. I know, I know — we’re still in the month of",
@@ -110,14 +118,6 @@
           "title_ko": "파인 다이닝 플립",
           "title_ja": "高級ダイニングフリップ",
           "title_zh": "精致餐饮翻盖"
-        },
-        {
-          "title": "Chicago’s Muhājir Honors the Spice Route with Flame-Grilled Food From Across the World",
-          "link": "https://www.eater.com/video/990933/chicago-muhajir-restaurant-flame-grilled-food-video",
-          "desc": "Chefs Zubair Mohajir and Jacob Dela Cruz debuted a new restaurant that explores culinary cultures across Europe, the Middle East, and Southeast Asia t",
-          "title_ko": "시카고의 무하지르 (Muhājir), 전 세계에서 불에 구운 음식으로 향신료의 길을 걷다",
-          "title_ja": "シカゴのMuhājirは、世界中からの炎焼き料理でスパイスルートを称えます",
-          "title_zh": "芝加哥的Muhājir用来自世界各地的火焰烧烤食物来纪念香料之路"
         }
       ]
     }
@@ -127,14 +127,6 @@
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
       "items": [
-        {
-          "title": "한글날 100주년…우리말 입은 K패션·푸드",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xM0xTVlZVVF9KSmdRRGtJVWRqSkI0eUFtM29PcWtqb1l6a0Jxakdxd0NlMklmYUItaWNzZmMtWXJCM3lsVmZVSFRoSlZncFdNSlk0UUlwVGR5QQ?oc=5",
-          "desc": "",
-          "title_en": "Hangeul Day 100th Anniversary… K-fashion · food worn by Korean speakers",
-          "title_ja": "ハングルの日100周年… Kファッション・韓国語話者が着る食べ物",
-          "title_zh": "韩文日100周年纪念……韩国时尚·韩语人士的美食"
-        },
         {
           "title": "\"매출 칠할이 해외\"…세계 휩쓴 K푸드의 놀라운 저력",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53NmlXVWZsc3gxcVRKYlNHTy1PUWtFVnpUejdSbHRUbEIzalc3cHNJOE1McG5YWlFLZHhkRk5UUjB6WmZ3LUFBRHVZZnoyTDRLR25XX2kzNkNpQQ?oc=5",
@@ -150,6 +142,14 @@
           "title_en": "Ethfood to Participate in 'SIAL Paris 2026' … JCDM Selects' Cross Section 'Innovation Program",
           "title_ja": "Ethfood、「SIAL Paris 2026」に参加… JCDM、「Cross Section」イノベーションプログラムを選択",
           "title_zh": "Ethfood将参加“SIAL Paris 2026” …… JCDM选择“横截面”创新计划"
+        },
+        {
+          "title": "\"동대문서 먹던 건데\"…외국인들 마트서 쓸어담은 'K푸드' [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02cEtjelZxVTROMl9OSDdsUEVxdHg3QmRFVVFHTlNmYXcxWUNkbnJ1YXdKTVlBWC13Wm11eW9VSlJXUTV6UzhaWGtsSzVBRkZsRWNELTE1X2dFUQ?oc=5",
+          "desc": "",
+          "title_en": "\"It used to eat Dongdaemun\" … 'K Food' swept by foreigners in the grocery store [Kwon Yong-hoon's Trendwatch]",
+          "title_ja": "「かつては東大門を食べていた」…食料品店で外国人が掃除した「Kフード」【クォン・ヨンフンのトレンドウォッチ】",
+          "title_zh": "“它曾经吃过东大门” ……杂货店里被外国人扫荡的'K Food'【权永勋的时尚腕表】"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“K푸드 성장 위해선 레시피 표준화 나서야”",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LdmllajZyUC1EZE9OUUxKWm5qZktFUUhHQVhyNUNodkpkZldxWDZNOVdWU3VDTGFlOXRBeW1RQnV3VnlSZ29fcmFsTnVtYjFwTWU00gFTQVVfeXFMTUt2aWVqNnJQLURkT05RTEpabmpmS0VRSEdBWHI1Q2h2SmRmV3FYNk05V1ZTdUNMYWU5dEF5bVFCdXdWeVJnb19yYWxOdW1iMXBNZTQ?oc=5",
+          "desc": "",
+          "title_en": "“In order to grow K-foods, we need to standardize recipes.”",
+          "title_ja": "「Kフードを育てるためには、レシピを標準化する必要があります。」",
+          "title_zh": "“为了种植K-foods ，我们需要标准化食谱。”"
+        },
         {
           "title": "“스트레이 키즈 효과”…롯데웰푸드, 빼빼로 광고 6일만 1000만 뷰",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PUG4tQlo2d0tPZHBHOXpLVzlTdHlsUVVOaHk3MnhBMEN5Wll6WGhKSVNfaTBCRXpBYmdWZ1IyemlIOC1wQXVOSlNpcVVRdGNmRzI00gFTQVVfeXFMTk9Qbi1CWjZ3S09kcEc5ektXOVN0eWxRVU5oeTcyeEEwQ3laWXpYaEpJU19pMEJFekFiZ1ZnUjJ6aUg4LXBBdU5KU2lxVVF0Y2ZHMjQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "“Be sure to eat when grilling meat” … ‘This Food to Stop Colorectal Cancer’ [Health Time]",
           "title_ja": "「肉を焼くときは必ず食べるようにしてください」…「大腸がんを防ぐこの食べ物」【健康タイム】",
           "title_zh": "“烤肉时一定要吃东西” …… “这种食物可以预防结直肠癌” [健康时间]"
-        },
-        {
-          "title": "“데워 먹으면 괜찮겠지?” 했는데 ‘세균 범벅’…식탁 위 2시간 넘긴 ‘이 음식’, 그냥 먹었다간 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zWDBwMXRpVTBKZFFlQmdGTzFZRURFUTJINUhJOHJyNFNXSmFuRXFydWVnTzJYN1g1azJjX0ZnVGFhVDRtZXJNeXJOU2FOakQ4WkHSAVNBVV95cUxNN0xaemdLMTBOdGlxVVlXMEFhZU9Sc0trWlFXQlZXcHhVd3loLUxEb2dLSnJ3SW1kODdMSWJRdG9zdFFpSnQ1enZ4Vy1CWXZWNVhxUQ?oc=5",
-          "desc": "",
-          "title_en": "“It'll be okay if you warm it up, right?” But ‘germ overflow’ … ’This food’ that's been on the table for more than two hours, if you just ate it [heal time]",
-          "title_ja": "「温めてもらっても大丈夫ですよね？」でも「病原菌が溢れている」… 2時間以上も食卓に置かれている「この食べ物」は、[ヒールタイム]",
-          "title_zh": "“暖暖没关系，对吧？”但‘细菌溢出‘ ……桌子上已经放了两个多小时的’食物’ ，只要你吃了就好了[疗愈时间]"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "苏打水，血糖，还有血压？"
         },
         {
-          "title": "아웃백 ‘강남롯데점’ 개장…“브리즈번의 여유 담아”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wX3pVczNRZ2J2NnAyMkFBSkNra3BndWQxQTB6eDFnRVFYZWtLSkZMRUQzVDZobW5FeDFkaTltZDdldWlqT2doUnRoQUZHVnNwZDhaX0ltdw?oc=5",
+          "title": "이금기, 맛과 영양 잡은 두부 다이어트 제안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56YlZZbl90am13SER4NEl1RFRwR0xmU0VCRlpjZUFqMUJ4dnJrSE9FYUlKendNdzdreWplTWRuSFd2TnhCZGpQY1pNUG1JVm11WjJxdkdsQQ?oc=5",
           "desc": "",
-          "title_en": "Outback ‘Gangnam Lotte Store’ Opens... “Brisbane Spares Me”",
-          "title_ja": "アウトバック「江南ロッテ店」オープン…「Brisbane Spares Me」",
-          "title_zh": "内陆「江南乐天商店」开业……「布里斯班不放过我」"
+          "title_en": "Suggested Tofu Diet with Taste and Nutrition",
+          "title_ja": "味と栄養のあるおすすめ豆腐ダイエット",
+          "title_zh": "推荐的豆腐饮食与味道和营养"
         }
       ]
     }
