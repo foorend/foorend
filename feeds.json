@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T18:32:05Z",
+  "lastUpdated": "2026-10-08T00:44:00Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "甜西红柿不仅回来了，而且还在生长"
         },
         {
-          "title": "The cookie boom, like others before it, proves temporary",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnVIaGhINjB2dDhta3diOWZydVBYMVdpdFNldXFkaUNiaEZveVlfMDRuRWdfT0VZbV9CWFNkT3hBUUdiZF9MRXpTNkd2eF84aG1CR1dMZWlFR0lMWEJNa0xOeGF1SUJCeTRYR21CSGEtYTRjQTlkQWNHX0YzdGNTYW1uOGpxVjdORlRrTGtB?oc=5",
+          "title": "How Del Taco is faring under its new owner",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1Z3bkpVMnFrcm13VjlveHpRalY2clJQWjhKZEJid2NtbDlhVGQzN05QZEx2OGNHTDY3cmJzRW1DTHUzYU53RjVVNEo1ZkltOXN6MjI2V1J4dU9HMEFaRTFBNEQ2SV9iS2JlVEwxOGlhT2ZjNlUyZE9MR1gzOGtqSXJ2RmhnbklSUmZxTG5LaEhnWjdz?oc=5",
           "desc": "",
-          "title_ko": "쿠키 붐은 이전의 다른 쿠키 붐과 마찬가지로 일시적인 것으로 입증됩니다.",
-          "title_ja": "クッキーブームは、それ以前の他のものと同様に、一時的であることが証明されています",
-          "title_zh": "与之前的其他饼干一样，饼干热潮被证明是暂时的"
+          "title_ko": "Del Taco가 새 소유주 밑에서 싸우는 방법",
+          "title_ja": "新しいオーナーの下でのDel Tacoの状況",
+          "title_zh": "在新主人的带领下， Del Taco的表现如何"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“流浪儿童效应” …乐天Well Food广告6天1000万次浏览"
         },
         {
-          "title": "“고기 구워 먹을 때 꼭 같이 먹어라”…대장암 막는다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVDJYbUFUVjdXLS1SdW5WZHN2a1B3UEhMRUFoTmtsWkZOZzdOclI2cHBIZ3g1TTRFSkVEWHdtMEZZbFZ2RmpNWkV2X3R2WDZrMXfSAVNBVV95cUxOYkRvTDJsZXZuZ0R1cmVjakpvNU1iWnJwR0czbGRhYlNUQXcwVkxNUlI4VmRKSWpiQkExRUYza3Z2M0FVLU9lR3FFdzdSbW85eHdacw?oc=5",
-          "desc": "",
-          "title_en": "“Be sure to eat when grilling meat” … ‘This Food to Stop Colorectal Cancer’ [Health Time]",
-          "title_ja": "「肉を焼くときは必ず食べるようにしてください」…「大腸がんを防ぐこの食べ物」【健康タイム】",
-          "title_zh": "“烤肉时一定要吃东西” …… “这种食物可以预防结直肠癌” [健康时间]"
-        },
-        {
           "title": "“매일 먹다간 위장 다 망가집니다”…의사들이 공복에 절대 안 먹는다는 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZGoxRGRRQ1ozOGkzS0VBMTI0VlZ0ejViS1NnTFg5QmV1QURDVVNFdnhiX0d5VWRUM3dxRV8ydnNFS1h0bmxQLXhXMHNSMU15b0HSAVNBVV95cUxOXzRPZkpOTDJWT2tsdFpsRHVuZGlTTWxmRmhQQnZDeTRpWFlTLUwyay1tX1BnTHF2NHRMaE9nQ01iQy13ZU5Dck1ENmJBY0g4S3UxMA?oc=5",
           "desc": "",
           "title_en": "“Every day I eat, my stomach gets ruined” … ‘this food‘ that doctors will never eat on an empty stomach [Health Time]",
           "title_ja": "「毎日食べると胃が壊れてしまう」…医者が空腹時に決して食べない「この食べ物」【ヘルスタイム】",
           "title_zh": "“我每天吃东西，我的胃都会被毁掉” ……医生永远不会空腹吃的‘这种食物‘ [健康时间]"
+        },
+        {
+          "title": "“고기 구워 먹을 때 꼭 같이 먹어라”…대장암 막는다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVDJYbUFUVjdXLS1SdW5WZHN2a1B3UEhMRUFoTmtsWkZOZzdOclI2cHBIZ3g1TTRFSkVEWHdtMEZZbFZ2RmpNWkV2X3R2WDZrMXfSAVNBVV95cUxOYkRvTDJsZXZuZ0R1cmVjakpvNU1iWnJwR0czbGRhYlNUQXcwVkxNUlI4VmRKSWpiQkExRUYza3Z2M0FVLU9lR3FFdzdSbW85eHdacw?oc=5",
+          "desc": "",
+          "title_en": "“Be sure to eat when grilling meat” … ‘This Food to Stop Colorectal Cancer’ [Health Time]",
+          "title_ja": "「肉を焼くときは必ず食べるようにしてください」…「大腸がんを防ぐこの食べ物」【健康タイム】",
+          "title_zh": "“烤肉时一定要吃东西” …… “这种食物可以预防结直肠癌” [健康时间]"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "김영옥, 며느리 제사 음식 준비 만류 “고급 인력인데…”",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5WDNFSVBxMUpvck9BTlFCV25icC1iUk9idlBoZ2NUekVaTzI5eHZGYTRvWkk1b0NrY0s3c0t6Zi1qVjJkNERuUW5Sc3RqWGNXVUptWV91djE?oc=5",
+          "desc": "",
+          "title_en": "Kim Young-ok, his daughter-in-law's sacrifice food preparation \"It's a high-quality workforce...\"",
+          "title_ja": "義理の娘であるキム・ヨックの犠牲となった食事の準備「質の高い労働力だ…」",
+          "title_zh": "Kim Young-ok ，他的媳妇牺牲的食物准备“这是一支高素质的劳动力......”"
+        },
+        {
+          "title": "풀무원푸드앤컬처, 칼국수 전문 브랜드 출시…파주에 1호점",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qOVpTM0J6LXg2dGxRWld5cHJYcjI4R1RPa3RxOXQwVkptUXhUbU9sMFA1bkVyMXFCeTIzT0xvT1RlQ0RFRzVXMXBLSEVoTERwVHc?oc=5",
+          "desc": "",
+          "title_en": "Pulmuone Food and Culture launches a brand specializing in calguksu… No. 1 store in Paju",
+          "title_ja": "Pulmuone Food and Cultureは、PajuのNo.1店舗であるcalguksuを専門とするブランドを立ち上げました",
+          "title_zh": "Pulmuone Food and Culture推出Calguksu品牌…坡州第一店"
+        },
+        {
           "title": "부산국제음식박람회·마리나셰프챌린지 9일 벡스코서 개막",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZURnLWpqcjI2akthMUZLbFhHZDBxTzRRYk5OMm9IUHNrZWNQQmgzQ2hYMWYzRzF5NWRacERzSTZxcTR2UGd3OFllSXU5ZUJFc3c?oc=5",
           "desc": "",
           "title_en": "Busan International Food Fair & Marina Chef Challenge Bexcocer Opens on the 9th",
           "title_ja": "釜山国際フードフェア＆マリーナシェフチャレンジベクスコーサー9日オープン",
           "title_zh": "釜山国际美食博览会暨滨海厨师挑战赛Bexcocer将于9日开幕"
-        },
-        {
-          "title": "[게시판] 동원홈푸드, 딜리버리랩과 유통 디지털화 MOU",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ramJCdWJiLW1XRXRQRDZJZWVfQVlpLWhiZnQ3ZnZGYnRQUzdfeGR3aDQ2NUdXZjk1NFJvQUQwcVY4alZWLXdvOEI5OFppczdm?oc=5",
-          "desc": "",
-          "title_en": "[Bulletin Board] Dongwon Home Food, Delivery Lab and Distribution Digitalization MOU",
-          "title_ja": "【掲示板】Dongwon Home Food, Delivery Lab and Distribution Digitalization MOU",
-          "title_zh": "【公告栏】东原家居食品、配送实验室及配送数字化谅解备忘录"
-        },
-        {
-          "title": "한국관광음식문화협회, 관광음식·실버푸드 경연대회 시상식 개최",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kYXhBanhfcU16MnBBcHlZWi1wYUVaYkdpVzhfcWRyNC1VT1l3WDJpQV8zZE4tb1F5MFlBMUZDU19yTURRaEE?oc=5",
-          "desc": "",
-          "title_en": "Korea Tourism Food Culture Association, Awards Ceremony for Tourist Food and Silver Food Contest",
-          "title_ja": "韓国観光食文化協会観光食・銀食コンテスト表彰式",
-          "title_zh": "韩国旅游美食文化协会，旅游美食和白银美食大赛颁奖典礼"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "“用紫苏油搅拌” …目标收盘价“炒”"
         },
         {
+          "title": "탄산음료, 혈당뿐 아니라 혈압도 올린다?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90UjFmbEVDUGJjTnl1VEhuQlpmdUJETktoMmQ5VjlZdHBZNlV5Q2F2YWJVU1ZOM0ltU3pNdHBpM1RpWkRhWGJZd2l4OVZoa0FFNTZYYjhzVQ?oc=5",
+          "desc": "",
+          "title_en": "Soda, blood sugar, as well as blood pressure?",
+          "title_ja": "ソーダ、血糖、血圧は？",
+          "title_zh": "苏打水，血糖，还有血压？"
+        },
+        {
           "title": "아웃백 ‘강남롯데점’ 개장…“브리즈번의 여유 담아”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wX3pVczNRZ2J2NnAyMkFBSkNra3BndWQxQTB6eDFnRVFYZWtLSkZMRUQzVDZobW5FeDFkaTltZDdldWlqT2doUnRoQUZHVnNwZDhaX0ltdw?oc=5",
           "desc": "",
           "title_en": "Outback ‘Gangnam Lotte Store’ Opens... “Brisbane Spares Me”",
           "title_ja": "アウトバック「江南ロッテ店」オープン…「Brisbane Spares Me」",
           "title_zh": "内陆「江南乐天商店」开业……「布里斯班不放过我」"
-        },
-        {
-          "title": "제철맞은 사과 vs 배, 혈당 관리에 유리한 것은?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QNkhfZnJScGxZa29SVkdBV3BWaFo4eVp5VlJGc3EtOVBVT2tZNlFvbURfbDdBaUhqX2djM2NFLTVlRHlrX2JqLWdJOVlEM0J3d0ppVVJ2aw?oc=5",
-          "desc": "",
-          "title_en": "What is the advantage of managing apples vs. pears and blood sugar in season?",
-          "title_ja": "季節にリンゴを管理することと、梨や血糖値を管理することの利点は何ですか？",
-          "title_zh": "季节性管理苹果与梨和血糖有什么优势？"
         }
       ]
     }
