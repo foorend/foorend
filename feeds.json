@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T18:02:31Z",
+  "lastUpdated": "2026-10-10T00:30:08Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "남도장터, 'K-푸드산업진흥원'으로 확대 개편",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NQ2llbnRJWVRWOFJUWE8zRWI4S1QyNWVRbUZ2ZTQ2MGJsYmNqOUJvZHhjdFN0bE1SaUFGdlFNTWVvV0Z4ZmU3d3Y0UnBqeS1IRVE?oc=5",
+          "desc": "",
+          "title_en": "Namdo Market, Expanded to 'K-Food Industry Promotion Agency'",
+          "title_ja": "南堂市場を「K食品産業振興機構」へ拡大",
+          "title_zh": "南岛市场扩展为“K-Food Industry Promotion Agency”"
+        },
+        {
           "title": "'음식부터 공연까지 한류 총망라'…베이징서 K-푸드 페스타 개최",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aOG1aYTkxanpxZWlwVVNTYUgxYnRTWUE5TDYtNGpqRGtGTmpjZ2lJbFo1UGVnbU1YLUo1d0RmWXI1TGlCd25RRDNfZ3ptSnJXSHc?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "“Food delivery motorcycles have increased tremendously” … restaurant sales using the app soared by 20%",
           "title_ja": "「料理の配達用バイクが大幅に増加」…アプリを使用したレストランの売り上げが20%増加",
           "title_zh": "“送餐摩托车大幅增加” ……使用该应用的餐厅销售额飙升了20%"
-        },
-        {
-          "title": "고양시, 18일 '일산역 먹자골목 음식문화 특화거리 페스타'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IakxreHg5REpfUW5mMHJveEF0bFlTaVJkUm95eDdjbDBhemVkVTJNa3hJZ1ZoS2JqZTZfUGlaWDBHTHJDRUI2eHkyUU4yeFF3bEE?oc=5",
-          "desc": "",
-          "title_en": "Goyang-si, 'Ilsan Station Food Alley Food Culture Special Street Festa' on the 18th",
-          "title_ja": "高陽市、18日の「一山駅路地食文化特別ストリートフェスタ」",
-          "title_zh": "高阳市， 18日「一山站美食小巷美食文化特色街头盛宴」"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "“用紫苏油搅拌” …目标收盘价“炒”"
         },
         {
-          "title": "쌀쌀한 날엔 수프 한 그릇… ‘미네스트로네 수프’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZODhYS01oN3luQ3ZCSjNNdHc3cGtzVW5YamR3ZHBpV3VCdU1kZlBVemFIYzAxcGtXTktiRkdLU25ZM1NVTjVaakZFaDZqTmZjY0U1c1pZbw?oc=5",
+          "title": "탄산음료, 혈당뿐 아니라 혈압도 올린다?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90UjFmbEVDUGJjTnl1VEhuQlpmdUJETktoMmQ5VjlZdHBZNlV5Q2F2YWJVU1ZOM0ltU3pNdHBpM1RpWkRhWGJZd2l4OVZoa0FFNTZYYjhzVQ?oc=5",
           "desc": "",
-          "title_en": "On a cold day, a bowl of soup... ‘Minestrone Soup’",
-          "title_ja": "寒い日にはスープを…「ミネストローネスープ」",
-          "title_zh": "在一个寒冷的日子里，一碗汤…… “米内斯龙汤”"
+          "title_en": "Soda, blood sugar, as well as blood pressure?",
+          "title_ja": "ソーダ、血糖、血圧は？",
+          "title_zh": "苏打水，血糖，还有血压？"
         }
       ]
     }
