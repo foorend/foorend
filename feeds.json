@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T09:30:09Z",
+  "lastUpdated": "2026-10-10T17:02:15Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "“海外销售” …… K-Foods在世界上的惊人力量"
         },
         {
-          "title": "\"동대문서 먹던 건데\"…외국인들 마트서 쓸어담은 'K푸드' [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02cEtjelZxVTROMl9OSDdsUEVxdHg3QmRFVVFHTlNmYXcxWUNkbnJ1YXdKTVlBWC13Wm11eW9VSlJXUTV6UzhaWGtsSzVBRkZsRWNELTE1X2dFUQ?oc=5",
+          "title": "\"음식 시켰는데 왜 안 와?\"…쿠팡·쿠팡이츠 한밤 '먹통 사태'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vRGh5SEFWTmFDbE9BRV9jZTdpSloybjdScWJLRjRlZHZXeDFBbkgyal95VjZlRW5Canp2dU1GQlZqWUNPbGRpUGxsaS13M0plYkVRSjluQl83QQ?oc=5",
           "desc": "",
-          "title_en": "\"It used to eat Dongdaemun\" … 'K Food' swept by foreigners in the grocery store [Kwon Yong-hoon's Trendwatch]",
-          "title_ja": "「かつては東大門を食べていた」…食料品店で外国人が掃除した「Kフード」【クォン・ヨンフンのトレンドウォッチ】",
-          "title_zh": "“它曾经吃过东大门” ……杂货店里被外国人扫荡的'K Food'【权永勋的时尚腕表】"
+          "title_en": "\"Why didn't you come when I ordered food?\"... Coupang · Coupangites Midnight 'Food Crisis'",
+          "title_ja": "「私が料理を注文したとき、なぜあなたは来なかったのですか？「…クーパン・クーパンス・ミッドナイト『食糧危機』",
+          "title_zh": "“我点菜的时候，你怎么不来？\"... Coupang · Coupangites午夜'粮食危机'"
         }
       ]
     },
@@ -175,7 +175,7 @@
         },
         {
           "title": "“K푸드 성장 위해선 레시피 표준화 나서야”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LdmllajZyUC1EZE9OUUxKWm5qZktFUUhHQVhyNUNodkpkZldxWDZNOVdWU3VDTGFlOXRBeW1RQnV3VnlSZ29fcmFsTnVtYjFwTWU00gFTQVVfeXFMTUt2aWVqNnJQLURkT05RTEpabmpmS0VRSEdBWHI1Q2h2SmRmV3FYNk05V1ZTdUNMYWU5dEF5bVFCdXdWeVJnb19yYWxOdW1iMXBNZTQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RUURGZWNBN1dMUDRBMmh4YnJrMTU5TklvN25FbkFyR003OGltYTJCeGVqZEJPMzR2T2p5eHp1YVE4RUJfY0dEY2lQMFNIVXpjRXfSAVNBVV95cUxNS3ZpZWo2clAtRGRPTlFMSlpuamZLRVFIR0FYcjVDaHZKZGZXcVg2TTlXVlN1Q0xhZTl0QXltUUJ1d1Z5UmdvX3JhbE51bWIxcE1lNA?oc=5",
           "desc": "",
           "title_en": "“In order to grow K-foods, we need to standardize recipes.”",
           "title_ja": "「Kフードを育てるためには、レシピを標準化する必要があります。」",
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "“10만원어치 먹고 2만원 내면 그만?”…쿠팡이츠 라이더 ‘음식 먹방’ 인증 논란",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85UHpaVDh0TnVMdmFqUWJvQy1YWjJoQnc2eXV1UzRWYXBhN0V4aFd1Zlo2U2w0ZVlrMHUyYnZwV0tLdk1FU0E?oc=5",
+          "desc": "",
+          "title_en": "“If you eat 100,000 won and pay 20,000 won, that's enough?” … Coupangites riders‘ food eating ’certification controversy",
+          "title_ja": "「10万ウォンを食べて2万ウォンを支払えば、それで十分ですか？「… Coupangitesライダーの「食べ物を食べる」認定に関する論争",
+          "title_zh": "“你吃了10万，付了2万，够了吗？“ …… Coupangites骑手‘吃饭’认证争议"
+        },
         {
           "title": "남도장터, 'K-푸드산업진흥원'으로 확대 개편",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NQ2llbnRJWVRWOFJUWE8zRWI4S1QyNWVRbUZ2ZTQ2MGJsYmNqOUJvZHhjdFN0bE1SaUFGdlFNTWVvV0Z4ZmU3d3Y0UnBqeS1IRVE?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "'From food to performances, Hallyu in general' … K-Food Festa held in Beijing",
           "title_ja": "「食べ物からパフォーマンスまで、ハリウ全般」…北京で開催されたK - Food Festa",
           "title_zh": "“从美食到表演， Hallyu一般” ……在北京举行的K-Food Festa"
-        },
-        {
-          "title": "“음식배달 오토바이 엄청 늘었다했더니”…앱 이용 식당 매출 20% 급증",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxOXIwZGNsdHJoTDhXYnkyRGJPQmFWSk15QnAyaUVYdWhpVzU0WDJvVmplV0FvcUpwZklJbFBUcXFaV1NyTXFYa1ZfaUlwOWw5TTRzMHhn?oc=5",
-          "desc": "",
-          "title_en": "“Food delivery motorcycles have increased tremendously” … restaurant sales using the app soared by 20%",
-          "title_ja": "「料理の配達用バイクが大幅に増加」…アプリを使用したレストランの売り上げが20%増加",
-          "title_zh": "“送餐摩托车大幅增加” ……使用该应用的餐厅销售额飙升了20%"
         }
       ]
     },
