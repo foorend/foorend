@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T00:30:08Z",
+  "lastUpdated": "2026-10-10T09:30:09Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "从Tteokbokki到甲壳类面包...... Noh Jaeheon的“K-Food Diplomacy” [中国观察]"
         },
         {
-          "title": "\"음식 시켰는데 왜 안 와?\"…쿠팡·쿠팡이츠 한밤 '먹통 사태'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vRGh5SEFWTmFDbE9BRV9jZTdpSloybjdScWJLRjRlZHZXeDFBbkgyal95VjZlRW5Canp2dU1GQlZqWUNPbGRpUGxsaS13M0plYkVRSjluQl83QQ?oc=5",
-          "desc": "",
-          "title_en": "\"Why didn't you come when I ordered food?\"... Coupang · Coupangites Midnight 'Food Crisis'",
-          "title_ja": "「私が料理を注文したとき、なぜあなたは来なかったのですか？「…クーパン・クーパンス・ミッドナイト『食糧危機』",
-          "title_zh": "“我点菜的时候，你怎么不来？\"... Coupang · Coupangites午夜'粮食危机'"
-        },
-        {
           "title": "\"매출 칠할이 해외\"…세계 휩쓴 K푸드의 놀라운 저력",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53NmlXVWZsc3gxcVRKYlNHTy1PUWtFVnpUejdSbHRUbEIzalc3cHNJOE1McG5YWlFLZHhkRk5UUjB6WmZ3LUFBRHVZZnoyTDRLR25XX2kzNkNpQQ?oc=5",
           "desc": "",
           "title_en": "“Sales Overseas” … The Surprising Power of K-Foods in the World",
           "title_ja": "「海外販売」…世界のK - Foodsの驚くべき力",
           "title_zh": "“海外销售” …… K-Foods在世界上的惊人力量"
+        },
+        {
+          "title": "\"동대문서 먹던 건데\"…외국인들 마트서 쓸어담은 'K푸드' [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02cEtjelZxVTROMl9OSDdsUEVxdHg3QmRFVVFHTlNmYXcxWUNkbnJ1YXdKTVlBWC13Wm11eW9VSlJXUTV6UzhaWGtsSzVBRkZsRWNELTE1X2dFUQ?oc=5",
+          "desc": "",
+          "title_en": "\"It used to eat Dongdaemun\" … 'K Food' swept by foreigners in the grocery store [Kwon Yong-hoon's Trendwatch]",
+          "title_ja": "「かつては東大門を食べていた」…食料品店で外国人が掃除した「Kフード」【クォン・ヨンフンのトレンドウォッチ】",
+          "title_zh": "“它曾经吃过东大门” ……杂货店里被外国人扫荡的'K Food'【权永勋的时尚腕表】"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "김치·비빔밥인 줄 알았는데…美가 꼽은 내년 유망 K푸드는 ‘이것’ [김연하의 킬링이슈]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54YjdqMW5Qbm9Pb3Fyc1dMV1Vka1B2b0xSQ3Y1bE9ZeG1XV0huc1haX3REWjRlWlhFVHFIMXplLXhiSjhzOVdJZml5RzltdTY4b2c?oc=5",
+          "desc": "",
+          "title_en": "I thought it was Kimchi and Bibimbap... Next year's promising K food selected by Beauty is‘ This’ [Kim Yeon-ha's Killing Issue]",
+          "title_ja": "キムチとビビンバだと思ってた…来年のビューティーが選んだ有望なKフードは「これ」【キム・ヨンハのキリングイシュー】",
+          "title_zh": "我以为是泡菜和Bibimbap……明年Beauty挑选的有前途的K食品是‘This’ [Kim Yeon-ha's Killing Issue]"
+        },
         {
           "title": "“한글 써야 진짜 K푸드” 식품업계, 해외서 한글 마케팅",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85amlQY0t6c2cwZlBpY0NwcWMxc0FLTG9UaGJiRWFZNU9BX08xOEhwWWx5WERyRzFGemRUMDR3ZWdsVDQwNTdhYUpVbGlkcHNPa3c?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "“In order to grow K-foods, we need to standardize recipes.”",
           "title_ja": "「Kフードを育てるためには、レシピを標準化する必要があります。」",
           "title_zh": "“为了种植K-foods ，我们需要标准化食谱。”"
-        },
-        {
-          "title": "“고기 구워 먹을 때 꼭 같이 먹어라”…대장암 막는다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVDJYbUFUVjdXLS1SdW5WZHN2a1B3UEhMRUFoTmtsWkZOZzdOclI2cHBIZ3g1TTRFSkVEWHdtMEZZbFZ2RmpNWkV2X3R2WDZrMXfSAVNBVV95cUxOYkRvTDJsZXZuZ0R1cmVjakpvNU1iWnJwR0czbGRhYlNUQXcwVkxNUlI4VmRKSWpiQkExRUYza3Z2M0FVLU9lR3FFdzdSbW85eHdacw?oc=5",
-          "desc": "",
-          "title_en": "“Be sure to eat when grilling meat” … ‘This Food to Stop Colorectal Cancer’ [Health Time]",
-          "title_ja": "「肉を焼くときは必ず食べるようにしてください」…「大腸がんを防ぐこの食べ物」【健康タイム】",
-          "title_zh": "“烤肉时一定要吃东西” …… “这种食物可以预防结直肠癌” [健康时间]"
         }
       ]
     },
