@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-10-11T04:25:59Z",
+  "lastUpdated": "2026-10-11T12:13:41Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "How a trusted Subway co-op CEO allegedly hid a $200M kickback plot in plain sight",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDVyeXhYbFRLYlNjSkJ0OXhCR3RENGM5V3JTaXVPc0hvLXhIOURnOXdsLTM2Nmc1X0lwQ1JGY3F5NDEyZjh5Rkk0bkJGdmZWWDFpZ284THVKV2hZc19tbVptTTFEOERMVVJiUldUMkcyTXY1MUpacmt6Ym10UTluQWF0aTZROHN6SzhDVHFnLXNIY2lPay13bXNzeGo3cjFtbHhyUTNLNm1LNnk2RmFjdkRuYWswUjEwSzZCag?oc=5",
-          "desc": "",
-          "title_ko": "신뢰할 수 있는 지하철 협동조합 CEO가 평범한 시야에서 $ 200M 킥백 음모를 숨겼다고 주장하는 방법",
-          "title_ja": "信頼できるサブウェイ協同組合のCEOが、2億$のキックバックプロットを隠したとされる方法",
-          "title_zh": "据称，一位值得信赖的地铁合作社首席执行官如何将2亿美元的回扣阴谋隐藏在显而易见的地方"
-        },
         {
           "title": "Sweet Tomatoes is not only back, it's growing",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3ZXZThmOWoxam5rN0J3ZU9aTnVrVzVmMzFYN2kwOTlyaE9MUUgtUk9PdHVyUEhrbUlOVEdIcml1LTlET1hKeHRkZ2R0WDVrWjBUNWk0MFp1cW95SklvaW4zcGdPaWxnTU53NjFhYm12VWxtWV9qMG56azhkLUdrTGlraUVtWXRUem5FUndCRXl6UQ?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "쿠키 제국이 무너지기 시작했습니다",
           "title_ja": "クッキー帝国が崩壊し始めています",
           "title_zh": "饼干帝国开始崩溃"
+        },
+        {
+          "title": "The cookie boom, like others before it, proves temporary",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnVIaGhINjB2dDhta3diOWZydVBYMVdpdFNldXFkaUNiaEZveVlfMDRuRWdfT0VZbV9CWFNkT3hBUUdiZF9MRXpTNkd2eF84aG1CR1dMZWlFR0lMWEJNa0xOeGF1SUJCeTRYR21CSGEtYTRjQTlkQWNHX0YzdGNTYW1uOGpxVjdORlRrTGtB?oc=5",
+          "desc": "",
+          "title_ko": "쿠키 붐은 이전의 다른 쿠키 붐과 마찬가지로 일시적인 것으로 입증됩니다.",
+          "title_ja": "クッキーブームは、それ以前の他のものと同様に、一時的であることが証明されています",
+          "title_zh": "与之前的其他饼干一样，饼干热潮被证明是暂时的"
         }
       ]
     },
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "떡볶이부터 붕어빵까지…노재헌의 'K푸드 외교' [차이나 워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmcEtKYjRzYUxRVnNvZG5wU3UxWWFseGxicEEzRjdlRU43a0pDU3dZeHFacmVPMGVpTDFGNlI2NEVqbGtWLUZIbllEU2R0aktzd09tdHZXaUVnQQ?oc=5",
-          "desc": "",
-          "title_en": "From Tteokbokki to Crustacean Bread… Noh Jaeheon's 'K-Food Diplomacy' [China Watch]",
-          "title_ja": "Tteokbokkiから甲殻類のパンまで… Noh Jaeheonの「K - Food Diplomacy」【チャイナウォッチ】",
-          "title_zh": "从Tteokbokki到甲壳类面包...... Noh Jaeheon的“K-Food Diplomacy” [中国观察]"
-        },
-        {
           "title": "\"매출 칠할이 해외\"…세계 휩쓴 K푸드의 놀라운 저력",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53NmlXVWZsc3gxcVRKYlNHTy1PUWtFVnpUejdSbHRUbEIzalc3cHNJOE1McG5YWlFLZHhkRk5UUjB6WmZ3LUFBRHVZZnoyTDRLR25XX2kzNkNpQQ?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "\"It used to eat Dongdaemun\" … 'K Food' swept by foreigners in the grocery store [Kwon Yong-hoon's Trendwatch]",
           "title_ja": "「かつては東大門を食べていた」…食料品店で外国人が掃除した「Kフード」【クォン・ヨンフンのトレンドウォッチ】",
           "title_zh": "“它曾经吃过东大门” ……杂货店里被外国人扫荡的'K Food'【权永勋的时尚腕表】"
+        },
+        {
+          "title": "떡볶이부터 붕어빵까지…노재헌의 'K푸드 외교' [차이나 워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmcEtKYjRzYUxRVnNvZG5wU3UxWWFseGxicEEzRjdlRU43a0pDU3dZeHFacmVPMGVpTDFGNlI2NEVqbGtWLUZIbllEU2R0aktzd09tdHZXaUVnQQ?oc=5",
+          "desc": "",
+          "title_en": "From Tteokbokki to Crustacean Bread… Noh Jaeheon's 'K-Food Diplomacy' [China Watch]",
+          "title_ja": "Tteokbokkiから甲殻類のパンまで… Noh Jaeheonの「K - Food Diplomacy」【チャイナウォッチ】",
+          "title_zh": "从Tteokbokki到甲壳类面包...... Noh Jaeheon的“K-Food Diplomacy” [中国观察]"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "我以为是泡菜和Bibimbap……明年Beauty挑选的有前途的K食品是‘This’ [Kim Yeon-ha's Killing Issue]"
         },
         {
-          "title": "“한글 써야 진짜 K푸드” 식품업계, 해외서 한글 마케팅",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XeDRlWDE4N2owV3lMRkt2X0xYR2FEMmVWWmxMX0NkMExHS0drRjQ2X1V4WWRwM1QxbnZ5WVkxMi1CWmdRZlhoQWdxV3laTjhQRWJ3?oc=5",
+          "title": "“한국인들 즐겨 먹던 음식인데” 내년부터 판매 금지에...개 사육농장 87% 폐업",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Odm0tOW1KSjVVM0Z3M2x2MHplMGk5emtrLWZGZ2M3WHFuSXNXbHF0Wm9YWDJNRE0zNXhack40eXdYbVduOTYtNmZzOVBYTHlkdkHSAVNBVV95cUxQOHlwZmdFdDAxNlduMEk0LU1kX0s1TkJ3UnVwbUtmSzByNENwSWxQZllweUJxY1FqWm1sTWVld2RwMDNYQzEzSVQyUjlzTElFOUtEcw?oc=5",
           "desc": "",
-          "title_en": "“Real K-Food by Korean Writing” Food Industry, Marketing Hangul in Overseas",
-          "title_ja": "「Real K - Food by Korean Writing」食品業界、海外でのマーケティングハングル",
-          "title_zh": "“Real K-Food by Korean Writing”食品行业，海外营销朝鲜文"
+          "title_en": "“It's a favorite food of Koreans” has been banned from sale since next year... 87% of dog breeding farms are closed",
+          "title_ja": "「韓国人のお気に入りの食べ物」は来年から販売が禁止されています...犬の飼育場の87 ％が閉鎖されています",
+          "title_zh": "自明年起， “这是韩国人最喜欢的食物”已被禁止销售…… 87%的狗养殖场已关闭"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "푸드테크부터 K-라면까지 구미의 가을은 맛있다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NZUhBd2tjdmpXNHZ0TW5EUkl5R0FUcHpwVlNJdXo3M0RicDJoRlRWdElHSWVkWmFEalBySWszQXE5cTF5YlE?oc=5",
+          "desc": "",
+          "title_en": "From Food Tech to K-Ramen, Autumn in Gumi is Delicious",
+          "title_ja": "フードテックからKラーメンまで、ぐみの秋は美味しい",
+          "title_zh": "从食品科技到K-Ramen ，秋天的Gumi很美味"
+        },
         {
           "title": "“10만원어치 먹고 2만원 내면 그만?”…쿠팡이츠 라이더 ‘음식 먹방’ 인증 논란",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85UHpaVDh0TnVMdmFqUWJvQy1YWjJoQnc2eXV1UzRWYXBhN0V4aFd1Zlo2U2w0ZVlrMHUyYnZwV0tLdk1FU0E?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Namdo Market, Expanded to 'K-Food Industry Promotion Agency'",
           "title_ja": "南堂市場を「K食品産業振興機構」へ拡大",
           "title_zh": "南岛市场扩展为“K-Food Industry Promotion Agency”"
-        },
-        {
-          "title": "'음식부터 공연까지 한류 총망라'…베이징서 K-푸드 페스타 개최",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aOG1aYTkxanpxZWlwVVNTYUgxYnRTWUE5TDYtNGpqRGtGTmpjZ2lJbFo1UGVnbU1YLUo1d0RmWXI1TGlCd25RRDNfZ3ptSnJXSHc?oc=5",
-          "desc": "",
-          "title_en": "'From food to performances, Hallyu in general' … K-Food Festa held in Beijing",
-          "title_ja": "「食べ物からパフォーマンスまで、ハリウ全般」…北京で開催されたK - Food Festa",
-          "title_zh": "“从美食到表演， Hallyu一般” ……在北京举行的K-Food Festa"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "大邱Makchang Gui Champong...香港景点「Makchang Champong」"
         },
         {
-          "title": "식욕 돋는 가을, 늙은 호박 활용하세요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95WGc1UGZSeHpuVkFmN0w4bDhoYndKbmVWNWZpWXJuOVFrOVg2ZS1DbVVBcEMybXJsalhIYTBoWm5KTENwcEwxaTdWRkVXcGE4alJZeTFadw?oc=5",
+          "title": "일본의 소자이 시장, 4년 연속 최고치 경신",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmZmxpMDFrSkFlT1BMLW9VQWFjT2VRallvQ2pUY2Nlbl9iNGNBTFJSSFVQSFJOZ0FnMXV6aldEcHoxWDZ0YjB6VzFvWEI3RnVrRmU3ZGU1QQ?oc=5",
           "desc": "",
-          "title_en": "Appetizing autumn, use old pumpkins",
-          "title_ja": "食欲をそそる秋、古いかぼちゃを使う",
-          "title_zh": "开胃的秋天，用老南瓜"
+          "title_en": "Japan's Sojai market reaches fourth consecutive high",
+          "title_ja": "日本の総じゃい市場は4年連続の高水準に達する",
+          "title_zh": "日本Sojai市场连续第四年创下新高"
         }
       ]
     }
