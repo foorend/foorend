@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-10-12T10:20:25Z",
+  "lastUpdated": "2026-10-12T20:59:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
+        {
+          "title": "Pie Five Pizza is down to 13 locations",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTZJN3FwUjgtSS11Y3lfSGZRcUVNbW9SYlhyYTJGUEJrUzJlY2o3d0dteGNWd1dOYTd2Vk5ERTVCTVF0UW5DT1FveDdIMHN2dXpnNE5fZHFxcXdDeG5SOTJnNi14VGRySUxDNjJ5RFFISUlIVDZHNGZ2VXpkMTQ5b3JRWV9fUQ?oc=5",
+          "desc": "",
+          "title_ko": "파이 파이브 피자는 13개 지점으로 줄었습니다",
+          "title_ja": "Pie Five Pizzaは13店舗にダウン",
+          "title_zh": "Pie Five Pizza已下调至13家门店"
+        },
         {
           "title": "A cookie empire is starting to crumble",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWlPT0JWM1htbHFJUDBQZldveGFCTy1jMWotdzlwZVdzWHlKU2JZbWpEZkMxM3FCeWlWU0hDMno3MmNEZGQ1NEozZVdrRndVdkw3bXNvbzFtR1dPYU1PM0g1amhfSVJaR0pwaUZfcHNJQUpLbzZScnQ4TS1Ib0RWQ29YQQ?oc=5",
@@ -14,20 +22,12 @@
           "title_zh": "饼干帝国开始崩溃"
         },
         {
-          "title": "The cookie boom, like others before it, proves temporary",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnVIaGhINjB2dDhta3diOWZydVBYMVdpdFNldXFkaUNiaEZveVlfMDRuRWdfT0VZbV9CWFNkT3hBUUdiZF9MRXpTNkd2eF84aG1CR1dMZWlFR0lMWEJNa0xOeGF1SUJCeTRYR21CSGEtYTRjQTlkQWNHX0YzdGNTYW1uOGpxVjdORlRrTGtB?oc=5",
+          "title": "Fundamentals over flash: How Chick-fil-A's CEO plans to win an intensifying chicken battle",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOU04OElrRzJTQndTeGcxWmxwTlU4TWwzSzczZ3lOWHFkY2V1SHZjWlVXdmwxRGlFVklLRERmTUtfSWVYSGRPUnp1UU1EOUJrUlhJbG5yMlhYZ1RUbEtnUWU2RnBGWExlaF92d09hRmxUcmM3cFBXSW9xeFpROC1DeE9wVFpUZ2I4Z1k4eHJrQ1Z6WnF4NENZbWo2X0h1V3lFTW0xZEFRVDRhbmt4UmpVYnQ1bmJmWkl6QkgxV2lFTXM1bmtGTkE?oc=5",
           "desc": "",
-          "title_ko": "쿠키 붐은 이전의 다른 쿠키 붐과 마찬가지로 일시적인 것으로 입증됩니다.",
-          "title_ja": "クッキーブームは、それ以前の他のものと同様に、一時的であることが証明されています",
-          "title_zh": "与之前的其他饼干一样，饼干热潮被证明是暂时的"
-        },
-        {
-          "title": "A look into the problems at Crumbl",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzNjEtQ0J6YzZfa25ITEluSnJIZTZmUjIxSExzdXRuc0pWMF9uR0VzLWhCbUxRNE9PMmdQMnZySndkUHgxSEdNZkNFeXFLcWxzd1FPNXVkRkxwaWpYYWdQWEVURXVvQTBpUjlBc3FUQWw3XzYxWXc?oc=5",
-          "desc": "",
-          "title_ko": "Crumbl의 문제점 살펴보기",
-          "title_ja": "Crumblの問題を調べる",
-          "title_zh": "了解Crumbl的问题"
+          "title_ko": "플래시보다 기초: Chick-fil-A의 CEO가 치열해지는 치킨 배틀에서 승리할 계획인 방법",
+          "title_ja": "フラッシュを超えた基礎： Chick - fil - AのCEOが激化するチキンバトルに勝つことを計画する方法",
+          "title_zh": "Flash的基础知识： Chick-fil-A的首席执行官计划如何赢得一场日益激烈的鸡肉大战"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The 38 Best Restaurants in Rome, According to a Best-Selling Local Cookbook Author",
+          "link": "https://www.eater.com/maps/best-restaurants-rome-italy",
+          "desc": "Roman cuisine is a reflection of the city itself — layered, deeply rooted in tradition, and full of contrasts. After years of eating my way through Ro",
+          "title_ko": "베스트셀러 요리책 저자에 따르면 로마 최고의 레스토랑 38곳",
+          "title_ja": "地元のベストセラー料理本作家によるローマのベストレストラン38選",
+          "title_zh": "畅销本地烹饪书作者评选的罗马38家最佳餐厅"
+        },
+        {
           "title": "The 38 Best Restaurants in Tokyo, According to a Local Expert",
           "link": "https://www.eater.com/maps/best-restaurants-tokyo-japan",
           "desc": "Restaurants in Tokyo are known for shokunin, the people who focus on a single skill to the point of obsession. These chefs dedicate their lives to the",
@@ -110,14 +118,6 @@
           "title_ko": "매진되기 전에 구입해야 할 13가지 멋진 음식 선물",
           "title_ja": "売り切れる前に購入する13の非常にクールな食品ギフト",
           "title_zh": "13非常酷的食品礼品，在售罄前购买"
-        },
-        {
-          "title": "The Fine Dining Flip",
-          "link": "https://www.eater.com/dining-out/991367/restaurants-flipping-into-more-affordable-restaurants-trend",
-          "desc": "When Chateau Royale opened in New York City last year, it embodied the city’s rising “swankstaurant” moment, in which the saturation of the steakhouse",
-          "title_ko": "파인 다이닝 플립",
-          "title_ja": "高級ダイニングフリップ",
-          "title_zh": "精致餐饮翻盖"
         }
       ]
     }
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "마포농수산시장·수서, K푸드·주거 복합시설로",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hVjVwZ0FITzBWQk5PR3lwc0pTU2djT1JqcWltakZHc1RJNWxGbGx3YXRMRVFKaUU1LWZDdkRLVnB1WUdzeWpxSm9nLXd4R0dXS1RHQm9fRUlCZw?oc=5",
-          "desc": "",
-          "title_en": "Mapo Nong Fisheries Market · Suseo, K Food · Residential Complex",
-          "title_ja": "麻浦農水産市場・スセオ、Kフード・複合住宅",
-          "title_zh": "麻浦农渔业市场· Suseo、K Food ·住宅区"
-        },
-        {
-          "title": "‘NS푸드페스타2026익산’ 16일 개막 안유성 셰프 쿠킹쇼부터 서경석 음식문화강연까지 풍성한 즐거움",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LOU13VnBZRzZBTFQ3b3hTMTNxQjRvcEZHWVJzRnFiSEQ3aFZVanNIdGRHZFBKbHR0TVI4aFdOemtscFNfc0EyRjhoWGJXM3ppOEFiVnZjaGtrUQ?oc=5",
-          "desc": "",
-          "title_en": "‘NS Food Festa 2026 Iksan’ Opens on the 16th From the An Yu Sung Chef Cooking Show to Seo Kyung Seok Food Culture Lecture",
-          "title_ja": "「NS Food Festa 2026 Iksan」が16日に開かれますAn Yu Sung Chef Cooking ShowからSeo Kyung Seok Food Culture Lectureまで",
-          "title_zh": "“NS Food Festa 2026 Iksan”于16日开幕，从An Yu Sung厨师烹饪秀到Seo Kyung Seok美食文化讲座"
-        },
-        {
           "title": "\"편의점 음식 자주 먹었는데\"…CU·GS25·세븐일레븐 줄줄이 걸렸다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLT20zbFByVE5Ic3NSRWNoYV9OTDdnU0gzNFI2N01xUTNqSGRQQlpVTTRQMjJLQXVhekQ3VWFaanBERkFUZW5FQ2J6TUJZWGJtRjZfYXhMSUdpdw?oc=5",
           "desc": "",
           "title_en": "\"I used to eat at convenience stores\" … CU · GS25 · 7-Eleven line caught",
           "title_ja": "「以前はコンビニで食べていました」… CU・GS 25・セブンイレブンのラインが引かれました",
           "title_zh": "「我以前在便利店吃饭」…… CU · GS25 · 7-11线"
+        },
+        {
+          "title": "‘NS푸드페스타2026익산’ 16일 개막 안유성 셰프 쿠킹쇼부터 서경석 음식문화강연까지 풍성한 즐거움",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjNob0ZRUGVlUUlBa2U5dlA2YVhoNGZlZkpaSDl0aXMxR3V2Q2RzMVNSMEhDdmdLdFFKU3VFdTBaZHByZ3RRLXBmbWlkbnF5OGFzOEFQc2ttTnh5d25yWnFzTzZGNzJDbXlVemlXVy1RLWI0OGlsSm5iWm9VMzdwaWtaeHV6Szg?oc=5",
+          "desc": "",
+          "title_en": "‘NS Food Festa 2026 Iksan’ Opens on the 16th From the An Yu Sung Chef Cooking Show to Seo Kyung Seok Food Culture Lecture",
+          "title_ja": "「NS Food Festa 2026 Iksan」が16日に開かれますAn Yu Sung Chef Cooking ShowからSeo Kyung Seok Food Culture Lectureまで",
+          "title_zh": "“NS Food Festa 2026 Iksan”于16日开幕，从An Yu Sung厨师烹饪秀到Seo Kyung Seok美食文化讲座"
+        },
+        {
+          "title": "마포농수산시장·수서, K푸드·컬처 복합시설로",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hVjVwZ0FITzBWQk5PR3lwc0pTU2djT1JqcWltakZHc1RJNWxGbGx3YXRMRVFKaUU1LWZDdkRLVnB1WUdzeWpxSm9nLXd4R0dXS1RHQm9fRUlCZw?oc=5",
+          "desc": "",
+          "title_en": "Mapo Nong Fisheries Market · Suseo, K Food · Culture Complex",
+          "title_ja": "麻浦農水産市場・Suseo、Kフード・カルチャーコンプレックス",
+          "title_zh": "麻浦农渔业市场· Suseo ， K美食·文化综合体"
         }
       ]
     },
@@ -167,7 +167,7 @@
         },
         {
           "title": "신세계프라퍼티, 성수동에 ‘스탈릿 푸드라운지’ 조성",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RMDk1Nm9lanhGOURJSzlIdzEyTHNCTl9qeVpYb1V0aGVUTHNKaFloamdNaG03Y0tqT2h5bmlESTYtc2o3UjUyQkZPRTFFMU9BZVVSZDRwcXZ1Z1du0gFTQVVfeXFMTi0zZDdLRXVFaWxFUE9RZU42ZE54VzJoMks0UjU3andjOWdPd25IMnEzVzl1U1QxNjFfUW90R1lpcVh1Mmxqd3k3aVpDQlFCa1hFLUE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tM2Q3S0V1RWlsRVBPUWVONmROeFcyaDJLNFI1N2p3YzlnT3duSDJxM1c5dVNUMTYxX1FvdEdZaXFYdTJsand5N2laQ0JRQmtYRS1B0gFTQVVfeXFMTi0zZDdLRXVFaWxFUE9RZU42ZE54VzJoMks0UjU3andjOWdPd25IMnEzVzl1U1QxNjFfUW90R1lpcVh1Mmxqd3k3aVpDQlFCa1hFLUE?oc=5",
           "desc": "",
           "title_en": "Shinsegae Properly Creates' Starlet Food Lounge ’in Seongsu-dong",
           "title_ja": "城津洞に「スターレットフードラウンジ」をしっかりつくる新世界",
@@ -196,20 +196,20 @@
           "title_zh": "“品尝洁净的济南高原” …济南高原美食节24日开幕"
         },
         {
-          "title": "푸드테크부터 K-라면까지 구미의 가을은 맛있다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NZUhBd2tjdmpXNHZ0TW5EUkl5R0FUcHpwVlNJdXo3M0RicDJoRlRWdElHSWVkWmFEalBySWszQXE5cTF5YlE?oc=5",
-          "desc": "",
-          "title_en": "From Food Tech to K-Ramen, Autumn in Gumi is Delicious",
-          "title_ja": "フードテックからKラーメンまで、ぐみの秋は美味しい",
-          "title_zh": "从食品科技到K-Ramen ，秋天的Gumi很美味"
-        },
-        {
           "title": "삼성서울병원·웰스토리, 암 환자용 '고밀도 케어푸드' 개발",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80bm1uZkJMNUpiSEN2UnNsdUVZYWRscV9TZ3kzWjl2WkdPTHBQLVNMOERvTkVfS05JX1M4VzdtTklZc01wSGtZSW5lNmpyYXhHR0E?oc=5",
           "desc": "",
           "title_en": "Samsung Medical Center and Well Story develop 'high-density care food' for cancer patients",
           "title_ja": "サムスンメディカルセンターとWell Story、がん患者のための「高密度ケアフード」を開発",
           "title_zh": "三星医疗中心和Well Story为癌症患者开发“高密度护理食品”"
+        },
+        {
+          "title": "롯데웰푸드(주) (정정)신규시설투자등",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTTMxY1p0WTg5SnZtRVVUa2o4Y21nQUNza0YwZC0tYXVkXzZJNUFWeTBLMUFPemNvVFIxZjNydThaM2VyVWN0SWNJVVhqU3I2MXFVTmFxUHhabDQ?oc=5",
+          "desc": "",
+          "title_en": "Lotte Well Food Co., Ltd. (correction) New facility investment, etc.",
+          "title_ja": "ロッテウェルフード株式会社（訂正）新施設投資等",
+          "title_zh": "乐天威尔食品有限公司（更正）新设施投资等"
         }
       ]
     },
