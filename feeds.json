@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-10-12T00:15:02Z",
+  "lastUpdated": "2026-10-12T10:20:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Sweet Tomatoes is not only back, it's growing",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3ZXZThmOWoxam5rN0J3ZU9aTnVrVzVmMzFYN2kwOTlyaE9MUUgtUk9PdHVyUEhrbUlOVEdIcml1LTlET1hKeHRkZ2R0WDVrWjBUNWk0MFp1cW95SklvaW4zcGdPaWxnTU53NjFhYm12VWxtWV9qMG56azhkLUdrTGlraUVtWXRUem5FUndCRXl6UQ?oc=5",
-          "desc": "",
-          "title_ko": "달콤한 토마토가 돌아왔을 뿐만 아니라 자라고 있습니다",
-          "title_ja": "スイートトマトは戻ってきただけでなく、成長しています",
-          "title_zh": "甜西红柿不仅回来了，而且还在生长"
-        },
         {
           "title": "A cookie empire is starting to crumble",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWlPT0JWM1htbHFJUDBQZldveGFCTy1jMWotdzlwZVdzWHlKU2JZbWpEZkMxM3FCeWlWU0hDMno3MmNEZGQ1NEozZVdrRndVdkw3bXNvbzFtR1dPYU1PM0g1amhfSVJaR0pwaUZfcHNJQUpLbzZScnQ4TS1Ib0RWQ29YQQ?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "쿠키 붐은 이전의 다른 쿠키 붐과 마찬가지로 일시적인 것으로 입증됩니다.",
           "title_ja": "クッキーブームは、それ以前の他のものと同様に、一時的であることが証明されています",
           "title_zh": "与之前的其他饼干一样，饼干热潮被证明是暂时的"
+        },
+        {
+          "title": "A look into the problems at Crumbl",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzNjEtQ0J6YzZfa25ITEluSnJIZTZmUjIxSExzdXRuc0pWMF9uR0VzLWhCbUxRNE9PMmdQMnZySndkUHgxSEdNZkNFeXFLcWxzd1FPNXVkRkxwaWpYYWdQWEVURXVvQTBpUjlBc3FUQWw3XzYxWXc?oc=5",
+          "desc": "",
+          "title_ko": "Crumbl의 문제점 살펴보기",
+          "title_ja": "Crumblの問題を調べる",
+          "title_zh": "了解Crumbl的问题"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "마포농수산시장·수서, K푸드·주거 복합시설로",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hVjVwZ0FITzBWQk5PR3lwc0pTU2djT1JqcWltakZHc1RJNWxGbGx3YXRMRVFKaUU1LWZDdkRLVnB1WUdzeWpxSm9nLXd4R0dXS1RHQm9fRUlCZw?oc=5",
+          "desc": "",
+          "title_en": "Mapo Nong Fisheries Market · Suseo, K Food · Residential Complex",
+          "title_ja": "麻浦農水産市場・スセオ、Kフード・複合住宅",
+          "title_zh": "麻浦农渔业市场· Suseo、K Food ·住宅区"
+        },
+        {
           "title": "‘NS푸드페스타2026익산’ 16일 개막 안유성 셰프 쿠킹쇼부터 서경석 음식문화강연까지 풍성한 즐거움",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LOU13VnBZRzZBTFQ3b3hTMTNxQjRvcEZHWVJzRnFiSEQ3aFZVanNIdGRHZFBKbHR0TVI4aFdOemtscFNfc0EyRjhoWGJXM3ppOEFiVnZjaGtrUQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "\"I used to eat at convenience stores\" … CU · GS25 · 7-Eleven line caught",
           "title_ja": "「以前はコンビニで食べていました」… CU・GS 25・セブンイレブンのラインが引かれました",
           "title_zh": "「我以前在便利店吃饭」…… CU · GS25 · 7-11线"
-        },
-        {
-          "title": "\"이걸 호텔방서 시켜 먹는다고?\"…외국인들 푹 빠진 한국 음식 [트렌드+]",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44LUdfZ09aWThIZGZMcmR0RXVjZWVBaV93S3RvSGFBSXM4b2xhZkV4QzZldG5sY2lULWQ5a1dzclphc3ozY0JsOGx0Q0NqM1hYYlpiWm41b2RCUjkxM3NvQVlYa3pXUm9QTjJpTTRPZEZZNmUtM1BaS3pXM3ZxaFk?oc=5",
-          "desc": "",
-          "title_en": "\"You're ordering this from a hotel room?\" … Korean food with a passion for foreigners [Trend +]",
-          "title_ja": "「これをホテルの部屋に注文しているのですか？「…外国人に情熱を注ぐ韓国料理[トレンド+]",
-          "title_zh": "“你从酒店房间订的？「……对外国人充满热情的韩国美食[趋势+]"
         }
       ]
     },
@@ -158,12 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "[人터뷰+] “한식의 진짜 매력은 건강한 식문화…‘자극적 음식’ 오해 풀 것”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVNENvUUNZN3Q4eVFxS25wc1I1Qy1NQWVrM01pRG05c3lhRVpINlpPbThuelJMQVBNUWhNamlwUWR2VVFBQ3RzUW55NzhDeFBWc21r0gFTQVVfeXFMUFU0Q29RQ1k3dDh5UXFLbnBzUjVDLU1BZWszTWlEbTlzeWFFWkg2Wk9tOG56UkxBUE1RaE1qaXBRZHZVUUFDdHNRbnk3OEN4UFZzbWs?oc=5",
+          "title": "신세계프라퍼티, 성수동에 ‘스탈릿 푸드라운지’ 조성",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XRDZZWHpaeVRhVl9FV3RGZjYxZmRyY09pWVYtQ0Z4Q1NPeXdPdTVLSEdWY2VIdWtEd2Z6cjNqeG4wOTlyNU5HQ0VEUlFaTlg0cUHSAVNBVV95cUxOLTNkN0tFdUVpbEVQT1FlTjZkTnhXMmgySzRSNTdqd2M5Z093bkgycTNXOXVTVDE2MV9Rb3RHWWlxWHUybGp3eTdpWkNCUUJrWEUtQQ?oc=5",
           "desc": "",
-          "title_en": "[In-Tubu +] “The real charm of Korean food is healthy food culture… Solve the ‘stimulating food’ misconception”",
-          "title_ja": "[In - Tubu +]「韓国料理の本当の魅力は健康的な食文化です…『刺激的な食べ物』の誤解を解決してください」",
-          "title_zh": "[In-Tubu +] “韩国美食的真正魅力在于健康的饮食文化……解决‘刺激性美食’的误解”"
+          "title_en": "Shinsegae Properly Creates' Starlet Food Lounge ’in Seongsu-dong",
+          "title_ja": "城津洞に「スターレットフードラウンジ」をしっかりつくる新世界",
+          "title_zh": "Shinsegae在城水洞（ Seongsu-dong ）精心打造的「Starlet美食休息室」"
+        },
+        {
+          "title": "신세계프라퍼티, 성수동에 ‘스탈릿 푸드라운지’ 조성",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RMDk1Nm9lanhGOURJSzlIdzEyTHNCTl9qeVpYb1V0aGVUTHNKaFloamdNaG03Y0tqT2h5bmlESTYtc2o3UjUyQkZPRTFFMU9BZVVSZDRwcXZ1Z1du0gFTQVVfeXFMTi0zZDdLRXVFaWxFUE9RZU42ZE54VzJoMks0UjU3andjOWdPd25IMnEzVzl1U1QxNjFfUW90R1lpcVh1Mmxqd3k3aVpDQlFCa1hFLUE?oc=5",
+          "desc": "",
+          "title_en": "Shinsegae Properly Creates' Starlet Food Lounge ’in Seongsu-dong",
+          "title_ja": "城津洞に「スターレットフードラウンジ」をしっかりつくる新世界",
+          "title_zh": "Shinsegae在城水洞（ Seongsu-dong ）精心打造的「Starlet美食休息室」"
         },
         {
           "title": "“한국인들 즐겨 먹던 음식인데” 내년부터 판매 금지에...개 사육농장 87% 폐업",
@@ -172,14 +180,6 @@
           "title_en": "“It's a favorite food of Koreans” has been banned from sale since next year... 87% of dog breeding farms are closed",
           "title_ja": "「韓国人のお気に入りの食べ物」は来年から販売が禁止されています...犬の飼育場の87 ％が閉鎖されています",
           "title_zh": "自明年起， “这是韩国人最喜欢的食物”已被禁止销售…… 87%的狗养殖场已关闭"
-        },
-        {
-          "title": "김치·비빔밥인 줄 알았는데…美가 꼽은 내년 유망 K푸드는 ‘이것’ [김연하의 킬링이슈]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9odWMyWFpEanRmR01WWEdYNHVCbzlnQXR6a096clk0bVFFYmxzNmtaZloyeHlTR243VksyZ3BsZm9OeFRIUmtXdEh2eTY5alM5LVhn0gFTQVVfeXFMT2h1YzJYWkRqdGZHTVZYR1g0dUJvOWdBdHprT3pyWTRtUUVibHM2a1pmWjJ4eVNHbjdWSzJncGxmb054VEhSa1d0SHZ5NjlqUzktWGc?oc=5",
-          "desc": "",
-          "title_en": "I thought it was Kimchi and Bibimbap... Next year's promising K food selected by Beauty is‘ This’ [Kim Yeon-ha's Killing Issue]",
-          "title_ja": "キムチとビビンバだと思ってた…来年のビューティーが選んだ有望なKフードは「これ」【キム・ヨンハのキリングイシュー】",
-          "title_zh": "我以为是泡菜和Bibimbap……明年Beauty挑选的有前途的K食品是‘This’ [Kim Yeon-ha's Killing Issue]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "\"청정 진안고원 맛본다\"…진안고원푸드페스타 24일 개막",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lalV3SU9tWmE0WnZPTV9PcklRMU1ZTGxwWllGdzZIamlHZkd2MGU0eTFCMDl5YkFUXzdIbV9NRmg4WFowcl9sekE1dXdSVFp3a3c?oc=5",
+          "desc": "",
+          "title_en": "“Taste the clean Jinan Highlands” … Jinan Highland Food Festa Opens on the 24th",
+          "title_ja": "「清潔な済南高原を味わう」…済南高原フードフェスタ24日オープン",
+          "title_zh": "“品尝洁净的济南高原” …济南高原美食节24日开幕"
+        },
         {
           "title": "푸드테크부터 K-라면까지 구미의 가을은 맛있다",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NZUhBd2tjdmpXNHZ0TW5EUkl5R0FUcHpwVlNJdXo3M0RicDJoRlRWdElHSWVkWmFEalBySWszQXE5cTF5YlE?oc=5",
@@ -196,20 +204,12 @@
           "title_zh": "从食品科技到K-Ramen ，秋天的Gumi很美味"
         },
         {
-          "title": "“10만원어치 먹고 2만원 내면 그만?”…쿠팡이츠 라이더 ‘음식 먹방’ 인증 논란",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85UHpaVDh0TnVMdmFqUWJvQy1YWjJoQnc2eXV1UzRWYXBhN0V4aFd1Zlo2U2w0ZVlrMHUyYnZwV0tLdk1FU0E?oc=5",
+          "title": "삼성서울병원·웰스토리, 암 환자용 '고밀도 케어푸드' 개발",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80bm1uZkJMNUpiSEN2UnNsdUVZYWRscV9TZ3kzWjl2WkdPTHBQLVNMOERvTkVfS05JX1M4VzdtTklZc01wSGtZSW5lNmpyYXhHR0E?oc=5",
           "desc": "",
-          "title_en": "“If you eat 100,000 won and pay 20,000 won, that's enough?” … Coupangites riders‘ food eating ’certification controversy",
-          "title_ja": "「10万ウォンを食べて2万ウォンを支払えば、それで十分ですか？「… Coupangitesライダーの「食べ物を食べる」認定に関する論争",
-          "title_zh": "“你吃了10万，付了2万，够了吗？“ …… Coupangites骑手‘吃饭’认证争议"
-        },
-        {
-          "title": "롯데웰푸드(주) (정정)신규시설투자등",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTTMxY1p0WTg5SnZtRVVUa2o4Y21nQUNza0YwZC0tYXVkXzZJNUFWeTBLMUFPemNvVFIxZjNydThaM2VyVWN0SWNJVVhqU3I2MXFVTmFxUHhabDQ?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Co., Ltd. (correction) New facility investment, etc.",
-          "title_ja": "ロッテウェルフード株式会社（訂正）新施設投資等",
-          "title_zh": "乐天威尔食品有限公司（更正）新设施投资等"
+          "title_en": "Samsung Medical Center and Well Story develop 'high-density care food' for cancer patients",
+          "title_ja": "サムスンメディカルセンターとWell Story、がん患者のための「高密度ケアフード」を開発",
+          "title_zh": "三星医疗中心和Well Story为癌症患者开发“高密度护理食品”"
         }
       ]
     },
