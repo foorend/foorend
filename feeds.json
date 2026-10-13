@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T10:10:52Z",
+  "lastUpdated": "2026-10-13T18:57:21Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,28 +36,28 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
-          "title": "World's Largest Burger Costs $8,000",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qaFZFYXg5RlJaT3B6RTlhR2ZseXRENGhYNF9YbHg0U0NkdDE2SzhRUURpa3Z6ZlZORU51QkJTWW9ERHVZaUlYd2VOT0F2RC1NZmUtdTVlUGFQQjV0UU01S1pqN0Y?oc=5",
+          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
-          "title_ko": "세계에서 가장 큰 햄버거 비용 $ 8,000",
-          "title_ja": "世界最大のハンバーガーの価格は$ 8,000",
-          "title_zh": "全球最大的汉堡售价为$ 8,000"
+          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
+          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
         },
         {
-          "title": "The Glenlivet's 'Capsule Collection' Is Sort of Like Gushers but Whisky",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QWnNBRjFpNG5BYkZ6ejl6NFlBWllxQlBZRUhQNU5mdEY3T1JKb2c2aDNuV0FfMFlibWVqUTlTV2FlcHhtNTdmdjlzWXBLVmdkYldpQTVIZTFKNGFMTmdYaV9KRlA5N25XQ29INDNR?oc=5",
+          "title": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOENiSW9IR2xIaG9BNkhpYnhEWTNmNVQ1VEhkXzh4a2Z3bWZ5a1UwSDY1Q1RUU0pPZUV2WDZBazJHSUNnTVNuWE02VlZLYVY0RTNGWVpmVl9PWjVrYUpNLXBrM0JMMWlrblZVanlYWEhzdFBycVp6Sml4R2NrTTd0MTJtejNZZw?oc=5",
           "desc": "",
-          "title_ko": "글렌리벳의 '캡슐 컬렉션' 은 거셔와 비슷하지만 위스키입니다.",
-          "title_ja": "グレンリベットの「カプセルコレクション」はガッシャーのようなものですが、ウィスキーのようなものです",
-          "title_zh": "Glenlivet的“胶囊系列”有点像Gushers威士忌"
+          "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
+          "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
+          "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
         },
         {
-          "title": "Barbara Kingsolver Makes Homemade Mozzarella",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ycl9IVUNTRXYxZS1waUl0eFVjRDRJcl9XZ0RQLTY1Yk1tRDZLbFd6LUF4V216amtfc21USjd5VFBIYWlEVG5kaGRYaERUNUYzUFpfbDBn?oc=5",
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
           "desc": "",
-          "title_ko": "바바라 킹솔버가 만드는 홈메이드 모짜렐라",
-          "title_ja": "Barbara Kingsolverが自家製モッツァレラチーズを作ろう",
-          "title_zh": "Barbara Kingsolver制作自制马苏里拉奶酪"
+          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
+          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
+          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "현대그린푸드, 식품업계 첫 ‘임직원 고령가족 돌봄 지원’ 나선다",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHpIWkFFX3c5dFJ1Ym1MSDR3RVQ4QmRsdGFvbzZ6eHl0OEx2ZTRBZUd0WUVzVnUwWlNzZVJ5d05Sa2xlMW1EeW5lQTktRlNvWGJRRUZvLTJiS0tlTHNnZ21nQk41ZUxZUGNUS3lsbDc5UEFoV0d1OVpSX1U0WVlFdE9jWFJURzA?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Food, the first in the food industry, will support ‘caring for senior employees and families’",
+          "title_ja": "食品業界初のヒュンダイグリーンフードは、「シニア従業員と家族の世話」をサポートします",
+          "title_zh": "食品行业第一家现代绿色食品将支持“关爱高级员工和家庭”"
+        },
+        {
           "title": "K뷰티·푸드 인기에 '쑥쑥'…수출액, 10년 만에 4.2배",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tc2Z2OFROSGlGUzBYSFAwQnpsVFJfRUFaYTZqWnJXZmtUZkd5SGZsZjdOdm5XTXB5WGtCTUVad0xmMkRNSXpTcFJ0bVk3ek84aVI3eThlNHNldw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "“I take care of my parents and grandparents” … Hyundai Green Food, the first care support in the food industry",
           "title_ja": "「私は両親と祖父母の世話をします」…食品業界で最初のケアサポートである現代グリーンフード",
           "title_zh": "“我照顾我的父母和祖父母” ……现代绿色食品，食品行业的首个护理支持"
-        },
-        {
-          "title": "‘NS푸드페스타2026익산’ 16일 개막 안유성 셰프 쿠킹쇼부터 서경석 음식문화강연까지 풍성한 즐거움",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjNob0ZRUGVlUUlBa2U5dlA2YVhoNGZlZkpaSDl0aXMxR3V2Q2RzMVNSMEhDdmdLdFFKU3VFdTBaZHByZ3RRLXBmbWlkbnF5OGFzOEFQc2ttTnh5d25yWnFzTzZGNzJDbXlVemlXVy1RLWI0OGlsSm5iWm9VMzdwaWtaeHV6Szg?oc=5",
-          "desc": "",
-          "title_en": "‘NS Food Festa 2026 Iksan’ Opens on the 16th From the An Yu Sung Chef Cooking Show to Seo Kyung Seok Food Culture Lecture",
-          "title_ja": "「NS Food Festa 2026 Iksan」が16日に開かれますAn Yu Sung Chef Cooking ShowからSeo Kyung Seok Food Culture Lectureまで",
-          "title_zh": "“NS Food Festa 2026 Iksan”于16日开幕，从An Yu Sung厨师烹饪秀到Seo Kyung Seok美食文化讲座"
         }
       ]
     },
@@ -218,20 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "나에게 맞는 장 관리…일본의 ‘장활’ 시장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZRWRrc1lteklZU01ZMUY0T3Zsa1lpX2lsVWNzV2lXb3F4Q1JaTUtVM1lhT0VhRFVYMkM5TnJWc1NldEJCS09aTFgxYnVlUGIwUjZXenc2UQ?oc=5",
+          "title": "풀무원, 소노펫과 반려견을 위한 캠페인 전개",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SSDZEMUxuOXI0d2YzazJXZ2FpNzJOLWMwVlp0NXl1Qm9wT05aVXV5ZHJxUnZ0QWlMTEYwLXozQlZrVTRhOFMwaXYtbDRSX3BNNzljWEIxdw?oc=5",
           "desc": "",
-          "title_en": "Managing the right chapter for you… Japan's ‘Long Life’ Market",
-          "title_ja": "あなたにぴったりのチャプターを管理する…日本の「長寿命」市場",
-          "title_zh": "为您管理合适的章节……日本的“长寿”市场"
-        },
-        {
-          "title": "대구 막창구이를 짬뽕에…홍콩반점 ‘막창짬뽕’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9McUhlUUpRYWlZUkxXTGk4NG9lTnFiOHNYdzFjeDdGRjcwM2ZSUnQ2YzNOVmVCYUE1M3gxN3ZCWjVfNkpBdGFIZFV3Y2lSbmRlVmRXbTJ6dw?oc=5",
-          "desc": "",
-          "title_en": "Daegu Makchang Gui Champong... Hong Kong spot ‘Makchang Champong’",
-          "title_ja": "大邱マクチャンギチャンポン…香港スポット「マクチャンチャンポン」",
-          "title_zh": "大邱Makchang Gui Champong...香港景点「Makchang Champong」"
+          "title_en": "Pulmuwon launches campaign for Sonopets and dogs",
+          "title_ja": "プルムウォン、ソノペットと犬のためのキャンペーンを開始",
+          "title_zh": "Pulmuwon推出针对Sonopets和狗的活动"
         },
         {
           "title": "대만, 푸드판다 배달앱 통해 K-푸드 요식업 커진다",
@@ -240,6 +232,14 @@
           "title_en": "Taiwan grows K-food catering business through food panda delivery app",
           "title_ja": "台湾、フードパンダデリバリーアプリでK - foodケータリング事業を拡大",
           "title_zh": "台湾通过美食熊猫外送APP拓展韩国餐饮业务"
+        },
+        {
+          "title": "클린라벨 선호 확산, 유럽의 천연색소 소비 증가",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SSzhFNzlRVVFqWlBPSTk5Zk1YYUttTUNsdm53VmJBdzZVWjNmeXhSaUcxSjBnWTlxR1ltM3VEVE1TYUVNWEVaUHBxM3M2dnlSd1paSG1lZw?oc=5",
+          "desc": "",
+          "title_en": "Clean Label Preference Spreads, Increasing Consumption of Natural Color in Europe",
+          "title_ja": "クリーンラベルプレファレンスの普及、ヨーロッパでの自然な色の消費量の増加",
+          "title_zh": "清洁标签偏好蔓延，欧洲天然色素消费量增加"
         }
       ]
     }
