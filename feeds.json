@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T08:26:26Z",
+  "lastUpdated": "2026-10-14T14:21:29Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,12 +14,12 @@
           "title_zh": "饼干帝国开始崩溃"
         },
         {
-          "title": "Pie Five Pizza is down to 13 locations",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTZJN3FwUjgtSS11Y3lfSGZRcUVNbW9SYlhyYTJGUEJrUzJlY2o3d0dteGNWd1dOYTd2Vk5ERTVCTVF0UW5DT1FveDdIMHN2dXpnNE5fZHFxcXdDeG5SOTJnNi14VGRySUxDNjJ5RFFISUlIVDZHNGZ2VXpkMTQ5b3JRWV9fUQ?oc=5",
+          "title": "How AI agents could change restaurant ordering",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2pWQnNHNEhERTVYOHBpSUhiNXdvRjhwQ3NtalNQTDVjaHp0S3EwVS1OcWdTQ2hacXMzNExtRG1yUjFSbzZkZEpwMjBGclFKV0Jqc184dmxSbldpTktoTml4ZmczRGlwMXBldGJSMHhlWUdPUjdRUGdISjZSdFYtc3drYzVvcW12dGRzdzhmak5MRmw4d3JyQk9EREc5UVk?oc=5",
           "desc": "",
-          "title_ko": "파이 파이브 피자는 13개 지점으로 줄었습니다",
-          "title_ja": "Pie Five Pizzaは13店舗にダウン",
-          "title_zh": "Pie Five Pizza已下调至13家门店"
+          "title_ko": "AI 상담원이 레스토랑 주문을 변경하는 방법",
+          "title_ja": "AIエージェントがレストランの注文を変更する方法",
+          "title_zh": "人工智能客服代表如何更改餐厅订餐方式"
         },
         {
           "title": "What led to True Food Kitchen’s bankruptcy?",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Chicago’s Most Exciting New Restaurant Is Cooking From 900-Year-Old Recipes",
+          "link": "https://www.eater.com/pre-shift/992582/muhajir-chicago-restaurant-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "900년 전통의 레시피로 요리하는 시카고에서 가장 흥미진진한 새로운 레스토랑",
+          "title_ja": "シカゴで最もエキサイティングな新しいレストランは、900年前のレシピから作られています",
+          "title_zh": "芝加哥最令人兴奋的新餐厅采用900年前的食谱烹饪"
+        },
+        {
           "title": "The 38 Best Restaurants in Rome, According to a Best-Selling Local Cookbook Author",
           "link": "https://www.eater.com/maps/best-restaurants-rome-italy",
           "desc": "Roman cuisine is a reflection of the city itself — layered, deeply rooted in tradition, and full of contrasts. After years of eating my way through Ro",
@@ -110,14 +118,6 @@
           "title_ko": "현지 전문가가 선정한 도쿄 최고의 레스토랑 38곳",
           "title_ja": "現地エキスパートによる東京のおすすめレストラン38選",
           "title_zh": "据当地专家介绍，东京最好的38家餐厅"
-        },
-        {
-          "title": "13 Very Cool Food Gifts to Buy Before They Sell Out",
-          "link": "https://www.eater.com/shopping/920231/best-cool-food-gifts-that-will-sell-out-limited-edition",
-          "desc": "I’ve always considered fall the true annual reset, if not the soft launch of the upcoming holiday season. I know, I know — we’re still in the month of",
-          "title_ko": "매진되기 전에 구입해야 할 13가지 멋진 음식 선물",
-          "title_ja": "売り切れる前に購入する13の非常にクールな食品ギフト",
-          "title_zh": "13非常酷的食品礼品，在售罄前购买"
         }
       ]
     }
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "급식 넘어 '의료 데이터' 사업…현대그린푸드의 큰 그림",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56M203dnYwdTAzNElGSDVxTUNtb0M1V2JfS3hPSnNHTmJMT0p2TFhyWTdTaGlvZWFEbm84NmNBZGhhZTZCalRaMEpTenRCY3BDZ2xqeDJkVnZDSDNOMWRmbklSOXoxT0FtOTJLV0wyUkt5N0phRnpYbmg3ZXJNMkk?oc=5",
+          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTVQ5OVpnLURjWGJlQUFseklTSHdyVFZtM09uSzBzdFlXUXgwNXprTXkyRkZHUXptaTJ2d3MxMXRhQm5ocGlwdWxWSWZ3YmtXcTRFU2JnYmVKNXU0T2tCS3ZINTlWRlA4QzBmVGNzU0E5RWRFNVRKcllRR0h1SEU?oc=5",
           "desc": "",
-          "title_en": "Beyond feeding, 'medical data' business… Hyundai Green Food's big picture",
-          "title_ja": "給餌以外にも、「医療データ」ビジネス…現代グリーンフードの全体像",
-          "title_zh": "除了喂养， “医疗数据”业务……现代绿色食品的大局"
+          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
+          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
+          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
         },
         {
           "title": "현대그린푸드, 식품업계 첫 ‘임직원 고령가족 돌봄 지원’ 나선다",
@@ -144,12 +144,12 @@
           "title_zh": "食品行业第一家现代绿色食品将支持“关爱高级员工和家庭”"
         },
         {
-          "title": "K뷰티·푸드 인기에 '쑥쑥'…수출액, 10년 만에 4.2배",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tc2Z2OFROSGlGUzBYSFAwQnpsVFJfRUFaYTZqWnJXZmtUZkd5SGZsZjdOdm5XTXB5WGtCTUVad0xmMkRNSXpTcFJ0bVk3ek84aVI3eThlNHNldw?oc=5",
+          "title": "bhc, 미국 버지니아 진출…윙·텐더·K푸드 메뉴 선보여",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV25xMUdWTzIzcy1KbUQ4SUFIbkY5Y3NXWUdhS1NtMXhlbHJyU3ZsTi1YVEdQMzR0Tk56bmhMYUoxanM3N1BhSU5SSUZyMzlOcVhXX2gyOC1RUzRkbUhqVHBzWFhibm51N2l3d08zWFB6OGlyRGdtMXBURVVHYnFYalRXaXBYLTg?oc=5",
           "desc": "",
-          "title_en": "'Growing' in K-Beauty and Food Popularity… Exports 4.2x in 10 Years",
-          "title_ja": "Kビューティーとフード人気の「成長」… 10年間で4.2倍の輸出",
-          "title_zh": "韩国美容和食品受欢迎程度的“增长” …… 10年内出口增长4.2倍"
+          "title_en": "bhc launches Wing, Tender, and K-Food menus in Virginia, USA",
+          "title_ja": "bhc、米国バージニア州でウィング、テンダー、Kフードのメニューを開始",
+          "title_zh": "bhc在美国弗吉尼亚州推出Wing、Tender和K-Food菜单"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "[단독] ‘불닭볶음면’ 식품첨가물 공급하는 내츄럴스푸드 매물로 [시그널]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54SkQ1T05EVmVxTldhQzhoaDgwOE9xOWZLaHV0US11S19QcnRJcEZueDk1SHN0S05HRXZHUWJtempReUE2cElzZFZOcjltWnhJcEI00gFTQVVfeXFMTnhKRDVPTkRWZXFOV2FDOGhoODA4T3E5ZktodXRRLXVLX1BydElwRm54OTVIc3RLTkdFdkdRYm16alF5QTZwSXNkVk5yOW1aeElwQjQ?oc=5",
+          "desc": "",
+          "title_en": "[Exclusive] As a natural food property that supplies food additives for ’grilled chicken roast noodles' [Signal]",
+          "title_ja": "【限定】「焼き鳥焼きそば」の食品添加物を供給する天然食品物件として【シグナル】",
+          "title_zh": "【独家】作为天然食品物业，为「烤鸡烤面」提供食品添加剂【Signal】"
+        },
         {
           "title": "지스타 2026 푸드트럭 참가자 모집…18일까지 접수",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nUWFMTDFmM3dJclFwWWpvNUY0c1NOVE9TZFl1eGNhWXlnWHd2TTN2Q0tfSloyb2xKYUZRUmxHSmFndG1OcmE0LTRFckxaY1JVRVHSAVNBVV95cUxNVTFiRFlFYk1Zem9ZeUNPTVdUb0xJbXZzOXlSVFBISXp6MGdjMDhibEV0d1FfY2d2WWZVVDI5ZWFLQll6dWphYlQ2djBCTzRSNFpOcw?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Temple food, meditation, performances in one place... ‘Jelo Festa’ is held in autumn.",
           "title_ja": "寺院の食事、瞑想、一箇所でのパフォーマンス…「Jelo Festa」は秋に開催されます。",
           "title_zh": "在一个地方享用寺庙美食、冥想和表演…… “Jelo Festa”在秋季举行。"
-        },
-        {
-          "title": "현대그린푸드, 임직원 고령가족 간병 지원한다…돌봄 지원 추진",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VN0QzU1JObGpUSkx0T3k0TUIyb2dvazNGYWxsRHo0VFZZeHlZQzd3NDVuNncxV0pydlN6cXlIS19UeW9XRkQ5cU45bEU0T09Eb1HSAVNBVV95cUxOc1RRRVNLckFJYVFIT1F5MU5iaVhvczU2VHhFQnNtUVFtbDNTcjRHSkx6Wmc2d1RrRGFvNU04ZW94RGZrSzZNRUlKc0htZnFEUW1Jdw?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food Supports Care for Employees and Elderly Families… Promote Care Support",
-          "title_ja": "現代グリーンフードは、従業員と高齢者家族のケアをサポートします…ケアサポートを促進します",
-          "title_zh": "现代绿色食品支持员工和老年家庭的护理……促进护理支持"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "Pulmuwon推出针对Sonopets和狗的活动"
         },
         {
+          "title": "시청점 확장한 와인나라, 가을장터 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOOXhyVHQ1ZF9BSTNfTEd3VjVPM29lUGI5VklOc3NUMFB0d3FkcjV4cFU1RjQyUV9oMDlZRXpySkk2UzRQSWNMMTVrNDdROWVaR290T2ZfRQ?oc=5",
+          "desc": "",
+          "title_en": "City Hall Expanded Wine Country Opens Autumn Market",
+          "title_ja": "市庁舎拡張ワインカントリーが秋の市場を開く",
+          "title_zh": "市政厅扩建葡萄酒之乡秋季市场开幕"
+        },
+        {
           "title": "버거킹, 제품혁신센터 ‘플레임랩’ 문 연다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JZnBaSlBNR2RLbWY5NGtPTktJNEFJZ3lCamRFZ3lQVmpOSFZQSXQxZlRDeWlKXzl4SURQb25WODdocTdVakZNUXRmRVQxeHY2dDFlRDdfZw?oc=5",
           "desc": "",
           "title_en": "Burger King Opens' Flame Lab 'for Product Innovation Center",
           "title_ja": "バーガーキング、製品イノベーションセンターに「Flame Lab」を開設",
           "title_zh": "汉堡王为产品创新中心开设“火焰实验室”"
-        },
-        {
-          "title": "페스츄리 안에 따뜻한 떡볶이…설빙의 가을 메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05WldENnZOcXRuR1B3WldzSi1TSVZYQmNWTTFZU0xMaWV3WUhuUmdhcFhhZkgtXy1ZOFdadkxyZWFucEZoUmJYWkNzNmVkeFF3aXlrTTlkWQ?oc=5",
-          "desc": "",
-          "title_en": "Warm tteokbokki in pasturi… Fall menu of snow ice",
-          "title_ja": "パストゥリの温かいトクボッキ…秋のスノーアイスメニュー",
-          "title_zh": "帕斯图里温暖的tteokbokki……雪冰秋季菜单"
         }
       ]
     }
