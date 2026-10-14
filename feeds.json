@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-10-14T00:09:55Z",
+  "lastUpdated": "2026-10-14T08:26:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "Pie Five Pizza is down to 13 locations",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTZJN3FwUjgtSS11Y3lfSGZRcUVNbW9SYlhyYTJGUEJrUzJlY2o3d0dteGNWd1dOYTd2Vk5ERTVCTVF0UW5DT1FveDdIMHN2dXpnNE5fZHFxcXdDeG5SOTJnNi14VGRySUxDNjJ5RFFISUlIVDZHNGZ2VXpkMTQ5b3JRWV9fUQ?oc=5",
-          "desc": "",
-          "title_ko": "파이 파이브 피자는 13개 지점으로 줄었습니다",
-          "title_ja": "Pie Five Pizzaは13店舗にダウン",
-          "title_zh": "Pie Five Pizza已下调至13家门店"
-        },
         {
           "title": "A cookie empire is starting to crumble",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWlPT0JWM1htbHFJUDBQZldveGFCTy1jMWotdzlwZVdzWHlKU2JZbWpEZkMxM3FCeWlWU0hDMno3MmNEZGQ1NEozZVdrRndVdkw3bXNvbzFtR1dPYU1PM0g1amhfSVJaR0pwaUZfcHNJQUpLbzZScnQ4TS1Ib0RWQ29YQQ?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "쿠키 제국이 무너지기 시작했습니다",
           "title_ja": "クッキー帝国が崩壊し始めています",
           "title_zh": "饼干帝国开始崩溃"
+        },
+        {
+          "title": "Pie Five Pizza is down to 13 locations",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTZJN3FwUjgtSS11Y3lfSGZRcUVNbW9SYlhyYTJGUEJrUzJlY2o3d0dteGNWd1dOYTd2Vk5ERTVCTVF0UW5DT1FveDdIMHN2dXpnNE5fZHFxcXdDeG5SOTJnNi14VGRySUxDNjJ5RFFISUlIVDZHNGZ2VXpkMTQ5b3JRWV9fUQ?oc=5",
+          "desc": "",
+          "title_ko": "파이 파이브 피자는 13개 지점으로 줄었습니다",
+          "title_ja": "Pie Five Pizzaは13店舗にダウン",
+          "title_zh": "Pie Five Pizza已下调至13家门店"
         },
         {
           "title": "What led to True Food Kitchen’s bankruptcy?",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "급식 넘어 '의료 데이터' 사업…현대그린푸드의 큰 그림",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56M203dnYwdTAzNElGSDVxTUNtb0M1V2JfS3hPSnNHTmJMT0p2TFhyWTdTaGlvZWFEbm84NmNBZGhhZTZCalRaMEpTenRCY3BDZ2xqeDJkVnZDSDNOMWRmbklSOXoxT0FtOTJLV0wyUkt5N0phRnpYbmg3ZXJNMkk?oc=5",
+          "desc": "",
+          "title_en": "Beyond feeding, 'medical data' business… Hyundai Green Food's big picture",
+          "title_ja": "給餌以外にも、「医療データ」ビジネス…現代グリーンフードの全体像",
+          "title_zh": "除了喂养， “医疗数据”业务……现代绿色食品的大局"
+        },
+        {
           "title": "현대그린푸드, 식품업계 첫 ‘임직원 고령가족 돌봄 지원’ 나선다",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHpIWkFFX3c5dFJ1Ym1MSDR3RVQ4QmRsdGFvbzZ6eHl0OEx2ZTRBZUd0WUVzVnUwWlNzZVJ5d05Sa2xlMW1EeW5lQTktRlNvWGJRRUZvLTJiS0tlTHNnZ21nQk41ZUxZUGNUS3lsbDc5UEFoV0d1OVpSX1U0WVlFdE9jWFJURzA?oc=5",
           "desc": "",
           "title_en": "Hyundai Green Food, the first in the food industry, will support ‘caring for senior employees and families’",
           "title_ja": "食品業界初のヒュンダイグリーンフードは、「シニア従業員と家族の世話」をサポートします",
           "title_zh": "食品行业第一家现代绿色食品将支持“关爱高级员工和家庭”"
-        },
-        {
-          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTVQ5OVpnLURjWGJlQUFseklTSHdyVFZtM09uSzBzdFlXUXgwNXprTXkyRkZHUXptaTJ2d3MxMXRhQm5ocGlwdWxWSWZ3YmtXcTRFU2JnYmVKNXU0T2tCS3ZINTlWRlA4QzBmVGNzU0E5RWRFNVRKcllRR0h1SEU?oc=5",
-          "desc": "",
-          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
-          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
-          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
         },
         {
           "title": "K뷰티·푸드 인기에 '쑥쑥'…수출액, 10년 만에 4.2배",
@@ -166,12 +166,12 @@
           "title_zh": "G-Star 2026美食车参与者招募… 18日收到"
         },
         {
-          "title": "쿠쿠, 봇인킷 손잡고 B2B 푸드테크 사업 역량 강화[로보 인사이트]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zZDlXOUxTaGN6RWdPLVZzaGd3dF93QW5ObnYtVzN0N092OVM5S1k2b2VKMkp0eEJvWDFibWdtMjZaTThIX1d4WHlzQ0ttVkJDVFHSAVNBVV95cUxPdzM0dHBzcHlKVHRhR1RTUFdOamZrTVZ0Rzh6aXJQaGZpUkN1U3hEYlJOUUxHN2trNlFCRHdzYkg1eXhRUHc3dldySFdSczVRWHNaWQ?oc=5",
+          "title": "사찰음식·명상·공연 한자리에…‘가을엔 절로 페스타’ 열려",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PUmZ2dThVSTVKdkNObkZra0huZjhrTDRlVlFreWVqeWhlclhTVGhpanh1bTFEbnk2TmtvLTFUMjJfTm9DZmJCaHRnZHNxaThHTk4w0gFTQVVfeXFMTU9SZnZ1OFVJNUp2Q05uRmtrSG5mOGtMNGVWUWt5ZWp5aGVyWFNUaGlqeHVtMURueTZOa28tMVQyMl9Ob0NmYkJodGdkc3FpOEdOTjA?oc=5",
           "desc": "",
-          "title_en": "Kuku strengthens B2B food tech business with bot-inkit [Robo Insights]",
-          "title_ja": "KUKU、ボットインキットでB 2 Bフードテック事業を強化【Robo Insights】",
-          "title_zh": "Kuku通过bot-inkit加强B2B食品技术业务[Robo Insights]"
+          "title_en": "Temple food, meditation, performances in one place... ‘Jelo Festa’ is held in autumn.",
+          "title_ja": "寺院の食事、瞑想、一箇所でのパフォーマンス…「Jelo Festa」は秋に開催されます。",
+          "title_zh": "在一个地方享用寺庙美食、冥想和表演…… “Jelo Festa”在秋季举行。"
         },
         {
           "title": "현대그린푸드, 임직원 고령가족 간병 지원한다…돌봄 지원 추진",
@@ -204,12 +204,12 @@
           "title_zh": "家长和护士也帮助公司……现代绿色食品支持照顾老年家庭"
         },
         {
-          "title": "\"청정 진안고원 맛본다\"…진안고원푸드페스타 24일 개막",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lalV3SU9tWmE0WnZPTV9PcklRMU1ZTGxwWllGdzZIamlHZkd2MGU0eTFCMDl5YkFUXzdIbV9NRmg4WFowcl9sekE1dXdSVFp3a3c?oc=5",
+          "title": "비빔밥·삼겹살도 아니었다…‘세계 1위’ 차지한 의외의 한국음식, 무엇?",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sU1NLX1dlX3J2SEp3ZXJ1NlFMYlAzaFRtWHpTcWFFMU1uR3QybDZaTW9yTWI4UHN1amVvSUxRREg4UktZcVY2Q0VPRHF4SkFlTG1KQw?oc=5",
           "desc": "",
-          "title_en": "“Taste the clean Jinan Highlands” … Jinan Highland Food Festa Opens on the 24th",
-          "title_ja": "「清潔な済南高原を味わう」…済南高原フードフェスタ24日オープン",
-          "title_zh": "“品尝洁净的济南高原” …济南高原美食节24日开幕"
+          "title_en": "It wasn't even bibimbap or pork belly... What was the unexpected Korean food that ranked ’the world's number one’?",
+          "title_ja": "ビビンバでも豚バラでもありませんでした…「世界ナンバーワン」にランクされた思いがけない韓国料理は何でしたか？",
+          "title_zh": "甚至都不是拌饭或猪肚……意想不到的韩国美食排名“世界第一”是什么？"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "Pulmuwon推出针对Sonopets和狗的活动"
         },
         {
-          "title": "대만, 푸드판다 배달앱 통해 K-푸드 요식업 커진다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ra0w4NzRQcmhRaWtoMEVjeUsyS3dPQ0ZyaFhNZHBpS2pjRzJzSlExbFZmcm9DZHhQUXI0bDZFenlZVlRGOWRXV0hsaDFMUjJVdm9aTTlBVQ?oc=5",
+          "title": "버거킹, 제품혁신센터 ‘플레임랩’ 문 연다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JZnBaSlBNR2RLbWY5NGtPTktJNEFJZ3lCamRFZ3lQVmpOSFZQSXQxZlRDeWlKXzl4SURQb25WODdocTdVakZNUXRmRVQxeHY2dDFlRDdfZw?oc=5",
           "desc": "",
-          "title_en": "Taiwan grows K-food catering business through food panda delivery app",
-          "title_ja": "台湾、フードパンダデリバリーアプリでK - foodケータリング事業を拡大",
-          "title_zh": "台湾通过美食熊猫外送APP拓展韩国餐饮业务"
+          "title_en": "Burger King Opens' Flame Lab 'for Product Innovation Center",
+          "title_ja": "バーガーキング、製品イノベーションセンターに「Flame Lab」を開設",
+          "title_zh": "汉堡王为产品创新中心开设“火焰实验室”"
         },
         {
-          "title": "클린라벨 선호 확산, 유럽의 천연색소 소비 증가",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SSzhFNzlRVVFqWlBPSTk5Zk1YYUttTUNsdm53VmJBdzZVWjNmeXhSaUcxSjBnWTlxR1ltM3VEVE1TYUVNWEVaUHBxM3M2dnlSd1paSG1lZw?oc=5",
+          "title": "페스츄리 안에 따뜻한 떡볶이…설빙의 가을 메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05WldENnZOcXRuR1B3WldzSi1TSVZYQmNWTTFZU0xMaWV3WUhuUmdhcFhhZkgtXy1ZOFdadkxyZWFucEZoUmJYWkNzNmVkeFF3aXlrTTlkWQ?oc=5",
           "desc": "",
-          "title_en": "Clean Label Preference Spreads, Increasing Consumption of Natural Color in Europe",
-          "title_ja": "クリーンラベルプレファレンスの普及、ヨーロッパでの自然な色の消費量の増加",
-          "title_zh": "清洁标签偏好蔓延，欧洲天然色素消费量增加"
+          "title_en": "Warm tteokbokki in pasturi… Fall menu of snow ice",
+          "title_ja": "パストゥリの温かいトクボッキ…秋のスノーアイスメニュー",
+          "title_zh": "帕斯图里温暖的tteokbokki……雪冰秋季菜单"
         }
       ]
     }
