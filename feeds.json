@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:57:21Z",
+  "lastUpdated": "2026-10-14T00:09:55Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "饼干帝国开始崩溃"
         },
         {
-          "title": "How Del Taco is faring under its new owner",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaDZQM3NDeFd6aDNFRmJLRFVTQzJZcXhwb2I4QW9XTDBJU2U4SmJnN2t1VGMwenB3ZUpnMXJydkwxRnk5bUgyMnV6WFhYUS1FZ05XQmpiaHROQ01Ha0NyaXpRenFUbHdGbjNJcnFqWjBtQ2NWWGc3MkdtVUFPR3lLMHBiem0wTmVzSzZ1SFpxMA?oc=5",
+          "title": "What led to True Food Kitchen’s bankruptcy?",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcU1LQU1SSGV2NWQxeVBUYm9LWHJsejdyTXVyNzFkT09FOEVJM3EwenVDbGlyc3hEMkZ1ckpIbFk2WkdKM1ZDbWEtWUdHOWpPM3lLQnJ2a0NTaUk0M0wwQnRpRlBwaUVCWmJkQUxrTEdTWHNLczJLaXRwY05LeFFJZHd4ZXlRTHNIc3VSVmF3?oc=5",
           "desc": "",
-          "title_ko": "Del Taco가 새 소유주 밑에서 싸우는 방법",
-          "title_ja": "新しいオーナーの下でのDel Tacoの状況",
-          "title_zh": "在新主人的带领下， Del Taco的表现如何"
+          "title_ko": "트루 푸드 키친이 파산하게 된 계기는 무엇인가요?",
+          "title_ja": "True Food Kitchenの破産の原因は何ですか？",
+          "title_zh": "什么导致了True Food Kitchen的破产？"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "食品行业第一家现代绿色食品将支持“关爱高级员工和家庭”"
         },
         {
+          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTVQ5OVpnLURjWGJlQUFseklTSHdyVFZtM09uSzBzdFlXUXgwNXprTXkyRkZHUXptaTJ2d3MxMXRhQm5ocGlwdWxWSWZ3YmtXcTRFU2JnYmVKNXU0T2tCS3ZINTlWRlA4QzBmVGNzU0E5RWRFNVRKcllRR0h1SEU?oc=5",
+          "desc": "",
+          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
+          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
+          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
+        },
+        {
           "title": "K뷰티·푸드 인기에 '쑥쑥'…수출액, 10년 만에 4.2배",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tc2Z2OFROSGlGUzBYSFAwQnpsVFJfRUFaYTZqWnJXZmtUZkd5SGZsZjdOdm5XTXB5WGtCTUVad0xmMkRNSXpTcFJ0bVk3ek84aVI3eThlNHNldw?oc=5",
           "desc": "",
           "title_en": "'Growing' in K-Beauty and Food Popularity… Exports 4.2x in 10 Years",
           "title_ja": "Kビューティーとフード人気の「成長」… 10年間で4.2倍の輸出",
           "title_zh": "韩国美容和食品受欢迎程度的“增长” …… 10年内出口增长4.2倍"
-        },
-        {
-          "title": "\"부모·조부모까지 챙긴다\"…현대그린푸드, 식품업계 최초 돌봄 지원",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFZ1pibkpNbU55LXhkbUFKUjIxVVZEdUhwUTJTcF9aVUhYYm9ocy1ZamFGMTY0S3l3bExQZ3hqT09UakRIMTJELXZUVFdpVHBVSGk3RXF0SXZOZw?oc=5",
-          "desc": "",
-          "title_en": "“I take care of my parents and grandparents” … Hyundai Green Food, the first care support in the food industry",
-          "title_ja": "「私は両親と祖父母の世話をします」…食品業界で最初のケアサポートである現代グリーンフード",
-          "title_zh": "“我照顾我的父母和祖父母” ……现代绿色食品，食品行业的首个护理支持"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "지스타 2026 푸드트럭 참가자 모집…18일까지 접수",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nUWFMTDFmM3dJclFwWWpvNUY0c1NOVE9TZFl1eGNhWXlnWHd2TTN2Q0tfSloyb2xKYUZRUmxHSmFndG1OcmE0LTRFckxaY1JVRVHSAVNBVV95cUxNVTFiRFlFYk1Zem9ZeUNPTVdUb0xJbXZzOXlSVFBISXp6MGdjMDhibEV0d1FfY2d2WWZVVDI5ZWFLQll6dWphYlQ2djBCTzRSNFpOcw?oc=5",
+          "desc": "",
+          "title_en": "G-Star 2026 Food Truck Participant Recruitment… Received by the 18th",
+          "title_ja": "G - STAR 2026フードトラック参加者募集… 18日受付",
+          "title_zh": "G-Star 2026美食车参与者招募… 18日收到"
+        },
         {
           "title": "쿠쿠, 봇인킷 손잡고 B2B 푸드테크 사업 역량 강화[로보 인사이트]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zZDlXOUxTaGN6RWdPLVZzaGd3dF93QW5ObnYtVzN0N092OVM5S1k2b2VKMkp0eEJvWDFibWdtMjZaTThIX1d4WHlzQ0ttVkJDVFHSAVNBVV95cUxPdzM0dHBzcHlKVHRhR1RTUFdOamZrTVZ0Rzh6aXJQaGZpUkN1U3hEYlJOUUxHN2trNlFCRHdzYkg1eXhRUHc3dldySFdSczVRWHNaWQ?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Hyundai Green Food Supports Care for Employees and Elderly Families… Promote Care Support",
           "title_ja": "現代グリーンフードは、従業員と高齢者家族のケアをサポートします…ケアサポートを促進します",
           "title_zh": "现代绿色食品支持员工和老年家庭的护理……促进护理支持"
-        },
-        {
-          "title": "신세계프라퍼티, 성수동에 ‘스탈릿 푸드라운지’ 조성",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XRDZZWHpaeVRhVl9FV3RGZjYxZmRyY09pWVYtQ0Z4Q1NPeXdPdTVLSEdWY2VIdWtEd2Z6cjNqeG4wOTlyNU5HQ0VEUlFaTlg0cUHSAVNBVV95cUxOLTNkN0tFdUVpbEVQT1FlTjZkTnhXMmgySzRSNTdqd2M5Z093bkgycTNXOXVTVDE2MV9Rb3RHWWlxWHUybGp3eTdpWkNCUUJrWEUtQQ?oc=5",
-          "desc": "",
-          "title_en": "Shinsegae Properly Creates' Starlet Food Lounge ’in Seongsu-dong",
-          "title_ja": "城津洞に「スターレットフードラウンジ」をしっかりつくる新世界",
-          "title_zh": "Shinsegae在城水洞（ Seongsu-dong ）精心打造的「Starlet美食休息室」"
         }
       ]
     },
