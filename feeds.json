@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T14:21:29Z",
+  "lastUpdated": "2026-10-14T19:11:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Steal my Food Itinerary: A SoCal Beach Dive Bar Crawl",
+          "link": "https://www.eater.com/dining-out/992846/socal-beach-dive-bar-crawl",
+          "desc": "Do birthdays matter? Not really. But they are, at the very least, an excuse to do something you might not usually do as a middle-aged father of two. O",
+          "title_ko": "소칼비치 다이빙 바 투어 - 내 식도락 일정 훔치기",
+          "title_ja": "食べ物の旅程を盗もう：ソカルビーチダイビングバーのはしご",
+          "title_zh": "偷走我的美食行程：南加州海滩潜水酒吧串游"
+        },
+        {
           "title": "Chicago’s Most Exciting New Restaurant Is Cooking From 900-Year-Old Recipes",
           "link": "https://www.eater.com/pre-shift/992582/muhajir-chicago-restaurant-pre-shift",
           "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
@@ -110,14 +118,6 @@
           "title_ko": "베스트셀러 요리책 저자에 따르면 로마 최고의 레스토랑 38곳",
           "title_ja": "地元のベストセラー料理本作家によるローマのベストレストラン38選",
           "title_zh": "畅销本地烹饪书作者评选的罗马38家最佳餐厅"
-        },
-        {
-          "title": "The 38 Best Restaurants in Tokyo, According to a Local Expert",
-          "link": "https://www.eater.com/maps/best-restaurants-tokyo-japan",
-          "desc": "Restaurants in Tokyo are known for shokunin, the people who focus on a single skill to the point of obsession. These chefs dedicate their lives to the",
-          "title_ko": "현지 전문가가 선정한 도쿄 최고의 레스토랑 38곳",
-          "title_ja": "現地エキスパートによる東京のおすすめレストラン38選",
-          "title_zh": "据当地专家介绍，东京最好的38家餐厅"
         }
       ]
     }
@@ -127,6 +127,14 @@
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
       "items": [
+        {
+          "title": "급식 넘어 '의료 데이터' 사업…현대그린푸드의 큰 그림",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56M203dnYwdTAzNElGSDVxTUNtb0M1V2JfS3hPSnNHTmJMT0p2TFhyWTdTaGlvZWFEbm84NmNBZGhhZTZCalRaMEpTenRCY3BDZ2xqeDJkVnZDSDNOMWRmbklSOXoxT0FtOTJLV0wyUkt5N0phRnpYbmg3ZXJNMkk?oc=5",
+          "desc": "",
+          "title_en": "Beyond feeding, 'medical data' business… Hyundai Green Food's big picture",
+          "title_ja": "給餌以外にも、「医療データ」ビジネス…現代グリーンフードの全体像",
+          "title_zh": "除了喂养， “医疗数据”业务……现代绿色食品的大局"
+        },
         {
           "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTVQ5OVpnLURjWGJlQUFseklTSHdyVFZtM09uSzBzdFlXUXgwNXprTXkyRkZHUXptaTJ2d3MxMXRhQm5ocGlwdWxWSWZ3YmtXcTRFU2JnYmVKNXU0T2tCS3ZINTlWRlA4QzBmVGNzU0E5RWRFNVRKcllRR0h1SEU?oc=5",
@@ -142,14 +150,6 @@
           "title_en": "Hyundai Green Food, the first in the food industry, will support ‘caring for senior employees and families’",
           "title_ja": "食品業界初のヒュンダイグリーンフードは、「シニア従業員と家族の世話」をサポートします",
           "title_zh": "食品行业第一家现代绿色食品将支持“关爱高级员工和家庭”"
-        },
-        {
-          "title": "bhc, 미국 버지니아 진출…윙·텐더·K푸드 메뉴 선보여",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV25xMUdWTzIzcy1KbUQ4SUFIbkY5Y3NXWUdhS1NtMXhlbHJyU3ZsTi1YVEdQMzR0Tk56bmhMYUoxanM3N1BhSU5SSUZyMzlOcVhXX2gyOC1RUzRkbUhqVHBzWFhibm51N2l3d08zWFB6OGlyRGdtMXBURVVHYnFYalRXaXBYLTg?oc=5",
-          "desc": "",
-          "title_en": "bhc launches Wing, Tender, and K-Food menus in Virginia, USA",
-          "title_ja": "bhc、米国バージニア州でウィング、テンダー、Kフードのメニューを開始",
-          "title_zh": "bhc在美国弗吉尼亚州推出Wing、Tender和K-Food菜单"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "제천시, 의림동 약선음식거리 자율상권구역 지정",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kMVNmX09TS3R2YVNrMF9UNDNZSS1xaDQxaGxueDI5a1NiTzc3elNQNGVESWtWU2NoWnRKaU1NaWJpcURuRW5TT2dmYjVsM2hRVUE?oc=5",
+          "desc": "",
+          "title_en": "Designated as an autonomous commercial area in Jecheon-si, Yakseon food street in Uilim-dong",
+          "title_ja": "ウイリムドンのヤクソンフードストリート、ジェチョン市の自治商業地区に指定されています",
+          "title_zh": "被指定为Jecheon-si的自治商业区，位于Uilim-dong的Yakseon美食街"
+        },
+        {
           "title": "농식품부, 글로벌 인플루언서와 K-푸드 홍보…수출 확대 모색",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iRl9SME82c0Vsd1VXYWRCWHNfb08xNFk0bDBOZ2ZSbU9OSlFtQzRtd3RMRlRNTTdkaFYtVnpkcTM4VW5wQ3dDRks5MnVJUXdXWVE?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "农业和食品部，全球影响者和K-Food推广......寻求扩大出口"
         },
         {
-          "title": "부모 병간호도 회사가 돕는다…현대그린푸드, 고령가족 돌봄 지원",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzTXMwakdGY0xTWUZNQ21pWWMwcklVdTZIR0J1cUxaTVR6QmhmRHN1VmhNZUk0LVN4WHY5M0hlMEpLRGZlUmc?oc=5",
+          "title": "현대그린푸드 복지 확대… 부모님 돌봄도 지원한다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vdEJ0Q0V1dFlhZktKbVFaMUdZSlo2WGlveDBuWTYyMlU5RHNxS0h4VVZSNldLZDBJUW1NankxVVExR0czNGc?oc=5",
           "desc": "",
-          "title_en": "Parents and nurses also help the company… Hyundai Green Food supports care for elderly families",
-          "title_ja": "親や看護師も会社を支援しています…現代グリーンフードは高齢者家族のケアをサポートしています",
-          "title_zh": "家长和护士也帮助公司……现代绿色食品支持照顾老年家庭"
-        },
-        {
-          "title": "비빔밥·삼겹살도 아니었다…‘세계 1위’ 차지한 의외의 한국음식, 무엇?",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sU1NLX1dlX3J2SEp3ZXJ1NlFMYlAzaFRtWHpTcWFFMU1uR3QybDZaTW9yTWI4UHN1amVvSUxRREg4UktZcVY2Q0VPRHF4SkFlTG1KQw?oc=5",
-          "desc": "",
-          "title_en": "It wasn't even bibimbap or pork belly... What was the unexpected Korean food that ranked ’the world's number one’?",
-          "title_ja": "ビビンバでも豚バラでもありませんでした…「世界ナンバーワン」にランクされた思いがけない韓国料理は何でしたか？",
-          "title_zh": "甚至都不是拌饭或猪肚……意想不到的韩国美食排名“世界第一”是什么？"
+          "title_en": "Hyundai Green Food Welfare Expansion… We also support parental care",
+          "title_ja": "現代グリーンフード福祉の拡大…親のケアもサポート",
+          "title_zh": "现代绿色食品福利扩张……我们也支持父母照顾"
         }
       ]
     },
