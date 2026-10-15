@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T23:43:47Z",
+  "lastUpdated": "2026-10-15T03:31:39Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "Homeplus Express ，「美味表演美食盛宴」，从新鲜美食到美食折扣"
         },
         {
-          "title": "\"천천히 나이 드는 식사법\"…현대그린푸드, 저속노화 가이드북 출간",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ibm9sb3JVN1BybDFHb3pjOTg1N0Z4UXZ3d3d2WV8yVXFvVV9KYjVlbDVocExOLU5QQzFqeHNEV3FZX0VOWTJiUTJ1VHRuSXI5MUREaUtSbDc4VlF5SHdfNEZzTWh2YUpISUxCYnpSdDk5WlBYWmxQMGhqTWhBX2c?oc=5",
+          "title": "급식 넘어 '의료 데이터' 사업…현대그린푸드의 큰 그림",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56M203dnYwdTAzNElGSDVxTUNtb0M1V2JfS3hPSnNHTmJMT0p2TFhyWTdTaGlvZWFEbm84NmNBZGhhZTZCalRaMEpTenRCY3BDZ2xqeDJkVnZDSDNOMWRmbklSOXoxT0FtOTJLV0wyUkt5N0phRnpYbmg3ZXJNMkk?oc=5",
           "desc": "",
-          "title_en": "“How to Eat Slowly and Age” … Hyundai Green Food Launches Guidebook on Slow Aging",
-          "title_ja": "「ゆっくり食べる方法と加齢」…現代グリーンフードがスローエイジングガイドブックを発表",
-          "title_zh": "“如何缓慢进食和衰老” ……现代绿色食品推出缓慢衰老指南"
+          "title_en": "Beyond feeding, 'medical data' business… Hyundai Green Food's big picture",
+          "title_ja": "給餌以外にも、「医療データ」ビジネス…現代グリーンフードの全体像",
+          "title_zh": "除了喂养， “医疗数据”业务……现代绿色食品的大局"
         }
       ]
     },
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "굽네 운영사 지앤푸드, 연세대 의대 신축에 1억원 기부",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0teUctUWVmZTlZOGtNR0J4QW5Td0Z6RzdiWHJQaHpYUGlxd0JzdUxEU25UY282cGZmTFQwc1lmeEQ1clVlZDR5Yl80WWhvc3c3VlE?oc=5",
+          "desc": "",
+          "title_en": "Gupne Operator G&F donates KRW 100 million to Yonsei University's new medical school",
+          "title_ja": "Gupne Operator G&F、延世大学の新しい医学部に1億ウォンを寄付",
+          "title_zh": "Gupne运营商G&F向延世大学新医学院捐赠1亿韩元"
+        },
+        {
           "title": "제천시, 의림동 약선음식거리 자율상권구역 지정",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kMVNmX09TS3R2YVNrMF9UNDNZSS1xaDQxaGxueDI5a1NiTzc3elNQNGVESWtWU2NoWnRKaU1NaWJpcURuRW5TT2dmYjVsM2hRVUE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "Ministry of Agriculture and Food, Global Influencers and K-Food Promotion… Seeking to Expand Exports",
           "title_ja": "農林水産省、世界のインフルエンサーとK - Foodプロモーション…輸出拡大を目指す",
           "title_zh": "农业和食品部，全球影响者和K-Food推广......寻求扩大出口"
-        },
-        {
-          "title": "부모 병간호도 회사가 돕는다…현대그린푸드, 고령가족 돌봄 지원",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MQmNGSGVEX3pkekdZdklPWWM3OFE3SjBjVzBBeGlZcXhpbGpyNnkxVG90cDJFQ3QtclRYMEE0b3Z3b1NfcTFCLVRjQTNDUkotQjB0Z2JB?oc=5",
-          "desc": "",
-          "title_en": "Parents and nurses also help the company… Hyundai Green Food supports care for elderly families",
-          "title_ja": "親や看護師も会社を支援しています…現代グリーンフードは高齢者家族のケアをサポートしています",
-          "title_zh": "家长和护士也帮助公司……现代绿色食品支持照顾老年家庭"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "일본의 소자이 시장, 4년 연속 최고치 경신",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmZmxpMDFrSkFlT1BMLW9VQWFjT2VRallvQ2pUY2Nlbl9iNGNBTFJSSFVQSFJOZ0FnMXV6aldEcHoxWDZ0YjB6VzFvWEI3RnVrRmU3ZGU1QQ?oc=5",
+          "desc": "",
+          "title_en": "Japan's Sojai market reaches fourth consecutive high",
+          "title_ja": "日本の総じゃい市場は4年連続の高水準に達する",
+          "title_zh": "日本Sojai市场连续第四年创下新高"
+        },
         {
           "title": "풀무원, 소노펫과 반려견을 위한 캠페인 전개",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SSDZEMUxuOXI0d2YzazJXZ2FpNzJOLWMwVlp0NXl1Qm9wT05aVXV5ZHJxUnZ0QWlMTEYwLXozQlZrVTRhOFMwaXYtbDRSX3BNNzljWEIxdw?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "City Hall Expanded Wine Country Opens Autumn Market",
           "title_ja": "市庁舎拡張ワインカントリーが秋の市場を開く",
           "title_zh": "市政厅扩建葡萄酒之乡秋季市场开幕"
-        },
-        {
-          "title": "버거킹, 제품혁신센터 ‘플레임랩’ 문 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JZnBaSlBNR2RLbWY5NGtPTktJNEFJZ3lCamRFZ3lQVmpOSFZQSXQxZlRDeWlKXzl4SURQb25WODdocTdVakZNUXRmRVQxeHY2dDFlRDdfZw?oc=5",
-          "desc": "",
-          "title_en": "Burger King Opens' Flame Lab 'for Product Innovation Center",
-          "title_ja": "バーガーキング、製品イノベーションセンターに「Flame Lab」を開設",
-          "title_zh": "汉堡王为产品创新中心开设“火焰实验室”"
         }
       ]
     }
