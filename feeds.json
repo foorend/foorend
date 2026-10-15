@@ -1,95 +1,20 @@
 {
-  "lastUpdated": "2026-10-15T16:26:13Z",
+  "lastUpdated": "2026-10-15T20:59:42Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "A cookie empire is starting to crumble",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWlPT0JWM1htbHFJUDBQZldveGFCTy1jMWotdzlwZVdzWHlKU2JZbWpEZkMxM3FCeWlWU0hDMno3MmNEZGQ1NEozZVdrRndVdkw3bXNvbzFtR1dPYU1PM0g1amhfSVJaR0pwaUZfcHNJQUpLbzZScnQ4TS1Ib0RWQ29YQQ?oc=5",
-          "desc": "",
-          "title_ko": "쿠키 제국이 무너지기 시작했습니다",
-          "title_ja": "クッキー帝国が崩壊し始めています",
-          "title_zh": "饼干帝国开始崩溃"
-        },
-        {
-          "title": "Square unveils a kiosk you can talk to",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXk0ak5PMjRsckk5TVNkbjZxLXBvaEp1YTNVMi1OcUM2QVhNal9NNUFnZnJEMGRyaUtDR2tYNWZ3M1daT2xBVlNLWG9qeGtFajlwTHhTdFFMYnFYVUVIZFltY1lKZjhGb0JycTRfV3R6a2VKVGdvQmo2cVl2d0RrY0ZYNGJHZEJx?oc=5",
-          "desc": "",
-          "title_ko": "스퀘어가 대화할 수 있는 키오스크를 공개합니다",
-          "title_ja": "Squareがお話しできるキオスクを発表",
-          "title_zh": "Square推出了一个您可以与之交谈的信息亭"
-        },
-        {
-          "title": "How AI agents could change restaurant ordering",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUVsamg3VTdlejdxR1dzczE0SU1JOFlkY0FROElZNWZkOGtzNV9WWFFOOXd6V1hLSm1qVjl0VEFzcFhWaUx3Qmxmc0VpeVd6dEFfbXl0NjFFQjVqcnUzejE3YWVMSnFpdGFBTmVQZFEtTVp0XzBIMElNTF9WODFRaFpuTjBIbDk2WHRtcmxpOUdQUVlVc2FzUW1B?oc=5",
-          "desc": "",
-          "title_ko": "AI 상담원이 레스토랑 주문을 변경하는 방법",
-          "title_ja": "AIエージェントがレストランの注文を変更する方法",
-          "title_zh": "人工智能客服代表如何更改餐厅订餐方式"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": [
-        {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
-          "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
-        },
-        {
-          "title": "Is It Safe To Eat Chicken Sashimi?",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XY29lSG9fa2ozMHNFUFI1S0lMa1ZTcENUdzEzd2F0bDl6a2RxeEdPUGFUNWkwUHFucGprbjM5eUtQTDBmZ29ad003Z2pqalVjTTl1c1JGV0JhS1RrMWo0NFJuQk9OTWp4Tmk3TXd3b0hUVGJ3?oc=5",
-          "desc": "",
-          "title_ko": "닭 사시미를 먹어도 안전한가요?",
-          "title_ja": "鶏の刺身を食べても大丈夫ですか？",
-          "title_zh": "吃鸡生鱼片安全吗？"
-        }
-      ]
+      "items": []
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": [
-        {
-          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
-          "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
-        },
-        {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
-          "desc": "",
-          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
-          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
-        },
-        {
-          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
-          "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
-        }
-      ]
+      "items": []
     },
     "eater": {
       "label": "Eater",
@@ -126,122 +51,22 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "'혈관 막히기 전에 꼭'…전문가 매일 먹으라는 '이 음식' 정체 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPN0lXQjZwOVhVbUZqZTRDZGkxNFV5Vzl3WnltbTRYSGQxMjlmbEs2cHZ5aGl2TlllaTJ0WGNENDB4amg0bTlPZTc1TmpKMXJCYVg5Nmpwa3dlQQ?oc=5",
-          "desc": "",
-          "title_en": "'Be sure to eat this food' before it clogs the blood vessels' … 'Eat it every day' [Healthy! Talk]",
-          "title_ja": "「この食べ物は、血管を詰まらせる前に必ず食べてください」…「毎日食べてください」【ヘルシー！トーク】",
-          "title_zh": "“一定要吃这种食物”在它堵塞血管之前…… “每天吃” [健康！谈话]"
-        },
-        {
-          "title": "사재 털어 재단 세웠다…K푸드 세계화 나선 샘표 대표",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qRzJBWDNPb3lpM1Zhb0JRWnRZdlMwVTlnekpJWTR1RmNlYmFidXZ6RzZOTGlXOThSOGdEY3RTRWVmaEFBN3QtdERFTm5tbW9rb1ltYTZUMjFvZw?oc=5",
-          "desc": "",
-          "title_en": "The Sajae Foundation was established… Sampak, CEO of K-Food Globalization Spiral",
-          "title_ja": "Sajae財団が設立されました… K - Food Globalization SpiralのCEO、Sampak",
-          "title_zh": "Sajae基金会成立…… K-Food Globalization Spiral首席执行官Sampak"
-        },
-        {
-          "title": "\"천천히 나이 드는 식사법\"…현대그린푸드, 저속노화 가이드북 출간",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ibm9sb3JVN1BybDFHb3pjOTg1N0Z4UXZ3d3d2WV8yVXFvVV9KYjVlbDVocExOLU5QQzFqeHNEV3FZX0VOWTJiUTJ1VHRuSXI5MUREaUtSbDc4VlF5SHdfNEZzTWh2YUpISUxCYnpSdDk5WlBYWmxQMGhqTWhBX2c?oc=5",
-          "desc": "",
-          "title_en": "“How to Eat Slowly and Age” … Hyundai Green Food Launches Guidebook on Slow Aging",
-          "title_ja": "「ゆっくり食べる方法と加齢」…現代グリーンフードがスローエイジングガイドブックを発表",
-          "title_zh": "“如何缓慢进食和衰老” ……现代绿色食品推出缓慢衰老指南"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": [
-        {
-          "title": "음식 명인에 스타 셰프까지…‘남도의 맛’ 한자리에",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hNmNqa2dDUmFhb0dGWHRpRGREWXQzNmxHd3RmVDJ0MG5qNXJkMjdrbjBTa0hKdk93Z2RYWTFLWXFzWkxzeDFSZlFVSHNlMk9tS3fSAVNBVV95cUxOdUNBUzVjaHBVZDFkU1J0MWtWMmVoMEhXSFRZemR2WXNUZFQzTWt4V0VwWU5JTV9YTEYzVjZacU15eUJYNVJTZ3paZ1l3eF96NFFJaw?oc=5",
-          "desc": "",
-          "title_en": "From food connoisseurs to star chefs… ‘Taste of Namdo’ in one place",
-          "title_ja": "グルメ愛好家からスターシェフまで、「ナムドの味」を一箇所で",
-          "title_zh": "从美食鉴赏家到明星厨师……一站式品尝「南岛之味」"
-        },
-        {
-          "title": "[단독] ‘불닭볶음면’ 식품첨가물 공급하는 내츄럴스푸드 매물로 [시그널]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fa282Y3QyTnNwZ3pveU9sdjliR2M0V0VzTVhrSElwQXVqMkRGallQb0Nmd3JUZnJvSkRzRTNDUkZTUkJZcTVPOUZMajFxVlY0SWfSAVNBVV95cUxOeEpENU9ORFZlcU5XYUM4aGg4MDhPcTlmS2h1dFEtdUtfUHJ0SXBGbng5NUhzdEtOR0V2R1FibXpqUXlBNnBJc2RWTnI5bVp4SXBCNA?oc=5",
-          "desc": "",
-          "title_en": "[Exclusive] As a natural food property that supplies food additives for ’grilled chicken roast noodles' [Signal]",
-          "title_ja": "【限定】「焼き鳥焼きそば」の食品添加物を供給する天然食品物件として【シグナル】",
-          "title_zh": "【独家】作为天然食品物业，为「烤鸡烤面」提供食品添加剂【Signal】"
-        },
-        {
-          "title": "“K푸드 들고 도쿄로”…신세계百 하이퍼그라운드, 日 시부야 팝업 개최",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wTkFveHliZmItcTdmWWpvQndhb0FobTI1cFZEX00tZ01JRDBMbzNfazdsdEZ6Ym5pb3Nxc2k1dmlGUDJmRHY5LU1wTzI1b1lib0HSAVNBVV95cUxPOHAtaklSeFhHbXJzcW5EWWQxcjNtaGk3bG9xUjZ4anlJVW9fMUFpUXp6Q3lubWRDQmk2MExSXzNXcFFUZ2NaZVRRN1VoQTRGU1ZXVQ?oc=5",
-          "desc": "",
-          "title_en": "“To Tokyo with K Food” … Shinsegae Hundred Hyperground, Japan Shibuya Pop-Up",
-          "title_ja": "「Kフードで東京へ」…新世界百ハイパーグラウンド、日本渋谷ポップアップ",
-          "title_zh": "「用K美食前往东京」…… Shinsegae Hundred Hyperground ，日本涩谷弹出式公寓"
-        }
-      ]
+      "items": []
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": [
-        {
-          "title": "\"세계인이 즐기는 K푸드 축제로\"…순창장류축제 개막",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80MnVid01Oelg5WlI2MFJfVWVlem5PVGlSemxQcFMyTWZmNVMyeTJHOG5EbnNBRHppOUY1UjEwNlZMc2t0QzU2N2RiNVNyM2tLVlE?oc=5",
-          "desc": "",
-          "title_en": "\"As a K-food festival enjoyed by the world\" … the opening of the Sunchang Market Festival",
-          "title_ja": "「世界が楽しむＫフード祭り」…駿昌市場祭り開幕",
-          "title_zh": "“作为世界享受的韩国美食节” ……顺昌市场节开幕"
-        },
-        {
-          "title": "굽네 운영사 지앤푸드, 연세대 의대 신축에 1억원 기부",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0teUctUWVmZTlZOGtNR0J4QW5Td0Z6RzdiWHJQaHpYUGlxd0JzdUxEU25UY282cGZmTFQwc1lmeEQ1clVlZDR5Yl80WWhvc3c3VlE?oc=5",
-          "desc": "",
-          "title_en": "Gupne Operator G&F donates KRW 100 million to Yonsei University's new medical school",
-          "title_ja": "Gupne Operator G&F、延世大学の新しい医学部に1億ウォンを寄付",
-          "title_zh": "Gupne运营商G&F向延世大学新医学院捐赠1亿韩元"
-        },
-        {
-          "title": "K푸드 새스타 '즉석밥'… 수출 1억弗 넘는다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DRkVPQXBaZjBlSUFEOFBrbmpxTEhkUDItaERVTVNTV25hT1FLcjMtX1QwdHlldllSelp6eEh0Yi1SUFJQQ1E?oc=5",
-          "desc": "",
-          "title_en": "K-Food Sasta 'Instant Rice' … Exported more than 100 million won",
-          "title_ja": "K - Foodサスタ「インスタントライス」…輸出1億ウォン以上",
-          "title_zh": "K-Food Sasta “速食米饭” …出口额超过1亿韩元"
-        }
-      ]
+      "items": []
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "일본의 소자이 시장, 4년 연속 최고치 경신",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmZmxpMDFrSkFlT1BMLW9VQWFjT2VRallvQ2pUY2Nlbl9iNGNBTFJSSFVQSFJOZ0FnMXV6aldEcHoxWDZ0YjB6VzFvWEI3RnVrRmU3ZGU1QQ?oc=5",
-          "desc": "",
-          "title_en": "Japan's Sojai market reaches fourth consecutive high",
-          "title_ja": "日本の総じゃい市場は4年連続の高水準に達する",
-          "title_zh": "日本Sojai市场连续第四年创下新高"
-        },
-        {
-          "title": "풀무원, 소노펫과 반려견을 위한 캠페인 전개",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SSDZEMUxuOXI0d2YzazJXZ2FpNzJOLWMwVlp0NXl1Qm9wT05aVXV5ZHJxUnZ0QWlMTEYwLXozQlZrVTRhOFMwaXYtbDRSX3BNNzljWEIxdw?oc=5",
-          "desc": "",
-          "title_en": "Pulmuwon launches campaign for Sonopets and dogs",
-          "title_ja": "プルムウォン、ソノペットと犬のためのキャンペーンを開始",
-          "title_zh": "Pulmuwon推出针对Sonopets和狗的活动"
-        },
-        {
-          "title": "시청점 확장한 와인나라, 가을장터 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOOXhyVHQ1ZF9BSTNfTEd3VjVPM29lUGI5VklOc3NUMFB0d3FkcjV4cFU1RjQyUV9oMDlZRXpySkk2UzRQSWNMMTVrNDdROWVaR290T2ZfRQ?oc=5",
-          "desc": "",
-          "title_en": "City Hall Expanded Wine Country Opens Autumn Market",
-          "title_ja": "市庁舎拡張ワインカントリーが秋の市場を開く",
-          "title_zh": "市政厅扩建葡萄酒之乡秋季市场开幕"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
