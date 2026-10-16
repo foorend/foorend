@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T23:38:27Z",
+  "lastUpdated": "2026-10-16T03:27:25Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -36,6 +36,14 @@
       "site": "https://www.foodandwine.com/news",
       "items": [
         {
+          "title": "Why Costco Beef Is a Favorite Among Chefs and Butchers",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjhIMTRHNW5aY2xjMkRHaUZLd3M3S0VyZHI2WHcwUkV1ZE5KdEZQNHVyM0ZlZG9DeEpYRW1sQVBZVXRYem51SXZkZUh4dGZvNnpqZkJ3dUpycmxKdnF5a2t0RFBwUGVxVnJkZVFwS0FjUFJ4TDZ0anEzNDlDMzdHV2NWNV8zQQ?oc=5",
+          "desc": "",
+          "title_ko": "코스트코 비프가 셰프와 정육점에서 인기 있는 이유",
+          "title_ja": "コストコビーフがシェフや肉屋のお気に入りになる理由",
+          "title_zh": "为什么Costco牛肉是大厨和屠夫的最爱"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
@@ -50,14 +58,6 @@
           "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
           "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
           "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
-        },
-        {
-          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
-          "desc": "",
-          "title_ko": "앤서니 부르댕과 에릭 리퍼트, 새로운 초콜릿 바 론칭",
-          "title_ja": "Anthony BourdainとEric Ripertが新しいチョコレートバーを発売",
-          "title_zh": "Anthony Bourdain和Eric Ripert推出全新巧克力棒"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "“一定要吃这种食物”在它堵塞血管之前…… “每天吃” [健康！谈话]"
         },
         {
+          "title": "국내 최대 식품문화축제 ‘NS푸드페스타 2026 익산’ 16일 개막",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RVFFRUUYxS2dxUzRlOHpteDhmRnlsNU4zeDlhM1kzdUtTWG1fUEVrVzRJeHpRb1N3OU0wM29tTEpjUVVfcUYwb0R5WTVmR2RRWHVQbTI0NWhxdw?oc=5",
+          "desc": "",
+          "title_en": "'NS Food Festa 2026 Iksan‘, the largest food culture festival in Korea, opens on the 16th",
+          "title_ja": "韓国最大級の食文化祭「NSフードフェスタ2026イクサン」が16日に開幕",
+          "title_zh": "韩国最大的美食文化节“NS Food Festa 2026 Iksan”将于16日开幕"
+        },
+        {
           "title": "사재 털어 재단 세웠다…K푸드 세계화 나선 샘표 대표",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qRzJBWDNPb3lpM1Zhb0JRWnRZdlMwVTlnekpJWTR1RmNlYmFidXZ6RzZOTGlXOThSOGdEY3RTRWVmaEFBN3QtdERFTm5tbW9rb1ltYTZUMjFvZw?oc=5",
           "desc": "",
           "title_en": "The Sajae Foundation was established… Sampak, CEO of K-Food Globalization Spiral",
           "title_ja": "Sajae財団が設立されました… K - Food Globalization SpiralのCEO、Sampak",
           "title_zh": "Sajae基金会成立…… K-Food Globalization Spiral首席执行官Sampak"
-        },
-        {
-          "title": "[취재수첩] K푸드 세계로 뛰라면서…발목 잡는 정부",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12VkRLblJhNl9KMnlBZkhRbVZvQmF6Yk1jZ05nMUI4REo2cUg3QkdtNDNKcXRyc0dyTWNtb1BHN2hvRDZBQ00yRDlSRzJzYXEtNGxXUWJKem5TQQ?oc=5",
-          "desc": "",
-          "title_en": "[Reporting Notebook] An ankle-grabbing government while leaping into the world of K-Food",
-          "title_ja": "【通報ノート】K - Foodの世界に飛び込みつつ足首をつかむ政府",
-          "title_zh": "【举报笔记本】抢脚踝的政府一跃而入K-Food世界"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "음식 명인에 스타 셰프까지…‘남도의 맛’ 한자리에",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hNmNqa2dDUmFhb0dGWHRpRGREWXQzNmxHd3RmVDJ0MG5qNXJkMjdrbjBTa0hKdk93Z2RYWTFLWXFzWkxzeDFSZlFVSHNlMk9tS3fSAVNBVV95cUxOdUNBUzVjaHBVZDFkU1J0MWtWMmVoMEhXSFRZemR2WXNUZFQzTWt4V0VwWU5JTV9YTEYzVjZacU15eUJYNVJTZ3paZ1l3eF96NFFJaw?oc=5",
+          "title": "피시방·펫카페 음식 판매도 신고 대상…경남도 19일부터 단속",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IWVF2bTM0QTVwYzBXQjZOZmRSeGRQb1pnbXljS3lQd2lqTks1bHFpUS1FYWQ0bjdDUHlzaXU5aklUWDBtTm01QTNKckNUT1EzZlHSAVNBVV95cUxQd3djUm9RYkNxZEVDeEV1X21mOVlsR182WHByV1ZqazcxTzh2SU9TNUpxT1M4eTFSTG9VUWNNRWstSVNCZjJkQmNHYzF4eFBqbi1CSQ?oc=5",
           "desc": "",
-          "title_en": "From food connoisseurs to star chefs… ‘Taste of Namdo’ in one place",
-          "title_ja": "グルメ愛好家からスターシェフまで、「ナムドの味」を一箇所で",
-          "title_zh": "从美食鉴赏家到明星厨师……一站式品尝「南岛之味」"
+          "title_en": "Fish cafe and pet cafe food sales are also subject to report... Crackdown from the 19th of Gyeongnam-do",
+          "title_ja": "フィッシュカフェやペットカフェのフード販売も通報対象・・・慶南道19日からの取り締まり",
+          "title_zh": "鱼咖啡馆和宠物咖啡馆的食品销售也会受到举报……来自庆南道的19号镇压"
         },
         {
           "title": "먼저 식당 도착해 음식 주문한 아내…남편 살해 혐의로 징역 20년, 무슨 일?",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xVUYwWWtmYlRpWUpKSHBqdUk4NzRoc0RCMUtnbTNPUE9lb1lYZDl4blo4ZWY3VjdHV1BaTHQ1WjBCekpjbVpmSjNrVDZ1X3hTQmdV0gFTQVVfeXFMTTFVRjBZa2ZiVGlZSkpIcGp1STg3NGhzREIxS2dtM09QT2VvWVhkOXhuWjhlZjdWN0dXUFpMdDVaMEJ6SmNtWmZKM2tUNnVfeFNCZ1U?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KdUdWZDFuYUdjRGpvSVg5U0dSMTc2TFF0NF9BWXZHQ3V1WmNVakZjNGhJVDhLSDVMOG92UXZibDQxVjlYX2VFWmE2a2U3djliV3fSAVNBVV95cUxNMVVGMFlrZmJUaVlKSkhwanVJODc0aHNEQjFLZ20zT1BPZW9ZWGQ5eG5aOGVmN1Y3R1dQWkx0NVowQnpKY21aZkoza1Q2dV94U0JnVQ?oc=5",
           "desc": "",
           "title_en": "Wife who first arrived at the restaurant and ordered food… 20 years in prison for murdering her husband, what happened?",
           "title_ja": "最初にレストランに到着して食べ物を注文した妻...夫を殺害した罪で20年の懲役、何が起こったのですか？",
           "title_zh": "第一次来到餐厅点餐的妻子……因为谋杀丈夫而被判入狱20年，发生了什么？"
         },
         {
-          "title": "“K푸드 들고 도쿄로”…신세계百 하이퍼그라운드, 日 시부야 팝업 개최",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wTkFveHliZmItcTdmWWpvQndhb0FobTI1cFZEX00tZ01JRDBMbzNfazdsdEZ6Ym5pb3Nxc2k1dmlGUDJmRHY5LU1wTzI1b1lib0HSAVNBVV95cUxPOHAtaklSeFhHbXJzcW5EWWQxcjNtaGk3bG9xUjZ4anlJVW9fMUFpUXp6Q3lubWRDQmk2MExSXzNXcFFUZ2NaZVRRN1VoQTRGU1ZXVQ?oc=5",
+          "title": "음식 명인에 스타 셰프까지…‘남도의 맛’ 한자리에",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hNmNqa2dDUmFhb0dGWHRpRGREWXQzNmxHd3RmVDJ0MG5qNXJkMjdrbjBTa0hKdk93Z2RYWTFLWXFzWkxzeDFSZlFVSHNlMk9tS3fSAVNBVV95cUxOdUNBUzVjaHBVZDFkU1J0MWtWMmVoMEhXSFRZemR2WXNUZFQzTWt4V0VwWU5JTV9YTEYzVjZacU15eUJYNVJTZ3paZ1l3eF96NFFJaw?oc=5",
           "desc": "",
-          "title_en": "“To Tokyo with K Food” … Shinsegae Hundred Hyperground, Japan Shibuya Pop-Up",
-          "title_ja": "「Kフードで東京へ」…新世界百ハイパーグラウンド、日本渋谷ポップアップ",
-          "title_zh": "「用K美食前往东京」…… Shinsegae Hundred Hyperground ，日本涩谷弹出式公寓"
+          "title_en": "From food connoisseurs to star chefs… ‘Taste of Namdo’ in one place",
+          "title_ja": "グルメ愛好家からスターシェフまで、「ナムドの味」を一箇所で",
+          "title_zh": "从美食鉴赏家到明星厨师……一站式品尝「南岛之味」"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "동아대, 외국인 유학생 전용 'K-푸드 학과' 신설",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OaFpEYWdLdnhpbXA4ZUZBWmJWWE01LVpXc0NuSko0ZVIyVVNOZl9KTWJDcnlGc05QSG41MXFiTTJPT1Q1UmdRWEJ6bVVVaUZBY0E?oc=5",
+          "desc": "",
+          "title_en": "Dong-A University Establishes' K-Food Department 'for International Students",
+          "title_ja": "東亜大学、留学生のための「K - Food部門」を設立",
+          "title_zh": "东亚大学为国际学生设立“K-Food部门”"
+        },
         {
           "title": "\"세계인이 즐기는 K푸드 축제로\"…순창장류축제 개막",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80MnVid01Oelg5WlI2MFJfVWVlem5PVGlSemxQcFMyTWZmNVMyeTJHOG5EbnNBRHppOUY1UjEwNlZMc2t0QzU2N2RiNVNyM2tLVlE?oc=5",
@@ -196,20 +204,12 @@
           "title_zh": "“作为世界享受的韩国美食节” ……顺昌市场节开幕"
         },
         {
-          "title": "굽네 운영사 지앤푸드, 연세대 의대 신축에 1억원 기부",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0teUctUWVmZTlZOGtNR0J4QW5Td0Z6RzdiWHJQaHpYUGlxd0JzdUxEU25UY282cGZmTFQwc1lmeEQ1clVlZDR5Yl80WWhvc3c3VlE?oc=5",
+          "title": "취업자 11.3만명↑…제조업 감소 끊었지만 음식숙박 감소폭 확대(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UOUlVYnluQmJodGFtVlFmVzk1NDB5STJmYV80aWhjUDg0QmRQTU56MV9TcGlnaVgzLVJfUmQxZ3oybWdiZW5pWXFidkVYNk5pY0E?oc=5",
           "desc": "",
-          "title_en": "Gupne Operator G&F donates KRW 100 million to Yonsei University's new medical school",
-          "title_ja": "Gupne Operator G&F、延世大学の新しい医学部に1億ウォンを寄付",
-          "title_zh": "Gupne运营商G&F向延世大学新医学院捐赠1亿韩元"
-        },
-        {
-          "title": "K푸드 새스타 '즉석밥'… 수출 1억弗 넘는다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DRkVPQXBaZjBlSUFEOFBrbmpxTEhkUDItaERVTVNTV25hT1FLcjMtX1QwdHlldllSelp6eEh0Yi1SUFJQQ1E?oc=5",
-          "desc": "",
-          "title_en": "K-Food Sasta 'Instant Rice' … Exported more than 100 million won",
-          "title_ja": "K - Foodサスタ「インスタントライス」…輸出1億ウォン以上",
-          "title_zh": "K-Food Sasta “速食米饭” …出口额超过1亿韩元"
+          "title_en": "113,000 people employed↑… Although manufacturing decreased, food accommodation decreased and expanded (comprehensive)",
+          "title_ja": "113,000人が雇用されています↑…製造業は減少しましたが、食料品の宿泊施設は減少し、拡大しました（包括的）",
+          "title_zh": "113,000人就业↑……尽管制造业有所下降，但食品住宿减少和扩大（综合）"
         }
       ]
     },
