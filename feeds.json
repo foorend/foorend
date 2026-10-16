@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T10:50:51Z",
+  "lastUpdated": "2026-10-16T16:11:42Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The Best Gifts for Martini Lovers (Besides an Ice-Cold Martini)",
+          "link": "https://www.eater.com/add-to-cart/892210/the-best-gifts-for-martini-lovers-besides-an-ice-cold-martini",
+          "desc": "Ah, a perfectly made martini. When in the right mood, is there anything better than its bracing crispness? Then there’s the saline hit of the brine, s",
+          "title_ko": "마티니 애호가를 위한 최고의 선물 (얼음처럼 차가운 마티니 말고도)",
+          "title_ja": "マティーニ愛好家への最高の贈り物（アイスコールドマティーニ以外）",
+          "title_zh": "给马提尼爱好者的最好礼物（除了冰冷的马提尼酒）"
+        },
+        {
           "title": "Resort Life",
           "link": "https://www.eater.com/travel-guides/992550/resort-life",
           "desc": "It’s a brilliant fall day on Carter’s Creek in Irvington, Virginia, and a small group is hauling baskets of oysters from the brackish waters. They are",
@@ -110,14 +118,6 @@
           "title_ko": "미국 최고의 요리 리조트",
           "title_ja": "米国で最高の料理リゾート",
           "title_zh": "美国最佳烹饪度假村"
-        },
-        {
-          "title": "These Resorts Offer a Real Taste of American Regional Cuisine",
-          "link": "https://www.eater.com/travel-guides/992622/these-resorts-offer-a-real-taste-of-american-regional-cuisine",
-          "desc": "American resorts are once again having a moment — and it’s not pickleball partisans driving the trend. A new generation of travelers, beset with decis",
-          "title_ko": "이 리조트는 미국 지역 요리의 진정한 맛을 제공합니다",
-          "title_ja": "これらのリゾートは、アメリカの郷土料理の本物の味を提供します",
-          "title_zh": "这些度假村提供真正的美国地区美食"
         }
       ]
     }
@@ -136,20 +136,20 @@
           "title_zh": "“一定要吃这种食物”在它堵塞血管之前…… “每天吃” [健康！谈话]"
         },
         {
+          "title": "\"주 1회 먹으면 심장병 위험 감소\"…전문가 권고한 '음식'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqWF9LdTVpZ09GNUQxRUt6dEZTdWxwVkt0VnA0ak9HZFl4V0FENVMtSlQ2c3RmRGRRU1pXXzNfR1d3NW11T0ZtNC1VM2U5Z2xYU0k5VWtHUTlDdw?oc=5",
+          "desc": "",
+          "title_en": "\"Reducing the risk of heart disease once a week\" … expert-recommended 'food'",
+          "title_ja": "「週に1回心臓病のリスクを減らす」…専門家が推奨する「食べ物」",
+          "title_zh": "“每周一次降低心脏病风险” ……专家推荐的“食物”"
+        },
+        {
           "title": "국내 최대 식품문화축제 ‘NS푸드페스타 2026 익산’ 16일 개막(종합)",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsVXRCZHZlNWF1dW5SVk1OajY2MkJSWWVqTUl5T1RPaXNhLWxfR1hnbG9NaXQtNmQ4cGtIZmtrOThGQzhxR2tFWXFJbjRsR0hra2tZZGVMRXFuZw?oc=5",
           "desc": "",
           "title_en": "'NS Food Festa 2026 Iksan‘, the largest food culture festival in Korea, opens on the 16th (comprehensive)",
           "title_ja": "韓国最大級の食文化祭「NSフードフェスタ2026イクサン」が16日（総合）に開幕",
           "title_zh": "韩国最大的美食文化节“NS Food Festa 2026 Iksan”将于16日（综合）开幕"
-        },
-        {
-          "title": "국내 최대 식품문화축제 ‘NS푸드페스타 2026 익산’ 16일 개막",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RVFFRUUYxS2dxUzRlOHpteDhmRnlsNU4zeDlhM1kzdUtTWG1fUEVrVzRJeHpRb1N3OU0wM29tTEpjUVVfcUYwb0R5WTVmR2RRWHVQbTI0NWhxdw?oc=5",
-          "desc": "",
-          "title_en": "'NS Food Festa 2026 Iksan‘, the largest food culture festival in Korea, opens on the 16th",
-          "title_ja": "韓国最大級の食文化祭「NSフードフェスタ2026イクサン」が16日に開幕",
-          "title_zh": "韩国最大的美食文化节“NS Food Festa 2026 Iksan”将于16日开幕"
         }
       ]
     },
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "[게시판] 맥케인 푸드, 서울 연남동서 감자튀김 테마 팝업",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16bmhkTzU0X0tOcmh6Mjh0ckhzU3VtMDE1d3ZGMUtzWGdZSTV2eTZfRVJDLVRTRmhNV0YzQ2g4SllONTltc1ZkUlRRaWViNnNC?oc=5",
-          "desc": "",
-          "title_en": "[Bulletin Board] McCain Food, Fries Theme Pop-Up in Yeonnam-dong, Seoul",
-          "title_ja": "【掲示板】ソウル延南洞でマケインフード、フライドポップアップ",
-          "title_zh": "[公告栏]首尔延南洞麦凯恩美食、薯条主题快闪店"
-        },
-        {
           "title": "'국내 최대 규모 식품문화축제' NS푸드페스타 익산서 개막",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5janlCdXM3Wk5vVE9jWGY2RWR4M3VZbzJkYVRKMlQ2QkREYnc5WklyOTRmN2pLWHBScGdWcmhleXZjaGFYRkFnZ3FLRWZPWldaOFE?oc=5",
           "desc": "",
@@ -210,6 +202,14 @@
           "title_en": "Dong-A University Establishes' K-Food Department 'for International Students",
           "title_ja": "東亜大学、留学生のための「K - Food部門」を設立",
           "title_zh": "东亚大学为国际学生设立“K-Food部门”"
+        },
+        {
+          "title": "[게시판] 맥케인 푸드, 서울 연남동서 감자튀김 테마 팝업",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16bmhkTzU0X0tOcmh6Mjh0ckhzU3VtMDE1d3ZGMUtzWGdZSTV2eTZfRVJDLVRTRmhNV0YzQ2g4SllONTltc1ZkUlRRaWViNnNC?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] McCain Food, Fries Theme Pop-Up in Yeonnam-dong, Seoul",
+          "title_ja": "【掲示板】ソウル延南洞でマケインフード、フライドポップアップ",
+          "title_zh": "[公告栏]首尔延南洞麦凯恩美食、薯条主题快闪店"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "버거킹, 제품혁신센터 ‘플레임랩’ 문 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JZnBaSlBNR2RLbWY5NGtPTktJNEFJZ3lCamRFZ3lQVmpOSFZQSXQxZlRDeWlKXzl4SURQb25WODdocTdVakZNUXRmRVQxeHY2dDFlRDdfZw?oc=5",
-          "desc": "",
-          "title_en": "Burger King Opens' Flame Lab 'for Product Innovation Center",
-          "title_ja": "バーガーキング、製品イノベーションセンターに「Flame Lab」を開設",
-          "title_zh": "汉堡王为产品创新中心开设“火焰实验室”"
-        },
         {
           "title": "오래된 우리 집 냉동실 얼음, 안전할까?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IbUhEOGdsMWQxT053Qi01NkMzb3VKZzFhbTI2dHc5aEZVNXphSWh6T3BCTWpZNkQ5aUE5Y1lJM04tWlJqUVJENVIydVQ1OXBXZWJJU256Zw?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "When sliced like this, Korean restaurant kimchi… Kimchi is beautifully sliced",
           "title_ja": "このようにスライスすると、韓国レストランのキムチ…キムチは美しくスライスされます",
           "title_zh": "像这样切片时，韩国餐厅泡菜…泡菜切得很漂亮"
+        },
+        {
+          "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
+          "desc": "",
+          "title_en": "Kombucha, warm in winter... Tizen ‘Kombucha Orange Cinnamon’",
+          "title_ja": "冬暖かいコンブチャ…天前「コンブチャオレンジシナモン」",
+          "title_zh": "康普茶，冬季温暖…… Tizen「康普茶橙肉桂」"
         }
       ]
     }
