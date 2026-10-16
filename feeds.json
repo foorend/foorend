@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T16:11:42Z",
+  "lastUpdated": "2026-10-16T20:35:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -204,12 +204,12 @@
           "title_zh": "东亚大学为国际学生设立“K-Food部门”"
         },
         {
-          "title": "[게시판] 맥케인 푸드, 서울 연남동서 감자튀김 테마 팝업",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16bmhkTzU0X0tOcmh6Mjh0ckhzU3VtMDE1d3ZGMUtzWGdZSTV2eTZfRVJDLVRTRmhNV0YzQ2g4SllONTltc1ZkUlRRaWViNnNC?oc=5",
+          "title": "“전국 맛있는 음식 먹었는데”… ‘채널 잠정 중단 선언’ 이장우, 왜?",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuSzNVUWI5eFhpQ3piT1E1UXFBOVFYYnNudy1UM2tZYnJLZGZGbFBkbFNUYU9yMjg5VnQ3OUh1UGJIdERFX1Q0V3MwZ0NfN0sxYzdXYw?oc=5",
           "desc": "",
-          "title_en": "[Bulletin Board] McCain Food, Fries Theme Pop-Up in Yeonnam-dong, Seoul",
-          "title_ja": "【掲示板】ソウル延南洞でマケインフード、フライドポップアップ",
-          "title_zh": "[公告栏]首尔延南洞麦凯恩美食、薯条主题快闪店"
+          "title_en": "“I ate delicious food from all over the country” … ‘Declaration of temporary suspension of the channel’ Lee Jang-woo, why?",
+          "title_ja": "「全国のおいしい料理を食べました」…「チャンネルの一時停止の宣言」イ・ジャンウ、なぜですか？",
+          "title_zh": "“我吃了来自全国各地的美味佳肴” …… ‘宣布暂停频道’ Lee Jang-woo ，为什么？"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "오래된 우리 집 냉동실 얼음, 안전할까?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IbUhEOGdsMWQxT053Qi01NkMzb3VKZzFhbTI2dHc5aEZVNXphSWh6T3BCTWpZNkQ5aUE5Y1lJM04tWlJqUVJENVIydVQ1OXBXZWJJU256Zw?oc=5",
-          "desc": "",
-          "title_en": "Is my old house freezer ice safe?",
-          "title_ja": "古い家の冷凍庫の氷は安全ですか？",
-          "title_zh": "我的旧房子冰柜冰安全吗？"
-        },
         {
           "title": "이렇게 썰면 한식당 김치…김치 예쁘게 썰기",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80S0hQTWszQUlOWWVNNU1XMTVUc19SWlZQZFA0NUM4cEJ6N29yN1NsaTVyQ2xMNTVMbjRCTjJ6eUZ1ZWFwazB6SVlrMHBZTF81RVpKWW5nOA?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Kombucha, warm in winter... Tizen ‘Kombucha Orange Cinnamon’",
           "title_ja": "冬暖かいコンブチャ…天前「コンブチャオレンジシナモン」",
           "title_zh": "康普茶，冬季温暖…… Tizen「康普茶橙肉桂」"
+        },
+        {
+          "title": "무알코올에 퓨전 음식…‘옥토버페스트’로 보는 유럽 트렌드",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQRFZIdnk1X3ZianJHM0hZS24tcG5RTUwtakwxdzVvUlNqcnFDcTlRejFuYjdMYnY1c3BxQ1pqRFNnSFJVOHkzTUZHOHRxdkNnT00zaVk2cw?oc=5",
+          "desc": "",
+          "title_en": "Non-Alcoholic Fusion Food… European Trends at Oktoberfest",
+          "title_ja": "ノンアルコールフュージョンフード…オクトーバーフェストでヨーロッパのトレンドを学ぼう",
+          "title_zh": "非酒精融合美食…慕尼黑啤酒节的欧洲潮流"
         }
       ]
     }
