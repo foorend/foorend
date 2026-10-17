@@ -1,20 +1,95 @@
 {
-  "lastUpdated": "2026-10-17T20:13:37Z",
+  "lastUpdated": "2026-10-17T22:54:42Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": []
+      "items": [
+        {
+          "title": "A cookie empire is starting to crumble",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWlPT0JWM1htbHFJUDBQZldveGFCTy1jMWotdzlwZVdzWHlKU2JZbWpEZkMxM3FCeWlWU0hDMno3MmNEZGQ1NEozZVdrRndVdkw3bXNvbzFtR1dPYU1PM0g1amhfSVJaR0pwaUZfcHNJQUpLbzZScnQ4TS1Ib0RWQ29YQQ?oc=5",
+          "desc": "",
+          "title_ko": "쿠키 제국이 무너지기 시작했습니다",
+          "title_ja": "クッキー帝国が崩壊し始めています",
+          "title_zh": "饼干帝国开始崩溃"
+        },
+        {
+          "title": "Square unveils a kiosk you can talk to",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXk0ak5PMjRsckk5TVNkbjZxLXBvaEp1YTNVMi1OcUM2QVhNal9NNUFnZnJEMGRyaUtDR2tYNWZ3M1daT2xBVlNLWG9qeGtFajlwTHhTdFFMYnFYVUVIZFltY1lKZjhGb0JycTRfV3R6a2VKVGdvQmo2cVl2d0RrY0ZYNGJHZEJx?oc=5",
+          "desc": "",
+          "title_ko": "스퀘어가 대화할 수 있는 키오스크를 공개합니다",
+          "title_ja": "Squareがお話しできるキオスクを発表",
+          "title_zh": "Square推出了一个您可以与之交谈的信息亭"
+        },
+        {
+          "title": "What led to True Food Kitchen’s bankruptcy?",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcU1LQU1SSGV2NWQxeVBUYm9LWHJsejdyTXVyNzFkT09FOEVJM3EwenVDbGlyc3hEMkZ1ckpIbFk2WkdKM1ZDbWEtWUdHOWpPM3lLQnJ2a0NTaUk0M0wwQnRpRlBwaUVCWmJkQUxrTEdTWHNLczJLaXRwY05LeFFJZHd4ZXlRTHNIc3VSVmF3?oc=5",
+          "desc": "",
+          "title_ko": "트루 푸드 키친이 파산하게 된 계기는 무엇인가요?",
+          "title_ja": "True Food Kitchenの破産の原因は何ですか？",
+          "title_zh": "什么导致了True Food Kitchen的破产？"
+        }
+      ]
     },
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": []
+      "items": [
+        {
+          "title": "Why Costco Beef Is a Favorite Among Chefs and Butchers",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjhIMTRHNW5aY2xjMkRHaUZLd3M3S0VyZHI2WHcwUkV1ZE5KdEZQNHVyM0ZlZG9DeEpYRW1sQVBZVXRYem51SXZkZUh4dGZvNnpqZkJ3dUpycmxKdnF5a2t0RFBwUGVxVnJkZVFwS0FjUFJ4TDZ0anEzNDlDMzdHV2NWNV8zQQ?oc=5",
+          "desc": "",
+          "title_ko": "코스트코 비프가 셰프와 정육점에서 인기 있는 이유",
+          "title_ja": "コストコビーフがシェフや肉屋のお気に入りになる理由",
+          "title_zh": "为什么Costco牛肉是大厨和屠夫的最爱"
+        },
+        {
+          "title": "World's Largest Burger Costs $8,000",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qaFZFYXg5RlJaT3B6RTlhR2ZseXRENGhYNF9YbHg0U0NkdDE2SzhRUURpa3Z6ZlZORU51QkJTWW9ERHVZaUlYd2VOT0F2RC1NZmUtdTVlUGFQQjV0UU01S1pqN0Y?oc=5",
+          "desc": "",
+          "title_ko": "세계에서 가장 큰 햄버거 비용 $ 8,000",
+          "title_ja": "世界最大のハンバーガーの価格は$ 8,000",
+          "title_zh": "全球最大的汉堡售价为$ 8,000"
+        },
+        {
+          "title": "The Glenlivet's 'Capsule Collection' Is Sort of Like Gushers but Whisky",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QWnNBRjFpNG5BYkZ6ejl6NFlBWllxQlBZRUhQNU5mdEY3T1JKb2c2aDNuV0FfMFlibWVqUTlTV2FlcHhtNTdmdjlzWXBLVmdkYldpQTVIZTFKNGFMTmdYaV9KRlA5N25XQ29INDNR?oc=5",
+          "desc": "",
+          "title_ko": "글렌리벳의 '캡슐 컬렉션' 은 거셔와 비슷하지만 위스키입니다.",
+          "title_ja": "グレンリベットの「カプセルコレクション」はガッシャーのようなものですが、ウィスキーのようなものです",
+          "title_zh": "Glenlivet的“胶囊系列”有点像Gushers威士忌"
+        }
+      ]
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": []
+      "items": [
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
+          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
+          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+        },
+        {
+          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
+          "desc": "",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
+          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
+          "desc": "",
+          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
+          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
+          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
+        }
+      ]
     },
     "eater": {
       "label": "Eater",
@@ -51,22 +126,122 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": []
+      "items": [
+        {
+          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0ZaYk84SFZCc3Y2RVJhWkNxS2luU19EM0hCTWQ2QXg5WWZ0UFhnWFFFc1ZBUmlvbkk1dGVrZlV4X0VsWjdHSUotWkhhTXl5RDVTelB6bFpNWlFIYUJCNWo2S3N3SXd5MURncFBlamZNc3pDdGtTTk9zd3pkWjBSeU9TdlU0UVE?oc=5",
+          "desc": "",
+          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
+          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
+          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
+        },
+        {
+          "title": "에쓰푸드, 'SIAL Paris 2026' 참가…JCDM '꼬단면' 혁신 프로그램 선정",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGJtTGxPTnA2anpiVy10Q2VKOUxSdkU1OXQxZFQzN240SlVna2o2dkV0am9vSDh1T1pHX2NvaVZ4Q1doZ0NvWDR0cnhETGtERE1Kbm5ycGhzZVN1MXRZTVcwQjRFcFc0NmNjNzdJVE92MnJNMGVrYnVJVG1DRUhlRktnUC13N0E?oc=5",
+          "desc": "",
+          "title_en": "Ethfood to Participate in 'SIAL Paris 2026' … JCDM Selects' Cross Section 'Innovation Program",
+          "title_ja": "Ethfood、「SIAL Paris 2026」に参加… JCDM、「Cross Section」イノベーションプログラムを選択",
+          "title_zh": "Ethfood将参加“SIAL Paris 2026” …… JCDM选择“横截面”创新计划"
+        },
+        {
+          "title": "‘NS푸드페스타 2026익산’ 24,000여명 ‘북적’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tYm5oMzNTQ01Ld3pzU0xQRXdpLVdWLUNTdHhOejZSeDVmcklMLXc3eTdBRzZiblh4cFBqVG4xNnNFR01Ca3oyVXRuR0FOaUpEbV8yeE9wMFgyQQ?oc=5",
+          "desc": "",
+          "title_en": "‘NS Food Festa 2026 Iksan’ More than 24,000 people ‘Busy’",
+          "title_ja": "「NSフードフェスタ2026イクサン」24,000人以上「忙しい」",
+          "title_zh": "‘NS Food Festa 2026 Iksan’超过24,000人‘忙碌’"
+        }
+      ]
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": []
+      "items": [
+        {
+          "title": "먼저 식당 도착해 음식 주문한 아내…남편 살해 혐의로 징역 20년, 무슨 일?",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KdUdWZDFuYUdjRGpvSVg5U0dSMTc2TFF0NF9BWXZHQ3V1WmNVakZjNGhJVDhLSDVMOG92UXZibDQxVjlYX2VFWmE2a2U3djliV3fSAVNBVV95cUxNMVVGMFlrZmJUaVlKSkhwanVJODc0aHNEQjFLZ20zT1BPZW9ZWGQ5eG5aOGVmN1Y3R1dQWkx0NVowQnpKY21aZkoza1Q2dV94U0JnVQ?oc=5",
+          "desc": "",
+          "title_en": "Wife who first arrived at the restaurant and ordered food… 20 years in prison for murdering her husband, what happened?",
+          "title_ja": "最初にレストランに到着して食べ物を注文した妻...夫を殺害した罪で20年の懲役、何が起こったのですか？",
+          "title_zh": "第一次来到餐厅点餐的妻子……因为谋杀丈夫而被判入狱20年，发生了什么？"
+        },
+        {
+          "title": "“이게 주방? 쓰레기장인 줄” 가족이 먹는 음식 만든다더니…배달음식점 위생 논란",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTeXRfMDR3c1BUTWFUdi1IOE54bUpFb0s0Y1oxSkotLWZhU2h6LXBGLU54UmRRUjd4ODdPR0RmVGlzazVtWWpJWVNSZndhMFlDNHfSAVNBVV95cUxNcnJfZDRKZ3FSQ0UyLW1DVjhvYUhUeUxOa0laWUswMUQwWmZvUjR1RDI1OV96TkJjMlBZWDBmV0Q3dlQteUN6LWh5Vm1BR0g2bHZmdw?oc=5",
+          "desc": "",
+          "title_en": "“This is the kitchen? It's a garbage dump” The family made the food they eat... Hygiene controversy at the delivery restaurant",
+          "title_ja": "「ここはキッチンですか？ゴミ捨て場です」家族で食べ物を作りました...配達レストランでの衛生面での論争",
+          "title_zh": "「这里是厨房？这里是垃圾场」全家人一起做饭……外卖店的卫生问题"
+        },
+        {
+          "title": "피시방·펫카페 음식 판매도 신고 대상…경남도 19일부터 단속",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IWVF2bTM0QTVwYzBXQjZOZmRSeGRQb1pnbXljS3lQd2lqTks1bHFpUS1FYWQ0bjdDUHlzaXU5aklUWDBtTm01QTNKckNUT1EzZlHSAVNBVV95cUxQd3djUm9RYkNxZEVDeEV1X21mOVlsR182WHByV1ZqazcxTzh2SU9TNUpxT1M4eTFSTG9VUWNNRWstSVNCZjJkQmNHYzF4eFBqbi1CSQ?oc=5",
+          "desc": "",
+          "title_en": "Fish cafe and pet cafe food sales are also subject to report... Crackdown from the 19th of Gyeongnam-do",
+          "title_ja": "フィッシュカフェやペットカフェのフード販売も通報対象・・・慶南道19日からの取り締まり",
+          "title_zh": "鱼咖啡馆和宠物咖啡馆的食品销售也会受到举报……来自庆南道的19号镇压"
+        }
+      ]
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "“하수구서 건져올린 음식”이었는데…한판에 3만원씩 받는다고? [Book]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BUEpaZUgySzBxSzh4LW96TWN0SWxNUmxWRU41YUNwZjRsQnZ3MDM0c3BfYThnNWNNVmxYektwSTM0Q1pMWHVqbUxGQXlsNnpFSjRqaQ?oc=5",
+          "desc": "",
+          "title_en": "It was “food from the sewer”... 30,000 won per game? [Book]",
+          "title_ja": "それは「下水道からの食べ物」でした... 1ゲームあたり30,000ウォンですか？[ Book]",
+          "title_zh": "这是“下水道里的食物” ……每场3万韩元？ [书]"
+        },
+        {
+          "title": "'국내 최대 규모 식품문화축제' NS푸드페스타 익산서 개막",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5janlCdXM3Wk5vVE9jWGY2RWR4M3VZbzJkYVRKMlQ2QkREYnc5WklyOTRmN2pLWHBScGdWcmhleXZjaGFYRkFnZ3FLRWZPWldaOFE?oc=5",
+          "desc": "",
+          "title_en": "'The Largest Food Culture Festival in Korea' NS Food Festa Iksanseo Opens",
+          "title_ja": "「韓国最大の食文化祭」NSフードフェスタイクサンセオ開幕",
+          "title_zh": "“韩国最大的美食文化节” NS Food Festa Iksanseo开幕"
+        },
+        {
+          "title": "“전국 맛있는 음식 먹었는데”… ‘채널 잠정 중단 선언’ 이장우, 왜?",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuSzNVUWI5eFhpQ3piT1E1UXFBOVFYYnNudy1UM2tZYnJLZGZGbFBkbFNUYU9yMjg5VnQ3OUh1UGJIdERFX1Q0V3MwZ0NfN0sxYzdXYw?oc=5",
+          "desc": "",
+          "title_en": "“I ate delicious food from all over the country” … ‘Declaration of temporary suspension of the channel’ Lee Jang-woo, why?",
+          "title_ja": "「全国のおいしい料理を食べました」…「チャンネルの一時停止の宣言」イ・ジャンウ、なぜですか？",
+          "title_zh": "“我吃了来自全国各地的美味佳肴” …… ‘宣布暂停频道’ Lee Jang-woo ，为什么？"
+        }
+      ]
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": []
+      "items": [
+        {
+          "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
+          "desc": "",
+          "title_en": "Kombucha, warm in winter... Tizen ‘Kombucha Orange Cinnamon’",
+          "title_ja": "冬暖かいコンブチャ…天前「コンブチャオレンジシナモン」",
+          "title_zh": "康普茶，冬季温暖…… Tizen「康普茶橙肉桂」"
+        },
+        {
+          "title": "무알코올에 퓨전 음식…‘옥토버페스트’로 보는 유럽 트렌드",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQRFZIdnk1X3ZianJHM0hZS24tcG5RTUwtakwxdzVvUlNqcnFDcTlRejFuYjdMYnY1c3BxQ1pqRFNnSFJVOHkzTUZHOHRxdkNnT00zaVk2cw?oc=5",
+          "desc": "",
+          "title_en": "Non-Alcoholic Fusion Food… European Trends at Oktoberfest",
+          "title_ja": "ノンアルコールフュージョンフード…オクトーバーフェストでヨーロッパのトレンドを学ぼう",
+          "title_zh": "非酒精融合美食…慕尼黑啤酒节的欧洲潮流"
+        },
+        {
+          "title": "“식사하고 가세요”…브라질 슈퍼마켓, 식사 기능 확대",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92R0t4MWpTVlJ6amJYdzNpOEdPUXNDWVVtMDJhZXZpd2YwX0FhWWN5WHJtdTZoY3prU3JHbUJjSXdMLVBhNGVrYWJYbFYyZEIzUjVJSlAxQQ?oc=5",
+          "desc": "",
+          "title_en": "“Eat and go” … Brazilian supermarkets expand dining capabilities",
+          "title_ja": "「食べて行く」…ブラジルのスーパーマーケットがダイニング機能を拡大",
+          "title_zh": "“吃喝玩乐” ……巴西超市扩展用餐能力"
+        }
+      ]
     }
   },
   "korean_articles": [
