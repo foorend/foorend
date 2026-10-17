@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T03:17:48Z",
+  "lastUpdated": "2026-10-17T10:15:00Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "Square推出了一个您可以与之交谈的信息亭"
         },
         {
-          "title": "How AI agents could change restaurant ordering",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUVsamg3VTdlejdxR1dzczE0SU1JOFlkY0FROElZNWZkOGtzNV9WWFFOOXd6V1hLSm1qVjl0VEFzcFhWaUx3Qmxmc0VpeVd6dEFfbXl0NjFFQjVqcnUzejE3YWVMSnFpdGFBTmVQZFEtTVp0XzBIMElNTF9WODFRaFpuTjBIbDk2WHRtcmxpOUdQUVlVc2FzUW1B?oc=5",
+          "title": "What led to True Food Kitchen’s bankruptcy?",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcU1LQU1SSGV2NWQxeVBUYm9LWHJsejdyTXVyNzFkT09FOEVJM3EwenVDbGlyc3hEMkZ1ckpIbFk2WkdKM1ZDbWEtWUdHOWpPM3lLQnJ2a0NTaUk0M0wwQnRpRlBwaUVCWmJkQUxrTEdTWHNLczJLaXRwY05LeFFJZHd4ZXlRTHNIc3VSVmF3?oc=5",
           "desc": "",
-          "title_ko": "AI 상담원이 레스토랑 주문을 변경하는 방법",
-          "title_ja": "AIエージェントがレストランの注文を変更する方法",
-          "title_zh": "人工智能客服代表如何更改餐厅订餐方式"
+          "title_ko": "트루 푸드 키친이 파산하게 된 계기는 무엇인가요?",
+          "title_ja": "True Food Kitchenの破産の原因は何ですか？",
+          "title_zh": "什么导致了True Food Kitchen的破产？"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0ZaYk84SFZCc3Y2RVJhWkNxS2luU19EM0hCTWQ2QXg5WWZ0UFhnWFFFc1ZBUmlvbkk1dGVrZlV4X0VsWjdHSUotWkhhTXl5RDVTelB6bFpNWlFIYUJCNWo2S3N3SXd5MURncFBlamZNc3pDdGtTTk9zd3pkWjBSeU9TdlU0UVE?oc=5",
+          "desc": "",
+          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
+          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
+          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
+        },
+        {
+          "title": "‘NS푸드페스타 2026익산’ 24,000여명 ‘북적’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tYm5oMzNTQ01Ld3pzU0xQRXdpLVdWLUNTdHhOejZSeDVmcklMLXc3eTdBRzZiblh4cFBqVG4xNnNFR01Ca3oyVXRuR0FOaUpEbV8yeE9wMFgyQQ?oc=5",
+          "desc": "",
+          "title_en": "‘NS Food Festa 2026 Iksan’ More than 24,000 people ‘Busy’",
+          "title_ja": "「NSフードフェスタ2026イクサン」24,000人以上「忙しい」",
+          "title_zh": "‘NS Food Festa 2026 Iksan’超过24,000人‘忙碌’"
+        },
+        {
           "title": "'혈관 막히기 전에 꼭'…전문가 매일 먹으라는 '이 음식' 정체 [건강!톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPN0lXQjZwOVhVbUZqZTRDZGkxNFV5Vzl3WnltbTRYSGQxMjlmbEs2cHZ5aGl2TlllaTJ0WGNENDB4amg0bTlPZTc1TmpKMXJCYVg5Nmpwa3dlQQ?oc=5",
           "desc": "",
           "title_en": "'Be sure to eat this food' before it clogs the blood vessels' … 'Eat it every day' [Healthy! Talk]",
           "title_ja": "「この食べ物は、血管を詰まらせる前に必ず食べてください」…「毎日食べてください」【ヘルシー！トーク】",
           "title_zh": "“一定要吃这种食物”在它堵塞血管之前…… “每天吃” [健康！谈话]"
-        },
-        {
-          "title": "\"주 1회 먹으면 심장병 위험 감소\"…전문가 권고한 '음식'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqWF9LdTVpZ09GNUQxRUt6dEZTdWxwVkt0VnA0ak9HZFl4V0FENVMtSlQ2c3RmRGRRU1pXXzNfR1d3NW11T0ZtNC1VM2U5Z2xYU0k5VWtHUTlDdw?oc=5",
-          "desc": "",
-          "title_en": "\"Reducing the risk of heart disease once a week\" … expert-recommended 'food'",
-          "title_ja": "「週に1回心臓病のリスクを減らす」…専門家が推奨する「食べ物」",
-          "title_zh": "“每周一次降低心脏病风险” ……专家推荐的“食物”"
-        },
-        {
-          "title": "국내 최대 식품문화축제 ‘NS푸드페스타 2026 익산’ 16일 개막(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsVXRCZHZlNWF1dW5SVk1OajY2MkJSWWVqTUl5T1RPaXNhLWxfR1hnbG9NaXQtNmQ4cGtIZmtrOThGQzhxR2tFWXFJbjRsR0hra2tZZGVMRXFuZw?oc=5",
-          "desc": "",
-          "title_en": "'NS Food Festa 2026 Iksan‘, the largest food culture festival in Korea, opens on the 16th (comprehensive)",
-          "title_ja": "韓国最大級の食文化祭「NSフードフェスタ2026イクサン」が16日（総合）に開幕",
-          "title_zh": "韩国最大的美食文化节“NS Food Festa 2026 Iksan”将于16日（综合）开幕"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“韩国最大的美食文化节” NS Food Festa Iksanseo开幕"
         },
         {
-          "title": "[게시판] 맥케인 푸드, 서울 연남동서 감자튀김 테마 팝업",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16bmhkTzU0X0tOcmh6Mjh0ckhzU3VtMDE1d3ZGMUtzWGdZSTV2eTZfRVJDLVRTRmhNV0YzQ2g4SllONTltc1ZkUlRRaWViNnNC?oc=5",
+          "title": "세계가 사랑하는 피자, 나폴리 빈민음식이었다",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHYmxjWmt1UWV1WG02dDVnUFNaQ3dwWmRMckwzSFJYeUpBeExjQ05ETUh4VGtZaDJTNkRtYThuczNmNUp0aVVSQ3NOU3o5UTNEb2NzSg?oc=5",
           "desc": "",
-          "title_en": "[Bulletin Board] McCain Food, Fries Theme Pop-Up in Yeonnam-dong, Seoul",
-          "title_ja": "【掲示板】ソウル延南洞でマケインフード、フライドポップアップ",
-          "title_zh": "[公告栏]首尔延南洞麦凯恩美食、薯条主题快闪店"
+          "title_en": "The world's favorite pizza was Neapolitan slum food",
+          "title_ja": "世界で最も人気のあるピザはナポリのスラムフードでした",
+          "title_zh": "世界上最受欢迎的披萨是那不勒斯贫民窟美食"
         },
         {
-          "title": "동아대, 외국인 유학생 전용 'K-푸드 학과' 신설",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OaFpEYWdLdnhpbXA4ZUZBWmJWWE01LVpXc0NuSko0ZVIyVVNOZl9KTWJDcnlGc05QSG41MXFiTTJPT1Q1UmdRWEJ6bVVVaUZBY0E?oc=5",
+          "title": "“전국 맛있는 음식 먹었는데”… ‘채널 잠정 중단 선언’ 이장우, 왜?",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuSzNVUWI5eFhpQ3piT1E1UXFBOVFYYnNudy1UM2tZYnJLZGZGbFBkbFNUYU9yMjg5VnQ3OUh1UGJIdERFX1Q0V3MwZ0NfN0sxYzdXYw?oc=5",
           "desc": "",
-          "title_en": "Dong-A University Establishes' K-Food Department 'for International Students",
-          "title_ja": "東亜大学、留学生のための「K - Food部門」を設立",
-          "title_zh": "东亚大学为国际学生设立“K-Food部门”"
+          "title_en": "“I ate delicious food from all over the country” … ‘Declaration of temporary suspension of the channel’ Lee Jang-woo, why?",
+          "title_ja": "「全国のおいしい料理を食べました」…「チャンネルの一時停止の宣言」イ・ジャンウ、なぜですか？",
+          "title_zh": "“我吃了来自全国各地的美味佳肴” …… ‘宣布暂停频道’ Lee Jang-woo ，为什么？"
         }
       ]
     },
