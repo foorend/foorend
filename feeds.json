@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T20:11:07Z",
+  "lastUpdated": "2026-10-18T22:48:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 19일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QUWxtUjRvSi1BMHVHMEVKb3JhZWltZHkyUDVORDU4bHNSSnN4R1A2N1hHWFdrblZITFQ2ak9JdXhCZERoRFd6WXUxanhtQnBLT1JhdWd1c21rQQ?oc=5",
-          "desc": "",
-          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 19",
-          "title_ja": "【今日の星占い】今日は何を食べようか… 10月19日ベルトでおすすめランチメニュー",
-          "title_zh": "【今天的星座】今天吃什么…… 10月19日腰带推荐午餐菜单"
-        },
-        {
           "title": "\"편의점 음식 자주 먹었는데\"…CU·GS25·세븐일레븐 줄줄이 걸렸다",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcFh3NzNydElzbkd6bU55QWdHdkUxcFBFWEdQWG9FOG5VWXcxdVpZT3ZmNmMyd29HWjdqZS01czhGS0JOUEtUNHlUUDhRVTE1R1ZtMVFyUHRnbnZBcVNnSWxqRHh4YnRva3VXOU1DWEVLVTVVb1lMMFdJeUNBSWpSa0pWMkM2ZE0?oc=5",
           "desc": "",
@@ -144,12 +136,20 @@
           "title_zh": "「我以前在便利店吃饭」…… CU · GS25 · 7-11线"
         },
         {
-          "title": "'흑백요리사'로 인생 바뀌었다…'급식대가' 이미영, 깜짝 근황",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yYTd2MVI3YWllT0h4LUFBUEt0MXQxdkVSaGdMcFBwVHRudDVXUk02Vzc1T1lfeTdaMENBVk9jMTFYbGpTRFp6NGxKSU9UdktCTDJJbE9UNXdvUQ?oc=5",
+          "title": "K뷰티·푸드 인기에 '쑥쑥'…수출액, 10년 만에 4.2배",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjItX09PZXRuVEx3eUV4OGlDYkZldTUtS3IxV3RDT2xTdGEtby1PbVJmWkY3QmlHMXFZS2tpZXZQTmJUNWk0QUJfMnVJQVZJWktTb1h4ZUdkcGxJT3Q4SndwQmQxRTMtNWN2SGh5TjV6WVNJVEdCcnR1MFRFN0NwY3c4UG9qb1k?oc=5",
           "desc": "",
-          "title_en": "My life changed with 'Black and White Cook'... 'Meal Table' Lee Young, Surprise",
-          "title_ja": "「黒と白の料理人」で人生が変わりました...「食事テーブル」リー・ヤング、サプライズ",
-          "title_zh": "「黑白烹饪」改变了我的生活……「餐桌」Lee Young ，惊喜"
+          "title_en": "'Growing' in K-Beauty and Food Popularity… Exports 4.2x in 10 Years",
+          "title_ja": "Kビューティーとフード人気の「成長」… 10年間で4.2倍の輸出",
+          "title_zh": "韩国美容和食品受欢迎程度的“增长” …… 10年内出口增长4.2倍"
+        },
+        {
+          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0ZaYk84SFZCc3Y2RVJhWkNxS2luU19EM0hCTWQ2QXg5WWZ0UFhnWFFFc1ZBUmlvbkk1dGVrZlV4X0VsWjdHSUotWkhhTXl5RDVTelB6bFpNWlFIYUJCNWo2S3N3SXd5MURncFBlamZNc3pDdGtTTk9zd3pkWjBSeU9TdlU0UVE?oc=5",
+          "desc": "",
+          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
+          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
+          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "버거킹, 제품혁신센터 ‘플레임랩’ 문 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JZnBaSlBNR2RLbWY5NGtPTktJNEFJZ3lCamRFZ3lQVmpOSFZQSXQxZlRDeWlKXzl4SURQb25WODdocTdVakZNUXRmRVQxeHY2dDFlRDdfZw?oc=5",
-          "desc": "",
-          "title_en": "Burger King Opens' Flame Lab 'for Product Innovation Center",
-          "title_ja": "バーガーキング、製品イノベーションセンターに「Flame Lab」を開設",
-          "title_zh": "汉堡王为产品创新中心开设“火焰实验室”"
-        },
-        {
           "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
           "desc": "",
@@ -240,6 +232,14 @@
           "title_en": "Non-Alcoholic Fusion Food… European Trends at Oktoberfest",
           "title_ja": "ノンアルコールフュージョンフード…オクトーバーフェストでヨーロッパのトレンドを学ぼう",
           "title_zh": "非酒精融合美食…慕尼黑啤酒节的欧洲潮流"
+        },
+        {
+          "title": "“식사하고 가세요”…브라질 슈퍼마켓, 식사 기능 확대",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92R0t4MWpTVlJ6amJYdzNpOEdPUXNDWVVtMDJhZXZpd2YwX0FhWWN5WHJtdTZoY3prU3JHbUJjSXdMLVBhNGVrYWJYbFYyZEIzUjVJSlAxQQ?oc=5",
+          "desc": "",
+          "title_en": "“Eat and go” … Brazilian supermarkets expand dining capabilities",
+          "title_ja": "「食べて行く」…ブラジルのスーパーマーケットがダイニング機能を拡大",
+          "title_zh": "“吃喝玩乐” ……巴西超市扩展用餐能力"
         }
       ]
     }
