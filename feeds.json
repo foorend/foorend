@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T03:22:26Z",
+  "lastUpdated": "2026-10-18T10:30:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,20 +128,20 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"편의점 음식 자주 먹었는데\"…CU·GS25·세븐일레븐 줄줄이 걸렸다",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcFh3NzNydElzbkd6bU55QWdHdkUxcFBFWEdQWG9FOG5VWXcxdVpZT3ZmNmMyd29HWjdqZS01czhGS0JOUEtUNHlUUDhRVTE1R1ZtMVFyUHRnbnZBcVNnSWxqRHh4YnRva3VXOU1DWEVLVTVVb1lMMFdJeUNBSWpSa0pWMkM2ZE0?oc=5",
+          "desc": "",
+          "title_en": "\"I used to eat at convenience stores\" … CU · GS25 · 7-Eleven line caught",
+          "title_ja": "「以前はコンビニで食べていました」… CU・GS 25・セブンイレブンのラインが引かれました",
+          "title_zh": "「我以前在便利店吃饭」…… CU · GS25 · 7-11线"
+        },
+        {
           "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0ZaYk84SFZCc3Y2RVJhWkNxS2luU19EM0hCTWQ2QXg5WWZ0UFhnWFFFc1ZBUmlvbkk1dGVrZlV4X0VsWjdHSUotWkhhTXl5RDVTelB6bFpNWlFIYUJCNWo2S3N3SXd5MURncFBlamZNc3pDdGtTTk9zd3pkWjBSeU9TdlU0UVE?oc=5",
           "desc": "",
           "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
           "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
           "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
-        },
-        {
-          "title": "에쓰푸드, 'SIAL Paris 2026' 참가…JCDM '꼬단면' 혁신 프로그램 선정",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGJtTGxPTnA2anpiVy10Q2VKOUxSdkU1OXQxZFQzN240SlVna2o2dkV0am9vSDh1T1pHX2NvaVZ4Q1doZ0NvWDR0cnhETGtERE1Kbm5ycGhzZVN1MXRZTVcwQjRFcFc0NmNjNzdJVE92MnJNMGVrYnVJVG1DRUhlRktnUC13N0E?oc=5",
-          "desc": "",
-          "title_en": "Ethfood to Participate in 'SIAL Paris 2026' … JCDM Selects' Cross Section 'Innovation Program",
-          "title_ja": "Ethfood、「SIAL Paris 2026」に参加… JCDM、「Cross Section」イノベーションプログラムを選択",
-          "title_zh": "Ethfood将参加“SIAL Paris 2026” …… JCDM选择“横截面”创新计划"
         },
         {
           "title": "‘NS푸드페스타 2026익산’ 24,000여명 ‘북적’",
@@ -159,7 +159,7 @@
       "items": [
         {
           "title": "호떡부터 약과까지…삼립, 파리서 K푸드 알리기 나섰다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zQ0t5SWVBMVRxMUtHWjVLMnM0dFllRDVvSE40WjVoMllrQklsMmZ2Zlcxb0JST013QkVXUWNOMUJWSTI1YWdYeGVzTnE4WVdqbmfSAVNBVV95cUxPSm1zNTV6X2tDSGhQOEgtTmpPNDFsT0o4RkNaU3JnZUNLT0xWOGR4YWFHUXZ4WkVoYlMzWDE0R1ZZMEJ3Vm1ubHJCSllYaE5oRTdxdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KbXM1NXpfa0NIaFA4SC1Oak80MWxPSjhGQ1pTcmdlQ0tPTFY4ZHhhYUdRdnhaRWhiUzNYMTRHVlkwQndWbW5sckJKWVhoTmhFN3F30gFTQVVfeXFMT0ptczU1el9rQ0hoUDhILU5qTzQxbE9KOEZDWlNyZ2VDS09MVjhkeGFhR1F2eFpFaGJTM1gxNEdWWTBCd1ZtbmxyQkpZWGhOaEU3cXc?oc=5",
           "desc": "",
           "title_en": "From Rice Cake to Medicine Fruit… Samlip and Paris started announcing K-Food",
           "title_ja": "ライスケーキから薬用フルーツまで…サムリップとパリスがK - Foodを発表",
@@ -174,12 +174,12 @@
           "title_zh": "“室温温饭” ……健康二十多岁，肝肾毁了【健康时光】"
         },
         {
-          "title": "먼저 식당 도착해 음식 주문한 아내…남편 살해 혐의로 징역 20년, 무슨 일?",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KdUdWZDFuYUdjRGpvSVg5U0dSMTc2TFF0NF9BWXZHQ3V1WmNVakZjNGhJVDhLSDVMOG92UXZibDQxVjlYX2VFWmE2a2U3djliV3fSAVNBVV95cUxNMVVGMFlrZmJUaVlKSkhwanVJODc0aHNEQjFLZ20zT1BPZW9ZWGQ5eG5aOGVmN1Y3R1dQWkx0NVowQnpKY21aZkoza1Q2dV94U0JnVQ?oc=5",
+          "title": "불닭부터 바나나 우유·호떡까지…K푸드, 파리서 유럽시장 공략",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4YXdoOFFKSms0OHpOc0oyejBVVUp5Z2I3cmwxZ0owNmIyZHpvRnRVdG9obzdFWkVYdGNJeVhQWDU4Vkw4Q19STTZNYXZJWUlEQ3pN0gFTQVVfeXFMUHhhd2g4UUpKazQ4ek5zSjJ6MFVVSnlnYjdybDFnSjA2YjJkem9GdFV0b2hvN0VaRVh0Y0l5WFBYNThWTDhDX1JNNk1hdklZSURDek0?oc=5",
           "desc": "",
-          "title_en": "Wife who first arrived at the restaurant and ordered food… 20 years in prison for murdering her husband, what happened?",
-          "title_ja": "最初にレストランに到着して食べ物を注文した妻...夫を殺害した罪で20年の懲役、何が起こったのですか？",
-          "title_zh": "第一次来到餐厅点餐的妻子……因为谋杀丈夫而被判入狱20年，发生了什么？"
+          "title_en": "From grilled chicken to banana milk and hochi... K-Food targets European market in Paris",
+          "title_ja": "グリルチキンからバナナミルク、ホーチーまで…パリのヨーロッパ市場をターゲットにしたK - Food",
+          "title_zh": "从烤鸡肉到香蕉牛奶和果仁酱…… K-Food面向巴黎的欧洲市场"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "“하수구서 건져올린 음식”이었는데…한판에 3만원씩 받는다고? [Book]",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BUEpaZUgySzBxSzh4LW96TWN0SWxNUmxWRU41YUNwZjRsQnZ3MDM0c3BfYThnNWNNVmxYektwSTM0Q1pMWHVqbUxGQXlsNnpFSjRqaQ?oc=5",
+          "title": "“배달음식에 월40만원, 내가 너무 한심”…미국 Z세대 번지는 ‘배달 죄책감’",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnb1ZkY2VJZ2R2NzhNeGNmdE82M3BzbTNxY1M2ZTZESnM4cVZXNVJJZGkzZTZPUFQ0R2x3S0w5NWxQZDB3cEpXcjIwenM4b2ZxQmxsbA?oc=5",
           "desc": "",
-          "title_en": "It was “food from the sewer”... 30,000 won per game? [Book]",
-          "title_ja": "それは「下水道からの食べ物」でした... 1ゲームあたり30,000ウォンですか？[ Book]",
-          "title_zh": "这是“下水道里的食物” ……每场3万韩元？ [书]"
+          "title_en": "“400,000 won per month for delivery food, I'm so pathetic” … ‘Delivery guilt‘ spreading to Gen Z in the US",
+          "title_ja": "「配達用の料理で毎月40万ウォンですが、私は哀れです」…米国のZ世代に「配達の罪悪感」が広がっています",
+          "title_zh": "“送餐费每月40万韩元，我太可怜了” …… “送餐罪恶感”在美国蔓延到Z世代"
         },
         {
-          "title": "농식품부, K-푸드 유럽 수출 확대 추진…프랑스 학교급식 공략",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5V1RIbXJvWEIxNWJ5Z0tOSUtjUW5oVk85RHpzbmsxU2owTkU4Qm96Slk0Q1pkS1VxWXpoSDVFd3RkcDBJSVBZWUstSHNCMlVRQVE?oc=5",
+          "title": "춘천막국수닭갈비축제 성료…51만명 방문·경제효과 210억원",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00TUFWSVYzRU9rckNmeTdQbFZCY0VFR2RlQ1c5a01QX2NwZTd2MGVBRmx1dTlYUXAxelRDSHo3ZmtuVkhPRVJicFM5Um5TYU9WOWc?oc=5",
           "desc": "",
-          "title_en": "Ministry of Agriculture and Food promotes exports of K-Food to Europe… Targeting French school meals",
-          "title_ja": "農林水産省、K - Foodのヨーロッパへの輸出を促進…フランスの学校給食をターゲットに",
-          "title_zh": "农业和食品部促进K-Food对欧洲的出口……针对法国学校供餐"
+          "title_en": "Chuncheon Makguksu Chicken Rib Festival completion fee… Visited by 510,000 people · Economic effect 21 billion won",
+          "title_ja": "Chuncheon Makguksu Chicken Rib Festival終了料… 51万人来場・経済効果210億ウォン",
+          "title_zh": "春川Makguksu鸡排节完成费…… 51万人参观·经济效果210亿韩元"
         },
         {
-          "title": "“전국 맛있는 음식 먹었는데”… ‘채널 잠정 중단 선언’ 이장우, 왜?",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuSzNVUWI5eFhpQ3piT1E1UXFBOVFYYnNudy1UM2tZYnJLZGZGbFBkbFNUYU9yMjg5VnQ3OUh1UGJIdERFX1Q0V3MwZ0NfN0sxYzdXYw?oc=5",
+          "title": "무작정 마라탕 끊고 샐러드 먹었더니…다이어트 실패 이유 ‘이거’였네",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tRnJKbXVDZlYweGtMdDlNM1hWNFo1d0dzZURvb19QQkU2cDFobDFxS0lfMmtpMEtRUHVaYzc4YWhFREhQNkp6UTYxZWdUdw?oc=5",
           "desc": "",
-          "title_en": "“I ate delicious food from all over the country” … ‘Declaration of temporary suspension of the channel’ Lee Jang-woo, why?",
-          "title_ja": "「全国のおいしい料理を食べました」…「チャンネルの一時停止の宣言」イ・ジャンウ、なぜですか？",
-          "title_zh": "“我吃了来自全国各地的美味佳肴” …… ‘宣布暂停频道’ Lee Jang-woo ，为什么？"
+          "title_en": "I stopped eating maratang and ate salad... The reason for the diet failure was‘ this’.",
+          "title_ja": "私はマラタンを食べるのをやめてサラダを食べました...ダイエットが失敗した理由は「これ」でした。",
+          "title_zh": "我停止吃马拉唐，吃沙拉……饮食失败的原因是“这个”。"
         }
       ]
     },
