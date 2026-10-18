@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T10:30:16Z",
+  "lastUpdated": "2026-10-18T15:28:58Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 19일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QUWxtUjRvSi1BMHVHMEVKb3JhZWltZHkyUDVORDU4bHNSSnN4R1A2N1hHWFdrblZITFQ2ak9JdXhCZERoRFd6WXUxanhtQnBLT1JhdWd1c21rQQ?oc=5",
+          "desc": "",
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 19",
+          "title_ja": "【今日の星占い】今日は何を食べようか… 10月19日ベルトでおすすめランチメニュー",
+          "title_zh": "【今天的星座】今天吃什么…… 10月19日腰带推荐午餐菜单"
+        },
+        {
           "title": "\"편의점 음식 자주 먹었는데\"…CU·GS25·세븐일레븐 줄줄이 걸렸다",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcFh3NzNydElzbkd6bU55QWdHdkUxcFBFWEdQWG9FOG5VWXcxdVpZT3ZmNmMyd29HWjdqZS01czhGS0JOUEtUNHlUUDhRVTE1R1ZtMVFyUHRnbnZBcVNnSWxqRHh4YnRva3VXOU1DWEVLVTVVb1lMMFdJeUNBSWpSa0pWMkM2ZE0?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "「我以前在便利店吃饭」…… CU · GS25 · 7-11线"
         },
         {
-          "title": "어쩐지 이상하다 했더니…요즘 배달앱 음식 사진의 정체 [유지희의 ITMI]",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0ZaYk84SFZCc3Y2RVJhWkNxS2luU19EM0hCTWQ2QXg5WWZ0UFhnWFFFc1ZBUmlvbkk1dGVrZlV4X0VsWjdHSUotWkhhTXl5RDVTelB6bFpNWlFIYUJCNWo2S3N3SXd5MURncFBlamZNc3pDdGtTTk9zd3pkWjBSeU9TdlU0UVE?oc=5",
+          "title": "'흑백요리사'로 인생 바뀌었다…'급식대가' 이미영, 깜짝 근황",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yYTd2MVI3YWllT0h4LUFBUEt0MXQxdkVSaGdMcFBwVHRudDVXUk02Vzc1T1lfeTdaMENBVk9jMTFYbGpTRFp6NGxKSU9UdktCTDJJbE9UNXdvUQ?oc=5",
           "desc": "",
-          "title_en": "I thought it was weird... The status of food photos in the delivery app these days [Yoo Hee Yoo's ITMI]",
-          "title_ja": "おかしいと思いました…最近のデリバリーアプリの料理の写真の状況[Yoo Hee YooさんのITMI]",
-          "title_zh": "我觉得很奇怪……这几天外卖APP里的美食照片状态【Yoo Hee Yoo的ITMI】"
-        },
-        {
-          "title": "‘NS푸드페스타 2026익산’ 24,000여명 ‘북적’",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tYm5oMzNTQ01Ld3pzU0xQRXdpLVdWLUNTdHhOejZSeDVmcklMLXc3eTdBRzZiblh4cFBqVG4xNnNFR01Ca3oyVXRuR0FOaUpEbV8yeE9wMFgyQQ?oc=5",
-          "desc": "",
-          "title_en": "‘NS Food Festa 2026 Iksan’ More than 24,000 people ‘Busy’",
-          "title_ja": "「NSフードフェスタ2026イクサン」24,000人以上「忙しい」",
-          "title_zh": "‘NS Food Festa 2026 Iksan’超过24,000人‘忙碌’"
+          "title_en": "My life changed with 'Black and White Cook'... 'Meal Table' Lee Young, Surprise",
+          "title_ja": "「黒と白の料理人」で人生が変わりました...「食事テーブル」リー・ヤング、サプライズ",
+          "title_zh": "「黑白烹饪」改变了我的生活……「餐桌」Lee Young ，惊喜"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "한국인들 즐겨 먹는 건데…“절대 먹지 마라” 의사들이 경고한 음식들 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mWXZLVkIxbE5pZ1dGRHg4S2YtNExZQ3dQYzJCaVZKMFlYaE9SOG5FSmNiaENzdzVZUjAtaC1mUUFKRkQwU082TkxTVmJPaEJSTmfSAVNBVV95cUxOZ2FjeHRLWEVRT2dlRC1wVG54aHdpVFRHVG9TZkNNMUk4WGk3c2cySFpQSjZFUldHLVBSZGc2bEpBTmVrclUyTGhkMzJ4T28xc3RUcw?oc=5",
+          "desc": "",
+          "title_en": "It's a favorite among Koreans... Foods warned by doctors to “never eat” [Healthy Time]",
+          "title_ja": "韓国人のお気に入りです...医師から「絶対に食べてはいけない」と警告された食べ物【ヘルシータイム】",
+          "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
+        },
+        {
+          "title": "오늘도 먹었는데 어쩌나…“저녁 식사 후 ‘이것’ 절대 먹지 마세요” 왜? [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yLVpGX1RsWEhSdGs5cjdHdzExXzRpT05MS1ZkdU44QXEydy1xQzA0Ykw4bFl3SnpKbzl0OTdSWmQ2TjdGT3dUVFc4UkFiOUJYT3fSAVNBVV95cUxNNWhlbFBhSEp2emZyTTFMeWNFT2ZVVmc4RkpwVTBRcm5QUldsWklldHFjazRuR2Z6ZTdyZldocXcxMm5UT041MndOT2ItV1NtTEgyWQ?oc=5",
+          "desc": "",
+          "title_en": "I had it again today, but… “Never eat ‘this’ after dinner” Why? [Healthy time]",
+          "title_ja": "今日も食べましたが…「夕食後はこれを食べないでください」なぜですか？【ヘルシータイム】",
+          "title_zh": "我今天又吃了一次，但是…… “晚饭后永远不要吃‘这个’”为什么？【健康时光】"
+        },
+        {
           "title": "호떡부터 약과까지…삼립, 파리서 K푸드 알리기 나섰다",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KbXM1NXpfa0NIaFA4SC1Oak80MWxPSjhGQ1pTcmdlQ0tPTFY4ZHhhYUdRdnhaRWhiUzNYMTRHVlkwQndWbW5sckJKWVhoTmhFN3F30gFTQVVfeXFMT0ptczU1el9rQ0hoUDhILU5qTzQxbE9KOEZDWlNyZ2VDS09MVjhkeGFhR1F2eFpFaGJTM1gxNEdWWTBCd1ZtbmxyQkpZWGhOaEU3cXc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zQ0t5SWVBMVRxMUtHWjVLMnM0dFllRDVvSE40WjVoMllrQklsMmZ2Zlcxb0JST013QkVXUWNOMUJWSTI1YWdYeGVzTnE4WVdqbmfSAVNBVV95cUxPSm1zNTV6X2tDSGhQOEgtTmpPNDFsT0o4RkNaU3JnZUNLT0xWOGR4YWFHUXZ4WkVoYlMzWDE0R1ZZMEJ3Vm1ubHJCSllYaE5oRTdxdw?oc=5",
           "desc": "",
           "title_en": "From Rice Cake to Medicine Fruit… Samlip and Paris started announcing K-Food",
           "title_ja": "ライスケーキから薬用フルーツまで…サムリップとパリスがK - Foodを発表",
           "title_zh": "从米糕到药用水果…… Samlip和Paris开始宣布推出K-Food"
-        },
-        {
-          "title": "“실온에 둔 밥 데워 먹었다가”…건강하던 20대, 간·신장까지 망가졌다 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SOVdVMWRiQkdNaG05OGFtcm1fWmIzejBMcWNNT2MzM1lDblFjU1h4a3lnUjRqU3FXcGM4RHZiSnd5S08yZkNOWW9XNWlLNzMyNVHSAVNBVV95cUxPWjE4dTQ5Vko2bk9IUDVOVjBMZk54LWx3eWxZbFpXdlV6eTNSTkRNdUdtUF85T3N4UUNWS2UwYUdBbmN0aHZTSUUwYnpacnZSRlp0VQ?oc=5",
-          "desc": "",
-          "title_en": "“Warmed rice at room temperature” … Healthy twenties, liver and kidneys ruined [Healthy time]",
-          "title_ja": "「室温で温めたご飯」…健康な20代、肝臓と腎臓が壊れた【健康な時間】",
-          "title_zh": "“室温温饭” ……健康二十多岁，肝肾毁了【健康时光】"
-        },
-        {
-          "title": "불닭부터 바나나 우유·호떡까지…K푸드, 파리서 유럽시장 공략",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4YXdoOFFKSms0OHpOc0oyejBVVUp5Z2I3cmwxZ0owNmIyZHpvRnRVdG9obzdFWkVYdGNJeVhQWDU4Vkw4Q19STTZNYXZJWUlEQ3pN0gFTQVVfeXFMUHhhd2g4UUpKazQ4ek5zSjJ6MFVVSnlnYjdybDFnSjA2YjJkem9GdFV0b2hvN0VaRVh0Y0l5WFBYNThWTDhDX1JNNk1hdklZSURDek0?oc=5",
-          "desc": "",
-          "title_en": "From grilled chicken to banana milk and hochi... K-Food targets European market in Paris",
-          "title_ja": "グリルチキンからバナナミルク、ホーチーまで…パリのヨーロッパ市場をターゲットにしたK - Food",
-          "title_zh": "从烤鸡肉到香蕉牛奶和果仁酱…… K-Food面向巴黎的欧洲市场"
         }
       ]
     },
@@ -189,27 +189,27 @@
       "items": [
         {
           "title": "“배달음식에 월40만원, 내가 너무 한심”…미국 Z세대 번지는 ‘배달 죄책감’",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnb1ZkY2VJZ2R2NzhNeGNmdE82M3BzbTNxY1M2ZTZESnM4cVZXNVJJZGkzZTZPUFQ0R2x3S0w5NWxQZDB3cEpXcjIwenM4b2ZxQmxsbA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43dnNCMzRURnhnc3A1d3lXTXlMUHZ6ME42c2ZKUzhsM1RobUZkY3lsMjJxRlNLREFHZXZpdkp0QXlYTzFMTHc?oc=5",
           "desc": "",
           "title_en": "“400,000 won per month for delivery food, I'm so pathetic” … ‘Delivery guilt‘ spreading to Gen Z in the US",
           "title_ja": "「配達用の料理で毎月40万ウォンですが、私は哀れです」…米国のZ世代に「配達の罪悪感」が広がっています",
           "title_zh": "“送餐费每月40万韩元，我太可怜了” …… “送餐罪恶感”在美国蔓延到Z世代"
         },
         {
-          "title": "춘천막국수닭갈비축제 성료…51만명 방문·경제효과 210억원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00TUFWSVYzRU9rckNmeTdQbFZCY0VFR2RlQ1c5a01QX2NwZTd2MGVBRmx1dTlYUXAxelRDSHo3ZmtuVkhPRVJicFM5Um5TYU9WOWc?oc=5",
+          "title": "뉴욕 평정 고깃집·된장 파는 美마켓...K푸드 성공 노하우",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DcVlwMk8yY0VpOU1GaGlWN2RVYmVuSjl4eWNyZUpjamtfbUZINzNldGJoWlFnZ2g5NUVaT2dZUUE5dERpUTg3NHctcEludWNEM3c?oc=5",
           "desc": "",
-          "title_en": "Chuncheon Makguksu Chicken Rib Festival completion fee… Visited by 510,000 people · Economic effect 21 billion won",
-          "title_ja": "Chuncheon Makguksu Chicken Rib Festival終了料… 51万人来場・経済効果210億ウォン",
-          "title_zh": "春川Makguksu鸡排节完成费…… 51万人参观·经济效果210亿韩元"
+          "title_en": "Beauty market selling flat meat and miso in New York... Know-how to succeed in K-Food",
+          "title_ja": "ニューヨークでフラットミートと味噌を販売するビューティーマーケット… K - Foodで成功するためのノウハウ",
+          "title_zh": "在纽约销售扁平肉和味噌的美容市场……在K-Food取得成功的专业知识"
         },
         {
-          "title": "무작정 마라탕 끊고 샐러드 먹었더니…다이어트 실패 이유 ‘이거’였네",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tRnJKbXVDZlYweGtMdDlNM1hWNFo1d0dzZURvb19QQkU2cDFobDFxS0lfMmtpMEtRUHVaYzc4YWhFREhQNkp6UTYxZWdUdw?oc=5",
+          "title": "“배달음식에 월40만원, 내가 너무 한심”…미국 Z세대 번지는 ‘배달 죄책감’",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnb1ZkY2VJZ2R2NzhNeGNmdE82M3BzbTNxY1M2ZTZESnM4cVZXNVJJZGkzZTZPUFQ0R2x3S0w5NWxQZDB3cEpXcjIwenM4b2ZxQmxsbA?oc=5",
           "desc": "",
-          "title_en": "I stopped eating maratang and ate salad... The reason for the diet failure was‘ this’.",
-          "title_ja": "私はマラタンを食べるのをやめてサラダを食べました...ダイエットが失敗した理由は「これ」でした。",
-          "title_zh": "我停止吃马拉唐，吃沙拉……饮食失败的原因是“这个”。"
+          "title_en": "“400,000 won per month for delivery food, I'm so pathetic” … ‘Delivery guilt‘ spreading to Gen Z in the US",
+          "title_ja": "「配達用の料理で毎月40万ウォンですが、私は哀れです」…米国のZ世代に「配達の罪悪感」が広がっています",
+          "title_zh": "“送餐费每月40万韩元，我太可怜了” …… “送餐罪恶感”在美国蔓延到Z世代"
         }
       ]
     },
