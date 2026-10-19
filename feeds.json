@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T03:34:17Z",
+  "lastUpdated": "2026-10-19T12:20:37Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"4000원까지 딱 77원 남았다\"…김밥 가격에 '술렁'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fUGRRcDRmSGpiT3JfNVd1ZFpsWkFOTVQzWFNJZVMwbDFRN0xFY0dLeUJfa01iTEJDQXJGWDNTaThLMjlLTmR4TnJCc3dxZGpwT1ZKZzBWcHNZZw?oc=5",
+          "desc": "",
+          "title_en": "\"Only 77 won left until 4000 won\"... 'Sulung' at the price of Gimbap",
+          "title_ja": "「4000ウォンまで77ウォンしか残っていません」...ギンバップの値段で「スルン」",
+          "title_zh": "“只剩下77韩元，直到4000韩元”......以Gimbap的价格'Sulung'"
+        },
+        {
           "title": "'흑백요리사'로 인생 바뀌었다…'급식대가' 이미영, 깜짝 근황",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yYTd2MVI3YWllT0h4LUFBUEt0MXQxdkVSaGdMcFBwVHRudDVXUk02Vzc1T1lfeTdaMENBVk9jMTFYbGpTRFp6NGxKSU9UdktCTDJJbE9UNXdvUQ?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "「黑白烹饪」改变了我的生活……「餐桌」Lee Young ，惊喜"
         },
         {
-          "title": "2026 구미푸드페스티벌, 27만여명 방문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FME5xeFVud3NIbTA3bkdVQWdzb1RydFVnLWRUdUNEYTZXUE1KUHp3VjV3MWJzTGlRcDk5MkE0cFNxU1BZOU9JdVhxSHFBZnNwUG1PYkhHMDdadw?oc=5",
+          "title": "\"괜히 휴게소에서 먹었다\"…'소고기 미역국' 시켰다가 당황",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZ3NILWdXS1EzTjV3MzYwc2NmX1hlaXZTMHdMalZuVk9XZ2pqbXo4ZXBHSV9RcjVrejkycFktZ0ZETUwxWGdZMXhGNkI3YU5waXhJX2dFZXVMZw?oc=5",
           "desc": "",
-          "title_en": "2026 Gumi Food Festival, visited by 270,000 people",
-          "title_ja": "2026年組フードフェスティバル27万人が訪れました",
-          "title_zh": "2026年龟尾美食节， 27万人参观"
-        },
-        {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 19일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QUWxtUjRvSi1BMHVHMEVKb3JhZWltZHkyUDVORDU4bHNSSnN4R1A2N1hHWFdrblZITFQ2ak9JdXhCZERoRFd6WXUxanhtQnBLT1JhdWd1c21rQQ?oc=5",
-          "desc": "",
-          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 19",
-          "title_ja": "【今日の星占い】今日は何を食べようか… 10月19日ベルトでおすすめランチメニュー",
-          "title_zh": "【今天的星座】今天吃什么…… 10月19日腰带推荐午餐菜单"
+          "title_en": "\"I ate at a rest area for no reason\"... I was embarrassed to order 'Beef Seaweed Soup'",
+          "title_ja": "「何の理由もなく休憩所で食べた」…「牛の海藻スープ」を注文するのが恥ずかしかった",
+          "title_zh": "“我无缘无故在休息区吃饭” ……我尴尬地点了'牛肉海藻汤'"
         }
       ]
     },
@@ -158,12 +158,12 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
+          "title": "한국인들 즐겨 먹는 건데…“절대 먹지 마라” 의사들이 경고한 음식들 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mWXZLVkIxbE5pZ1dGRHg4S2YtNExZQ3dQYzJCaVZKMFlYaE9SOG5FSmNiaENzdzVZUjAtaC1mUUFKRkQwU082TkxTVmJPaEJSTmfSAVNBVV95cUxOZ2FjeHRLWEVRT2dlRC1wVG54aHdpVFRHVG9TZkNNMUk4WGk3c2cySFpQSjZFUldHLVBSZGc2bEpBTmVrclUyTGhkMzJ4T28xc3RUcw?oc=5",
           "desc": "",
-          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
-          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
-          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
+          "title_en": "It's a favorite among Koreans... Foods warned by doctors to “never eat” [Healthy Time]",
+          "title_ja": "韓国人のお気に入りです...医師から「絶対に食べてはいけない」と警告された食べ物【ヘルシータイム】",
+          "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
         },
         {
           "title": "아까워서 남은 밥 데워 먹었다가…건강하던 20대, 간·신장까지 다 망가졌다 [헬시타임]",
@@ -174,12 +174,12 @@
           "title_zh": "我把剩下的米饭加热了一段时间……但我健康的二十多岁，甚至我的肝脏和肾脏都被毁了[治愈时间]"
         },
         {
-          "title": "“내가 왜 그랬을까, 너무 한심해”…배달음식 시켜 먹고 자책하는 美 Z세대, 왜?",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvTm5CUVE2U1lNRGxVQ3Q3T2hCOXo5UXRNdW4wR0VSbTRsTHk5NV9zY0RZQUpHajhtWUNtQjBUVXU2YmlFR1lEVHowczIwbV9Ud1HSAVNBVV95cUxOdGtmVWpYN2E4S1BVcGlmTmhRT3lQakFMRGU3OVpfdUZRR2xsOXFMVGU2ZDdMNGNpUmlqLVpWNEhmOGJJSUpXcEpxOGl0bTU3dlRyNA?oc=5",
+          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
           "desc": "",
-          "title_en": "“Why did I do that, it's so pathetic” … Gen Z of the US who blames themselves for eating delivery food, why?",
-          "title_ja": "「なぜ私はそんなことをしたのでしょうか、それはとても哀れなことです」...配達食品を食べたことで自分自身を責める米国のZ世代は、なぜですか？",
-          "title_zh": "“我为什么要这么做，这太可悲了” ……美国的Z世代因为吃外卖而自责，为什么？"
+          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
+          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
+          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "창원음식문화축제 31일 개막…음식 체험·시식 콘텐츠 다채",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ec3ZoR3MxMkJEdnA3eFVIT1I2cm5LWmxtdF9EeTlVQXd6bkwwZXR4eXZVZnVWbzlRRUJBZ2VmbnI5MkJSRVU5QkZzdFJpTmtaS3c?oc=5",
+          "desc": "",
+          "title_en": "Changwon Food & Culture Festival opens on the 31st… Various content for food experiences and tastings",
+          "title_ja": "昌原フード＆カルチャーフェスティバルは31日に開かれます…フード体験とテイスティングのためのさまざまなコンテンツ",
+          "title_zh": "昌原美食文化节于31日开幕……各种美食体验和品尝内容"
+        },
+        {
+          "title": "춘천시 K-미식축제 실험…막닭축제 도심으로 끌어들여 변신",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zX1pNcFVTYVhLbXhUejloenNZVHlvMTFReEJPZE1jX08xVUxuVFBVU3l3STd0am0tWHRIYV95TnVOYTU2Tk5nLUJtT1o2R3BnVlE?oc=5",
+          "desc": "",
+          "title_en": "Experiment with K-American Festival in Chuncheon-si… Makchicken Festival attracted to the city center and transformed",
+          "title_ja": "春川市でKアメリカンフェスティバルを体験…市内中心部に魅了され、変身したマッキッケンフェスティバル",
+          "title_zh": "在春川市体验K-American Festival…… Makchicken Festival被吸引到市中心并进行了改造"
+        },
+        {
           "title": "속초 식재료에 스페인 셰프의 감각 더하다…음식문화 교류",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Wc0tQTnlteGhtZ19MVDJWQktMckVZeG1zWkk3LVhCLVFOQVM2RjhnTXc0MHMtLWtyeG1xekZySkt4OUJGbmtST2ZQUkFOeXlUYkE?oc=5",
           "desc": "",
           "title_en": "Sokcho Ingredients and Spanish Chef's Sense… Food Culture Exchange",
           "title_ja": "束草の食材とスペインのシェフのセンス…食文化交流",
           "title_zh": "Sokcho食材和西班牙厨师的意识…美食文化交流"
-        },
-        {
-          "title": "남북 음식 맛보고 통일문화 체험…24일 춘천서 '어울림 한마당'",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wWGV1Y0Z5TG15bURGbkxDekNjc1RZNTVyazN6VjJfMjJYMHlhMi1uNFJiMWVOUXlkbXpwbW1OQmtFQVFHRUNFQU4yRFZuSjZsNUE?oc=5",
-          "desc": "",
-          "title_en": "Taste North-South food and experience the unification culture… Chuncheonseo 'Eulim Hanmadang' on the 24th",
-          "title_ja": "南北の食べ物を味わい、統一文化を体験しましょう… 24日にはChuncheonseo「Eulim Hanmadang」",
-          "title_zh": "品尝南北美食，体验统一文化…… 24日春晨堂“Eulim Hanmadang”"
-        },
-        {
-          "title": "“배달음식에 월40만원, 내가 너무 한심”…미국 Z세대 번지는 ‘배달 죄책감’",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43dnNCMzRURnhnc3A1d3lXTXlMUHZ6ME42c2ZKUzhsM1RobUZkY3lsMjJxRlNLREFHZXZpdkp0QXlYTzFMTHc?oc=5",
-          "desc": "",
-          "title_en": "“400,000 won per month for delivery food, I'm so pathetic” … ‘Delivery guilt‘ spreading to Gen Z in the US",
-          "title_ja": "「配達用の料理で毎月40万ウォンですが、私は哀れです」…米国のZ世代に「配達の罪悪感」が広がっています",
-          "title_zh": "“送餐费每月40万韩元，我太可怜了” …… “送餐罪恶感”在美国蔓延到Z世代"
         }
       ]
     },
