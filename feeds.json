@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T12:20:37Z",
+  "lastUpdated": "2026-10-19T20:23:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "饼干帝国开始崩溃"
         },
         {
-          "title": "Square unveils a kiosk you can talk to",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXk0ak5PMjRsckk5TVNkbjZxLXBvaEp1YTNVMi1OcUM2QVhNal9NNUFnZnJEMGRyaUtDR2tYNWZ3M1daT2xBVlNLWG9qeGtFajlwTHhTdFFMYnFYVUVIZFltY1lKZjhGb0JycTRfV3R6a2VKVGdvQmo2cVl2d0RrY0ZYNGJHZEJx?oc=5",
-          "desc": "",
-          "title_ko": "스퀘어가 대화할 수 있는 키오스크를 공개합니다",
-          "title_ja": "Squareがお話しできるキオスクを発表",
-          "title_zh": "Square推出了一个您可以与之交谈的信息亭"
-        },
-        {
           "title": "What led to True Food Kitchen’s bankruptcy?",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcU1LQU1SSGV2NWQxeVBUYm9LWHJsejdyTXVyNzFkT09FOEVJM3EwenVDbGlyc3hEMkZ1ckpIbFk2WkdKM1ZDbWEtWUdHOWpPM3lLQnJ2a0NTaUk0M0wwQnRpRlBwaUVCWmJkQUxrTEdTWHNLczJLaXRwY05LeFFJZHd4ZXlRTHNIc3VSVmF3?oc=5",
           "desc": "",
           "title_ko": "트루 푸드 키친이 파산하게 된 계기는 무엇인가요?",
           "title_ja": "True Food Kitchenの破産の原因は何ですか？",
           "title_zh": "什么导致了True Food Kitchen的破产？"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "“只剩下77韩元，直到4000韩元”......以Gimbap的价格'Sulung'"
         },
         {
-          "title": "'흑백요리사'로 인생 바뀌었다…'급식대가' 이미영, 깜짝 근황",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yYTd2MVI3YWllT0h4LUFBUEt0MXQxdkVSaGdMcFBwVHRudDVXUk02Vzc1T1lfeTdaMENBVk9jMTFYbGpTRFp6NGxKSU9UdktCTDJJbE9UNXdvUQ?oc=5",
-          "desc": "",
-          "title_en": "My life changed with 'Black and White Cook'... 'Meal Table' Lee Young, Surprise",
-          "title_ja": "「黒と白の料理人」で人生が変わりました...「食事テーブル」リー・ヤング、サプライズ",
-          "title_zh": "「黑白烹饪」改变了我的生活……「餐桌」Lee Young ，惊喜"
-        },
-        {
           "title": "\"괜히 휴게소에서 먹었다\"…'소고기 미역국' 시켰다가 당황",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZ3NILWdXS1EzTjV3MzYwc2NmX1hlaXZTMHdMalZuVk9XZ2pqbXo4ZXBHSV9RcjVrejkycFktZ0ZETUwxWGdZMXhGNkI3YU5waXhJX2dFZXVMZw?oc=5",
           "desc": "",
           "title_en": "\"I ate at a rest area for no reason\"... I was embarrassed to order 'Beef Seaweed Soup'",
           "title_ja": "「何の理由もなく休憩所で食べた」…「牛の海藻スープ」を注文するのが恥ずかしかった",
           "title_zh": "“我无缘无故在休息区吃饭” ……我尴尬地点了'牛肉海藻汤'"
+        },
+        {
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 20일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xU0RBRkh1Qmhod1BYOFcyQk1aaC16VkNPWVRLRFdKSThoQk9BcEdWem96d1RBdm9aZTd4LVFkMzdFYWpGem5wR20xd0FnVlRQSjhjYVFSLXpUZw?oc=5",
+          "desc": "",
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 20",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 10月20日にベルトでおすすめのランチメニュー",
+          "title_zh": "【今日星座】今日吃什么… 10月20日腰带推荐午餐菜单"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "昌原美食文化节于31日开幕……各种美食体验和品尝内容"
         },
         {
-          "title": "춘천시 K-미식축제 실험…막닭축제 도심으로 끌어들여 변신",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zX1pNcFVTYVhLbXhUejloenNZVHlvMTFReEJPZE1jX08xVUxuVFBVU3l3STd0am0tWHRIYV95TnVOYTU2Tk5nLUJtT1o2R3BnVlE?oc=5",
-          "desc": "",
-          "title_en": "Experiment with K-American Festival in Chuncheon-si… Makchicken Festival attracted to the city center and transformed",
-          "title_ja": "春川市でKアメリカンフェスティバルを体験…市内中心部に魅了され、変身したマッキッケンフェスティバル",
-          "title_zh": "在春川市体验K-American Festival…… Makchicken Festival被吸引到市中心并进行了改造"
-        },
-        {
           "title": "속초 식재료에 스페인 셰프의 감각 더하다…음식문화 교류",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Wc0tQTnlteGhtZ19MVDJWQktMckVZeG1zWkk3LVhCLVFOQVM2RjhnTXc0MHMtLWtyeG1xekZySkt4OUJGbmtST2ZQUkFOeXlUYkE?oc=5",
           "desc": "",
           "title_en": "Sokcho Ingredients and Spanish Chef's Sense… Food Culture Exchange",
           "title_ja": "束草の食材とスペインのシェフのセンス…食文化交流",
           "title_zh": "Sokcho食材和西班牙厨师的意识…美食文化交流"
+        },
+        {
+          "title": "춘천시 K-미식축제 실험…막닭축제 도심으로 끌어들여 변신",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zX1pNcFVTYVhLbXhUejloenNZVHlvMTFReEJPZE1jX08xVUxuVFBVU3l3STd0am0tWHRIYV95TnVOYTU2Tk5nLUJtT1o2R3BnVlE?oc=5",
+          "desc": "",
+          "title_en": "Experiment with K-American Festival in Chuncheon-si… Makchicken Festival attracted to the city center and transformed",
+          "title_ja": "春川市でKアメリカンフェスティバルを体験…市内中心部に魅了され、変身したマッキッケンフェスティバル",
+          "title_zh": "在春川市体验K-American Festival…… Makchicken Festival被吸引到市中心并进行了改造"
         }
       ]
     },
