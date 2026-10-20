@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:57:36Z",
+  "lastUpdated": "2026-10-20T23:38:41Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The ‘Tavern-Style’ Pizza Takeover",
+          "link": "https://www.eater.com/trends/993640/tavern-style-pizza-thin-crust-trend-chicago-midwest",
+          "desc": "In the suburbs of Chicago where they both grew up, it was just pizza, according to Brittany and Brennan Grosvenor, the couple behind Proof in Portland",
+          "title_ko": "'선술집 스타일’ 피자 장악",
+          "title_ja": "「居酒屋スタイル」のピザテイクオーバー",
+          "title_zh": "“酒馆式”披萨收购"
+        },
+        {
           "title": "Where Chef Eric Sze Eats on His Day Off in NYC",
           "link": "https://www.eater.com/dining-out/993531/chef-eric-sze-favorite-restaurants-in-nyc",
           "desc": "Chef Eric Sze, the owner of NYC’s Wenwen, shows us the bakeries, pizzerias, and restaurants he visits weekly for everything from simple baguette sandw",
@@ -110,14 +118,6 @@
           "title_ko": "마티니 애호가를 위한 최고의 선물 (얼음처럼 차가운 마티니 말고도)",
           "title_ja": "マティーニ愛好家への最高の贈り物（アイスコールドマティーニ以外）",
           "title_zh": "给马提尼爱好者的最好礼物（除了冰冷的马提尼酒）"
-        },
-        {
-          "title": "Resort Life",
-          "link": "https://www.eater.com/travel-guides/992550/resort-life",
-          "desc": "It’s a brilliant fall day on Carter’s Creek in Irvington, Virginia, and a small group is hauling baskets of oysters from the brackish waters. They are",
-          "title_ko": "리조트 라이프",
-          "title_ja": "リゾートライフ",
-          "title_zh": "度假村生活"
         }
       ]
     }
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"괜히 휴게소에서 먹었다\"…'소고기 미역국' 시켰다가 당황",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZ3NILWdXS1EzTjV3MzYwc2NmX1hlaXZTMHdMalZuVk9XZ2pqbXo4ZXBHSV9RcjVrejkycFktZ0ZETUwxWGdZMXhGNkI3YU5waXhJX2dFZXVMZw?oc=5",
+          "title": "프랑스 식음료 22개 브랜드, 국내 바이어 만난다...26일 '푸드익스피리언스'",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zVDJPaEl3c1NzelJaRXpFb3lSbU02VTV6WnNQRWZLTHBZNFd6RVhMRmxyYklkYlluYmJIRjJQMjNlclBaYXppejRxanY3M01yREktbmltNnY4QkpuYWxENDRBMG9hTDdk?oc=5",
           "desc": "",
-          "title_en": "\"I ate at a rest area for no reason\"... I was embarrassed to order 'Beef Seaweed Soup'",
-          "title_ja": "「何の理由もなく休憩所で食べた」…「牛の海藻スープ」を注文するのが恥ずかしかった",
-          "title_zh": "“我无缘无故在休息区吃饭” ……我尴尬地点了'牛肉海藻汤'"
+          "title_en": "22 French food and beverage brands meet domestic buyers... 26th 'Food Experience'",
+          "title_ja": "22のフランスの食品および飲料ブランドが国内のバイヤーと出会う... 26 th「フードエクスペリエンス」",
+          "title_zh": "22个法国食品和饮料品牌与国内买家见面...第26届“美食体验”"
         },
         {
           "title": "\"4000원까지 딱 77원 남았다\"…김밥 가격에 '술렁'",
@@ -144,12 +144,12 @@
           "title_zh": "“只剩下77韩元，直到4000韩元”......以Gimbap的价格'Sulung'"
         },
         {
-          "title": "일미푸드, 100g 생오이 피클 4종…미국 스낵 시장 정조준",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UUHZPVzNVSXQ1RW1tTFdRR2NqNkg1TGNTMEhnSXlyYVVxLWttTDZxM1IxYW0zbjRaOWNyVlQ5aVJ6dVBFUWxrZXNiMzhRWGNOcjVRMnFwWGw5QQ?oc=5",
+          "title": "\"괜히 휴게소에서 먹었다\"…'소고기 미역국' 시켰다가 당황",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZ3NILWdXS1EzTjV3MzYwc2NmX1hlaXZTMHdMalZuVk9XZ2pqbXo4ZXBHSV9RcjVrejkycFktZ0ZETUwxWGdZMXhGNkI3YU5waXhJX2dFZXVMZw?oc=5",
           "desc": "",
-          "title_en": "Ilmi food, 4 kinds of 100g raw cucumber pickles… aimed at the American snack market",
-          "title_ja": "アメリカのスナック市場をターゲットにした一味料理、キュウリ生漬物100 g 4種…",
-          "title_zh": "Ilmi食品， 4种100克生黄瓜泡菜……针对美国小吃市场"
+          "title_en": "\"I ate at a rest area for no reason\"... I was embarrassed to order 'Beef Seaweed Soup'",
+          "title_ja": "「何の理由もなく休憩所で食べた」…「牛の海藻スープ」を注文するのが恥ずかしかった",
+          "title_zh": "“我无缘无故在休息区吃饭” ……我尴尬地点了'牛肉海藻汤'"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "市政厅扩建葡萄酒之乡秋季市场开幕"
         },
         {
+          "title": "오래된 우리 집 냉동실 얼음, 안전할까?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IbUhEOGdsMWQxT053Qi01NkMzb3VKZzFhbTI2dHc5aEZVNXphSWh6T3BCTWpZNkQ5aUE5Y1lJM04tWlJqUVJENVIydVQ1OXBXZWJJU256Zw?oc=5",
+          "desc": "",
+          "title_en": "Is my old house freezer ice safe?",
+          "title_ja": "古い家の冷凍庫の氷は安全ですか？",
+          "title_zh": "我的旧房子冰柜冰安全吗？"
+        },
+        {
           "title": "페스츄리 안에 따뜻한 떡볶이…설빙의 가을 메뉴",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05WldENnZOcXRuR1B3WldzSi1TSVZYQmNWTTFZU0xMaWV3WUhuUmdhcFhhZkgtXy1ZOFdadkxyZWFucEZoUmJYWkNzNmVkeFF3aXlrTTlkWQ?oc=5",
           "desc": "",
           "title_en": "Warm tteokbokki in pasturi… Fall menu of snow ice",
           "title_ja": "パストゥリの温かいトクボッキ…秋のスノーアイスメニュー",
           "title_zh": "帕斯图里温暖的tteokbokki……雪冰秋季菜单"
-        },
-        {
-          "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
-          "desc": "",
-          "title_en": "Kombucha, warm in winter... Tizen ‘Kombucha Orange Cinnamon’",
-          "title_ja": "冬暖かいコンブチャ…天前「コンブチャオレンジシナモン」",
-          "title_zh": "康普茶，冬季温暖…… Tizen「康普茶橙肉桂」"
         }
       ]
     }
