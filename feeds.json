@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T11:17:51Z",
+  "lastUpdated": "2026-10-21T16:43:49Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -166,20 +166,20 @@
           "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
         },
         {
-          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
+          "title": "영상건강에 좋대서 먹었는데 “나트륨 폭탄 터진다”…심장 전문의들 경고하는 ‘이 음식’",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iNkNNLU12VmRpR0VWYkt2RHRaYzN1RlhQckVrdi1KY2xaMUUtT2I2ZXlEUGdsZE90R3NFTzBSWlZCc3JlcVlhU3BEZW9JenRzamc?oc=5",
           "desc": "",
-          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
-          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
-          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
+          "title_en": "I ate it because it was good for my video health, but “sodium bomb explodes” … ‘This food’ warns cardiologists",
+          "title_ja": "ビデオの健康に良いので食べましたが、「ナトリウム爆弾が爆発する」…「この食べ物」は心臓専門医に警告します",
+          "title_zh": "我吃了它，因为它对我的视频健康有好处，但“钠炸弹爆炸” …… “这种食物”警告心脏病专家"
         },
         {
-          "title": "한국인들 단골 술안주인데…편해서 자주 먹던 ‘이 음식’ 섭취 주의보 떴다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WcmpoNkxYblJCMUtWaXVha3duemoxZG5sOXhsOHBmRm85ZFV6UVQwaVJBdWFXSVJRcGFNY0hBVXE0SzBpcnMyOTd6RWRMRDhHa3fSAVNBVV95cUxQZzctMXpvOVFpWl9Hd21vQWlTMUlOMG5iTDFXSXQ4RmZkVWUyNmk3VWUzOXl2X24zZ19wcGVxU0JVU2ZiOS1JVVNjSjhTcWhka3ZJMA?oc=5",
+          "title": "아까워서 남은 밥 데워 먹었다가…건강하던 20대, 간·신장까지 다 망가졌다 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SOVdVMWRiQkdNaG05OGFtcm1fWmIzejBMcWNNT2MzM1lDblFjU1h4a3lnUjRqU3FXcGM4RHZiSnd5S08yZkNOWW9XNWlLNzMyNVHSAVNBVV95cUxPWjE4dTQ5Vko2bk9IUDVOVjBMZk54LWx3eWxZbFpXdlV6eTNSTkRNdUdtUF85T3N4UUNWS2UwYUdBbmN0aHZTSUUwYnpacnZSRlp0VQ?oc=5",
           "desc": "",
-          "title_en": "Koreans are regular drinkers... I was cautioned against eating ‘this food‘ which I often ate because it was comfortable.",
-          "title_ja": "韓国人は定期的に飲酒しています...私は快適だったので、よく食べる「この食べ物」を食べないように注意されました。",
-          "title_zh": "韩国人经常喝酒……我被警告不要吃我经常吃的「这种食物」，因为它很舒服。"
+          "title_en": "I heated up the rest of the rice for a while... but my healthy twenties and even my liver and kidneys were all ruined [heal time]",
+          "title_ja": "しばらくの間、残りのご飯を温めていましたが、健康な20代、さらには肝臓や腎臓までもが台無しになっていました。[ヒールタイム]",
+          "title_zh": "我把剩下的米饭加热了一段时间……但我健康的二十多岁，甚至我的肝脏和肾脏都被毁了[治愈时间]"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "시청점 확장한 와인나라, 가을장터 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOOXhyVHQ1ZF9BSTNfTEd3VjVPM29lUGI5VklOc3NUMFB0d3FkcjV4cFU1RjQyUV9oMDlZRXpySkk2UzRQSWNMMTVrNDdROWVaR290T2ZfRQ?oc=5",
-          "desc": "",
-          "title_en": "City Hall Expanded Wine Country Opens Autumn Market",
-          "title_ja": "市庁舎拡張ワインカントリーが秋の市場を開く",
-          "title_zh": "市政厅扩建葡萄酒之乡秋季市场开幕"
-        },
-        {
           "title": "솔향 나는 제철 새송이버섯, 새송이와 달라요",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XRUNfV1NjdE5PRW1tRXl5cC1QZERHbXNrNXJDa1ZLZ0xVak4xX2JVTmFqS3lyQ1g4VzVQNmxyM1RyRHp6R3NQaXZ4Yzk1STAyVWFDeld4TQ?oc=5",
           "desc": "",
@@ -234,12 +226,20 @@
           "title_zh": "它不同于季节性鸟类蘑菇和闻起来像灌木丛的鸟类蘑菇。"
         },
         {
-          "title": "오래된 우리 집 냉동실 얼음, 안전할까?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IbUhEOGdsMWQxT053Qi01NkMzb3VKZzFhbTI2dHc5aEZVNXphSWh6T3BCTWpZNkQ5aUE5Y1lJM04tWlJqUVJENVIydVQ1OXBXZWJJU256Zw?oc=5",
+          "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
           "desc": "",
-          "title_en": "Is my old house freezer ice safe?",
-          "title_ja": "古い家の冷凍庫の氷は安全ですか？",
-          "title_zh": "我的旧房子冰柜冰安全吗？"
+          "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
+          "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
+          "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
+        },
+        {
+          "title": "“식사하고 가세요”…브라질 슈퍼마켓, 식사 기능 확대",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92R0t4MWpTVlJ6amJYdzNpOEdPUXNDWVVtMDJhZXZpd2YwX0FhWWN5WHJtdTZoY3prU3JHbUJjSXdMLVBhNGVrYWJYbFYyZEIzUjVJSlAxQQ?oc=5",
+          "desc": "",
+          "title_en": "“Eat and go” … Brazilian supermarkets expand dining capabilities",
+          "title_ja": "「食べて行く」…ブラジルのスーパーマーケットがダイニング機能を拡大",
+          "title_zh": "“吃喝玩乐” ……巴西超市扩展用餐能力"
         }
       ]
     }
