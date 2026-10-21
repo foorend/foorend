@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T03:36:13Z",
+  "lastUpdated": "2026-10-21T11:17:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "饼干帝国开始崩溃"
         },
         {
-          "title": "Washington is calling out private equity-funded restaurant chains",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelBqNnlZMkQyMGJsSlhVYU9sU0xPaXdvaW5uRWR4blFUZ1JMR3NSOGE0dTN5S3c1T0NneDhnSEkzcjFMZC16dDF0RU0wMGd4b08yb1IzbVZvNjdUZWlGSEl3SzNiN0gtVU1BNTAxU0xDUVVzQkdVVUY4dWZDNV93bnhOSGprVkpwUnNyTVZ1a0RJczZnWDgyNUctd3NlTGFVbEZWOWhkaDRoTUkwdlE?oc=5",
+          "title": "What led to True Food Kitchen’s bankruptcy?",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcU1LQU1SSGV2NWQxeVBUYm9LWHJsejdyTXVyNzFkT09FOEVJM3EwenVDbGlyc3hEMkZ1ckpIbFk2WkdKM1ZDbWEtWUdHOWpPM3lLQnJ2a0NTaUk0M0wwQnRpRlBwaUVCWmJkQUxrTEdTWHNLczJLaXRwY05LeFFJZHd4ZXlRTHNIc3VSVmF3?oc=5",
           "desc": "",
-          "title_ko": "워싱턴은 사모펀드가 자금을 지원하는 레스토랑 체인을 소집하고 있습니다.",
-          "title_ja": "ワシントンはプライベートエクイティ出資のレストランチェーンを呼びかけている",
-          "title_zh": "华盛顿正在呼吁私募股权投资的连锁餐厅"
+          "title_ko": "트루 푸드 키친이 파산하게 된 계기는 무엇인가요?",
+          "title_ja": "True Food Kitchenの破産の原因は何ですか？",
+          "title_zh": "什么导致了True Food Kitchen的破产？"
         }
       ]
     },
@@ -128,7 +128,7 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "[단독]그린하버, '랭킹닭컴' 푸드나무 품는다…355억에 경영권 인수",
+          "title": "[단독] 그린하버, '랭킹닭컴' 푸드나무 품는다…355억에 경영권 인수",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qRENQVnJEOE5rY0l3akpjckZSS1I5VE4tMFBYSDYzcVNSNDJqWmt4ZlYyM1FBTWRjTlVpSmtRUy1iR3Rxa1RJVWh6RWJTN0toRjB3NG5kMXZrdw?oc=5",
           "desc": "",
           "title_en": "[Exclusive] Green Harbor embraces' Ranking Chicken Com 'food tree... Acquired management rights for 35.5 billion won",
@@ -136,20 +136,20 @@
           "title_zh": "【专属】绿港拥抱“排名鸡群”美食树……收购经营权355亿韩元"
         },
         {
-          "title": "\"4000원까지 딱 77원 남았다\"…김밥 가격에 '술렁'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fUGRRcDRmSGpiT3JfNVd1ZFpsWkFOTVQzWFNJZVMwbDFRN0xFY0dLeUJfa01iTEJDQXJGWDNTaThLMjlLTmR4TnJCc3dxZGpwT1ZKZzBWcHNZZw?oc=5",
+          "title": "[단독] 랭킹닭컴, 국내 PEF에 팔린다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uWGxvOFNCc1JCSzJ5MFJDS0pfWnZQVUZsOXlhQVZya3dPLXpITGNlQ2FiaWlzeXdUZDhGVnBvSGN1QUN5Y0lSUmM3S3pQM2ZHcXRhY0NCMThGQQ?oc=5",
           "desc": "",
-          "title_en": "\"Only 77 won left until 4000 won\"... 'Sulung' at the price of Gimbap",
-          "title_ja": "「4000ウォンまで77ウォンしか残っていません」...ギンバップの値段で「スルン」",
-          "title_zh": "“只剩下77韩元，直到4000韩元”......以Gimbap的价格'Sulung'"
+          "title_en": "[Exclusive] Ranking chicken com, sold to domestic PEF",
+          "title_ja": "【限定】国内PEFに販売するランキングチキンコム",
+          "title_zh": "【专属】排名chicken com ，卖给国内PEF"
         },
         {
-          "title": "\"괜히 휴게소에서 먹었다\"…'소고기 미역국' 시켰다가 당황",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZ3NILWdXS1EzTjV3MzYwc2NmX1hlaXZTMHdMalZuVk9XZ2pqbXo4ZXBHSV9RcjVrejkycFktZ0ZETUwxWGdZMXhGNkI3YU5waXhJX2dFZXVMZw?oc=5",
+          "title": "\"맛있다고 왕창 먹었는데\"…SNS서 난리 난 간식의 함정 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZURGMmt4RUJOckJvb0IwaG9QbkdGOFMxeHJQU21sMWlNaDNTcEt5UVpjS1hqV3Y2SEtiU1J1MFRUNVdSM3R0c21pRjVaZllPVWxyUURQeGpHQQ?oc=5",
           "desc": "",
-          "title_en": "\"I ate at a rest area for no reason\"... I was embarrassed to order 'Beef Seaweed Soup'",
-          "title_ja": "「何の理由もなく休憩所で食べた」…「牛の海藻スープ」を注文するのが恥ずかしかった",
-          "title_zh": "“我无缘无故在休息区吃饭” ……我尴尬地点了'牛肉海藻汤'"
+          "title_en": "\"I ate Wang Chang because it was delicious\" … The trap of a frenzied snack on SNS [Health! Talk]",
+          "title_ja": "「美味しかったからワンチャンを食べた」… SNSで熱狂的なスナックの罠【健康！トーク】",
+          "title_zh": "“我吃王昌是因为好吃” ……社交网络上疯狂小吃的陷阱【健康！聊天】"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
         },
         {
-          "title": "아까워서 남은 밥 데워 먹었다가…건강하던 20대, 간·신장까지 다 망가졌다 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SOVdVMWRiQkdNaG05OGFtcm1fWmIzejBMcWNNT2MzM1lDblFjU1h4a3lnUjRqU3FXcGM4RHZiSnd5S08yZkNOWW9XNWlLNzMyNVHSAVNBVV95cUxPWjE4dTQ5Vko2bk9IUDVOVjBMZk54LWx3eWxZbFpXdlV6eTNSTkRNdUdtUF85T3N4UUNWS2UwYUdBbmN0aHZTSUUwYnpacnZSRlp0VQ?oc=5",
-          "desc": "",
-          "title_en": "I heated up the rest of the rice for a while... but my healthy twenties and even my liver and kidneys were all ruined [heal time]",
-          "title_ja": "しばらくの間、残りのご飯を温めていましたが、健康な20代、さらには肝臓や腎臓までもが台無しになっていました。[ヒールタイム]",
-          "title_zh": "我把剩下的米饭加热了一段时间……但我健康的二十多岁，甚至我的肝脏和肾脏都被毁了[治愈时间]"
-        },
-        {
           "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
           "desc": "",
           "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
           "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
           "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
+        },
+        {
+          "title": "한국인들 단골 술안주인데…편해서 자주 먹던 ‘이 음식’ 섭취 주의보 떴다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WcmpoNkxYblJCMUtWaXVha3duemoxZG5sOXhsOHBmRm85ZFV6UVQwaVJBdWFXSVJRcGFNY0hBVXE0SzBpcnMyOTd6RWRMRDhHa3fSAVNBVV95cUxQZzctMXpvOVFpWl9Hd21vQWlTMUlOMG5iTDFXSXQ4RmZkVWUyNmk3VWUzOXl2X24zZ19wcGVxU0JVU2ZiOS1JVVNjSjhTcWhka3ZJMA?oc=5",
+          "desc": "",
+          "title_en": "Koreans are regular drinkers... I was cautioned against eating ‘this food‘ which I often ate because it was comfortable.",
+          "title_ja": "韓国人は定期的に飲酒しています...私は快適だったので、よく食べる「この食べ物」を食べないように注意されました。",
+          "title_zh": "韩国人经常喝酒……我被警告不要吃我经常吃的「这种食物」，因为它很舒服。"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "'즐거운 미식 체험' 진안고원푸드페스타 24∼25일 개최",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q1FYRG9jbGdabnVRTGNHZklpRE40QjdFUDZEYXFfU0JZbUJ2bkhMR0xEVWVvaWFEeGs1RG14M3hkQkZMcnplVGQzNy1MVTJmUkE?oc=5",
+          "desc": "",
+          "title_en": "Held Jinan Highland Food Festa 24th-25th, 'Fun Food Experience'",
+          "title_ja": "済南高原フードフェスタ24日～ 25日「楽しいフード体験」開催",
+          "title_zh": "济南高原美食节第24-25届“趣味美食体验”"
+        },
+        {
+          "title": "김상욱 울산시장 “태화강 세계음식문화관 철거 불가피”",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91ZF9LTWJZU2RnTUtwek02WnhTUFhGWUhTeVRkVEhQYmZCU3pwN0VjVjZHRmNEUnNZczJBSENDdGhLcWhGcGc?oc=5",
+          "desc": "",
+          "title_en": "Kim Sang-wook Ulsan Market “Unavoidable Demolition of Taehwa River World Food and Culture Museum”",
+          "title_ja": "キム・サンウク蔚山市場「やむを得ないテファ川世界食文化博物館の解体」",
+          "title_zh": "Kim Sang-wook蔚山市场“不可避免地拆除大花河世界粮食文化博物馆”"
+        },
+        {
           "title": "스타벅스, 크리스마스 시즌 음료·푸드 출시…22일부터 e-프리퀀시 진행",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Oczdyc1RJN1VjUXhLQ3lwU2JvSUxsWEdpZi1SS0NOZlE0bzdLdkMzSy1keDh6TXQ4N09NenhvQmphUlhpclE?oc=5",
           "desc": "",
           "title_en": "Starbucks Launches Drinks and Foods for the Christmas Season… e-Prequence Starts on the 22nd",
           "title_ja": "スターバックス、クリスマスシーズンの飲み物と食べ物を開始… e -頻度は22日から開始",
           "title_zh": "星巴克推出圣诞季饮料和食品… e-Prequence将于22日开始"
-        },
-        {
-          "title": "“K푸드 잘 나간다고? 더 꼼꼼하게”…EU, 한국산 적발 6년 만에 ‘최다’",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTaVdJdUhYMnZpTzYxSVR2YUVzanNCRTV4cERXTGhfYVUzY2JjV3JGMUNLdTJGUTVIZ3VtbEwwN1FhbU1PekE?oc=5",
-          "desc": "",
-          "title_en": "“K-food works well? More meticulously” … EU ‘most‘ in six years, caught in Korea",
-          "title_ja": "「K - foodはうまく機能しますか？より細心の注意を払って」…韓国で捕獲されたEUの6年間で「最も」",
-          "title_zh": "“K-food运作良好？更加细致” …六年来欧盟“最多” ，在韩国被发现"
-        },
-        {
-          "title": "K푸드 열풍에…세계 최대 식품박람회 첫 참가한 삼양식품",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEMDE5bkNOd2xmT1JMMllqcmlRbEhIUk5JNHRGZkU2Ny1IQWtVTTV0OTNxQ1M3RFMtYkYtRVBnS2pFRWhHcmpxUkpKQkhRUFFkbjFXSFFn?oc=5",
-          "desc": "",
-          "title_en": "In the K-Food craze… Samyang Foods participated in the world's largest food fair for the first time",
-          "title_ja": "K - Foodの熱狂… Samyang Foodsが世界最大のフードフェアに初めて参加",
-          "title_zh": "在K-Food热潮中…… Samyang Foods首次参加全球最大的食品博览会"
         }
       ]
     },
