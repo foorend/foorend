@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T23:38:41Z",
+  "lastUpdated": "2026-10-21T03:36:13Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,12 +128,12 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "프랑스 식음료 22개 브랜드, 국내 바이어 만난다...26일 '푸드익스피리언스'",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zVDJPaEl3c1NzelJaRXpFb3lSbU02VTV6WnNQRWZLTHBZNFd6RVhMRmxyYklkYlluYmJIRjJQMjNlclBaYXppejRxanY3M01yREktbmltNnY4QkpuYWxENDRBMG9hTDdk?oc=5",
+          "title": "[단독]그린하버, '랭킹닭컴' 푸드나무 품는다…355억에 경영권 인수",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qRENQVnJEOE5rY0l3akpjckZSS1I5VE4tMFBYSDYzcVNSNDJqWmt4ZlYyM1FBTWRjTlVpSmtRUy1iR3Rxa1RJVWh6RWJTN0toRjB3NG5kMXZrdw?oc=5",
           "desc": "",
-          "title_en": "22 French food and beverage brands meet domestic buyers... 26th 'Food Experience'",
-          "title_ja": "22のフランスの食品および飲料ブランドが国内のバイヤーと出会う... 26 th「フードエクスペリエンス」",
-          "title_zh": "22个法国食品和饮料品牌与国内买家见面...第26届“美食体验”"
+          "title_en": "[Exclusive] Green Harbor embraces' Ranking Chicken Com 'food tree... Acquired management rights for 35.5 billion won",
+          "title_ja": "【限定】グリーンハーバーは「ランキングチキンコム」フードツリーを採用… 355億ウォンの経営権取得",
+          "title_zh": "【专属】绿港拥抱“排名鸡群”美食树……收购经营权355亿韩元"
         },
         {
           "title": "\"4000원까지 딱 77원 남았다\"…김밥 가격에 '술렁'",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "스타벅스, 크리스마스 시즌 음료·푸드 출시…22일부터 e-프리퀀시 진행",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Oczdyc1RJN1VjUXhLQ3lwU2JvSUxsWEdpZi1SS0NOZlE0bzdLdkMzSy1keDh6TXQ4N09NenhvQmphUlhpclE?oc=5",
+          "desc": "",
+          "title_en": "Starbucks Launches Drinks and Foods for the Christmas Season… e-Prequence Starts on the 22nd",
+          "title_ja": "スターバックス、クリスマスシーズンの飲み物と食べ物を開始… e -頻度は22日から開始",
+          "title_zh": "星巴克推出圣诞季饮料和食品… e-Prequence将于22日开始"
+        },
+        {
           "title": "“K푸드 잘 나간다고? 더 꼼꼼하게”…EU, 한국산 적발 6년 만에 ‘최다’",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTaVdJdUhYMnZpTzYxSVR2YUVzanNCRTV4cERXTGhfYVUzY2JjV3JGMUNLdTJGUTVIZ3VtbEwwN1FhbU1PekE?oc=5",
           "desc": "",
@@ -202,14 +210,6 @@
           "title_en": "In the K-Food craze… Samyang Foods participated in the world's largest food fair for the first time",
           "title_ja": "K - Foodの熱狂… Samyang Foodsが世界最大のフードフェアに初めて参加",
           "title_zh": "在K-Food热潮中…… Samyang Foods首次参加全球最大的食品博览会"
-        },
-        {
-          "title": "“40년 전 군대 짬밥보다 고기 적어”…고속도로 휴게소 음식 품질에 ‘분통’",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nZzRwbVdPbDgyY3lxMTMwbzdneVF3VVpOV2ZrODJNTG4tU0hqVXB6NElXMWdHRjFFRnRyRHFqV0pjTHlXUDFONVRwYkRjczdYNHVscg?oc=5",
-          "desc": "",
-          "title_en": "“Less meat than military sambap 40 years ago” … 'Distribution‘ in the quality of highway rest area food",
-          "title_ja": "「40年前の軍用サンバより少ない肉」…高速道路休憩エリアの食品の品質における「流通」",
-          "title_zh": "“肉类少于40年前的军用sambap” ……高速公路休息区食品质量的“分销”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "市政厅扩建葡萄酒之乡秋季市场开幕"
         },
         {
+          "title": "솔향 나는 제철 새송이버섯, 새송이와 달라요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XRUNfV1NjdE5PRW1tRXl5cC1QZERHbXNrNXJDa1ZLZ0xVak4xX2JVTmFqS3lyQ1g4VzVQNmxyM1RyRHp6R3NQaXZ4Yzk1STAyVWFDeld4TQ?oc=5",
+          "desc": "",
+          "title_en": "It's different from seasonal bird mushrooms and bird mushrooms that smell like brush.",
+          "title_ja": "季節の鳥のキノコや、ブラシのような臭いがする鳥のキノコとは違います。",
+          "title_zh": "它不同于季节性鸟类蘑菇和闻起来像灌木丛的鸟类蘑菇。"
+        },
+        {
           "title": "오래된 우리 집 냉동실 얼음, 안전할까?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IbUhEOGdsMWQxT053Qi01NkMzb3VKZzFhbTI2dHc5aEZVNXphSWh6T3BCTWpZNkQ5aUE5Y1lJM04tWlJqUVJENVIydVQ1OXBXZWJJU256Zw?oc=5",
           "desc": "",
           "title_en": "Is my old house freezer ice safe?",
           "title_ja": "古い家の冷凍庫の氷は安全ですか？",
           "title_zh": "我的旧房子冰柜冰安全吗？"
-        },
-        {
-          "title": "페스츄리 안에 따뜻한 떡볶이…설빙의 가을 메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05WldENnZOcXRuR1B3WldzSi1TSVZYQmNWTTFZU0xMaWV3WUhuUmdhcFhhZkgtXy1ZOFdadkxyZWFucEZoUmJYWkNzNmVkeFF3aXlrTTlkWQ?oc=5",
-          "desc": "",
-          "title_en": "Warm tteokbokki in pasturi… Fall menu of snow ice",
-          "title_ja": "パストゥリの温かいトクボッキ…秋のスノーアイスメニュー",
-          "title_zh": "帕斯图里温暖的tteokbokki……雪冰秋季菜单"
         }
       ]
     }
