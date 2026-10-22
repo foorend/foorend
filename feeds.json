@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T03:35:48Z",
+  "lastUpdated": "2026-10-22T11:16:29Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "随着销售陷入困境和商店关闭， Crumbl准备了超值报价"
         },
         {
-          "title": "Grubhub founder Matt Maloney bets on a new delivery business",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHk1dmFYZTVNbTE4b0Q3NXF0OEhHZmVuLW9FLXBwQWU5M2h2MHI0ekRZcXg2dmUwMUVueEdYalRsU25WNzBLUy1CTVFtWkxfRXdibDBKcVY2eFYwT2d1Q2ZjY21oSGUtbURBZ1lTUThEbDMyenRQbk5zeXd1RGQ4TmxjUjlZNlZPOXNQRF9UckxENGVXdUJ5WUs2YVFBWUpmYUhTYWZyUGJreWM?oc=5",
-          "desc": "",
-          "title_ko": "Grubhub 설립자 Matt Maloney는 새로운 배달 사업에 베팅합니다.",
-          "title_ja": "Grubhubの創業者Matt Maloneyが新しい配達ビジネスに賭ける",
-          "title_zh": "Grubhub创始人Matt Maloney押注新的派送业务"
-        },
-        {
           "title": "Jersey Mike’s is focusing on value. Is that the right call?",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQalIwU01nN0pFSHdfelNMTnBCSFBYRmR2eVc3ajB6THNvcXBMMVRVczRpb1FvMDhKZjdkS3NfUWJEbTRUYXpjcXZIM21uY3RVd1FsRmtVMTk0cVAybWIyeW5PSEMtWVhwaXlFTHlFQWh6dUxfUElQLXdGUHdQa0tpY05qaWRqWXY3dG4wSW5DVTVhckZrLWc?oc=5",
           "desc": "",
           "title_ko": "Jersey Mike 's는 가치에 초점을 맞추고 있습니다. 올바른 통화인가요?",
           "title_ja": "Jersey Mike'sは価値に焦点を当てています。それは正しい判断ですか？",
           "title_zh": "Jersey Mike's专注于价值。这是正确的决定吗？"
+        },
+        {
+          "title": "Grubhub founder Matt Maloney bets on a new delivery business",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHk1dmFYZTVNbTE4b0Q3NXF0OEhHZmVuLW9FLXBwQWU5M2h2MHI0ekRZcXg2dmUwMUVueEdYalRsU25WNzBLUy1CTVFtWkxfRXdibDBKcVY2eFYwT2d1Q2ZjY21oSGUtbURBZ1lTUThEbDMyenRQbk5zeXd1RGQ4TmxjUjlZNlZPOXNQRF9UckxENGVXdUJ5WUs2YVFBWUpmYUhTYWZyUGJreWM?oc=5",
+          "desc": "",
+          "title_ko": "Grubhub 설립자 Matt Maloney는 새로운 배달 사업에 베팅합니다.",
+          "title_ja": "Grubhubの創業者Matt Maloneyが新しい配達ビジネスに賭ける",
+          "title_zh": "Grubhub创始人Matt Maloney押注新的派送业务"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"맛있다고 왕창 먹었는데\"…SNS서 난리 난 간식의 함정 [건강!톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZURGMmt4RUJOckJvb0IwaG9QbkdGOFMxeHJQU21sMWlNaDNTcEt5UVpjS1hqV3Y2SEtiU1J1MFRUNVdSM3R0c21pRjVaZllPVWxyUURQeGpHQQ?oc=5",
+          "desc": "",
+          "title_en": "\"I ate Wang Chang because it was delicious\" … The trap of a frenzied snack on SNS [Health! Talk]",
+          "title_ja": "「美味しかったからワンチャンを食べた」… SNSで熱狂的なスナックの罠【健康！トーク】",
+          "title_zh": "“我吃王昌是因为好吃” ……社交网络上疯狂小吃的陷阱【健康！聊天】"
+        },
+        {
+          "title": "[단독] 랭킹닭컴, 국내 PEF에 팔린다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uWGxvOFNCc1JCSzJ5MFJDS0pfWnZQVUZsOXlhQVZya3dPLXpITGNlQ2FiaWlzeXdUZDhGVnBvSGN1QUN5Y0lSUmM3S3pQM2ZHcXRhY0NCMThGQQ?oc=5",
+          "desc": "",
+          "title_en": "[Exclusive] Ranking chicken com, sold to domestic PEF",
+          "title_ja": "【限定】国内PEFに販売するランキングチキンコム",
+          "title_zh": "【专属】排名chicken com ，卖给国内PEF"
+        },
+        {
           "title": "K푸드 수출 플랫폼 된 서울역 롯데마트",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaXlZUXRlLXIycmF5Q1JTZ1ZtMU5zeVRyT0ZBQ1hpdUt2SGlneTlvUk9CN2tVQnQ2R3cyNU1aWlc2clNqSWYzYlp3UTNoVHF1NW9ZVUZWNkF5VUNiNV9oZWJhV0hGemUtU0pMMXlHT21NOHoxYUp5SFd5bEVFbjg0QnVtRE52dTA?oc=5",
           "desc": "",
           "title_en": "K Food Export Platform Seoul Station Lotte Mart",
           "title_ja": "K Food Export Platformソウル駅ロッテマート",
           "title_zh": "K食品出口平台首尔站乐天超市"
-        },
-        {
-          "title": "[단독] 그린하버, '랭킹닭컴' 푸드나무 품는다…355억에 경영권 인수",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qRENQVnJEOE5rY0l3akpjckZSS1I5VE4tMFBYSDYzcVNSNDJqWmt4ZlYyM1FBTWRjTlVpSmtRUy1iR3Rxa1RJVWh6RWJTN0toRjB3NG5kMXZrdw?oc=5",
-          "desc": "",
-          "title_en": "[Exclusive] Green Harbor embraces' Ranking Chicken Com 'food tree... Acquired management rights for 35.5 billion won",
-          "title_ja": "【限定】グリーンハーバーは「ランキングチキンコム」フードツリーを採用… 355億ウォンの経営権取得",
-          "title_zh": "【专属】绿港拥抱“排名鸡群”美食树……收购经营权355亿韩元"
-        },
-        {
-          "title": "2026 구미푸드페스티벌, 27만여명 방문",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54dXJKY05GRlcxNGszZDdmNjNzaXJrVjJrR3B5ZzdaN0dqM0J6SEdvNGJNdGpkWFFKeXplbldUZkVZWFJBWElJQW94dllacTRaSUM3dDM2Zjh4MkR6d2VKV01UbTlPRjVyd0dsOW12cVYyaThvbXlaSWVFRVF4RFk?oc=5",
-          "desc": "",
-          "title_en": "2026 Gumi Food Festival, visited by 270,000 people",
-          "title_ja": "2026年組フードフェスティバル27万人が訪れました",
-          "title_zh": "2026年龟尾美食节， 27万人参观"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "我把剩下的米饭加热了一段时间……但我健康的二十多岁，甚至我的肝脏和肾脏都被毁了[治愈时间]"
         },
         {
-          "title": "영상건강에 좋대서 먹었는데 “나트륨 폭탄 터진다”…심장 전문의들 경고하는 ‘이 음식’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iNkNNLU12VmRpR0VWYkt2RHRaYzN1RlhQckVrdi1KY2xaMUUtT2I2ZXlEUGdsZE90R3NFTzBSWlZCc3JlcVlhU3BEZW9JenRzamc?oc=5",
+          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
           "desc": "",
-          "title_en": "I ate it because it was good for my video health, but “sodium bomb explodes” … ‘This food’ warns cardiologists",
-          "title_ja": "ビデオの健康に良いので食べましたが、「ナトリウム爆弾が爆発する」…「この食べ物」は心臓専門医に警告します",
-          "title_zh": "我吃了它，因为它对我的视频健康有好处，但“钠炸弹爆炸” …… “这种食物”警告心脏病专家"
+          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
+          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
+          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "\"K푸드 열풍 보기드문 기회…M&A로 유통망 확 넓혀야\"",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyYWFmWHd6czRlZ3ZCSTNobFNtbm80cGhFbDJtOUZYMV81SEtBY0dPLXk3VjM3TXJqX2E1NEZHanpMX2ZaNFE?oc=5",
+          "desc": "",
+          "title_en": "\"A rare opportunity to see the K-Food craze... We should expand our distribution network through M&A\"",
+          "title_ja": "「K - Foodの流行を見る貴重な機会... M&Aを通じて流通ネットワークを拡大する必要があります」",
+          "title_zh": "“看到K-Food热潮的难得机会……我们应该通过并购扩大我们的分销网络”"
+        },
         {
           "title": "'즐거운 미식 체험' 진안고원푸드페스타 24∼25일 개최",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q1FYRG9jbGdabnVRTGNHZklpRE40QjdFUDZEYXFfU0JZbUJ2bkhMR0xEVWVvaWFEeGs1RG14M3hkQkZMcnplVGQzNy1MVTJmUkE?oc=5",
@@ -197,19 +205,11 @@
         },
         {
           "title": "김상욱 울산시장 “태화강 세계음식문화관 철거 불가피”",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfNkJWc3V6aTlfOTRmR2ZRRExBNk5wUnA5NW5MbDNoTWJTOG1KMkY3VmJHUlZadXhUTXJzTGN3Q0hTemExVHdEeHktU19VT3Y4UzloOQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91ZF9LTWJZU2RnTUtwek02WnhTUFhGWUhTeVRkVEhQYmZCU3pwN0VjVjZHRmNEUnNZczJBSENDdGhLcWhGcGc?oc=5",
           "desc": "",
           "title_en": "Kim Sang-wook Ulsan Market “Unavoidable Demolition of Taehwa River World Food and Culture Museum”",
           "title_ja": "キム・サンウク蔚山市場「やむを得ないテファ川世界食文化博物館の解体」",
           "title_zh": "Kim Sang-wook蔚山市场“不可避免地拆除大花河世界粮食文化博物馆”"
-        },
-        {
-          "title": "스타벅스, 크리스마스 시즌 음료·푸드 출시…22일부터 e-프리퀀시 진행",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Oczdyc1RJN1VjUXhLQ3lwU2JvSUxsWEdpZi1SS0NOZlE0bzdLdkMzSy1keDh6TXQ4N09NenhvQmphUlhpclE?oc=5",
-          "desc": "",
-          "title_en": "Starbucks Launches Drinks and Foods for the Christmas Season… e-Prequence Starts on the 22nd",
-          "title_ja": "スターバックス、クリスマスシーズンの飲み物と食べ物を開始… e -頻度は22日から開始",
-          "title_zh": "星巴克推出圣诞季饮料和食品… e-Prequence将于22日开始"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "康普茶，冬季温暖…… Tizen「康普茶橙肉桂」"
         },
         {
-          "title": "무알코올에 퓨전 음식…‘옥토버페스트’로 보는 유럽 트렌드",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQRFZIdnk1X3ZianJHM0hZS24tcG5RTUwtakwxdzVvUlNqcnFDcTlRejFuYjdMYnY1c3BxQ1pqRFNnSFJVOHkzTUZHOHRxdkNnT00zaVk2cw?oc=5",
+          "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
           "desc": "",
-          "title_en": "Non-Alcoholic Fusion Food… European Trends at Oktoberfest",
-          "title_ja": "ノンアルコールフュージョンフード…オクトーバーフェストでヨーロッパのトレンドを学ぼう",
-          "title_zh": "非酒精融合美食…慕尼黑啤酒节的欧洲潮流"
+          "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
+          "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
+          "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
         }
       ]
     }
