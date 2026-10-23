@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T11:07:26Z",
+  "lastUpdated": "2026-10-23T16:35:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "随着销售陷入困境和商店关闭， Crumbl准备了超值报价"
         },
         {
-          "title": "Jersey Mike’s is focusing on value. Is that the right call?",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQalIwU01nN0pFSHdfelNMTnBCSFBYRmR2eVc3ajB6THNvcXBMMVRVczRpb1FvMDhKZjdkS3NfUWJEbTRUYXpjcXZIM21uY3RVd1FsRmtVMTk0cVAybWIyeW5PSEMtWVhwaXlFTHlFQWh6dUxfUElQLXdGUHdQa0tpY05qaWRqWXY3dG4wSW5DVTVhckZrLWc?oc=5",
-          "desc": "",
-          "title_ko": "Jersey Mike 's는 가치에 초점을 맞추고 있습니다. 올바른 통화인가요?",
-          "title_ja": "Jersey Mike'sは価値に焦点を当てています。それは正しい判断ですか？",
-          "title_zh": "Jersey Mike's专注于价值。这是正确的决定吗？"
-        },
-        {
           "title": "Olo readies its answer to third-party delivery apps",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeExpQi1XV0NneW42RHNfVGxkR2JVQ0VfTDRiZ3p6U0dpZzNab3BqLU1mbnU5ZzdLYkVCYVk4MVJEVERBYVdRd0t5Z3I0VWN4a2p1ZkI4eEZ2Nkl4MTloS01sc0xyaHdYZ2twV3NJTVNzTXpYQktSZlVYSGx5cXpqMmRRdWU1TzBrU3ctSl9fSWNRbVp1a3l3bzNfaWU?oc=5",
           "desc": "",
           "title_ko": "Olo는 타사 배달 앱에 대한 답변을 준비합니다.",
           "title_ja": "Oloはサードパーティの配達アプリに対応する準備ができています",
           "title_zh": "Olo已准备好回答第三方派送应用的问题"
+        },
+        {
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "desc": "",
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -136,7 +136,7 @@
           "title_zh": "Phone Sung的首席执行官重新设计为Agritech Food Tech被问及将农业食品技术与可持续业务联系起来的条件"
         },
         {
-          "title": "[포토] 현대그린푸드 ‘힙스토어 팝업’",
+          "title": "[포토] 현대그린푸드 ‘힙스토어 팝업’﻿",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2TzBXSGFORFRJRGVhOGV2NFd2ZVBhcEo5c1NQeHNNWkRLV0tZeThoMGpVeWtxb3U5eTdNU1drUTI0NDFEZTd0S2p1QVNoeVp6Z2ozd2pQX2d6UQ?oc=5",
           "desc": "",
           "title_en": "[Photo] Hyundai Green Food ‘Hip Store Pop-Up’",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "음식시민 外 [북스&]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16S0UxS1hVUFZaUFpmSXpwOEpfdnV6R2s2LXZaSWFNTkRYYk1QOEl4enlONFVDeUI3MVVrZ2UxcWJUWTdQTXdrZF85MEFrWFVyU3c?oc=5",
+          "desc": "",
+          "title_en": "Food Citizen and others [Books &]",
+          "title_ja": "Food Citizenとその他[Books &]",
+          "title_zh": "美食市民和其他人[书籍和]"
+        },
+        {
           "title": "한국인들 즐겨 먹는 건데…“절대 먹지 마라” 의사들이 경고한 음식들 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mWXZLVkIxbE5pZ1dGRHg4S2YtNExZQ3dQYzJCaVZKMFlYaE9SOG5FSmNiaENzdzVZUjAtaC1mUUFKRkQwU082TkxTVmJPaEJSTmfSAVNBVV95cUxOZ2FjeHRLWEVRT2dlRC1wVG54aHdpVFRHVG9TZkNNMUk4WGk3c2cySFpQSjZFUldHLVBSZGc2bEpBTmVrclUyTGhkMzJ4T28xc3RUcw?oc=5",
           "desc": "",
@@ -166,20 +174,12 @@
           "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
         },
         {
-          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
+          "title": "신석순 한울푸드라인 대표 \"동남아시아 맛과 향 '오리스'서 즐기세요\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04RGxONjFQekl6eDZyMHQtYjZIdDZjaDEwS3dnaC1zWVZxQWZRUnBCaWtnZXpkSDFycXdjbEd1MWVpVmFRdlJBdDJHUm1lejRJVEHSAVNBVV95cUxPNDBWMTFfM3puU09Oc3pyc2pyQmRqNFN2SUJhREh0SVh1bkZMZTFUQncyVVE2VGc4a3h5OW1JYlk2eHBzR0dtckZIZHdEbUM5RWJPQQ?oc=5",
           "desc": "",
-          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
-          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
-          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
-        },
-        {
-          "title": "“이거 맛보러 한국까지 갑니다”…대만 관광객 우르르, 푹 빠진 K푸드 정체가",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vcG9NdzUyRm5TbFhVT0VHRDdMLWh6eFhSbG52ai1NX1NaSnVMMXVpWk1sRHA0ME10RGNZaTdiLWppYk84Z25KY2V3RzRjdzlXN3fSAVNBVV95cUxPM21VdXFZWDBFeGlBLVRGalktYmU4UmRYQXRPQlU2bjF2ZHJkc09XZEpqR05raUZmWElCLWlpTkNHR3pSa1pkNTRudE5aMm1kUnZYVQ?oc=5",
-          "desc": "",
-          "title_en": "“I'm going to Korea to taste this” … Taiwanese tourist Urr, I'm obsessed with K food",
-          "title_ja": "「これを味わうために韓国に行く」…台湾の観光客Urr、私はKフードに夢中です",
-          "title_zh": "「我要去韩国品尝这个」……台湾游客Urr ，我对K美食很着迷"
+          "title_en": "Shin Seok-soon, CEO of Hanul Food Line, \"Enjoy Southeast Asian flavors and aromas' Oris'\"",
+          "title_ja": "ハヌルフードラインCEOシン・ソクソン「東南アジアの風味とアロマを楽しむ『オリス』」",
+          "title_zh": "Hanul Food Line首席执行官Shin Seok-soon “享受东南亚风味和香气'Oris'”"
         }
       ]
     },
