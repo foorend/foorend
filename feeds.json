@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T16:35:16Z",
+  "lastUpdated": "2026-10-23T21:04:05Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "전화성 대표 애그리테크 푸드테크로 다시 설계하다출간 예정 농식품 기술을 지속 가능한 사업으로 연결하는 조건을 묻다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52NUJWNlUyRmVrWGE5R1Z5cTNDUjNjbzdjVmk2WHIxRXBQREJKbmsxeXpTRTlmLXN6TXpIRVBhdTVWdXJfT3FORG5ZQ0hmZzYzMzczdEVOV2hrVnlza01WUlBBME1wZw?oc=5",
-          "desc": "",
-          "title_en": "Phone Sung's CEO Redesigns as Agritech Food Tech Asked about the conditions for linking agri-food technology to sustainable businesses",
-          "title_ja": "Phone SungのCEOがAgritech Food Techとして再設計農業食品技術を持続可能なビジネスに結びつけるための条件について尋ねられました",
-          "title_zh": "Phone Sung的首席执行官重新设计为Agritech Food Tech被问及将农业食品技术与可持续业务联系起来的条件"
-        },
-        {
           "title": "[포토] 현대그린푸드 ‘힙스토어 팝업’﻿",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2TzBXSGFORFRJRGVhOGV2NFd2ZVBhcEo5c1NQeHNNWkRLV0tZeThoMGpVeWtxb3U5eTdNU1drUTI0NDFEZTd0S2p1QVNoeVp6Z2ozd2pQX2d6UQ?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "Only getting a massage? The real charm of Bangkok alley that we didn't know about [Shin Ye-hee's solo bite trip]",
           "title_ja": "マッサージを受けるだけですか？私たちが知らなかったバンコク路地の本当の魅力[シン・イェヒの一人旅]",
           "title_zh": "只是按摩？曼谷小巷的真正魅力，我们不知道[Shin Ye-hee's solo bite trip]"
+        },
+        {
+          "title": "푸드트래블, 강레오 셰프 '총괄 컬리너리 파트너' 선임…F&B 사업 강화",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JS3Q3SUwtTno1MGl0WVY2UzVlZUNVWDBpUFl3TUJuOXlTOENOOUxxX2tmYnl1ckluNHhKNVd1MUVoc1o2aC1zSGdVR2Vtdmx1Z0JHUW9DYWpZQQ?oc=5",
+          "desc": "",
+          "title_en": "Food Travel Appoints Gangreo Chef 'General Culinary Partner' to Strengthen F&B Business",
+          "title_ja": "Food Travel、Gangreo Chefを「General Culinary Partner」に任命し、F&Bビジネスを強化",
+          "title_zh": "Food Travel任命Gangreo Chef为“综合烹饪合作伙伴” ，以加强餐饮业务"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
         },
         {
-          "title": "신석순 한울푸드라인 대표 \"동남아시아 맛과 향 '오리스'서 즐기세요\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04RGxONjFQekl6eDZyMHQtYjZIdDZjaDEwS3dnaC1zWVZxQWZRUnBCaWtnZXpkSDFycXdjbEd1MWVpVmFRdlJBdDJHUm1lejRJVEHSAVNBVV95cUxPNDBWMTFfM3puU09Oc3pyc2pyQmRqNFN2SUJhREh0SVh1bkZMZTFUQncyVVE2VGc4a3h5OW1JYlk2eHBzR0dtckZIZHdEbUM5RWJPQQ?oc=5",
+          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
           "desc": "",
-          "title_en": "Shin Seok-soon, CEO of Hanul Food Line, \"Enjoy Southeast Asian flavors and aromas' Oris'\"",
-          "title_ja": "ハヌルフードラインCEOシン・ソクソン「東南アジアの風味とアロマを楽しむ『オリス』」",
-          "title_zh": "Hanul Food Line首席执行官Shin Seok-soon “享受东南亚风味和香气'Oris'”"
+          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
+          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
+          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "它不同于季节性鸟类蘑菇和闻起来像灌木丛的鸟类蘑菇。"
         },
         {
-          "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
+          "title": "새마을식당, 美 진출 3년 만에 월매출 70% 올라",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iT2t1X2hZRURHWnc0dW1SUDZSQXNBVXVSenhadWlIQk80T243RHEyMDZRZVQydDdCczFSWUFJV2xNcG0xY2Uxc2R2VnN5VHRkcUhSeWJtTQ?oc=5",
           "desc": "",
-          "title_en": "Kombucha, warm in winter... Tizen ‘Kombucha Orange Cinnamon’",
-          "title_ja": "冬暖かいコンブチャ…天前「コンブチャオレンジシナモン」",
-          "title_zh": "康普茶，冬季温暖…… Tizen「康普茶橙肉桂」"
+          "title_en": "Saemaul Restaurant Increases Monthly Sales by 70% in 3 Years",
+          "title_ja": "Saemaulレストランが3年間で月間売上高を70 ％増加",
+          "title_zh": "Saemaul餐厅在3年内每月销售额增长70%"
         },
         {
-          "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
+          "title": "무알코올에 퓨전 음식…‘옥토버페스트’로 보는 유럽 트렌드",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WkYyM2VnZHlLMGota0wwTTUxRlNjbVh4OFFBZmlqaDJqd3FQelR3OWpxTXZJX0lQdDN3cUVQVFpBU2N1SXRYaFlGUzk2bmdqb0U1dlN0WQ?oc=5",
           "desc": "",
-          "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
-          "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
-          "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
+          "title_en": "Non-Alcoholic Fusion Food… European Trends at Oktoberfest",
+          "title_ja": "ノンアルコールフュージョンフード…オクトーバーフェストでヨーロッパのトレンドを学ぼう",
+          "title_zh": "非酒精融合美食…慕尼黑啤酒节的欧洲潮流"
         }
       ]
     }
