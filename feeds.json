@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T21:15:21Z",
+  "lastUpdated": "2026-10-23T03:40:36Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Has Substitution Culture Gone Too Far?",
+          "link": "https://www.eater.com/dining-out/993334/substitutions-boundaries-pre-shift",
+          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
+          "title_ko": "대체 문화가 너무 멀리 갔습니까?",
+          "title_ja": "代替文化は行き過ぎていますか？",
+          "title_zh": "替代文化是否走得太远了？"
+        },
+        {
           "title": "The Eggs Scene in ‘You Can See Everything’ Scrambles Reality",
           "link": "https://www.eater.com/food-culture/993909/you-can-see-everything-scrambled-eggs-scene-analysis-review",
           "desc": "This review contains spoilers for the film You Can See Everything. A version of this post originally appeared in Eater Today, which spotlights the fre",
@@ -110,14 +118,6 @@
           "title_ko": "'선술집 스타일’ 피자 장악",
           "title_ja": "「居酒屋スタイル」のピザテイクオーバー",
           "title_zh": "“酒馆式”披萨收购"
-        },
-        {
-          "title": "Where Chef Eric Sze Eats on His Day Off in NYC",
-          "link": "https://www.eater.com/dining-out/993531/chef-eric-sze-favorite-restaurants-in-nyc",
-          "desc": "Chef Eric Sze, the owner of NYC’s Wenwen, shows us the bakeries, pizzerias, and restaurants he visits weekly for everything from simple baguette sandw",
-          "title_ko": "뉴욕에서 휴가를 보내는 에릭 셰 셰프가 즐겨 찾는 곳",
-          "title_ja": "シェフEric Szeが休みの日にニューヨークで食事を楽しもう",
-          "title_zh": "大厨Eric Sze在纽约休息日用餐的地方"
         }
       ]
     }
@@ -127,6 +127,14 @@
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
       "items": [
+        {
+          "title": "푸드트래블, 강레오 셰프 '총괄 컬리너리 파트너' 선임…F&B 사업 강화",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JS3Q3SUwtTno1MGl0WVY2UzVlZUNVWDBpUFl3TUJuOXlTOENOOUxxX2tmYnl1ckluNHhKNVd1MUVoc1o2aC1zSGdVR2Vtdmx1Z0JHUW9DYWpZQQ?oc=5",
+          "desc": "",
+          "title_en": "Food Travel Appoints Gangreo Chef 'General Culinary Partner' to Strengthen F&B Business",
+          "title_ja": "Food Travel、Gangreo Chefを「General Culinary Partner」に任命し、F&Bビジネスを強化",
+          "title_zh": "Food Travel任命Gangreo Chef为“综合烹饪合作伙伴” ，以加强餐饮业务"
+        },
         {
           "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 23일 띠별 추천 점심메뉴",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZM2J3dGtTSU5pUVJIalJCU0s5REU2c3pBM3VuaHFkaE0wcGgtX0JUNWkzdHE4Y2NkcmlzOVpsZ0lZTlFEUVVza0NjTElZV2ZhNkEzMGRTSVM4dw?oc=5",
@@ -142,14 +150,6 @@
           "title_en": "[Exclusive] Ranking chicken com, sold to domestic PEF",
           "title_ja": "【限定】国内PEFに販売するランキングチキンコム",
           "title_zh": "【专属】排名chicken com ，卖给国内PEF"
-        },
-        {
-          "title": "\"맛있다고 왕창 먹었는데\"…SNS서 난리 난 간식의 함정 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZURGMmt4RUJOckJvb0IwaG9QbkdGOFMxeHJQU21sMWlNaDNTcEt5UVpjS1hqV3Y2SEtiU1J1MFRUNVdSM3R0c21pRjVaZllPVWxyUURQeGpHQQ?oc=5",
-          "desc": "",
-          "title_en": "\"I ate Wang Chang because it was delicious\" … The trap of a frenzied snack on SNS [Health! Talk]",
-          "title_ja": "「美味しかったからワンチャンを食べた」… SNSで熱狂的なスナックの罠【健康！トーク】",
-          "title_zh": "“我吃王昌是因为好吃” ……社交网络上疯狂小吃的陷阱【健康！聊天】"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "「我要去韩国品尝这个」……台湾游客Urr ，我对K美食很着迷"
         },
         {
-          "title": "아까워서 남은 밥 데워 먹었다가…건강하던 20대, 간·신장까지 다 망가졌다 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SOVdVMWRiQkdNaG05OGFtcm1fWmIzejBMcWNNT2MzM1lDblFjU1h4a3lnUjRqU3FXcGM4RHZiSnd5S08yZkNOWW9XNWlLNzMyNVHSAVNBVV95cUxPWjE4dTQ5Vko2bk9IUDVOVjBMZk54LWx3eWxZbFpXdlV6eTNSTkRNdUdtUF85T3N4UUNWS2UwYUdBbmN0aHZTSUUwYnpacnZSRlp0VQ?oc=5",
+          "title": "건강에 좋대서 먹었는데 “나트륨 폭탄 터진다”…심장 전문의들 경고하는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iNkNNLU12VmRpR0VWYkt2RHRaYzN1RlhQckVrdi1KY2xaMUUtT2I2ZXlEUGdsZE90R3NFTzBSWlZCc3JlcVlhU3BEZW9JenRzamfSAVNBVV95cUxQUkw4OGZndDBUcWdfRGhPRXp4NW54bDN6M0tobU45aDcyUmw4WmN5YzhPbW81dG04V1pXMWltSkdXaFpCdnFvMFRySENYS2FGc2JqNA?oc=5",
           "desc": "",
-          "title_en": "I heated up the rest of the rice for a while... but my healthy twenties and even my liver and kidneys were all ruined [heal time]",
-          "title_ja": "しばらくの間、残りのご飯を温めていましたが、健康な20代、さらには肝臓や腎臓までもが台無しになっていました。[ヒールタイム]",
-          "title_zh": "我把剩下的米饭加热了一段时间……但我健康的二十多岁，甚至我的肝脏和肾脏都被毁了[治愈时间]"
+          "title_en": "I ate it because it was healthy, but “Sodium Bomb Explodes” … ‘This Food‘ Warns Cardiologists [Health Time]",
+          "title_ja": "健康的だったので食べましたが、「ナトリウム爆弾が爆発する」…「この食べ物」は心臓専門医に警告します[健康時間]",
+          "title_zh": "我吃它是因为它很健康，但“钠炸弹爆炸” …… “这种食物”警告心脏病专家[健康时间]"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "\"한우 맛보세요\"…부산시, 외국인 관광객 '미식투어' 식비 지원",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5saFhXX0ZJYUZVVlpheXY2Q2pEcUJidXByMW9MSkU3aWRhdTdTTjllS1l5eTYtMEt1V0x4UkpJNFZteDFJbTVmUjhTZEtaZzRnS3c?oc=5",
+          "desc": "",
+          "title_en": "\"Taste Korean beef\" … Busan City supports food expenses for foreign tourists' gourmet tours'",
+          "title_ja": "「韓国牛を味わう」…釜山市は外国人観光客の「グルメツアー」の食費を支援",
+          "title_zh": "「品尝韩国牛肉」……釜山市支持外国游客「美食之旅」的美食费用"
+        },
+        {
+          "title": "[고침] 경제(풀무원푸드앤컬처 신임 대표에 이동훈 본부장)",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBneDE3WDhQZjF5TE50NExCUHA4b1h2MGdhNk5ubDFXX0FxejROaWdBbzFBX29LNmxNUnVWUEdEcjJRY1RJSEVXTDRDLUxYeHlM?oc=5",
+          "desc": "",
+          "title_en": "[Fix] Economy (Director Lee Dong-hoon to the new CEO of Pulmuone Food and Culture)",
+          "title_ja": "[修正]経済（イ・ドンフン取締役からプルムオーネ・フード・アンド・カルチャーの新CEOへ）",
+          "title_zh": "【修复】经济（李东勋董事致Pulmuone Food and Culture新任首席执行官）"
+        },
+        {
           "title": "\"K푸드 열풍 보기드문 기회…M&A로 유통망 확 넓혀야\"",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyYWFmWHd6czRlZ3ZCSTNobFNtbm80cGhFbDJtOUZYMV81SEtBY0dPLXk3VjM3TXJqX2E1NEZHanpMX2ZaNFE?oc=5",
           "desc": "",
           "title_en": "\"A rare opportunity to see the K-Food craze... We should expand our distribution network through M&A\"",
           "title_ja": "「K - Foodの流行を見る貴重な機会... M&Aを通じて流通ネットワークを拡大する必要があります」",
           "title_zh": "“看到K-Food热潮的难得机会……我们应该通过并购扩大我们的分销网络”"
-        },
-        {
-          "title": "'즐거운 미식 체험' 진안고원푸드페스타 24∼25일 개최",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q1FYRG9jbGdabnVRTGNHZklpRE40QjdFUDZEYXFfU0JZbUJ2bkhMR0xEVWVvaWFEeGs1RG14M3hkQkZMcnplVGQzNy1MVTJmUkE?oc=5",
-          "desc": "",
-          "title_en": "Held Jinan Highland Food Festa 24th-25th, 'Fun Food Experience'",
-          "title_ja": "済南高原フードフェスタ24日～ 25日「楽しいフード体験」開催",
-          "title_zh": "济南高原美食节第24-25届“趣味美食体验”"
-        },
-        {
-          "title": "김상욱 울산시장 “태화강 세계음식문화관 철거 불가피”",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfNkJWc3V6aTlfOTRmR2ZRRExBNk5wUnA5NW5MbDNoTWJTOG1KMkY3VmJHUlZadXhUTXJzTGN3Q0hTemExVHdEeHktU19VT3Y4UzloOQ?oc=5",
-          "desc": "",
-          "title_en": "Kim Sang-wook Ulsan Market “Unavoidable Demolition of Taehwa River World Food and Culture Museum”",
-          "title_ja": "キム・サンウク蔚山市場「やむを得ないテファ川世界食文化博物館の解体」",
-          "title_zh": "Kim Sang-wook蔚山市场“不可避免地拆除大花河世界粮食文化博物馆”"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "솔향 나는 제철 새송이버섯, 새송이와 달라요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XRUNfV1NjdE5PRW1tRXl5cC1QZERHbXNrNXJDa1ZLZ0xVak4xX2JVTmFqS3lyQ1g4VzVQNmxyM1RyRHp6R3NQaXZ4Yzk1STAyVWFDeld4TQ?oc=5",
-          "desc": "",
-          "title_en": "It's different from seasonal bird mushrooms and bird mushrooms that smell like brush.",
-          "title_ja": "季節の鳥のキノコや、ブラシのような臭いがする鳥のキノコとは違います。",
-          "title_zh": "它不同于季节性鸟类蘑菇和闻起来像灌木丛的鸟类蘑菇。"
-        },
         {
           "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
           "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
+        },
+        {
+          "title": "“식사하고 가세요”…브라질 슈퍼마켓, 식사 기능 확대",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92R0t4MWpTVlJ6amJYdzNpOEdPUXNDWVVtMDJhZXZpd2YwX0FhWWN5WHJtdTZoY3prU3JHbUJjSXdMLVBhNGVrYWJYbFYyZEIzUjVJSlAxQQ?oc=5",
+          "desc": "",
+          "title_en": "“Eat and go” … Brazilian supermarkets expand dining capabilities",
+          "title_ja": "「食べて行く」…ブラジルのスーパーマーケットがダイニング機能を拡大",
+          "title_zh": "“吃喝玩乐” ……巴西超市扩展用餐能力"
         }
       ]
     }
