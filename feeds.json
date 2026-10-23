@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T03:40:36Z",
+  "lastUpdated": "2026-10-23T11:07:26Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "푸드트래블, 강레오 셰프 '총괄 컬리너리 파트너' 선임…F&B 사업 강화",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JS3Q3SUwtTno1MGl0WVY2UzVlZUNVWDBpUFl3TUJuOXlTOENOOUxxX2tmYnl1ckluNHhKNVd1MUVoc1o2aC1zSGdVR2Vtdmx1Z0JHUW9DYWpZQQ?oc=5",
+          "title": "전화성 대표 애그리테크 푸드테크로 다시 설계하다출간 예정 농식품 기술을 지속 가능한 사업으로 연결하는 조건을 묻다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52NUJWNlUyRmVrWGE5R1Z5cTNDUjNjbzdjVmk2WHIxRXBQREJKbmsxeXpTRTlmLXN6TXpIRVBhdTVWdXJfT3FORG5ZQ0hmZzYzMzczdEVOV2hrVnlza01WUlBBME1wZw?oc=5",
           "desc": "",
-          "title_en": "Food Travel Appoints Gangreo Chef 'General Culinary Partner' to Strengthen F&B Business",
-          "title_ja": "Food Travel、Gangreo Chefを「General Culinary Partner」に任命し、F&Bビジネスを強化",
-          "title_zh": "Food Travel任命Gangreo Chef为“综合烹饪合作伙伴” ，以加强餐饮业务"
+          "title_en": "Phone Sung's CEO Redesigns as Agritech Food Tech Asked about the conditions for linking agri-food technology to sustainable businesses",
+          "title_ja": "Phone SungのCEOがAgritech Food Techとして再設計農業食品技術を持続可能なビジネスに結びつけるための条件について尋ねられました",
+          "title_zh": "Phone Sung的首席执行官重新设计为Agritech Food Tech被问及将农业食品技术与可持续业务联系起来的条件"
         },
         {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 23일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZM2J3dGtTSU5pUVJIalJCU0s5REU2c3pBM3VuaHFkaE0wcGgtX0JUNWkzdHE4Y2NkcmlzOVpsZ0lZTlFEUVVza0NjTElZV2ZhNkEzMGRTSVM4dw?oc=5",
+          "title": "[포토] 현대그린푸드 ‘힙스토어 팝업’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2TzBXSGFORFRJRGVhOGV2NFd2ZVBhcEo5c1NQeHNNWkRLV0tZeThoMGpVeWtxb3U5eTdNU1drUTI0NDFEZTd0S2p1QVNoeVp6Z2ozd2pQX2d6UQ?oc=5",
           "desc": "",
-          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 23",
-          "title_ja": "【本日の星占い】今日は何を食べようか… 10月23日にベルトでおすすめのランチメニュー",
-          "title_zh": "【今天的星座】今天吃什么？ … 10月23日腰带推荐午餐菜单"
+          "title_en": "[Photo] Hyundai Green Food ‘Hip Store Pop-Up’",
+          "title_ja": "【写真】現代グリーンフード「ヒップストアポップアップ」",
+          "title_zh": "【照片】现代绿色食品“嘻哈店快闪店”"
         },
         {
-          "title": "[단독] 랭킹닭컴, 국내 PEF에 팔린다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uWGxvOFNCc1JCSzJ5MFJDS0pfWnZQVUZsOXlhQVZya3dPLXpITGNlQ2FiaWlzeXdUZDhGVnBvSGN1QUN5Y0lSUmM3S3pQM2ZHcXRhY0NCMThGQQ?oc=5",
+          "title": "마사지만 받는다고? 우리가 몰랐던 방콕 골목의 진짜 매력 [신예희의 나홀로 한입여행]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95cUw5bG9Dek1STjBzRkVuYmQwb1lCRjl2b3IwSHdOZFE0MzJqSFZERjA1SjRLQ0hVVkVUMDB3Si1PMFNZR09DUE5GUmVRVVhadmE2QnRyVWNqUQ?oc=5",
           "desc": "",
-          "title_en": "[Exclusive] Ranking chicken com, sold to domestic PEF",
-          "title_ja": "【限定】国内PEFに販売するランキングチキンコム",
-          "title_zh": "【专属】排名chicken com ，卖给国内PEF"
+          "title_en": "Only getting a massage? The real charm of Bangkok alley that we didn't know about [Shin Ye-hee's solo bite trip]",
+          "title_ja": "マッサージを受けるだけですか？私たちが知らなかったバンコク路地の本当の魅力[シン・イェヒの一人旅]",
+          "title_zh": "只是按摩？曼谷小巷的真正魅力，我们不知道[Shin Ye-hee's solo bite trip]"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
         },
         {
+          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
+          "desc": "",
+          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
+          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
+          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
+        },
+        {
           "title": "“이거 맛보러 한국까지 갑니다”…대만 관광객 우르르, 푹 빠진 K푸드 정체가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vcG9NdzUyRm5TbFhVT0VHRDdMLWh6eFhSbG52ai1NX1NaSnVMMXVpWk1sRHA0ME10RGNZaTdiLWppYk84Z25KY2V3RzRjdzlXN3fSAVNBVV95cUxPM21VdXFZWDBFeGlBLVRGalktYmU4UmRYQXRPQlU2bjF2ZHJkc09XZEpqR05raUZmWElCLWlpTkNHR3pSa1pkNTRudE5aMm1kUnZYVQ?oc=5",
           "desc": "",
           "title_en": "“I'm going to Korea to taste this” … Taiwanese tourist Urr, I'm obsessed with K food",
           "title_ja": "「これを味わうために韓国に行く」…台湾の観光客Urr、私はKフードに夢中です",
           "title_zh": "「我要去韩国品尝这个」……台湾游客Urr ，我对K美食很着迷"
-        },
-        {
-          "title": "건강에 좋대서 먹었는데 “나트륨 폭탄 터진다”…심장 전문의들 경고하는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iNkNNLU12VmRpR0VWYkt2RHRaYzN1RlhQckVrdi1KY2xaMUUtT2I2ZXlEUGdsZE90R3NFTzBSWlZCc3JlcVlhU3BEZW9JenRzamfSAVNBVV95cUxQUkw4OGZndDBUcWdfRGhPRXp4NW54bDN6M0tobU45aDcyUmw4WmN5YzhPbW81dG04V1pXMWltSkdXaFpCdnFvMFRySENYS2FGc2JqNA?oc=5",
-          "desc": "",
-          "title_en": "I ate it because it was healthy, but “Sodium Bomb Explodes” … ‘This Food‘ Warns Cardiologists [Health Time]",
-          "title_ja": "健康的だったので食べましたが、「ナトリウム爆弾が爆発する」…「この食べ物」は心臓専門医に警告します[健康時間]",
-          "title_zh": "我吃它是因为它很健康，但“钠炸弹爆炸” …… “这种食物”警告心脏病专家[健康时间]"
         }
       ]
     },
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "솔향 나는 제철 새송이버섯, 새송이와 달라요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XRUNfV1NjdE5PRW1tRXl5cC1QZERHbXNrNXJDa1ZLZ0xVak4xX2JVTmFqS3lyQ1g4VzVQNmxyM1RyRHp6R3NQaXZ4Yzk1STAyVWFDeld4TQ?oc=5",
+          "desc": "",
+          "title_en": "It's different from seasonal bird mushrooms and bird mushrooms that smell like brush.",
+          "title_ja": "季節の鳥のキノコや、ブラシのような臭いがする鳥のキノコとは違います。",
+          "title_zh": "它不同于季节性鸟类蘑菇和闻起来像灌木丛的鸟类蘑菇。"
+        },
+        {
           "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
           "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
-        },
-        {
-          "title": "“식사하고 가세요”…브라질 슈퍼마켓, 식사 기능 확대",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92R0t4MWpTVlJ6amJYdzNpOEdPUXNDWVVtMDJhZXZpd2YwX0FhWWN5WHJtdTZoY3prU3JHbUJjSXdMLVBhNGVrYWJYbFYyZEIzUjVJSlAxQQ?oc=5",
-          "desc": "",
-          "title_en": "“Eat and go” … Brazilian supermarkets expand dining capabilities",
-          "title_ja": "「食べて行く」…ブラジルのスーパーマーケットがダイニング機能を拡大",
-          "title_zh": "“吃喝玩乐” ……巴西超市扩展用餐能力"
         }
       ]
     }
