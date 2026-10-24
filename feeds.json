@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-10-24T15:29:24Z",
+  "lastUpdated": "2026-10-24T20:20:38Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "With sales struggling and stores closing, Crumbl prepares a value offer",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVEwU2JHVjBGaTdNVUltbFl1VE9vZzRwTmF0R2tuYUNaNkl4Y2lyeW4yTms1T3Q0Z2NUOFY1bkd6VzItN0hwUWR2VlUxeEEzZEVXN1dKbDFFeVVSTWJVV0xFMS1JcWVmNzF6UjRRRDlsVzNRbnlYb1gtZGJoNXp0R1hzUjJhV2lqdnBaLTZLR2xjZUlWZDhZa3kxY282TGQwVWxxalFHZHZtdw?oc=5",
-          "desc": "",
-          "title_ko": "판매에 어려움을 겪고 매장이 문을 닫으면서 Crumbl은 가치 제안을 준비합니다.",
-          "title_ja": "販売が困難で店舗が閉鎖されている中、Crumblはバリューオファーを準備しています",
-          "title_zh": "随着销售陷入困境和商店关闭， Crumbl准备了超值报价"
-        },
         {
           "title": "A cookie empire is starting to crumble",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWlPT0JWM1htbHFJUDBQZldveGFCTy1jMWotdzlwZVdzWHlKU2JZbWpEZkMxM3FCeWlWU0hDMno3MmNEZGQ1NEozZVdrRndVdkw3bXNvbzFtR1dPYU1PM0g1amhfSVJaR0pwaUZfcHNJQUpLbzZScnQ4TS1Ib0RWQ29YQQ?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "쿠키 제국이 무너지기 시작했습니다",
           "title_ja": "クッキー帝国が崩壊し始めています",
           "title_zh": "饼干帝国开始崩溃"
+        },
+        {
+          "title": "With sales struggling and stores closing, Crumbl prepares a value offer",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVEwU2JHVjBGaTdNVUltbFl1VE9vZzRwTmF0R2tuYUNaNkl4Y2lyeW4yTms1T3Q0Z2NUOFY1bkd6VzItN0hwUWR2VlUxeEEzZEVXN1dKbDFFeVVSTWJVV0xFMS1JcWVmNzF6UjRRRDlsVzNRbnlYb1gtZGJoNXp0R1hzUjJhV2lqdnBaLTZLR2xjZUlWZDhZa3kxY282TGQwVWxxalFHZHZtdw?oc=5",
+          "desc": "",
+          "title_ko": "판매에 어려움을 겪고 매장이 문을 닫으면서 Crumbl은 가치 제안을 준비합니다.",
+          "title_ja": "販売が困難で店舗が閉鎖されている中、Crumblはバリューオファーを準備しています",
+          "title_zh": "随着销售陷入困境和商店关闭， Crumbl准备了超值报价"
         },
         {
           "title": "Grubhub founder Matt Maloney bets on a new delivery business",
@@ -167,7 +167,7 @@
         },
         {
           "title": "음식시민 外 [북스&]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16S0UxS1hVUFZaUFpmSXpwOEpfdnV6R2s2LXZaSWFNTkRYYk1QOEl4enlONFVDeUI3MVVrZ2UxcWJUWTdQTXdrZF85MEFrWFVyU3c?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16S0UxS1hVUFZaUFpmSXpwOEpfdnV6R2s2LXZaSWFNTkRYYk1QOEl4enlONFVDeUI3MVVrZ2UxcWJUWTdQTXdrZF85MEFrWFVyU3fSAVNBVV95cUxQY3ZOR3poNkF3S1hsUmVhOVF0V1hMYzJJcVNkajk0a3lITXhvT1ZIb3NuODhqeEhlNWpldFVlU1VWX3pGYy1HOVFMTUxld3JHTmxVTQ?oc=5",
           "desc": "",
           "title_en": "Food Citizen and others [Books &]",
           "title_ja": "Food Citizenとその他[Books &]",
@@ -188,12 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "[건강포커스] \"초가공식품 많이 먹는 어린이, 음식 사진에 뇌 반응 더 강해\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KZFViRHh4dVBpNm5OOVQxUUJ5UFAxMXVoSWdfN3VJZWUyLUxHcjcxQ2tJOUttWGN0TXdBWUxGSDk1REd3OWM0ajV1Q0JGNEMtLWc?oc=5",
+          "title": "광주서 김치 먹고 나주서 곰탕 후루룩…남도 가을 맛기행 떠나볼까",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hdXZtYTN2YlRwOTdxMUwyT0ltQmlIT3REX3ZSUjM2SDlJYW1zOWFsZXF0NWwtb1FuQmhiMXRiTk9fSTluZ1E?oc=5",
           "desc": "",
-          "title_en": "[Health Focus] \"Children who eat a lot of ultra-processed foods have a stronger brain response to food photos\"",
-          "title_ja": "【ヘルスフォーカス】「超加工食品をたくさん食べる子どもは、食べ物の写真に対して脳の反応が強い」",
-          "title_zh": "【健康聚焦】“吃大量超加工食品的孩子对食物照片大脑反应更强”"
+          "title_en": "Let's eat kimchi in Gwangju and go out for a gomtang rook… Let's go for a fall taste of Namdo",
+          "title_ja": "光州でキムチを食べてゴムタンルークに出かけよう…南道の秋を味わいに行こう",
+          "title_zh": "让我们在光州吃泡菜，出去玩gomtang rook……让我们去品尝南岛的秋季美食"
         },
         {
           "title": "K푸드 전성시대…“올해 처음 생긴 ‘한식의 날’ 아시나요”",
@@ -204,12 +204,12 @@
           "title_zh": "在K-Food的鼎盛时期...... “您知道今年的第一个韩国美食日吗？”"
         },
         {
-          "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wajVJbHprYUU4SmxzMDNzQUhNcHhsRXNINHY5Mmppc3pXRnJHdm0zM094YmNwNkF6VUJxLU9tbnlYUmxoRlJOZE1LOVFTUEUyX3c?oc=5",
+          "title": "[건강포커스] \"초가공식품 많이 먹는 어린이, 음식 사진에 뇌 반응 더 강해\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KZFViRHh4dVBpNm5OOVQxUUJ5UFAxMXVoSWdfN3VJZWUyLUxHcjcxQ2tJOUttWGN0TXdBWUxGSDk1REd3OWM0ajV1Q0JGNEMtLWc?oc=5",
           "desc": "",
-          "title_en": "'K Food Fever Duck' … Food exports to Daegu such as tteokbokki skyrocketed",
-          "title_ja": "「Kフードフィーバーダック」… tteokbokkiなどの大邱への食品輸出が急増",
-          "title_zh": "“K Food Fever Duck” ……对大邱的食品出口如tteokbokki飙升"
+          "title_en": "[Health Focus] \"Children who eat a lot of ultra-processed foods have a stronger brain response to food photos\"",
+          "title_ja": "【ヘルスフォーカス】「超加工食品をたくさん食べる子どもは、食べ物の写真に対して脳の反応が強い」",
+          "title_zh": "【健康聚焦】“吃大量超加工食品的孩子对食物照片大脑反应更强”"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "솔향 나는 제철 새송이버섯, 새송이와 달라요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XRUNfV1NjdE5PRW1tRXl5cC1QZERHbXNrNXJDa1ZLZ0xVak4xX2JVTmFqS3lyQ1g4VzVQNmxyM1RyRHp6R3NQaXZ4Yzk1STAyVWFDeld4TQ?oc=5",
-          "desc": "",
-          "title_en": "It's different from seasonal bird mushrooms and bird mushrooms that smell like brush.",
-          "title_ja": "季節の鳥のキノコや、ブラシのような臭いがする鳥のキノコとは違います。",
-          "title_zh": "它不同于季节性鸟类蘑菇和闻起来像灌木丛的鸟类蘑菇。"
-        },
         {
           "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
           "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
+        },
+        {
+          "title": "“식사하고 가세요”…브라질 슈퍼마켓, 식사 기능 확대",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92R0t4MWpTVlJ6amJYdzNpOEdPUXNDWVVtMDJhZXZpd2YwX0FhWWN5WHJtdTZoY3prU3JHbUJjSXdMLVBhNGVrYWJYbFYyZEIzUjVJSlAxQQ?oc=5",
+          "desc": "",
+          "title_en": "“Eat and go” … Brazilian supermarkets expand dining capabilities",
+          "title_ja": "「食べて行く」…ブラジルのスーパーマーケットがダイニング機能を拡大",
+          "title_zh": "“吃喝玩乐” ……巴西超市扩展用餐能力"
         }
       ]
     }
