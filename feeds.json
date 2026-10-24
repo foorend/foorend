@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T03:34:47Z",
+  "lastUpdated": "2026-10-24T10:24:36Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "随着销售陷入困境和商店关闭， Crumbl准备了超值报价"
         },
         {
+          "title": "A cookie empire is starting to crumble",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWlPT0JWM1htbHFJUDBQZldveGFCTy1jMWotdzlwZVdzWHlKU2JZbWpEZkMxM3FCeWlWU0hDMno3MmNEZGQ1NEozZVdrRndVdkw3bXNvbzFtR1dPYU1PM0g1amhfSVJaR0pwaUZfcHNJQUpLbzZScnQ4TS1Ib0RWQ29YQQ?oc=5",
+          "desc": "",
+          "title_ko": "쿠키 제국이 무너지기 시작했습니다",
+          "title_ja": "クッキー帝国が崩壊し始めています",
+          "title_zh": "饼干帝国开始崩溃"
+        },
+        {
           "title": "Grubhub founder Matt Maloney bets on a new delivery business",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHk1dmFYZTVNbTE4b0Q3NXF0OEhHZmVuLW9FLXBwQWU5M2h2MHI0ekRZcXg2dmUwMUVueEdYalRsU25WNzBLUy1CTVFtWkxfRXdibDBKcVY2eFYwT2d1Q2ZjY21oSGUtbURBZ1lTUThEbDMyenRQbk5zeXd1RGQ4TmxjUjlZNlZPOXNQRF9UckxENGVXdUJ5WUs2YVFBWUpmYUhTYWZyUGJreWM?oc=5",
           "desc": "",
           "title_ko": "Grubhub 설립자 Matt Maloney는 새로운 배달 사업에 베팅합니다.",
           "title_ja": "Grubhubの創業者Matt Maloneyが新しい配達ビジネスに賭ける",
           "title_zh": "Grubhub创始人Matt Maloney押注新的派送业务"
-        },
-        {
-          "title": "Olo readies its answer to third-party delivery apps",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeExpQi1XV0NneW42RHNfVGxkR2JVQ0VfTDRiZ3p6U0dpZzNab3BqLU1mbnU5ZzdLYkVCYVk4MVJEVERBYVdRd0t5Z3I0VWN4a2p1ZkI4eEZ2Nkl4MTloS01sc0xyaHdYZ2twV3NJTVNzTXpYQktSZlVYSGx5cXpqMmRRdWU1TzBrU3ctSl9fSWNRbVp1a3l3bzNfaWU?oc=5",
-          "desc": "",
-          "title_ko": "Olo는 타사 배달 앱에 대한 답변을 준비합니다.",
-          "title_ja": "Oloはサードパーティの配達アプリに対応する準備ができています",
-          "title_zh": "Olo已准备好回答第三方派送应用的问题"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "美食市民和其他人[书籍和]"
         },
         {
-          "title": "한국인들 즐겨 먹는 건데…“절대 먹지 마라” 의사들이 경고한 음식들 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mWXZLVkIxbE5pZ1dGRHg4S2YtNExZQ3dQYzJCaVZKMFlYaE9SOG5FSmNiaENzdzVZUjAtaC1mUUFKRkQwU082TkxTVmJPaEJSTmfSAVNBVV95cUxOZ2FjeHRLWEVRT2dlRC1wVG54aHdpVFRHVG9TZkNNMUk4WGk3c2cySFpQSjZFUldHLVBSZGc2bEpBTmVrclUyTGhkMzJ4T28xc3RUcw?oc=5",
+          "title": "신석순 한울푸드라인 대표 \"동남아시아 맛과 향 '오리스'서 즐기세요\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04RGxONjFQekl6eDZyMHQtYjZIdDZjaDEwS3dnaC1zWVZxQWZRUnBCaWtnZXpkSDFycXdjbEd1MWVpVmFRdlJBdDJHUm1lejRJVEHSAVNBVV95cUxPNDBWMTFfM3puU09Oc3pyc2pyQmRqNFN2SUJhREh0SVh1bkZMZTFUQncyVVE2VGc4a3h5OW1JYlk2eHBzR0dtckZIZHdEbUM5RWJPQQ?oc=5",
           "desc": "",
-          "title_en": "It's a favorite among Koreans... Foods warned by doctors to “never eat” [Healthy Time]",
-          "title_ja": "韓国人のお気に入りです...医師から「絶対に食べてはいけない」と警告された食べ物【ヘルシータイム】",
-          "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
+          "title_en": "Shin Seok-soon, CEO of Hanul Food Line, \"Enjoy Southeast Asian flavors and aromas' Oris'\"",
+          "title_ja": "ハヌルフードラインCEOシン・ソクソン「東南アジアの風味とアロマを楽しむ『オリス』」",
+          "title_zh": "Hanul Food Line首席执行官Shin Seok-soon “享受东南亚风味和香气'Oris'”"
         }
       ]
     },
@@ -188,12 +188,12 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "K푸드 전성시대…“올해 처음 생긴 ‘한식의 날’ 아시나요”",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxbGRUV0prNlpkRTFzeHRncjRFWERkdkZqa3BjUGFpMFVBWDVPYWl3QjMxUGtvcHEtRlY0WHVKUnFMUnFxYVE?oc=5",
+          "title": "[건강포커스] \"초가공식품 많이 먹는 어린이, 음식 사진에 뇌 반응 더 강해\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KZFViRHh4dVBpNm5OOVQxUUJ5UFAxMXVoSWdfN3VJZWUyLUxHcjcxQ2tJOUttWGN0TXdBWUxGSDk1REd3OWM0ajV1Q0JGNEMtLWc?oc=5",
           "desc": "",
-          "title_en": "During the heyday of K-Food… “Do you know the first Korean Food Day this year?”",
-          "title_ja": "K - Foodの全盛期…「今年最初の韓国料理の日を知っていますか？」",
-          "title_zh": "在K-Food的鼎盛时期...... “您知道今年的第一个韩国美食日吗？”"
+          "title_en": "[Health Focus] \"Children who eat a lot of ultra-processed foods have a stronger brain response to food photos\"",
+          "title_ja": "【ヘルスフォーカス】「超加工食品をたくさん食べる子どもは、食べ物の写真に対して脳の反応が強い」",
+          "title_zh": "【健康聚焦】“吃大量超加工食品的孩子对食物照片大脑反应更强”"
         },
         {
           "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
@@ -204,12 +204,12 @@
           "title_zh": "“K Food Fever Duck” ……对大邱的食品出口如tteokbokki飙升"
         },
         {
-          "title": "[건강포커스] \"초가공식품 많이 먹는 어린이, 음식 사진에 뇌 반응 더 강해\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KZFViRHh4dVBpNm5OOVQxUUJ5UFAxMXVoSWdfN3VJZWUyLUxHcjcxQ2tJOUttWGN0TXdBWUxGSDk1REd3OWM0ajV1Q0JGNEMtLWc?oc=5",
+          "title": "K푸드 전성시대…“올해 처음 생긴 ‘한식의 날’ 아시나요”",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxbGRUV0prNlpkRTFzeHRncjRFWERkdkZqa3BjUGFpMFVBWDVPYWl3QjMxUGtvcHEtRlY0WHVKUnFMUnFxYVE?oc=5",
           "desc": "",
-          "title_en": "[Health Focus] \"Children who eat a lot of ultra-processed foods have a stronger brain response to food photos\"",
-          "title_ja": "【ヘルスフォーカス】「超加工食品をたくさん食べる子どもは、食べ物の写真に対して脳の反応が強い」",
-          "title_zh": "【健康聚焦】“吃大量超加工食品的孩子对食物照片大脑反应更强”"
+          "title_en": "During the heyday of K-Food… “Do you know the first Korean Food Day this year?”",
+          "title_ja": "K - Foodの全盛期…「今年最初の韓国料理の日を知っていますか？」",
+          "title_zh": "在K-Food的鼎盛时期...... “您知道今年的第一个韩国美食日吗？”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "它不同于季节性鸟类蘑菇和闻起来像灌木丛的鸟类蘑菇。"
         },
         {
-          "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
-          "desc": "",
-          "title_en": "Kombucha, warm in winter... Tizen ‘Kombucha Orange Cinnamon’",
-          "title_ja": "冬暖かいコンブチャ…天前「コンブチャオレンジシナモン」",
-          "title_zh": "康普茶，冬季温暖…… Tizen「康普茶橙肉桂」"
-        },
-        {
           "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
           "desc": "",
           "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
           "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
+        },
+        {
+          "title": "새마을식당, 美 진출 3년 만에 월매출 70% 올라",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iT2t1X2hZRURHWnc0dW1SUDZSQXNBVXVSenhadWlIQk80T243RHEyMDZRZVQydDdCczFSWUFJV2xNcG0xY2Uxc2R2VnN5VHRkcUhSeWJtTQ?oc=5",
+          "desc": "",
+          "title_en": "Saemaul Restaurant Increases Monthly Sales by 70% in 3 Years",
+          "title_ja": "Saemaulレストランが3年間で月間売上高を70 ％増加",
+          "title_zh": "Saemaul餐厅在3年内每月销售额增长70%"
         }
       ]
     }
