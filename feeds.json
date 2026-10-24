@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T21:04:05Z",
+  "lastUpdated": "2026-10-24T03:34:47Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "随着销售陷入困境和商店关闭， Crumbl准备了超值报价"
         },
         {
+          "title": "Grubhub founder Matt Maloney bets on a new delivery business",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHk1dmFYZTVNbTE4b0Q3NXF0OEhHZmVuLW9FLXBwQWU5M2h2MHI0ekRZcXg2dmUwMUVueEdYalRsU25WNzBLUy1CTVFtWkxfRXdibDBKcVY2eFYwT2d1Q2ZjY21oSGUtbURBZ1lTUThEbDMyenRQbk5zeXd1RGQ4TmxjUjlZNlZPOXNQRF9UckxENGVXdUJ5WUs2YVFBWUpmYUhTYWZyUGJreWM?oc=5",
+          "desc": "",
+          "title_ko": "Grubhub 설립자 Matt Maloney는 새로운 배달 사업에 베팅합니다.",
+          "title_ja": "Grubhubの創業者Matt Maloneyが新しい配達ビジネスに賭ける",
+          "title_zh": "Grubhub创始人Matt Maloney押注新的派送业务"
+        },
+        {
           "title": "Olo readies its answer to third-party delivery apps",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeExpQi1XV0NneW42RHNfVGxkR2JVQ0VfTDRiZ3p6U0dpZzNab3BqLU1mbnU5ZzdLYkVCYVk4MVJEVERBYVdRd0t5Z3I0VWN4a2p1ZkI4eEZ2Nkl4MTloS01sc0xyaHdYZ2twV3NJTVNzTXpYQktSZlVYSGx5cXpqMmRRdWU1TzBrU3ctSl9fSWNRbVp1a3l3bzNfaWU?oc=5",
           "desc": "",
           "title_ko": "Olo는 타사 배달 앱에 대한 답변을 준비합니다.",
           "title_ja": "Oloはサードパーティの配達アプリに対応する準備ができています",
           "title_zh": "Olo已准备好回答第三方派送应用的问题"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "전화성 대표 애그리테크 푸드테크로 다시 설계하다출간 예정 농식품 기술을 지속 가능한 사업으로 연결하는 조건을 묻다",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tWmN3ZEQ1YXVKQy1GWS1GZlA1VXU2amN5TFhnVXVGTTVwNk1zSklVNmY0cktyVkZTTWlSSzJ5UFdmX0JRdFNFa293ZW0teFQyNnZvdjhlVDdQS05mTkw0Smp2bDE2am5jTEpn?oc=5",
+          "desc": "",
+          "title_en": "Phone Sung's CEO Redesigns as Agritech Food Tech Asked about the conditions for linking agri-food technology to sustainable businesses",
+          "title_ja": "Phone SungのCEOがAgritech Food Techとして再設計農業食品技術を持続可能なビジネスに結びつけるための条件について尋ねられました",
+          "title_zh": "Phone Sung的首席执行官重新设计为Agritech Food Tech被问及将农业食品技术与可持续业务联系起来的条件"
+        },
+        {
           "title": "[포토] 현대그린푸드 ‘힙스토어 팝업’﻿",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2TzBXSGFORFRJRGVhOGV2NFd2ZVBhcEo5c1NQeHNNWkRLV0tZeThoMGpVeWtxb3U5eTdNU1drUTI0NDFEZTd0S2p1QVNoeVp6Z2ozd2pQX2d6UQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Only getting a massage? The real charm of Bangkok alley that we didn't know about [Shin Ye-hee's solo bite trip]",
           "title_ja": "マッサージを受けるだけですか？私たちが知らなかったバンコク路地の本当の魅力[シン・イェヒの一人旅]",
           "title_zh": "只是按摩？曼谷小巷的真正魅力，我们不知道[Shin Ye-hee's solo bite trip]"
-        },
-        {
-          "title": "푸드트래블, 강레오 셰프 '총괄 컬리너리 파트너' 선임…F&B 사업 강화",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JS3Q3SUwtTno1MGl0WVY2UzVlZUNVWDBpUFl3TUJuOXlTOENOOUxxX2tmYnl1ckluNHhKNVd1MUVoc1o2aC1zSGdVR2Vtdmx1Z0JHUW9DYWpZQQ?oc=5",
-          "desc": "",
-          "title_en": "Food Travel Appoints Gangreo Chef 'General Culinary Partner' to Strengthen F&B Business",
-          "title_ja": "Food Travel、Gangreo Chefを「General Culinary Partner」に任命し、F&Bビジネスを強化",
-          "title_zh": "Food Travel任命Gangreo Chef为“综合烹饪合作伙伴” ，以加强餐饮业务"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“30대 되니 몸이 훅 가네요”…영양사가 절대 먹지말라는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKMUtrcGZhZnplZHp2d2Z5cGVaeTNmYVk5OWRBa081aDVLS2tweVlTMjY0bmJTc0Z1U01jVERwdkxPeGVoeUpoaFJZQ1NBb21fU3fSAVNBVV95cUxQWHYwZE9HQmNSRkNJT0o4WU5WT2ZJWFcwTVZDUXk0aFRuVnpOcnQxMVJnczJrZWZ4Q181VXJPSFlYTTcyWVE1NC1jNklQa3BzTG5paw?oc=5",
+          "desc": "",
+          "title_en": "“My body hurts now that I'm in my 30s” … ‘This food‘ that nutritionists say never eat [Healthy time]",
+          "title_ja": "「30代になってから体が痛い」…栄養士が絶対に食べないと言う「この食べ物」【ヘルシータイム】",
+          "title_zh": "“我现在30多岁了，我的身体很疼” ……营养学家说永远不要吃这种食物[健康时间]"
+        },
         {
           "title": "음식시민 外 [북스&]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16S0UxS1hVUFZaUFpmSXpwOEpfdnV6R2s2LXZaSWFNTkRYYk1QOEl4enlONFVDeUI3MVVrZ2UxcWJUWTdQTXdrZF85MEFrWFVyU3c?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "It's a favorite among Koreans... Foods warned by doctors to “never eat” [Healthy Time]",
           "title_ja": "韓国人のお気に入りです...医師から「絶対に食べてはいけない」と警告された食べ物【ヘルシータイム】",
           "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
-        },
-        {
-          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
-          "desc": "",
-          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
-          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
-          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "\"한우 맛보세요\"…부산시, 외국인 관광객 '미식투어' 식비 지원",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5saFhXX0ZJYUZVVlpheXY2Q2pEcUJidXByMW9MSkU3aWRhdTdTTjllS1l5eTYtMEt1V0x4UkpJNFZteDFJbTVmUjhTZEtaZzRnS3c?oc=5",
+          "title": "K푸드 전성시대…“올해 처음 생긴 ‘한식의 날’ 아시나요”",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxbGRUV0prNlpkRTFzeHRncjRFWERkdkZqa3BjUGFpMFVBWDVPYWl3QjMxUGtvcHEtRlY0WHVKUnFMUnFxYVE?oc=5",
           "desc": "",
-          "title_en": "\"Taste Korean beef\" … Busan City supports food expenses for foreign tourists' gourmet tours'",
-          "title_ja": "「韓国牛を味わう」…釜山市は外国人観光客の「グルメツアー」の食費を支援",
-          "title_zh": "「品尝韩国牛肉」……釜山市支持外国游客「美食之旅」的美食费用"
+          "title_en": "During the heyday of K-Food… “Do you know the first Korean Food Day this year?”",
+          "title_ja": "K - Foodの全盛期…「今年最初の韓国料理の日を知っていますか？」",
+          "title_zh": "在K-Food的鼎盛时期...... “您知道今年的第一个韩国美食日吗？”"
         },
         {
-          "title": "[고침] 경제(풀무원푸드앤컬처 신임 대표에 이동훈 본부장)",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBneDE3WDhQZjF5TE50NExCUHA4b1h2MGdhNk5ubDFXX0FxejROaWdBbzFBX29LNmxNUnVWUEdEcjJRY1RJSEVXTDRDLUxYeHlM?oc=5",
+          "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wajVJbHprYUU4SmxzMDNzQUhNcHhsRXNINHY5Mmppc3pXRnJHdm0zM094YmNwNkF6VUJxLU9tbnlYUmxoRlJOZE1LOVFTUEUyX3c?oc=5",
           "desc": "",
-          "title_en": "[Fix] Economy (Director Lee Dong-hoon to the new CEO of Pulmuone Food and Culture)",
-          "title_ja": "[修正]経済（イ・ドンフン取締役からプルムオーネ・フード・アンド・カルチャーの新CEOへ）",
-          "title_zh": "【修复】经济（李东勋董事致Pulmuone Food and Culture新任首席执行官）"
+          "title_en": "'K Food Fever Duck' … Food exports to Daegu such as tteokbokki skyrocketed",
+          "title_ja": "「Kフードフィーバーダック」… tteokbokkiなどの大邱への食品輸出が急増",
+          "title_zh": "“K Food Fever Duck” ……对大邱的食品出口如tteokbokki飙升"
         },
         {
-          "title": "\"K푸드 열풍 보기드문 기회…M&A로 유통망 확 넓혀야\"",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyYWFmWHd6czRlZ3ZCSTNobFNtbm80cGhFbDJtOUZYMV81SEtBY0dPLXk3VjM3TXJqX2E1NEZHanpMX2ZaNFE?oc=5",
+          "title": "[건강포커스] \"초가공식품 많이 먹는 어린이, 음식 사진에 뇌 반응 더 강해\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KZFViRHh4dVBpNm5OOVQxUUJ5UFAxMXVoSWdfN3VJZWUyLUxHcjcxQ2tJOUttWGN0TXdBWUxGSDk1REd3OWM0ajV1Q0JGNEMtLWc?oc=5",
           "desc": "",
-          "title_en": "\"A rare opportunity to see the K-Food craze... We should expand our distribution network through M&A\"",
-          "title_ja": "「K - Foodの流行を見る貴重な機会... M&Aを通じて流通ネットワークを拡大する必要があります」",
-          "title_zh": "“看到K-Food热潮的难得机会……我们应该通过并购扩大我们的分销网络”"
+          "title_en": "[Health Focus] \"Children who eat a lot of ultra-processed foods have a stronger brain response to food photos\"",
+          "title_ja": "【ヘルスフォーカス】「超加工食品をたくさん食べる子どもは、食べ物の写真に対して脳の反応が強い」",
+          "title_zh": "【健康聚焦】“吃大量超加工食品的孩子对食物照片大脑反应更强”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "它不同于季节性鸟类蘑菇和闻起来像灌木丛的鸟类蘑菇。"
         },
         {
-          "title": "새마을식당, 美 진출 3년 만에 월매출 70% 올라",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iT2t1X2hZRURHWnc0dW1SUDZSQXNBVXVSenhadWlIQk80T243RHEyMDZRZVQydDdCczFSWUFJV2xNcG0xY2Uxc2R2VnN5VHRkcUhSeWJtTQ?oc=5",
+          "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
           "desc": "",
-          "title_en": "Saemaul Restaurant Increases Monthly Sales by 70% in 3 Years",
-          "title_ja": "Saemaulレストランが3年間で月間売上高を70 ％増加",
-          "title_zh": "Saemaul餐厅在3年内每月销售额增长70%"
+          "title_en": "Kombucha, warm in winter... Tizen ‘Kombucha Orange Cinnamon’",
+          "title_ja": "冬暖かいコンブチャ…天前「コンブチャオレンジシナモン」",
+          "title_zh": "康普茶，冬季温暖…… Tizen「康普茶橙肉桂」"
         },
         {
-          "title": "무알코올에 퓨전 음식…‘옥토버페스트’로 보는 유럽 트렌드",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WkYyM2VnZHlLMGota0wwTTUxRlNjbVh4OFFBZmlqaDJqd3FQelR3OWpxTXZJX0lQdDN3cUVQVFpBU2N1SXRYaFlGUzk2bmdqb0U1dlN0WQ?oc=5",
+          "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
           "desc": "",
-          "title_en": "Non-Alcoholic Fusion Food… European Trends at Oktoberfest",
-          "title_ja": "ノンアルコールフュージョンフード…オクトーバーフェストでヨーロッパのトレンドを学ぼう",
-          "title_zh": "非酒精融合美食…慕尼黑啤酒节的欧洲潮流"
+          "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
+          "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
+          "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
         }
       ]
     }
