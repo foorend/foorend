@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T10:24:36Z",
+  "lastUpdated": "2026-10-24T15:29:24Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 25일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFZ2hrS0FacUZOZmtSZk9NVmxTM1RQWkRHQnVLSW1lWEw1YVRDRXVtNVdGYW00LUljSHViYnRZaDhlTEtvZjFWQnF1TjN3WHFLa3lMVjVSdTlRUQ?oc=5",
+          "desc": "",
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 25",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 10月25日にベルトでおすすめのランチメニュー",
+          "title_zh": "【今天的星座】今天吃什么？ … 10月25日腰带推荐午餐菜单"
+        },
+        {
           "title": "전화성 대표 애그리테크 푸드테크로 다시 설계하다출간 예정 농식품 기술을 지속 가능한 사업으로 연결하는 조건을 묻다",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tWmN3ZEQ1YXVKQy1GWS1GZlA1VXU2amN5TFhnVXVGTTVwNk1zSklVNmY0cktyVkZTTWlSSzJ5UFdmX0JRdFNFa293ZW0teFQyNnZvdjhlVDdQS05mTkw0Smp2bDE2am5jTEpn?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "[Photo] Hyundai Green Food ‘Hip Store Pop-Up’",
           "title_ja": "【写真】現代グリーンフード「ヒップストアポップアップ」",
           "title_zh": "【照片】现代绿色食品“嘻哈店快闪店”"
-        },
-        {
-          "title": "마사지만 받는다고? 우리가 몰랐던 방콕 골목의 진짜 매력 [신예희의 나홀로 한입여행]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95cUw5bG9Dek1STjBzRkVuYmQwb1lCRjl2b3IwSHdOZFE0MzJqSFZERjA1SjRLQ0hVVkVUMDB3Si1PMFNZR09DUE5GUmVRVVhadmE2QnRyVWNqUQ?oc=5",
-          "desc": "",
-          "title_en": "Only getting a massage? The real charm of Bangkok alley that we didn't know about [Shin Ye-hee's solo bite trip]",
-          "title_ja": "マッサージを受けるだけですか？私たちが知らなかったバンコク路地の本当の魅力[シン・イェヒの一人旅]",
-          "title_zh": "只是按摩？曼谷小巷的真正魅力，我们不知道[Shin Ye-hee's solo bite trip]"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "美食市民和其他人[书籍和]"
         },
         {
-          "title": "신석순 한울푸드라인 대표 \"동남아시아 맛과 향 '오리스'서 즐기세요\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04RGxONjFQekl6eDZyMHQtYjZIdDZjaDEwS3dnaC1zWVZxQWZRUnBCaWtnZXpkSDFycXdjbEd1MWVpVmFRdlJBdDJHUm1lejRJVEHSAVNBVV95cUxPNDBWMTFfM3puU09Oc3pyc2pyQmRqNFN2SUJhREh0SVh1bkZMZTFUQncyVVE2VGc4a3h5OW1JYlk2eHBzR0dtckZIZHdEbUM5RWJPQQ?oc=5",
+          "title": "한국인들 즐겨 먹는 건데…“절대 먹지 마라” 의사들이 경고한 음식들 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mWXZLVkIxbE5pZ1dGRHg4S2YtNExZQ3dQYzJCaVZKMFlYaE9SOG5FSmNiaENzdzVZUjAtaC1mUUFKRkQwU082TkxTVmJPaEJSTmfSAVNBVV95cUxOZ2FjeHRLWEVRT2dlRC1wVG54aHdpVFRHVG9TZkNNMUk4WGk3c2cySFpQSjZFUldHLVBSZGc2bEpBTmVrclUyTGhkMzJ4T28xc3RUcw?oc=5",
           "desc": "",
-          "title_en": "Shin Seok-soon, CEO of Hanul Food Line, \"Enjoy Southeast Asian flavors and aromas' Oris'\"",
-          "title_ja": "ハヌルフードラインCEOシン・ソクソン「東南アジアの風味とアロマを楽しむ『オリス』」",
-          "title_zh": "Hanul Food Line首席执行官Shin Seok-soon “享受东南亚风味和香气'Oris'”"
+          "title_en": "It's a favorite among Koreans... Foods warned by doctors to “never eat” [Healthy Time]",
+          "title_ja": "韓国人のお気に入りです...医師から「絶対に食べてはいけない」と警告された食べ物【ヘルシータイム】",
+          "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "【健康聚焦】“吃大量超加工食品的孩子对食物照片大脑反应更强”"
         },
         {
-          "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wajVJbHprYUU4SmxzMDNzQUhNcHhsRXNINHY5Mmppc3pXRnJHdm0zM094YmNwNkF6VUJxLU9tbnlYUmxoRlJOZE1LOVFTUEUyX3c?oc=5",
-          "desc": "",
-          "title_en": "'K Food Fever Duck' … Food exports to Daegu such as tteokbokki skyrocketed",
-          "title_ja": "「Kフードフィーバーダック」… tteokbokkiなどの大邱への食品輸出が急増",
-          "title_zh": "“K Food Fever Duck” ……对大邱的食品出口如tteokbokki飙升"
-        },
-        {
           "title": "K푸드 전성시대…“올해 처음 생긴 ‘한식의 날’ 아시나요”",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxbGRUV0prNlpkRTFzeHRncjRFWERkdkZqa3BjUGFpMFVBWDVPYWl3QjMxUGtvcHEtRlY0WHVKUnFMUnFxYVE?oc=5",
           "desc": "",
           "title_en": "During the heyday of K-Food… “Do you know the first Korean Food Day this year?”",
           "title_ja": "K - Foodの全盛期…「今年最初の韓国料理の日を知っていますか？」",
           "title_zh": "在K-Food的鼎盛时期...... “您知道今年的第一个韩国美食日吗？”"
+        },
+        {
+          "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wajVJbHprYUU4SmxzMDNzQUhNcHhsRXNINHY5Mmppc3pXRnJHdm0zM094YmNwNkF6VUJxLU9tbnlYUmxoRlJOZE1LOVFTUEUyX3c?oc=5",
+          "desc": "",
+          "title_en": "'K Food Fever Duck' … Food exports to Daegu such as tteokbokki skyrocketed",
+          "title_ja": "「Kフードフィーバーダック」… tteokbokkiなどの大邱への食品輸出が急増",
+          "title_zh": "“K Food Fever Duck” ……对大邱的食品出口如tteokbokki飙升"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "它不同于季节性鸟类蘑菇和闻起来像灌木丛的鸟类蘑菇。"
         },
         {
+          "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
+          "desc": "",
+          "title_en": "Kombucha, warm in winter... Tizen ‘Kombucha Orange Cinnamon’",
+          "title_ja": "冬暖かいコンブチャ…天前「コンブチャオレンジシナモン」",
+          "title_zh": "康普茶，冬季温暖…… Tizen「康普茶橙肉桂」"
+        },
+        {
           "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
           "desc": "",
           "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
           "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
-        },
-        {
-          "title": "새마을식당, 美 진출 3년 만에 월매출 70% 올라",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iT2t1X2hZRURHWnc0dW1SUDZSQXNBVXVSenhadWlIQk80T243RHEyMDZRZVQydDdCczFSWUFJV2xNcG0xY2Uxc2R2VnN5VHRkcUhSeWJtTQ?oc=5",
-          "desc": "",
-          "title_en": "Saemaul Restaurant Increases Monthly Sales by 70% in 3 Years",
-          "title_ja": "Saemaulレストランが3年間で月間売上高を70 ％増加",
-          "title_zh": "Saemaul餐厅在3年内每月销售额增长70%"
         }
       ]
     }
