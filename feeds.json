@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T10:52:17Z",
+  "lastUpdated": "2026-10-25T15:39:38Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -136,20 +136,20 @@
           "title_zh": "我把链子放在椅子上……星巴克，免费山药上的“超级沉淀” [中国手表]"
         },
         {
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 26일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95TUZJREFDX3BYLTczR3BDRDV1NWRBU0VyM3lKT3M0bDJyMzJjS0ZRX09nRTcxblhUOWY1TjRMa2RjWGRoc2FzaTZyaFdVTXJSZDFPYTNzRUFFZw?oc=5",
+          "desc": "",
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 26",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 10月26日にベルトでおすすめのランチメニュー",
+          "title_zh": "【今天的星座】今天吃什么？ … 10月26日腰带推荐午餐菜单"
+        },
+        {
           "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 25일 띠별 추천 점심메뉴",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFZ2hrS0FacUZOZmtSZk9NVmxTM1RQWkRHQnVLSW1lWEw1YVRDRXVtNVdGYW00LUljSHViYnRZaDhlTEtvZjFWQnF1TjN3WHFLa3lMVjVSdTlRUQ?oc=5",
           "desc": "",
           "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 25",
           "title_ja": "【本日の星占い】今日は何を食べようか… 10月25日にベルトでおすすめのランチメニュー",
           "title_zh": "【今天的星座】今天吃什么？ … 10月25日腰带推荐午餐菜单"
-        },
-        {
-          "title": "[포토] 현대그린푸드 ‘힙스토어 팝업’﻿",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2TzBXSGFORFRJRGVhOGV2NFd2ZVBhcEo5c1NQeHNNWkRLV0tZeThoMGpVeWtxb3U5eTdNU1drUTI0NDFEZTd0S2p1QVNoeVp6Z2ozd2pQX2d6UQ?oc=5",
-          "desc": "",
-          "title_en": "[Photo] Hyundai Green Food ‘Hip Store Pop-Up’",
-          "title_ja": "【写真】現代グリーンフード「ヒップストアポップアップ」",
-          "title_zh": "【照片】现代绿色食品“嘻哈店快闪店”"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "「与美味融为一体」…纳州南岛美食文化大宴会闭幕"
         },
         {
-          "title": "광주서 김치 먹고 나주서 곰탕 후루룩…남도 가을 맛기행 떠나볼까",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hdXZtYTN2YlRwOTdxMUwyT0ltQmlIT3REX3ZSUjM2SDlJYW1zOWFsZXF0NWwtb1FuQmhiMXRiTk9fSTluZ1E?oc=5",
+          "title": "\"햇반, 수출 늘려 K푸드 간판 키울것\"",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFSGN5Rno5d2JfcHZnd1lyMFF2ZmZNT3dUX1BFMFRXMGJsV3VPcmEwRkVfS2l0OTh4WDVSV2Flemp6aU15Y3c?oc=5",
           "desc": "",
-          "title_en": "Let's eat kimchi in Gwangju and go out for a gomtang rook… Let's go for a fall taste of Namdo",
-          "title_ja": "光州でキムチを食べてゴムタンルークに出かけよう…南道の秋を味わいに行こう",
-          "title_zh": "让我们在光州吃泡菜，出去玩gomtang rook……让我们去品尝南岛的秋季美食"
+          "title_en": "\"Sunbahn will increase exports and grow K-Food signage\"",
+          "title_ja": "「サンバーンは輸出を増やし、K - Foodの看板を成長させます」",
+          "title_zh": "“Sunbahn将增加出口并发展K-Food标牌”"
         },
         {
-          "title": "K푸드 전성시대…“올해 처음 생긴 ‘한식의 날’ 아시나요”",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxbGRUV0prNlpkRTFzeHRncjRFWERkdkZqa3BjUGFpMFVBWDVPYWl3QjMxUGtvcHEtRlY0WHVKUnFMUnFxYVE?oc=5",
+          "title": "풀무원아미오, '프리미엄 브랜드지수' 펫푸드 부문 첫 1위",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4cUR4aG9EY0U0MkFmOUxUQzVuRHF2TlliSUNWa1JHR2tCWkN6SmxoYzBBOUhZUVF5SU8tQ2hkZ0U1SEJlN0JfZVVmM3NTdlFlRWc?oc=5",
           "desc": "",
-          "title_en": "During the heyday of K-Food… “Do you know the first Korean Food Day this year?”",
-          "title_ja": "K - Foodの全盛期…「今年最初の韓国料理の日を知っていますか？」",
-          "title_zh": "在K-Food的鼎盛时期...... “您知道今年的第一个韩国美食日吗？”"
+          "title_en": "Pulmuwon Amio, First Place in the 'Premium Brand Index' Pet Food Category",
+          "title_ja": "「プレミアムブランドインデックス」ペットフード部門1位プルムウォンアミオ",
+          "title_zh": "Pulmuwon Amio ， “优质品牌指数”宠物食品类别第一名"
         }
       ]
     },
