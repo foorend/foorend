@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T22:55:57Z",
+  "lastUpdated": "2026-10-25T03:31:41Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "随着销售陷入困境和商店关闭， Crumbl准备了超值报价"
         },
         {
-          "title": "Grubhub founder Matt Maloney bets on a new delivery business",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHk1dmFYZTVNbTE4b0Q3NXF0OEhHZmVuLW9FLXBwQWU5M2h2MHI0ekRZcXg2dmUwMUVueEdYalRsU25WNzBLUy1CTVFtWkxfRXdibDBKcVY2eFYwT2d1Q2ZjY21oSGUtbURBZ1lTUThEbDMyenRQbk5zeXd1RGQ4TmxjUjlZNlZPOXNQRF9UckxENGVXdUJ5WUs2YVFBWUpmYUhTYWZyUGJreWM?oc=5",
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
-          "title_ko": "Grubhub 설립자 Matt Maloney는 새로운 배달 사업에 베팅합니다.",
-          "title_ja": "Grubhubの創業者Matt Maloneyが新しい配達ビジネスに賭ける",
-          "title_zh": "Grubhub创始人Matt Maloney押注新的派送业务"
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "의자에 쇠사슬 묶더니…스타벅스, 공짜 얌체족에 '초강수' [차이나 워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tTWYyQ3NaTmwxTV9RY1lqMlhSVlQ0SjI4M2RJWFFVN3dBVm41Y09mb0U3WlBlQVMyd0JDb2FTQ25held4NG5oWjh1TTQxZ0x6MVdkTUgwVWZPQQ?oc=5",
+          "desc": "",
+          "title_en": "I put chains on my chair... Starbucks, 'Super Precipitation' on the free yam [China Watch]",
+          "title_ja": "私は椅子にチェーンを置きます...スターバックス、無料のヤマイモに「スーパー降水量」[チャイナウォッチ]",
+          "title_zh": "我把链子放在椅子上……星巴克，免费山药上的“超级沉淀” [中国手表]"
+        },
+        {
           "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 25일 띠별 추천 점심메뉴",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFZ2hrS0FacUZOZmtSZk9NVmxTM1RQWkRHQnVLSW1lWEw1YVRDRXVtNVdGYW00LUljSHViYnRZaDhlTEtvZjFWQnF1TjN3WHFLa3lMVjVSdTlRUQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "Phone Sung's CEO Redesigns as Agritech Food Tech Asked about the conditions for linking agri-food technology to sustainable businesses",
           "title_ja": "Phone SungのCEOがAgritech Food Techとして再設計農業食品技術を持続可能なビジネスに結びつけるための条件について尋ねられました",
           "title_zh": "Phone Sung的首席执行官重新设计为Agritech Food Tech被问及将农业食品技术与可持续业务联系起来的条件"
-        },
-        {
-          "title": "[포토] 현대그린푸드 ‘힙스토어 팝업’﻿",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2TzBXSGFORFRJRGVhOGV2NFd2ZVBhcEo5c1NQeHNNWkRLV0tZeThoMGpVeWtxb3U5eTdNU1drUTI0NDFEZTd0S2p1QVNoeVp6Z2ozd2pQX2d6UQ?oc=5",
-          "desc": "",
-          "title_en": "[Photo] Hyundai Green Food ‘Hip Store Pop-Up’",
-          "title_ja": "【写真】現代グリーンフード「ヒップストアポップアップ」",
-          "title_zh": "【照片】现代绿色食品“嘻哈店快闪店”"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "라면에 ‘이 재료’ 한 줌 넣었더니…한국인 나트륨 섭취 1위 음식의 반전 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xS3RNV205eEM5aUU4N1piUi1KOVp4RUpRWTYxQkMyNENLMjZaLXh1WTByeGE3eU8tcDhFX19oemVCQllRUVduT3ZwekRzZ05EUUHSAVNBVV95cUxQSU4xU3J2SUdDRnRsbG1UaWt6M012TTR1a0tndmppV1NWeVlvMGVXcnR5ZDdiZVNQeW5IdGlSd0RPNEpnemdxczVITkQwUzZKa3RLRQ?oc=5",
+          "desc": "",
+          "title_en": "I put a handful of ‘this ingredient’ in the ramen... Reversal of the No. 1 food for Korean sodium intake [Healthy time]",
+          "title_ja": "ラーメンに「この成分」を一握り入れました・・・韓国ナトリウム摂取量No.1の逆転【健康タイム】",
+          "title_zh": "我在拉面里放了一些“这种成分” ……韩国钠摄入量的第一食物的逆转【健康时间】"
+        },
         {
           "title": "“30대 되니 몸이 훅 가네요”…영양사가 절대 먹지말라는 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKMUtrcGZhZnplZHp2d2Z5cGVaeTNmYVk5OWRBa081aDVLS2tweVlTMjY0bmJTc0Z1U01jVERwdkxPeGVoeUpoaFJZQ1NBb21fU3fSAVNBVV95cUxQWHYwZE9HQmNSRkNJT0o4WU5WT2ZJWFcwTVZDUXk0aFRuVnpOcnQxMVJnczJrZWZ4Q181VXJPSFlYTTcyWVE1NC1jNklQa3BzTG5paw?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "Food Citizen and others [Books &]",
           "title_ja": "Food Citizenとその他[Books &]",
           "title_zh": "美食市民和其他人[书籍和]"
-        },
-        {
-          "title": "한국인들 즐겨 먹는 건데…“절대 먹지 마라” 의사들이 경고한 음식들 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mWXZLVkIxbE5pZ1dGRHg4S2YtNExZQ3dQYzJCaVZKMFlYaE9SOG5FSmNiaENzdzVZUjAtaC1mUUFKRkQwU082TkxTVmJPaEJSTmfSAVNBVV95cUxOZ2FjeHRLWEVRT2dlRC1wVG54aHdpVFRHVG9TZkNNMUk4WGk3c2cySFpQSjZFUldHLVBSZGc2bEpBTmVrclUyTGhkMzJ4T28xc3RUcw?oc=5",
-          "desc": "",
-          "title_en": "It's a favorite among Koreans... Foods warned by doctors to “never eat” [Healthy Time]",
-          "title_ja": "韓国人のお気に入りです...医師から「絶対に食べてはいけない」と警告された食べ物【ヘルシータイム】",
-          "title_zh": "这是韩国人的最爱......医生警告“永远不要吃”的食物[健康时光]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "풀무원아미오, '프리미엄 브랜드지수' 펫푸드 부문 첫 1위",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4cUR4aG9EY0U0MkFmOUxUQzVuRHF2TlliSUNWa1JHR2tCWkN6SmxoYzBBOUhZUVF5SU8tQ2hkZ0U1SEJlN0JfZVVmM3NTdlFlRWc?oc=5",
+          "desc": "",
+          "title_en": "Pulmuwon Amio, First Place in the 'Premium Brand Index' Pet Food Category",
+          "title_ja": "「プレミアムブランドインデックス」ペットフード部門1位プルムウォンアミオ",
+          "title_zh": "Pulmuwon Amio ， “优质品牌指数”宠物食品类别第一名"
+        },
         {
           "title": "광주서 김치 먹고 나주서 곰탕 후루룩…남도 가을 맛기행 떠나볼까",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hdXZtYTN2YlRwOTdxMUwyT0ltQmlIT3REX3ZSUjM2SDlJYW1zOWFsZXF0NWwtb1FuQmhiMXRiTk9fSTluZ1E?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "During the heyday of K-Food… “Do you know the first Korean Food Day this year?”",
           "title_ja": "K - Foodの全盛期…「今年最初の韓国料理の日を知っていますか？」",
           "title_zh": "在K-Food的鼎盛时期...... “您知道今年的第一个韩国美食日吗？”"
-        },
-        {
-          "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wajVJbHprYUU4SmxzMDNzQUhNcHhsRXNINHY5Mmppc3pXRnJHdm0zM094YmNwNkF6VUJxLU9tbnlYUmxoRlJOZE1LOVFTUEUyX3c?oc=5",
-          "desc": "",
-          "title_en": "'K Food Fever Duck' … Food exports to Daegu such as tteokbokki skyrocketed",
-          "title_ja": "「Kフードフィーバーダック」… tteokbokkiなどの大邱への食品輸出が急増",
-          "title_zh": "“K Food Fever Duck” ……对大邱的食品出口如tteokbokki飙升"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "프리미엄 유럽 식품 캠페인, 한식 퓨전 레시피 2종 소개",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GM042REZQcGppcHh3V0d2aE02dmxNNTB3SWVmS0hsejNMZFBxS3RnWGtJYVNuTE5DWnR5ZkcybUZIZ0wtVnBKQlVTMGluYml6TU93WS02WQ?oc=5",
+          "desc": "",
+          "title_en": "Premium European Food Campaign Introduces 2 Korean Fusion Recipes",
+          "title_ja": "プレミアムヨーロピアンフードキャンペーンで韓国のフュージョンレシピを2つ紹介",
+          "title_zh": "优质欧洲美食活动推出2个韩国融合食谱"
+        },
         {
           "title": "콤부차, 겨울엔 따뜻하게…티젠 ‘콤부차 오렌지 시나몬’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNzF2RnBobUVDdkJpX19NZ0pUQzA1c1NUcy15cFNyYVI3bWQxbHJSdE0waS1mVGhQcEN4TVFINHE5UUNlbC1pVGN0emxJMjA5aG9jZENLZw?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
           "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
-        },
-        {
-          "title": "“식사하고 가세요”…브라질 슈퍼마켓, 식사 기능 확대",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92R0t4MWpTVlJ6amJYdzNpOEdPUXNDWVVtMDJhZXZpd2YwX0FhWWN5WHJtdTZoY3prU3JHbUJjSXdMLVBhNGVrYWJYbFYyZEIzUjVJSlAxQQ?oc=5",
-          "desc": "",
-          "title_en": "“Eat and go” … Brazilian supermarkets expand dining capabilities",
-          "title_ja": "「食べて行く」…ブラジルのスーパーマーケットがダイニング機能を拡大",
-          "title_zh": "“吃喝玩乐” ……巴西超市扩展用餐能力"
         }
       ]
     }
