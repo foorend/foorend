@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T20:27:47Z",
+  "lastUpdated": "2026-10-25T23:01:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "'맛으로 하나 되다'…나주 남도음식문화큰잔치 폐막",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16NWV1UDV1eHJNX25uWXY1RUdYVVh3SnF2UGVyLUZSaDVfR21GYzNyMWV2UnpJMHItMWc0SVBVVjJwQTdIcHpaVjlqc2l1QS00Mmc?oc=5",
-          "desc": "",
-          "title_en": "'Becoming One with Taste' … Closing of Naju Namdo Food Culture Big Banquet",
-          "title_ja": "「味と一つになる」…名州南道食文化大宴会閉幕",
-          "title_zh": "「与美味融为一体」…纳州南岛美食文化大宴会闭幕"
-        },
-        {
           "title": "\"햇반, 수출 늘려 K푸드 간판 키울것\"",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFSGN5Rno5d2JfcHZnd1lyMFF2ZmZNT3dUX1BFMFRXMGJsV3VPcmEwRkVfS2l0OTh4WDVSV2Flemp6aU15Y3c?oc=5",
           "desc": "",
@@ -204,12 +196,20 @@
           "title_zh": "“Sunbahn将增加出口并发展K-Food标牌”"
         },
         {
-          "title": "\"햇반, 수출 늘려 K푸드 간판 키울것\"",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XNXBvZDRoLWM2enI4bWY3SUozOERCMlRWWkZTZWI0cy02Skd0QUc1SXhWM2lXOEswbU52elNIY3k2VVFockJWOHJ4RzRDZHoyaEp4S0Fn?oc=5",
+          "title": "'맛으로 하나 되다'…나주 남도음식문화큰잔치 폐막",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16NWV1UDV1eHJNX25uWXY1RUdYVVh3SnF2UGVyLUZSaDVfR21GYzNyMWV2UnpJMHItMWc0SVBVVjJwQTdIcHpaVjlqc2l1QS00Mmc?oc=5",
           "desc": "",
-          "title_en": "\"Sunbahn will increase exports and grow K-Food signage\"",
-          "title_ja": "「サンバーンは輸出を増やし、K - Foodの看板を成長させます」",
-          "title_zh": "“Sunbahn将增加出口并发展K-Food标牌”"
+          "title_en": "'Becoming One with Taste' … Closing of Naju Namdo Food Culture Big Banquet",
+          "title_ja": "「味と一つになる」…名州南道食文化大宴会閉幕",
+          "title_zh": "「与美味融为一体」…纳州南岛美食文化大宴会闭幕"
+        },
+        {
+          "title": "풀무원아미오, '프리미엄 브랜드지수' 펫푸드 부문 첫 1위",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4cUR4aG9EY0U0MkFmOUxUQzVuRHF2TlliSUNWa1JHR2tCWkN6SmxoYzBBOUhZUVF5SU8tQ2hkZ0U1SEJlN0JfZVVmM3NTdlFlRWc?oc=5",
+          "desc": "",
+          "title_en": "Pulmuwon Amio, First Place in the 'Premium Brand Index' Pet Food Category",
+          "title_ja": "「プレミアムブランドインデックス」ペットフード部門1位プルムウォンアミオ",
+          "title_zh": "Pulmuwon Amio ， “优质品牌指数”宠物食品类别第一名"
         }
       ]
     },
