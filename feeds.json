@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T12:22:55Z",
+  "lastUpdated": "2026-10-26T20:19:06Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "随着销售陷入困境和商店关闭， Crumbl准备了超值报价"
         },
         {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
+          "title": "Half the nation’s Chinese restaurants have closed, study finds",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
-          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
+          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
+          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
+          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "我把链子放在椅子上……星巴克，免费山药上的“超级沉淀” [中国手表]"
         },
         {
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 27일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hSnNZYkEyU1pXRlZzVk9PTUdKck8zSThKUkJXRTFZUDVwZjdpdDhxTkFlZ0ZLVHY5YWlUZFo4eTIycUZNRkJqeDgxUXI5eTVrY3dYQzZJc2Zjdw?oc=5",
+          "desc": "",
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 27",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 10月27日にベルトでおすすめのランチメニュー",
+          "title_zh": "【今天的星座】今天吃什么？ … 10月27日腰带推荐午餐菜单"
+        },
+        {
           "title": "롯데免, K-푸드·관광기념품 입점 확대…국내 상품 해외 판로 지원",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZNHp4NG10REVEV0FOQThSNUgzcG1XejA4V2pPMExyTW95eENkMmVLWFZXUDJkYXEzSnFwekRuYy1mZjl6THZJS1IyeGhNMk80LUdOQkI0T1RGdw?oc=5",
           "desc": "",
           "title_en": "Lotte Kwon expands its presence in K-food and tourist souvenirs… Supporting overseas sales of domestic products",
           "title_ja": "ロッテクォンがKフードや観光お土産の存在感を拡大…国内商品の海外販売をサポート",
           "title_zh": "Lotte Kwon扩大其在K-food和旅游纪念品方面的业务……支持国内产品的海外销售"
-        },
-        {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 26일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95TUZJREFDX3BYLTczR3BDRDV1NWRBU0VyM3lKT3M0bDJyMzJjS0ZRX09nRTcxblhUOWY1TjRMa2RjWGRoc2FzaTZyaFdVTXJSZDFPYTNzRUFFZw?oc=5",
-          "desc": "",
-          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 26",
-          "title_ja": "【本日の星占い】今日は何を食べようか… 10月26日にベルトでおすすめのランチメニュー",
-          "title_zh": "【今天的星座】今天吃什么？ … 10月26日腰带推荐午餐菜单"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "[文化和休闲]陶艺中的葡萄酒…食品和饮料展览"
         },
         {
+          "title": "“창사 이래 첫 면세점 단독관”…풀무원, 김포공항서 K-푸드 띄운다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UZEgzY3pPaHRpMlB1QXZRLVc2T25uNUhta2d4dEd4YW5RTkRvb3N0azlLQXVZdVE2WjI3NWlSWUZpeGE3YXc?oc=5",
+          "desc": "",
+          "title_en": "“The first Duty Free Pavilion since its establishment” … Pulmuwon floats K-Food at Gimpo Airport",
+          "title_ja": "「創業以来初の免税パビリオン」…金浦空港でプルムウォンがK - Foodを浮かべる",
+          "title_zh": "“自成立以来的第一个免税馆” …… Pulmuwon在金浦机场搭乘K-Food"
+        },
+        {
           "title": "롯데웰푸드, 나뚜루 미니컵에 플라스틱 대신 나무스푼 쓴다",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tdGIycFppX3B2TjlMbnA2VzVJM3BEX2VCcnhKY3dkR1F4MWI4RVQ5dHVQYWFYQ1ZUczZ4WmR4NnkzendoNEhjQTBkUy1fSzRT?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food Uses Wooden Spoon Instead of Plastic for Naturu Mini Cup",
           "title_ja": "Naturuミニカップにプラスチックの代わりに木のスプーンを使用したロッテウェルフード",
           "title_zh": "乐天Well Food使用木勺代替塑料制作Naturu迷你杯"
-        },
-        {
-          "title": "\"햇반, 수출 늘려 K푸드 간판 키울것\"",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFSGN5Rno5d2JfcHZnd1lyMFF2ZmZNT3dUX1BFMFRXMGJsV3VPcmEwRkVfS2l0OTh4WDVSV2Flemp6aU15Y3c?oc=5",
-          "desc": "",
-          "title_en": "\"Sunbahn will increase exports and grow K-Food signage\"",
-          "title_ja": "「サンバーンは輸出を増やし、K - Foodの看板を成長させます」",
-          "title_zh": "“Sunbahn将增加出口并发展K-Food标牌”"
         }
       ]
     },
