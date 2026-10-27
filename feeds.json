@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T08:42:06Z",
+  "lastUpdated": "2026-10-27T15:09:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "饼干帝国开始崩溃"
         },
         {
+          "title": "Can Cracker Barrel’s holiday menu keep consumers happy enough to support the chain?",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1Bia2IzMkdscjg5Q2U1Tld1cko0eGJJX0FyMFlJaC1IRkszaW1YVTJXU2hIM2xhMGs4M0MwcktfTmU3dEtjbVFIWThzc2xmVnlVSU9tOG9fQXZwVEJBeHRzOVNyQ09hcm0tcEtpbjEyd1U2MlNRcjNYbUkyZmFCY0taU0pscEZSMllvQ0NYcnlqdzgxa0hDdzY4VHRTcVEtVnNvX3BaZUN6UWQtMkRqNFV0ZkNtVFd1RldVcFpiSjZ5aGdaVDJqSXdfYw?oc=5",
+          "desc": "",
+          "title_ko": "크래커 배럴 (Cracker Barrel) 의 휴일 메뉴가 체인을 지원할만큼 소비자를 행복하게 할 수 있습니까?",
+          "title_ja": "クラッカーバレルのホリデーメニューは、チェーンを支えるために消費者を満足させることができますか？",
+          "title_zh": "Cracker Barrel的节日菜单能否让消费者满意以支撑连锁店？"
+        },
+        {
           "title": "With sales struggling and stores closing, Crumbl prepares a value offer",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVEwU2JHVjBGaTdNVUltbFl1VE9vZzRwTmF0R2tuYUNaNkl4Y2lyeW4yTms1T3Q0Z2NUOFY1bkd6VzItN0hwUWR2VlUxeEEzZEVXN1dKbDFFeVVSTWJVV0xFMS1JcWVmNzF6UjRRRDlsVzNRbnlYb1gtZGJoNXp0R1hzUjJhV2lqdnBaLTZLR2xjZUlWZDhZa3kxY282TGQwVWxxalFHZHZtdw?oc=5",
           "desc": "",
           "title_ko": "판매에 어려움을 겪고 매장이 문을 닫으면서 Crumbl은 가치 제안을 준비합니다.",
           "title_ja": "販売が困難で店舗が閉鎖されている中、Crumblはバリューオファーを準備しています",
           "title_zh": "随着销售陷入困境和商店关闭， Crumbl准备了超值报价"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
         }
       ]
     },
@@ -136,20 +136,20 @@
           "title_zh": "2026年龟尾美食节， 27万人参观"
         },
         {
-          "title": "의자에 쇠사슬 묶더니…스타벅스, 공짜 얌체족에 '초강수' [차이나 워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tTWYyQ3NaTmwxTV9RY1lqMlhSVlQ0SjI4M2RJWFFVN3dBVm41Y09mb0U3WlBlQVMyd0JDb2FTQ25held4NG5oWjh1TTQxZ0x6MVdkTUgwVWZPQQ?oc=5",
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 28일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GX3A2MFotejJXMHEwb1FxZjBUUWVfMzhOd2tFQzltTENCc29IOFpHX01ac3ZkTXJSbk9MS0hxd05TWUo0Z3g1eFNDYnAwWHl2QmpfNjVfbVdkQQ?oc=5",
           "desc": "",
-          "title_en": "I put chains on my chair... Starbucks, 'Super Precipitation' on the free yam [China Watch]",
-          "title_ja": "私は椅子にチェーンを置きます...スターバックス、無料のヤマイモに「スーパー降水量」[チャイナウォッチ]",
-          "title_zh": "我把链子放在椅子上……星巴克，免费山药上的“超级沉淀” [中国手表]"
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 28",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 10月28日にベルトでおすすめのランチメニュー",
+          "title_zh": "【今天的星座】今天吃什么？ … 10月28日腰带推荐午餐菜单"
         },
         {
-          "title": "치폴레 먹으러 신세계 강남 간다…2호점 28일 오픈",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2NDdXdnVTLWxpUl9YeXRESTRvUHhGZ1hnR2NLVTcwM1lZdEQ0RGc1NXdlQ3RlQVVSNVh5bmFNam0wWHJrZ1pLcU4tOG1JeHJ0R3o5NEVNdjVEUQ?oc=5",
+          "title": "\"레일 위로 쥐가 뛰어다녔다\"…中 초밥집 갔다가 '경악'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tTDFHc05vYmV2SUJWaDc3cHp2VjZmTU90LTFNckRZdHF6M0NRZDl1bmVlaHp1RkhnNjNSLWg5Um1jUW94a09PeVBtNXdqa0owSTcxN2JUcXpxQQ?oc=5",
           "desc": "",
-          "title_en": "I'm going to Shinsegae Gangnam to eat chipotle… Opened on the 28th of the 2nd store",
-          "title_ja": "チポトレを食べに新世界江南へ行く… 2号店28日オープン",
-          "title_zh": "我要去新世界江南吃辣椒…二店28号开业"
+          "title_en": "“There was a mouse running around on the rail” … 'Awe' after going to a sushi restaurant",
+          "title_ja": "「レールの上をネズミが走り回っていた」…寿司屋に行った後の「畏怖」",
+          "title_zh": "「有只老鼠在栏杆上跑来跑去」……去寿司店后有「敬畏」"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "“马上把它从冰箱里拿出来” ……如果不够好，我就吃‘这种食物’ [Healthy Time]"
         },
         {
-          "title": "국내 펫푸드 시장 5년만에 70% 성장…수입산 비중은 ‘물음표’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42RllIRGVvYXBGX1FsaVB3d0h4UG1CeXZLU0FPYi1vdVJESGxjSjhMZ1BkaEtpUFRReUl2TmZoSlhFLUVuR0dLU3Y5djhKNWRQc3fSAVNBVV95cUxQaC1OaTFiSW9nZHRDSHBueXBSUUx0RHNjOXZzLWFTTlU5QTVuTVV5WE8wWUFxN2UyZ3ZsVFFwWWZzQTJyYXdERktPT1NkNlM4R0VTZw?oc=5",
-          "desc": "",
-          "title_en": "Domestic pet food market grew by 70% in 5 years... The proportion of imported products is‘ question mark ’",
-          "title_ja": "国内ペットフード市場は5年間で70 ％成長…輸入品の割合は「疑問符」",
-          "title_zh": "国内宠物食品市场在5年内增长了70 ％......进口产品的比例是“问号”"
-        },
-        {
           "title": "라면에 ‘이 재료’ 한 줌 넣었더니…한국인 나트륨 섭취 1위 음식의 반전 [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xS3RNV205eEM5aUU4N1piUi1KOVp4RUpRWTYxQkMyNENLMjZaLXh1WTByeGE3eU8tcDhFX19oemVCQllRUVduT3ZwekRzZ05EUUHSAVNBVV95cUxQSU4xU3J2SUdDRnRsbG1UaWt6M012TTR1a0tndmppV1NWeVlvMGVXcnR5ZDdiZVNQeW5IdGlSd0RPNEpnemdxczVITkQwUzZKa3RLRQ?oc=5",
           "desc": "",
           "title_en": "I put a handful of ‘this ingredient’ in the ramen... Reversal of the No. 1 food for Korean sodium intake [Healthy time]",
           "title_ja": "ラーメンに「この成分」を一握り入れました・・・韓国ナトリウム摂取量No.1の逆転【健康タイム】",
           "title_zh": "我在拉面里放了一些“这种成分” ……韩国钠摄入量的第一食物的逆转【健康时间】"
+        },
+        {
+          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
+          "desc": "",
+          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
+          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
+          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "제1회 원주만두축제 음식 부스 참가자 모집…10월 28∼29일 개최",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HTmlNUnptczU4UlI1Snc4SmZzUkJ3MWw3QXIyc2hGOF9xTWphWUltQjQzcTk3enBzT0FGRTBBTmNld3Z2VzVLMmtVeDBmd1py?oc=5",
+          "desc": "",
+          "title_en": "Recruitment of participants for the 1st Wonju Dumpling Festival food booth… Held October 28-29",
+          "title_ja": "第1回元州団子まつりフードブース参加者募集… 10月28日～ 29日開催",
+          "title_zh": "10月28-29日举行的第一届圆州饺子节美食摊位参会人员招募"
+        },
         {
           "title": "“포장 주문으로 음식 가져가는데 팁 20%?”…폭발 직전인 미국 소비자들",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zN2Q3U2NoQUt3a04yMVB4ZDJvS3hDVlZQWXJFOVF6dnQ1MVF1eG5Fb01aUUs5TXpDVlFSajc4Qk9ablVYRTVncjlCVFdOMExsVlh5Wg?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "[Global Korean] \"Kimchi in every house in Germany, that's my goal\"",
           "title_ja": "[グローバル韓国語]「ドイツのすべての家でキムチ、それが私の目標です」",
           "title_zh": "【全球韩语】「在德国的每个房子里都吃泡菜，这是我的目标」"
-        },
-        {
-          "title": "[컬처&레저] 도자기에 담은 와인…佛 식음료 전시회",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qOXFIMXN4Q1BQejZPUHFiMXVtUVQxX0ltNjZBWmNLd3FKdzBRY01DNk8tbFl1UUZkTEhYeExCc3ZfdnVSWEtnZXVLRnBnMnpfc0E?oc=5",
-          "desc": "",
-          "title_en": "[Culture & Leisure] Wine in Pottery… Food & Beverage Exhibition",
-          "title_ja": "【文化とレジャー】陶芸のワイン…フード＆ドリンク展",
-          "title_zh": "[文化和休闲]陶艺中的葡萄酒…食品和饮料展览"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "솔향 나는 제철 새송이버섯, 새송이와 달라요",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XRUNfV1NjdE5PRW1tRXl5cC1QZERHbXNrNXJDa1ZLZ0xVak4xX2JVTmFqS3lyQ1g4VzVQNmxyM1RyRHp6R3NQaXZ4Yzk1STAyVWFDeld4TQ?oc=5",
-          "desc": "",
-          "title_en": "It's different from seasonal bird mushrooms and bird mushrooms that smell like brush.",
-          "title_ja": "季節の鳥のキノコや、ブラシのような臭いがする鳥のキノコとは違います。",
-          "title_zh": "它不同于季节性鸟类蘑菇和闻起来像灌木丛的鸟类蘑菇。"
-        },
-        {
-          "title": "태국, ‘비빔밥을 소시지로’ K-푸드 현지화",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kSlo1dWJrdXp6bThWU1lPUzhXNWJvQkNTdmNvbGdnSm01TnRFY1VvVW9aUGxMZk94ZWU2NmFrVHhlYUMyWlRXYWFLVnF5NkFidzFnNFpSZw?oc=5",
-          "desc": "",
-          "title_en": "Thai K-Food Localization of ‘Bibimbap as Sausage’",
-          "title_ja": "「ソーセージとしてのビビンバ」のタイKフードのローカライズ",
-          "title_zh": "「Bibimbap as Sausage」泰国K-Food本地化体验"
-        },
-        {
           "title": "식감·전통 방식…캐나다 웰니스 트렌드는?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QTWJfT2pUWFdUV3VyY2VLcEVuRDRuV1kxR1d3RXhQU1NqWk92c2tHQ3lxNUtvT3g1d2dFWFFHS1dMc2JuOTl2RDlJOVRScHZUd2FnWHl3VQ?oc=5",
           "desc": "",
           "title_en": "Textures, traditional methods… What are the Canadian wellness trends?",
           "title_ja": "質感、伝統的な方法…カナダのウェルネスのトレンドは何ですか？",
           "title_zh": "质地、传统方法……加拿大的健康趋势是什么？"
+        },
+        {
+          "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
+          "desc": "",
+          "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
+          "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
+          "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
+        },
+        {
+          "title": "“식사하고 가세요”…브라질 슈퍼마켓, 식사 기능 확대",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92R0t4MWpTVlJ6amJYdzNpOEdPUXNDWVVtMDJhZXZpd2YwX0FhWWN5WHJtdTZoY3prU3JHbUJjSXdMLVBhNGVrYWJYbFYyZEIzUjVJSlAxQQ?oc=5",
+          "desc": "",
+          "title_en": "“Eat and go” … Brazilian supermarkets expand dining capabilities",
+          "title_ja": "「食べて行く」…ブラジルのスーパーマーケットがダイニング機能を拡大",
+          "title_zh": "“吃喝玩乐” ……巴西超市扩展用餐能力"
         }
       ]
     }
