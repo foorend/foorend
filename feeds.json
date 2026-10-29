@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-10-28T20:05:19Z",
+  "lastUpdated": "2026-10-29T00:37:16Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "How Starbucks' overnight remodels transform the chain's aesthetic",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWJMaEc3N3FzY2pHaEV2MWlqMkhqTDZKLVZwZlJNUzB0SFlUaTJPTU1tcnYxT3NVSC1YeThRUDVqVzgzbi1mOHhhV2NfdlBQMkpOLTJuYnE2XzE5WENCMGNsS0lUMl9jS3lQT1V4YmNSdG1HNnRJdzh3NlZMb1pUbENrN01Vc3pZYjBaTWtYRWoxTE1FUGtFazl1ZjUzVVBXR1VLRF9iM0Fjdw?oc=5",
-          "desc": "",
-          "title_ko": "스타벅스의 하룻밤 리모델링이 체인의 미학을 변화시키는 방법",
-          "title_ja": "スターバックスの一晩での改造がチェーンの美しさをどのように変えるか",
-          "title_zh": "星巴克的夜间改造如何改变连锁店的美学"
-        },
         {
           "title": "A cookie empire is starting to crumble",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWlPT0JWM1htbHFJUDBQZldveGFCTy1jMWotdzlwZVdzWHlKU2JZbWpEZkMxM3FCeWlWU0hDMno3MmNEZGQ1NEozZVdrRndVdkw3bXNvbzFtR1dPYU1PM0g1amhfSVJaR0pwaUZfcHNJQUpLbzZScnQ4TS1Ib0RWQ29YQQ?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "쿠키 제국이 무너지기 시작했습니다",
           "title_ja": "クッキー帝国が崩壊し始めています",
           "title_zh": "饼干帝国开始崩溃"
+        },
+        {
+          "title": "How Starbucks' overnight remodels transform the chain's aesthetic",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWJMaEc3N3FzY2pHaEV2MWlqMkhqTDZKLVZwZlJNUzB0SFlUaTJPTU1tcnYxT3NVSC1YeThRUDVqVzgzbi1mOHhhV2NfdlBQMkpOLTJuYnE2XzE5WENCMGNsS0lUMl9jS3lQT1V4YmNSdG1HNnRJdzh3NlZMb1pUbENrN01Vc3pZYjBaTWtYRWoxTE1FUGtFazl1ZjUzVVBXR1VLRF9iM0Fjdw?oc=5",
+          "desc": "",
+          "title_ko": "스타벅스의 하룻밤 리모델링이 체인의 미학을 변화시키는 방법",
+          "title_ja": "スターバックスの一晩での改造がチェーンの美しさをどのように変えるか",
+          "title_zh": "星巴克的夜间改造如何改变连锁店的美学"
         },
         {
           "title": "Sweetgreen managers could earn more than $200,000 next year under new compensation plan",
@@ -136,20 +136,20 @@
           "title_zh": "【今天的星座】今天吃什么…… 10月29日腰带推荐午餐菜单"
         },
         {
-          "title": "서현진 \"절밥 먹으라더라\"…여배우들이 푹 빠진 식단 뭐길래 [건강!톡]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yYkR5c2paMFRkT241YXFuZmM4R1dSZDF2OXMzRUY4UzU5Qmd5WDVLZm5BOFZGOXdsMU10SWxtX1d6RmMwMUY5dy1qQXd5WUlJNlBtd1dDNThjUQ?oc=5",
-          "desc": "",
-          "title_en": "Seo Hyun-jin said, \"Eat me\" … What's the diet the actresses are obsessed with? [Healthy! Talk]",
-          "title_ja": "ソヒョンジンは「私を食べて」と言いました…女優が夢中になっているダイエットは何ですか？【ヘルシー！トーク】",
-          "title_zh": "徐贤真道： “吃我吧” ……女演员们痴迷的饮食是什么？【健康！说话】"
-        },
-        {
           "title": "전통의 맛을 빚고 문화의 가치를 잇다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LUjUzQnl3UHg4My1rRF94X2Z0Y1hoODFQbmhkR3FjcDJINktLOE5kV2NOeW1OdjhfMjVSQ2FLWGItX1VvZWhLSTR4dzRUazFQM25MSXhBR1U2UQ?oc=5",
           "desc": "",
           "title_en": "Create the taste of tradition and connect the values of culture",
           "title_ja": "伝統の味を創造し、文化の価値を結びつける",
           "title_zh": "创造传统的味道，连接文化价值观"
+        },
+        {
+          "title": "콘텐츠캐리어, '2026 푸드위크 코리아'서 KAMUT® 통합 브랜드관 운영",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DcHY5TlJFdjVNV1czekZvQ09ENGhfUEJTZWFLZHRrR09YQlZnZzFTdThQNGxaTHM1ZjBXM2s3MkowZEp2clRjOGpsd201eklXVnVjZHZ4S3cxZw?oc=5",
+          "desc": "",
+          "title_en": "Content Carrier Operates Kamut ® Integrated Brand House for '2026 Foodweek Korea'",
+          "title_ja": "コンテンツキャリアが「2026 Foodweek Korea」のためにKamut ®統合ブランドハウスを運営",
+          "title_zh": "Content Carrier为“2026 Foodweek Korea”运营Kamut ®综合品牌公司"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "在一个地方享用传统韩日美食…下个月7日举行的Jeonju Seo「Mingling活动」"
         },
         {
-          "title": "제1회 원주만두축제 음식 부스 참가자 모집…10월 28∼29일 개최",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HTmlNUnptczU4UlI1Snc4SmZzUkJ3MWw3QXIyc2hGOF9xTWphWUltQjQzcTk3enBzT0FGRTBBTmNld3Z2VzVLMmtVeDBmd1py?oc=5",
+          "title": "전주푸드, 추석 선물 세트 특별판매전…포장·택배비 무료",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBobDlSWVRjbXZ5TS13NUQ1U2s5LXN2Rm9BY3pycTNzT2hnb2hEcHhBekQyOWlNbWJDNGpKekFuaE8zTDA3Nnc5Rk5UUmV1V3g4?oc=5",
           "desc": "",
-          "title_en": "Recruitment of participants for the 1st Wonju Dumpling Festival food booth… Held October 28-29",
-          "title_ja": "第1回元州団子まつりフードブース参加者募集… 10月28日～ 29日開催",
-          "title_zh": "10月28-29日举行的第一届圆州饺子节美食摊位参会人员招募"
+          "title_en": "Jeonju Foods, Chuseok Gift Set Special Exhibit… Free Packaging and Delivery",
+          "title_ja": "Jeonju Foods、Chuseokギフトセット特別展示…無料梱包と配達",
+          "title_zh": "Jeonju Foods ， Chuseok礼品套装特别展览…免费包装和送货"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "喝咖啡的时间也很重要？"
         },
         {
+          "title": "아빠와 함께한 추억 한 끼…미국육류수출협회 ‘U.S. Meat 대디스 쿠킹 캠프’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvRVBxaG9BU2RJNm01QmNHR3R3NnFWRlpOOEpDQWZOVVpRdEFrRk05SV9pZ2x1Yk5oTzRxTTE3UVB2Z25QTTZJdlRMUUh2WE11TmxoWk1mUQ?oc=5",
+          "desc": "",
+          "title_en": "A meal of memories with my dad… U.S. Meat Export Association ‘U.S. Meat Daddies Cooking Camp’",
+          "title_ja": "父との思い出の食事…米国食肉輸出協会「U.S. Meat Daddies Cooking Camp」",
+          "title_zh": "与父亲共进美好回忆……美国肉类出口协会“美国肉类爸爸烹饪营”"
+        },
+        {
           "title": "“하루 한 줌 호두, 정서적 건강 향상에 도움”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Sd0x2SUpZakdNa0NIRE05TlhZRHNhbF9GUGZWV01jNU9MQjAwQmlVZkZLZ2JSZEthcDJZb1Q1cFpsSlR2MGJ0N2k1cjFPV0ExZWVqV2dDaw?oc=5",
           "desc": "",
           "title_en": "“Handful of Walnuts a Day Helps Improve Emotional Health”",
           "title_ja": "「一日一握りのクルミは、感情的な健康を改善するのに役立ちます」",
           "title_zh": "“每天少量核桃有助于改善情绪健康”"
-        },
-        {
-          "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
-          "desc": "",
-          "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
-          "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
-          "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
         }
       ]
     }
