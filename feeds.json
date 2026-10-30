@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T17:46:10Z",
+  "lastUpdated": "2026-10-30T21:58:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -52,12 +52,12 @@
           "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
         },
         {
-          "title": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
+          "title": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOENiSW9IR2xIaG9BNkhpYnhEWTNmNVQ1VEhkXzh4a2Z3bWZ5a1UwSDY1Q1RUU0pPZUV2WDZBazJHSUNnTVNuWE02VlZLYVY0RTNGWVpmVl9PWjVrYUpNLXBrM0JMMWlrblZVanlYWEhzdFBycVp6Sml4R2NrTTd0MTJtejNZZw?oc=5",
           "desc": "",
-          "title_ko": "놓치고 싶지 않은 음식 대림절 달력 20선 — 본 마만, 윌리엄스 소노마 등",
-          "title_ja": "Bonne Maman、Williams Sonomaなどのおすすめフードアデントカレンダー20選",
-          "title_zh": "Bonne Maman、Williams Sonoma等20个不容错过的美食降临日历"
+          "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
+          "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
+          "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
         }
       ]
     },
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Steal My Food Itinerary: 3 Days on Prince Edward Island",
+          "link": "https://www.eater.com/travel-guides/995748/steal-my-food-itinerary-3-days-on-prince-edward-island",
+          "desc": "Recently I spent a few days exploring Prince Edward Island, a place that embraces its local foodways with gusto. There’s a complex history here, with ",
+          "title_ko": "내 음식 훔치기 여행 일정: 프린스에드워드아일랜드 3일",
+          "title_ja": "食料盗みの旅程：プリンスエドワードアイランド州で3日間",
+          "title_zh": "偷我的美食行程：爱德华王子岛3日游"
+        },
+        {
           "title": "We’re in the Era of the $200 Cup of Coffee",
           "link": "https://www.eater.com/coffee-shops/994101/sey-200-dollar-coffee-finca-sophia",
           "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
@@ -110,14 +118,6 @@
           "title_ko": "음식을 테마로 한 패션이 식욕을 돋우기 시작했습니다.",
           "title_ja": "食べ物をテーマにしたファッションが大食いを感じ始めています",
           "title_zh": "以美食为主题的时尚开始变得贪吃"
-        },
-        {
-          "title": "Even for Desperate Restaurants, Fake Reviews Just Aren’t Worth It",
-          "link": "https://www.eater.com/dining-out/996325/restaurants-fake-yelp-reviews-penalties",
-          "desc": "When Yelp was first launched in 2004, it flopped. The company’s initial model of an email-based referral service failed to take off until its creators",
-          "title_ko": "절망적인 레스토랑의 경우에도 가짜 리뷰는 가치가 없습니다.",
-          "title_ja": "絶望的なレストランであっても、偽のレビューは価値がありません",
-          "title_zh": "即使是绝望的餐厅，虚假评价也不值得"
         }
       ]
     }
@@ -144,12 +144,12 @@
           "title_zh": "【今天的星座】今天吃什么？ … 10月30日腰带推荐午餐菜单"
         },
         {
-          "title": "지적장애 청소년 유인…음식 사주고 추행한 50대 男 '실형'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwcDBqWlR4dXUwZXZCZ09LUUFETnd0LUdLRFNNXzdURTRkbl83VjdaZXhGeWlCVGZONTY4TnZiWUV5XzRiRmppaGNIT3ZZSmhQSjhDR0FacllRZw?oc=5",
+          "title": "의자에 쇠사슬 묶더니…스타벅스, 공짜 얌체족에 '초강수' [차이나 워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tTWYyQ3NaTmwxTV9RY1lqMlhSVlQ0SjI4M2RJWFFVN3dBVm41Y09mb0U3WlBlQVMyd0JDb2FTQ25held4NG5oWjh1TTQxZ0x6MVdkTUgwVWZPQQ?oc=5",
           "desc": "",
-          "title_en": "Attracting youth with intellectual disabilities… 'Husband' in their 50s who bought food and harassed them",
-          "title_ja": "知的障害のある若者を引き付ける…食べ物を買って嫌がらせをした50代の「夫」",
-          "title_zh": "吸引智障青年…… 50多岁的“丈夫”购买食物并骚扰他们"
+          "title_en": "I put chains on my chair... Starbucks, 'Super Precipitation' on the free yam [China Watch]",
+          "title_ja": "私は椅子にチェーンを置きます...スターバックス、無料のヤマイモに「スーパー降水量」[チャイナウォッチ]",
+          "title_zh": "我把链子放在椅子上……星巴克，免费山药上的“超级沉淀” [中国手表]"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "BGF Foods首席执行官Song Young-min表示： “三年内，生鲜食品加工的自动化率将提高到30%。”"
         },
         {
-          "title": "현대그린푸드, 외식사업 재편…캐주얼·파인다이닝 조직 신설",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80MHFNMFlLZ01rUk9KRlo4c0xGOFdHY0EwTlhQWHd0cnNBZHRJVWF3REhsUks1ampJdUc5UWxnVEJ2N0J1eGh6eVdpNV9UUXFUU3fSAVNBVV95cUxPYXh0Qmk4LS1wYThRdW9KMThZOF94RlR1Ym5fTWJMeVE0ejUzMkVTZUQ0QzMyalFHdGtjaDVJcVpYVkNMQVRSU0V5SnFLY1hXRlJqUQ?oc=5",
+          "title": "[르포] 9명이 만들던 김밥, 이젠 3명이…CU 간편식품 만드는 공장 가보니",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DREU4Nm9rZ0k1NkxaMnhDRjhNd0JpakxzZExrYUtmdWNnRWVWbnpCS242bzE4enUyWW9FUmthZmFVQ2pYSFQtZWJBWE5wQ0puSHfSAVNBVV95cUxNYnlES0F6bEYyRTI1ZC1WUXVnMEV0YnlibGdBNTEzZ1lSYy1LdTMtY1hNekpMaURBNGlDTS1zTjFnX1ktbzJiNUo3YW9aZlVZcjJaVQ?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food reorganizes its dining business… Establishing a casual and fine dining organization",
-          "title_ja": "現代グリーンフードがダイニング事業を再編…カジュアルで高級なダイニング組織を設立",
-          "title_zh": "现代绿色食品重组其餐饮业务……建立休闲和精致的餐饮组织"
+          "title_en": "[Repo] Gimbap made by 9 people, now 3 people... I went to the CU simple food making factory.",
+          "title_ja": "【レポ】9人で作ったギンバップ、今では3人… CU簡易食品製造工場に行ってきました。",
+          "title_zh": "[回购] Gimbap由9人制作，现在有3人......我去了CU简单的食品制作工厂。"
         }
       ]
     },
@@ -218,6 +218,14 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "커피도 마시는 시간이 중요하다?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jcG9IN2h1VFBDRXJWSGV0dmVPQVgtdkV2cWRhVlhZbGNpMDAyeGg3eVIyU3hhM1ozSVhaeFJDam51dGI5ckotZTk4N1hOOS0ybXZ5T0hoVQ?oc=5",
+          "desc": "",
+          "title_en": "Coffee time is also important?",
+          "title_ja": "コーヒータイムも重要ですか？",
+          "title_zh": "喝咖啡的时间也很重要？"
+        },
+        {
           "title": "“사망 위험 23% 낮았다”…25년 추적한 ‘이 식단’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FRUxydVhFNU5HUmo2SkxudDl6M0ZFemFodVdfbmU0aVpodXNaWUpVM0xUYXRWOTB3b0tyQ25tWDV4c0dJT1hlSG9PUjh3OEV5V0F1UENUcw?oc=5",
           "desc": "",
@@ -232,14 +240,6 @@
           "title_en": "The soup tastes very different… Learning how to drink properly",
           "title_ja": "スープの味がとても違う…正しい飲み方を学ぶ",
           "title_zh": "汤的味道非常不同……学习如何正确饮用"
-        },
-        {
-          "title": "커피도 마시는 시간이 중요하다?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jcG9IN2h1VFBDRXJWSGV0dmVPQVgtdkV2cWRhVlhZbGNpMDAyeGg3eVIyU3hhM1ozSVhaeFJDam51dGI5ckotZTk4N1hOOS0ybXZ5T0hoVQ?oc=5",
-          "desc": "",
-          "title_en": "Coffee time is also important?",
-          "title_ja": "コーヒータイムも重要ですか？",
-          "title_zh": "喝咖啡的时间也很重要？"
         }
       ]
     }
