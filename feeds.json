@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T00:38:09Z",
+  "lastUpdated": "2026-10-30T09:40:45Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -22,12 +22,12 @@
           "title_zh": "饼干帝国开始崩溃"
         },
         {
-          "title": "Why so many chains are changing their beverage providers",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE14RUN6ZzZad1RFM3lKNWhKUXljSjAwa29aQzEybW0tQ2gwa1N1SGZ5SmJ5emV6UDFQWkxqaXB0bkU1WktQZTVyN1BzME1tdk1ES3draElqUW5EbEQyRVBsdFJISFVpUkh5UzAzUVBsc1VwRVV3Yk1ZenFjNFJGaTNNQ1hRQklUZFB4YldqSUZWS1RkTmxaLUZhLUp0Sm9MTVVyMHc0UFpWWms?oc=5",
+          "title": "McDonald's franchisees question hand-breaded chicken",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnR2NTZ6OENtX2xiM01PUXAtakpwVVpxMUxtUDdjRlptc2t6U2tsRGtEbk00cGU3d0xOR191SmkwaWtabXhnNlJMWXZtZmNVMGZDbE0yTVFzZVVKSWdVRjdYNGZGYXE5QV9YSXY4a0taaEJHWjhFa011X1BaTnRLaXRuZzNXNHhCZlFmT20tcEZaZk9LMGVMNGluZVY4S00?oc=5",
           "desc": "",
-          "title_ko": "많은 체인점이 음료 제공업체를 변경하는 이유",
-          "title_ja": "なぜ多くのチェーンが飲料プロバイダーを変更しているのか",
-          "title_zh": "为什么这么多连锁店都在改变他们的饮料供应商"
+          "title_ko": "맥도날드 가맹점주들이 수제빵 치킨에 대해 질문",
+          "title_ja": "マクドナルドのフランチャイズ加盟店がハンドブレッドチキンに質問",
+          "title_zh": "麦当劳加盟商质疑手工烘焙鸡肉"
         }
       ]
     },
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"반도체 뺨치는 수출 효자\"…세계 홀린 이 음식 정체",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DQkpSRjFOcUtxZnVHWHFQdjY4cVJWZ0doMFdKTEtER0NiZVpOYW91bTJfazNRbVVWdmZKeWRiWXp0b3pEdHdfQ3d6Z0ZXMTFmeHpEM2oySS1Cdw?oc=5",
-          "desc": "",
-          "title_en": "\"Semiconductor cheek tooth is an export hyoja\" … World Hollin Lee food stagnation",
-          "title_ja": "「半導体頬歯は輸出のヒョージャ」…世界のホリン・リー食料停滞",
-          "title_zh": "“半导体脸颊牙是出口孝子” …世界Hollin Lee食物停滞"
-        },
-        {
           "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 30일 띠별 추천 점심메뉴",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRam1KNjlTTzNOQWJiTnRhRkxPb0dPYS02M0JvZWE4NFNWZ1RINjY2YWdISS0xZUVmbHpHRi1yRTBGVUU5cXJ6bERQZS14bWdITEdMWnFRWk0ydw?oc=5",
           "desc": "",
@@ -150,6 +142,14 @@
           "title_en": "Attracting youth with intellectual disabilities… 'Husband' in their 50s who bought food and harassed them",
           "title_ja": "知的障害のある若者を引き付ける…食べ物を買って嫌がらせをした50代の「夫」",
           "title_zh": "吸引智障青年…… 50多岁的“丈夫”购买食物并骚扰他们"
+        },
+        {
+          "title": "의자에 쇠사슬 묶더니…스타벅스, 공짜 얌체족에 '초강수' [차이나 워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tTWYyQ3NaTmwxTV9RY1lqMlhSVlQ0SjI4M2RJWFFVN3dBVm41Y09mb0U3WlBlQVMyd0JDb2FTQ25held4NG5oWjh1TTQxZ0x6MVdkTUgwVWZPQQ?oc=5",
+          "desc": "",
+          "title_en": "I put chains on my chair... Starbucks, 'Super Precipitation' on the free yam [China Watch]",
+          "title_ja": "私は椅子にチェーンを置きます...スターバックス、無料のヤマイモに「スーパー降水量」[チャイナウォッチ]",
+          "title_zh": "我把链子放在椅子上……星巴克，免费山药上的“超级沉淀” [中国手表]"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“같이 밥 먹다가 구토·설사까지?”…입속 세균 1만 마리 옮기는 식탁 위 ‘이 행동’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xaVpEZ2MzR0hvbnBsZHY4aF95eDNDTUZyRFAwZkFLUEIwbWZsSklKQ21KTHphdWQxTW00WDNoakw1NV85R0dVQ3NocWdoeUhwU0d1VFFsT2Y2QjdWazFPQmkwM1Rod9IBU0FVX3lxTFBaQTBRa283Z3hRci1FXzMxRTlWNWlDNEQ3U19yS1ZoampOeHBZaHh1TWtGekpCNmluV3JjRGdtSWJMd01RdjROV192SDhkVGtpb2hj?oc=5",
+          "desc": "",
+          "title_en": "“Even vomiting and diarrhea while eating together?” … on the dining table carrying 10,000 mouth bacteria ‘This behavior’ [Health Time]",
+          "title_ja": "「一緒にご飯食べて嘔吐・下痢まで？」入属細菌1万匹運ぶ食卓上「この行動」 [ヘルシータイム]",
+          "title_zh": "“一起吃饭还呕吐腹泻？“ ……餐桌上有10,000种口腔细菌‘这种行为’ [Health Time]"
+        },
         {
           "title": "송영민 BGF푸드 대표 “신선식품 공정 자동화율 3년 내 30%로 높일것”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFcXYycjRqRGdOTTJNOFBTV0trYWpvWXlKQ3FpS1ExZkhhYUkyUVFmOGNlckc2YUlLNDFnbk1uUFRrbG55R1g3RlpYbmtBTGFPSmfSAVNBVV95cUxPNlVDSGhhaHBmN3hfYVh5cVlfNDRnMVJqdEsycFFfMFdVTGM4NVFRXzVNSi11b21iQ2ItODBNR1U2V19VbVZjMGV5dWhfU25mQlZlcw?oc=5",
@@ -166,20 +174,12 @@
           "title_zh": "BGF Foods首席执行官Song Young-min表示： “三年内，生鲜食品加工的自动化率将提高到30%。”"
         },
         {
-          "title": "[르포] 9명이 만들던 김밥, 이젠 3명이…CU 간편식품 만드는 공장 가보니",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DREU4Nm9rZ0k1NkxaMnhDRjhNd0JpakxzZExrYUtmdWNnRWVWbnpCS242bzE4enUyWW9FUmthZmFVQ2pYSFQtZWJBWE5wQ0puSHfSAVNBVV95cUxNYnlES0F6bEYyRTI1ZC1WUXVnMEV0YnlibGdBNTEzZ1lSYy1LdTMtY1hNekpMaURBNGlDTS1zTjFnX1ktbzJiNUo3YW9aZlVZcjJaVQ?oc=5",
+          "title": "현대그린푸드, 외식사업 재편…캐주얼·파인다이닝 조직 신설",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80MHFNMFlLZ01rUk9KRlo4c0xGOFdHY0EwTlhQWHd0cnNBZHRJVWF3REhsUks1ampJdUc5UWxnVEJ2N0J1eGh6eVdpNV9UUXFUU3fSAVNBVV95cUxPYXh0Qmk4LS1wYThRdW9KMThZOF94RlR1Ym5fTWJMeVE0ejUzMkVTZUQ0QzMyalFHdGtjaDVJcVpYVkNMQVRSU0V5SnFLY1hXRlJqUQ?oc=5",
           "desc": "",
-          "title_en": "[Repo] Gimbap made by 9 people, now 3 people... I went to the CU simple food making factory.",
-          "title_ja": "【レポ】9人で作ったギンバップ、今では3人… CU簡易食品製造工場に行ってきました。",
-          "title_zh": "[回购] Gimbap由9人制作，现在有3人......我去了CU简单的食品制作工厂。"
-        },
-        {
-          "title": "“냉장고에서 당장 꺼내세요”...아깝다고 먹었다간 탈 나는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xQkJzcFhHNXo1Y0FlaXFqaGEzZjMtbzlkLTVLOF9oVEZXR3BuZWtERWl2UGpXRHdNcG84NFowTWxlellYQ2c5UmswMHUyd2FzbHfSAVNBVV95cUxPRUJ5Undja2d5NVdibHIxNE1xUDVJWjhGNkp5b2pudnpBaHVkNlQybl94RWpWaF9aTW5zR1hpSXNCTzZRMGtLcE9YOTlvRVFEUlJ1QQ?oc=5",
-          "desc": "",
-          "title_en": "“Get it out of the fridge right now” … If it's not good enough, I eat ‘this food’ [Healthy Time]",
-          "title_ja": "「今すぐ冷蔵庫から出してください」…十分でない場合は、「この食べ物」を食べます[ヘルシータイム]",
-          "title_zh": "“马上把它从冰箱里拿出来” ……如果不够好，我就吃‘这种食物’ [Healthy Time]"
+          "title_en": "Hyundai Green Food reorganizes its dining business… Establishing a casual and fine dining organization",
+          "title_ja": "現代グリーンフードがダイニング事業を再編…カジュアルで高級なダイニング組織を設立",
+          "title_zh": "现代绿色食品重组其餐饮业务……建立休闲和精致的餐饮组织"
         }
       ]
     },
@@ -188,20 +188,20 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "수제비가 조선시대 양반이 즐기던 특별식이라고?",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uQTV6T3pfVnNaWXFlblFFUU5OWldseGRzeUx4WnNibGdBMEY1N2gtdVJYb3E1OF9ldi15bVNRZ1Nsc0dUZXJKVEZCN3pqUWRnQ2pWSQ?oc=5",
+          "desc": "",
+          "title_en": "Sujebi was a special meal enjoyed by both men in the Joseon Dynasty?",
+          "title_ja": "スジェビは朝鮮王朝の二人の男性が楽しんだ特別な食事でしたか？",
+          "title_zh": "Sujebi是朝鲜王朝两人享受的特殊美食吗？"
+        },
+        {
           "title": "“한식 좋아해”…박하선, 한국의 ‘소울푸드’ 김 알린다",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NSG5JdUc1b014Ym8yMzI0Nm1CbDdQdjQwTVlHQmpuVzRzQUxYdU8yTVdCWkVzT2E3NDdIMUpLOVdhSTZuSG1Ud05tUDFlcHdDM1ZZYg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42Vk9LWFFWLVJXcnlxZnEwZVA3TWRhVG0zRHNHRnNDZEo5T1dYSDRBN2U5X1ZvSXlVTGxyZWxqQXZSZTJpcWc?oc=5",
           "desc": "",
           "title_en": "“I like Korean food” … Park Ha-sun, Kim Allinda from ‘Soul Food’ in Korea",
           "title_ja": "「韓国料理が好き」…韓国の「ソウルフード」のパク・ハソン、キム・アリンダ",
           "title_zh": "「我喜欢韩国美食」……韩国「Soul Food」的Park Ha-sun和Kim Allinda"
-        },
-        {
-          "title": "태안 로컬푸드직매장, 절임배추 특판…11월 2∼13일 주문 접수",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LS21fLW5lLVhDYXJkUGNCeUpaZnVzZ3ZJcFItV0NpQmYtaE5uMG9FcGdVUEpYdjlwZUZCVWxqMURlRm8yWldTWEhUQUtJbGNKREE?oc=5",
-          "desc": "",
-          "title_en": "Taean Local Food Direct Store, Pickled Cabbage Special Sales… November 2-13 Order Received",
-          "title_ja": "大安郷土食直営店キャベツ漬特売… 11/2 ～ 13受注",
-          "title_zh": "Taean本地食品直营店，腌制卷心菜特价… 11月2-13日接单"
         },
         {
           "title": "[게시판] 중기중앙회 대구본부, 복지시설에 명절음식키트 지원",
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "고든 램지도 고추장 쓴다…영국 내 K-푸드의 부상",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14MV8yQWNmSU1sX25PN0dMMnNYOHFFNHhESkd6S2o3SFVIS2dZMVNqODNoUzJJSTdvYldTV3g2eVMtcDFvRDMzaWZ5UXFjenp2RHBfSm1WUQ?oc=5",
-          "desc": "",
-          "title_en": "Gordon Ramsey Uses Gochujang… The Rise of K-Food in the UK",
-          "title_ja": "Gordon RamseyがGochujangを使用…英国におけるK - Foodの台頭",
-          "title_zh": "戈登·拉姆齐（ Gordon Ramsey ）使用Gochujang……英国K-Food的崛起"
-        },
-        {
-          "title": "태국, ‘비빔밥을 소시지로’ K-푸드 현지화",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kSlo1dWJrdXp6bThWU1lPUzhXNWJvQkNTdmNvbGdnSm01TnRFY1VvVW9aUGxMZk94ZWU2NmFrVHhlYUMyWlRXYWFLVnF5NkFidzFnNFpSZw?oc=5",
-          "desc": "",
-          "title_en": "Thai K-Food Localization of ‘Bibimbap as Sausage’",
-          "title_ja": "「ソーセージとしてのビビンバ」のタイKフードのローカライズ",
-          "title_zh": "「Bibimbap as Sausage」泰国K-Food本地化体验"
-        },
-        {
           "title": "커피도 마시는 시간이 중요하다?",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jcG9IN2h1VFBDRXJWSGV0dmVPQVgtdkV2cWRhVlhZbGNpMDAyeGg3eVIyU3hhM1ozSVhaeFJDam51dGI5ckotZTk4N1hOOS0ybXZ5T0hoVQ?oc=5",
           "desc": "",
           "title_en": "Coffee time is also important?",
           "title_ja": "コーヒータイムも重要ですか？",
           "title_zh": "喝咖啡的时间也很重要？"
+        },
+        {
+          "title": "“사망 위험 23% 낮았다”…25년 추적한 ‘이 식단’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FRUxydVhFNU5HUmo2SkxudDl6M0ZFemFodVdfbmU0aVpodXNaWUpVM0xUYXRWOTB3b0tyQ25tWDV4c0dJT1hlSG9PUjh3OEV5V0F1UENUcw?oc=5",
+          "desc": "",
+          "title_en": "“23% lower risk of death” … ‘this diet‘ followed for 25 years",
+          "title_ja": "「死亡リスクが23 ％低下」…「この食事」は25年間続いた",
+          "title_zh": "“死亡风险降低23 ％” …… “这种饮食”持续了25年"
+        },
+        {
+          "title": "국물 맛이 확 달라져요…채수 제대로 배우기",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OcFlyclNUcnRvOXRtZkZ2aDM5NElOMjU3bjZRSzF4RjZkbVN1UHpGb1VLWDZNVWJrWkFQX0dqZ09hUmNLeHVRemdldkpBSzFsU1VIMUtROA?oc=5",
+          "desc": "",
+          "title_en": "The soup tastes very different… Learning how to drink properly",
+          "title_ja": "スープの味がとても違う…正しい飲み方を学ぶ",
+          "title_zh": "汤的味道非常不同……学习如何正确饮用"
         }
       ]
     }
