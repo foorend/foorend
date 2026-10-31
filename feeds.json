@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T04:26:22Z",
+  "lastUpdated": "2026-10-31T11:47:10Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Steal My Food Itinerary: 3 Days on Prince Edward Island",
+          "link": "https://www.eater.com/travel-guides/995748/steal-my-food-itinerary-3-days-on-prince-edward-island",
+          "desc": "Recently I spent a few days exploring Prince Edward Island, a place that embraces its local foodways with gusto. There’s a complex history here, with ",
+          "title_ko": "내 음식 훔치기 여행 일정: 프린스에드워드아일랜드 3일",
+          "title_ja": "食料盗みの旅程：プリンスエドワードアイランド州で3日間",
+          "title_zh": "偷我的美食行程：爱德华王子岛3日游"
+        },
+        {
+          "title": "We’re in the Era of the $200 Cup of Coffee",
+          "link": "https://www.eater.com/coffee-shops/994101/sey-200-dollar-coffee-finca-sophia",
+          "desc": "A version of this post originally appeared in Eater Today, which spotlights the freshest news and stories from across the food world every day. Subscr",
+          "title_ko": "우리는 커피 $ 200의 시대에 살고 있습니다.",
+          "title_ja": "私たちは$ 200のコーヒーの時代にいます",
+          "title_zh": "我们正处于200 $一杯咖啡的时代"
+        },
+        {
           "title": "Food-Themed Fashion Is Starting to Feel Gluttonous",
           "link": "https://www.eater.com/trends/996747/food-fashion-print-trend",
           "desc": "There was a time, not too long ago, when a purse shaped like a baguette felt like a thrilling — even subversive — novelty. Now, we hardly bat an eye w",
           "title_ko": "음식을 테마로 한 패션이 식욕을 돋우기 시작했습니다.",
           "title_ja": "食べ物をテーマにしたファッションが大食いを感じ始めています",
           "title_zh": "以美食为主题的时尚开始变得贪吃"
-        },
-        {
-          "title": "Even for Desperate Restaurants, Fake Reviews Just Aren’t Worth It",
-          "link": "https://www.eater.com/dining-out/996325/restaurants-fake-yelp-reviews-penalties",
-          "desc": "When Yelp was first launched in 2004, it flopped. The company’s initial model of an email-based referral service failed to take off until its creators",
-          "title_ko": "절망적인 레스토랑의 경우에도 가짜 리뷰는 가치가 없습니다.",
-          "title_ja": "絶望的なレストランであっても、偽のレビューは価値がありません",
-          "title_zh": "即使是绝望的餐厅，虚假评价也不值得"
-        },
-        {
-          "title": "The 38 Best Restaurants in Barcelona, According to a Local Food Guide",
-          "link": "https://www.eater.com/maps/best-restaurants-barcelona-spain",
-          "desc": "From Barcelona’s towering churches and bustling avenues to the sun-drenched beaches and idyllic plazas, it’s obvious why this city captures visitors’ ",
-          "title_ko": "현지 음식 가이드가 선정한 바르셀로나 최고의 레스토랑 38곳",
-          "title_ja": "地元のグルメガイドがおすすめするバルセロナのレストラン38選",
-          "title_zh": "当地美食导游评选的巴塞罗那38家最佳餐厅"
         }
       ]
     }
@@ -136,20 +136,20 @@
           "title_zh": "【今天的星座】今天吃什么…… 10月31日腰带推荐午餐菜单"
         },
         {
-          "title": "의자에 쇠사슬 묶더니…스타벅스, 공짜 얌체족에 '초강수' [차이나 워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tTWYyQ3NaTmwxTV9RY1lqMlhSVlQ0SjI4M2RJWFFVN3dBVm41Y09mb0U3WlBlQVMyd0JDb2FTQ25held4NG5oWjh1TTQxZ0x6MVdkTUgwVWZPQQ?oc=5",
-          "desc": "",
-          "title_en": "I put chains on my chair... Starbucks, 'Super Precipitation' on the free yam [China Watch]",
-          "title_ja": "私は椅子にチェーンを置きます...スターバックス、無料のヤマイモに「スーパー降水量」[チャイナウォッチ]",
-          "title_zh": "我把链子放在椅子上……星巴克，免费山药上的“超级沉淀” [中国手表]"
-        },
-        {
           "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 30일 띠별 추천 점심메뉴",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRam1KNjlTTzNOQWJiTnRhRkxPb0dPYS02M0JvZWE4NFNWZ1RINjY2YWdISS0xZUVmbHpHRi1yRTBGVUU5cXJ6bERQZS14bWdITEdMWnFRWk0ydw?oc=5",
           "desc": "",
           "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 30",
           "title_ja": "【本日の星占い】今日は何を食べようか… 10月30日にベルトでおすすめのランチメニュー",
           "title_zh": "【今天的星座】今天吃什么？ … 10月30日腰带推荐午餐菜单"
+        },
+        {
+          "title": "\"그날이 뭔 날인지 알아?\"…'1000만뷰' 아이돌 영상의 비밀 [김소연의 얼굴전략]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWGFQdWItdjNsSTRIcGl1ek9aWU4tOFNZcDVHNm90VVZWZUdfT0pBYks0Nkl5bFE0U0tkZjVWaWtQRm1OVmlOZUU5dktEQXd6LTNsVm95WlEtZw?oc=5",
+          "desc": "",
+          "title_en": "\"Do you know what day it is?\" … Secrets of '10 Million Views' Idol Video [Kim Soyeon's Face Strategy]",
+          "title_ja": "「今日は何の日か知っていますか？」…「1000万ビュー」アイドルビデオの秘密【キム・ソヨンの顔戦略】",
+          "title_zh": "“你知道今天是什么日子吗？” …… “千万观看”偶像视频的秘密【金秀妍的脸部策略】"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "“一起吃饭还呕吐腹泻？“ ……餐桌上有10,000种口腔细菌‘这种行为’ [Health Time]"
         },
         {
-          "title": "송영민 BGF푸드 대표 “신선식품 공정 자동화율 3년 내 30%로 높일것”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFcXYycjRqRGdOTTJNOFBTV0trYWpvWXlKQ3FpS1ExZkhhYUkyUVFmOGNlckc2YUlLNDFnbk1uUFRrbG55R1g3RlpYbmtBTGFPSmfSAVNBVV95cUxPNlVDSGhhaHBmN3hfYVh5cVlfNDRnMVJqdEsycFFfMFdVTGM4NVFRXzVNSi11b21iQ2ItODBNR1U2V19VbVZjMGV5dWhfU25mQlZlcw?oc=5",
+          "title": "“냉장고에서 당장 꺼내세요”...아깝다고 먹었다간 탈 나는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xQkJzcFhHNXo1Y0FlaXFqaGEzZjMtbzlkLTVLOF9oVEZXR3BuZWtERWl2UGpXRHdNcG84NFowTWxlellYQ2c5UmswMHUyd2FzbHfSAVNBVV95cUxPRUJ5Undja2d5NVdibHIxNE1xUDVJWjhGNkp5b2pudnpBaHVkNlQybl94RWpWaF9aTW5zR1hpSXNCTzZRMGtLcE9YOTlvRVFEUlJ1QQ?oc=5",
           "desc": "",
-          "title_en": "Song Young-min, CEO of BGF Foods, said, “The automation rate of fresh food process will be increased to 30% in three years.”",
-          "title_ja": "BGF Foodsの最高経営責任者（ CEO ）であるSong Young - min氏は、「生鮮食品プロセスの自動化率は3年以内に30 ％に増加する」と述べています。",
-          "title_zh": "BGF Foods首席执行官Song Young-min表示： “三年内，生鲜食品加工的自动化率将提高到30%。”"
+          "title_en": "“Get it out of the fridge right now” … If it's not good enough, I eat ‘this food’ [Healthy Time]",
+          "title_ja": "「今すぐ冷蔵庫から出してください」…十分でない場合は、「この食べ物」を食べます[ヘルシータイム]",
+          "title_zh": "“马上把它从冰箱里拿出来” ……如果不够好，我就吃‘这种食物’ [Healthy Time]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "“你为什么不停地入侵冰箱？“ ……美军基地的杂货店，食物都毁了"
         },
         {
+          "title": "[줌in제주] 여신이 깜빡한 씨앗…제주인의 밥상에서 술잔까지",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EdC1ZNi03Um9pYndELUdTYWJaRWhpb3ZVQTlJTEhNc05NNEFVY3FKU1EzZGJPN0lBaGg1SFdVb0dYekNPMmQ5SzU3NEpvdUhwdXc?oc=5",
+          "desc": "",
+          "title_en": "[Zoom in Jeju] The Seed That the Goddess Forgot... From Jeju's Table to a Drink",
+          "title_ja": "【ズームイン済州】女神が忘れた種子…済州の食卓から飲み物まで",
+          "title_zh": "【放大济州岛】女神遗忘的种子……从济州岛的餐桌到饮料"
+        },
+        {
           "title": "수제비가 가난의 상징?...조선시대엔 고기 들어간 양반 별식이었다 [Book]",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhb3lQLWFKM2dMLTMxb21kb0x4OHVKLU1MNkVLWGVqS21KRUgwcFZUNU0wSHhiZEtvUVhoVzhqbnJxa2dFdFE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94X1Y0Q1F5blllUXg4anpSeC1wX0ItMG5Kd2tUWFN0eEZleVJHNHN1WERJVjh1NEhBSlpxS0VYVmFJUHZLNG4xMy1sLTdEUzczeFdIRg?oc=5",
           "desc": "",
           "title_en": "Handicrafts are a symbol of poverty?... In the Joseon Dynasty, it was a special meal with meat [Book]",
           "title_ja": "手工芸品は貧困の象徴ですか？...朝鮮王朝では、それは肉付きの特別な食事でした[Book]",
           "title_zh": "手工艺品是贫穷的象征？ ……在朝鲜王朝，这是一顿特别的肉食餐[Book]"
-        },
-        {
-          "title": "“한식 좋아해”…박하선, 한국의 ‘소울푸드’ 김 알린다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42Vk9LWFFWLVJXcnlxZnEwZVA3TWRhVG0zRHNHRnNDZEo5T1dYSDRBN2U5X1ZvSXlVTGxyZWxqQXZSZTJpcWc?oc=5",
-          "desc": "",
-          "title_en": "“I like Korean food” … Park Ha-sun, Kim Allinda from ‘Soul Food’ in Korea",
-          "title_ja": "「韓国料理が好き」…韓国の「ソウルフード」のパク・ハソン、キム・アリンダ",
-          "title_zh": "「我喜欢韩国美食」……韩国「Soul Food」的Park Ha-sun和Kim Allinda"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "커피도 마시는 시간이 중요하다?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jcG9IN2h1VFBDRXJWSGV0dmVPQVgtdkV2cWRhVlhZbGNpMDAyeGg3eVIyU3hhM1ozSVhaeFJDam51dGI5ckotZTk4N1hOOS0ybXZ5T0hoVQ?oc=5",
+          "desc": "",
+          "title_en": "Coffee time is also important?",
+          "title_ja": "コーヒータイムも重要ですか？",
+          "title_zh": "喝咖啡的时间也很重要？"
+        },
         {
           "title": "“사망 위험 23% 낮았다”…25년 추적한 ‘이 식단’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FRUxydVhFNU5HUmo2SkxudDl6M0ZFemFodVdfbmU0aVpodXNaWUpVM0xUYXRWOTB3b0tyQ25tWDV4c0dJT1hlSG9PUjh3OEV5V0F1UENUcw?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "The soup tastes very different… Learning how to drink properly",
           "title_ja": "スープの味がとても違う…正しい飲み方を学ぶ",
           "title_zh": "汤的味道非常不同……学习如何正确饮用"
-        },
-        {
-          "title": "커피도 마시는 시간이 중요하다?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jcG9IN2h1VFBDRXJWSGV0dmVPQVgtdkV2cWRhVlhZbGNpMDAyeGg3eVIyU3hhM1ozSVhaeFJDam51dGI5ckotZTk4N1hOOS0ybXZ5T0hoVQ?oc=5",
-          "desc": "",
-          "title_en": "Coffee time is also important?",
-          "title_ja": "コーヒータイムも重要ですか？",
-          "title_zh": "喝咖啡的时间也很重要？"
         }
       ]
     }
