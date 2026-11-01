@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T04:45:24Z",
+  "lastUpdated": "2026-11-01T12:46:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "星巴克的夜间改造如何改变连锁店的美学"
         },
         {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン-トレンド、アイデア、ニュース",
-          "title_zh": "餐厅商业杂志-趋势、创意和新闻"
-        },
-        {
           "title": "Why so many chains are changing their beverage providers",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHlwemh5bXUtd1BVc05yYmFaeFRWcXJhRU03eVdvZVBwMFF1YkRxNTZtc1hXRmdibVJTSEZJN1hsenplX1dNNVpLOTBibDRseUtsc3RCQllOVXdjMmYwbWNLUDdVcUdrbmxBSmNpdEpQMngzV24zWTRPbkI0bE5MaEpRbzQwVk1uQzF2T0ZDb0I1VVNUVE9ZY1JIREQ0aEhMNzkxUEpB?oc=5",
           "desc": "",
           "title_ko": "많은 체인점이 음료 제공업체를 변경하는 이유",
           "title_ja": "なぜ多くのチェーンが飲料プロバイダーを変更しているのか",
           "title_zh": "为什么这么多连锁店都在改变他们的饮料供应商"
+        },
+        {
+          "title": "McDonald's franchisees question hand-breaded chicken",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnR2NTZ6OENtX2xiM01PUXAtakpwVVpxMUxtUDdjRlptc2t6U2tsRGtEbk00cGU3d0xOR191SmkwaWtabXhnNlJMWXZtZmNVMGZDbE0yTVFzZVVKSWdVRjdYNGZGYXE5QV9YSXY4a0taaEJHWjhFa011X1BaTnRLaXRuZzNXNHhCZlFmT20tcEZaZk9LMGVMNGluZVY4S00?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드 가맹점주들이 수제빵 치킨에 대해 질문",
+          "title_ja": "マクドナルドのフランチャイズ加盟店がハンドブレッドチキンに質問",
+          "title_zh": "麦当劳加盟商质疑手工烘焙鸡肉"
         }
       ]
     },
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "경북 의성, 바이오·푸드테크 신성장 비전 선포",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1seUp1RUx1b1oyVEl0TWdpbmNvYlNjTzBkaWc4bERQSDJkRG9OZkxNVmRVeHItNElnZDB2VlVObkJvM29pMmotZHNLMjY1Z1JmR1HSAVNBVV95cUxORzdTTS1vellEMzdPbHpHRnFlSVUwaG5EcjBVTXNhRWxia2N5ZHpQTjVYMUlGLU1iQjBMOVZCTmJtcmJsQjZ5d2RhOWs2eExpc0tPcw?oc=5",
+          "desc": "",
+          "title_en": "Uiseong, Gyeongsangbuk-do, declared a vision for the new growth of bio-food tech",
+          "title_ja": "Gyeongsangbuk - doのUiseongは、バイオフード技術の新しい成長のためのビジョンを宣言しました",
+          "title_zh": "庆尚北道的上城宣布了生物食品技术新增长的愿景"
+        },
+        {
           "title": "“당장 식탁에 올려야겠네”…美 영양사가 추천한 염증 잡는 음식, 뭐길래? [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aTNPRW9YU0hZRkxKdVM1bVpGZjhtdUYyZU90VTFUT2dQRXExVE5BYm9KT3hhNC1TM1hBT3RncEF6N2xBOEZfbDdNWUxUV3RTdVHSAVNBVV95cUxNNHg3cDJ2STQ5N0p3MEtMR25HNzlZVk1FOVkzaGpnQlpOaTIyQkJoLW5PRGROeTNQdzFpeURMeHN2Q3lzTS1GMVBhcjJJSC1qWkxPVQ?oc=5",
           "desc": "",
           "title_en": "“I should put it on the table right away” … What is the inflammation catching food recommended by the nutritionist? [Health time]",
           "title_ja": "「すぐにテーブルの上に置くべきです」…栄養士が推奨する炎症を引き起こす食品は何ですか？【健康時間】",
           "title_zh": "“我应该马上把它放在桌子上” ……营养师推荐的炎症捕捉食物是什么？ [健康时间]"
-        },
-        {
-          "title": "내과 의사도 “큰일 난다, 절대 먹지 말라” 경고…담도암 위험 확 높인다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MVVNuTnNtcG5oSHRveTBnUy1DekhCdi0yMlBsSlMtUW9lMVEyR2hwUGxiUV9WNjg4N1JPQ3gwVHQ3TS1PU1p6T2pHb0psSFRPX3fSAVNBVV95cUxPUlZuS1luQUcweTRiMWVPYmlsU2s4cWtUSmVmRTl6VkxSZ2p6c1BPUlgwMkRHVWM4X1pXa1pCbXFndzBhdFJvbXRlZ0hLbUpPTEdydw?oc=5",
-          "desc": "",
-          "title_en": "Internal medicine physicians also warned against “big things, never eat” … ‘this food‘ increases the risk of biliary tract cancer [Health Time]",
-          "title_ja": "内科医はまた、「大きなものは食べないでください」と警告しました…「この食べ物」は胆道がんのリスクを高めます[Health Time]",
-          "title_zh": "内科医生还警告“大事不吃” …… ‘这种食物‘会增加胆道癌的风险[健康时间]"
         },
         {
           "title": "송영민 BGF푸드 대표 “신선식품 공정 자동화율 3년 내 30%로 높일것”",
@@ -188,14 +188,6 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "[줌in제주] 여신이 깜빡한 씨앗…제주인의 밥상에서 술잔까지",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EdC1ZNi03Um9pYndELUdTYWJaRWhpb3ZVQTlJTEhNc05NNEFVY3FKU1EzZGJPN0lBaGg1SFdVb0dYekNPMmQ5SzU3NEpvdUhwdXc?oc=5",
-          "desc": "",
-          "title_en": "[Zoom in Jeju] The Seed That the Goddess Forgot... From Jeju's Table to a Drink",
-          "title_ja": "【ズームイン済州】女神が忘れた種子…済州の食卓から飲み物まで",
-          "title_zh": "【放大济州岛】女神遗忘的种子……从济州岛的餐桌到饮料"
-        },
-        {
           "title": "“왜 자꾸 냉동고를 해킹하죠?”…美 군기지 식료품점, 음식 다 상했다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfZFpsc0dEUFI4eE1aZWtselZNTWNnd0FwZ1JPbVc0dTN3aE42STNLQnBDbGFwaEo2LTNQUnpSYUNzeTBIN21TSTR5OG9DSHdOTnc?oc=5",
           "desc": "",
@@ -210,6 +202,14 @@
           "title_en": "Sujebi was a special meal enjoyed by both men in the Joseon Dynasty?",
           "title_ja": "スジェビは朝鮮王朝の二人の男性が楽しんだ特別な食事でしたか？",
           "title_zh": "Sujebi是朝鲜王朝两人享受的特殊美食吗？"
+        },
+        {
+          "title": "“한식 좋아해”…박하선, 한국의 ‘소울푸드’ 김 알린다",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42Vk9LWFFWLVJXcnlxZnEwZVA3TWRhVG0zRHNHRnNDZEo5T1dYSDRBN2U5X1ZvSXlVTGxyZWxqQXZSZTJpcWc?oc=5",
+          "desc": "",
+          "title_en": "“I like Korean food” … Park Ha-sun, Kim Allinda from ‘Soul Food’ in Korea",
+          "title_ja": "「韓国料理が好き」…韓国の「ソウルフード」のパク・ハソン、キム・アリンダ",
+          "title_zh": "「我喜欢韩国美食」……韩国「Soul Food」的Park Ha-sun和Kim Allinda"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
         },
         {
-          "title": "실제보다 더 늙어 보인다? 생물학적 나이가 다른 이유",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CS0RXOUlrSnYxZVU5Z1RhalFrS19pbGRCR0NJY3d6NzhKcTlEdGUtSGJtTVluZTZfeGtHU213YlNSb2hNRDZmRTdxekhWLUVrdURrRjZTRQ?oc=5",
+          "title": "셀메드, 프리미엄 펫케어 브랜드 ‘펫메드’ 론칭",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OTVBfU00tdG51UVJOR0wtZnpXREVFd2h2WlB3a3JqSGUxRi05YlJXckxVU0pHakVlLXRjdG9laF91QjREemJWa1VQdUFrWVFTLTFOTlItbw?oc=5",
           "desc": "",
-          "title_en": "Does it look older than it is? Why are biological ages different?",
-          "title_ja": "見た目よりも古いですか？生物学的年齢が異なるのはなぜですか？",
-          "title_zh": "它看起来比实际更古老吗？为什么生物年龄不同？"
+          "title_en": "Selmed Launches Premium Pet Care Brand ‘PetMed’",
+          "title_ja": "Selmed、プレミアムペットケアブランド「PetMed」を発売",
+          "title_zh": "Selmed推出优质宠物护理品牌“PetMed”"
         }
       ]
     }
