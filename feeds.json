@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T12:46:17Z",
+  "lastUpdated": "2026-11-01T19:22:50Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -14,20 +14,20 @@
           "title_zh": "星巴克的夜间改造如何改变连锁店的美学"
         },
         {
-          "title": "Why so many chains are changing their beverage providers",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHlwemh5bXUtd1BVc05yYmFaeFRWcXJhRU03eVdvZVBwMFF1YkRxNTZtc1hXRmdibVJTSEZJN1hsenplX1dNNVpLOTBibDRseUtsc3RCQllOVXdjMmYwbWNLUDdVcUdrbmxBSmNpdEpQMngzV24zWTRPbkI0bE5MaEpRbzQwVk1uQzF2T0ZDb0I1VVNUVE9ZY1JIREQ0aEhMNzkxUEpB?oc=5",
-          "desc": "",
-          "title_ko": "많은 체인점이 음료 제공업체를 변경하는 이유",
-          "title_ja": "なぜ多くのチェーンが飲料プロバイダーを変更しているのか",
-          "title_zh": "为什么这么多连锁店都在改变他们的饮料供应商"
-        },
-        {
           "title": "McDonald's franchisees question hand-breaded chicken",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnR2NTZ6OENtX2xiM01PUXAtakpwVVpxMUxtUDdjRlptc2t6U2tsRGtEbk00cGU3d0xOR191SmkwaWtabXhnNlJMWXZtZmNVMGZDbE0yTVFzZVVKSWdVRjdYNGZGYXE5QV9YSXY4a0taaEJHWjhFa011X1BaTnRLaXRuZzNXNHhCZlFmT20tcEZaZk9LMGVMNGluZVY4S00?oc=5",
           "desc": "",
           "title_ko": "맥도날드 가맹점주들이 수제빵 치킨에 대해 질문",
           "title_ja": "マクドナルドのフランチャイズ加盟店がハンドブレッドチキンに質問",
           "title_zh": "麦当劳加盟商质疑手工烘焙鸡肉"
+        },
+        {
+          "title": "Why so many chains are changing their beverage providers",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHlwemh5bXUtd1BVc05yYmFaeFRWcXJhRU03eVdvZVBwMFF1YkRxNTZtc1hXRmdibVJTSEZJN1hsenplX1dNNVpLOTBibDRseUtsc3RCQllOVXdjMmYwbWNLUDdVcUdrbmxBSmNpdEpQMngzV24zWTRPbkI0bE5MaEpRbzQwVk1uQzF2T0ZDb0I1VVNUVE9ZY1JIREQ0aEhMNzkxUEpB?oc=5",
+          "desc": "",
+          "title_ko": "많은 체인점이 음료 제공업체를 변경하는 이유",
+          "title_ja": "なぜ多くのチェーンが飲料プロバイダーを変更しているのか",
+          "title_zh": "为什么这么多连锁店都在改变他们的饮料供应商"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"중국산 믿기 힘들어요\"…호주에서 인기 폭발한 한국 음식",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CbkNJQjh0a25nR0JVcXd6cEZpbWpHQ1dySXZ0ZHUzRTd5WmdFcV9vZ0w4aWdsNG8tS3F0Q0VwYkZQR1JPQ05tSDdval90eEFIVXRoN3pWTnUzQQ?oc=5",
+          "desc": "",
+          "title_en": "“Unbelievable Made in China” … Korean Food Explodes in Popularity in Australia",
+          "title_ja": "「信じられないほどの中国製」…韓国料理がオーストラリアで大人気",
+          "title_zh": "“令人难以置信的中国制造” ……韩国食品在澳大利亚大受欢迎"
+        },
+        {
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 2일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ocEtJZnhvT0RlZVFtOFVKOU1oMlgtTUkySDk0YTZkRmVDSld2eU1pYWtCd05NWFR5ZlpJN1BIZGYwLVlnMTVHVGQ1azExWnc0WDBnN0VjQXF3Zw?oc=5",
+          "desc": "",
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on November 2",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 11月2日にベルトでおすすめのランチメニュー",
+          "title_zh": "【今天的星座】今天吃什么？ … 11月2日腰带推荐午餐菜单"
+        },
+        {
           "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 1일 띠별 추천 점심메뉴",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wTnhHRVoxa2dnLUVBZ0ZUTFRxYk9aNTFNYTZ0Rklpek1VQmt3N3NwSnZXNTVYRUpHV2txOTNTSFZmMHZ3UXg5NTBlbGM2ZVM4NWVxNWQ5Y0hnUQ?oc=5",
           "desc": "",
           "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on November 1",
           "title_ja": "【本日の星占い】今日は何を食べようか… 11月1日にベルトでおすすめのランチメニュー",
           "title_zh": "【今天的星座】今天吃什么？ … 11月1日腰带推荐午餐菜单"
-        },
-        {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 31일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LdkQ0TVlUVWNjc1lNWGp6OHNrOWFucDhZNEExVEtDSkFoTGVGY1VJdm12ZkJFaGVKNVVsa3hubG5BUmVXNnZpem9tVUlhek1iRkFCUGJuem5Mdw?oc=5",
-          "desc": "",
-          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on October 31",
-          "title_ja": "【本日の星占い】今日は何を食べようか… 10月31日にベルトでおすすめのランチメニュー",
-          "title_zh": "【今天的星座】今天吃什么…… 10月31日腰带推荐午餐菜单"
-        },
-        {
-          "title": "\"그날이 뭔 날인지 알아?\"…'1000만뷰' 아이돌 영상의 비밀 [김소연의 얼굴전략]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWGFQdWItdjNsSTRIcGl1ek9aWU4tOFNZcDVHNm90VVZWZUdfT0pBYks0Nkl5bFE0U0tkZjVWaWtQRm1OVmlOZUU5dktEQXd6LTNsVm95WlEtZw?oc=5",
-          "desc": "",
-          "title_en": "\"Do you know what day it is?\" … Secrets of '10 Million Views' Idol Video [Kim Soyeon's Face Strategy]",
-          "title_ja": "「今日は何の日か知っていますか？」…「1000万ビュー」アイドルビデオの秘密【キム・ソヨンの顔戦略】",
-          "title_zh": "“你知道今天是什么日子吗？” …… “千万观看”偶像视频的秘密【金秀妍的脸部策略】"
         }
       ]
     },
@@ -157,14 +157,6 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
-        {
-          "title": "경북 의성, 바이오·푸드테크 신성장 비전 선포",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1seUp1RUx1b1oyVEl0TWdpbmNvYlNjTzBkaWc4bERQSDJkRG9OZkxNVmRVeHItNElnZDB2VlVObkJvM29pMmotZHNLMjY1Z1JmR1HSAVNBVV95cUxORzdTTS1vellEMzdPbHpHRnFlSVUwaG5EcjBVTXNhRWxia2N5ZHpQTjVYMUlGLU1iQjBMOVZCTmJtcmJsQjZ5d2RhOWs2eExpc0tPcw?oc=5",
-          "desc": "",
-          "title_en": "Uiseong, Gyeongsangbuk-do, declared a vision for the new growth of bio-food tech",
-          "title_ja": "Gyeongsangbuk - doのUiseongは、バイオフード技術の新しい成長のためのビジョンを宣言しました",
-          "title_zh": "庆尚北道的上城宣布了生物食品技术新增长的愿景"
-        },
         {
           "title": "“당장 식탁에 올려야겠네”…美 영양사가 추천한 염증 잡는 음식, 뭐길래? [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aTNPRW9YU0hZRkxKdVM1bVpGZjhtdUYyZU90VTFUT2dQRXExVE5BYm9KT3hhNC1TM1hBT3RncEF6N2xBOEZfbDdNWUxUV3RTdVHSAVNBVV95cUxNNHg3cDJ2STQ5N0p3MEtMR25HNzlZVk1FOVkzaGpnQlpOaTIyQkJoLW5PRGROeTNQdzFpeURMeHN2Q3lzTS1GMVBhcjJJSC1qWkxPVQ?oc=5",
@@ -174,12 +166,20 @@
           "title_zh": "“我应该马上把它放在桌子上” ……营养师推荐的炎症捕捉食物是什么？ [健康时间]"
         },
         {
-          "title": "송영민 BGF푸드 대표 “신선식품 공정 자동화율 3년 내 30%로 높일것”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFcXYycjRqRGdOTTJNOFBTV0trYWpvWXlKQ3FpS1ExZkhhYUkyUVFmOGNlckc2YUlLNDFnbk1uUFRrbG55R1g3RlpYbmtBTGFPSmfSAVNBVV95cUxPNlVDSGhhaHBmN3hfYVh5cVlfNDRnMVJqdEsycFFfMFdVTGM4NVFRXzVNSi11b21iQ2ItODBNR1U2V19VbVZjMGV5dWhfU25mQlZlcw?oc=5",
+          "title": "‘4000원 삼겹살’ 잇는 초가성비…정호영·양치승, 사라다빵 이어 ‘거지투어’ 2탄",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tcTlaNlEtVXdIclZ5ZWctUFQ5THp2R1NmQW5zZmYzZmNSOUEzWlBRSHVfVDJwdTBMNFpTUkFUNVVyM1lJM2FZamVmMUluejdXaWfSAVNBVV95cUxOQ1JBSldHdERZaVU2eTBqQzYxaGVLMGlZX1k1V0tJSUhheUR6Qnpfb01KMzlPbnBYWW9nZloyeGt4VkNiX19SYjJrTFFCQzJuVm1WVQ?oc=5",
           "desc": "",
-          "title_en": "Song Young-min, CEO of BGF Foods, said, “The automation rate of fresh food process will be increased to 30% in three years.”",
-          "title_ja": "BGF Foodsの最高経営責任者（ CEO ）であるSong Young - min氏は、「生鮮食品プロセスの自動化率は3年以内に30 ％に増加する」と述べています。",
-          "title_zh": "BGF Foods首席执行官Song Young-min表示： “三年内，生鲜食品加工的自动化率将提高到30%。”"
+          "title_en": "‘4000 won pork belly’ has a super-expensive ratio... Jeong Ho-young · Yang Yi-sung, Salad bread followed by ‘Beggar Tour’ 2",
+          "title_ja": "「4000ウォン豚バラ肉」は超高価な比率…チョン・ホヨン・ヤン・イソン、サラダパンに続く「乞食ツアー」2",
+          "title_zh": "“4000韩元猪肚”的比例超级昂贵…… Jeong Ho-young · Yang Yi-sung ，沙拉面包，然后是“乞丐之旅” 2"
+        },
+        {
+          "title": "경북 의성, 바이오·푸드테크 신성장 비전 선포",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1seUp1RUx1b1oyVEl0TWdpbmNvYlNjTzBkaWc4bERQSDJkRG9OZkxNVmRVeHItNElnZDB2VlVObkJvM29pMmotZHNLMjY1Z1JmR1HSAVNBVV95cUxORzdTTS1vellEMzdPbHpHRnFlSVUwaG5EcjBVTXNhRWxia2N5ZHpQTjVYMUlGLU1iQjBMOVZCTmJtcmJsQjZ5d2RhOWs2eExpc0tPcw?oc=5",
+          "desc": "",
+          "title_en": "Uiseong, Gyeongsangbuk-do, declared a vision for the new growth of bio-food tech",
+          "title_ja": "Gyeongsangbuk - doのUiseongは、バイオフード技術の新しい成長のためのビジョンを宣言しました",
+          "title_zh": "庆尚北道的上城宣布了生物食品技术新增长的愿景"
         }
       ]
     },
@@ -218,14 +218,6 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "“사망 위험 23% 낮았다”…25년 추적한 ‘이 식단’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FRUxydVhFNU5HUmo2SkxudDl6M0ZFemFodVdfbmU0aVpodXNaWUpVM0xUYXRWOTB3b0tyQ25tWDV4c0dJT1hlSG9PUjh3OEV5V0F1UENUcw?oc=5",
-          "desc": "",
-          "title_en": "“23% lower risk of death” … ‘this diet‘ followed for 25 years",
-          "title_ja": "「死亡リスクが23 ％低下」…「この食事」は25年間続いた",
-          "title_zh": "“死亡风险降低23 ％” …… “这种饮食”持续了25年"
-        },
-        {
           "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
           "desc": "",
@@ -234,12 +226,20 @@
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
         },
         {
-          "title": "셀메드, 프리미엄 펫케어 브랜드 ‘펫메드’ 론칭",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OTVBfU00tdG51UVJOR0wtZnpXREVFd2h2WlB3a3JqSGUxRi05YlJXckxVU0pHakVlLXRjdG9laF91QjREemJWa1VQdUFrWVFTLTFOTlItbw?oc=5",
+          "title": "커피 대신 마셔볼까?…티젠, 카페인 프리 ‘카페 오르조 오트 라떼’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJUExXcmlOSUFWazF4TGo3cGltTWRKTDg5X1gzVHEwV3M4NXV2ZGtIN01wWGtSbG5uUUJER3IyeXUzc01ENlRsdnR5MDE1TUM5R01CdU4wNA?oc=5",
           "desc": "",
-          "title_en": "Selmed Launches Premium Pet Care Brand ‘PetMed’",
-          "title_ja": "Selmed、プレミアムペットケアブランド「PetMed」を発売",
-          "title_zh": "Selmed推出优质宠物护理品牌“PetMed”"
+          "title_en": "Should I drink it instead of coffee? … Teasen, caffeine-free ‘Café Orzo Haute Latte’",
+          "title_ja": "コーヒーの代わりに飲むべきでしょうか？ …ティーゼン、カフェインフリーの「カフェ・オルツォ・オート・ラテ」",
+          "title_zh": "我应该喝咖啡而不是喝咖啡吗？ ……茶壶，不含咖啡因的「Café Orzo Haute Latte」"
+        },
+        {
+          "title": "홍콩 감성 담은 가을 만찬…롯데호텔앤리조트의 ‘만추미식’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01VVFDY1lhRUtlb1RvRFBkMmRHQ2JtOWpyZGJuX29FZlE4aDIySXhhdXZIeUxDLVdIeGdGUDlXcE81UjRxMmpfWkVDNEw4bUtFb0tVVkNUZw?oc=5",
+          "desc": "",
+          "title_en": "A Hong Kong-inspired autumn dinner… Lotte Hotels & Resorts‘ Manchumisik ’",
+          "title_ja": "香港風の秋のディナー…ロッテホテル＆リゾート「満洲」",
+          "title_zh": "以香港为灵感的秋季晚餐……乐天酒店及度假村“满洲”"
         }
       ]
     }
