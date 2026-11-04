@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-11-04T01:03:18Z",
+  "lastUpdated": "2026-11-04T10:31:54Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "McDonald's franchisees question hand-breaded chicken",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnR2NTZ6OENtX2xiM01PUXAtakpwVVpxMUxtUDdjRlptc2t6U2tsRGtEbk00cGU3d0xOR191SmkwaWtabXhnNlJMWXZtZmNVMGZDbE0yTVFzZVVKSWdVRjdYNGZGYXE5QV9YSXY4a0taaEJHWjhFa011X1BaTnRLaXRuZzNXNHhCZlFmT20tcEZaZk9LMGVMNGluZVY4S00?oc=5",
-          "desc": "",
-          "title_ko": "맥도날드 가맹점주들이 수제빵 치킨에 대해 질문",
-          "title_ja": "マクドナルドのフランチャイズ加盟店がハンドブレッドチキンに質問",
-          "title_zh": "麦当劳加盟商质疑手工烘焙鸡肉"
-        },
         {
           "title": "We know how Trump and Obama feel about The Cheesecake Factory. How do consumers feel?",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMTBuRkJtblR4R0lLY29CQTZ3bWFJUjBBYVNPRzhaTXlkaE9Pek5pZ01kYnNuU0JleUx4X3hWSndEVk9yMTc1S0Z2TnJvcjBJTnRUOEU5NW9QbDZTWXZWREYybkNQanVqQTNhdnFidURaa3AybE5SWTB4Wks4SzRGRVNPQ0FXMGdUOUUzeHV3SFZBZ1p2bVNzV2VJU1NtUzB3UlZvWC1va09aOTlWYVpoWFhGWDUtbF9OVDhaUEpxTVVNcE9mT0lB?oc=5",
@@ -20,6 +12,14 @@
           "title_ko": "우리는 트럼프와 오바마가 치즈케이크 공장에 대해 어떻게 생각하는지 알고 있습니다. 소비자들은 어떻게 느끼나요?",
           "title_ja": "私たちは、トランプとオバマがチーズケーキ工場についてどのように感じているかを知っています。消費者はどのように感じていますか？",
           "title_zh": "我们知道特朗普和奥巴马对芝士蛋糕工厂的看法。消费者的感受如何？"
+        },
+        {
+          "title": "McDonald's franchisees question hand-breaded chicken",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnR2NTZ6OENtX2xiM01PUXAtakpwVVpxMUxtUDdjRlptc2t6U2tsRGtEbk00cGU3d0xOR191SmkwaWtabXhnNlJMWXZtZmNVMGZDbE0yTVFzZVVKSWdVRjdYNGZGYXE5QV9YSXY4a0taaEJHWjhFa011X1BaTnRLaXRuZzNXNHhCZlFmT20tcEZaZk9LMGVMNGluZVY4S00?oc=5",
+          "desc": "",
+          "title_ko": "맥도날드 가맹점주들이 수제빵 치킨에 대해 질문",
+          "title_ja": "マクドナルドのフランチャイズ加盟店がハンドブレッドチキンに質問",
+          "title_zh": "麦当劳加盟商质疑手工烘焙鸡肉"
         },
         {
           "title": "Why so many chains are changing their beverage providers",
@@ -52,12 +52,12 @@
           "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
         },
         {
-          "title": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOENiSW9IR2xIaG9BNkhpYnhEWTNmNVQ1VEhkXzh4a2Z3bWZ5a1UwSDY1Q1RUU0pPZUV2WDZBazJHSUNnTVNuWE02VlZLYVY0RTNGWVpmVl9PWjVrYUpNLXBrM0JMMWlrblZVanlYWEhzdFBycVp6Sml4R2NrTTd0MTJtejNZZw?oc=5",
+          "title": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
           "desc": "",
-          "title_ko": "맥플러리가 모든 맥도날드 아이스크림 머신의 상태를 실시간으로 알려주는 '맥브로큰' 웹사이트",
-          "title_ja": "「McBroken」ウェブサイトは、マクフラリーファンにすべてのマクドナルドのアイスクリームマシンの状態をリアルタイムで伝える",
-          "title_zh": "“McBroken”网站实时告诉McFlurry粉丝每台麦当劳冰淇淋机的状态"
+          "title_ko": "놓치고 싶지 않은 음식 대림절 달력 20선 — 본 마만, 윌리엄스 소노마 등",
+          "title_ja": "Bonne Maman、Williams Sonomaなどのおすすめフードアデントカレンダー20選",
+          "title_zh": "Bonne Maman、Williams Sonoma等20个不容错过的美食降临日历"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"중국산 믿기 힘들어요\"…호주에서 인기 폭발한 한국 음식",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CbkNJQjh0a25nR0JVcXd6cEZpbWpHQ1dySXZ0ZHUzRTd5WmdFcV9vZ0w4aWdsNG8tS3F0Q0VwYkZQR1JPQ05tSDdval90eEFIVXRoN3pWTnUzQQ?oc=5",
+          "title": "\"골프도 안 치는데 왜 가?\"…요즘 골프장 찾는 뜻밖의 이유",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sOC0xTEU3azZtMFpWb01zeG5IcXBWY0RYOXVxVno5emxjVUEtNWFHeDJwMkE5MDRLZlU4ZVppYnNRbF92NFNkZnZmb1FaNWY3Z285NElKMjUwZw?oc=5",
           "desc": "",
-          "title_en": "“Unbelievable Made in China” … Korean Food Explodes in Popularity in Australia",
-          "title_ja": "「信じられないほどの中国製」…韓国料理がオーストラリアで大人気",
-          "title_zh": "“令人难以置信的中国制造” ……韩国食品在澳大利亚大受欢迎"
+          "title_en": "\"Why are you going if you don't even play golf?\" … an unexpected reason to look for a golf course these days",
+          "title_ja": "「ゴルフさえしないのに、どうして行くの？「…最近ゴルフコースを探す思いがけない理由",
+          "title_zh": "“不打高尔夫干嘛要去？“ ……如今寻找高尔夫球场的意外原因"
         },
         {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 4일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDbWZjdnRuN2JsV0trX3BqUUlFcFJXb0dGdUYzSTR5d1lsQXgwanYzbE1pNUxPWl9FQnI3WEpXdDFzRnZZUjRjcjJLT0o1Z3FtZmJKSHBMTE5rUQ?oc=5",
+          "title": "롯데웰푸드, 뉴욕 타임스스퀘어 전광판에 뜬 빼빼로데이…'스트레이 키즈'와 함께 즐겨요",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRGt3U05WTWdjeXhlcHhWY0FsSmJFeUNINzRQUkR1bUl4M2pGSl9GMF9wSk9UekZXNk1ZWVFMMzFpZU5udEctLUdQYW45RHZCZUxyQXplS3JHQQ?oc=5",
           "desc": "",
-          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on November 4",
-          "title_ja": "【本日の星占い】今日は何を食べようか… 11月4日にベルトでおすすめのランチメニュー",
-          "title_zh": "【今天的星座】今天吃什么？ … 11月4日腰带推荐午餐菜单"
+          "title_en": "Lotte Well Food, New York Times Square… Enjoy with 'Stray Kids'",
+          "title_ja": "ロッテウェルフード、ニューヨークタイムズスクエア…「迷子の子供たち」と楽しもう",
+          "title_zh": "乐天美食，纽约时代广场…与「流浪儿童」一起享受"
         },
         {
-          "title": "페리카나, 푸드테크와 업무협약 체결…매장 디지털 전환 추진",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tLVNrRmNvUjMyaGxwcl9JUGNPMEdCMmYyZXdkek1hN0xpeTlKU1NjX085QmpPOVVyckV5VUJmRDNENW96VllLYm5PWmlNa0NNTmc2LTFIVjZkMzBaakdGQ3pRRnY2cTdGY01YdA?oc=5",
+          "title": "[포토] 2026 푸드위크 코리아 개막",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxbGZBWFhwZnRycFZJemllZk01VU04VlB6Q3ZRaXpmXzNLZ290di1CbVJyeDBMTnl5XzFTanM4MDBSSGFTbHhJemlCeEozMWRHeVMyRjcyMmowQQ?oc=5",
           "desc": "",
-          "title_en": "Pericana Signs Business Agreement with Food Tech to Drive Store Digital Transformation",
-          "title_ja": "Pericana、フードテックとのビジネス契約を締結し、店舗のデジタル変革を推進",
-          "title_zh": "Pericana与Food Tech签署业务协议，推动商店数字化转型"
+          "title_en": "[Photo] Opening of 2026 Food Week Korea",
+          "title_ja": "【写真】2026年フードウィーク韓国開幕",
+          "title_zh": "【照片】2026年韩国食品周开幕"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "“당장 식탁에 올려야겠네”…美 영양사가 추천한 염증 잡는 음식, 뭐길래? [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aTNPRW9YU0hZRkxKdVM1bVpGZjhtdUYyZU90VTFUT2dQRXExVE5BYm9KT3hhNC1TM1hBT3RncEF6N2xBOEZfbDdNWUxUV3RTdVHSAVNBVV95cUxNNHg3cDJ2STQ5N0p3MEtMR25HNzlZVk1FOVkzaGpnQlpOaTIyQkJoLW5PRGROeTNQdzFpeURMeHN2Q3lzTS1GMVBhcjJJSC1qWkxPVQ?oc=5",
+          "title": "2026 푸드위크 코리아",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DQTlHR1pfLXBCYTV0d0t2VzZuUFZCOVIxOWRBV3pfY1dSb0RPT3lkekdqcHA4dEJFbk10VTVRb0N0ZzlLUWpPQlpscGV6Q3ZCeWfSAVNBVV95cUxNeEY0VTVmNnl4U3FUWUh0cTk5d3luZGpEMUgwamhPT0ZnMWZ2NHpCaGJwdWdUUzZsZ1lPWndzOElWcURFcDdjV1dVU0U0OWZMa3hJdw?oc=5",
           "desc": "",
-          "title_en": "“I should put it on the table right away” … What is the inflammation catching food recommended by the nutritionist? [Health time]",
-          "title_ja": "「すぐにテーブルの上に置くべきです」…栄養士が推奨する炎症を引き起こす食品は何ですか？【健康時間】",
-          "title_zh": "“我应该马上把它放在桌子上” ……营养师推荐的炎症捕捉食物是什么？ [健康时间]"
+          "title_en": "2026 Food Week Korea",
+          "title_ja": "2026年フードウィーク韓国",
+          "title_zh": "2026年韩国食品周"
         },
         {
-          "title": "현대그린푸드, 3분기 영업이익 전년比 0.7%↑…외식사업 힘준다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BQTFLM0xneVdjREdVRVhHaVRQYkFjRG5WSWtNM2xkNjI1MUxoQ1ZSMTJHc00xcGVMc3JzWXYwazI4bjRiZUxoWjBEekxOUTNsMHfSAVNBVV95cUxOdU5zQlBjcmxmaTVDUEdYWGJQS0hIWXVfcmNCWXBBVXdjTlBJS1FGLWRzUWxxb2dFSTlMLU5ZajNoaGlDZi00emdJNjZQNmVNOE9Hcw?oc=5",
+          "title": "“편의점마다 다른 맛”…‘도장깨기’ 부르는 가나 초콜릿",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FRnl3d25jc1NHOXBRRHhSRUQ2cmRCcFduT1RDTG5UVmdBUmRTVjRnejlZcmdjOEFyQ2JvT0xER0pMNXZXbm1aMHg1LUw5NmJHcGfSAVNBVV95cUxOS19GRDZzak1mQzVmUE54dnNWVDRza3NCVnJCZjh0RTBreUlueFA0V29GU3p3OFFjZTRKR2gxVlB3bTJpaXowS2dkNDM4Y2dxdko3TQ?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food, Q3 Operating Profit: 0.7% YoY↑… The Dining Business is Strong",
-          "title_ja": "現代グリーンフード、第3四半期の営業利益：前年同期比0.7 ％↑ …ダイニング事業は堅調",
-          "title_zh": "现代绿色食品，第三季度营业利润：同比增长0.7%↑ ……餐饮业务强劲"
+          "title_en": "“Different flavors at different convenience stores” … Ghanaian chocolate called ’stamp breaking'",
+          "title_ja": "「さまざまなコンビニエンスストアでさまざまな味」…「スタンプブレイキング」と呼ばれるガーナのチョコレート",
+          "title_zh": "“不同的便利店提供不同的口味” ……加纳巧克力被称为“拆邮票”"
         },
         {
-          "title": "뱃속에 쌓인 지방 싹 잡는다…의사가 과식한 다음날 먹으라는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaTDBTb2RrM3RsRUpYMGlOa0NnZWFkdUtvTXAwNmctVDg3VzhURTRlMm5FM19lcTlLZWxoMHgzZnJWb3Y0OXRjbHh5ZjVaUlVpMEHSAVNBVV95cUxOWFY3dTY0eDl6ZXEwcWszSXNzb1prLWdoZTBLYk9RUkUtTEhvMGNVbXdpZDAtOU1lYkRYR3pLZHZwRERmWVdHYTIzWTA4am9qZjRoTQ?oc=5",
+          "title": "2026 푸드위크 코리아",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUWXBpUHJ3WXFUZlNKRTdsTUk4blFCaTVMbXdhcklRMnhGWmZqc2tqSEFmLTVWMThJTDdfNHN6NXJlcW1saHBGVkQ4NUNneFR0ZU9B0gFTQVVfeXFMUFRZcGlQcndZcVRmU0pFN2xNSThuUUJpNUxtd2FySVEyeEZaZmpza2pIQWYtNVYxOElMN180c3o1cmVxbWxocEZWRDg1Q2d4VHRlT0E?oc=5",
           "desc": "",
-          "title_en": "It catches fat accumulated in the stomach… ‘This food‘ to be eaten the day after the doctor overeats [Health Time]",
-          "title_ja": "胃に蓄積された脂肪をキャッチします…医師が過食した翌日に食べる「この食べ物」【健康時間】",
-          "title_zh": "它会捕获积聚在胃中的脂肪……医生暴饮暴食后第二天吃的“这种食物” [健康时间]"
+          "title_en": "2026 Food Week Korea",
+          "title_ja": "2026年フードウィーク韓国",
+          "title_zh": "2026年韩国食品周"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "在中国做“烤鸡” ？ ……韩国食品，海外工厂匆忙，出口数量不足"
         },
         {
-          "title": "“한국 왔으면 이건 꼭 먹어봐야지”…외국인 입맛 당기는 K-푸드",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04cjVBQmtwRWxIa0xQUkM1TkJPemh3LU1DODRqRnRWdW1sc3ZYVnBlaWVDWWtrT1JWeUxGaHpOYXgzZ1pHWW4wT0VfTVB4OUVDNURhWA?oc=5",
+          "title": "'K-푸드 세계로' 푸드위크 코리아 개막…46개국 1천개사 참가",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJM2htUGtHRm5IWEM5UzNSSHVpdU1JcVctT3UyRV81YUhlWk9DcEpKOGI2S0NJU3hKVkNpUUZIbWt1RmVTeDZPbEgxZFY4eENJTEE?oc=5",
           "desc": "",
-          "title_en": "“If you come to Korea, you must try this” … K-food that attracts foreign taste buds",
-          "title_ja": "「韓国に来たらぜひ試してみてください」…外国人の味覚を引き付けるK - food",
-          "title_zh": "“如果你来韩国，你一定要尝尝这个” ……吸引外国味蕾的韩国食品"
+          "title_en": "'Into the World of K-Food' Food Week Korea Opens… 1,000 Exhibitors from 46 Countries Participated",
+          "title_ja": "「INTO THE WORLD OF K - FOOD」FOOD WEEK韓国開幕… 46カ国1,000社が出展",
+          "title_zh": "“INTO THE WORLD OF K-FOOD”韩国食品周开幕……来自46个国家的1,000家参展商参加"
         },
         {
-          "title": "현대그린푸드, 3분기 영업익 448억원…작년 대비 0.7% 증가",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0SExFazBuY24tVkxkaFAtNDVOSWFVS1hjNkkxREIycUlHbXZUa1ZHWHQxd0VkR3BnNzFkTXN4R0psR21QR2EwSXNkbUFHNGxHU0E?oc=5",
+          "title": "제철 식품과 컵라면을 함께 선보인 ‘2026 푸드위크 코리아’",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydGpFMlpvVjVOZlFoMTJTTmFvYWUxWXVnTURjLW1sLURMVWtWUUdVSlhnU2FiX2ttSElqN3NMTTJfeUd0ZkxTaE05aFliQjJRQlNZSEJ3?oc=5",
           "desc": "",
-          "title_en": "Hyundai Green Food, Q3 operating profit of KRW 44.8 billion… 0.7% increase compared to last year",
-          "title_ja": "現代グリーンフード、第3四半期営業利益448億ウォン…前年比0.7%増",
-          "title_zh": "现代绿色食品，第三季度营业利润448亿韩元……比去年增长0.7%"
+          "title_en": "‘2026 Food Week Korea' showcases seasonal foods and cup noodles",
+          "title_ja": "「2026 Food Week Korea」で季節の食べ物とカップ麺を紹介",
+          "title_zh": "“2026年韩国美食周”展示时令美食和杯面"
         }
       ]
     },
@@ -218,12 +218,12 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "“사망 위험 23% 낮았다”…25년 추적한 ‘이 식단’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FRUxydVhFNU5HUmo2SkxudDl6M0ZFemFodVdfbmU0aVpodXNaWUpVM0xUYXRWOTB3b0tyQ25tWDV4c0dJT1hlSG9PUjh3OEV5V0F1UENUcw?oc=5",
+          "title": "한국허벌라이프, 창립 30주년 프로모션 진행",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xWWMyUlk0VlFFRmRWV2lCdFNJS1c1aldSb3N4UC1ueDA0SEd6eVVEQVFaOVFvVFJCUUFaUno0U0xlN0kwZlFnZXBkdXQzYnFfaEpsV09wTQ?oc=5",
           "desc": "",
-          "title_en": "“23% lower risk of death” … ‘this diet‘ followed for 25 years",
-          "title_ja": "「死亡リスクが23 ％低下」…「この食事」は25年間続いた",
-          "title_zh": "“死亡风险降低23 ％” …… “这种饮食”持续了25年"
+          "title_en": "Herbalife Korea, 30th Anniversary Promotion",
+          "title_ja": "ハーバライフコリア30周年記念キャンペーン",
+          "title_zh": "康宝莱韩国30周年促销"
         },
         {
           "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
