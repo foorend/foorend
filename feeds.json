@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T10:31:54Z",
+  "lastUpdated": "2026-11-04T19:26:34Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "Mexican Seafood and Natural Wines Are in the Spotlight at This New NYC Restaurant",
+          "link": "https://www.eater.com/dining-out/998478/camaron-peludo-mexican-seafood-wine-bar-nyc-prep",
+          "desc": "Known for their roasted and slow-cooked meats at Taqueria Ramirez, Tania Apolinar and Giovanni Cervantes partnered with chef Carlos Barrera to open a ",
+          "title_ko": "뉴욕의 새로운 레스토랑에서 멕시코 해산물과 내추럴 와인을 맛보세요",
+          "title_ja": "この新しいニューヨークのレストランで注目を集めるメキシコのシーフードとナチュラルワイン",
+          "title_zh": "这家全新纽约餐厅的聚光灯下是墨西哥海鲜和天然葡萄酒"
+        },
+        {
+          "title": "The Best Food Gifts Under $25 (That Feel Thoughtful and Chic)",
+          "link": "https://www.eater.com/shopping/921848/best-food-gifts-under-25-dollars",
+          "desc": "Eater’s under-$25 holiday gift guide is, unabashedly, one of my favorites to curate during gift guide season — both as a shopping writer and a writer ",
+          "title_ko": "$ 25 미만의 최고의 음식 선물 (사려 깊고 세련된 느낌)",
+          "title_ja": "$ 25未満の最高の食品ギフト（思いやりとシックさを感じる）",
+          "title_zh": "25 $以下的最佳美食礼品（体贴时尚）"
+        },
+        {
           "title": "How Flavored Syrup Became a Coffee-Shop Culture War",
           "link": "https://www.eater.com/dining-out/997706/house-made-syrup-coffee-shop-trend-torani-monin-backlash",
           "desc": "In a TikTok video with over 82,000 likes, the person behind the camera zooms into the shelves at a Pennsylvania coffee shop, three rows stacked with a",
           "title_ko": "시럽이 커피숍 문화 전쟁이 된 방법",
           "title_ja": "味付けされたシロップがコーヒーショップの文化戦争になった経緯",
           "title_zh": "调味糖浆如何成为咖啡店文化大战"
-        },
-        {
-          "title": "Beyond the Iconic Potato Dish at New NYC Restaurant Somssi",
-          "link": "https://www.eater.com/video/997656/somssi-nyc-restaurant-potato-dish-prep",
-          "desc": "You’ve probably heard of the Potato Potato Potato dish at Somssi, the newest restaurant from Na:eun Hospitality. The triple-layered potato dish is the",
-          "title_ko": "뉴욕의 유명 레스토랑 솜시 (Somssi) 에서 즐기는 감자 요리",
-          "title_ja": "ニューヨークの新しいレストラン「Somssi」で人気のジャガイモ料理を堪能しよう",
-          "title_zh": "在纽约新餐厅Somssi品尝超越标志性马铃薯菜肴"
-        },
-        {
-          "title": "NYC’s Hottest New Wine Bar Started With a DM Slide",
-          "link": "https://www.eater.com/pre-shift/997259/nycs-hottest-new-wine-bar-started-with-a-dm-slide",
-          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "DM 슬라이드로 시작하는 뉴욕에서 가장 인기 있는 새로운 와인 바",
-          "title_ja": "DMスライドで始まるニューヨークで最もホットな新しいワインバー",
-          "title_zh": "纽约市最热门的新葡萄酒吧从DM幻灯片开始"
         }
       ]
     }
@@ -136,20 +136,20 @@
           "title_zh": "“不打高尔夫干嘛要去？“ ……如今寻找高尔夫球场的意外原因"
         },
         {
+          "title": "\"중국산 믿기 힘들어요\"…호주에서 인기 폭발한 한국 음식",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CbkNJQjh0a25nR0JVcXd6cEZpbWpHQ1dySXZ0ZHUzRTd5WmdFcV9vZ0w4aWdsNG8tS3F0Q0VwYkZQR1JPQ05tSDdval90eEFIVXRoN3pWTnUzQQ?oc=5",
+          "desc": "",
+          "title_en": "“Unbelievable Made in China” … Korean Food Explodes in Popularity in Australia",
+          "title_ja": "「信じられないほどの中国製」…韓国料理がオーストラリアで大人気",
+          "title_zh": "“令人难以置信的中国制造” ……韩国食品在澳大利亚大受欢迎"
+        },
+        {
           "title": "롯데웰푸드, 뉴욕 타임스스퀘어 전광판에 뜬 빼빼로데이…'스트레이 키즈'와 함께 즐겨요",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRGt3U05WTWdjeXhlcHhWY0FsSmJFeUNINzRQUkR1bUl4M2pGSl9GMF9wSk9UekZXNk1ZWVFMMzFpZU5udEctLUdQYW45RHZCZUxyQXplS3JHQQ?oc=5",
           "desc": "",
           "title_en": "Lotte Well Food, New York Times Square… Enjoy with 'Stray Kids'",
           "title_ja": "ロッテウェルフード、ニューヨークタイムズスクエア…「迷子の子供たち」と楽しもう",
           "title_zh": "乐天美食，纽约时代广场…与「流浪儿童」一起享受"
-        },
-        {
-          "title": "[포토] 2026 푸드위크 코리아 개막",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxbGZBWFhwZnRycFZJemllZk01VU04VlB6Q3ZRaXpmXzNLZ290di1CbVJyeDBMTnl5XzFTanM4MDBSSGFTbHhJemlCeEozMWRHeVMyRjcyMmowQQ?oc=5",
-          "desc": "",
-          "title_en": "[Photo] Opening of 2026 Food Week Korea",
-          "title_ja": "【写真】2026年フードウィーク韓国開幕",
-          "title_zh": "【照片】2026年韩国食品周开幕"
         }
       ]
     },
@@ -166,20 +166,20 @@
           "title_zh": "2026年韩国食品周"
         },
         {
-          "title": "“편의점마다 다른 맛”…‘도장깨기’ 부르는 가나 초콜릿",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FRnl3d25jc1NHOXBRRHhSRUQ2cmRCcFduT1RDTG5UVmdBUmRTVjRnejlZcmdjOEFyQ2JvT0xER0pMNXZXbm1aMHg1LUw5NmJHcGfSAVNBVV95cUxOS19GRDZzak1mQzVmUE54dnNWVDRza3NCVnJCZjh0RTBreUlueFA0V29GU3p3OFFjZTRKR2gxVlB3bTJpaXowS2dkNDM4Y2dxdko3TQ?oc=5",
+          "title": "K팝 춤추고 K푸드 만들고…14~20일 ‘서울여행주간’ 개최",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ySzZQZWcyQkpzU3llQTJxS2FFU1NRMkxWTXJwTnJVcmJ6cU1QblBxUW1SVDVFdWRfWV9NbkJmRkVTT0tzSUg3a1ZPZGZicTBrVmfSAVNBVV95cUxQSVluWHJZMzBVNUd4ekhjWFBlX2NKbGFDZklaREowd1VaVnpLeV9RTXBKeTVSZWROTG9pZWpXbTJ6Vms0ak9BM0Qza0pZcHFpR0N0cw?oc=5",
           "desc": "",
-          "title_en": "“Different flavors at different convenience stores” … Ghanaian chocolate called ’stamp breaking'",
-          "title_ja": "「さまざまなコンビニエンスストアでさまざまな味」…「スタンプブレイキング」と呼ばれるガーナのチョコレート",
-          "title_zh": "“不同的便利店提供不同的口味” ……加纳巧克力被称为“拆邮票”"
+          "title_en": "K-pop dancing and K-food making... 'Seoul Travel Week‘ held from 14 to 20",
+          "title_ja": "K - POPダンス＆ K - FOODメイク… 14 ～ 20日「ソウルトラベルウィーク」開催",
+          "title_zh": "韩国流行舞蹈和韩国美食制作…… 14至20日举行的「首尔旅游周」"
         },
         {
-          "title": "2026 푸드위크 코리아",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUWXBpUHJ3WXFUZlNKRTdsTUk4blFCaTVMbXdhcklRMnhGWmZqc2tqSEFmLTVWMThJTDdfNHN6NXJlcW1saHBGVkQ4NUNneFR0ZU9B0gFTQVVfeXFMUFRZcGlQcndZcVRmU0pFN2xNSThuUUJpNUxtd2FySVEyeEZaZmpza2pIQWYtNVYxOElMN180c3o1cmVxbWxocEZWRDg1Q2d4VHRlT0E?oc=5",
+          "title": "“당장 식탁에 올려야겠네”…美 영양사가 추천한 염증 잡는 음식, 뭐길래? [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aTNPRW9YU0hZRkxKdVM1bVpGZjhtdUYyZU90VTFUT2dQRXExVE5BYm9KT3hhNC1TM1hBT3RncEF6N2xBOEZfbDdNWUxUV3RTdVHSAVNBVV95cUxNNHg3cDJ2STQ5N0p3MEtMR25HNzlZVk1FOVkzaGpnQlpOaTIyQkJoLW5PRGROeTNQdzFpeURMeHN2Q3lzTS1GMVBhcjJJSC1qWkxPVQ?oc=5",
           "desc": "",
-          "title_en": "2026 Food Week Korea",
-          "title_ja": "2026年フードウィーク韓国",
-          "title_zh": "2026年韩国食品周"
+          "title_en": "“I should put it on the table right away” … What is the inflammation catching food recommended by the nutritionist? [Health time]",
+          "title_ja": "「すぐにテーブルの上に置くべきです」…栄養士が推奨する炎症を引き起こす食品は何ですか？【健康時間】",
+          "title_zh": "“我应该马上把它放在桌子上” ……营养师推荐的炎症捕捉食物是什么？ [健康时间]"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
         },
         {
-          "title": "커피 대신 마셔볼까?…티젠, 카페인 프리 ‘카페 오르조 오트 라떼’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJUExXcmlOSUFWazF4TGo3cGltTWRKTDg5X1gzVHEwV3M4NXV2ZGtIN01wWGtSbG5uUUJER3IyeXUzc01ENlRsdnR5MDE1TUM5R01CdU4wNA?oc=5",
+          "title": "이사무 사카구치 셰프 우승…산펠레그리노 ‘영 셰프 아카데미 2026–27’ 아시아 지역 결선",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tU0I1Yi1DdURZdkdwNktTb0ZpakJEalpNMmhVMklPMkQ1eXBocG90R3FRU1RsemktTXRfeWxra0FnRGcwTFBDckxaeW5oNTU5YTdzZTFzQQ?oc=5",
           "desc": "",
-          "title_en": "Should I drink it instead of coffee? … Teasen, caffeine-free ‘Café Orzo Haute Latte’",
-          "title_ja": "コーヒーの代わりに飲むべきでしょうか？ …ティーゼン、カフェインフリーの「カフェ・オルツォ・オート・ラテ」",
-          "title_zh": "我应该喝咖啡而不是喝咖啡吗？ ……茶壶，不含咖啡因的「Café Orzo Haute Latte」"
+          "title_en": "Chef Isamu Sakaguchi wins the San Pellegrino ‘Young Chef Academy 2026-27’ Asian final",
+          "title_ja": "シェフ坂口勇がサンペレグリノ「ヤングシェフアカデミー2026 -27」アジアファイナルで優勝",
+          "title_zh": "厨师Isamu Sakaguchi赢得San Pellegrino “2026-27年青年厨师学院”亚洲决赛"
         }
       ]
     }
