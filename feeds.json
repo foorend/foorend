@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T01:18:27Z",
+  "lastUpdated": "2026-11-05T10:25:44Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,6 +96,14 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
+          "title": "The World’s 50 Best Restaurants 2026: The Full List of Winners",
+          "link": "https://www.eater.com/awards-season/998589/worlds-50-best-restaurants-2026-full-list-of-winners",
+          "desc": "Tonight, the World’s 50 Best Restaurants were announced at a ceremony in Lima, Peru, with Basque Country restaurant Asador Etxebarri crowned the new t",
+          "title_ko": "2026년 세계 50대 레스토랑: 수상자 전체 목록",
+          "title_ja": "The World's 50 Best Restaurants 2026 ：受賞者の完全なリスト",
+          "title_zh": "2026年全球50家最佳餐厅：完整获奖名单"
+        },
+        {
           "title": "Mexican Seafood and Natural Wines Are in the Spotlight at This New NYC Restaurant",
           "link": "https://www.eater.com/dining-out/998478/camaron-peludo-mexican-seafood-wine-bar-nyc-prep",
           "desc": "Known for their roasted and slow-cooked meats at Taqueria Ramirez, Tania Apolinar and Giovanni Cervantes partnered with chef Carlos Barrera to open a ",
@@ -110,14 +118,6 @@
           "title_ko": "$ 25 미만의 최고의 음식 선물 (사려 깊고 세련된 느낌)",
           "title_ja": "$ 25未満の最高の食品ギフト（思いやりとシックさを感じる）",
           "title_zh": "25 $以下的最佳美食礼品（体贴时尚）"
-        },
-        {
-          "title": "How Flavored Syrup Became a Coffee-Shop Culture War",
-          "link": "https://www.eater.com/dining-out/997706/house-made-syrup-coffee-shop-trend-torani-monin-backlash",
-          "desc": "In a TikTok video with over 82,000 likes, the person behind the camera zooms into the shelves at a Pennsylvania coffee shop, three rows stacked with a",
-          "title_ko": "시럽이 커피숍 문화 전쟁이 된 방법",
-          "title_ja": "味付けされたシロップがコーヒーショップの文化戦争になった経緯",
-          "title_zh": "调味糖浆如何成为咖啡店文化大战"
         }
       ]
     }
@@ -136,20 +136,20 @@
           "title_zh": "“不打高尔夫干嘛要去？“ ……如今寻找高尔夫球场的意外原因"
         },
         {
-          "title": "더본코리아, '2026 푸드위크 코리아' 참가… TBK 소스 11종으로 'K-푸드 매력' 알린다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YMTRRVUZ5alNQTFFNYk85enVWRV9JVVMzd3JydTVwUWxqeVJJVG8tM2RzYVlyR1NwUkVSSlBKN0szQzZhbWVWUWhPbVVRdzdBWnhKVTZweUQ1Zw?oc=5",
+          "title": "[포토] 푸드위크 등장한 더본코리아…비법 양념 11종 전면 공개",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzX09qb3dFaTFNR19JdXJHaG1RZFJKWjRhd3RFZVVCbFZtenIwNVFYR291ZDc4ckpKUEE0anhiS3ZTcVJpNWFvQ0lJbEh3ci1kQ3VOQmtaeW93UQ?oc=5",
           "desc": "",
-          "title_en": "The Bonn Korea to Participate in '2026 Food Week Korea' … Announces' K-Food Attractions' with 11 TBK Sauces",
-          "title_ja": "「2026年フードウィーク韓国」に参加するボン・コリア… 11種類のTBKソースで「Kフードアトラクション」を発表",
-          "title_zh": "波恩韩国将参加“2026年韩国食品周” ……宣布推出11种TBK酱汁的“K-Food景点”"
+          "title_en": "[Photo] The Bon Korea at Food Week… 11 secret seasonings revealed in full",
+          "title_ja": "【写真】フードウィークの盆韓国… 11種類の秘密の調味料が完全に明らかに",
+          "title_zh": "[照片]美食周上的Bon Korea… 11种秘密调味料全面揭晓"
         },
         {
-          "title": "한미사이언스 케어푸드 야심작 ‘케어미’, 온가족 영양식으로 약국 공략",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYc0hvUHZiZTN4Wk1NMWVaZnlwcnNfdHdyUFEyS3VVaDRxVVUyR3FIbUE1R3JXTVZiS0lxREJ1RVo5YVpsSmd2M2h1cWxPZkJwOV9MczA0am40Zw?oc=5",
+          "title": "\"K-푸드 넘어 K-웰니스로\"…신세계免, 명동점 특화 경쟁력 강화",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11TEtMRlh5ZzVZb0pyVjM2Wk1XelRXRTRwbV9aMTNob0dyUnJBMVJZc1RhYU9IaVpWckpaSm9mVm5BRm5peTBsb1JkTTdZaE0tUlJra2lSZ01ZQQ?oc=5",
           "desc": "",
-          "title_en": "Hanmi Science Care Food's Ambitious‘ Care Me 'Targets Pharmacies with Whole-Family Nutrition",
-          "title_ja": "ハンミサイエンスケアフードの野心的な「Care Me」は、家族全員の栄養を持つ薬局をターゲットにしています",
-          "title_zh": "Hanmi Science Care Food雄心勃勃的“Care Me”针对具有全家营养的药房"
+          "title_en": "\"Beyond K-Food, Into K-Wellness\" … Shinsegae and Myeong-dong Specialized Competitiveness Strengthened",
+          "title_ja": "「Kフードを超えて、Kウェルネスへ」…新世界と明洞の専門競争力強化",
+          "title_zh": "“超越K-Food ，走进K-Wellness” ……新世界和明洞专业竞争力增强"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "돼지국밥·밀면부터 해산물까지…부산, 2년 연속 트립질라 관광상",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hU241THBIc3ZBMklPRDdDSThvd3dWSm1oM3R2dDM5cjVILXgzVEhPdDc3QTJYeFlrQ0IxbGpRS1hnOXNKQmt3N3JLRFg5b2R4eVHSAVNBVV95cUxOaFVhUEZnZ2otcHJYNzVrSWZYcUt4Zk1JYTRVNFRJWGVqRHVqOWI4T1NMeDVndElDX09TUWsteW5tN2FBa2MyN2UyaEtKMThzOEt6TQ?oc=5",
+          "title": "삼겹살 굽고 오이 썰고…요리 로봇 나왔다[로보 인사이트]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByU3h5TTh6VGJrVVctLThtUjJqdERQZEppd2tVYWpnUjNac1o5R0JwWmV3dm11Ul9Rdmt4WTdYUWtnbXlnRFdMVkk0dlJuOXN2NkHSAVNBVV95cUxQUEFieVNIVEV4dWtkYlZPTHBWRjhvbDEzX0VQbHRrVUhhZnM3NXRzdEhKTllwM0ZrVDRpVTk1OTJ1RjVsRVBwVFhWMHFiN05jX0hHVQ?oc=5",
           "desc": "",
-          "title_en": "From pork soup and wheat noodles to seafood… Busan, Tripzilla Tourism Award for the second year in a row",
-          "title_ja": "豚肉スープや小麦麺から魚介類まで…釜山、トリップジラ観光賞2年連続",
-          "title_zh": "从猪肉汤和小麦面条到海鲜……釜山， Tripzilla旅游奖连续第二年"
-        },
-        {
-          "title": "‘2026 푸드위크 코리아‘에서 선보이는 제철 페어링 하우스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hN3E1SVc2amFkZ3Q4LTEzZ09HVW9pd0pJZklRNTlFclJtSTNPWG9hQzkzMEZwNVFPaWJ2R0dRLWRWTEpURUQyOTRXQmQ0aDlyNVHSAVNBVV95cUxNbmUtZ3A4elpEUW9ZOTg1Y0dvcV90Nlc4ekljMWgxd3oxOFdVNHNNTlFxMWQ0dWNKTnR0UC0wcXNnYmVGejVFYzRBLW5PaGZzRTRRWQ?oc=5",
-          "desc": "",
-          "title_en": "Seasonal Pairing House at 2026 Foodweek Korea",
-          "title_ja": "2026年フードウィーク韓国の季節のペアリングハウス",
-          "title_zh": "2026年韩国美食周的季节性配对屋"
+          "title_en": "I baked pork belly, sliced cucumbers… I got a cooking robot [Robo Insights]",
+          "title_ja": "私は豚バラ肉を焼き、きゅうりをスライスしました…私は調理ロボットを手に入れました[Robo Insights]",
+          "title_zh": "我烤猪肚，切黄瓜……我有一个烹饪机器人[Robo Insights]"
         },
         {
           "title": "2026 푸드위크 코리아",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DQTlHR1pfLXBCYTV0d0t2VzZuUFZCOVIxOWRBV3pfY1dSb0RPT3lkekdqcHA4dEJFbk10VTVRb0N0ZzlLUWpPQlpscGV6Q3ZCeWfSAVNBVV95cUxNeEY0VTVmNnl4U3FUWUh0cTk5d3luZGpEMUgwamhPT0ZnMWZ2NHpCaGJwdWdUUzZsZ1lPWndzOElWcURFcDdjV1dVU0U0OWZMa3hJdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55V0ZlZElxWTB6Y0hmbTVqTVJqOTRjd0ptbHA3VmFwVHNQOEVvc2l1T2w2RnE3U1o0Wm9EbGJ4amo2TWhSbkFPRnQ2eUxsS3otamfSAVNBVV95cUxOVEFSX1BvUzh2UEJybkRDZzUwWC1XNW0zVWtlc20tdVJadUgtLXMwV0JJWEtnWkhjaDJrdW9MRm5VLVAyVzVpUkY1YURma0FrRkUwVQ?oc=5",
           "desc": "",
           "title_en": "2026 Food Week Korea",
           "title_ja": "2026年フードウィーク韓国",
           "title_zh": "2026年韩国食品周"
+        },
+        {
+          "title": "통영 바다 해산물로 풍성…‘미식 축제’ 열려요",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wU0l4b2h1R2VIejZiU3psUFRRZTlDNWsyLVdBS2lxa2VucmpyM2hfamJQczNVTzBQYlpSZUxHRUctVkJaUjBFdFRKb3RzcllOY0HSAVNBVV95cUxNWDhsb2RIRE95SVpDRVlPdC1PS2N1RVJOSUMwZ0FHR2QtNVFNR0M2eVBZQ2Fqa1FTeXptTjdObGYwZ1lubVJnLWJxUnRnT053YVpFYw?oc=5",
+          "desc": "",
+          "title_en": "Plenty of Tongyeong sea seafood... ‘Gourmet Festival’ is held",
+          "title_ja": "統営海の魚介たっぷり…「グルメフェスティバル」開催",
+          "title_zh": "丰富的统营海鲜……举办「美食节」"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "배달음식에 밀려 사라지는 반찬부터 지켜낼 겁니다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZHdPMldiVFVmRGFNNnF3ZWdldzU5VDJQQkZDSURIdDlES3NzSFowMlEwU0xyYVdpOVlUOFRndmRXNzZmZVpaZXU2SVJQUmY2a2JFRmhR?oc=5",
+          "desc": "",
+          "title_en": "We will protect the side dishes from being pushed away by delivery food.",
+          "title_ja": "おかずが配達食品によって押し出されないように保護します。",
+          "title_zh": "我们将保护配菜免受派送食物的冲击。"
+        },
+        {
+          "title": "[게시판] 롯데웰푸드, 부천여성청소년센터에 '해피홈' 14호점 개소",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLT21QaW83S21SR1BfZHlYTFlxdzNxWU5IbUdXQ2VHbVoxQ2piQ0dhd1NEckg0WVRYLVRrYjdVREtFczR2bkZtNG82dXhRN2hTV2c?oc=5",
+          "desc": "",
+          "title_en": "[Bulletin Board] Lotte Well Food Opens' Happy Home '14 at Bucheon Women's and Youth Center",
+          "title_ja": "【掲示板】ロッテウェルフード、富川婦人青少年センターに「ハッピーホーム」14をオープン",
+          "title_zh": "【公告栏】乐天健康食品在富川妇女青年中心开设「幸福之家」14"
+        },
+        {
           "title": "'K-푸드 세계로' 푸드위크 코리아 개막…46개국 1천개사 참가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJM2htUGtHRm5IWEM5UzNSSHVpdU1JcVctT3UyRV81YUhlWk9DcEpKOGI2S0NJU3hKVkNpUUZIbWt1RmVTeDZPbEgxZFY4eENJTEE?oc=5",
           "desc": "",
           "title_en": "'Into the World of K-Food' Food Week Korea Opens… 1,000 Exhibitors from 46 Countries Participated",
           "title_ja": "「INTO THE WORLD OF K - FOOD」FOOD WEEK韓国開幕… 46カ国1,000社が出展",
           "title_zh": "“INTO THE WORLD OF K-FOOD”韩国食品周开幕……来自46个国家的1,000家参展商参加"
-        },
-        {
-          "title": "제철 식품과 컵라면을 함께 선보인 ‘2026 푸드위크 코리아’",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydGpFMlpvVjVOZlFoMTJTTmFvYWUxWXVnTURjLW1sLURMVWtWUUdVSlhnU2FiX2ttSElqN3NMTTJfeUd0ZkxTaE05aFliQjJRQlNZSEJ3?oc=5",
-          "desc": "",
-          "title_en": "‘2026 Food Week Korea' showcases seasonal foods and cup noodles",
-          "title_ja": "「2026 Food Week Korea」で季節の食べ物とカップ麺を紹介",
-          "title_zh": "“2026年韩国美食周”展示时令美食和杯面"
-        },
-        {
-          "title": "중국에서도 ‘불닭’ 만든다고?…수출로는 물량 부족한 K푸드, 해외공장 러시",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2a0ZoRWZnd2FZY0JNRlk3RThuWTNKX3RqNktwWUlRN2h3WG9xZFNoSUtWSG95OVFMSjhCUUFwUlFzcGZIeFNFYVFadjU2N29DNEY1TGRB?oc=5",
-          "desc": "",
-          "title_en": "Making ‘grilled chicken’ in China? … K-food, overseas factory rush, insufficient quantity for export",
-          "title_ja": "中国で「グリルチキン」を作る？ … K - food、海外工場ラッシュ、輸出量不足",
-          "title_zh": "在中国做“烤鸡” ？ ……韩国食品，海外工厂匆忙，出口数量不足"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "국물 맛이 확 달라져요…채수 제대로 배우기",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OcFlyclNUcnRvOXRtZkZ2aDM5NElOMjU3bjZRSzF4RjZkbVN1UHpGb1VLWDZNVWJrWkFQX0dqZ09hUmNLeHVRemdldkpBSzFsU1VIMUtROA?oc=5",
+          "desc": "",
+          "title_en": "The soup tastes very different… Learning how to drink properly",
+          "title_ja": "スープの味がとても違う…正しい飲み方を学ぶ",
+          "title_zh": "汤的味道非常不同……学习如何正确饮用"
+        },
         {
           "title": "한국허벌라이프, 창립 30주년 프로모션 진행",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xWWMyUlk0VlFFRmRWV2lCdFNJS1c1aldSb3N4UC1ueDA0SEd6eVVEQVFaOVFvVFJCUUFaUno0U0xlN0kwZlFnZXBkdXQzYnFfaEpsV09wTQ?oc=5",
@@ -232,14 +240,6 @@
           "title_en": "Bae Sang-myeon opens HomeSul.com's 6th Anniversary Event",
           "title_ja": "Bae Sang - myeonがHomeSul.comの6周年記念イベントをオープン",
           "title_zh": "Bae Sang-myeon开设HomeSul.com六周年纪念活动"
-        },
-        {
-          "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
-          "desc": "",
-          "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
-          "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
-          "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
         }
       ]
     }
