@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T19:36:18Z",
+  "lastUpdated": "2026-11-06T01:23:15Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "60대도 지갑 열었다…18일만에 100만명 몰린 '뜻밖의 핫플' [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTk54b1RYcjltME9ZbGlWM1RoNHhnSHU1bDlVUXZ0QWowblRocDc2OUpYMlc2NWl5SWZ3VzhqSUFnX1JqY2U4Wk5rNEluOUwwbnUwMmZfSXNuZw?oc=5",
+          "desc": "",
+          "title_en": "The 60s also opened their wallets... 'Unexpected Hot Places' attracted 1 million people in 18 days [Kwon Yong-hoon's Trendwatch]",
+          "title_ja": "60年代は財布も開いていました…「思いがけないホットプレイス」は18日間で100万人を集めました[クォン・ヨンフンのトレンドウォッチ]",
+          "title_zh": "60年代也打开了钱包…… '意想不到的热点'在18天内吸引了100万人【权永勋的时尚腕表】"
+        },
+        {
           "title": "\"골프도 안 치는데 왜 가?\"…요즘 골프장 찾는 뜻밖의 이유",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sOC0xTEU3azZtMFpWb01zeG5IcXBWY0RYOXVxVno5emxjVUEtNWFHeDJwMkE5MDRLZlU4ZVppYnNRbF92NFNkZnZmb1FaNWY3Z285NElKMjUwZw?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on November 6",
           "title_ja": "【本日の星占い】今日は何を食べようか… 11月6日にベルトでおすすめのランチメニュー",
           "title_zh": "【今天的星座】今天吃什么？ … 11月6日腰带推荐午餐菜单"
-        },
-        {
-          "title": "수운잡방’·‘음식디미방’ 유네스코 세계기록유산 아·태 지역목록 등재",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTQ3NCRXNVTFhCMEJoT3R6U0Fxb182R21OQjFMa3ozdzU1ak1JeUNsemFLWHQxeHI5NVF3QTJlNTB2akRVa0RFdExSc2NJOWF0SlI3N3Jwb3lDdw?oc=5",
-          "desc": "",
-          "title_en": "Suunjabang ’·’ Food Dimitrium ‘Listed on the UNESCO World Heritage List A · Tae Region",
-          "title_ja": "「スンジャバン」・「フードディミトリウム」ユネスコ世界遺産A・TAE地域に登録",
-          "title_zh": "Suunjabang ’·’ Food Dimitrium ‘被列入联合国教科文组织世界遗产名录A · Tae地区"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "2026年韩国食品周"
         },
         {
-          "title": "“끊어야 하나” 걱정했는데…매운 음식 즐겨 먹는 사람, 심혈관 질환 위험 낮았다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFQ3hoX0JUM285UHJyX0xRZ3ZoMXRhWDlUNUtEM1pmNzBBTFc4QUxTZ0lZMHI3d3c0TlduN1RIaVhKblhlLVJsYU93Uk83S3Jkb0E?oc=5",
+          "title": "“식탁에 두고 가족 먹였다면 당장 버려라”…암 유발하는 최악의 음식 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JQ3BEU2ZDdTE5VmgxSVRobGpQVFdRZnNGTFlGaDNfb0ozdTlNNFY0QkMzTDBDR3FueWFFMGdxQjJTYW85aDlNYmxVQUNSMDlmcFHSAVNBVV95cUxNT3RCZEJHSEtxTk1EUzdfeTg5ZlZNVjFDc1EzVG9xeXc4TXN3QW85SG5iOFlSUzFlWlBRTFR4Vy0zUzR1UzVOR2NXSTM5OW1XMDdoYw?oc=5",
           "desc": "",
-          "title_en": "I was worried about “having to hang up”... People who liked spicy food had a low risk of cardiovascular disease",
-          "title_ja": "「電話を切らなければならない」と心配していた…辛い食べ物が好きな人は、心血管疾患のリスクが低かった",
-          "title_zh": "我担心“不得不挂断电话” ……喜欢辛辣食物的人患心血管疾病的风险很低"
+          "title_en": "“If you left it on the table and fed your family, throw it away” … the worst food to cause cancer [Healthy Time]",
+          "title_ja": "「テーブルの上に置いてきて家族に食べさせたら、捨てなさい」…がんを引き起こす最悪の食べ物[Healthy Time]",
+          "title_zh": "“如果你把它放在桌子上，喂饱你的家人，把它扔掉” ……最糟糕的致癌食物[健康时光]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "농심, 인도 북동부 4개 도시서 신라면 푸드트럭 운영",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tWlgzdUVhczFtMFExVlExbURfYUl1dk9PZWZMeXd5MWN2UjBNV2M4Z1VDVWJHV0tlb2I5VkZLOExTcWY3eHpHajFQdThJVEpPNHc?oc=5",
+          "desc": "",
+          "title_en": "Nongshim operates Shin Ramen food trucks in four cities in northeastern India",
+          "title_ja": "Nongshimは、インド北東部の4つの都市で新ラーメンのフードトラックを運営しています",
+          "title_zh": "Nongshim在印度东北部的四个城市经营Shin Ramen美食车"
+        },
         {
           "title": "[게시판] 삼양식품, 푸드트럭 시식행사 '맵탱 GO' 진행",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MUWszT1l2RlB4UzRSOFRKYnczUldSLXQ1UVNaTGtVZnlfM0J1bE5SakFVVV81YmlBQnAySlYyTUxyNENodXQ3WDFJOU1qaEVh?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "We will protect the side dishes from being pushed away by delivery food.",
           "title_ja": "おかずが配達食品によって押し出されないように保護します。",
           "title_zh": "我们将保护配菜免受派送食物的冲击。"
-        },
-        {
-          "title": "[게시판] 롯데웰푸드, 부천여성청소년센터에 '해피홈' 14호점 개소",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLT21QaW83S21SR1BfZHlYTFlxdzNxWU5IbUdXQ2VHbVoxQ2piQ0dhd1NEckg0WVRYLVRrYjdVREtFczR2bkZtNG82dXhRN2hTV2c?oc=5",
-          "desc": "",
-          "title_en": "[Bulletin Board] Lotte Well Food Opens' Happy Home '14 at Bucheon Women's and Youth Center",
-          "title_ja": "【掲示板】ロッテウェルフード、富川婦人青少年センターに「ハッピーホーム」14をオープン",
-          "title_zh": "【公告栏】乐天健康食品在富川妇女青年中心开设「幸福之家」14"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "국물 맛이 확 달라져요…채수 제대로 배우기",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OcFlyclNUcnRvOXRtZkZ2aDM5NElOMjU3bjZRSzF4RjZkbVN1UHpGb1VLWDZNVWJrWkFQX0dqZ09hUmNLeHVRemdldkpBSzFsU1VIMUtROA?oc=5",
-          "desc": "",
-          "title_en": "The soup tastes very different… Learning how to drink properly",
-          "title_ja": "スープの味がとても違う…正しい飲み方を学ぶ",
-          "title_zh": "汤的味道非常不同……学习如何正确饮用"
-        },
         {
           "title": "한국허벌라이프, 창립 30주년 프로모션 진행",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xWWMyUlk0VlFFRmRWV2lCdFNJS1c1aldSb3N4UC1ueDA0SEd6eVVEQVFaOVFvVFJCUUFaUno0U0xlN0kwZlFnZXBkdXQzYnFfaEpsV09wTQ?oc=5",
@@ -240,6 +232,14 @@
           "title_en": "Bae Sang-myeon opens HomeSul.com's 6th Anniversary Event",
           "title_ja": "Bae Sang - myeonがHomeSul.comの6周年記念イベントをオープン",
           "title_zh": "Bae Sang-myeon开设HomeSul.com六周年纪念活动"
+        },
+        {
+          "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
+          "desc": "",
+          "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
+          "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
+          "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
         }
       ]
     }
