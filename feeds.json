@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T09:40:12Z",
+  "lastUpdated": "2026-11-07T17:30:08Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,14 +128,6 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "\"배 터지게 먹는 시대 끝?\"…60대까지 푹 빠진 뷔페의 변신 [권용훈의 트렌드워치]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTk54b1RYcjltME9ZbGlWM1RoNHhnSHU1bDlVUXZ0QWowblRocDc2OUpYMlc2NWl5SWZ3VzhqSUFnX1JqY2U4Wk5rNEluOUwwbnUwMmZfSXNuZw?oc=5",
-          "desc": "",
-          "title_en": "\"The end of the era of bursting with stomachs?\" … The transformation of buffet that plunged into the 60s [Kwon Yong-hoon's Trendwatch]",
-          "title_ja": "「お腹いっぱいの時代の終わり？」… 60年代に突入したビュッフェの変身【クォン・ヨンフンのトレンドウォッチ】",
-          "title_zh": "“肚子爆开的时代的终结？” ……跳进60年代的自助餐的转变【权永勋的时尚腕表】"
-        },
-        {
           "title": "\"배달기사가 음식 뜯어먹었다\" 발칵…알고 보니 '반전'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0d2o4Njc5ODhadkNMNkZvbTUzSW5nNkdndmdMdWZMOFZiVkNfNlQ1RUlIZWdXNFRfb3MzYmdySHBYLUFkOHhYYmpoaUt0Tm1Jem5DODYzYi16QQ?oc=5",
           "desc": "",
@@ -144,12 +136,20 @@
           "title_zh": "“送货司机把食物吃掉了，”他咔嗒一声……结果是“倒过来了”。"
         },
         {
-          "title": "칠면조에 고추장 더하는 美 Z세대… 달라지는 식품 소비",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56ak1kNnZZc0ExWkdVTU5veGJocnF4NVlMNWwxQWRWd29WYTVHWUN4WU9SS1dKVThVTnRkY2pCVWplMU1xenpHMFp2NnljYW5qWGY0bE1DMzU1dkU5ZkNCTUtWZWNOVGI3OFJMbQ?oc=5",
+          "title": "\"배 터지게 먹는 시대 끝?\"…60대까지 푹 빠진 뷔페의 변신 [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTk54b1RYcjltME9ZbGlWM1RoNHhnSHU1bDlVUXZ0QWowblRocDc2OUpYMlc2NWl5SWZ3VzhqSUFnX1JqY2U4Wk5rNEluOUwwbnUwMmZfSXNuZw?oc=5",
           "desc": "",
-          "title_en": "Generation Z of beauty adding pepper to turkey… Different food consumption",
-          "title_ja": "七面鳥にコショウを加える美しさの世代Z…異なる食べ物の消費量",
-          "title_zh": "Z世代的美女将胡椒添加到火鸡中……不同的食物消费量"
+          "title_en": "\"The end of the era of bursting with stomachs?\" … The transformation of buffet that plunged into the 60s [Kwon Yong-hoon's Trendwatch]",
+          "title_ja": "「お腹いっぱいの時代の終わり？」… 60年代に突入したビュッフェの変身【クォン・ヨンフンのトレンドウォッチ】",
+          "title_zh": "“肚子爆开的时代的终结？” ……跳进60年代的自助餐的转变【权永勋的时尚腕表】"
+        },
+        {
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 8일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZa1N1cjlaeU1EenVEc0wtWDBGNnFRZVZPR0U4NXpkVTB4VkVDZFlTUVo2QWRENnB6Y3dFOUhOV3c0Y3hRRC1nd1RkODVzcl8zZzdtZ2VkaTJiZw?oc=5",
+          "desc": "",
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on November 8",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 11月8日にベルトでおすすめのランチメニュー",
+          "title_zh": "【今天的星座】今天吃什么？ … 11月8日腰带推荐午餐菜单"
         }
       ]
     },
@@ -174,12 +174,12 @@
           "title_zh": "2026年韩国食品周"
         },
         {
-          "title": "“식탁에 두고 가족 먹였다면 당장 버려라”…암 유발하는 최악의 음식 [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JQ3BEU2ZDdTE5VmgxSVRobGpQVFdRZnNGTFlGaDNfb0ozdTlNNFY0QkMzTDBDR3FueWFFMGdxQjJTYW85aDlNYmxVQUNSMDlmcFHSAVNBVV95cUxNT3RCZEJHSEtxTk1EUzdfeTg5ZlZNVjFDc1EzVG9xeXc4TXN3QW85SG5iOFlSUzFlWlBRTFR4Vy0zUzR1UzVOR2NXSTM5OW1XMDdoYw?oc=5",
+          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
           "desc": "",
-          "title_en": "“If you left it on the table and fed your family, throw it away” … the worst food to cause cancer [Healthy Time]",
-          "title_ja": "「テーブルの上に置いてきて家族に食べさせたら、捨てなさい」…がんを引き起こす最悪の食べ物[Healthy Time]",
-          "title_zh": "“如果你把它放在桌子上，喂饱你的家人，把它扔掉” ……最糟糕的致癌食物[健康时光]"
+          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
+          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
+          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
         }
       ]
     },
