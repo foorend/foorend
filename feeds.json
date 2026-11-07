@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T00:38:33Z",
+  "lastUpdated": "2026-11-07T09:40:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -158,14 +158,6 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "맥도날드는 어떻게 마늘 햄버거로 창녕을 살렸나",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01Z3dmRkJvVHVFb0pSTHpoTHZTOHowcWtxbXVuQlJhelRPMldMNlRxZXlRWVJmNFhaZXNuYVNCOGNrVkVOdXhuNDl3WVpYdThZZlHSAVNBVV95cUxQdy1WaWhDRlBqLUs2elM1dVdvMjcteFhJNml1SGsxRWR3Y3ZzbkxnQlZDREczY0ZWTUxJQk9wSHhvdVZiTEpjLXhkU0Y1Tm5DQzMzbw?oc=5",
-          "desc": "",
-          "title_en": "How McDonald's Saved Changnyeong with a Garlic Hamburger",
-          "title_ja": "マクドナルドが昌寧を救ったガーリックハンバーガー",
-          "title_zh": "麦当劳如何用大蒜汉堡包拯救昌宁"
-        },
-        {
           "title": "‘불닭의 힘’ 삼양식품 영업익 신기록…농심·오리온·웰푸드도 장밋빛",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paGZRbUhmOVRkdExDRHhucHYxNGZQa0hPTmp1VjF3bktRUWtpamtWZWlPZmFMQnR2UTJaUVBLMTRmRC1hZS1LY1R1OWdzZXJJcHfSAVNBVV95cUxNQVQwOU1RR193OEI0MnpNWVFVdHE2cVhXa3NtLXFNV0o0amNIODhIcUJsUVJMSll4X3RjYVhIT3djVjYyQ3k3cmVnNjZCOUs4VmxMRQ?oc=5",
           "desc": "",
@@ -180,6 +172,14 @@
           "title_en": "2026 Food Week Korea",
           "title_ja": "2026年フードウィーク韓国",
           "title_zh": "2026年韩国食品周"
+        },
+        {
+          "title": "“식탁에 두고 가족 먹였다면 당장 버려라”…암 유발하는 최악의 음식 [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JQ3BEU2ZDdTE5VmgxSVRobGpQVFdRZnNGTFlGaDNfb0ozdTlNNFY0QkMzTDBDR3FueWFFMGdxQjJTYW85aDlNYmxVQUNSMDlmcFHSAVNBVV95cUxNT3RCZEJHSEtxTk1EUzdfeTg5ZlZNVjFDc1EzVG9xeXc4TXN3QW85SG5iOFlSUzFlWlBRTFR4Vy0zUzR1UzVOR2NXSTM5OW1XMDdoYw?oc=5",
+          "desc": "",
+          "title_en": "“If you left it on the table and fed your family, throw it away” … the worst food to cause cancer [Healthy Time]",
+          "title_ja": "「テーブルの上に置いてきて家族に食べさせたら、捨てなさい」…がんを引き起こす最悪の食べ物[Healthy Time]",
+          "title_zh": "“如果你把它放在桌子上，喂饱你的家人，把它扔掉” ……最糟糕的致癌食物[健康时光]"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "송미령 장관, '푸드위크 코리아' 방문…\"K푸드 지속 성장 지원\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XN0NKY0kzMFZYMHliMmdwRnBUNU5hTUhMbGV3eWdtakJ0QUZrS1lkd2JvR1RIRy1IbEUxbDVXYnVoeEdoUHMtVl9PNXJGeTZrcEE?oc=5",
+          "desc": "",
+          "title_en": "Minister Song Mi-ryeong visits Food Week Korea... \"Support continued growth of K-Food\"",
+          "title_ja": "ソン・ミリョン大臣が韓国のフードウィークを訪問…「K - Foodの継続的な成長を支援」",
+          "title_zh": "宋美玲部长访问韩国食品周…… “支持韩国食品持续增长”"
+        },
         {
           "title": "철도역 입점 매장 음식값, 한번 올릴때 평균 12.5% 올렸다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15SV9TNlhvekl2MTVqOEdCUHIySnZ3dHVyNHN5QUFHeUFWeGkyam1QSWZzRVZiTXRHbjVwRFFCSDdmNl9PdDNXUEg1VEk0OGxxQ1E?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Bae Min, \"Misunderstanding the vandalism process\" for claiming \"Rider ate delivery food\"",
           "title_ja": "Bae Min, \"Misunderstanding the vandalism process\" for claiming \"Rider ate delivery food\"",
           "title_zh": "Bae Min ，因声称“乘客吃了派送餐点”而“误解了故意破坏流程”"
-        },
-        {
-          "title": "농심, 인도 북동부 4개 도시서 신라면 푸드트럭 운영",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tWlgzdUVhczFtMFExVlExbURfYUl1dk9PZWZMeXd5MWN2UjBNV2M4Z1VDVWJHV0tlb2I5VkZLOExTcWY3eHpHajFQdThJVEpPNHc?oc=5",
-          "desc": "",
-          "title_en": "Nongshim operates Shin Ramen food trucks in four cities in northeastern India",
-          "title_ja": "Nongshimは、インド北東部の4つの都市で新ラーメンのフードトラックを運営しています",
-          "title_zh": "Nongshim在印度东北部的四个城市经营Shin Ramen美食车"
         }
       ]
     },
@@ -226,12 +226,12 @@
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
         },
         {
-          "title": "여경래 셰프와 홍콩 가자…‘이금기 요리대회’ 열어",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcWE2Y2phbVRqODdNQXoyS1VKVjgzMl9SR2hzV3ppZVlmLWo3eTF3SjNHSUxRcUhuamN2NHBjUU1zWm9Jam9SbDRsb2E5eVk4bTVuZHFKdw?oc=5",
+          "title": "수산물 시장도 ‘이력 증명’ 시대 열린다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Uk91OHk1M0ZTcDQ5TU04WVhWd0lIejZ4dXd2dmdfVDVTN2hpU0I3N3ZCbDZtemw0cHViekkycy1RWEVmWWV1TXRTWDlyV2VXOTdPZTV0dw?oc=5",
           "desc": "",
-          "title_en": "Let's go to Hong Kong with Chef Yeo Kyung-rae... ‘Lee Geung-ki Cooking Contest’ is held",
-          "title_ja": "シェフYeo Kyung - raeと一緒に香港に行こう…「Lee Geung - ki Cooking Contest」が開催されます",
-          "title_zh": "让我们和大厨Yeo Kyung-rae一起去香港…… “Lee Geung-ki Cooking Contest”举行"
+          "title_en": "Fish markets also open in the ’proof of history’ era",
+          "title_ja": "「歴史の証拠」時代には魚市場も開かれています",
+          "title_zh": "鱼市也在“历史证明”时代开放"
         },
         {
           "title": "한우 세포로 고기 키우는 씨위드, 의성에 200억 생산기지 만든다",
