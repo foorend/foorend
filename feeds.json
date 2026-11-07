@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T18:57:39Z",
+  "lastUpdated": "2026-11-07T00:38:33Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -166,20 +166,20 @@
           "title_zh": "麦当劳如何用大蒜汉堡包拯救昌宁"
         },
         {
+          "title": "‘불닭의 힘’ 삼양식품 영업익 신기록…농심·오리온·웰푸드도 장밋빛",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paGZRbUhmOVRkdExDRHhucHYxNGZQa0hPTmp1VjF3bktRUWtpamtWZWlPZmFMQnR2UTJaUVBLMTRmRC1hZS1LY1R1OWdzZXJJcHfSAVNBVV95cUxNQVQwOU1RR193OEI0MnpNWVFVdHE2cVhXa3NtLXFNV0o0amNIODhIcUJsUVJMSll4X3RjYVhIT3djVjYyQ3k3cmVnNjZCOUs4VmxMRQ?oc=5",
+          "desc": "",
+          "title_en": "‘The Power of Chicken’ Samyang Foods’ Sales Profit Record… Nongshim, Orion, and Well Foods are also rosy",
+          "title_ja": "「チキンの力」サムヤンフーズの売上高実績…ノンシム、オリオン、ウェルフーズもバラ色",
+          "title_zh": "“鸡的力量” Samyang Foods的销售利润记录...... Nongshim ， Orion和Well Foods也很乐观"
+        },
+        {
           "title": "2026 푸드위크 코리아",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55V0ZlZElxWTB6Y0hmbTVqTVJqOTRjd0ptbHA3VmFwVHNQOEVvc2l1T2w2RnE3U1o0Wm9EbGJ4amo2TWhSbkFPRnQ2eUxsS3otamfSAVNBVV95cUxOVEFSX1BvUzh2UEJybkRDZzUwWC1XNW0zVWtlc20tdVJadUgtLXMwV0JJWEtnWkhjaDJrdW9MRm5VLVAyVzVpUkY1YURma0FrRkUwVQ?oc=5",
           "desc": "",
           "title_en": "2026 Food Week Korea",
           "title_ja": "2026年フードウィーク韓国",
           "title_zh": "2026年韩国食品周"
-        },
-        {
-          "title": "통영 바다 해산물로 풍성…‘미식 축제’ 열려요",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wU0l4b2h1R2VIejZiU3psUFRRZTlDNWsyLVdBS2lxa2VucmpyM2hfamJQczNVTzBQYlpSZUxHRUctVkJaUjBFdFRKb3RzcllOY0HSAVNBVV95cUxNWDhsb2RIRE95SVpDRVlPdC1PS2N1RVJOSUMwZ0FHR2QtNVFNR0M2eVBZQ2Fqa1FTeXptTjdObGYwZ1lubVJnLWJxUnRnT053YVpFYw?oc=5",
-          "desc": "",
-          "title_en": "Plenty of Tongyeong sea seafood... ‘Gourmet Festival’ is held",
-          "title_ja": "統営海の魚介たっぷり…「グルメフェスティバル」開催",
-          "title_zh": "丰富的统营海鲜……举办「美食节」"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "철도역 입점 매장 음식값, 한번 올릴때 평균 12.5% 올렸다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15SV9TNlhvekl2MTVqOEdCUHIySnZ3dHVyNHN5QUFHeUFWeGkyam1QSWZzRVZiTXRHbjVwRFFCSDdmNl9PdDNXUEg1VEk0OGxxQ1E?oc=5",
+          "desc": "",
+          "title_en": "Food value in stores at railway stations increased by 12.5% on average",
+          "title_ja": "鉄道駅の店舗での食料価値は平均12.5 ％増加",
+          "title_zh": "火车站商店的食品价值平均增长12.5%"
+        },
         {
           "title": "배민, '라이더가 배달음식 먹었다' 주장에 \"파손 처리과정 오해\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53bjg1UnZWTklpTjgtWGVfTFlQeEk4cFNFY3lndTZLWTZJaEw5MGxJNmNUMUhIWjlSdC05S3FYRWVKMkpZLWZrVjdjbl80RGF6VUE?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "Nongshim operates Shin Ramen food trucks in four cities in northeastern India",
           "title_ja": "Nongshimは、インド北東部の4つの都市で新ラーメンのフードトラックを運営しています",
           "title_zh": "Nongshim在印度东北部的四个城市经营Shin Ramen美食车"
-        },
-        {
-          "title": "롯데웰푸드, '부활 레트로껌' 프로젝트…후레쉬민트 재출시",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PckNQV25zNklZV3phbFQwVXUwRXdWQ2U1eF9iZFFJX2xTWWJfTUw5MFE3MHdqQXd2WkE1YjhjbnlvZFhheHkwUVlORUpkODFZ?oc=5",
-          "desc": "",
-          "title_en": "Lotte Well Food Releases Fresh Mint Resurrection Retro Gum Project",
-          "title_ja": "ロッテウェルフード、新鮮なミントの復活レトロガムプロジェクトをリリース",
-          "title_zh": "乐天Well Food发布新鲜薄荷复活复古口香糖项目"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
         },
         {
-          "title": "수산물 시장도 ‘이력 증명’ 시대 열린다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Uk91OHk1M0ZTcDQ5TU04WVhWd0lIejZ4dXd2dmdfVDVTN2hpU0I3N3ZCbDZtemw0cHViekkycy1RWEVmWWV1TXRTWDlyV2VXOTdPZTV0dw?oc=5",
+          "title": "여경래 셰프와 홍콩 가자…‘이금기 요리대회’ 열어",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcWE2Y2phbVRqODdNQXoyS1VKVjgzMl9SR2hzV3ppZVlmLWo3eTF3SjNHSUxRcUhuamN2NHBjUU1zWm9Jam9SbDRsb2E5eVk4bTVuZHFKdw?oc=5",
           "desc": "",
-          "title_en": "Fish markets also open in the ’proof of history’ era",
-          "title_ja": "「歴史の証拠」時代には魚市場も開かれています",
-          "title_zh": "鱼市也在“历史证明”时代开放"
+          "title_en": "Let's go to Hong Kong with Chef Yeo Kyung-rae... ‘Lee Geung-ki Cooking Contest’ is held",
+          "title_ja": "シェフYeo Kyung - raeと一緒に香港に行こう…「Lee Geung - ki Cooking Contest」が開催されます",
+          "title_zh": "让我们和大厨Yeo Kyung-rae一起去香港…… “Lee Geung-ki Cooking Contest”举行"
         },
         {
-          "title": "조림만 하기엔 아까운 연근…피클·너깃·초콜릿 변신",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wNGs1RzVGWklYNklDcVphMGlMY2dLYjR1M0pNZ1l4RlVaaWRNRlp6NEtnRUZ6UHpzbG92WFFMa0N5Y3ZrLW12OWRsREQxR29PV1hwYjFUbw?oc=5",
+          "title": "한우 세포로 고기 키우는 씨위드, 의성에 200억 생산기지 만든다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3WkNuNWdMVHF1T2dtY3RiMVF2ZEtEYUtxdHYxWERleWQxQ1VBUHlOOWNWaEdvV2RzQXl3LVg3Q2Q0eFNBUThSZXFMdVBaQkxFYjN3OFNacw?oc=5",
           "desc": "",
-          "title_en": "Lotus root that is too bad for just stewing... Pickle · Nugget · Chocolate transformation",
-          "title_ja": "煮込むには悪すぎる蓮根…ピクルス・ナゲット・チョコレート変身",
-          "title_zh": "莲藕太糟糕了，不能只炖...泡菜·金块·巧克力变身"
+          "title_en": "Seaweed Raising Meat with Hanwoo Cells Creates 20 Billion Production Base in Uiseong",
+          "title_ja": "ハンウー細胞で飼育する海藻が上城に200億の生産拠点を創出",
+          "title_zh": "用韩屋细胞养殖海藻在瑞城建立200亿个生产基地"
         }
       ]
     }
