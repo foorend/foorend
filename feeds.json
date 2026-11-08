@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-11-08T04:49:32Z",
+  "lastUpdated": "2026-11-08T12:51:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "We know how Trump and Obama feel about The Cheesecake Factory. How do consumers feel?",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMTBuRkJtblR4R0lLY29CQTZ3bWFJUjBBYVNPRzhaTXlkaE9Pek5pZ01kYnNuU0JleUx4X3hWSndEVk9yMTc1S0Z2TnJvcjBJTnRUOEU5NW9QbDZTWXZWREYybkNQanVqQTNhdnFidURaa3AybE5SWTB4Wks4SzRGRVNPQ0FXMGdUOUUzeHV3SFZBZ1p2bVNzV2VJU1NtUzB3UlZvWC1va09aOTlWYVpoWFhGWDUtbF9OVDhaUEpxTVVNcE9mT0lB?oc=5",
-          "desc": "",
-          "title_ko": "우리는 트럼프와 오바마가 치즈케이크 공장에 대해 어떻게 생각하는지 알고 있습니다. 소비자들은 어떻게 느끼나요?",
-          "title_ja": "私たちは、トランプとオバマがチーズケーキ工場についてどのように感じているかを知っています。消費者はどのように感じていますか？",
-          "title_zh": "我们知道特朗普和奥巴马对芝士蛋糕工厂的看法。消费者的感受如何？"
-        },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
@@ -28,6 +20,14 @@
           "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
           "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
           "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
+        },
+        {
+          "title": "About Restaurant Business",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZcFdyMFZ6YjRGUDltU0xPTVFvR2hpNUtyaEdqVlVtQ1ZrVFpyamFhaENhRnFBb2oyZDRwRG5YT0FKdUkyOHpFaHZBcVpjbUE3bDFjMXlVTWZBQkRsN2U4aTBHNjVuSmZ2cEoyZnZBZw?oc=5",
+          "desc": "",
+          "title_ko": "레스토랑 비즈니스 소개",
+          "title_ja": "レストラン事業について",
+          "title_zh": "关于餐厅业务"
         }
       ]
     },
@@ -74,20 +74,20 @@
           "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
         },
         {
+          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
+          "desc": "",
+          "title_ko": "주요 식품 유통업체의 IT 문제가 일부 슈퍼마켓에 선반을 비워두면서 식료품 위기가 발생하고 있습니다.",
+          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になっているため、食料品の危機が醸成されています",
+          "title_zh": "由于主要食品分销商的IT问题导致一些超市的货架空置，食品杂货危机正在酝酿之中"
+        },
+        {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
           "desc": "",
           "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
           "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
           "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
-        },
-        {
-          "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3pBcDV0OU9uRnJfSXZfMkYxTms3a2UtZ0swOU82YXpvQ3ZMTnJlS0dzNVJyakwtenBSWXhIT2RyVFBXTzNIbFdEM3dWeW92X3EyT3FGTUVxc3ptbGJRTDdPRkxoNU5ubng5ZlhXQTRBNmNnQWVXTm4wSlRSdGhwYjg0QnNTN2t6d2NmQWFhWnRuUmRjV0N2cHBXSXkxNkk?oc=5",
-          "desc": "",
-          "title_ko": "구글 벤처스 (Google Ventures) 등으로부터 1억 달러 ($) 를 모금하기 위해 사용된 독점적인 피치 데크 음식물 쓰레기 처리장 (Pitch deck food waste startup Mill) 을",
-          "title_ja": "Google Venturesなどから1億$を調達したピッチデッキ食品廃棄物スタートアップMillをチェック",
-          "title_zh": "查看独家推销平台食物垃圾初创公司Mill ，该公司曾从Google Ventures和其他公司筹集了1亿美元$"
         }
       ]
     },
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "냉동고 온도가 ‘50도’라니 “음식 몽땅 썩었다”… 유럽 마트 강타한 테러, 무슨 일?",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5seU5BTzZnQVhsNkQ2eFNPaFFDOHE5MTJ3LWFzZ3I2MUZjU3dUanRVQ0Z6LXRNSWI3eFFwc2F6azJIRlRZelpLRnMxS2p4b25tR2fSAVNBVV95cUxNc1R1VmtwV0tnTEU3NDZyNEVqM1Fydml0ZEEyUXR3MFllb181ZnRGMUxJVWppV2RnLUlDaTNTR2d4OE5DbERhLTVqQ0VUS0FCaUEwUQ?oc=5",
+          "desc": "",
+          "title_en": "The freezer temperature is‘ 50 degrees’, so “the food is rotten” … What happened to the terrorist attacks that hit the European grocery store?",
+          "title_ja": "冷凍庫の温度は「50度」なので、「食べ物が腐っています」...ヨーロッパの食料品店を襲ったテロ攻撃はどうなりましたか？",
+          "title_zh": "冰箱温度是“50度” ，所以“食物腐烂了” ……袭击欧洲杂货店的恐怖袭击发生了什么？"
+        },
+        {
           "title": "기차역에서 밥 먹으러 갔다가 “이건 선 넘었네”…음식값 12%씩 뛰더니 결국",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZVZoUlFSN3RHYnhyOWZZS294V09Yc1EwM0UtS1VFQTNkaWpseHhrQnNHUkpidXk2czMycGNTMURvUmlLTzRKb0JPVmhiOTlYZXfSAVNBVV95cUxQc3ZvMVpHYnVOeGs2R0xqOFdUTGVSRi1aTFBlYlVFTG81VlM1UXB5RVBCTnJHdHlHSDBkZmI3R2RNVlZiYms5SlFJYjZtT09LVkZzOA?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "‘The Power of Chicken’ Samyang Foods’ Sales Profit Record… Nongshim, Orion, and Well Foods are also rosy",
           "title_ja": "「チキンの力」サムヤンフーズの売上高実績…ノンシム、オリオン、ウェルフーズもバラ色",
           "title_zh": "“鸡的力量” Samyang Foods的销售利润记录...... Nongshim ， Orion和Well Foods也很乐观"
-        },
-        {
-          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
-          "desc": "",
-          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
-          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
-          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
         }
       ]
     },
@@ -204,12 +204,12 @@
           "title_zh": "火车站商店的食品价值平均增长12.5%"
         },
         {
-          "title": "배민, '라이더가 배달음식 먹었다' 주장에 \"파손 처리과정 오해\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53bjg1UnZWTklpTjgtWGVfTFlQeEk4cFNFY3lndTZLWTZJaEw5MGxJNmNUMUhIWjlSdC05S3FYRWVKMkpZLWZrVjdjbl80RGF6VUE?oc=5",
+          "title": "풀무원 올가홀푸드, 김장철 맞이 김장 재료 예약기획전",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lV0hPRVlUb0x2SW15enBqU1l1ZnF1M2hfcGs2dHRTSnk2VUdENDdkZW1XU1VOZnNqNDUyZjUxQUxSZ1V1YlU4SVF4b1JUenUz?oc=5",
           "desc": "",
-          "title_en": "Bae Min, \"Misunderstanding the vandalism process\" for claiming \"Rider ate delivery food\"",
-          "title_ja": "Bae Min, \"Misunderstanding the vandalism process\" for claiming \"Rider ate delivery food\"",
-          "title_zh": "Bae Min ，因声称“乘客吃了派送餐点”而“误解了故意破坏流程”"
+          "title_en": "Pulmuwon Olga Whole Foods, Kim Jangcheol Welcome Kim Jang Material Reservation Exhibition",
+          "title_ja": "Pulmuwon Olga Whole Foods、Kim Jangcheol Welcome Kim Jang素材予約展",
+          "title_zh": "Pulmuwon Olga Whole Foods ， Kim Jangcheol欢迎Kim Jang材料预订展览"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "고객·점주 아이디어로 신메뉴 발굴…파파존스, ‘레시피 공모전’ 마쳐",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tTjQwM0tXdDBZQkRFZWZ3LUdiR2VBemt3dDM5Mk84dGVsaTVLZ3ZOeFRMRTFWejBDeDdDc19HT0Zyb004bm9Gd3p2MUVpcUpVaDRIR1g1TQ?oc=5",
+          "desc": "",
+          "title_en": "Discover new menu with customer and owner ideas… Papa Jones finishes‘ Recipe Contest ’",
+          "title_ja": "顧客とオーナーのアイデアで新しいメニューを発見…パパ・ジョーンズが「レシピコンテスト」を終了",
+          "title_zh": "探索包含客户和业主创意的新菜单…… Papa Jones完成了“食谱竞赛”"
+        },
+        {
+          "title": "이스라엘 외식시장, 한식은 아직 ‘빈자리’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jZG9BTnlLeFhJN1M2elNKQkpGNm5raGYzc3ByRGFsUWkwaVlFZHY3cll6ZlRxWnpBb29uMGotVzJuaGhQOXNWWS1aYi1TVmsyNnJFdHpEZw?oc=5",
+          "desc": "",
+          "title_en": "Israeli Food Market: Korean Food Is Still ‘Vacant’",
+          "title_ja": "イスラエルの食品市場：韓国料理はまだ「空いている」",
+          "title_zh": "以色列食品市场：韩国食品仍然“空缺”"
+        },
+        {
           "title": "소량 일상 배달까지…美 월마트와 샘스클럽 전격 통합",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CY2M1VmUySklSc3I5d0xyR0otM0lFS2k3S0ZJZHUtTDF3ZXhqaFgtbkdLUGJMQnRxT2I0MHFLZThMV2ZKZTVJY2hqRFZCMnd2QWhWaWppVQ?oc=5",
           "desc": "",
           "title_en": "Even small daily deliveries… US Walmart and Sam's Club Lightning Integration",
           "title_ja": "毎日の小さな配達でも...米国ウォルマートとサムズクラブライトニングの統合",
           "title_zh": "即使是日常小额派送……美国沃尔玛和山姆会员闪电整合"
-        },
-        {
-          "title": "“먹으면서 피부 관리” 독일의 ‘이너뷰티’ 시장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UM194RHA3Q2JPRzJnS1VxUENJZ0F5UktmdlAwOXVJdy1mbjNYZXM2UmlGaG9iUk5FYzRkSE45QzM1QV8takRxM1FXdjFJODUtZmQzUURONA?oc=5",
-          "desc": "",
-          "title_en": "“Eating and taking care of your skin” Inner Beauty Market in Germany",
-          "title_ja": "「肌を食べてケアする」ドイツのインナービューティーマーケット",
-          "title_zh": "“吃和照顾你的皮肤”德国的内部美容市场"
-        },
-        {
-          "title": "호주 젤라토부터 일본 음식 거리까지, 싱가포르 사로잡은 브랜드",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbV9MeGM2VWctLTRMMFQtQ0NMOElyUmYzR1U1N0xqaXptUEdmMUVGXzJ3WTdRd3l3ODd6aVMwVDBzclRzM1poa1N2aFd6RWo5aEExY25RTQ?oc=5",
-          "desc": "",
-          "title_en": "Captivating brands in Singapore, from Australian gelato to Japanese food street",
-          "title_ja": "オーストラリアのジェラートから日本のフードストリートまで、シンガポールの魅力的なブランド",
-          "title_zh": "从澳大利亚冰淇淋到日本美食街，新加坡迷人的品牌"
         }
       ]
     }
