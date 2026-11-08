@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T21:30:06Z",
+  "lastUpdated": "2026-11-08T04:49:32Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"봄동 다음은 이거지\"…아재들 술안주에 꽂힌 2030 [김기자의 알고리즘]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRW5Bb2Z0cU93Y29KLWYzZXRaRGU2cTNLc0hmVkpvOHNpeFFDYkdNQmx6SVhKalBvMGNtUXhqMUpablZWeHFWN0xPdnVCWGhhSUlvR19waUhzUQ?oc=5",
+          "desc": "",
+          "title_en": "\"Bom-dong next is this\" … 2030 [Kim Ki-ja's algorithm] plugged into Ajae-dong's alcoholic beverage",
+          "title_ja": "「Bom - dong next is this」… 2030年[Kim Ki - jaのアルゴリズム]がAjae - dongのアルコール飲料に差し込まれる",
+          "title_zh": "“Bom-dong next is this” … 2030 [Kim Ki-ja的算法]插入了Ajae-dong的酒精饮料"
+        },
+        {
           "title": "\"배달기사가 음식 뜯어먹었다\" 발칵…알고 보니 '반전'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0d2o4Njc5ODhadkNMNkZvbTUzSW5nNkdndmdMdWZMOFZiVkNfNlQ1RUlIZWdXNFRfb3MzYmdySHBYLUFkOHhYYmpoaUt0Tm1Jem5DODYzYi16QQ?oc=5",
           "desc": "",
@@ -142,14 +150,6 @@
           "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on November 8",
           "title_ja": "【本日の星占い】今日は何を食べようか… 11月8日にベルトでおすすめのランチメニュー",
           "title_zh": "【今天的星座】今天吃什么？ … 11月8日腰带推荐午餐菜单"
-        },
-        {
-          "title": "칠면조에 고추장 더하는 美 Z세대… 달라지는 식품 소비",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56ak1kNnZZc0ExWkdVTU5veGJocnF4NVlMNWwxQWRWd29WYTVHWUN4WU9SS1dKVThVTnRkY2pCVWplMU1xenpHMFp2NnljYW5qWGY0bE1DMzU1dkU5ZkNCTUtWZWNOVGI3OFJMbQ?oc=5",
-          "desc": "",
-          "title_en": "Generation Z of beauty adding pepper to turkey… Different food consumption",
-          "title_ja": "七面鳥にコショウを加える美しさの世代Z…異なる食べ物の消費量",
-          "title_zh": "Z世代的美女将胡椒添加到火鸡中……不同的食物消费量"
         }
       ]
     },
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "기차역에서 밥 먹으러 갔다가 “이건 선 넘었네”…음식값 12%씩 뛰더니 결국",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZVZoUlFSN3RHYnhyOWZZS294V09Yc1EwM0UtS1VFQTNkaWpseHhrQnNHUkpidXk2czMycGNTMURvUmlLTzRKb0JPVmhiOTlYZXfSAVNBVV95cUxQc3ZvMVpHYnVOeGs2R0xqOFdUTGVSRi1aTFBlYlVFTG81VlM1UXB5RVBCTnJHdHlHSDBkZmI3R2RNVlZiYms5SlFJYjZtT09LVkZzOA?oc=5",
+          "desc": "",
+          "title_en": "I went to eat at the train station and said, “This is over the line” … I jumped 12% for food.",
+          "title_ja": "私は駅で食事をしに行き、「これは一線を越えています」と言いました…私は食べ物のために12 ％ジャンプしました。",
+          "title_zh": "我去火车站吃饭，说： “这太过分了” ……我跳了12%的食物。"
+        },
+        {
           "title": "‘불닭의 힘’ 삼양식품 영업익 신기록…농심·오리온·웰푸드도 장밋빛",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paGZRbUhmOVRkdExDRHhucHYxNGZQa0hPTmp1VjF3bktRUWtpamtWZWlPZmFMQnR2UTJaUVBLMTRmRC1hZS1LY1R1OWdzZXJJcHfSAVNBVV95cUxNQVQwOU1RR193OEI0MnpNWVFVdHE2cVhXa3NtLXFNV0o0amNIODhIcUJsUVJMSll4X3RjYVhIT3djVjYyQ3k3cmVnNjZCOUs4VmxMRQ?oc=5",
           "desc": "",
           "title_en": "‘The Power of Chicken’ Samyang Foods’ Sales Profit Record… Nongshim, Orion, and Well Foods are also rosy",
           "title_ja": "「チキンの力」サムヤンフーズの売上高実績…ノンシム、オリオン、ウェルフーズもバラ色",
           "title_zh": "“鸡的力量” Samyang Foods的销售利润记录...... Nongshim ， Orion和Well Foods也很乐观"
-        },
-        {
-          "title": "2026 푸드위크 코리아",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55V0ZlZElxWTB6Y0hmbTVqTVJqOTRjd0ptbHA3VmFwVHNQOEVvc2l1T2w2RnE3U1o0Wm9EbGJ4amo2TWhSbkFPRnQ2eUxsS3otamfSAVNBVV95cUxOVEFSX1BvUzh2UEJybkRDZzUwWC1XNW0zVWtlc20tdVJadUgtLXMwV0JJWEtnWkhjaDJrdW9MRm5VLVAyVzVpUkY1YURma0FrRkUwVQ?oc=5",
-          "desc": "",
-          "title_en": "2026 Food Week Korea",
-          "title_ja": "2026年フードウィーク韓国",
-          "title_zh": "2026年韩国食品周"
         },
         {
           "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
@@ -204,12 +204,12 @@
           "title_zh": "火车站商店的食品价值平均增长12.5%"
         },
         {
-          "title": "풀무원 올가홀푸드, 김장철 맞이 김장 재료 예약기획전",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lV0hPRVlUb0x2SW15enBqU1l1ZnF1M2hfcGs2dHRTSnk2VUdENDdkZW1XU1VOZnNqNDUyZjUxQUxSZ1V1YlU4SVF4b1JUenUz?oc=5",
+          "title": "배민, '라이더가 배달음식 먹었다' 주장에 \"파손 처리과정 오해\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53bjg1UnZWTklpTjgtWGVfTFlQeEk4cFNFY3lndTZLWTZJaEw5MGxJNmNUMUhIWjlSdC05S3FYRWVKMkpZLWZrVjdjbl80RGF6VUE?oc=5",
           "desc": "",
-          "title_en": "Pulmuwon Olga Whole Foods, Kim Jangcheol Welcome Kim Jang Material Reservation Exhibition",
-          "title_ja": "Pulmuwon Olga Whole Foods、Kim Jangcheol Welcome Kim Jang素材予約展",
-          "title_zh": "Pulmuwon Olga Whole Foods ， Kim Jangcheol欢迎Kim Jang材料预订展览"
+          "title_en": "Bae Min, \"Misunderstanding the vandalism process\" for claiming \"Rider ate delivery food\"",
+          "title_ja": "Bae Min, \"Misunderstanding the vandalism process\" for claiming \"Rider ate delivery food\"",
+          "title_zh": "Bae Min ，因声称“乘客吃了派送餐点”而“误解了故意破坏流程”"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
-          "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
+          "title": "소량 일상 배달까지…美 월마트와 샘스클럽 전격 통합",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CY2M1VmUySklSc3I5d0xyR0otM0lFS2k3S0ZJZHUtTDF3ZXhqaFgtbkdLUGJMQnRxT2I0MHFLZThMV2ZKZTVJY2hqRFZCMnd2QWhWaWppVQ?oc=5",
           "desc": "",
-          "title_en": "Japanese food, not K-food? … “The trend in 2027 is Japanese style”",
-          "title_ja": "K食じゃなくて和食？ …「2027年のトレンドは和風」",
-          "title_zh": "日本料理，不是K-food ？ …… “2027年的趋势是日式风格”"
+          "title_en": "Even small daily deliveries… US Walmart and Sam's Club Lightning Integration",
+          "title_ja": "毎日の小さな配達でも...米国ウォルマートとサムズクラブライトニングの統合",
+          "title_zh": "即使是日常小额派送……美国沃尔玛和山姆会员闪电整合"
         },
         {
-          "title": "한우 세포로 고기 키우는 씨위드, 의성에 200억 생산기지 만든다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3WkNuNWdMVHF1T2dtY3RiMVF2ZEtEYUtxdHYxWERleWQxQ1VBUHlOOWNWaEdvV2RzQXl3LVg3Q2Q0eFNBUThSZXFMdVBaQkxFYjN3OFNacw?oc=5",
+          "title": "“먹으면서 피부 관리” 독일의 ‘이너뷰티’ 시장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UM194RHA3Q2JPRzJnS1VxUENJZ0F5UktmdlAwOXVJdy1mbjNYZXM2UmlGaG9iUk5FYzRkSE45QzM1QV8takRxM1FXdjFJODUtZmQzUURONA?oc=5",
           "desc": "",
-          "title_en": "Seaweed Raising Meat with Hanwoo Cells Creates 20 Billion Production Base in Uiseong",
-          "title_ja": "ハンウー細胞で飼育する海藻が上城に200億の生産拠点を創出",
-          "title_zh": "用韩屋细胞养殖海藻在瑞城建立200亿个生产基地"
+          "title_en": "“Eating and taking care of your skin” Inner Beauty Market in Germany",
+          "title_ja": "「肌を食べてケアする」ドイツのインナービューティーマーケット",
+          "title_zh": "“吃和照顾你的皮肤”德国的内部美容市场"
         },
         {
-          "title": "6일만에 10만잔…메가MGC커피, 코그페 릴레이 할인",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sVXBIV1pnaGQyT1hMYXdPSVRPT3YwN1Y5N2NzRWRSem83b3hOZU5uTXB5QlR6cVdRMXpKN09fU19DaHAwdXI2N2RjRWl3dklhQ0R3MGxYWQ?oc=5",
+          "title": "호주 젤라토부터 일본 음식 거리까지, 싱가포르 사로잡은 브랜드",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbV9MeGM2VWctLTRMMFQtQ0NMOElyUmYzR1U1N0xqaXptUEdmMUVGXzJ3WTdRd3l3ODd6aVMwVDBzclRzM1poa1N2aFd6RWo5aEExY25RTQ?oc=5",
           "desc": "",
-          "title_en": "100,000 cups in 6 days… Mega GC Coffee, Cogpe Relay Discount",
-          "title_ja": "6日間で100,000杯…メガGCコーヒー、コグペリレー割引",
-          "title_zh": "6天10万杯…… Mega GC咖啡， Cogpe Relay折扣"
+          "title_en": "Captivating brands in Singapore, from Australian gelato to Japanese food street",
+          "title_ja": "オーストラリアのジェラートから日本のフードストリートまで、シンガポールの魅力的なブランド",
+          "title_zh": "从澳大利亚冰淇淋到日本美食街，新加坡迷人的品牌"
         }
       ]
     }
