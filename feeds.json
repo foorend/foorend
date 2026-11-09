@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T10:58:06Z",
+  "lastUpdated": "2026-11-09T21:59:00Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -44,20 +44,20 @@
           "title_zh": "奥利奥建造了一个“末日”避难所，以保护其食谱和饼干"
         },
         {
-          "title": "Food News & Trends",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
+          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
+          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
         },
         {
-          "title": "World's Largest Burger Costs $8,000",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qaFZFYXg5RlJaT3B6RTlhR2ZseXRENGhYNF9YbHg0U0NkdDE2SzhRUURpa3Z6ZlZORU51QkJTWW9ERHVZaUlYd2VOT0F2RC1NZmUtdTVlUGFQQjV0UU01S1pqN0Y?oc=5",
+          "title": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
           "desc": "",
-          "title_ko": "세계에서 가장 큰 햄버거 비용 $ 8,000",
-          "title_ja": "世界最大のハンバーガーの価格は$ 8,000",
-          "title_zh": "全球最大的汉堡售价为$ 8,000"
+          "title_ko": "놓치고 싶지 않은 음식 대림절 달력 20선 — 본 마만, 윌리엄스 소노마 등",
+          "title_ja": "Bonne Maman、Williams Sonomaなどのおすすめフードアデントカレンダー20選",
+          "title_zh": "Bonne Maman、Williams Sonoma等20个不容错过的美食降临日历"
         }
       ]
     },
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "배달음식값 담합 유도한 배민·쿠팡…6319억 과징금",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tWmdqQktjOUVYQUJlOWxMZ3NRd1djMXBzeTUwblFNQk5XVVM2ZExjQWczLUpvbmdUUEFnMExrX3VIbnhfS0ExMkJFRVpJeU9KclHSAVNBVV95cUxPMDNNNUlQWGlRZU81ZGlmMVBkMU5qbE14Q0Z4anZjdHptWkp4a1JvOS1lS3pwQURHU3JRVUoxb2lpSm1CYU1TZG9raW5yRTBZeHdxdw?oc=5",
+          "desc": "",
+          "title_en": "Delivery Food Value Fixing Induced Baemin · Coupang… 63.19 Billion Penalty",
+          "title_ja": "配達料理の価値を固定する誘発Baemin・Coupang… 631.9億ペナルティ",
+          "title_zh": "送餐定价诱发Baemin · Coupang… 631.9亿罚款"
+        },
+        {
           "title": "기차역에서 밥 먹으러 갔다가 “이건 선 넘었네”…음식값 12%씩 뛰더니 결국",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZVZoUlFSN3RHYnhyOWZZS294V09Yc1EwM0UtS1VFQTNkaWpseHhrQnNHUkpidXk2czMycGNTMURvUmlLTzRKb0JPVmhiOTlYZXfSAVNBVV95cUxQc3ZvMVpHYnVOeGs2R0xqOFdUTGVSRi1aTFBlYlVFTG81VlM1UXB5RVBCTnJHdHlHSDBkZmI3R2RNVlZiYms5SlFJYjZtT09LVkZzOA?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
           "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
           "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
-        },
-        {
-          "title": "‘불닭의 힘’ 삼양식품 영업익 신기록…농심·오리온·웰푸드도 장밋빛",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paGZRbUhmOVRkdExDRHhucHYxNGZQa0hPTmp1VjF3bktRUWtpamtWZWlPZmFMQnR2UTJaUVBLMTRmRC1hZS1LY1R1OWdzZXJJcHfSAVNBVV95cUxNQVQwOU1RR193OEI0MnpNWVFVdHE2cVhXa3NtLXFNV0o0amNIODhIcUJsUVJMSll4X3RjYVhIT3djVjYyQ3k3cmVnNjZCOUs4VmxMRQ?oc=5",
-          "desc": "",
-          "title_en": "‘The Power of Chicken’ Samyang Foods’ Sales Profit Record… Nongshim, Orion, and Well Foods are also rosy",
-          "title_ja": "「チキンの力」サムヤンフーズの売上高実績…ノンシム、オリオン、ウェルフーズもバラ色",
-          "title_zh": "“鸡的力量” Samyang Foods的销售利润记录...... Nongshim ， Orion和Well Foods也很乐观"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "【宠物】「我不只卖食物」……宠物食品-水、「医疗健康」合作拓展"
         },
         {
-          "title": "송미령 장관, '푸드위크 코리아' 방문…\"K푸드 지속 성장 지원\"",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XN0NKY0kzMFZYMHliMmdwRnBUNU5hTUhMbGV3eWdtakJ0QUZrS1lkd2JvR1RIRy1IbEUxbDVXYnVoeEdoUHMtVl9PNXJGeTZrcEE?oc=5",
-          "desc": "",
-          "title_en": "Minister Song Mi-ryeong visits Food Week Korea... \"Support continued growth of K-Food\"",
-          "title_ja": "ソン・ミリョン大臣が韓国のフードウィークを訪問…「K - Foodの継続的な成長を支援」",
-          "title_zh": "宋美玲部长访问韩国食品周…… “支持韩国食品持续增长”"
-        },
-        {
           "title": "불닭 다음은 ‘유튜브 스타’…K푸드 기업들, 글로벌 콘텐츠 승부수",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SdTcxT1ZZbnVuX0lzU2JmaFVYM25TX2dWQm1NLVkyc3Bmd1Zpd2tsb1Y5d0NZSndGcWtVUzFjRnFWdGpfOU1LTHpXQ3Y0Z0o4cF92dQ?oc=5",
           "desc": "",
           "title_en": "Next is‘ YouTube Star ’… K-Food Companies, Global Content Winner",
           "title_ja": "次は「YouTubeスター」... K - Food Companies、グローバルコンテンツ受賞者",
           "title_zh": "接下来是“YouTube之星” …… K-Food公司，全球内容赢家"
+        },
+        {
+          "title": "송미령 장관, '푸드위크 코리아' 방문…\"K푸드 지속 성장 지원\"",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XN0NKY0kzMFZYMHliMmdwRnBUNU5hTUhMbGV3eWdtakJ0QUZrS1lkd2JvR1RIRy1IbEUxbDVXYnVoeEdoUHMtVl9PNXJGeTZrcEE?oc=5",
+          "desc": "",
+          "title_en": "Minister Song Mi-ryeong visits Food Week Korea... \"Support continued growth of K-Food\"",
+          "title_ja": "ソン・ミリョン大臣が韓国のフードウィークを訪問…「K - Foodの継続的な成長を支援」",
+          "title_zh": "宋美玲部长访问韩国食品周…… “支持韩国食品持续增长”"
         }
       ]
     },
@@ -226,20 +226,20 @@
           "title_zh": "探索包含客户和业主创意的新菜单…… Papa Jones完成了“食谱竞赛”"
         },
         {
-          "title": "이스라엘 외식시장, 한식은 아직 ‘빈자리’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jZG9BTnlLeFhJN1M2elNKQkpGNm5raGYzc3ByRGFsUWkwaVlFZHY3cll6ZlRxWnpBb29uMGotVzJuaGhQOXNWWS1aYi1TVmsyNnJFdHpEZw?oc=5",
-          "desc": "",
-          "title_en": "Israeli Food Market: Korean Food Is Still ‘Vacant’",
-          "title_ja": "イスラエルの食品市場：韓国料理はまだ「空いている」",
-          "title_zh": "以色列食品市场：韩国食品仍然“空缺”"
-        },
-        {
           "title": "“먹으면서 피부 관리” 독일의 ‘이너뷰티’ 시장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UM194RHA3Q2JPRzJnS1VxUENJZ0F5UktmdlAwOXVJdy1mbjNYZXM2UmlGaG9iUk5FYzRkSE45QzM1QV8takRxM1FXdjFJODUtZmQzUURONA?oc=5",
           "desc": "",
           "title_en": "“Eating and taking care of your skin” Inner Beauty Market in Germany",
           "title_ja": "「肌を食べてケアする」ドイツのインナービューティーマーケット",
           "title_zh": "“吃和照顾你的皮肤”德国的内部美容市场"
+        },
+        {
+          "title": "풀무원, ‘반듯한식’ 국탕류 9종 선봬…프리미엄 한식 시장 공략",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SMGpGU3lYdW1Qbkh4cmk1OHRrTUxVWTRiRjdpNTY4REM3cUpMYTREWHdnOUc3VVJYSksyRUNfTkJVQTB2dm9TM2ZqYlhzM3VGeGFWbkMtTQ?oc=5",
+          "desc": "",
+          "title_en": "Pulmuwon to select 9 kinds of ‘smooth Korean' soup… Target the premium Korean food market",
+          "title_ja": "9種類の「なめらかな韓国」スープを選ぶプルムウォン…プレミアム韓国料理市場をターゲットに",
+          "title_zh": "Pulmuwon精选9种“流畅的韩国”汤......瞄准高端韩国食品市场"
         }
       ]
     }
