@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T00:34:51Z",
+  "lastUpdated": "2026-11-09T10:58:06Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -52,12 +52,12 @@
           "title_zh": "美食新闻和趋势"
         },
         {
-          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
+          "title": "World's Largest Burger Costs $8,000",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qaFZFYXg5RlJaT3B6RTlhR2ZseXRENGhYNF9YbHg0U0NkdDE2SzhRUURpa3Z6ZlZORU51QkJTWW9ERHVZaUlYd2VOT0F2RC1NZmUtdTVlUGFQQjV0UU01S1pqN0Y?oc=5",
           "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+          "title_ko": "세계에서 가장 큰 햄버거 비용 $ 8,000",
+          "title_ja": "世界最大のハンバーガーの価格は$ 8,000",
+          "title_zh": "全球最大的汉堡售价为$ 8,000"
         }
       ]
     },
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"누가 이걸 사왔냐\" 의사들 기겁…병원서 금기된 '이 음식'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LaV93em5Xckxhb2E5MUk4cFdETGZieTVPTjltWW9FOEVieUVEX3MwelBKSzVzTTlRZTBNQjRaRjdxX3JHNEg2cjd2R3Bvd3B6N2gtVWwwUU16dw?oc=5",
+          "desc": "",
+          "title_en": "\"Who Bought This?\" Doctors Are Frightened... 'This Food' Forbidden in Hospitals",
+          "title_ja": "「誰がこれを買ったのですか？」医者は怖がっています...病院では「この食べ物」は禁止されています",
+          "title_zh": "“这是谁买的？”医生们很害怕……医院里禁止吃'这道菜'"
+        },
+        {
+          "title": "아재들만 먹는 음식?…\"없어서 못 먹어요\" 2030 홀린 '별미' [프라이스&]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4YXhLVW1Cek83Y2cxLXNCNnpiRm5CdjNSbS1qVk84S2VJa1plSmlEeEp3X0M5T0dIQ3FQV3dEd2lJODd3Z3pISnl6d1lIZUlyTGhta1pWOHp4UQ?oc=5",
+          "desc": "",
+          "title_en": "Food only for Ajae?... \"I can't eat it because I don't have it\" 2030 Hollin 'Delicacy \"[Price &]",
+          "title_ja": "アジャエのためだけの食べ物？...「私はそれを持っていないのでそれを食べることができません」2030 Hollin 'Delicacy [Price &]",
+          "title_zh": "仅供Ajae享用的食物？... \"我不能吃它，因为我没有它\" 2030 Hollin 'Delicacy \"[Price &]"
+        },
+        {
           "title": "\"봄동 다음은 이거지\"…아재들 술안주에 꽂힌 2030 [김기자의 알고리즘]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRW5Bb2Z0cU93Y29KLWYzZXRaRGU2cTNLc0hmVkpvOHNpeFFDYkdNQmx6SVhKalBvMGNtUXhqMUpablZWeHFWN0xPdnVCWGhhSUlvR19waUhzUQ?oc=5",
           "desc": "",
           "title_en": "\"Bom-dong next is this\" … 2030 [Kim Ki-ja's algorithm] plugged into Ajae-dong's alcoholic beverage",
           "title_ja": "「Bom - dong next is this」… 2030年[Kim Ki - jaのアルゴリズム]がAjae - dongのアルコール飲料に差し込まれる",
           "title_zh": "“Bom-dong next is this” … 2030 [Kim Ki-ja的算法]插入了Ajae-dong的酒精饮料"
-        },
-        {
-          "title": "아재들만 먹는 음식?…\"없어서 못 먹어요\" 2030 홀린 '별미'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4YXhLVW1Cek83Y2cxLXNCNnpiRm5CdjNSbS1qVk84S2VJa1plSmlEeEp3X0M5T0dIQ3FQV3dEd2lJODd3Z3pISnl6d1lIZUlyTGhta1pWOHp4UQ?oc=5",
-          "desc": "",
-          "title_en": "Food only for Ajae?... \"I can't eat it because I don't have it\" 2030 Hollin 'Delicacy \"",
-          "title_ja": "アジャエ専用の食べ物？ ……「持っていないから食べられない」「2030 Hollin 'Delicacy」",
-          "title_zh": "只给Ajae吃的？ …… ”我不能吃，因为我没有“ 2030 Hollin 'Delicacy ”"
-        },
-        {
-          "title": "현대그린푸드, ‘함소아제약-佛뉴트리센스’ 협업한 특수의료용도식품 국내 유통 맡는다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VX0Y3V1FCREp1b3N5NVJUNTJJRWdCTmN1RXp5UHI4V1JKa0xBUzRJaGRQbFpZRUl4NUF5aWtkQkpqZVQxRnFZV0Zsb3VIRW43VmQ4Y2tJTWI1Zw?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, ‘Hamsoa Pharmaceutical- Nutrisense’ In charge of distributing special medical use food products in Korea",
-          "title_ja": "Hyundai Green Food、「Hamsoa Pharmaceutical - Nutrisense」韓国における特殊医療用食品の流通を担当",
-          "title_zh": "现代绿色食品， “Hamsoa Pharmaceutical- Nutrisense”负责在韩国分销特殊医疗用途食品"
         }
       ]
     },
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "냉동고 온도가 ‘50도’라니 “음식 몽땅 썩었다”… 유럽 마트 강타한 테러, 무슨 일?",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5seU5BTzZnQVhsNkQ2eFNPaFFDOHE5MTJ3LWFzZ3I2MUZjU3dUanRVQ0Z6LXRNSWI3eFFwc2F6azJIRlRZelpLRnMxS2p4b25tR2fSAVNBVV95cUxNc1R1VmtwV0tnTEU3NDZyNEVqM1Fydml0ZEEyUXR3MFllb181ZnRGMUxJVWppV2RnLUlDaTNTR2d4OE5DbERhLTVqQ0VUS0FCaUEwUQ?oc=5",
-          "desc": "",
-          "title_en": "The freezer temperature is‘ 50 degrees’, so “the food is rotten” … What happened to the terrorist attacks that hit the European grocery store?",
-          "title_ja": "冷凍庫の温度は「50度」なので、「食べ物が腐っています」...ヨーロッパの食料品店を襲ったテロ攻撃はどうなりましたか？",
-          "title_zh": "冰箱温度是“50度” ，所以“食物腐烂了” ……袭击欧洲杂货店的恐怖袭击发生了什么？"
-        },
-        {
           "title": "기차역에서 밥 먹으러 갔다가 “이건 선 넘었네”…음식값 12%씩 뛰더니 결국",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZVZoUlFSN3RHYnhyOWZZS294V09Yc1EwM0UtS1VFQTNkaWpseHhrQnNHUkpidXk2czMycGNTMURvUmlLTzRKb0JPVmhiOTlYZXfSAVNBVV95cUxQc3ZvMVpHYnVOeGs2R0xqOFdUTGVSRi1aTFBlYlVFTG81VlM1UXB5RVBCTnJHdHlHSDBkZmI3R2RNVlZiYms5SlFJYjZtT09LVkZzOA?oc=5",
           "desc": "",
           "title_en": "I went to eat at the train station and said, “This is over the line” … I jumped 12% for food.",
           "title_ja": "私は駅で食事をしに行き、「これは一線を越えています」と言いました…私は食べ物のために12 ％ジャンプしました。",
           "title_zh": "我去火车站吃饭，说： “这太过分了” ……我跳了12%的食物。"
+        },
+        {
+          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
+          "desc": "",
+          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
+          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
+          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
         },
         {
           "title": "‘불닭의 힘’ 삼양식품 영업익 신기록…농심·오리온·웰푸드도 장밋빛",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "[반려동물] \"사료만 팔지 않는다\"…펫푸드-수의계, '의료·건강' 협업 확대",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHN1pzUXVYVEtmVFpLOU9wdmdXVk5sTGhSS09TSUVkYnI0aG8xb3dJZGZscGxXakVnWnBhMmFkbWRMc3dHNUpQTlkzcGJ4b2pFNXc?oc=5",
+          "desc": "",
+          "title_en": "[Pets] \"I don't just sell food\" … Pet food-water, 'medical and health' collaboration expanded",
+          "title_ja": "【ペット】「食べ物だけを売っているわけではない」…ペットフード-水、「医療と健康」のコラボレーションが拡大",
+          "title_zh": "【宠物】「我不只卖食物」……宠物食品-水、「医疗健康」合作拓展"
+        },
+        {
           "title": "송미령 장관, '푸드위크 코리아' 방문…\"K푸드 지속 성장 지원\"",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XN0NKY0kzMFZYMHliMmdwRnBUNU5hTUhMbGV3eWdtakJ0QUZrS1lkd2JvR1RIRy1IbEUxbDVXYnVoeEdoUHMtVl9PNXJGeTZrcEE?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "宋美玲部长访问韩国食品周…… “支持韩国食品持续增长”"
         },
         {
-          "title": "철도역 입점 매장 음식값, 한번 올릴때 평균 12.5% 올렸다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15SV9TNlhvekl2MTVqOEdCUHIySnZ3dHVyNHN5QUFHeUFWeGkyam1QSWZzRVZiTXRHbjVwRFFCSDdmNl9PdDNXUEg1VEk0OGxxQ1E?oc=5",
+          "title": "불닭 다음은 ‘유튜브 스타’…K푸드 기업들, 글로벌 콘텐츠 승부수",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SdTcxT1ZZbnVuX0lzU2JmaFVYM25TX2dWQm1NLVkyc3Bmd1Zpd2tsb1Y5d0NZSndGcWtVUzFjRnFWdGpfOU1LTHpXQ3Y0Z0o4cF92dQ?oc=5",
           "desc": "",
-          "title_en": "Food value in stores at railway stations increased by 12.5% on average",
-          "title_ja": "鉄道駅の店舗での食料価値は平均12.5 ％増加",
-          "title_zh": "火车站商店的食品价值平均增长12.5%"
-        },
-        {
-          "title": "풀무원 올가홀푸드, 김장철 맞이 김장 재료 예약기획전",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lV0hPRVlUb0x2SW15enBqU1l1ZnF1M2hfcGs2dHRTSnk2VUdENDdkZW1XU1VOZnNqNDUyZjUxQUxSZ1V1YlU4SVF4b1JUenUz?oc=5",
-          "desc": "",
-          "title_en": "Pulmuwon Olga Whole Foods, Kim Jangcheol Welcome Kim Jang Material Reservation Exhibition",
-          "title_ja": "Pulmuwon Olga Whole Foods、Kim Jangcheol Welcome Kim Jang素材予約展",
-          "title_zh": "Pulmuwon Olga Whole Foods ， Kim Jangcheol欢迎Kim Jang材料预订展览"
+          "title_en": "Next is‘ YouTube Star ’… K-Food Companies, Global Content Winner",
+          "title_ja": "次は「YouTubeスター」... K - Food Companies、グローバルコンテンツ受賞者",
+          "title_zh": "接下来是“YouTube之星” …… K-Food公司，全球内容赢家"
         }
       ]
     },
@@ -234,12 +234,12 @@
           "title_zh": "以色列食品市场：韩国食品仍然“空缺”"
         },
         {
-          "title": "소량 일상 배달까지…美 월마트와 샘스클럽 전격 통합",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CY2M1VmUySklSc3I5d0xyR0otM0lFS2k3S0ZJZHUtTDF3ZXhqaFgtbkdLUGJMQnRxT2I0MHFLZThMV2ZKZTVJY2hqRFZCMnd2QWhWaWppVQ?oc=5",
+          "title": "“먹으면서 피부 관리” 독일의 ‘이너뷰티’ 시장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UM194RHA3Q2JPRzJnS1VxUENJZ0F5UktmdlAwOXVJdy1mbjNYZXM2UmlGaG9iUk5FYzRkSE45QzM1QV8takRxM1FXdjFJODUtZmQzUURONA?oc=5",
           "desc": "",
-          "title_en": "Even small daily deliveries… US Walmart and Sam's Club Lightning Integration",
-          "title_ja": "毎日の小さな配達でも...米国ウォルマートとサムズクラブライトニングの統合",
-          "title_zh": "即使是日常小额派送……美国沃尔玛和山姆会员闪电整合"
+          "title_en": "“Eating and taking care of your skin” Inner Beauty Market in Germany",
+          "title_ja": "「肌を食べてケアする」ドイツのインナービューティーマーケット",
+          "title_zh": "“吃和照顾你的皮肤”德国的内部美容市场"
         }
       ]
     }
