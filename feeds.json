@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T06:13:44Z",
+  "lastUpdated": "2026-11-10T16:49:18Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -96,28 +96,28 @@
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "The 50 Best Restaurants 2026: The Full List of Winners",
-          "link": "https://www.eater.com/awards-season/998589/worlds-50-best-restaurants-2026-full-list-of-winners",
-          "desc": "Tonight, the 50 Best Restaurants 2026 were announced at a ceremony in Lima, Peru, with Basque Country restaurant Asador Etxebarri crowned the new top ",
-          "title_ko": "2026년 최고의 레스토랑 50선: 수상자 전체 목록",
-          "title_ja": "2026年ベストレストラン50 ：受賞者の全リスト",
-          "title_zh": "2026年50家最佳餐厅：完整获奖名单"
+          "title": "The Best New Restaurants in America in 2026",
+          "link": "https://www.eater.com/dining-out/993544/best-new-restaurants-america-2026",
+          "desc": "These are the 15 new restaurants that best captured the year in dining. Our team of editors and scouts traveled across the country, drawing on years o",
+          "title_ko": "2026년 미국 최고의 새로운 레스토랑",
+          "title_ja": "2026年のアメリカで人気の新しいレストラン",
+          "title_zh": "2026年美国最佳新餐厅"
         },
         {
-          "title": "Mexican Seafood and Natural Wines Are in the Spotlight at This New NYC Restaurant",
-          "link": "https://www.eater.com/dining-out/998478/camaron-peludo-mexican-seafood-wine-bar-nyc-prep",
-          "desc": "Known for their roasted and slow-cooked meats at Taqueria Ramirez, Tania Apolinar and Giovanni Cervantes partnered with chef Carlos Barrera to open a ",
-          "title_ko": "뉴욕의 새로운 레스토랑에서 멕시코 해산물과 내추럴 와인을 맛보세요",
-          "title_ja": "この新しいニューヨークのレストランで注目を集めるメキシコのシーフードとナチュラルワイン",
-          "title_zh": "这家全新纽约餐厅的聚光灯下是墨西哥海鲜和天然葡萄酒"
+          "title": "The 2026 Best New Bakeries in America",
+          "link": "https://www.eater.com/dining-out/993548/best-new-bakeries-2026-eater-awards",
+          "desc": "If there’s one thing we’ve noticed over the past several years, it’s how much bakeries have stepped up their game. We wanted to recognize these achiev",
+          "title_ko": "2026년 미국 최고의 새로운 베이커리",
+          "title_ja": "2026年アメリカで最高の新しいベーカリー",
+          "title_zh": "2026年美国最佳新面包店"
         },
         {
-          "title": "The Best Food Gifts Under $25 (That Feel Thoughtful and Chic)",
-          "link": "https://www.eater.com/shopping/921848/best-food-gifts-under-25-dollars",
-          "desc": "Eater’s under-$25 holiday gift guide is, unabashedly, one of my favorites to curate during gift guide season — both as a shopping writer and a writer ",
-          "title_ko": "$ 25 미만의 최고의 음식 선물 (사려 깊고 세련된 느낌)",
-          "title_ja": "$ 25未満の最高の食品ギフト（思いやりとシックさを感じる）",
-          "title_zh": "25 $以下的最佳美食礼品（体贴时尚）"
+          "title": "The 2026 Restaurant Dishes of the Year",
+          "link": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
+          "desc": "Our editors ate in hundreds of restaurants across the country this year, but certain dishes left a lasting impression, and we’re recognizing them in t",
+          "title_ko": "2026년 올해의 레스토랑 요리",
+          "title_ja": "2026年のレストラン・オブ・ザ・イヤー",
+          "title_zh": "2026年度餐厅美食"
         }
       ]
     }
@@ -136,12 +136,12 @@
           "title_zh": "“这是谁买的？”医生们很害怕……医院里禁止吃'这道菜'"
         },
         {
-          "title": "\"봄동 다음은 이거지\"…아재들 술안주에 꽂힌 2030 [김기자의 알고리즘]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRW5Bb2Z0cU93Y29KLWYzZXRaRGU2cTNLc0hmVkpvOHNpeFFDYkdNQmx6SVhKalBvMGNtUXhqMUpablZWeHFWN0xPdnVCWGhhSUlvR19waUhzUQ?oc=5",
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 11일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9raHEzaVVBTW5MWUVmZ0JZXzBwOWpONXhfN250ZkJYQWdfdmpjM01FWmZRb3Y1am4wQUlpQWN0RC12NGRqdldRLVdhQ0lUZFJocHNmc2l0V2FxZw?oc=5",
           "desc": "",
-          "title_en": "\"Bom-dong next is this\" … 2030 [Kim Ki-ja's algorithm] plugged into Ajae-dong's alcoholic beverage",
-          "title_ja": "「Bom - dong next is this」… 2030年[Kim Ki - jaのアルゴリズム]がAjae - dongのアルコール飲料に差し込まれる",
-          "title_zh": "“Bom-dong next is this” … 2030 [Kim Ki-ja的算法]插入了Ajae-dong的酒精饮料"
+          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on November 11",
+          "title_ja": "【本日の星占い】今日は何を食べようか… 11月11日にベルトでおすすめのランチメニュー",
+          "title_zh": "【今天的星座】今天吃什么？ … 11月11日腰带推荐午餐菜单"
         },
         {
           "title": "신유열, 태국서 식품·음료 키운다…롯데칠성·웰푸드 현지 유통망 확보",
@@ -158,6 +158,14 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "산단에 공유공장까지…‘경북 푸드’ 키운다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mTVpNYWdHVk9PTjJ1LVlnVEMxdVJEUGpZcHlRU2ZmQlU4NmNqODFFQThXWnZNUWVxRkc3amJMcG9sMWFDRm9yYjlLZHhUakx4d2fSAVNBVV95cUxNbGlnNnNPQ010UlpTRC1TcHg4QUo5Q2gzeHhqallQZVFZMHJUSWs0Z1FTaTJMUWVreFQ5NFNVRFd4NEMxeEpLcUdQY3BSRVVfd09xaw?oc=5",
+          "desc": "",
+          "title_en": "From Sandan to Shared Factory… Grow ‘Gyeongbuk Food’",
+          "title_ja": "サンダンからシェアファクトリーへ…「慶北食」を育てよう",
+          "title_zh": "从三段到共用工厂…种植「景北美食」"
+        },
+        {
           "title": "배달음식값 담합 유도한 배민·쿠팡…6319억 과징금",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tWmdqQktjOUVYQUJlOWxMZ3NRd1djMXBzeTUwblFNQk5XVVM2ZExjQWczLUpvbmdUUEFnMExrX3VIbnhfS0ExMkJFRVpJeU9KclHSAVNBVV95cUxPMDNNNUlQWGlRZU81ZGlmMVBkMU5qbE14Q0Z4anZjdHptWkp4a1JvOS1lS3pwQURHU3JRVUoxb2lpSm1CYU1TZG9raW5yRTBZeHdxdw?oc=5",
           "desc": "",
@@ -172,14 +180,6 @@
           "title_en": "I went to eat at the train station and said, “This is over the line” … I jumped 12% for food.",
           "title_ja": "私は駅で食事をしに行き、「これは一線を越えています」と言いました…私は食べ物のために12 ％ジャンプしました。",
           "title_zh": "我去火车站吃饭，说： “这太过分了” ……我跳了12%的食物。"
-        },
-        {
-          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
-          "desc": "",
-          "title_en": "“My heart is all broken, take it out of the fridge right now” … ‘This food‘ that doctors don't buy at the grocery store [Health Time]",
-          "title_ja": "「私の心は壊れています。今すぐ冷蔵庫から取り出してください」…医者が食料品店で買わない「この食べ物」[ Health Time]",
-          "title_zh": "“我的心都碎了，现在把它从冰箱里拿出来” ……医生不在杂货店买的‘这种食物‘ [Health Time]"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "2000人参加圆州森林美食节…品尝和体验当地的森林产品"
         },
         {
-          "title": "현대그린푸드, '실적과 환원, 그리고 재평가' 증권사 발표에 강세",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MUTNEOUFodzhYQWhOaEIxOEhPYnJKTWthRXB3TzJMZnd5bnBKdkFtbUFLTWZDTkk3THNWclMwSkpEOUxPcjAxVmFkS2htQmptSlE?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Foods Strong in Announcing 'Performance, Reduction, and Revaluation' Securities Company",
-          "title_ja": "Hyundai Green Foodsが「パフォーマンス、削減、再評価」証券会社を発表",
-          "title_zh": "现代绿色食品在宣布“业绩、减少和重估”证券公司方面表现强劲"
-        },
-        {
           "title": "“음식 사진만 찍었는데 혈당이 보이네”…삼성이 키운 스타트업 기술 보니 [영상]",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02bEVfMnE4Qmg4OEdDOVpmeGQyMTlPMXhSVXBWbUVJZVEydHJMMHhfODVnQlN4YnVva2F3QkR1VnJESnpNSGs4c2xObkJsZW12dnVxem9B?oc=5",
           "desc": "",
           "title_en": "“I only took pictures of the food, but I can see the blood sugar” … Startup technology raised by Samsung [Video]",
           "title_ja": "「私は食べ物の写真を撮っただけですが、血糖値を見ることができます」… Samsungが開発したスタートアップテクノロジー[ビデオ]",
           "title_zh": "“我只拍摄了食物的照片，但我可以看到血糖” ……三星提出的创业技术[视频]"
+        },
+        {
+          "title": "현대그린푸드, '실적과 환원, 그리고 재평가' 증권사 발표에 강세",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MUTNEOUFodzhYQWhOaEIxOEhPYnJKTWthRXB3TzJMZnd5bnBKdkFtbUFLTWZDTkk3THNWclMwSkpEOUxPcjAxVmFkS2htQmptSlE?oc=5",
+          "desc": "",
+          "title_en": "Hyundai Green Foods Strong in Announcing 'Performance, Reduction, and Revaluation' Securities Company",
+          "title_ja": "Hyundai Green Foodsが「パフォーマンス、削減、再評価」証券会社を発表",
+          "title_zh": "现代绿色食品在宣布“业绩、减少和重估”证券公司方面表现强劲"
         }
       ]
     },
@@ -217,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "고객·점주 아이디어로 신메뉴 발굴…파파존스, ‘레시피 공모전’ 마쳐",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tTjQwM0tXdDBZQkRFZWZ3LUdiR2VBemt3dDM5Mk84dGVsaTVLZ3ZOeFRMRTFWejBDeDdDc19HT0Zyb004bm9Gd3p2MUVpcUpVaDRIR1g1TQ?oc=5",
-          "desc": "",
-          "title_en": "Discover new menu with customer and owner ideas… Papa Jones finishes‘ Recipe Contest ’",
-          "title_ja": "顧客とオーナーのアイデアで新しいメニューを発見…パパ・ジョーンズが「レシピコンテスト」を終了",
-          "title_zh": "探索包含客户和业主创意的新菜单…… Papa Jones完成了“食谱竞赛”"
-        },
         {
           "title": "브리오슈 반죽한 허니브레드…이디야, 푸드 메뉴 새 단장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51TS1BYUxRQlZLYkdpWWtlVjFWQ081LS1Xc1h5dl9JTW1DV2xSNG1Fa0FPODBjRGZZcDM3a252UndkQ0F6WXg0VlNTWVF5ZHFyX09jdXNhVQ?oc=5",
@@ -234,12 +226,20 @@
           "title_zh": "蜂蜜面包面团配奶油蛋糕…… Ediya ，翻新美食菜单"
         },
         {
-          "title": "“먹으면서 피부 관리” 독일의 ‘이너뷰티’ 시장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UM194RHA3Q2JPRzJnS1VxUENJZ0F5UktmdlAwOXVJdy1mbjNYZXM2UmlGaG9iUk5FYzRkSE45QzM1QV8takRxM1FXdjFJODUtZmQzUURONA?oc=5",
+          "title": "꺼내서 바로 먹는 ‘컵 채소’, 일본 인기",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YVmIxUVZCOGVkTi1KVzVzYy14M2I4SWVReEVOTXh6MnVVWEg1cnFiNUl2V1FOQktRMmxvTkRETWcxT1ZoR25SZUJCSkJ0bUZNVXJSQ3Z6QQ?oc=5",
           "desc": "",
-          "title_en": "“Eating and taking care of your skin” Inner Beauty Market in Germany",
-          "title_ja": "「肌を食べてケアする」ドイツのインナービューティーマーケット",
-          "title_zh": "“吃和照顾你的皮肤”德国的内部美容市场"
+          "title_en": "‘Cup vegetables‘ taken out and ready to eat, popular in Japan",
+          "title_ja": "日本で人気の「カップ野菜」を取り出してすぐに食べる",
+          "title_zh": "取出即食的「杯子蔬菜」，在日本很受欢迎"
+        },
+        {
+          "title": "그릴 다이닝 앞세운다…빕스 잠실점 개장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Da3VPZ0pkUVN4RTBnNk50X2FiX2xjX09nNTVYR0x6Q3dqSEdLMVVJNGNnb3I4ZHExSVpGS1N4WllkLW1zSU9WTzc3ODFiLWpoMWZxeHM1Yw?oc=5",
+          "desc": "",
+          "title_en": "Grill Dining Ahead… Bibs Jamsil Store Opens",
+          "title_ja": "前方でグリルダイニング…ビブス・ジャムシル店がオープン",
+          "title_zh": "前方有烧烤餐厅… Bibs Jamsil商店开业"
         }
       ]
     }
