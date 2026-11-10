@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T16:49:18Z",
+  "lastUpdated": "2026-11-10T22:54:28Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -44,20 +44,20 @@
           "title_zh": "奥利奥建造了一个“末日”避难所，以保护其食谱和饼干"
         },
         {
+          "title": "Food News & Trends",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
+          "desc": "",
+          "title_ko": "음식 뉴스 및 트렌드",
+          "title_ja": "フードニュース＆トレンド",
+          "title_zh": "美食新闻和趋势"
+        },
+        {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
           "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
           "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
           "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
-        },
-        {
-          "title": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
-          "desc": "",
-          "title_ko": "놓치고 싶지 않은 음식 대림절 달력 20선 — 본 마만, 윌리엄스 소노마 등",
-          "title_ja": "Bonne Maman、Williams Sonomaなどのおすすめフードアデントカレンダー20選",
-          "title_zh": "Bonne Maman、Williams Sonoma等20个不容错过的美食降临日历"
         }
       ]
     },
@@ -106,7 +106,7 @@
         {
           "title": "The 2026 Best New Bakeries in America",
           "link": "https://www.eater.com/dining-out/993548/best-new-bakeries-2026-eater-awards",
-          "desc": "If there’s one thing we’ve noticed over the past several years, it’s how much bakeries have stepped up their game. We wanted to recognize these achiev",
+          "desc": "If there’s one thing we’ve noticed over the past several years, it’s how much bakeries have stepped up their game.",
           "title_ko": "2026년 미국 최고의 새로운 베이커리",
           "title_ja": "2026年アメリカで最高の新しいベーカリー",
           "title_zh": "2026年美国最佳新面包店"
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "CJ제일제당, 3분기 영업익 6.9% 증가…해외 K푸드·핵심소재 성장",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xVXhVNENjRUtjekRDT0oxODd6Uy1OUURiWmw4cHMzR1V6UkFtVnFpb3NENENYVTFuUHRJZDZnNjZEaHZjWWxyaFVkU1hGQUxzZGfSAVNBVV95cUxNRkFIMlRjZl8wZUJGN1YyN1BRTHlFWW92VlVaVlBWb0FpQWl0NGM5VklLLXRtaVB2WVFsNGI4WjA3bHYzTjhrMVpsU2swUEw5anhUaw?oc=5",
+          "desc": "",
+          "title_en": "CJ CheilJedang, Q3 Operating Profit Increased by 6.9% … Overseas K-Foods and Core Materials Growth",
+          "title_ja": "CJ CheilJedang、第3四半期の営業利益は6.9 ％増…海外K - Foodsおよびコアマテリアルズの成長",
+          "title_zh": "CJ CheilJedang ，第三季度营业利润增长6.9% ……海外K-Foods和核心材料增长"
+        },
+        {
           "title": "산단에 공유공장까지…‘경북 푸드’ 키운다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mTVpNYWdHVk9PTjJ1LVlnVEMxdVJEUGpZcHlRU2ZmQlU4NmNqODFFQThXWnZNUWVxRkc3amJMcG9sMWFDRm9yYjlLZHhUakx4d2fSAVNBVV95cUxNbGlnNnNPQ010UlpTRC1TcHg4QUo5Q2gzeHhqallQZVFZMHJUSWs0Z1FTaTJMUWVreFQ5NFNVRFd4NEMxeEpLcUdQY3BSRVVfd09xaw?oc=5",
           "desc": "",
           "title_en": "From Sandan to Shared Factory… Grow ‘Gyeongbuk Food’",
           "title_ja": "サンダンからシェアファクトリーへ…「慶北食」を育てよう",
           "title_zh": "从三段到共用工厂…种植「景北美食」"
-        },
-        {
-          "title": "배달음식값 담합 유도한 배민·쿠팡…6319억 과징금",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tWmdqQktjOUVYQUJlOWxMZ3NRd1djMXBzeTUwblFNQk5XVVM2ZExjQWczLUpvbmdUUEFnMExrX3VIbnhfS0ExMkJFRVpJeU9KclHSAVNBVV95cUxPMDNNNUlQWGlRZU81ZGlmMVBkMU5qbE14Q0Z4anZjdHptWkp4a1JvOS1lS3pwQURHU3JRVUoxb2lpSm1CYU1TZG9raW5yRTBZeHdxdw?oc=5",
-          "desc": "",
-          "title_en": "Delivery Food Value Fixing Induced Baemin · Coupang… 63.19 Billion Penalty",
-          "title_ja": "配達料理の価値を固定する誘発Baemin・Coupang… 631.9億ペナルティ",
-          "title_zh": "送餐定价诱发Baemin · Coupang… 631.9亿罚款"
         },
         {
           "title": "기차역에서 밥 먹으러 갔다가 “이건 선 넘었네”…음식값 12%씩 뛰더니 결국",
@@ -226,20 +226,20 @@
           "title_zh": "蜂蜜面包面团配奶油蛋糕…… Ediya ，翻新美食菜单"
         },
         {
+          "title": "인도 식품 시장의 변화, K-푸드 수출 기회는?",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91TldoaGZiX3dpa3ZPekxhV01XbEhWYW54V29ELWNMY3NLUUl0N0kxT1RqdWJuSUZXNjRjb1BCT1RUQUltVUx3U25kQ2xGXzBoLVdyY3Znbw?oc=5",
+          "desc": "",
+          "title_en": "What are the K-Food Export Opportunities, Changes in Indian Food Market?",
+          "title_ja": "K - Foodの輸出機会、インドの食品市場の変化は何ですか？",
+          "title_zh": "K-Food的出口机会是什么，印度食品市场的变化？"
+        },
+        {
           "title": "꺼내서 바로 먹는 ‘컵 채소’, 일본 인기",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YVmIxUVZCOGVkTi1KVzVzYy14M2I4SWVReEVOTXh6MnVVWEg1cnFiNUl2V1FOQktRMmxvTkRETWcxT1ZoR25SZUJCSkJ0bUZNVXJSQ3Z6QQ?oc=5",
           "desc": "",
           "title_en": "‘Cup vegetables‘ taken out and ready to eat, popular in Japan",
           "title_ja": "日本で人気の「カップ野菜」を取り出してすぐに食べる",
           "title_zh": "取出即食的「杯子蔬菜」，在日本很受欢迎"
-        },
-        {
-          "title": "그릴 다이닝 앞세운다…빕스 잠실점 개장",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Da3VPZ0pkUVN4RTBnNk50X2FiX2xjX09nNTVYR0x6Q3dqSEdLMVVJNGNnb3I4ZHExSVpGS1N4WllkLW1zSU9WTzc3ODFiLWpoMWZxeHM1Yw?oc=5",
-          "desc": "",
-          "title_en": "Grill Dining Ahead… Bibs Jamsil Store Opens",
-          "title_ja": "前方でグリルダイニング…ビブス・ジャムシル店がオープン",
-          "title_zh": "前方有烧烤餐厅… Bibs Jamsil商店开业"
         }
       ]
     }
