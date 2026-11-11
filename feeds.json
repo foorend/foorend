@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T22:54:28Z",
+  "lastUpdated": "2026-11-11T04:59:08Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "\"이걸 어떻게 먹으라고\"…'숯덩이 고등어구이' 항의했더니",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdGNVNGo3TzNmUnNPTzBnOEhITlpvZkJZNU5TbHFUNHBRSFNKQUZaZjdaSS1LYk1wLVVFVmV0cXRTLVp5UG1Yc0RuMXNiLXVlcjBnMzBxa3Q0dw?oc=5",
+          "desc": "",
+          "title_en": "\"How do I eat this?\"... I protested against 'grilled charcoal mackerel'",
+          "title_ja": "「これはどうやって食べればいいの？」……「炭火焼きさば」に抗議した。",
+          "title_zh": "“我怎么吃这个？” ……我抗议“烤炭鲭鱼”"
+        },
+        {
           "title": "\"누가 이걸 사왔냐\" 의사들 기겁…병원서 금기된 '이 음식'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LaV93em5Xckxhb2E5MUk4cFdETGZieTVPTjltWW9FOEVieUVEX3MwelBKSzVzTTlRZTBNQjRaRjdxX3JHNEg2cjd2R3Bvd3B6N2gtVWwwUU16dw?oc=5",
           "desc": "",
@@ -136,20 +144,12 @@
           "title_zh": "“这是谁买的？”医生们很害怕……医院里禁止吃'这道菜'"
         },
         {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 11일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9raHEzaVVBTW5MWUVmZ0JZXzBwOWpONXhfN250ZkJYQWdfdmpjM01FWmZRb3Y1am4wQUlpQWN0RC12NGRqdldRLVdhQ0lUZFJocHNmc2l0V2FxZw?oc=5",
+          "title": "일본엔 진미채·호주엔 깍두기…코스트코 뚫고 K푸드 알리는 아워홈",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnNzRlY0xLNnJiWjVWdlVRRmRHc1d1WDB0SUVMS1MwYnV1cnBSa0I4VVUyeFN2enRtNzltUldHYzFfd3pleV9QTjhHbEE2MGlMZWltSlVJSHQ5UQ?oc=5",
           "desc": "",
-          "title_en": "[Today's horoscope] What to eat today? … Recommended lunch menu by belt on November 11",
-          "title_ja": "【本日の星占い】今日は何を食べようか… 11月11日にベルトでおすすめのランチメニュー",
-          "title_zh": "【今天的星座】今天吃什么？ … 11月11日腰带推荐午餐菜单"
-        },
-        {
-          "title": "신유열, 태국서 식품·음료 키운다…롯데칠성·웰푸드 현지 유통망 확보",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waE5BaEpVWnhoUTNwVlAtTnFUbVhVcjJvdlM2YTh2MG9heC1CMEZEcjVUMFFGb0sxeXRDQWJjLTI5QkdibDBuMGQ0SkVOY1RKLTViLUJjd21zQQ?oc=5",
-          "desc": "",
-          "title_en": "Shin Yoo-yeol grows food and beverages in Thailand… Secures local distribution network for Lotte Chilsung and Well Food",
-          "title_ja": "Shin Yoo - yeolはタイで食品と飲料を栽培しています... Lotte ChilsungとWell Foodの現地流通ネットワークを確保しています",
-          "title_zh": "Shin Yoo-yeol在泰国种植食品和饮料……确保Lotte Chilsung和Well Food的本地分销网络"
+          "title_en": "Delicacies in Japan · Cappuccino in Australia… Hourhome to Know K Food through Costco",
+          "title_ja": "日本の珍味・オーストラリアのカプチーノ…コストコでKフードを知ろう",
+          "title_zh": "日本美食·澳大利亚卡布奇诺…通过Costco了解K美食"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "통영 바다 담은 ‘어부장터’ 방문객 입맛 잡았다…재방문 의향 4.7점",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44QWlDWnE4WVZNM251bDdiOV9RckdQT19teVFxYUI5TFpaOVZFV0VheVh0cC1VaXdtaFVGaVFtNDVxbExBZHA3cGJyN3N3ZjlBb1HSAVNBVV95cUxPZnFsVU9FWlMtQ1hzMG5pSk9JazZRMlBFQkVtemJIaU80X0NPZDdVQjFmUy1zR1VnOG5WaDNjVWQ0OFd6TDNQaERjVjU2MHlSN05SZw?oc=5",
+          "desc": "",
+          "title_en": "I caught the taste of visitors to the ‘Fisherman's Market’ in Tongyeong Sea... 4.7 points with the intention to revisit",
+          "title_ja": "統営海の「漁師市場」への訪問者の味を捉えました…再訪を意図して4.7ポイント",
+          "title_zh": "我捕捉到了统营海（ Tongyeong Sea ）「渔人市场」（ Fisherman‘s Market ）游客的味道... 4.7分，打算重游"
+        },
         {
           "title": "CJ제일제당, 3분기 영업익 6.9% 증가…해외 K푸드·핵심소재 성장",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xVXhVNENjRUtjekRDT0oxODd6Uy1OUURiWmw4cHMzR1V6UkFtVnFpb3NENENYVTFuUHRJZDZnNjZEaHZjWWxyaFVkU1hGQUxzZGfSAVNBVV95cUxNRkFIMlRjZl8wZUJGN1YyN1BRTHlFWW92VlVaVlBWb0FpQWl0NGM5VklLLXRtaVB2WVFsNGI4WjA3bHYzTjhrMVpsU2swUEw5anhUaw?oc=5",
@@ -172,14 +180,6 @@
           "title_en": "From Sandan to Shared Factory… Grow ‘Gyeongbuk Food’",
           "title_ja": "サンダンからシェアファクトリーへ…「慶北食」を育てよう",
           "title_zh": "从三段到共用工厂…种植「景北美食」"
-        },
-        {
-          "title": "기차역에서 밥 먹으러 갔다가 “이건 선 넘었네”…음식값 12%씩 뛰더니 결국",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZVZoUlFSN3RHYnhyOWZZS294V09Yc1EwM0UtS1VFQTNkaWpseHhrQnNHUkpidXk2czMycGNTMURvUmlLTzRKb0JPVmhiOTlYZXfSAVNBVV95cUxQc3ZvMVpHYnVOeGs2R0xqOFdUTGVSRi1aTFBlYlVFTG81VlM1UXB5RVBCTnJHdHlHSDBkZmI3R2RNVlZiYms5SlFJYjZtT09LVkZzOA?oc=5",
-          "desc": "",
-          "title_en": "I went to eat at the train station and said, “This is over the line” … I jumped 12% for food.",
-          "title_ja": "私は駅で食事をしに行き、「これは一線を越えています」と言いました…私は食べ物のために12 ％ジャンプしました。",
-          "title_zh": "我去火车站吃饭，说： “这太过分了” ……我跳了12%的食物。"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "푸드위크 코리아서 1천400만달러 수출계약…작년보다 18% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sZmRNX0cwMlhtMGU5eXh4V3JrQkllbHJsY1FUUWUwQ09DcFF5LW1wOWJkVlR6eld0dTBVOWFuMXc2LXdCTThEdk5yRW8zRzBFQlE?oc=5",
+          "desc": "",
+          "title_en": "$14 million export contract for Foodweek Korea… 18% more than last year",
+          "title_ja": "Foodweek Koreaの1400万ドルの輸出契約…昨年より18 ％増加",
+          "title_zh": "Foodweek韩国1400万美元的出口合同……比去年增加18%"
+        },
         {
           "title": "원주 숲푸드 페스티벌에 2천명…지역 임산물 맛·체험 알려",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJckJTYzh4MG5la1kxNGpRNVZNWk9EdzRHNkJia0F2bVhhaTZZT1lwUklUWEc4UWVicDlhcjRQaXpZdlRscEhTM3pGWHY1ekZ3cGc?oc=5",
@@ -202,14 +210,6 @@
           "title_en": "“I only took pictures of the food, but I can see the blood sugar” … Startup technology raised by Samsung [Video]",
           "title_ja": "「私は食べ物の写真を撮っただけですが、血糖値を見ることができます」… Samsungが開発したスタートアップテクノロジー[ビデオ]",
           "title_zh": "“我只拍摄了食物的照片，但我可以看到血糖” ……三星提出的创业技术[视频]"
-        },
-        {
-          "title": "현대그린푸드, '실적과 환원, 그리고 재평가' 증권사 발표에 강세",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MUTNEOUFodzhYQWhOaEIxOEhPYnJKTWthRXB3TzJMZnd5bnBKdkFtbUFLTWZDTkk3THNWclMwSkpEOUxPcjAxVmFkS2htQmptSlE?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Foods Strong in Announcing 'Performance, Reduction, and Revaluation' Securities Company",
-          "title_ja": "Hyundai Green Foodsが「パフォーマンス、削減、再評価」証券会社を発表",
-          "title_zh": "现代绿色食品在宣布“业绩、减少和重估”证券公司方面表现强劲"
         }
       ]
     },
@@ -217,6 +217,14 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
+        {
+          "title": "고객·점주 아이디어로 신메뉴 발굴…파파존스, ‘레시피 공모전’ 마쳐",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tTjQwM0tXdDBZQkRFZWZ3LUdiR2VBemt3dDM5Mk84dGVsaTVLZ3ZOeFRMRTFWejBDeDdDc19HT0Zyb004bm9Gd3p2MUVpcUpVaDRIR1g1TQ?oc=5",
+          "desc": "",
+          "title_en": "Discover new menu with customer and owner ideas… Papa Jones finishes‘ Recipe Contest ’",
+          "title_ja": "顧客とオーナーのアイデアで新しいメニューを発見…パパ・ジョーンズが「レシピコンテスト」を終了",
+          "title_zh": "探索包含客户和业主创意的新菜单…… Papa Jones完成了“食谱竞赛”"
+        },
         {
           "title": "브리오슈 반죽한 허니브레드…이디야, 푸드 메뉴 새 단장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51TS1BYUxRQlZLYkdpWWtlVjFWQ081LS1Xc1h5dl9JTW1DV2xSNG1Fa0FPODBjRGZZcDM3a252UndkQ0F6WXg0VlNTWVF5ZHFyX09jdXNhVQ?oc=5",
@@ -226,20 +234,12 @@
           "title_zh": "蜂蜜面包面团配奶油蛋糕…… Ediya ，翻新美食菜单"
         },
         {
-          "title": "인도 식품 시장의 변화, K-푸드 수출 기회는?",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91TldoaGZiX3dpa3ZPekxhV01XbEhWYW54V29ELWNMY3NLUUl0N0kxT1RqdWJuSUZXNjRjb1BCT1RUQUltVUx3U25kQ2xGXzBoLVdyY3Znbw?oc=5",
+          "title": "“먹으면서 피부 관리” 독일의 ‘이너뷰티’ 시장",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UM194RHA3Q2JPRzJnS1VxUENJZ0F5UktmdlAwOXVJdy1mbjNYZXM2UmlGaG9iUk5FYzRkSE45QzM1QV8takRxM1FXdjFJODUtZmQzUURONA?oc=5",
           "desc": "",
-          "title_en": "What are the K-Food Export Opportunities, Changes in Indian Food Market?",
-          "title_ja": "K - Foodの輸出機会、インドの食品市場の変化は何ですか？",
-          "title_zh": "K-Food的出口机会是什么，印度食品市场的变化？"
-        },
-        {
-          "title": "꺼내서 바로 먹는 ‘컵 채소’, 일본 인기",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YVmIxUVZCOGVkTi1KVzVzYy14M2I4SWVReEVOTXh6MnVVWEg1cnFiNUl2V1FOQktRMmxvTkRETWcxT1ZoR25SZUJCSkJ0bUZNVXJSQ3Z6QQ?oc=5",
-          "desc": "",
-          "title_en": "‘Cup vegetables‘ taken out and ready to eat, popular in Japan",
-          "title_ja": "日本で人気の「カップ野菜」を取り出してすぐに食べる",
-          "title_zh": "取出即食的「杯子蔬菜」，在日本很受欢迎"
+          "title_en": "“Eating and taking care of your skin” Inner Beauty Market in Germany",
+          "title_ja": "「肌を食べてケアする」ドイツのインナービューティーマーケット",
+          "title_zh": "“吃和照顾你的皮肤”德国的内部美容市场"
         }
       ]
     }
