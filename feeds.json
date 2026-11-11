@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T04:59:08Z",
+  "lastUpdated": "2026-11-11T13:40:43Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -144,12 +144,12 @@
           "title_zh": "“这是谁买的？”医生们很害怕……医院里禁止吃'这道菜'"
         },
         {
-          "title": "일본엔 진미채·호주엔 깍두기…코스트코 뚫고 K푸드 알리는 아워홈",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnNzRlY0xLNnJiWjVWdlVRRmRHc1d1WDB0SUVMS1MwYnV1cnBSa0I4VVUyeFN2enRtNzltUldHYzFfd3pleV9QTjhHbEE2MGlMZWltSlVJSHQ5UQ?oc=5",
+          "title": "허영인 상미당 회장, 28년째 푸드뱅크 지원",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzT29yQ0Z5bDU0TnVvdUtYNjBQcFBIVnppbzFrbVpMejZnMGczOGxyTWsxcTJsUkFicDNJcmd5YnVwM2FFYlRicGoyTU0xcUt1LUJHTVYtaktVUQ?oc=5",
           "desc": "",
-          "title_en": "Delicacies in Japan · Cappuccino in Australia… Hourhome to Know K Food through Costco",
-          "title_ja": "日本の珍味・オーストラリアのカプチーノ…コストコでKフードを知ろう",
-          "title_zh": "日本美食·澳大利亚卡布奇诺…通过Costco了解K美食"
+          "title_en": "Heo Young-in, Chairman of Sangmi Dang, supports the 28th-year food bank",
+          "title_ja": "ホ・ヨンインSangmi Dang会長、28年目のフードバンクを支援",
+          "title_zh": "Sangmi Dang董事长Heo Young-in支持第28年的食物银行"
         }
       ]
     },
@@ -158,20 +158,20 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "통영 바다 담은 ‘어부장터’ 방문객 입맛 잡았다…재방문 의향 4.7점",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44QWlDWnE4WVZNM251bDdiOV9RckdQT19teVFxYUI5TFpaOVZFV0VheVh0cC1VaXdtaFVGaVFtNDVxbExBZHA3cGJyN3N3ZjlBb1HSAVNBVV95cUxPZnFsVU9FWlMtQ1hzMG5pSk9JazZRMlBFQkVtemJIaU80X0NPZDdVQjFmUy1zR1VnOG5WaDNjVWQ0OFd6TDNQaERjVjU2MHlSN05SZw?oc=5",
-          "desc": "",
-          "title_en": "I caught the taste of visitors to the ‘Fisherman's Market’ in Tongyeong Sea... 4.7 points with the intention to revisit",
-          "title_ja": "統営海の「漁師市場」への訪問者の味を捉えました…再訪を意図して4.7ポイント",
-          "title_zh": "我捕捉到了统营海（ Tongyeong Sea ）「渔人市场」（ Fisherman‘s Market ）游客的味道... 4.7分，打算重游"
-        },
-        {
           "title": "CJ제일제당, 3분기 영업익 6.9% 증가…해외 K푸드·핵심소재 성장",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xVXhVNENjRUtjekRDT0oxODd6Uy1OUURiWmw4cHMzR1V6UkFtVnFpb3NENENYVTFuUHRJZDZnNjZEaHZjWWxyaFVkU1hGQUxzZGfSAVNBVV95cUxNRkFIMlRjZl8wZUJGN1YyN1BRTHlFWW92VlVaVlBWb0FpQWl0NGM5VklLLXRtaVB2WVFsNGI4WjA3bHYzTjhrMVpsU2swUEw5anhUaw?oc=5",
           "desc": "",
           "title_en": "CJ CheilJedang, Q3 Operating Profit Increased by 6.9% … Overseas K-Foods and Core Materials Growth",
           "title_ja": "CJ CheilJedang、第3四半期の営業利益は6.9 ％増…海外K - Foodsおよびコアマテリアルズの成長",
           "title_zh": "CJ CheilJedang ，第三季度营业利润增长6.9% ……海外K-Foods和核心材料增长"
+        },
+        {
+          "title": "통영 바다 담은 ‘어부장터’ 방문객 입맛 잡았다…재방문 의향 4.7점",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44QWlDWnE4WVZNM251bDdiOV9RckdQT19teVFxYUI5TFpaOVZFV0VheVh0cC1VaXdtaFVGaVFtNDVxbExBZHA3cGJyN3N3ZjlBb1HSAVNBVV95cUxPZnFsVU9FWlMtQ1hzMG5pSk9JazZRMlBFQkVtemJIaU80X0NPZDdVQjFmUy1zR1VnOG5WaDNjVWQ0OFd6TDNQaERjVjU2MHlSN05SZw?oc=5",
+          "desc": "",
+          "title_en": "I caught the taste of visitors to the ‘Fisherman's Market’ in Tongyeong Sea... 4.7 points with the intention to revisit",
+          "title_ja": "統営海の「漁師市場」への訪問者の味を捉えました…再訪を意図して4.7ポイント",
+          "title_zh": "我捕捉到了统营海（ Tongyeong Sea ）「渔人市场」（ Fisherman‘s Market ）游客的味道... 4.7分，打算重游"
         },
         {
           "title": "산단에 공유공장까지…‘경북 푸드’ 키운다",
@@ -188,6 +188,14 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "푸드뱅크 28년 후원 … 허영인 회장의 진심",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02T3V0YWtNbkMzZ21ob2NhUjlodVZBaS1wOE1jeWlaR0NubFFYXzBSZkF1YThFSDAxcE1VMUZOSUg4bGdmM3lPZGRudzhvb0E3ZlNOMkFR?oc=5",
+          "desc": "",
+          "title_en": "28 Years of Food Bank Sponsorship… Chairman Young-in Heo's Sincerity",
+          "title_ja": "28年間のフードバンクスポンサーシップ…ヤングイン・ホー会長の誠意",
+          "title_zh": "食品银行赞助28年…董事长何英仁真诚"
+        },
+        {
           "title": "푸드위크 코리아서 1천400만달러 수출계약…작년보다 18% 증가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sZmRNX0cwMlhtMGU5eXh4V3JrQkllbHJsY1FUUWUwQ09DcFF5LW1wOWJkVlR6eld0dTBVOWFuMXc2LXdCTThEdk5yRW8zRzBFQlE?oc=5",
           "desc": "",
@@ -196,20 +204,12 @@
           "title_zh": "Foodweek韩国1400万美元的出口合同……比去年增加18%"
         },
         {
-          "title": "원주 숲푸드 페스티벌에 2천명…지역 임산물 맛·체험 알려",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJckJTYzh4MG5la1kxNGpRNVZNWk9EdzRHNkJia0F2bVhhaTZZT1lwUklUWEc4UWVicDlhcjRQaXpZdlRscEhTM3pGWHY1ekZ3cGc?oc=5",
+          "title": "원주 산업단지 매운맛·문화로 잇는다…13∼15일 K-매운맛 축제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94QjdHdjI0ODFjaHhxMElGWUF1eHJCdDZoYkJ3SUlsaThXZmpUVVhEeXF1YTZkaVZFbzlOVUhQNnR6TVM0Yk9BTHpURDdDN1NkdUE?oc=5",
           "desc": "",
-          "title_en": "2,000 people at Wonju Forest Food Festival… Taste and experience local forest products",
-          "title_ja": "ウォンジュの森のフードフェスティバルで2,000人…地元の森の産物を味わい、体験しよう",
-          "title_zh": "2000人参加圆州森林美食节…品尝和体验当地的森林产品"
-        },
-        {
-          "title": "“음식 사진만 찍었는데 혈당이 보이네”…삼성이 키운 스타트업 기술 보니 [영상]",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02bEVfMnE4Qmg4OEdDOVpmeGQyMTlPMXhSVXBWbUVJZVEydHJMMHhfODVnQlN4YnVva2F3QkR1VnJESnpNSGs4c2xObkJsZW12dnVxem9B?oc=5",
-          "desc": "",
-          "title_en": "“I only took pictures of the food, but I can see the blood sugar” … Startup technology raised by Samsung [Video]",
-          "title_ja": "「私は食べ物の写真を撮っただけですが、血糖値を見ることができます」… Samsungが開発したスタートアップテクノロジー[ビデオ]",
-          "title_zh": "“我只拍摄了食物的照片，但我可以看到血糖” ……三星提出的创业技术[视频]"
+          "title_en": "It connects Wonju Industrial Complex with spicy taste and culture… K-Spicy Festival on the 13th to 15th",
+          "title_ja": "原州工業団地をスパイシーな味とカルチャーで結びつける… 13日～ 15日のKスパイシーフェスティバル",
+          "title_zh": "它将原州工业综合体与辛辣的味道和文化联系起来…… 13日至15日的K-Spicy Festival"
         }
       ]
     },
