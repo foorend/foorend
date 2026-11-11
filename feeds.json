@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T13:40:43Z",
+  "lastUpdated": "2026-11-11T21:45:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -9,17 +9,17 @@
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
-          "title_ko": "전국 중식당의 절반이 문을 닫았습니다.",
-          "title_ja": "米国の中華料理店の半分が閉店していることが調査で明らかに",
-          "title_zh": "研究发现，全国一半的中国餐馆已经关闭"
+          "title_ko": "연구 결과에 따르면, 미국 내 중국 음식점의 절반이 문을 닫은 것으로 나타났습니다.",
+          "title_ja": "調査によると、国内の中華料理店の半数が閉店していることが判明",
+          "title_zh": "研究发现，全国一半的中餐厅已经关门"
         },
         {
           "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
           "desc": "",
-          "title_ko": "조지아와 앨라배마의 델 타코 프랜차이즈 가맹점 파산 신청",
-          "title_ja": "ジョージア州とアラバマ州のDel Tacoフランチャイズ加盟店が破産を申請",
-          "title_zh": "佐治亚州和阿拉巴马州的Del Taco特许经营商申请破产"
+          "title_ko": "조지아주와 앨라배마주의 델타코 가맹점이 파산 신청을 했습니다.",
+          "title_ja": "ジョージア州とアラバマ州のデルタコフランチャイズ加盟店が破産を申請",
+          "title_zh": "佐治亚州和阿拉巴马州的Del Taco加盟商申请破产"
         },
         {
           "title": "About Restaurant Business",
@@ -27,7 +27,7 @@
           "desc": "",
           "title_ko": "레스토랑 비즈니스 소개",
           "title_ja": "レストラン事業について",
-          "title_zh": "关于餐厅业务"
+          "title_zh": "关于餐饮业务"
         }
       ]
     },
@@ -39,25 +39,25 @@
           "title": "Oreo Built a 'Doomsday' Vault to Protect Its Recipe and Cookies",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MMlNYbHRrVVRCRTJ6dGlYMEQzR0tGVC1YdTVRZkFhcENKZlRmSE81MkhTeS1laEJDRkl0clpVOFlSYW5pQThBN1I4d1JBOEVoeDQ0RGxwZXBnVkwxT3pTQkJNSTQ0ai1wOFBJ?oc=5",
           "desc": "",
-          "title_ko": "Oreo는 레시피와 쿠키를 보호하기 위해 '최후의 날' 금고를 만들었습니다.",
-          "title_ja": "オレオはレシピとクッキーを保護するために「ドゥームズデイ」保管庫を建設しました",
-          "title_zh": "奥利奥建造了一个“末日”避难所，以保护其食谱和饼干"
+          "title_ko": "오레오, 레시피와 쿠키를 보호하기 위한 '최후의 날' 금고를 만들다",
+          "title_ja": "オレオがレシピとクッキーを守るために「最後の審判の日」用の保管庫を建設",
+          "title_zh": "奥利奥建造了一个“末日”保险库来保护其配方和饼干"
         },
         {
           "title": "Food News & Trends",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
-          "title_ko": "음식 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食新闻和趋势"
+          "title_ko": "식품 뉴스 및 트렌드",
+          "title_ja": "フードニュースとトレンド",
+          "title_zh": "美食资讯与潮流"
         },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
-          "title_ko": "소송에서 멕시코 맥주 테카테가 실제로 네덜란드에서 양조되었다고 주장함",
-          "title_ja": "メキシコのビールTecateが実際にオランダで醸造されていると主張する訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际在荷兰酿造"
+          "title_ko": "멕시코 맥주 테카테가 실제로 네덜란드에서 양조된다는 소송 청구",
+          "title_ja": "メキシコビール「テカテ」は実際にはオランダで醸造されているという訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际上是在荷兰酿造的"
         }
       ]
     },
@@ -69,25 +69,25 @@
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업, 키친서핑의 쿠킹 오피스",
-          "title_ja": "プライベートシェフとパーティーホストをつなぐスタートアップ、キッチンサーフィンのクッキングにインスパイアされたオフィス",
-          "title_zh": "探索以烹饪为灵感的厨房冲浪办公室，这是一家将私人大厨和派对体验达人联系起来的初创公司"
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
+          "title_ja": "プライベートシェフとパーティー主催者をつなぐスタートアップ、Kitchensurfingの料理にインスパイアされたオフィスの中",
+          "title_zh": "走进Kitchensurfing烹饪主题办公室，这家初创公司将私人厨师与派对主办人联系起来"
         },
         {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
           "desc": "",
-          "title_ko": "식품 보호주의: 국가는 보안을 위해 수출을 제한하고 인플레이션을 통제합니다.",
-          "title_ja": "食料保護主義：安全保障のために輸出を制限し、インフレを抑制",
-          "title_zh": "食品保护主义：各国出于安全目的限制出口，控制通货膨胀"
+          "title_ko": "식량 보호주의: 안보를 위해 수출을 제한하고 인플레이션을 통제하는 국가들",
+          "title_ja": "食料保護主義：各国が安全保障やインフレ抑制のために輸出を制限",
+          "title_zh": "粮食保护主义：各国出于安全考虑限制出口，以控制通胀"
         },
         {
           "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3pBcDV0OU9uRnJfSXZfMkYxTms3a2UtZ0swOU82YXpvQ3ZMTnJlS0dzNVJyakwtenBSWXhIT2RyVFBXTzNIbFdEM3dWeW92X3EyT3FGTUVxc3ptbGJRTDdPRkxoNU5ubng5ZlhXQTRBNmNnQWVXTm4wSlRSdGhwYjg0QnNTN2t6d2NmQWFhWnRuUmRjV0N2cHBXSXkxNkk?oc=5",
           "desc": "",
-          "title_ko": "구글 벤처스 (Google Ventures) 등으로부터 1억 달러 ($) 를 모금하기 위해 사용된 독점적인 피치 데크 음식물 쓰레기 처리장 (Pitch deck food waste startup Mill) 을",
-          "title_ja": "Google Venturesなどから1億$を調達したピッチデッキ食品廃棄物スタートアップMillをチェック",
-          "title_zh": "查看独家推销平台食物垃圾初创公司Mill ，该公司曾从Google Ventures和其他公司筹集了1亿美元$"
+          "title_ko": "Google Ventures 등으로부터 1억 달러를 조달한 식품 폐기물 스타트업 Mill이 사용한 독점 피치 데크를 확인해 보세요.",
+          "title_ja": "食品廃棄物処理スタートアップのMillが、Google Venturesなどから1億ドルを調達するために使用した独占的なピッチデッキをご覧ください。",
+          "title_zh": "查看食品废弃物初创公司Mill用于从Google Ventures等处筹集1亿美元的独家路演演示文稿"
         }
       ]
     },
@@ -99,25 +99,25 @@
           "title": "The Best New Restaurants in America in 2026",
           "link": "https://www.eater.com/dining-out/993544/best-new-restaurants-america-2026",
           "desc": "These are the 15 new restaurants that best captured the year in dining. Our team of editors and scouts traveled across the country, drawing on years o",
-          "title_ko": "2026년 미국 최고의 새로운 레스토랑",
-          "title_ja": "2026年のアメリカで人気の新しいレストラン",
+          "title_ko": "2026년 미국 최고의 신규 레스토랑",
+          "title_ja": "2026年のアメリカで最も優れた新登場レストラン",
           "title_zh": "2026年美国最佳新餐厅"
         },
         {
           "title": "The 2026 Best New Bakeries in America",
           "link": "https://www.eater.com/dining-out/993548/best-new-bakeries-2026-eater-awards",
           "desc": "If there’s one thing we’ve noticed over the past several years, it’s how much bakeries have stepped up their game.",
-          "title_ko": "2026년 미국 최고의 새로운 베이커리",
-          "title_ja": "2026年アメリカで最高の新しいベーカリー",
-          "title_zh": "2026年美国最佳新面包店"
+          "title_ko": "2026년 미국 최고의 신규 베이커리",
+          "title_ja": "2026年アメリカのベストニューベーカリー",
+          "title_zh": "2026年美国最佳新晋烘焙店"
         },
         {
           "title": "The 2026 Restaurant Dishes of the Year",
           "link": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
           "desc": "Our editors ate in hundreds of restaurants across the country this year, but certain dishes left a lasting impression, and we’re recognizing them in t",
-          "title_ko": "2026년 올해의 레스토랑 요리",
-          "title_ja": "2026年のレストラン・オブ・ザ・イヤー",
-          "title_zh": "2026年度餐厅美食"
+          "title_ko": "2026년 올해의 레스토랑 메뉴",
+          "title_ja": "2026年のレストラン料理オブ・ザ・イヤー",
+          "title_zh": "2026年度餐厅菜肴"
         }
       ]
     }
@@ -131,25 +131,25 @@
           "title": "\"이걸 어떻게 먹으라고\"…'숯덩이 고등어구이' 항의했더니",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdGNVNGo3TzNmUnNPTzBnOEhITlpvZkJZNU5TbHFUNHBRSFNKQUZaZjdaSS1LYk1wLVVFVmV0cXRTLVp5UG1Yc0RuMXNiLXVlcjBnMzBxa3Q0dw?oc=5",
           "desc": "",
-          "title_en": "\"How do I eat this?\"... I protested against 'grilled charcoal mackerel'",
-          "title_ja": "「これはどうやって食べればいいの？」……「炭火焼きさば」に抗議した。",
-          "title_zh": "“我怎么吃这个？” ……我抗议“烤炭鲭鱼”"
+          "title_en": "\"How am I supposed to eat this?\"… When I complained about the \"charred grilled mackerel,\"",
+          "title_ja": "「こんなのどうやって食べるんだ」…「真っ黒なサバの塩焼き」に抗議したら",
+          "title_zh": "“你怎么让我吃这个”……我抗议“烤焦的烤鲭鱼”时，"
         },
         {
           "title": "\"누가 이걸 사왔냐\" 의사들 기겁…병원서 금기된 '이 음식'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LaV93em5Xckxhb2E5MUk4cFdETGZieTVPTjltWW9FOEVieUVEX3MwelBKSzVzTTlRZTBNQjRaRjdxX3JHNEg2cjd2R3Bvd3B6N2gtVWwwUU16dw?oc=5",
           "desc": "",
-          "title_en": "\"Who Bought This?\" Doctors Are Frightened... 'This Food' Forbidden in Hospitals",
-          "title_ja": "「誰がこれを買ったのですか？」医者は怖がっています...病院では「この食べ物」は禁止されています",
-          "title_zh": "“这是谁买的？”医生们很害怕……医院里禁止吃'这道菜'"
+          "title_en": "\"Who bought this?\" Doctors are horrified… 'This food' is forbidden in hospitals.",
+          "title_ja": "「誰がこれ買って来たんだ？」医師たちが仰天…病院で禁じられている「この食べ物」",
+          "title_zh": "“谁买了这东西？”医生们大惊失色……医院里被禁止的“这种食物”"
         },
         {
-          "title": "허영인 상미당 회장, 28년째 푸드뱅크 지원",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzT29yQ0Z5bDU0TnVvdUtYNjBQcFBIVnppbzFrbVpMejZnMGczOGxyTWsxcTJsUkFicDNJcmd5YnVwM2FFYlRicGoyTU0xcUt1LUJHTVYtaktVUQ?oc=5",
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 12일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82RzVtX184QkhNY09kUkZtS3dzOXEyX1AwQXJrcG9uOWRXZ3FIbXp0dnBuUFZpM2VrOWE3SWl2N3NhdV9zSVBhci1VcWVHcS15cHVsejJYaVlQUQ?oc=5",
           "desc": "",
-          "title_en": "Heo Young-in, Chairman of Sangmi Dang, supports the 28th-year food bank",
-          "title_ja": "ホ・ヨンインSangmi Dang会長、28年目のフードバンクを支援",
-          "title_zh": "Sangmi Dang董事长Heo Young-in支持第28年的食物银行"
+          "title_en": "[Today's Horoscope] What should I eat today?…Recommended lunch menus by zodiac sign for November 12th",
+          "title_ja": "【今日の運勢】今日は何を食べる？…11月12日の干支別おすすめランチメニュー",
+          "title_zh": "【今日运势】今天吃什么？……11月12日按生肖推荐的午餐菜单"
         }
       ]
     },
@@ -158,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
-          "title": "CJ제일제당, 3분기 영업익 6.9% 증가…해외 K푸드·핵심소재 성장",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xVXhVNENjRUtjekRDT0oxODd6Uy1OUURiWmw4cHMzR1V6UkFtVnFpb3NENENYVTFuUHRJZDZnNjZEaHZjWWxyaFVkU1hGQUxzZGfSAVNBVV95cUxNRkFIMlRjZl8wZUJGN1YyN1BRTHlFWW92VlVaVlBWb0FpQWl0NGM5VklLLXRtaVB2WVFsNGI4WjA3bHYzTjhrMVpsU2swUEw5anhUaw?oc=5",
-          "desc": "",
-          "title_en": "CJ CheilJedang, Q3 Operating Profit Increased by 6.9% … Overseas K-Foods and Core Materials Growth",
-          "title_ja": "CJ CheilJedang、第3四半期の営業利益は6.9 ％増…海外K - Foodsおよびコアマテリアルズの成長",
-          "title_zh": "CJ CheilJedang ，第三季度营业利润增长6.9% ……海外K-Foods和核心材料增长"
-        },
-        {
           "title": "통영 바다 담은 ‘어부장터’ 방문객 입맛 잡았다…재방문 의향 4.7점",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44QWlDWnE4WVZNM251bDdiOV9RckdQT19teVFxYUI5TFpaOVZFV0VheVh0cC1VaXdtaFVGaVFtNDVxbExBZHA3cGJyN3N3ZjlBb1HSAVNBVV95cUxPZnFsVU9FWlMtQ1hzMG5pSk9JazZRMlBFQkVtemJIaU80X0NPZDdVQjFmUy1zR1VnOG5WaDNjVWQ0OFd6TDNQaERjVjU2MHlSN05SZw?oc=5",
           "desc": "",
-          "title_en": "I caught the taste of visitors to the ‘Fisherman's Market’ in Tongyeong Sea... 4.7 points with the intention to revisit",
-          "title_ja": "統営海の「漁師市場」への訪問者の味を捉えました…再訪を意図して4.7ポイント",
-          "title_zh": "我捕捉到了统营海（ Tongyeong Sea ）「渔人市场」（ Fisherman‘s Market ）游客的味道... 4.7分，打算重游"
+          "title_en": "Visitors to \"Eobujangteo,\" which captures the essence of the Tongyeong sea, are delighted... with a revisit intention score of 4.7.",
+          "title_ja": "統営の海を味わえる「漁夫市場」が訪問客の舌を捉えた…再訪問意向4.7点",
+          "title_zh": "汇聚统营海鲜的“渔夫市场”征服了游客的味蕾……再访意愿得分 4.7 分"
         },
         {
           "title": "산단에 공유공장까지…‘경북 푸드’ 키운다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mTVpNYWdHVk9PTjJ1LVlnVEMxdVJEUGpZcHlRU2ZmQlU4NmNqODFFQThXWnZNUWVxRkc3amJMcG9sMWFDRm9yYjlLZHhUakx4d2fSAVNBVV95cUxNbGlnNnNPQ010UlpTRC1TcHg4QUo5Q2gzeHhqallQZVFZMHJUSWs0Z1FTaTJMUWVreFQ5NFNVRFd4NEMxeEpLcUdQY3BSRVVfd09xaw?oc=5",
           "desc": "",
-          "title_en": "From Sandan to Shared Factory… Grow ‘Gyeongbuk Food’",
-          "title_ja": "サンダンからシェアファクトリーへ…「慶北食」を育てよう",
-          "title_zh": "从三段到共用工厂…种植「景北美食」"
+          "title_en": "From industrial parks to shared factories… Growing \"Gyeongbuk Food\"",
+          "title_ja": "産業団地に共有工場まで…「慶尚北道フード」を育てる",
+          "title_zh": "从工业园区到共享工厂……“庆尚北道美食”正在崛起"
+        },
+        {
+          "title": "‘불닭의 힘’ 삼양식품 영업익 신기록…농심·오리온·웰푸드도 장밋빛",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paGZRbUhmOVRkdExDRHhucHYxNGZQa0hPTmp1VjF3bktRUWtpamtWZWlPZmFMQnR2UTJaUVBLMTRmRC1hZS1LY1R1OWdzZXJJcHfSAVNBVV95cUxNQVQwOU1RR193OEI0MnpNWVFVdHE2cVhXa3NtLXFNV0o0amNIODhIcUJsUVJMSll4X3RjYVhIT3djVjYyQ3k3cmVnNjZCOUs4VmxMRQ?oc=5",
+          "desc": "",
+          "title_en": "Samyang Foods sets a new record for operating profit with \"The Power of Buldak\"... Nongshim, Orion, and Wellfood also have a bright outlook.",
+          "title_ja": "「ブルダックの力」三養食品の営業利益が新記録…農心・オリオン・ウェルフードも明るい見通し",
+          "title_zh": "“火鸡面”的力量：三养食品营业利润创历史新高……农心、好丽友、乐天制果也前景光明"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "길거리 음식 부리토도 “할부로 결제할게요” … 美 블프때 불티나는 선구매후결제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CaVViVEhLVWpSZTVLZ29vaGMyQ1plaFVrcXRDVkdyMHV0RjJTSlZIQ3JRSUxQTmxvSnpWRUZIUDJZM0hCX1VJaFZMQ0JWdEY1MGc?oc=5",
+          "desc": "",
+          "title_en": "Even for street food burritos, \"I'll pay in installments\"... Buy now, pay later is booming during Black Friday in the U.S.",
+          "title_ja": "ストリートフードのブリトーも「分割払いでお願いします」…米国のブラックフライデーでは後払いショッピングが人気",
+          "title_zh": "街头美食卷饼也能“分期付款”……美国黑色星期五期间，先买后付（BNPL）服务火爆"
+        },
+        {
           "title": "푸드뱅크 28년 후원 … 허영인 회장의 진심",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02T3V0YWtNbkMzZ21ob2NhUjlodVZBaS1wOE1jeWlaR0NubFFYXzBSZkF1YThFSDAxcE1VMUZOSUg4bGdmM3lPZGRudzhvb0E3ZlNOMkFR?oc=5",
           "desc": "",
-          "title_en": "28 Years of Food Bank Sponsorship… Chairman Young-in Heo's Sincerity",
-          "title_ja": "28年間のフードバンクスポンサーシップ…ヤングイン・ホー会長の誠意",
-          "title_zh": "食品银行赞助28年…董事长何英仁真诚"
+          "title_en": "28 Years of Supporting Food Banks… Chairman Heo Young-in's Sincere Commitment",
+          "title_ja": "フードバンクへの28年間の支援…許永仁会長の真心",
+          "title_zh": "28年来对食品银行的资助……许英仁会长的真心"
         },
         {
           "title": "푸드위크 코리아서 1천400만달러 수출계약…작년보다 18% 증가",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sZmRNX0cwMlhtMGU5eXh4V3JrQkllbHJsY1FUUWUwQ09DcFF5LW1wOWJkVlR6eld0dTBVOWFuMXc2LXdCTThEdk5yRW8zRzBFQlE?oc=5",
           "desc": "",
-          "title_en": "$14 million export contract for Foodweek Korea… 18% more than last year",
-          "title_ja": "Foodweek Koreaの1400万ドルの輸出契約…昨年より18 ％増加",
-          "title_zh": "Foodweek韩国1400万美元的出口合同……比去年增加18%"
-        },
-        {
-          "title": "원주 산업단지 매운맛·문화로 잇는다…13∼15일 K-매운맛 축제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94QjdHdjI0ODFjaHhxMElGWUF1eHJCdDZoYkJ3SUlsaThXZmpUVVhEeXF1YTZkaVZFbzlOVUhQNnR6TVM0Yk9BTHpURDdDN1NkdUE?oc=5",
-          "desc": "",
-          "title_en": "It connects Wonju Industrial Complex with spicy taste and culture… K-Spicy Festival on the 13th to 15th",
-          "title_ja": "原州工業団地をスパイシーな味とカルチャーで結びつける… 13日～ 15日のKスパイシーフェスティバル",
-          "title_zh": "它将原州工业综合体与辛辣的味道和文化联系起来…… 13日至15日的K-Spicy Festival"
+          "title_en": "$14 million in export contracts at Food Week Korea… an 18% increase from last year",
+          "title_ja": "フードウィーク・コリアで1,400万ドルの輸出契約…昨年より18%増加",
+          "title_zh": "在韩国食品周上达成 1400 万美元的出口合同……比去年增长 18%"
         }
       ]
     },
@@ -221,25 +221,25 @@
           "title": "고객·점주 아이디어로 신메뉴 발굴…파파존스, ‘레시피 공모전’ 마쳐",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tTjQwM0tXdDBZQkRFZWZ3LUdiR2VBemt3dDM5Mk84dGVsaTVLZ3ZOeFRMRTFWejBDeDdDc19HT0Zyb004bm9Gd3p2MUVpcUpVaDRIR1g1TQ?oc=5",
           "desc": "",
-          "title_en": "Discover new menu with customer and owner ideas… Papa Jones finishes‘ Recipe Contest ’",
-          "title_ja": "顧客とオーナーのアイデアで新しいメニューを発見…パパ・ジョーンズが「レシピコンテスト」を終了",
-          "title_zh": "探索包含客户和业主创意的新菜单…… Papa Jones完成了“食谱竞赛”"
+          "title_en": "New menu items developed from customer and store owner ideas… Papa John's completes its \"Recipe Contest\"",
+          "title_ja": "顧客・オーナーのアイデアで新メニューを発掘…パパジョンズ、「レシピコンテスト」終了",
+          "title_zh": "通过顾客和店主的创意发掘新菜单……Papa John's 结束“食谱征集大赛”"
         },
         {
           "title": "브리오슈 반죽한 허니브레드…이디야, 푸드 메뉴 새 단장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51TS1BYUxRQlZLYkdpWWtlVjFWQ081LS1Xc1h5dl9JTW1DV2xSNG1Fa0FPODBjRGZZcDM3a252UndkQ0F6WXg0VlNTWVF5ZHFyX09jdXNhVQ?oc=5",
           "desc": "",
-          "title_en": "Honeybread doughy with brioche… Ediya, food menu refurbished",
-          "title_ja": "ハニーブレッド生地とブリオッシュ…枝屋、フードメニューをリニューアル",
-          "title_zh": "蜂蜜面包面团配奶油蛋糕…… Ediya ，翻新美食菜单"
+          "title_en": "Honey bread made with brioche dough… Ediya revamps its food menu",
+          "title_ja": "ブリオッシュ生地のハニーブレッド…EDIYA、フードメニューをリニューアル",
+          "title_zh": "用布里欧修面团制作的蜂蜜面包……EDIYA 焕新推出美食菜单"
         },
         {
           "title": "“먹으면서 피부 관리” 독일의 ‘이너뷰티’ 시장",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UM194RHA3Q2JPRzJnS1VxUENJZ0F5UktmdlAwOXVJdy1mbjNYZXM2UmlGaG9iUk5FYzRkSE45QzM1QV8takRxM1FXdjFJODUtZmQzUURONA?oc=5",
           "desc": "",
-          "title_en": "“Eating and taking care of your skin” Inner Beauty Market in Germany",
-          "title_ja": "「肌を食べてケアする」ドイツのインナービューティーマーケット",
-          "title_zh": "“吃和照顾你的皮肤”德国的内部美容市场"
+          "title_en": "Germany's \"Inner Beauty\" Market: \"Skin Care Through Diet\"",
+          "title_ja": "「食べることで肌をケアする」ドイツの「インナービューティー」市場",
+          "title_zh": "“边吃边护肤”德国的“内在美”市场"
         }
       ]
     }
