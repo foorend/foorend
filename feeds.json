@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T17:23:20Z",
+  "lastUpdated": "2026-11-12T23:15:41Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -9,8 +9,8 @@
           "title": "America’s Top 100 Independent Restaurants top $2 billion in sales",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTFSdkdJaVVnRU1FRjJ3emZsbkwzNlBEZEt2UWtLeG9jdVNVZ3czWkc3NE85aDRMdkE2Tm5aRVlibllGQTdaenV4YjhYTmExdVdzOWVCbTJ1cWlEYm9abDlvS1JENmdGdjEycThhRzFHbllqbEh1dVBnSFVBdFJXcXU1OHFtU3d2UkRVZmFQT0RrOGI0cTVhYWdYVWJyLWpwZGhRZ3BQX0ZvWGoz?oc=5",
           "desc": "",
-          "title_ko": "미국 내 매출액 상위 100개 독립 레스토랑의 매출액이 20억 달러를 넘어섰습니다.",
-          "title_ja": "アメリカの独立系レストラン上位 100 店舗の売上高が 20 億ドルを超える",
+          "title_ko": "미국 100대 독립 레스토랑의 매출액이 20억 달러를 돌파했습니다.",
+          "title_ja": "アメリカの独立系レストラン上位 100 店舗の売上高は 20 億ドルを超える",
           "title_zh": "美国 100 家顶级独立餐厅的销售额超过 20 亿美元"
         },
         {
@@ -19,15 +19,15 @@
           "desc": "",
           "title_ko": "연구 결과에 따르면, 미국 내 중국 음식점의 절반이 문을 닫은 것으로 나타났습니다.",
           "title_ja": "調査によると、国内の中華料理店の半数が閉店していることが判明",
-          "title_zh": "研究发现，全国一半的中餐厅已歇业"
+          "title_zh": "研究发现，全国一半的中餐厅已经关门"
         },
         {
-          "title": "All of a sudden, QR codes are everywhere",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUg2YVZ3WGwyWF9OcG9PWDJFbkdidllreEplaVZDUVh6WDc2VzRMQk5RdkpEYk1hQU1EV19aRVhaUkNwNnpYOHVXRDVfQnhtRGpiLXZFU3g4WXB0bm1RMGppaWRrbGxiSlpTNm5RVTlDVTJIRUUwdU9HUWNJUno5R3ExMFBLTk9mTHc?oc=5",
+          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
           "desc": "",
-          "title_ko": "갑자기 QR 코드가 어디에나 등장하기 시작했습니다.",
-          "title_ja": "突然、QRコードがどこにでも登場するようになりました",
-          "title_zh": "突然之间，二维码无处不在"
+          "title_ko": "조지아주와 앨라배마주의 델타코 가맹점이 파산 신청을 했습니다.",
+          "title_ja": "ジョージア州とアラバマ州のデルタコフランチャイズ加盟店が破産申請",
+          "title_zh": "佐治亚州和阿拉巴马州的Del Taco加盟商申请破产"
         }
       ]
     },
@@ -69,17 +69,9 @@
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업인 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
-          "title_ja": "プライベートシェフとパーティーの主催者を結びつけるスタートアップ企業、Kitchensurfingの料理にインスピレーションを得たオフィスの中",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
+          "title_ja": "プライベートシェフとパーティーの主催者を結びつけるスタートアップ、Kitchensurfingの料理にインスピレーションを受けたオフィスの中",
           "title_zh": "走进Kitchensurfing烹饪主题办公室，这家初创公司将私人厨师与派对主办人联系起来"
-        },
-        {
-          "title": "A grocery crisis is brewing as a major food distributor's IT issues leave shelves empty at some supermarkets",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTF9EQndPVGhLZEpBbWwtMlpYMFlfenY5MGRQdG1LbDVnUkF4aVg0N1VfbmJZLTdlWGVhSGhmU1hybThxa1NkVFNiMmNMUUFoajl1T0tKTVA1VWhwR0Vhank1TXhGMGMxQzF3a3MwdlZkamZ0ODVUVUZNTzFKWVJ1WVMyVGhQclJGYWJaV2lKSm9peWtJenpUTkdRcFFhY0U5?oc=5",
-          "desc": "",
-          "title_ko": "대형 식료품 유통업체의 IT 문제로 일부 슈퍼마켓의 진열대가 비어 가면서 식료품 위기가 임박하고 있습니다.",
-          "title_ja": "大手食品流通業者のIT問題により、一部のスーパーマーケットの棚が空になり、食料品危機が迫っている",
-          "title_zh": "由于一家大型食品经销商的IT问题导致一些超市的货架空空如也，一场食品杂货危机正在酝酿之中。"
         },
         {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
@@ -88,6 +80,14 @@
           "title_ko": "식량 보호주의: 안보를 위해 수출을 제한하고 인플레이션을 통제하는 국가들",
           "title_ja": "食料保護主義：各国が安全保障やインフレ抑制のために輸出を制限",
           "title_zh": "粮食保护主义：各国出于安全考虑限制出口，以控制通胀"
+        },
+        {
+          "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3pBcDV0OU9uRnJfSXZfMkYxTms3a2UtZ0swOU82YXpvQ3ZMTnJlS0dzNVJyakwtenBSWXhIT2RyVFBXTzNIbFdEM3dWeW92X3EyT3FGTUVxc3ptbGJRTDdPRkxoNU5ubng5ZlhXQTRBNmNnQWVXTm4wSlRSdGhwYjg0QnNTN2t6d2NmQWFhWnRuUmRjV0N2cHBXSXkxNkk?oc=5",
+          "desc": "",
+          "title_ko": "식품 폐기물 스타트업 Mill이 Google Ventures 등으로부터 1억 달러를 조달하는 데 사용한 독점 피치 데크를 확인해 보세요.",
+          "title_ja": "食品廃棄物処理スタートアップのMillが、Google Venturesなどから1億ドルを調達するために使用した独占的なピッチデッキをご覧ください。",
+          "title_zh": "查看食品废弃物初创公司Mill用于从Google Ventures等处筹集1亿美元的独家路演演示文稿"
         }
       ]
     },
@@ -100,8 +100,8 @@
           "link": "https://www.eater.com/dining-out/999548/eater-awards-restaurant-research-observations",
           "desc": "The past year has been one of “Great Chickenings” and fine dining flips, British food invasions and restaurants whose dining rooms feel like living ro",
           "title_ko": "2026년 Eater Awards 후보를 물색하며 얻은 매우 구체적인 관찰 결과",
-          "title_ja": "2026 年 Eater Awards の候補を探す中で得られた、非常に具体的な観察事項",
-          "title_zh": "为 2026 年顾客选择奖评选而进行的考察期间的非常具体的观察结果"
+          "title_ja": "2026 年 Eater Awards の候補を探す中で見つけた、非常に具体的な観察事項",
+          "title_zh": "为 2026 年顾客选择奖评选而进行的调研中发现的一些非常具体的现象"
         },
         {
           "title": "The Best Food Gifts Under $100 (That Are Just the Right Amount of Extra)",
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "계명대, 실크로드 누들과 신라 음식 문화 조명하는 학술회의 개최",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSG9FU2c2cDNtTll5MWhSZWE0dkVMbGM1Q3c0Y1dQRUJHeVlIaWtObzljVzY5cEZKN05ITWFTaHJaNWstWEVNNjdHWUh1bGpBU1RnN25ndjcxZw?oc=5",
+          "desc": "",
+          "title_en": "Keimyung University Holds Academic Conference to Highlight Silk Road Noodles and Silla Food Culture",
+          "title_ja": "啓明大学、シルクロードの麺料理と新羅の食文化に焦点を当てた学術会議を開催",
+          "title_zh": "启明大学举办学术会议，聚焦丝绸之路面食与新罗饮食文化"
+        },
+        {
+          "title": "더본코리아 홍콩반점, ‘통영 굴’의 감칠맛 담았다…‘통영굴짬뽕’ 출시",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJSUVkWk9BLXlyZGp0ZDJiWHdObEhrR1JhOXk2VE1tRG5XOEhwaUpadU9EaFpDZk9ucjBZbm4waVdXSGo3eHM2UTEwX0t3OWswUFgzazUyR0FEQQ?oc=5",
+          "desc": "",
+          "title_en": "Theborn Korea's Hong Kong Banjum launches 'Tongyeong Oyster Jjamppong' featuring the savory flavor of 'Tongyeong oysters'",
+          "title_ja": "Theborn Koreaの「香港飯店」が「統営の牡蠣」の旨味を詰め込んだ…「統営牡蠣ちゃんぽん」を発売",
+          "title_zh": "Theborn Korea 旗下品牌香港拌面推出“统营牡蛎짬뽕”，蕴含“统营牡蛎”的鲜美滋味"
+        },
+        {
           "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 13일 띠별 추천 점심메뉴",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ZGpld3didUZ3RU43b01tVFVTTVRBYmg1cW5CcHk5V2h3YUktZ21jZEJSR2ZnZXhCNHY5d3d4LTMxampZYXpJS1JfUDZtbHJ5VWdndXVaaUdXdw?oc=5",
           "desc": "",
           "title_en": "[Today's Horoscope] What should I eat today?…Recommended Lunch Menu by Zodiac Sign for November 13th",
-          "title_ja": "【今日の運勢】今日は何を食べる？…11月13日、干支別のランチメニューのおすすめ",
+          "title_ja": "【今日の運勢】今日は何を食べる？…11月13日生まれの干支別おすすめランチメニュー",
           "title_zh": "【今日运势】今天吃什么？……11月13日按生肖推荐的午餐菜单"
-        },
-        {
-          "title": "배민, 음식값·배달비 할인 수수료 면제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9adFRFZWhHc3VyY0FfRVpjcDIwOW9ZMklmMHRaQVl5R1FTWVRnS2p4UXlvTlR6QXdrVTE1UEJhQ1VxZkNvODhZUUxuWW00LUNVSUNZVUVXbGszdw?oc=5",
-          "desc": "",
-          "title_en": "Baemin, exemption from fees for discounts on food prices and delivery fees",
-          "title_ja": "Baemin、料理代・配達手数料の割引手数料を免除",
-          "title_zh": "Baemin免除餐费和配送费折扣手续费"
-        },
-        {
-          "title": "\"이걸 어떻게 먹으라고\"…'숯덩이 고등어구이' 항의했더니",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdGNVNGo3TzNmUnNPTzBnOEhITlpvZkJZNU5TbHFUNHBRSFNKQUZaZjdaSS1LYk1wLVVFVmV0cXRTLVp5UG1Yc0RuMXNiLXVlcjBnMzBxa3Q0dw?oc=5",
-          "desc": "",
-          "title_en": "\"How am I supposed to eat this?\"… When I complained about the \"charred grilled mackerel,\"",
-          "title_ja": "「こんなのどうやって食べるんだ」…「真っ黒に焦げたサバの塩焼き」に抗議したら",
-          "title_zh": "“你怎么让我吃这个”……我抗议“烤焦的烤鲭鱼”时，"
         }
       ]
     },
@@ -161,7 +161,7 @@
           "title": "“음식을 나누는 것은 큰 행복” 허영인 상미당홀딩스 회장, 28년째 푸드뱅크 나눔",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sY00yOHd6cmNVNFFpUlRRa0NVaDBQdnQ5NTdoZlhGbG00MGNNZWhNeHpMTmhSbXV0LWZXS1VtTDAycGFkTUZ4NW5aTml1YjdtTGfSAVNBVV95cUxPMTB5VUtHRU9CYXdGMnNHbWM4MTJYNHFlLTB3QmFyLVkyeFhEWDJGNXBpMWQwRzQ4UXRjeDRSS0pzZTRDQklpYkUtdXcwWkpraEtEaw?oc=5",
           "desc": "",
-          "title_en": "“Sharing food is a great joy.” – Heo Young-in, Chairman of Samlip Holdings, has been sharing with food banks for 28 years.",
+          "title_en": "“Sharing food is a great joy.” – SangmiDang Holdings Chairman Young-in Heo, who has been donating to food banks for 28 years.",
           "title_ja": "「食べ物を分かち合うことは大きな幸せ」サムミダンホールディングス会長のホ・ヨンイン氏、28年目のフードバンクへの寄付",
           "title_zh": "“分享食物是一种莫大的幸福”——尚美堂控股公司董事长许英仁，28年来坚持向食物银行捐赠"
         },
@@ -169,7 +169,7 @@
           "title": "롯데웰푸드, 3분기 영업익 30% 증가…해외사업 성장에 수익성 개선",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlb19COUlCYlZMdnd6dWQ5WGtiSl94dlpNai02d0x5TC1mUmxXQ21MRkhmT0FqRVZhNXBCZVJ5Z2VnWW9ITFlmZnJiTWVtNTJ4anfSAVNBVV95cUxNTWdUT0ZjWG9OVnBZQVhnNl9XczZ6MEloMWFWZVNfa29sd3RQdDMzX0VxZng4T0h2Y2l4UUNxM0lJUjZKRkpVUl8xMnVHR2phNVhHOA?oc=5",
           "desc": "",
-          "title_en": "Lotte Wellfood's operating profit increases by 30% in Q3… Improved profitability due to growth in overseas business",
+          "title_en": "Lotte Wellfood's operating profit up 30% in Q3… Improved profitability due to growth in overseas business",
           "title_ja": "ロッテウェルフード、第3四半期の営業利益が30%増加…海外事業の成長で収益性改善",
           "title_zh": "乐天食品第三季度营业利润增长30%……海外业务增长推动盈利能力改善"
         },
@@ -179,7 +179,7 @@
           "desc": "",
           "title_en": "Will K-food also become popular two months after the success of K-dramas?…KITA: “Sell at the right time.”",
           "title_ja": "Kドラマが大ヒットしてから2か月後、Kフードも人気に？…KOTRA「タイミングを合わせて売れ」",
-          "title_zh": "韩剧大热2个月后，韩餐也会大热？……韩国贸易协会（KITA）：“要把握时机销售。”"
+          "title_zh": "韩剧大热2个月后，韩餐也会随之走红？……韩国贸易投资振兴公社（KOTRA）：“把握时机进行销售。”"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "레어드 슈퍼푸드, 3분기 매출 4200만 달러·225% 증가..흑자전환",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12ck43a3ZYLVpCWmpuLVJvX3BPWDBRME03Wjk3ZWFYY1gzcEJXMkpYXzlnVk9jSkRqalVCVEdzaEV1RGNRWTRBUEpVWUwyWnNOb3c?oc=5",
+          "desc": "",
+          "title_en": "Laird Superfood reports $42 million in Q3 sales, a 225% increase, and returns to profitability.",
+          "title_ja": "レアード・スーパーフード、第3四半期の売上高4,200万ドル・225%増..黒字転換",
+          "title_zh": "Laird Superfood 第三季度销售额达 4200 万美元，增长 225%……实现盈利"
+        },
+        {
           "title": "익산미륵사지휴게소 '로컬푸드 행복장터' 재개장",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yRVdkM1BqYTllNVQyWUs4MEVuS0sxZncwRkplVUpYM0hGNHdoYnRaYXdURE5SUlNQOU5PLW51UkNZX21Fc1RrVTFfTzRRc1JIcXc?oc=5",
           "desc": "",
-          "title_en": "Reopening of 'Local Food Happiness Market' at Iksan Mireuksa Temple Site Rest Area",
-          "title_ja": "益山弥勒寺址サービスエリア「ローカルフード幸せ市場」再オープン",
+          "title_en": "Reopening of the 'Local Food Happiness Market' at Iksan Mireuksa Temple Site Rest Area",
+          "title_ja": "益山弥勒寺址サービスエリア「地産地消ハッピーマーケット」が再オープン",
           "title_zh": "益山弥勒寺址休息站“本地美食幸福市场”重新开业"
         },
         {
           "title": "말똥성게·단풍콩잎김치…경북 밥상에 담긴 이야기",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nNGZ5S05uSDQzX2tUSXNNa3lHMHM5WWJhVGR0V0hZQ2hDN2l3YkVXRGFHWlJ5Z1lGc2NySFlCQk5xMjRZSWhnaWthOGs3dlRBX1E?oc=5",
           "desc": "",
-          "title_en": "Green sea urchin, maple leaf kimchi… Stories from Gyeongsangbuk-do's dining table",
-          "title_ja": "ムラサキウニ・モミジバダイズのキムチ…慶尚北道の食卓に込められたストーリー",
-          "title_zh": "紫海胆·枫叶豆叶泡菜……北庆尚道餐桌上的故事"
-        },
-        {
-          "title": "길거리 음식 부리토도 “할부로 결제할게요” … 美 블프때 불티나는 선구매후결제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CaVViVEhLVWpSZTVLZ29vaGMyQ1plaFVrcXRDVkdyMHV0RjJTSlZIQ3JRSUxQTmxvSnpWRUZIUDJZM0hCX1VJaFZMQ0JWdEY1MGc?oc=5",
-          "desc": "",
-          "title_en": "Even for street food burritos, \"I'll pay in installments\"... Buy now, pay later is booming during Black Friday in the U.S.",
-          "title_ja": "ストリートフードのブリトーも「分割払いでお願いします」…米国のブラックフライデーでは後払い決済が人気",
-          "title_zh": "就连街头美食墨西哥卷饼也可以“分期付款”……美国黑色星期五期间，先买后付（BNPL）服务火爆异常"
+          "title_en": "Green sea urchin, maple leaf kimchi… Stories from a North Gyeongsang Province table",
+          "title_ja": "ムラサキウニ・紅葉豆葉キムチ…慶尚北道の食卓に込められた物語",
+          "title_zh": "紫海胆、枫叶豆叶泡菜……北庆尚道餐桌上的故事"
         }
       ]
     },
@@ -223,7 +223,7 @@
           "desc": "",
           "title_en": "Honey bread made with brioche dough… Ediya revamps its food menu",
           "title_ja": "ブリオッシュ生地のハニーブレッド…EDIYA、フードメニューをリニューアル",
-          "title_zh": "用布里欧修面团制作的蜂蜜面包……EDIYA 推出全新美食菜单"
+          "title_zh": "用布里欧修面团制作的蜂蜜面包……EDIYA 咖啡全新推出美食菜单"
         },
         {
           "title": "“먹으면서 피부 관리” 독일의 ‘이너뷰티’ 시장",
@@ -237,8 +237,8 @@
           "title": "꺼내서 바로 먹는 ‘컵 채소’, 일본 인기",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YVmIxUVZCOGVkTi1KVzVzYy14M2I4SWVReEVOTXh6MnVVWEg1cnFiNUl2V1FOQktRMmxvTkRETWcxT1ZoR25SZUJCSkJ0bUZNVXJSQ3Z6QQ?oc=5",
           "desc": "",
-          "title_en": "\"Cup vegetables\" that you can take out and eat right away are popular in Japan.",
-          "title_ja": "出してすぐに食べる「カップ野菜」が日本で人気",
+          "title_en": "\"Cup vegetables\" that you can take out and eat right away are popular in Japan",
+          "title_ja": "出してすぐに食べられる「カップ野菜」が日本で人気",
           "title_zh": "即开即食的“杯装蔬菜”在日本很受欢迎"
         }
       ]
