@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T23:15:41Z",
+  "lastUpdated": "2026-11-13T05:26:17Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -9,25 +9,25 @@
           "title": "America’s Top 100 Independent Restaurants top $2 billion in sales",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTFSdkdJaVVnRU1FRjJ3emZsbkwzNlBEZEt2UWtLeG9jdVNVZ3czWkc3NE85aDRMdkE2Tm5aRVlibllGQTdaenV4YjhYTmExdVdzOWVCbTJ1cWlEYm9abDlvS1JENmdGdjEycThhRzFHbllqbEh1dVBnSFVBdFJXcXU1OHFtU3d2UkRVZmFQT0RrOGI0cTVhYWdYVWJyLWpwZGhRZ3BQX0ZvWGoz?oc=5",
           "desc": "",
-          "title_ko": "미국 100대 독립 레스토랑의 매출액이 20억 달러를 돌파했습니다.",
-          "title_ja": "アメリカの独立系レストラン上位 100 店舗の売上高は 20 億ドルを超える",
+          "title_ko": "미국 내 매출액 상위 100개 독립 레스토랑의 매출액이 20억 달러를 돌파했습니다.",
+          "title_ja": "アメリカの独立系レストラン上位 100 店舗の売上高が 20 億ドルを超える",
           "title_zh": "美国 100 家顶级独立餐厅的销售额超过 20 亿美元"
         },
         {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
-          "title_ko": "연구 결과에 따르면, 미국 내 중국 음식점의 절반이 문을 닫은 것으로 나타났습니다.",
+          "title_ko": "연구 결과에 따르면 전국 중식당의 절반이 문을 닫은 것으로 나타났습니다.",
           "title_ja": "調査によると、国内の中華料理店の半数が閉店していることが判明",
           "title_zh": "研究发现，全国一半的中餐厅已经关门"
         },
         {
-          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
+          "title": "All of a sudden, QR codes are everywhere",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUg2YVZ3WGwyWF9OcG9PWDJFbkdidllreEplaVZDUVh6WDc2VzRMQk5RdkpEYk1hQU1EV19aRVhaUkNwNnpYOHVXRDVfQnhtRGpiLXZFU3g4WXB0bm1RMGppaWRrbGxiSlpTNm5RVTlDVTJIRUUwdU9HUWNJUno5R3ExMFBLTk9mTHc?oc=5",
           "desc": "",
-          "title_ko": "조지아주와 앨라배마주의 델타코 가맹점이 파산 신청을 했습니다.",
-          "title_ja": "ジョージア州とアラバマ州のデルタコフランチャイズ加盟店が破産申請",
-          "title_zh": "佐治亚州和阿拉巴马州的Del Taco加盟商申请破产"
+          "title_ko": "갑자기 QR 코드가 어디에나 등장하기 시작했습니다.",
+          "title_ja": "突然、QRコードがどこにでも登場するようになりました",
+          "title_zh": "突然之间，二维码无处不在"
         }
       ]
     },
@@ -40,7 +40,7 @@
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
           "title_ko": "식품 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
+          "title_ja": "フードニュースとトレンド",
           "title_zh": "美食资讯与潮流"
         },
         {
@@ -48,7 +48,7 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
           "title_ko": "멕시코 맥주 테카테가 실제로 네덜란드에서 양조된다는 소송 청구",
-          "title_ja": "メキシコビール「テカテ」は実際にはオランダで醸造されているという訴訟",
+          "title_ja": "メキシコのビール「テカテ」は実際にはオランダで醸造されているという訴訟",
           "title_zh": "诉讼称墨西哥啤酒Tecate实际上是在荷兰酿造的"
         },
         {
@@ -70,8 +70,8 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
           "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
-          "title_ja": "プライベートシェフとパーティーの主催者を結びつけるスタートアップ、Kitchensurfingの料理にインスピレーションを受けたオフィスの中",
-          "title_zh": "走进Kitchensurfing烹饪主题办公室，这家初创公司将私人厨师与派对主办人联系起来"
+          "title_ja": "プライベートシェフとパーティー主催者をつなぐスタートアップ、Kitchensurfingの料理にインスパイアされたオフィスの中",
+          "title_zh": "走进Kitchensurfing的烹饪风办公室，这家初创公司将私人厨师与派对主办人联系起来"
         },
         {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
@@ -99,16 +99,16 @@
           "title": "Highly Specific Observations While Scouting for the 2026 Eater Awards",
           "link": "https://www.eater.com/dining-out/999548/eater-awards-restaurant-research-observations",
           "desc": "The past year has been one of “Great Chickenings” and fine dining flips, British food invasions and restaurants whose dining rooms feel like living ro",
-          "title_ko": "2026년 Eater Awards 후보를 물색하며 얻은 매우 구체적인 관찰 결과",
+          "title_ko": "2026년 Uber Eats 고객 어워드를 위한 후보자 물색 중 얻은 매우 구체적인 관찰 사항",
           "title_ja": "2026 年 Eater Awards の候補を探す中で見つけた、非常に具体的な観察事項",
-          "title_zh": "为 2026 年顾客选择奖评选而进行的调研中发现的一些非常具体的现象"
+          "title_zh": "在为 2026 年顾客选择奖评选餐厅时的一些非常具体的观察结果"
         },
         {
           "title": "The Best Food Gifts Under $100 (That Are Just the Right Amount of Extra)",
           "link": "https://www.eater.com/shopping/923042/best-holiday-gifts-for-foodies-under-100-dollars",
           "desc": "I take my holiday gift shopping very seriously — if not for my giftee, for my own serotonin-seeking purposes. There’s nothing quite as satisfying as f",
-          "title_ko": "$100 미만의 최고의 푸드 기프트(딱 적당한 가격대)",
-          "title_ja": "100ドル未満のおすすめフードギフト（ちょうどいい特別感）",
+          "title_ko": "$100 미만의 최고의 음식 선물(딱 적당한 가격대)",
+          "title_ja": "100ドル未満のおすすめフードギフト（ちょっとした特別感を演出）",
           "title_zh": "100美元以下的最佳美食礼品（恰到好处的惊喜）"
         },
         {
@@ -128,6 +128,14 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "롯데웰푸드(280360) 구조적인 이익 개선 지속",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JRGpIMEhPMzJMd0l1Wm9PMm9VQ2lfcXg1cnBmZjIyTnJYa2Zab21wOTdkMFllSHd2ajNfOFNnT25za2FVbTdjMmlIVVFRbWp4RnpvbTAxMXhNQTJ0a1o0?oc=5",
+          "desc": "",
+          "title_en": "Continued structural profit improvement at Lotte Wellfood (280360)",
+          "title_ja": "ロッテウェルフード（280360）構造的な利益改善の継続",
+          "title_zh": "乐天食品（280360）持续实现结构性盈利改善"
+        },
+        {
           "title": "계명대, 실크로드 누들과 신라 음식 문화 조명하는 학술회의 개최",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSG9FU2c2cDNtTll5MWhSZWE0dkVMbGM1Q3c0Y1dQRUJHeVlIaWtObzljVzY5cEZKN05ITWFTaHJaNWstWEVNNjdHWUh1bGpBU1RnN25ndjcxZw?oc=5",
           "desc": "",
@@ -140,16 +148,8 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJSUVkWk9BLXlyZGp0ZDJiWHdObEhrR1JhOXk2VE1tRG5XOEhwaUpadU9EaFpDZk9ucjBZbm4waVdXSGo3eHM2UTEwX0t3OWswUFgzazUyR0FEQQ?oc=5",
           "desc": "",
           "title_en": "Theborn Korea's Hong Kong Banjum launches 'Tongyeong Oyster Jjamppong' featuring the savory flavor of 'Tongyeong oysters'",
-          "title_ja": "Theborn Koreaの「香港飯店」が「統営の牡蠣」の旨味を詰め込んだ…「統営牡蠣ちゃんぽん」を発売",
-          "title_zh": "Theborn Korea 旗下品牌香港拌面推出“统营牡蛎짬뽕”，蕴含“统营牡蛎”的鲜美滋味"
-        },
-        {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 13일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ZGpld3didUZ3RU43b01tVFVTTVRBYmg1cW5CcHk5V2h3YUktZ21jZEJSR2ZnZXhCNHY5d3d4LTMxampZYXpJS1JfUDZtbHJ5VWdndXVaaUdXdw?oc=5",
-          "desc": "",
-          "title_en": "[Today's Horoscope] What should I eat today?…Recommended Lunch Menu by Zodiac Sign for November 13th",
-          "title_ja": "【今日の運勢】今日は何を食べる？…11月13日生まれの干支別おすすめランチメニュー",
-          "title_zh": "【今日运势】今天吃什么？……11月13日按生肖推荐的午餐菜单"
+          "title_ja": "Theborn Koreaの「香港飯店」が「統営産牡蠣」の旨味を活かした…「統営産牡蠣チャンポン」を発売",
+          "title_zh": "Theborn Korea 旗下品牌“香港饭店”推出“统营牡蛎海鲜짬뽕”，蕴含“统营牡蛎”的鲜美滋味"
         }
       ]
     },
@@ -157,6 +157,14 @@
       "label": "서울경제",
       "site": "https://www.sedaily.com",
       "items": [
+        {
+          "title": "“음식 다 상하고 냉동고 녹아내려” 유럽 난리 나자…한국도 긴급 점검",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSmhZMkdGakNkeFRsdjdhWTZMYU5HSGxlQ0cwT1BYX1VEelBxMkNYRzhmNE0xN205SllreUczSFdtZHY2MS0wUkwtclhzQWJGLUHSAVNBVV95cUxOaUoxYWpYVU9qTzhrNUowaXBjazdWY01NM0RObkpCUGJ2TGQyblhyenpmYUYxVkJXTDJOS2dBNmcySlloUWc5WEVsTzhMVE1JWmI2TQ?oc=5",
+          "desc": "",
+          "title_en": "\"All the food has spoiled, and the freezer has melted.\" As Europe is in chaos… South Korea is also conducting emergency inspections.",
+          "title_ja": "「食べ物が全部ダメになり、冷凍庫が溶けている」ヨーロッパが大混乱に陥ると…韓国でも緊急点検",
+          "title_zh": "“食物都坏了，冰箱也化了” 欧洲陷入混乱……韩国也紧急检查"
+        },
         {
           "title": "“음식을 나누는 것은 큰 행복” 허영인 상미당홀딩스 회장, 28년째 푸드뱅크 나눔",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sY00yOHd6cmNVNFFpUlRRa0NVaDBQdnQ5NTdoZlhGbG00MGNNZWhNeHpMTmhSbXV0LWZXS1VtTDAycGFkTUZ4NW5aTml1YjdtTGfSAVNBVV95cUxPMTB5VUtHRU9CYXdGMnNHbWM4MTJYNHFlLTB3QmFyLVkyeFhEWDJGNXBpMWQwRzQ4UXRjeDRSS0pzZTRDQklpYkUtdXcwWkpraEtEaw?oc=5",
@@ -169,17 +177,9 @@
           "title": "롯데웰푸드, 3분기 영업익 30% 증가…해외사업 성장에 수익성 개선",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlb19COUlCYlZMdnd6dWQ5WGtiSl94dlpNai02d0x5TC1mUmxXQ21MRkhmT0FqRVZhNXBCZVJ5Z2VnWW9ITFlmZnJiTWVtNTJ4anfSAVNBVV95cUxNTWdUT0ZjWG9OVnBZQVhnNl9XczZ6MEloMWFWZVNfa29sd3RQdDMzX0VxZng4T0h2Y2l4UUNxM0lJUjZKRkpVUl8xMnVHR2phNVhHOA?oc=5",
           "desc": "",
-          "title_en": "Lotte Wellfood's operating profit up 30% in Q3… Improved profitability due to growth in overseas business",
+          "title_en": "LOTTE Wellfood's operating profit increases by 30% in Q3… Improved profitability due to growth in overseas business",
           "title_ja": "ロッテウェルフード、第3四半期の営業利益が30%増加…海外事業の成長で収益性改善",
-          "title_zh": "乐天食品第三季度营业利润增长30%……海外业务增长推动盈利能力改善"
-        },
-        {
-          "title": "K드라마 흥행 2개월 뒤 K푸드도 뜬다?…무협 “타이밍 맞춰 팔아라”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uNWFaRWFoWklLeDc4VzNmMExOcFBhYTVnR3p4eVc3SEN2RXZFdDdMWkxHRnZHZ3hYQmZrRjNRY2JyYkxmVDZjQ3hrbERMeENNWWfSAVNBVV95cUxPWmxjS3dxU05WbUZ0b0dCSXZNWE5OcE11N3o1RVpGM0VyUG9wWWxCLThkTTdHR2dzNW16SHhudlVjRTVESWNGUU50OEpLc1NzaTNYSQ?oc=5",
-          "desc": "",
-          "title_en": "Will K-food also become popular two months after the success of K-dramas?…KITA: “Sell at the right time.”",
-          "title_ja": "Kドラマが大ヒットしてから2か月後、Kフードも人気に？…KOTRA「タイミングを合わせて売れ」",
-          "title_zh": "韩剧大热2个月后，韩餐也会随之走红？……韩国贸易投资振兴公社（KOTRA）：“把握时机进行销售。”"
+          "title_zh": "乐天食品第三季度营业利润增长30%……海外业务增长带动盈利能力提升"
         }
       ]
     },
@@ -188,28 +188,28 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "레어드 슈퍼푸드, 3분기 매출 4200만 달러·225% 증가..흑자전환",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12ck43a3ZYLVpCWmpuLVJvX3BPWDBRME03Wjk3ZWFYY1gzcEJXMkpYXzlnVk9jSkRqalVCVEdzaEV1RGNRWTRBUEpVWUwyWnNOb3c?oc=5",
+          "title": "'고독한 미식가' 마츠시게 유타카, 남도 음식 알린다",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jUmw1cVl2c2dUMVhWN3U3SUxXZTR3dXhzVjlrcnVnd1BjZG5RdllzNkR3MTlJT25hRm5ITWVSbzdiZ3FfSWJGazV2U2VXa0FnTUE?oc=5",
           "desc": "",
-          "title_en": "Laird Superfood reports $42 million in Q3 sales, a 225% increase, and returns to profitability.",
-          "title_ja": "レアード・スーパーフード、第3四半期の売上高4,200万ドル・225%増..黒字転換",
-          "title_zh": "Laird Superfood 第三季度销售额达 4200 万美元，增长 225%……实现盈利"
+          "title_en": "Yutaka Matsushige of 'Solitary Gourmet' introduces southern Korean cuisine",
+          "title_ja": "「孤独のグルメ」の松重豊が南道（全羅南道）のグルメを紹介する",
+          "title_zh": "《孤独的美食家》松重丰介绍南部美食"
+        },
+        {
+          "title": "롯데웰푸드, 외국인 겨냥 '가나 쇼콜라 립파이 K-에디션' 출시",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMXZ2T1djazFneWR3ckxLdGNON0ZpSWhUSENhZEt4M1E1MmZsbV84WTE2cm1RTWg1U1dPN2VBWTA3OGF3RVY3cXB6cXFjNEdkWHc?oc=5",
+          "desc": "",
+          "title_en": "Lotte Wellfood launches \"Ghana Chocolat Lip Pie K-Edition\" targeting foreign consumers",
+          "title_ja": "ロッテウェルフード、外国人向け「ガーナショコラ・リップパイKエディション」を発売",
+          "title_zh": "乐天食品推出面向外国人的“加纳巧克力夹心派 K 版”"
         },
         {
           "title": "익산미륵사지휴게소 '로컬푸드 행복장터' 재개장",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yRVdkM1BqYTllNVQyWUs4MEVuS0sxZncwRkplVUpYM0hGNHdoYnRaYXdURE5SUlNQOU5PLW51UkNZX21Fc1RrVTFfTzRRc1JIcXc?oc=5",
           "desc": "",
           "title_en": "Reopening of the 'Local Food Happiness Market' at Iksan Mireuksa Temple Site Rest Area",
-          "title_ja": "益山弥勒寺址サービスエリア「地産地消ハッピーマーケット」が再オープン",
+          "title_ja": "益山弥勒寺址サービスエリア「地産地消ハッピーマーケット」再オープン",
           "title_zh": "益山弥勒寺址休息站“本地美食幸福市场”重新开业"
-        },
-        {
-          "title": "말똥성게·단풍콩잎김치…경북 밥상에 담긴 이야기",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nNGZ5S05uSDQzX2tUSXNNa3lHMHM5WWJhVGR0V0hZQ2hDN2l3YkVXRGFHWlJ5Z1lGc2NySFlCQk5xMjRZSWhnaWthOGs3dlRBX1E?oc=5",
-          "desc": "",
-          "title_en": "Green sea urchin, maple leaf kimchi… Stories from a North Gyeongsang Province table",
-          "title_ja": "ムラサキウニ・紅葉豆葉キムチ…慶尚北道の食卓に込められた物語",
-          "title_zh": "紫海胆、枫叶豆叶泡菜……北庆尚道餐桌上的故事"
         }
       ]
     },
@@ -223,7 +223,7 @@
           "desc": "",
           "title_en": "Honey bread made with brioche dough… Ediya revamps its food menu",
           "title_ja": "ブリオッシュ生地のハニーブレッド…EDIYA、フードメニューをリニューアル",
-          "title_zh": "用布里欧修面团制作的蜂蜜面包……EDIYA 咖啡全新推出美食菜单"
+          "title_zh": "用布里欧修面团制作的蜂蜜面包……EDIYA 推出全新美食菜单"
         },
         {
           "title": "“먹으면서 피부 관리” 독일의 ‘이너뷰티’ 시장",
@@ -234,12 +234,12 @@
           "title_zh": "“边吃边护肤”德国的“内在美”市场"
         },
         {
-          "title": "꺼내서 바로 먹는 ‘컵 채소’, 일본 인기",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YVmIxUVZCOGVkTi1KVzVzYy14M2I4SWVReEVOTXh6MnVVWEg1cnFiNUl2V1FOQktRMmxvTkRETWcxT1ZoR25SZUJCSkJ0bUZNVXJSQ3Z6QQ?oc=5",
+          "title": "당장 따라 해보세요…고깃집 ‘된장 술밥’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92UXpVODNVR2UzdGxXamFSZXdTdG9tWWhrYXZheVlpc2lNLVp1c1hTNXdycHZBbVBzVTBWSWJCamttQXhZb19nN3RWTHlLWXAxX0xyRUY0OA?oc=5",
           "desc": "",
-          "title_en": "\"Cup vegetables\" that you can take out and eat right away are popular in Japan",
-          "title_ja": "出してすぐに食べられる「カップ野菜」が日本で人気",
-          "title_zh": "即开即食的“杯装蔬菜”在日本很受欢迎"
+          "title_en": "Try it right away… Meat restaurant's \"Miso Stew with Rice and Soju\"",
+          "title_ja": "今すぐ作ってみてください…焼肉店の「味噌汁かけごはん」",
+          "title_zh": "马上来试试……烤肉店的“味噌酒饭”"
         }
       ]
     }
