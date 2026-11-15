@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T00:47:33Z",
+  "lastUpdated": "2026-11-15T10:27:12Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -9,7 +9,7 @@
           "title": "America’s Top 100 Independent Restaurants top $2 billion in sales",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTFSdkdJaVVnRU1FRjJ3emZsbkwzNlBEZEt2UWtLeG9jdVNVZ3czWkc3NE85aDRMdkE2Tm5aRVlibllGQTdaenV4YjhYTmExdVdzOWVCbTJ1cWlEYm9abDlvS1JENmdGdjEycThhRzFHbllqbEh1dVBnSFVBdFJXcXU1OHFtU3d2UkRVZmFQT0RrOGI0cTVhYWdYVWJyLWpwZGhRZ3BQX0ZvWGoz?oc=5",
           "desc": "",
-          "title_ko": "미국 100대 독립 레스토랑의 매출액이 20억 달러를 돌파했습니다.",
+          "title_ko": "미국 내 매출액 상위 100개 독립 레스토랑의 매출액이 20억 달러를 돌파했습니다.",
           "title_ja": "アメリカの独立系レストラン上位 100 店舗の売上高は 20 億ドルを超える",
           "title_zh": "美国 100 家顶级独立餐厅的销售额超过 20 亿美元"
         },
@@ -25,8 +25,8 @@
           "title": "DoorDash changes how it calculates fees for consumers",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
           "desc": "",
-          "title_ko": "DoorDash, 소비자에게 부과하는 수수료 산정 방식 변경",
-          "title_ja": "DoorDash が注文者に対する手数料の計算方法を変更",
+          "title_ko": "DoorDash, 고객 수수료 산정 방식 변경",
+          "title_ja": "DoorDash が注文者への手数料の計算方法を変更",
           "title_zh": "DoorDash 更改了向消费者收取费用的计算方式"
         }
       ]
@@ -56,7 +56,7 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
           "desc": "",
           "title_ko": "놓치고 싶지 않은 20가지 푸드 어드벤트 캘린더 — Bonne Maman, Williams Sonoma 등",
-          "title_ja": "見逃せない20のアドベントカレンダー（ボンヌ・ママン、ウィリアムズ・ソノマなど）",
+          "title_ja": "見逃せない20のアドベントカレンダー（Bonne Maman、Williams Sonomaなど）",
           "title_zh": "20款不容错过的美食倒数日历——来自Bonne Maman、Williams Sonoma等品牌"
         }
       ]
@@ -100,15 +100,15 @@
           "link": "https://www.eater.com/dining-out/999548/eater-awards-restaurant-research-observations",
           "desc": "The past year has been one of “Great Chickenings” and fine dining flips, British food invasions and restaurants whose dining rooms feel like living ro",
           "title_ko": "2026년 Eater Awards 후보를 물색하며 얻은 매우 구체적인 관찰 결과",
-          "title_ja": "2026 年 Eater Awards の候補を探す中で得られた非常に具体的な観察事項",
-          "title_zh": "在为 2026 年顾客选择奖物色候选餐厅时的一些非常具体的观察"
+          "title_ja": "2026 年 Eater Awards の候補を探す中で得られた、非常に具体的な観察事項",
+          "title_zh": "为 2026 年顾客选择奖评选而进行的调研中发现的一些非常具体的现象"
         },
         {
           "title": "The Best Food Gifts Under $100 (That Are Just the Right Amount of Extra)",
           "link": "https://www.eater.com/shopping/923042/best-holiday-gifts-for-foodies-under-100-dollars",
           "desc": "I take my holiday gift shopping very seriously — if not for my giftee, for my own serotonin-seeking purposes. There’s nothing quite as satisfying as f",
-          "title_ko": "$100 미만의 최고의 음식 선물(딱 적당한 가격대)",
-          "title_ja": "100ドル未満のおすすめの食品ギフト（ちょうどいい特別感）",
+          "title_ko": "$100 미만의 최고의 음식 선물(딱 적당한 금액)",
+          "title_ja": "100ドル未満のおすすめフードギフト（ちょうどいい特別感）",
           "title_zh": "100美元以下的最佳美食礼品（恰到好处的惊喜）"
         },
         {
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
-          "title": "배민, 음식값·배달비 할인 수수료 면제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9adFRFZWhHc3VyY0FfRVpjcDIwOW9ZMklmMHRaQVl5R1FTWVRnS2p4UXlvTlR6QXdrVTE1UEJhQ1VxZkNvODhZUUxuWW00LUNVSUNZVUVXbGszdw?oc=5",
+          "title": "\"커피만 파는 줄 알았는데\"…600만개 불티나게 팔린 메뉴 [장서우의 하입:hype]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91S1BJQU9EdmI5NjBuelV1OFFmeGszeXhLSEpkR3JYR2FObHh5Q0g2T1RWZy0yRlhDRmVjRlRxdHFhN2hISG9wLVJkR0dkQkUwX3pfQWs5Nl9Mdw?oc=5",
           "desc": "",
-          "title_en": "Baemin: Exemption from fees for discounts on food prices and delivery fees",
-          "title_ja": "Baemin、料理代・配達手数料の割引手数料を免除",
-          "title_zh": "Baemin免除餐费和配送费折扣手续费"
+          "title_en": "\"I thought they only sold coffee…\" The item that sold 6 million units like hotcakes [Jang Seo-woo's Hype:hype]",
+          "title_ja": "「コーヒーだけを売っていると思っていたのに」…600万個が飛ぶように売れたメニュー [チャン・ソウのHYPE：hype]",
+          "title_zh": "“我以为他们只卖咖啡”……热销600万份的菜单【张瑞宇的Hype：hype】"
         },
         {
-          "title": "신유열, 태국서 식품·음료 키운다…롯데칠성·웰푸드 현지 유통망 확보",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waE5BaEpVWnhoUTNwVlAtTnFUbVhVcjJvdlM2YTh2MG9heC1CMEZEcjVUMFFGb0sxeXRDQWJjLTI5QkdibDBuMGQ0SkVOY1RKLTViLUJjd21zQQ?oc=5",
+          "title": "\"먹던 마늘·부추를…\" 손님이 목격한 '닭한마리집' 충격 장면",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81WWQtVkRuX1ZnTWhaVmVDRGJBdVMtaDUwckNoM0lrUnpwUHVORjhtTTU3S2xpYm9XMHVIVnhRam5DdXp4UzZZMU9vbkgxdFVNS2YyM19KT19FZw?oc=5",
           "desc": "",
-          "title_en": "Shin Yoo-yeol expands food and beverage business in Thailand… Lotte Chilsung and Wellfood secure local distribution networks",
-          "title_ja": "シン・ユヨル、タイで食品・飲料を育てる…ロッテ七星・ウェルフードが現地流通網を確保",
-          "title_zh": "申东彬在泰国拓展食品和饮料业务……乐天七星和乐天制果在当地建立分销网络"
+          "title_en": "\"The garlic and chives we were eating…\" A shocking scene witnessed by a customer at a 'dakhanmari' restaurant",
+          "title_ja": "「食べていたニンニクやニラを…」お客さんが目撃した「タッカンマリ店」の衝撃的な光景",
+          "title_zh": "“吃过的蒜和韭菜……”顾客目睹的“炖鸡店”令人震惊的一幕"
         },
         {
-          "title": "롯데웰푸드, '해외사업 호조' 힘입어 영업익 전년비 30% 증가",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ycFFTUDM2SHQxMjQ4VFE4eEd1c0RBem5PN3I3b0w1XzZBVEJGSUpEZ3FyUFZ1SkIwSVFqaVhIOVA4NTRtVnJtMkJYNW56OWhXWF9nZ3RqU1RNZw?oc=5",
+          "title": "“물고기 잡고 과메기 맛보고”…포항 구룡포 동행축제 ‘들썩’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJSzhjTktyUjU3WlBzZjVKbzMyXzY2ZVNoM0Y0dE5ZcWR4dmVydmYyZ1M0M1pRNnN2ek9UVDJGWWt2LTBqZTZkNTBZNE42MzRObGtmcjE4M0RkUQ?oc=5",
           "desc": "",
-          "title_en": "LOTTE Wellfood's operating profit increases by 30% year-over-year, driven by \"strong overseas business performance\"",
-          "title_ja": "ロッテウェルフード、「海外事業の好調」に支えられ、営業利益が前年比30%増",
-          "title_zh": "得益于“海外业务的良好表现”，乐天食品的营业利润同比增长30%"
+          "title_en": "“Catching fish and tasting gwamegi”… Pohang's Gugongpo Donghaeng Festival is “rocking”",
+          "title_ja": "「魚を釣って、クァメギを味わって」…浦項九龍浦同行祭り「大盛り上がり」",
+          "title_zh": "“钓鱼、品尝果咩鱼干……”浦项九龙浦同行节“热闹非凡”"
         }
       ]
     },
@@ -161,7 +161,7 @@
           "title": "첫날부터 “지금 장난하냐?” 시끄럽더니…20억 혈세 쏟아부은 울산 세계음식관 결국",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aejI3UkxxQjk0NjM1NjZNMmJHWThOSUY1a2pJZ3V5NVFPODNjWEJHSE5VbGdORm9aSWFtdGFIQ2ZKSFM2VVI2ejZCaGxoX1ZhOUHSAVNBVV95cUxNRC1nR2lXWTJpdTQtNGV0VTh5VHZLRXZKTWdFSnB1T2Q3eXNqSmtRWFBLVjZpNWRkZ0xnRmFENUJaTzdwZlBfRXZzTFU4d09TdnZ3aw?oc=5",
           "desc": "",
-          "title_en": "From day one, \"Are you kidding me?\" It was noisy… In the end, the Ulsan World Food Hall, which had 2 billion KRW of taxpayers' money poured into it,",
+          "title_en": "From day one, \"Are you kidding me?\" It was noisy… In the end, the Ulsan World Food Hall, which had 2 billion won of taxpayers' money poured into it,",
           "title_ja": "初日から「今、冗談言ってるの？」 うるさかった…20億ウォンの税金を費やした蔚山世界食文化館が結局",
           "title_zh": "从第一天起就说“你是在开玩笑吗？” 吵吵闹闹的……耗费了 20 亿民脂民膏的蔚山世界美食馆最终"
         },
@@ -169,17 +169,17 @@
           "title": "“음식 다 상하고 냉동고 녹아내려” 유럽 난리 나자…한국도 긴급 점검",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSmhZMkdGakNkeFRsdjdhWTZMYU5HSGxlQ0cwT1BYX1VEelBxMkNYRzhmNE0xN205SllreUczSFdtZHY2MS0wUkwtclhzQWJGLUHSAVNBVV95cUxOaUoxYWpYVU9qTzhrNUowaXBjazdWY01NM0RObkpCUGJ2TGQyblhyenpmYUYxVkJXTDJOS2dBNmcySlloUWc5WEVsTzhMVE1JWmI2TQ?oc=5",
           "desc": "",
-          "title_en": "\"All the food has spoiled, and the freezer has melted.\" As Europe is in chaos… South Korea is also conducting emergency inspections.",
-          "title_ja": "「食べ物が全部ダメになり、冷凍庫が溶けている」ヨーロッパが大混乱に陥ると…韓国も緊急点検",
+          "title_en": "\"All the food has spoiled, and the freezer has melted.\" As Europe goes into chaos… South Korea also conducts an emergency inspection.",
+          "title_ja": "「食べ物が全部ダメになり、冷凍庫が溶けている」ヨーロッパが大混乱に陥ると…韓国でも緊急点検",
           "title_zh": "“食物都坏了，冰箱也化了” 欧洲陷入混乱……韩国也紧急检查"
         },
         {
-          "title": "K드라마 흥행 2개월 뒤 K푸드도 뜬다?…무협 “타이밍 맞춰 팔아라”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uNWFaRWFoWklLeDc4VzNmMExOcFBhYTVnR3p4eVc3SEN2RXZFdDdMWkxHRnZHZ3hYQmZrRjNRY2JyYkxmVDZjQ3hrbERMeENNWWfSAVNBVV95cUxPWmxjS3dxU05WbUZ0b0dCSXZNWE5OcE11N3o1RVpGM0VyUG9wWWxCLThkTTdHR2dzNW16SHhudlVjRTVESWNGUU50OEpLc1NzaTNYSQ?oc=5",
+          "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
           "desc": "",
-          "title_en": "Will K-food also become popular two months after the success of K-dramas?…KITA: “Sell at the right time.”",
-          "title_ja": "Kドラマが大ヒットしてから2か月後、Kフードも人気に？…KOTRA「タイミングを合わせて売れ」",
-          "title_zh": "韩剧大热2个月后，韩餐也会随之走红？……韩国贸易协会（KITA）：“要把握时机销售。”"
+          "title_en": "\"Your heart will be ruined. Take it out of the fridge right now…\" \"This food\" that doctors don't buy at the grocery store [Healthy Time]",
+          "title_ja": "「心臓に悪いから、今すぐ冷蔵庫から出せ」…医師たちがスーパーで買わない「この食品」［ヘルシータイム］",
+          "title_zh": "“心脏都快坏掉了，赶紧从冰箱里拿出来……”医生们不会在超市里购买的“这种食物”【健康时刻】"
         }
       ]
     },
@@ -199,17 +199,17 @@
           "title": "'고독한 미식가' 마츠시게 유타카, 남도 음식 알린다",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jUmw1cVl2c2dUMVhWN3U3SUxXZTR3dXhzVjlrcnVnd1BjZG5RdllzNkR3MTlJT25hRm5ITWVSbzdiZ3FfSWJGazV2U2VXa0FnTUE?oc=5",
           "desc": "",
-          "title_en": "Yutaka Matsushige of 'Solitary Gourmet' introduces southern Korean cuisine",
-          "title_ja": "「孤独のグルメ」の松重豊が南道（全羅南道）のグルメを紹介する",
+          "title_en": "Yutaka Matsushige from 'Solitary Gourmet' introduces southern Korean cuisine",
+          "title_ja": "「孤独のグルメ」の松重豊が南道の食を紹介",
           "title_zh": "《孤独的美食家》松重丰介绍南道美食"
         },
         {
-          "title": "롯데웰푸드, 외국인 겨냥 '가나 쇼콜라 립파이 K-에디션' 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMXZ2T1djazFneWR3ckxLdGNON0ZpSWhUSENhZEt4M1E1MmZsbV84WTE2cm1RTWg1U1dPN2VBWTA3OGF3RVY3cXB6cXFjNEdkWHc?oc=5",
+          "title": "식품명인의 손맛으로…전통 재해석한 ‘순대실록’ [제3회 대한민국 AI 광고 대상]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yazNrcGZTSUhuWnJyZ2hNR094OXhWZWZMQ2Q2UFBOY0ZBTElwWGJIMjdJTmdGczhkY1k2SVhMTGdXdEczNkhHbmNhS1hoMkhZSzBXWQ?oc=5",
           "desc": "",
-          "title_en": "Lotte Wellfood launches \"Ghana Chocolat Lip Pie K-Edition\" targeting foreign consumers",
-          "title_ja": "ロッテウェルフード、外国人向け「ガーナショコラ・リップパイKエディション」を発売",
-          "title_zh": "乐天食品推出面向外国人的“加纳巧克力夹心派 K 版”"
+          "title_en": "‘Sundaesilrok’: A Reinterpretation of Tradition Through the Culinary Expertise of a Master Chef [3rd Korea AI Advertising Awards]",
+          "title_ja": "食品名人の手作りの味で…伝統を再解釈した「スンデ実録」［第3回韓国AI広告大賞］",
+          "title_zh": "以美食大师的匠心……重新诠释传统的《血肠实录》[第三届韩国人工智能广告大奖]"
         }
       ]
     },
@@ -229,8 +229,8 @@
           "title": "“고명으로 먹었는데”…제철 잣, 곱게 갈면 쓰임새가 달라진다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1abzM4UWFhNzVZcHlzT2p4Njk5blpWTDQxR2NSOXd1Y3JsaTlrOE9uQnRWMWJMcElyZ3RIYjN6bEVRZTVpc0VoTVk0N3dldHVkSGk0dXFSYw?oc=5",
           "desc": "",
-          "title_en": "“I ate it as a garnish”… When finely ground, seasonal pine nuts have different uses.",
-          "title_ja": "「トッピングとして食べたけど」…旬の松の実を細かく砕くと使い方が変わる",
+          "title_en": "\"I ate it as a garnish…\" Seasonal pine nuts, when finely ground, have different uses.",
+          "title_ja": "「トッピングとして食べたけど」…旬の松の実を細かく砕くと、使い方が変わる",
           "title_zh": "“我把它当配料吃了”……应季松子，磨细后用途就变了"
         },
         {
