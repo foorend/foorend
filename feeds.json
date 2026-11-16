@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T18:32:32Z",
+  "lastUpdated": "2026-11-16T00:46:58Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -9,7 +9,7 @@
           "title": "America’s Top 100 Independent Restaurants top $2 billion in sales",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTFSdkdJaVVnRU1FRjJ3emZsbkwzNlBEZEt2UWtLeG9jdVNVZ3czWkc3NE85aDRMdkE2Tm5aRVlibllGQTdaenV4YjhYTmExdVdzOWVCbTJ1cWlEYm9abDlvS1JENmdGdjEycThhRzFHbllqbEh1dVBnSFVBdFJXcXU1OHFtU3d2UkRVZmFQT0RrOGI0cTVhYWdYVWJyLWpwZGhRZ3BQX0ZvWGoz?oc=5",
           "desc": "",
-          "title_ko": "미국 내 매출액 상위 100개 독립 레스토랑의 매출액이 20억 달러를 넘어섰습니다.",
+          "title_ko": "미국 100대 독립 레스토랑의 매출액이 20억 달러를 돌파했습니다.",
           "title_ja": "アメリカの独立系レストラン上位 100 店舗の売上高が 20 億ドルを超える",
           "title_zh": "美国 100 家顶级独立餐厅的销售额超过 20 亿美元"
         },
@@ -26,7 +26,7 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
           "desc": "",
           "title_ko": "DoorDash, 소비자에게 부과하는 수수료 산정 방식 변경",
-          "title_ja": "DoorDash が注文者に対する手数料の計算方法を変更",
+          "title_ja": "DoorDash が注文者への手数料の計算方法を変更",
           "title_zh": "DoorDash 更改了向消费者收取费用的计算方式"
         }
       ]
@@ -40,7 +40,7 @@
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
           "title_ko": "식품 뉴스 및 트렌드",
-          "title_ja": "フードニュースとトレンド",
+          "title_ja": "フードニュース＆トレンド",
           "title_zh": "美食资讯与潮流"
         },
         {
@@ -71,15 +71,15 @@
           "desc": "",
           "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업인 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
           "title_ja": "プライベートシェフとパーティー主催者をつなぐスタートアップ、Kitchensurfingの料理にインスピレーションを得たオフィスの中",
-          "title_zh": "走进Kitchensurfing的烹饪风办公室，这家初创公司致力于将私人厨师与派对主办人联系起来"
+          "title_zh": "走进Kitchensurfing烹饪主题办公室，这家初创公司将私人厨师与派对主办人联系起来"
         },
         {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
           "desc": "",
-          "title_ko": "식량 보호주의: 안보와 인플레이션 통제를 위해 수출을 제한하는 국가들",
+          "title_ko": "식량 보호주의: 안보를 위해 수출을 제한하고 인플레이션을 통제하는 국가들",
           "title_ja": "食料保護主義：各国が安全保障やインフレ抑制のために輸出を制限",
-          "title_zh": "粮食保护主义：各国出于安全考虑限制出口，以控制通胀"
+          "title_zh": "粮食保护主义：各国为保障安全、控制通胀而限制出口"
         },
         {
           "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
@@ -87,7 +87,7 @@
           "desc": "",
           "title_ko": "식품 폐기물 스타트업 Mill이 Google Ventures 등으로부터 1억 달러를 조달하는 데 사용한 독점 피치 데크를 확인해 보세요.",
           "title_ja": "食品廃棄物処理スタートアップのMillが、Google Venturesなどから1億ドルを調達するために使用した独占的なピッチデッキをご覧ください。",
-          "title_zh": "查看食品废弃物初创公司Mill用于从Google Ventures等处筹集1亿美元的独家路演演示文稿"
+          "title_zh": "查看食品废弃物初创公司Mill用于从Google Ventures等机构筹集1亿美元的独家路演演示文稿"
         }
       ]
     },
@@ -101,13 +101,13 @@
           "desc": "The past year has been one of “Great Chickenings” and fine dining flips, British food invasions and restaurants whose dining rooms feel like living ro",
           "title_ko": "2026년 Eater Awards 후보를 물색하며 얻은 매우 구체적인 관찰 결과",
           "title_ja": "2026 年 Eater Awards の候補を探す中で得られた非常に具体的な観察事項",
-          "title_zh": "在为 2026 年顾客选择奖物色候选餐厅时的一些非常具体的观察结果"
+          "title_zh": "为 2026 年顾客选择奖评选而进行的考察期间的非常具体的观察结果"
         },
         {
           "title": "The Best Food Gifts Under $100 (That Are Just the Right Amount of Extra)",
           "link": "https://www.eater.com/shopping/923042/best-holiday-gifts-for-foodies-under-100-dollars",
           "desc": "I take my holiday gift shopping very seriously — if not for my giftee, for my own serotonin-seeking purposes. There’s nothing quite as satisfying as f",
-          "title_ko": "$100 미만의 최고의 푸드 기프트(딱 적당한 가격대)",
+          "title_ko": "$100 미만의 최고의 음식 선물(딱 적당한 수준의 특별함)",
           "title_ja": "100ドル未満のおすすめフードギフト（ちょうどいい特別感）",
           "title_zh": "100美元以下的最佳美食礼品（恰到好处的惊喜）"
         },
@@ -116,7 +116,7 @@
           "link": "https://www.eater.com/dining-out/993544/best-new-restaurants-america-2026",
           "desc": "These are the 15 new restaurants that best captured the year in dining. Our team of editors and scouts traveled across the country, drawing on years o",
           "title_ko": "2026년 미국 최고의 신규 레스토랑",
-          "title_ja": "2026年のアメリカで最も優れた新店舗",
+          "title_ja": "2026年のアメリカで最高の新レストラン",
           "title_zh": "2026年美国最佳新餐厅"
         }
       ]
@@ -131,17 +131,17 @@
           "title": "\"커피만 파는 줄 알았는데\"…600만개 불티나게 팔린 메뉴 [장서우의 하입:hype]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91S1BJQU9EdmI5NjBuelV1OFFmeGszeXhLSEpkR3JYR2FObHh5Q0g2T1RWZy0yRlhDRmVjRlRxdHFhN2hISG9wLVJkR0dkQkUwX3pfQWs5Nl9Mdw?oc=5",
           "desc": "",
-          "title_en": "\"I thought they only sold coffee…\" A menu item that sold 6 million units like hotcakes [Jang Seo-woo's Hype: hype]",
+          "title_en": "\"I thought they only sold coffee…\" The item that sold 6 million units like hotcakes [Jang Seo-woo's Hype: hype]",
           "title_ja": "「コーヒーだけを売っていると思っていたのに」…600万個が飛ぶように売れたメニュー [チャン・ソウのHYPE：hype]",
-          "title_zh": "“我以为他们只卖咖啡”……热销600万份的菜单【张书宇的Hype：hype】"
+          "title_zh": "“我以为他们只卖咖啡”……热销600万份的菜单【张瑞宇的Hype：hype】"
         },
         {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 16일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sV05sWDh4VndIT2Y0blhtTFpxeVV5eC1HSHRjaVJMMkgyV3dQNVBrbVk2NTd6LU1VWWRFV3RibllOVUQzRmR4dFVNYXIzekNaUnV3SFIyeEpIZw?oc=5",
+          "title": "\"K-푸드로 美 단체급식 뚫었다\"…외국인 직원도 반한 '이곳'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VV25jbXIzT3FJMFNaWkhCYmp5M2UyMkxfWlhaRmltSnB1bkdrWDBRdWstbEc0SnI2Tlg5b2FvOU1jR3M2LUlTZ0hqclRMa2JqWFViUTdLYzZMUQ?oc=5",
           "desc": "",
-          "title_en": "[Today's Horoscope] What should I eat today?…Recommended lunch menus by zodiac sign for November 16th",
-          "title_ja": "【今日の運勢】今日は何を食べる？…11月16日生まれの干支別おすすめランチメニュー",
-          "title_zh": "【今日运势】今天吃什么？……11月16日按生肖推荐的午餐菜单"
+          "title_en": "\"K-food has made its way into U.S. institutional catering\"... \"This place\" has even won over foreign employees.",
+          "title_ja": "「Kフードで米国の団体給食に参入した」…外国人社員も魅了された「ここ」",
+          "title_zh": "“韩式美食成功打入美国团体膳食市场”……连外国员工也为之倾倒的“这里”"
         },
         {
           "title": "\"먹던 마늘·부추를…\" 손님이 목격한 '닭한마리집' 충격 장면",
@@ -149,7 +149,7 @@
           "desc": "",
           "title_en": "\"The garlic and chives we were eating…\" A shocking scene at a 'dakhanmari' restaurant witnessed by a customer",
           "title_ja": "「食べかけのにんにくやニラを…」お客さんが目撃した「タッカンマリ店」の衝撃的な光景",
-          "title_zh": "“吃过的蒜和韭菜……”顾客目睹的“炖鸡店”令人震惊的一幕"
+          "title_zh": "“吃过的蒜和韭菜……”顾客目睹“炖鸡店”的惊人一幕"
         }
       ]
     },
@@ -161,25 +161,25 @@
           "title": "“음식 다 상하고 냉동고 녹아내려” 유럽 난리 나자…한국도 긴급 점검",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSmhZMkdGakNkeFRsdjdhWTZMYU5HSGxlQ0cwT1BYX1VEelBxMkNYRzhmNE0xN205SllreUczSFdtZHY2MS0wUkwtclhzQWJGLUHSAVNBVV95cUxOaUoxYWpYVU9qTzhrNUowaXBjazdWY01NM0RObkpCUGJ2TGQyblhyenpmYUYxVkJXTDJOS2dBNmcySlloUWc5WEVsTzhMVE1JWmI2TQ?oc=5",
           "desc": "",
-          "title_en": "\"All the food has spoiled, and the freezer has melted.\" As Europe is in chaos... South Korea is also conducting emergency inspections.",
-          "title_ja": "「食べ物が全部ダメになって、冷凍庫が溶けている」ヨーロッパが大混乱に陥ると…韓国も緊急点検",
-          "title_zh": "“食物都坏了，冰箱也化了”欧洲陷入混乱……韩国也紧急检查"
+          "title_en": "\"All the food has spoiled, and the freezer has melted.\" As Europe is in chaos… South Korea also conducts an emergency inspection.",
+          "title_ja": "「食べ物が全部ダメになり、冷凍庫が溶けている」ヨーロッパが大混乱に陥ると…韓国も緊急点検",
+          "title_zh": "“食物都坏了，冰箱也化了” 欧洲陷入混乱……韩国也紧急检查"
         },
         {
           "title": "“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bHFpZnNkQ0hiamw0RDQ3MjlndlhDVWZGa0ZvMkdYWHJyVjhtdG1pZ2ctQldHTXZ0dFh2TUpNSkpDaHdENzlraUVPS2JsUF90NEHSAVNBVV95cUxOaG9zRmZ0V2Y1bWJBeWQ0NktwT1JnTmdhemdMa2hpS01Za0hXSXJoS0Nuem5MbGJlZVphdkh6ZlM3dWVMcG9XZ3JIZjFNS1dSRElyRQ?oc=5",
           "desc": "",
           "title_en": "\"Your heart will be ruined. Take it out of the fridge right now…\" This is the \"food\" that doctors don't buy at the grocery store [Healthy Time]",
-          "title_ja": "「心臓に悪いから、今すぐ冷蔵庫から出せ」…医師たちがスーパーで買わない「この食品」［ヘルシータイム］",
-          "title_zh": "“心脏都快坏掉了，赶紧从冰箱里拿出来……”医生们不会在超市购买的“这种食物”[健康时刻]"
+          "title_ja": "「心臓がボロボロになるから、今すぐ冷蔵庫から出せ」…医師たちがスーパーで買わない「この食品」［ヘルシータイム］",
+          "title_zh": "“心脏都快坏掉了，赶紧从冰箱里拿出来……”医生们不会在超市购买的“这种食物”【健康时刻】"
         },
         {
-          "title": "코리아에셋투자증권, 의정부 ‘이삭의집’ 후원 1주년 행사",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CdWcwUUFFZG5oanoxTk1yaHM0QnRzdVE4djYyR0x5aGpPYVMtQnJPNV9sQk1PUjVpaWxtdllRaklMdHRCSHV3dnVXYzhKQ21XM1HSAVNBVV95cUxOQUJtbE1SRHFsdXpwNWlMZkJncFR4U0lUUGZYajYzUHJSLUg1eGRtTnM0cV9YeC1qTmwyNXVrLXNrRDhBZW5Ic3BrVTNfQ1M2T0o3Zw?oc=5",
+          "title": "K드라마 흥행 2개월 뒤 K푸드도 뜬다?…무협 “타이밍 맞춰 팔아라”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uNWFaRWFoWklLeDc4VzNmMExOcFBhYTVnR3p4eVc3SEN2RXZFdDdMWkxHRnZHZ3hYQmZrRjNRY2JyYkxmVDZjQ3hrbERMeENNWWfSAVNBVV95cUxPWmxjS3dxU05WbUZ0b0dCSXZNWE5OcE11N3o1RVpGM0VyUG9wWWxCLThkTTdHR2dzNW16SHhudlVjRTVESWNGUU50OEpLc1NzaTNYSQ?oc=5",
           "desc": "",
-          "title_en": "Korea Asset Investment & Securities Celebrates the 1st Anniversary of Its Sponsorship of \"Isaac's House\" in Uijeongbu",
-          "title_ja": "コリアアセット投資証券、議政府「イサクの家」支援1周年イベント",
-          "title_zh": "韩国资产投资证券公司举办议政府“以撒之家”赞助一周年活动"
+          "title_en": "Will K-food also become popular two months after the success of K-dramas?…KITA: “Sell at the right time.”",
+          "title_ja": "Kドラマが大ヒットしてから2か月後、Kフードも人気に？…KOTRA「タイミングを合わせて売れ」",
+          "title_zh": "韩剧大热2个月后，韩餐也会随之走红？……韩国贸易协会：“要把握时机销售”"
         }
       ]
     },
@@ -187,6 +187,14 @@
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
+        {
+          "title": "풀무원푸드앤컬처, 미국서 첫 해외 위탁 급식 사업 시작",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0SUR1eFEzVFNnMWR0ZnVrMjdEbEJHVGdJVjhwUi14R2hEN2NSWXJmTzhkTkIyYU9QcmotQmZqLVprZGZfaXBDaGZVbkZodUtpMlE?oc=5",
+          "desc": "",
+          "title_en": "Pulmuone Food & Culture launches its first overseas food service business in the United States",
+          "title_ja": "プルムウォンフード＆カルチャー、米国で初の海外委託給食事業を開始",
+          "title_zh": "Pulmuone Food & Culture 在美国启动首个海外承包餐饮业务"
+        },
         {
           "title": "길거리 음식 부리토도 “할부로 결제할게요”…美 블프때 불티나는 선구매후결제 [홍키자의 美쿡]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3U3FnZmxoMEdqdmQ4aXp3OUZXZWNhTmJidWVOVEt5UTl0S1hNR3FCc1M0R0ZzSU1IZEczRjkyNnlodmNsUXd6dklhNFBjS19TQlE?oc=5",
@@ -196,20 +204,12 @@
           "title_zh": "街头美食卷饼也可以“分期付款”……美国黑色星期五期间火爆的先买后付 [洪记者的美国]"
         },
         {
-          "title": "'고독한 미식가' 마츠시게 유타카, 남도 음식 알린다",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jUmw1cVl2c2dUMVhWN3U3SUxXZTR3dXhzVjlrcnVnd1BjZG5RdllzNkR3MTlJT25hRm5ITWVSbzdiZ3FfSWJGazV2U2VXa0FnTUE?oc=5",
+          "title": "음식 삼키기 불편하다면 식도암일수도…일찍 발견시 식도 보전 가능",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5UlJWTU1QY2QtZHVlclR5a0FrSEV0ZTlwX0pTVXRiRFNnak5GOWY1NUhGZjdLX042UmNDMG5CUGtPWGgyVGpKTWJ3OHFnQQ?oc=5",
           "desc": "",
-          "title_en": "Yutaka Matsushige from 'Solitary Gourmet' introduces Jeolla Province cuisine",
-          "title_ja": "「孤独のグルメ」の松重豊が南道の食を紹介する",
-          "title_zh": "《孤独的美食家》松重丰介绍南道美食"
-        },
-        {
-          "title": "롯데웰푸드, 외국인 겨냥 '가나 쇼콜라 립파이 K-에디션' 출시",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMXZ2T1djazFneWR3ckxLdGNON0ZpSWhUSENhZEt4M1E1MmZsbV84WTE2cm1RTWg1U1dPN2VBWTA3OGF3RVY3cXB6cXFjNEdkWHc?oc=5",
-          "desc": "",
-          "title_en": "Lotte Wellfood launches \"Ghana Chocolat Lip Pie K-Edition\" targeting foreign consumers",
-          "title_ja": "ロッテ・ウェルフード、外国人向け「ガーナショコラ・リップパイKエディション」を発売",
-          "title_zh": "乐天食品推出面向外国人的“加纳巧克力夹心派 K 版”"
+          "title_en": "If you have difficulty swallowing food, you may have esophageal cancer… If detected early, the esophagus can be preserved.",
+          "title_ja": "食べ物を飲み込むのが不快なら、食道がんの可能性も…早期発見なら食道を温存できる",
+          "title_zh": "如果吞咽食物有不适感，可能是食管癌……如果早期发现，可以保留食管。"
         }
       ]
     },
@@ -218,28 +218,28 @@
       "site": "https://www.realfoods.co.kr",
       "items": [
         {
+          "title": "호텔 김치 30% 할인…롯데호텔앤리조트, ‘플래시 딜’ 행사",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ob1VfMTMwY3JvVDRmbDUybDF4S2g1WVdtRENjNjVNc191OGdDaE5TcHF1dzNLM0VJekgwLU5ickh6aGdmNW5rMHp6Q0dzMFBHTzZtbF9wYw?oc=5",
+          "desc": "",
+          "title_en": "30% off Hotel Kimchi… Lotte Hotels & Resorts 'Flash Deal' Promotion",
+          "title_ja": "ホテルキムチ30%割引…ロッテホテル＆リゾーツ、「フラッシュディール」キャンペーン",
+          "title_zh": "酒店泡菜八折优惠……乐天酒店及度假村“闪购”活动"
+        },
+        {
+          "title": "110여 개 베이커리가 광화문에… ‘K-베이커리 페스티벌 in 광화문’",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fY1RZNFI3TzlpU24tVGlneW9FWFBRUF9HZ0FGNlIxbWNZaElDd1ctUTlPYXRVRTVMYWZRdnVEX25DQUhsWVZqcmJqNTQ2a0xHOW8xLWlzTQ?oc=5",
+          "desc": "",
+          "title_en": "Over 110 bakeries gather in Gwanghwamun… ‘K-Bakery Festival in Gwanghwamun’",
+          "title_ja": "110軒以上のベーカリーが光化門に…「K-ベーカリーフェスティバルin光化門」",
+          "title_zh": "110 多家烘焙店齐聚光化门……“光化门 K-烘焙节”"
+        },
+        {
           "title": "K-푸드 아니라 일식?…“2027년 트렌드는 일본식 양식”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Gd1dlZU9nNXNpLW1YYzQwR0wtYWt2dGRybklNVlNVcWdMMWR3T2RMdC1ITkVtLW4tM1hVWXVTSnRuQUIzR1Rha3RBNFpsWTVkMV8xTjN2cw?oc=5",
           "desc": "",
           "title_en": "Not K-food, but Japanese cuisine?…“The trend in 2027 will be Japanese-style Western food.”",
-          "title_ja": "Kフードではなく、和食？…「2027年のトレンドは和風洋食」",
+          "title_ja": "K-フードではなく、和食？…「2027年のトレンドは和風洋食」",
           "title_zh": "不是韩式美食，而是日式美食？……“2027年的趋势是日式西餐”"
-        },
-        {
-          "title": "케이크 미리 주문하세요…코트야드 메리어트 서울 타임스퀘어 ‘크리스마스 돌체’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wM1NaV3pkMHFqVTF5VUpjZG96OFlSZW5nM2V2SFdNSzdEOElkdmI4QVNyZHZhU1VobzQ5ak1WYWhWajhIc1BDSXFSS2dYWlZSTWJmME5kRQ?oc=5",
-          "desc": "",
-          "title_en": "Pre-order your cake… Courtyard Marriott Seoul Times Square 'Christmas Dolce'",
-          "title_ja": "ケーキを事前注文しましょう…コートヤード・マリオットソウルタイムズスクエア「クリスマス・ドルチェ」",
-          "title_zh": "提前预订蛋糕……万豪庭院酒店首尔时代广场“圣诞节甜品”"
-        },
-        {
-          "title": "면사랑, 2026년 ‘문화예술후원 우수기관’ 신규 인증",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzVzdBZTJMNmQ2N2JCckg2ZkRraWRPY3pwdm5aNTE5eEFYMjV6anJBbTFhTkZGWDJidWNxdy10YXFkeXRLRDdfME5sUnJVWG5TaXJSc0pvRQ?oc=5",
-          "desc": "",
-          "title_en": "Myeon Sarang, Newly Certified as an \"Outstanding Patron of Culture and the Arts\" in 2026",
-          "title_ja": "麺사랑、2026年「文化芸術支援優秀機関」新規認定",
-          "title_zh": "面사랑，2026年“文化艺术赞助优秀机构”新认证"
         }
       ]
     }
