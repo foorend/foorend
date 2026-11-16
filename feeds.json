@@ -1,35 +1,10 @@
 {
-  "lastUpdated": "2026-11-16T10:42:34Z",
+  "lastUpdated": "2026-11-16T21:41:51Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": [
-        {
-          "title": "America’s Top 100 Independent Restaurants top $2 billion in sales",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTFSdkdJaVVnRU1FRjJ3emZsbkwzNlBEZEt2UWtLeG9jdVNVZ3czWkc3NE85aDRMdkE2Tm5aRVlibllGQTdaenV4YjhYTmExdVdzOWVCbTJ1cWlEYm9abDlvS1JENmdGdjEycThhRzFHbllqbEh1dVBnSFVBdFJXcXU1OHFtU3d2UkRVZmFQT0RrOGI0cTVhYWdYVWJyLWpwZGhRZ3BQX0ZvWGoz?oc=5",
-          "desc": "",
-          "title_ko": "미국 내 매출액 상위 100개 독립 레스토랑의 매출액이 20억 달러를 돌파했습니다.",
-          "title_ja": "アメリカの独立系レストラン上位 100 店舗の売上高が 20 億ドルを超える",
-          "title_zh": "美国 100 家顶级独立餐厅的销售额超过 20 亿美元"
-        },
-        {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
-          "desc": "",
-          "title_ko": "연구 결과에 따르면 전국 중식당의 절반이 문을 닫은 것으로 나타났습니다.",
-          "title_ja": "調査によると、国内の中華料理店の半数が閉店していることが判明",
-          "title_zh": "研究发现，全国一半的中餐厅已经关门"
-        },
-        {
-          "title": "DoorDash changes how it calculates fees for consumers",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
-          "desc": "",
-          "title_ko": "DoorDash, 소비자에게 부과하는 수수료 산정 방식 변경",
-          "title_ja": "DoorDash が注文者への手数料の計算方法を変更",
-          "title_zh": "DoorDash 更改了向消费者收取费用的计算方式"
-        }
-      ]
+      "items": []
     },
     "foodandwine": {
       "label": "Food & Wine",
@@ -39,25 +14,25 @@
           "title": "Food News & Trends",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
-          "title_ko": "식품 뉴스 및 트렌드",
-          "title_ja": "フードニュース＆トレンド",
-          "title_zh": "美食资讯与潮流"
+          "title_ko": "Food News & Trends",
+          "title_ja": "Food News & Trends",
+          "title_zh": "Food News & Trends"
         },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
-          "title_ko": "멕시코 맥주 테카테가 실제로 네덜란드에서 양조된다는 소송 청구",
-          "title_ja": "メキシコビール「テカテ」は実際にはオランダで醸造されているという訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际上是在荷兰酿造的"
+          "title_ko": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "title_ja": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "title_zh": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland"
         },
         {
           "title": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
           "desc": "",
-          "title_ko": "놓치고 싶지 않은 20가지 푸드 어드벤트 캘린더 — Bonne Maman, Williams Sonoma 등",
-          "title_ja": "見逃せない20のアドベントカレンダー（ボンヌ・ママン、ウィリアムズ・ソノマなど）",
-          "title_zh": "20款不容错过的美食倒数日历——来自Bonne Maman、Williams Sonoma等品牌"
+          "title_ko": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
+          "title_ja": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
+          "title_zh": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More"
         }
       ]
     },
@@ -66,28 +41,28 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
-          "title": "Food",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
-          "title_ko": "식료품비",
-          "title_ja": "食料",
-          "title_zh": "食物"
+          "title_ko": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "title_ja": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "title_zh": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts"
         },
         {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
           "desc": "",
-          "title_ko": "식량 보호주의: 안보를 위해 수출을 제한하고 인플레이션을 통제하는 국가들",
-          "title_ja": "食料保護主義：各国が安全保障やインフレ抑制のために輸出を制限",
-          "title_zh": "粮食保护主义：各国出于安全考虑限制出口，以控制通胀"
+          "title_ko": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "title_ja": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "title_zh": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation"
         },
         {
-          "title": "16 foods you should never put in your refrigerator",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnRTeXhRX25ZVUk2Zk0tcnVoTEdyODZjdUFfdlp0SlluUXZiTVpJZXFsT3Zzd1lzanV0RVR1UGdNYXE3VnFDMXNJdmQySzhqazB3Z212VmphRGNXT1ZRMEg3Ynlndkt1UHhNM2w3eVBrWjlReUNxbkZLaW5VbFpPazhCaw?oc=5",
+          "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3pBcDV0OU9uRnJfSXZfMkYxTms3a2UtZ0swOU82YXpvQ3ZMTnJlS0dzNVJyakwtenBSWXhIT2RyVFBXTzNIbFdEM3dWeW92X3EyT3FGTUVxc3ptbGJRTDdPRkxoNU5ubng5ZlhXQTRBNmNnQWVXTm4wSlRSdGhwYjg0QnNTN2t6d2NmQWFhWnRuUmRjV0N2cHBXSXkxNkk?oc=5",
           "desc": "",
-          "title_ko": "절대 냉장고에 넣지 말아야 할 음식 16가지",
-          "title_ja": "冷蔵庫に入れてはいけない食品16品目",
-          "title_zh": "16种不应放入冰箱的食物"
+          "title_ko": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
+          "title_ja": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
+          "title_zh": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others"
         }
       ]
     },
@@ -99,25 +74,25 @@
           "title": "Highly Specific Observations While Scouting for the 2026 Eater Awards",
           "link": "https://www.eater.com/dining-out/999548/eater-awards-restaurant-research-observations",
           "desc": "The past year has been one of “Great Chickenings” and fine dining flips, British food invasions and restaurants whose dining rooms feel like living ro",
-          "title_ko": "2026년 Eater Awards 후보를 물색하며 얻은 매우 구체적인 관찰 결과",
-          "title_ja": "2026 年 Eater Awards の候補を探す中で見つけた、非常に具体的な観察事項",
-          "title_zh": "在为 2026 年顾客选择奖评选候选餐厅时的一些非常具体的观察结果"
+          "title_ko": "Highly Specific Observations While Scouting for the 2026 Eater Awards",
+          "title_ja": "Highly Specific Observations While Scouting for the 2026 Eater Awards",
+          "title_zh": "Highly Specific Observations While Scouting for the 2026 Eater Awards"
         },
         {
           "title": "The Best Food Gifts Under $100 (That Are Just the Right Amount of Extra)",
           "link": "https://www.eater.com/shopping/923042/best-holiday-gifts-for-foodies-under-100-dollars",
           "desc": "I take my holiday gift shopping very seriously — if not for my giftee, for my own serotonin-seeking purposes. There’s nothing quite as satisfying as f",
-          "title_ko": "$100 미만의 최고의 푸드 기프트(딱 적당한 가격대)",
-          "title_ja": "100ドル未満のおすすめフードギフト（ちょうどいい特別感）",
-          "title_zh": "100美元以下的最佳美食礼品（恰到好处的惊喜）"
+          "title_ko": "The Best Food Gifts Under $100 (That Are Just the Right Amount of Extra)",
+          "title_ja": "The Best Food Gifts Under $100 (That Are Just the Right Amount of Extra)",
+          "title_zh": "The Best Food Gifts Under $100 (That Are Just the Right Amount of Extra)"
         },
         {
           "title": "The Best New Restaurants in America in 2026",
           "link": "https://www.eater.com/dining-out/993544/best-new-restaurants-america-2026",
           "desc": "These are the 15 new restaurants that best captured the year in dining. Our team of editors and scouts traveled across the country, drawing on years o",
-          "title_ko": "2026년 미국 최고의 신규 레스토랑",
-          "title_ja": "2026年のアメリカで最高の新レストラン",
-          "title_zh": "2026年美国最佳新餐厅"
+          "title_ko": "The Best New Restaurants in America in 2026",
+          "title_ja": "The Best New Restaurants in America in 2026",
+          "title_zh": "The Best New Restaurants in America in 2026"
         }
       ]
     }
@@ -126,122 +101,47 @@
     "hankyung": {
       "label": "한국경제",
       "site": "https://www.hankyung.com/topic/food",
-      "items": [
-        {
-          "title": "\"K-푸드로 美 단체급식 뚫었다\"…외국인 직원도 반한 '이곳'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VV25jbXIzT3FJMFNaWkhCYmp5M2UyMkxfWlhaRmltSnB1bkdrWDBRdWstbEc0SnI2Tlg5b2FvOU1jR3M2LUlTZ0hqclRMa2JqWFViUTdLYzZMUQ?oc=5",
-          "desc": "",
-          "title_en": "\"K-food has made its way into U.S. institutional catering\"... \"This place\" has even won over foreign employees.",
-          "title_ja": "「Kフードで米国の団体給食に参入した」…外国人社員も魅了された「この場所」",
-          "title_zh": "“韩式美食成功打入美国团体膳食市场”……连外国员工也为“这里”倾倒"
-        },
-        {
-          "title": "이승윤 메르세라믹 대표 \"도자기의 고유한 결, 음식과 공간의 경험으로\"",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14MjNYVHEzV2RZbE9zNkJMOGZzU1BmTW5VeWZxRl9aS1VyQWZ5YllYbDBVTEVkb05Wei1FTk90bExJMzFBZVFZX3RXb0h2Q3FnM1poMEZSRmw2Zw?oc=5",
-          "desc": "",
-          "title_en": "Seung-yoon Lee, CEO of Merseramic: \"The unique texture of ceramics, an experience of food and space\"",
-          "title_ja": "メルセラミック代表のイ・スンユン氏「陶磁器ならではの質感で、料理と空間の体験を」",
-          "title_zh": "Merseramic 代表李胜允：“通过陶瓷的独特纹理，感受食物与空间的体验”"
-        },
-        {
-          "title": "\"먹던 마늘·부추를…\" 손님이 목격한 '닭한마리집' 충격 장면",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81WWQtVkRuX1ZnTWhaVmVDRGJBdVMtaDUwckNoM0lrUnpwUHVORjhtTTU3S2xpYm9XMHVIVnhRam5DdXp4UzZZMU9vbkgxdFVNS2YyM19KT19FZw?oc=5",
-          "desc": "",
-          "title_en": "\"The garlic and chives we were eating…\" A shocking scene at a 'dakhanmari' restaurant witnessed by a customer",
-          "title_ja": "「食べかけのにんにくやニラを…」お客さんが目撃した「タッカンマリ店」の衝撃的な光景",
-          "title_zh": "“吃过的蒜和韭菜……”顾客目睹的“炖鸡店”令人震惊的一幕"
-        }
-      ]
+      "items": []
     },
     "sedaily": {
       "label": "서울경제",
       "site": "https://www.sedaily.com",
-      "items": [
-        {
-          "title": "간편하고 맛있어 매일 먹는데 “라면보다 안 좋다?”…의사가 콕 찍은 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYng5aE43QlhmQ2RMVzRuT1pSeFJ5a2JqM25sT21TZVdwS2V3Y0lQVGpWbVo5RXRfeERabFNacmdPcU5CT2I3M1NBcjRmUGJ0b0HSAVNBVV95cUxPWlpqaEcxWkFVTURsVWdhVU9ocWk5akV4U1BTX1RnU3lmWXhGdC10bkc3RkU1R1pkb18wYUhZcVRvb0hmZjZ2UDFvVklJZG43TEdFQQ?oc=5",
-          "desc": "",
-          "title_en": "It's easy to make and delicious, so I eat it every day. \"It's not as good as ramen?\"…‘This food’ that doctors have singled out [Healthy Time]",
-          "title_ja": "手軽で美味しいから毎日食べているのに、「ラーメンより体に悪い？」…医師が名指しで挙げた「この食べ物」［ヘルシータイム］",
-          "title_zh": "方便又好吃，我每天都吃，“比拉面还差？”……医生点名的“这种食物” [健康时刻]"
-        },
-        {
-          "title": "“음식 다 상하고 냉동고 녹아내려” 유럽 난리 나자…한국도 긴급 점검",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSmhZMkdGakNkeFRsdjdhWTZMYU5HSGxlQ0cwT1BYX1VEelBxMkNYRzhmNE0xN205SllreUczSFdtZHY2MS0wUkwtclhzQWJGLUHSAVNBVV95cUxOaUoxYWpYVU9qTzhrNUowaXBjazdWY01NM0RObkpCUGJ2TGQyblhyenpmYUYxVkJXTDJOS2dBNmcySlloUWc5WEVsTzhMVE1JWmI2TQ?oc=5",
-          "desc": "",
-          "title_en": "\"All the food has spoiled, and the freezer has melted.\" As Europe goes into chaos… South Korea also conducts emergency inspections.",
-          "title_ja": "「食べ物が全部ダメになり、冷凍庫が溶けている」ヨーロッパが大混乱に陥ると…韓国も緊急点検",
-          "title_zh": "“食物都坏了，冰箱也化了” 欧洲陷入混乱……韩国也紧急检查"
-        },
-        {
-          "title": "K드라마 흥행 2개월 뒤 K푸드도 뜬다?…무협 “타이밍 맞춰 팔아라”",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uNWFaRWFoWklLeDc4VzNmMExOcFBhYTVnR3p4eVc3SEN2RXZFdDdMWkxHRnZHZ3hYQmZrRjNRY2JyYkxmVDZjQ3hrbERMeENNWWfSAVNBVV95cUxPWmxjS3dxU05WbUZ0b0dCSXZNWE5OcE11N3o1RVpGM0VyUG9wWWxCLThkTTdHR2dzNW16SHhudlVjRTVESWNGUU50OEpLc1NzaTNYSQ?oc=5",
-          "desc": "",
-          "title_en": "Will K-food also become popular two months after the success of K-dramas?…KITA: “Sell at the right time.”",
-          "title_ja": "Kドラマが大ヒットしてから2か月後、Kフードも人気に？…KITA「タイミングを合わせて売れ」",
-          "title_zh": "韩剧大热2个月后，韩餐也会大热？……韩国贸易投资振兴公社（KOTRA）：“要把握时机销售。”"
-        }
-      ]
+      "items": []
     },
     "maeil": {
       "label": "매일경제",
       "site": "https://www.mk.co.kr",
       "items": [
         {
+          "title": "롯데웰푸드 '글로벌 LOTTE 성장, 해외 비중 30% 돌파' 증권사 발표에 강세…7.86%",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ka3JMZk04ZjBWR0tYNkNjdmlNdFk2ZU1ETEZxblU4dFNsYWhUWnhTM1QtV19zWlVjUF9jaWFfSlh4TUtVVGhWc2JyM2RPUHJtWFE?oc=5",
+          "desc": "",
+          "title_en": "롯데웰푸드 '글로벌 LOTTE 성장, 해외 비중 30% 돌파' 증권사 발표에 강세…7.86%",
+          "title_ja": "롯데웰푸드 '글로벌 LOTTE 성장, 해외 비중 30% 돌파' 증권사 발표에 강세…7.86%",
+          "title_zh": "롯데웰푸드 '글로벌 LOTTE 성장, 해외 비중 30% 돌파' 증권사 발표에 강세…7.86%"
+        },
+        {
           "title": "풀무원푸드앤컬처, 미국서 첫 해외 위탁 급식 사업 시작",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0SUR1eFEzVFNnMWR0ZnVrMjdEbEJHVGdJVjhwUi14R2hEN2NSWXJmTzhkTkIyYU9QcmotQmZqLVprZGZfaXBDaGZVbkZodUtpMlE?oc=5",
           "desc": "",
-          "title_en": "Pulmuone Food & Culture launches its first overseas food service business in the United States",
-          "title_ja": "プルムウォンフード＆カルチャー、米国で初の海外委託給食事業を開始",
-          "title_zh": "Pulmuone Food & Culture 在美国启动首个海外承包餐饮业务"
+          "title_en": "풀무원푸드앤컬처, 미국서 첫 해외 위탁 급식 사업 시작",
+          "title_ja": "풀무원푸드앤컬처, 미국서 첫 해외 위탁 급식 사업 시작",
+          "title_zh": "풀무원푸드앤컬처, 미국서 첫 해외 위탁 급식 사업 시작"
         },
         {
           "title": "롯데웰푸드 `글로벌 LOTTE 성장, 해외 비중 30% 돌파` 증권사 발표에 강세…7.86%",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ldjJqY1ZTaldoMS1Ed2dsREo0ZHdlQ245Zk5aY3diamVlZjQ5bWIxMk5EU0dNaDA0MEdObGdUZUpxWXRHUy1neXE4UnlKeGd5U0E?oc=5",
           "desc": "",
-          "title_en": "LOTTE Wellfood's stock price rises by 7.86% following a brokerage firm's announcement of \"LOTTE's global growth, overseas sales exceeding 30%\"",
-          "title_ja": "ロッテウェルフード「グローバルLOTTEの成長、海外比率30%突破」証券会社の発表で堅調…7.86%",
-          "title_zh": "乐天食品“乐天全球业务增长，海外营收占比突破30%”券商发布会表现强劲……上涨7.86%"
-        },
-        {
-          "title": "[인사] 롯데그룹",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5RDM4VXdGOV8yaUszTU5ZRnQ1X2RNREZyc2w1M2I2SjhNTFhJMk41ZGt3MGFBSjk5ZFY4T1lxaHNYVk0xaDEyY0czcEZERTNaQ3c?oc=5",
-          "desc": "",
-          "title_en": "[Greetings] Lotte Group",
-          "title_ja": "[人事] ロッテグループ",
-          "title_zh": "[致辞] 乐天集团"
+          "title_en": "롯데웰푸드 `글로벌 LOTTE 성장, 해외 비중 30% 돌파` 증권사 발표에 강세…7.86%",
+          "title_ja": "롯데웰푸드 `글로벌 LOTTE 성장, 해외 비중 30% 돌파` 증권사 발표에 강세…7.86%",
+          "title_zh": "롯데웰푸드 `글로벌 LOTTE 성장, 해외 비중 30% 돌파` 증권사 발표에 강세…7.86%"
         }
       ]
     },
     "realfoods": {
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
-      "items": [
-        {
-          "title": "제주에서 키운 골드키위…제스프리, 국내산 올해 첫 출하",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ybHJPUWF0LUw4a3ZOZUhWREZCZE02UUxGQjRnTXdrdXN4X0pyd2RfVVRsRFZwTTNuYnBiMUJSdWRTUUlRdkFUT0dlY1lEOGF0c2F1S0J1VQ?oc=5",
-          "desc": "",
-          "title_en": "Gold kiwi grown in Jeju… Zespri makes its first domestic shipment of the year",
-          "title_ja": "済州で栽培されたゴールドキウイ…ゼスプリ、韓国産が今年初の出荷",
-          "title_zh": "在济州岛种植的阳光金奇异果……佳沛今年首次在国内上市"
-        },
-        {
-          "title": "당장 따라 해보세요…고깃집 ‘된장 술밥’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92UXpVODNVR2UzdGxXamFSZXdTdG9tWWhrYXZheVlpc2lNLVp1c1hTNXdycHZBbVBzVTBWSWJCamttQXhZb19nN3RWTHlLWXAxX0xyRUY0OA?oc=5",
-          "desc": "",
-          "title_en": "Try it right away… Meat restaurant's \"Miso Stew with Rice and Alcohol\"",
-          "title_ja": "今すぐ作ってみてください…焼肉店「味噌汁かけごはん」",
-          "title_zh": "马上来试试……烤肉店的“味噌酒饭”"
-        },
-        {
-          "title": "“우리의 발효과학, 모두의 김치”…세계김치연구소, ‘위킴 페스티벌’ 연다",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ucThJZFREOVNZNjZPeW5RbDM0SF95Znh5Zk1EMlowS2V3OXZPWTNqNmNVS0pxdnhnbTNsWS1yMlBIeWJnWjV6T1Y4YWRUd2w1S1pwNGVMWQ?oc=5",
-          "desc": "",
-          "title_en": "\"Our Fermentation Science, Everyone's Kimchi\"... World Institute of Kimchi Holds 'WIKIM Festival'",
-          "title_ja": "「私たちの発酵科学、みんなのキムチ」…世界キムチ研究所が「ウィキムフェスティバル」を開催",
-          "title_zh": "“我们的发酵科学，大家的泡菜”……世界泡菜研究所举办“泡菜节”"
-        }
-      ]
+      "items": []
     }
   },
   "korean_articles": [
