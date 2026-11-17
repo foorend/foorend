@@ -1,10 +1,35 @@
 {
-  "lastUpdated": "2026-11-17T06:53:38Z",
+  "lastUpdated": "2026-11-17T18:12:18Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
-      "items": []
+      "items": [
+        {
+          "title": "Top 100 Independents 2026",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oNjhicFFPaWZfelVkczR5MnNzNzV2T3VVQUNBT1l6c253SF9xR21vbnFQUDZKbDNwd0xzZ3liT0E2Vnd0WFA0YnJtVm5wSk14VkNqX0Rhd2tBQ3JnOHR3Y3c4dGFnaFBrcXp4anVZQQ?oc=5",
+          "desc": "",
+          "title_ko": "Top 100 Independents 2026",
+          "title_ja": "Top 100 Independents 2026",
+          "title_zh": "Top 100 Independents 2026"
+        },
+        {
+          "title": "America’s Top 100 Independent Restaurants top $2 billion in sales",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTFSdkdJaVVnRU1FRjJ3emZsbkwzNlBEZEt2UWtLeG9jdVNVZ3czWkc3NE85aDRMdkE2Tm5aRVlibllGQTdaenV4YjhYTmExdVdzOWVCbTJ1cWlEYm9abDlvS1JENmdGdjEycThhRzFHbllqbEh1dVBnSFVBdFJXcXU1OHFtU3d2UkRVZmFQT0RrOGI0cTVhYWdYVWJyLWpwZGhRZ3BQX0ZvWGoz?oc=5",
+          "desc": "",
+          "title_ko": "America’s Top 100 Independent Restaurants top $2 billion in sales",
+          "title_ja": "America’s Top 100 Independent Restaurants top $2 billion in sales",
+          "title_zh": "America’s Top 100 Independent Restaurants top $2 billion in sales"
+        },
+        {
+          "title": "Marble raises $5.5M for back-of-house AI app",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkM5NUVqM0hPTDl4dmNUekk5WnhCUnA2bnJEVnhrMDdFZkJyT09CMnE1YkhwZ3E2MlRHM2pURGxNUU5VWU1ZS2NVZEFsRHV5MFh5QWRLNzJsbE4zb0lJeTlWbEhJVHZfUlI5WE0ySEdsZXQ2QjhqTThGUXBSbmkyekVrTWlkdXVQZDRGMzQtY0M?oc=5",
+          "desc": "",
+          "title_ko": "Marble raises $5.5M for back-of-house AI app",
+          "title_ja": "Marble raises $5.5M for back-of-house AI app",
+          "title_zh": "Marble raises $5.5M for back-of-house AI app"
+        }
+      ]
     },
     "foodandwine": {
       "label": "Food & Wine",
@@ -14,60 +39,85 @@
           "title": "Food News & Trends",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hSlp2WGZ2VDJNb0dBNlJPc0VDN1dlVVNPcG81M1k1VkRuM1ZFTkoxX2lEMTg5aDRYRGdtLUhDaXAxejdNaW1B?oc=5",
           "desc": "",
-          "title_ko": "식품 뉴스 및 트렌드",
-          "title_ja": "フードニュースとトレンド",
-          "title_zh": "美食资讯与潮流"
+          "title_ko": "Food News & Trends",
+          "title_ja": "Food News & Trends",
+          "title_zh": "Food News & Trends"
         },
         {
           "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
           "desc": "",
-          "title_ko": "멕시코 맥주 테카테가 실제로 네덜란드에서 양조된다는 소송 청구",
-          "title_ja": "メキシコビール「テカテ」は実際にはオランダで醸造されているという訴訟",
-          "title_zh": "诉讼称墨西哥啤酒Tecate实际上是在荷兰酿造的"
+          "title_ko": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "title_ja": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "title_zh": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland"
         },
         {
           "title": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
           "desc": "",
-          "title_ko": "놓치고 싶지 않은 20가지 푸드 어드벤트 캘린더 — Bonne Maman, Williams Sonoma 등",
-          "title_ja": "見逃せない20のアドベントカレンダー（ボンヌ・ママン、ウィリアムズ・ソノマなど）",
-          "title_zh": "20款不容错过的美食倒数日历——来自Bonne Maman、Williams Sonoma等品牌"
+          "title_ko": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
+          "title_ja": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
+          "title_zh": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More"
         }
       ]
     },
     "businessinsider": {
       "label": "Business Insider",
       "site": "https://www.businessinsider.com/food",
-      "items": []
+      "items": [
+        {
+          "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
+          "desc": "",
+          "title_ko": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "title_ja": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
+          "title_zh": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts"
+        },
+        {
+          "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
+          "desc": "",
+          "title_ko": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "title_ja": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
+          "title_zh": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation"
+        },
+        {
+          "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3pBcDV0OU9uRnJfSXZfMkYxTms3a2UtZ0swOU82YXpvQ3ZMTnJlS0dzNVJyakwtenBSWXhIT2RyVFBXTzNIbFdEM3dWeW92X3EyT3FGTUVxc3ptbGJRTDdPRkxoNU5ubng5ZlhXQTRBNmNnQWVXTm4wSlRSdGhwYjg0QnNTN2t6d2NmQWFhWnRuUmRjV0N2cHBXSXkxNkk?oc=5",
+          "desc": "",
+          "title_ko": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
+          "title_ja": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
+          "title_zh": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others"
+        }
+      ]
     },
     "eater": {
       "label": "Eater",
       "site": "https://www.eater.com/trends",
       "items": [
         {
-          "title": "Where Chef Esther Choi Eats on Her Day Off in NYC",
-          "link": "https://www.eater.com/dining-out/1001062/esther-choi-favorite-restaurants-nyc",
-          "desc": "Celebrity chef and cookbook author Esther Choi, the chef behind Korean restaurants like mǒkbar and Ms. Yoo, shows us the cafe, bakery, and restaurants",
-          "title_ko": "셰프 에스더 최가 뉴욕에서 휴일을 보낼 때 즐겨 찾는 맛집",
-          "title_ja": "エスター・チョイシェフがニューヨークの休日に食べるお店",
-          "title_zh": "主厨Esther Choi在纽约休假时会去哪里用餐"
+          "title": "The Best Thanksgiving Side Recipes, According to Eater Editors",
+          "link": "https://www.eater.com/eater-at-home/998231/the-best-thanksgiving-side-stuffing-recipes-according-to-eater-editors",
+          "desc": "The sides are objectively the best part of Thanksgiving, and it’s not even an argument. Mashed potatoes and stuffing are the reason we’re all convenin",
+          "title_ko": "The Best Thanksgiving Side Recipes, According to Eater Editors",
+          "title_ja": "The Best Thanksgiving Side Recipes, According to Eater Editors",
+          "title_zh": "The Best Thanksgiving Side Recipes, According to Eater Editors"
         },
         {
-          "title": "How a New Restaurant Injected Retro “Latin Soul” Into a New-Build Space",
-          "link": "https://www.eater.com/pre-shift/1001005/how-a-new-restaurant-injected-retro-latin-soul-into-a-new-build-space",
-          "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry. Subscribe for more first-person accounts, advice, and",
-          "title_ko": "새로 지은 공간에 레트로한 '라틴 소울'을 불어넣은 새로운 레스토랑의 이야기",
-          "title_ja": "新築の店舗にレトロな「ラテンの魂」を吹き込んだ新レストラン",
-          "title_zh": "一家新餐厅如何将复古的“拉丁灵魂”注入新建的空间"
+          "title": "The Best Cookie Recipes, According to Eater Staff",
+          "link": "https://www.eater.com/23941973/best-cookie-recipes-chocolate-chip-cookies-pretzel-linzers-marranitos",
+          "desc": "The office cookie swap is a serious affair: the one true, socially acceptable, and pleasantly beneficial-to-all way to let your competitive streak shi",
+          "title_ko": "The Best Cookie Recipes, According to Eater Staff",
+          "title_ja": "The Best Cookie Recipes, According to Eater Staff",
+          "title_zh": "The Best Cookie Recipes, According to Eater Staff"
         },
         {
-          "title": "Highly Specific Observations While Scouting for the 2026 Eater Awards",
-          "link": "https://www.eater.com/dining-out/999548/eater-awards-restaurant-research-observations",
-          "desc": "The past year has been one of “Great Chickenings” and fine dining flips, British food invasions and restaurants whose dining rooms feel like living ro",
-          "title_ko": "2026년 Eater Awards 후보를 물색하며 얻은 매우 구체적인 관찰 결과",
-          "title_ja": "2026 年 Eater Awards の候補を探す中で得られた非常に具体的な観察事項",
-          "title_zh": "在为 2026 年顾客评选奖项进行调研时的一些非常具体的观察结果"
+          "title": "The Absolute Best Pie Recipes, According to Eater Staff",
+          "link": "https://www.eater.com/24383261/best-pie-recipes-editor-picks",
+          "desc": "You don’t really need a holiday occasion to bake a pie, but it doesn’t hurt to let the spirit of the season introduce you to a few more festive recipe",
+          "title_ko": "The Absolute Best Pie Recipes, According to Eater Staff",
+          "title_ja": "The Absolute Best Pie Recipes, According to Eater Staff",
+          "title_zh": "The Absolute Best Pie Recipes, According to Eater Staff"
         }
       ]
     }
@@ -78,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 18일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZTJaaFFQYzFXREh6UWhKT1lGNGpGVklLWWVFSDZxYndHUXdpWHhWVTNkYnUxTkVxdDMxeTJLQVBDZUkzOG1pVklQUU90MFQ3M1hkOXVNZlB1Zw?oc=5",
+          "desc": "",
+          "title_en": "[오늘의 운세] 오늘 뭐 먹지?…11월 18일 띠별 추천 점심메뉴",
+          "title_ja": "[오늘의 운세] 오늘 뭐 먹지?…11월 18일 띠별 추천 점심메뉴",
+          "title_zh": "[오늘의 운세] 오늘 뭐 먹지?…11월 18일 띠별 추천 점심메뉴"
+        },
+        {
           "title": "\"베테랑 한식 요리사 없어도 된다\"…백종원, 美서 꺼낸 승부수",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YQnlRWXdsNGFIVXhpaTNObXdRRHU1RkkxVEtTWGw1aGpsdWNfb0NBcC1tTEdJQVJNcVdCMUpmNmQwcmJ2VEZZZl8zU0U2Vkdibk1Nb3YtSmYyZw?oc=5",
           "desc": "",
-          "title_en": "\"You don't need experienced Korean chefs\"... Paik Jong-won's bold move in the U.S.",
-          "title_ja": "「ベテランの韓国料理シェフはいらない」…白ジョンウォン、米国で仕掛けた勝負手",
-          "title_zh": "“不需要资深韩餐厨师”……白钟元在美国下的一步险棋"
+          "title_en": "\"베테랑 한식 요리사 없어도 된다\"…백종원, 美서 꺼낸 승부수",
+          "title_ja": "\"베테랑 한식 요리사 없어도 된다\"…백종원, 美서 꺼낸 승부수",
+          "title_zh": "\"베테랑 한식 요리사 없어도 된다\"…백종원, 美서 꺼낸 승부수"
         },
         {
-          "title": "\"먹던 마늘·부추를…\" 손님이 목격한 '닭한마리집' 충격 장면",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81WWQtVkRuX1ZnTWhaVmVDRGJBdVMtaDUwckNoM0lrUnpwUHVORjhtTTU3S2xpYm9XMHVIVnhRam5DdXp4UzZZMU9vbkgxdFVNS2YyM19KT19FZw?oc=5",
+          "title": "동대문엽기떡볶이, 서울 '나눔바자페스타'서 푸드트럭 운영…지역주민에 떡볶이 제공",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJc2RETmxrRHBnQ1ZYc2FZOUVqR2FSbmV0dkpDNWJWZUgtUTBkQngyNmk3azFhbXpVMW5DUmxZcmJCUWhkOE91SHNETUlOUHpUME5XM25JVkx2MkVMMTRlVko0djJ1YzFCMEwtUA?oc=5",
           "desc": "",
-          "title_en": "\"The garlic and chives we were eating…\" A shocking scene at a 'dakhanmari' restaurant witnessed by a customer",
-          "title_ja": "「食べかけのにんにくやニラを…」お客さんが目撃した「タッカンマリ店」の衝撃的な光景",
-          "title_zh": "“吃过的蒜和韭菜……”顾客目睹的“炖鸡店”的惊人一幕"
-        },
-        {
-          "title": "\"K-푸드로 美 단체급식 뚫었다\"…외국인 직원도 반한 '이곳'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VV25jbXIzT3FJMFNaWkhCYmp5M2UyMkxfWlhaRmltSnB1bkdrWDBRdWstbEc0SnI2Tlg5b2FvOU1jR3M2LUlTZ0hqclRMa2JqWFViUTdLYzZMUQ?oc=5",
-          "desc": "",
-          "title_en": "\"K-Food has made its way into U.S. institutional catering\"... \"This place\" has even won over foreign employees.",
-          "title_ja": "「Kフードで米国の団体給食に参入した」…外国人社員も虜になった「ここ」",
-          "title_zh": "“韩式美食成功打入美国团体膳食市场”……连外国员工也为“这里”倾倒"
+          "title_en": "동대문엽기떡볶이, 서울 '나눔바자페스타'서 푸드트럭 운영…지역주민에 떡볶이 제공",
+          "title_ja": "동대문엽기떡볶이, 서울 '나눔바자페스타'서 푸드트럭 운영…지역주민에 떡볶이 제공",
+          "title_zh": "동대문엽기떡볶이, 서울 '나눔바자페스타'서 푸드트럭 운영…지역주민에 떡볶이 제공"
         }
       ]
     },
@@ -108,28 +158,28 @@
       "site": "https://www.sedaily.com",
       "items": [
         {
+          "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aR2VNc2FBSWY5OUR2bTVVMWFwSXhkUllNTXpoRjBybzVRem1LU3BJdzQ5VXRjWlk1R21aY0gwRlNmNlBGXzM0UHpNOVREVWxjTEHSAVNBVV95cUxQZFJHNkpUNlVVWWlIRWlVOGtxNjBVQVVUVG5ld0Vhdzd6WEJtSXIxeXBmNVdZaklSN2ZFYnBsVE1rRjM2cjFuN3JoTVIxOUxkSE1GZw?oc=5",
+          "desc": "",
+          "title_en": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영",
+          "title_ja": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영",
+          "title_zh": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영"
+        },
+        {
           "title": "풀무원푸드앤컬처, 美 단체급식 시장 진출…애리조나서 첫 해외 사업장",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44a3NKN25Zc0ZraWRNQXdaYlNCeGlFQVZwNHZuSHBJX3YySG01STExUWlvaHBzSzMzY05HTkkxZHBKM2tOQ3hRLXhYbXlSS0NpTHfSAVNBVV95cUxPOEtGYkhlaUUxbmZ5NmlGMXFLcGcxQmJXOW11RTZQY3dOYmdGd2p2VXJvUXRHdlE1V0puT2dmQkJ5dGhFTVJkc3FHOVU3MldiOHo0Zw?oc=5",
           "desc": "",
-          "title_en": "Pulmuone Foods & Culture enters the U.S. foodservice market… First overseas location in Arizona",
-          "title_ja": "プルムウォンフード＆カルチャー、米国の団体給食市場に参入…アリゾナに初の海外事業所",
-          "title_zh": "Pulmuone Food & Culture进军美国团体膳食市场……在亚利桑那州设立首个海外业务点"
+          "title_en": "풀무원푸드앤컬처, 美 단체급식 시장 진출…애리조나서 첫 해외 사업장",
+          "title_ja": "풀무원푸드앤컬처, 美 단체급식 시장 진출…애리조나서 첫 해외 사업장",
+          "title_zh": "풀무원푸드앤컬처, 美 단체급식 시장 진출…애리조나서 첫 해외 사업장"
         },
         {
           "title": "간편하고 맛있어 매일 먹는데 “라면보다 안 좋다?”…의사가 콕 찍은 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYng5aE43QlhmQ2RMVzRuT1pSeFJ5a2JqM25sT21TZVdwS2V3Y0lQVGpWbVo5RXRfeERabFNacmdPcU5CT2I3M1NBcjRmUGJ0b0HSAVNBVV95cUxPWlpqaEcxWkFVTURsVWdhVU9ocWk5akV4U1BTX1RnU3lmWXhGdC10bkc3RkU1R1pkb18wYUhZcVRvb0hmZjZ2UDFvVklJZG43TEdFQQ?oc=5",
           "desc": "",
-          "title_en": "It's easy and delicious, so I eat it every day. \"It's not as good as ramen?\"…‘This food’ that doctors have singled out [Healthy Time]",
-          "title_ja": "手軽でおいしいから毎日食べているのに、「ラーメンより体に悪い？」…医師が名指しで指摘した「この食べ物」［ヘルシータイム］",
-          "title_zh": "方便又好吃，我每天都吃，“比拉面还差？”……医生点名的“这种食物” [健康时刻]"
-        },
-        {
-          "title": "“음식 다 상하고 냉동고 녹아내려” 유럽 난리 나자…한국도 긴급 점검",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSmhZMkdGakNkeFRsdjdhWTZMYU5HSGxlQ0cwT1BYX1VEelBxMkNYRzhmNE0xN205SllreUczSFdtZHY2MS0wUkwtclhzQWJGLUHSAVNBVV95cUxOaUoxYWpYVU9qTzhrNUowaXBjazdWY01NM0RObkpCUGJ2TGQyblhyenpmYUYxVkJXTDJOS2dBNmcySlloUWc5WEVsTzhMVE1JWmI2TQ?oc=5",
-          "desc": "",
-          "title_en": "\"All the food has spoiled, and the freezer has melted.\" As Europe goes into chaos… South Korea also conducts emergency inspections.",
-          "title_ja": "「食べ物が全部ダメになり、冷凍庫が溶けている」ヨーロッパが大混乱に陥ると…韓国も緊急点検",
-          "title_zh": "“食物都坏了，冰箱也化了”欧洲陷入混乱……韩国也紧急检查"
+          "title_en": "간편하고 맛있어 매일 먹는데 “라면보다 안 좋다?”…의사가 콕 찍은 ‘이 음식’ [헬시타임]",
+          "title_ja": "간편하고 맛있어 매일 먹는데 “라면보다 안 좋다?”…의사가 콕 찍은 ‘이 음식’ [헬시타임]",
+          "title_zh": "간편하고 맛있어 매일 먹는데 “라면보다 안 좋다?”…의사가 콕 찍은 ‘이 음식’ [헬시타임]"
         }
       ]
     },
@@ -141,25 +191,25 @@
           "title": "“배달이 늦은건데 별점 테러 억울해”…배민, 음식·배달 평가 분리한다",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ERk9RTzFCUWc0NFE0ZVhLRHB0WDZ4X3d2WWhnaU9xMGg4SURSZVlWcUtJRGtWWG5xeVZmVl91ZDFJMEU2ZGxjN3g0RlpVNGVzTzdBWWdB?oc=5",
           "desc": "",
-          "title_en": "“It's unfair to get bad reviews because of late deliveries…” Baemin separates food and delivery ratings",
-          "title_ja": "「配達が遅れたのに、低評価テロにあって悔しい」…Baemin、料理と配達の評価を分離する",
-          "title_zh": "“送餐晚了，却被差评，太冤枉了”……“饿了么”将对餐点和送餐服务进行分开评分"
+          "title_en": "“배달이 늦은건데 별점 테러 억울해”…배민, 음식·배달 평가 분리한다",
+          "title_ja": "“배달이 늦은건데 별점 테러 억울해”…배민, 음식·배달 평가 분리한다",
+          "title_zh": "“배달이 늦은건데 별점 테러 억울해”…배민, 음식·배달 평가 분리한다"
         },
         {
           "title": "롯데웰푸드 '글로벌 LOTTE 성장, 해외 비중 30% 돌파' 증권사 발표에 강세…7.86%",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ka3JMZk04ZjBWR0tYNkNjdmlNdFk2ZU1ETEZxblU4dFNsYWhUWnhTM1QtV19zWlVjUF9jaWFfSlh4TUtVVGhWc2JyM2RPUHJtWFE?oc=5",
           "desc": "",
-          "title_en": "Lotte Wellfood's stock price rises by 7.86% following a brokerage firm's announcement of \"Global LOTTE's growth, overseas sales exceeding 30%\"",
-          "title_ja": "ロッテウェルフード「グローバルLOTTEの成長、海外比率30%突破」証券会社の発表で堅調…7.86%",
-          "title_zh": "乐天食品“全球乐天业务增长，海外营收占比突破30%”券商发布会表现强劲……上涨7.86%"
+          "title_en": "롯데웰푸드 '글로벌 LOTTE 성장, 해외 비중 30% 돌파' 증권사 발표에 강세…7.86%",
+          "title_ja": "롯데웰푸드 '글로벌 LOTTE 성장, 해외 비중 30% 돌파' 증권사 발표에 강세…7.86%",
+          "title_zh": "롯데웰푸드 '글로벌 LOTTE 성장, 해외 비중 30% 돌파' 증권사 발표에 강세…7.86%"
         },
         {
           "title": "풀무원푸드앤컬처, 미국서 첫 해외 위탁 급식 사업 시작",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0SUR1eFEzVFNnMWR0ZnVrMjdEbEJHVGdJVjhwUi14R2hEN2NSWXJmTzhkTkIyYU9QcmotQmZqLVprZGZfaXBDaGZVbkZodUtpMlE?oc=5",
           "desc": "",
-          "title_en": "Pulmuone Food & Culture launches its first overseas food service business in the United States",
-          "title_ja": "プルムウォンフード＆カルチャー、米国で初の海外委託給食事業を開始",
-          "title_zh": "Pulmuone Food & Culture 在美国启动首个海外承包餐饮业务"
+          "title_en": "풀무원푸드앤컬처, 미국서 첫 해외 위탁 급식 사업 시작",
+          "title_ja": "풀무원푸드앤컬처, 미국서 첫 해외 위탁 급식 사업 시작",
+          "title_zh": "풀무원푸드앤컬처, 미국서 첫 해외 위탁 급식 사업 시작"
         }
       ]
     },
@@ -171,25 +221,25 @@
           "title": "“콩 식품, 혈당 조절 및 당뇨병 위험 감소에 도움”",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IMm5xdTE5YjJEVGdTSU5WNHVUekp2ZHN4LXJSNHBVZTJDeDVmZWZIYVB5VWpwVDd3d3I2YkdaYjlYMzVtSm9Lek8zdWhFRGZtMTdFQjRjaw?oc=5",
           "desc": "",
-          "title_en": "“Soy foods help regulate blood sugar and reduce the risk of diabetes”",
-          "title_ja": "「大豆食品が血糖値のコントロールと糖尿病リスクの低減に役立つ」",
-          "title_zh": "“豆制品有助于血糖控制和降低糖尿病风险”"
+          "title_en": "“콩 식품, 혈당 조절 및 당뇨병 위험 감소에 도움”",
+          "title_ja": "“콩 식품, 혈당 조절 및 당뇨병 위험 감소에 도움”",
+          "title_zh": "“콩 식품, 혈당 조절 및 당뇨병 위험 감소에 도움”"
         },
         {
           "title": "제주에서 키운 골드키위…제스프리, 국내산 올해 첫 출하",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ybHJPUWF0LUw4a3ZOZUhWREZCZE02UUxGQjRnTXdrdXN4X0pyd2RfVVRsRFZwTTNuYnBiMUJSdWRTUUlRdkFUT0dlY1lEOGF0c2F1S0J1VQ?oc=5",
           "desc": "",
-          "title_en": "Gold kiwi grown in Jeju… Zespri makes its first domestic shipment of the year",
-          "title_ja": "済州島で栽培されたゴールドキウイ…ゼスプリ、韓国産が今年初の出荷",
-          "title_zh": "在济州岛种植的黄金猕猴桃……佳沛今年首次在国内上市"
+          "title_en": "제주에서 키운 골드키위…제스프리, 국내산 올해 첫 출하",
+          "title_ja": "제주에서 키운 골드키위…제스프리, 국내산 올해 첫 출하",
+          "title_zh": "제주에서 키운 골드키위…제스프리, 국내산 올해 첫 출하"
         },
         {
           "title": "선진, 3년 연속 ESG 통합 A등급…사회 부문 A+",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kMmNjODhCWUtMN0U0TFp1cVlXSUFUZHFtRng4UHI0eXFoaGxPTktyMGl4VEYzQl9BWFJuU0VibUdfYVQ5MWJjcXlMYmIwamJ1MkNrQ1BWUQ?oc=5",
           "desc": "",
-          "title_en": "Sunjin achieves an overall ESG rating of A for three consecutive years… A+ in the Social category",
-          "title_ja": "ソンジン、3年連続でESG統合A等級…社会部門A+",
-          "title_zh": "先进，连续三年获得ESG综合A级……社会板块A+"
+          "title_en": "선진, 3년 연속 ESG 통합 A등급…사회 부문 A+",
+          "title_ja": "선진, 3년 연속 ESG 통합 A등급…사회 부문 A+",
+          "title_zh": "선진, 3년 연속 ESG 통합 A등급…사회 부문 A+"
         }
       ]
     }
