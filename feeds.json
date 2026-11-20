@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T20:01:33Z",
+  "lastUpdated": "2026-11-20T02:01:23Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
@@ -9,7 +9,7 @@
           "title": "Top 100 Independents 2026",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oNjhicFFPaWZfelVkczR5MnNzNzV2T3VVQUNBT1l6c253SF9xR21vbnFQUDZKbDNwd0xzZ3liT0E2Vnd0WFA0YnJtVm5wSk14VkNqX0Rhd2tBQ3JnOHR3Y3c4dGFnaFBrcXp4anVZQQ?oc=5",
           "desc": "",
-          "title_ko": "2026년 독립 호텔 상위 100곳",
+          "title_ko": "2026년 독립 호텔 상위 100선",
           "title_ja": "2026年独立系トップ100",
           "title_zh": "2026年百大独立品牌"
         },
@@ -17,15 +17,15 @@
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
-          "title_ko": "연구 결과에 따르면, 미국 내 중국 음식점의 절반이 문을 닫은 것으로 나타났습니다.",
-          "title_ja": "調査によると、国内の中華料理店の半数が閉店していることが判明",
+          "title_ko": "연구 결과에 따르면 전국 중식당의 절반이 문을 닫은 것으로 나타났습니다.",
+          "title_ja": "調査によると、全国の中華料理店の半数が閉店していることが判明",
           "title_zh": "研究发现，全国一半的中餐厅已经关门"
         },
         {
           "title": "DoorDash changes how it calculates fees for consumers",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
           "desc": "",
-          "title_ko": "DoorDash, 소비자 수수료 산정 방식 변경",
+          "title_ko": "DoorDash, 소비자에게 부과하는 수수료 산정 방식 변경",
           "title_ja": "DoorDash が注文者への手数料の計算方法を変更",
           "title_zh": "DoorDash 更改了向消费者收取费用的计算方式"
         }
@@ -34,7 +34,32 @@
     "foodandwine": {
       "label": "Food & Wine",
       "site": "https://www.foodandwine.com/news",
-      "items": []
+      "items": [
+        {
+          "title": "Lawsuit Claims Mexican Beer Tecate Is Actually Brewed in Holland",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERDbnZoV2FhSGE2R3BlT1hjTmh5WjNRem1CcE41eTNhT2JZdjZsRDNxUGRhRWtzRGM5dVJNcnkwb1FGbTljWUx4Z2J0WklRTE84dXFHNUJ5cmFNNmJHZFFQYlY4TmtQOTZCZHRzU3p1VzlQYl9uczZjUGFjLWZTaw?oc=5",
+          "desc": "",
+          "title_ko": "멕시코 맥주 테카테가 실제로 네덜란드에서 양조된다는 소송 청구",
+          "title_ja": "メキシコビール「テカテ」は実際にはオランダで醸造されているという訴訟",
+          "title_zh": "诉讼称墨西哥啤酒Tecate实际上是在荷兰酿造的"
+        },
+        {
+          "title": "20 Food Advent Calendars You Don’t Want to Miss — From Bonne Maman, Williams Sonoma, and More",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
+          "desc": "",
+          "title_ko": "놓치고 싶지 않은 20가지 푸드 어드벤트 캘린더 — Bonne Maman, Williams Sonoma 등",
+          "title_ja": "見逃せない20のアドベントカレンダー（ボンヌ・ママン、ウィリアムズ・ソノマなど）",
+          "title_zh": "20款不容错过的美食倒数日历——来自Bonne Maman、Williams Sonoma等品牌"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 보데인과 에릭 리퍼트, 새로운 초콜릿 바 출시",
+          "title_ja": "アンソニー・ボーデインとエリック・リペールが新しいチョコレートバーを発売",
+          "title_zh": "安东尼·波登和埃里克·里佩尔推出新款巧克力棒"
+        }
+      ]
     },
     "businessinsider": {
       "label": "Business Insider",
@@ -44,25 +69,25 @@
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
-          "title_ja": "プライベートシェフとパーティー主催者をつなぐスタートアップ、Kitchensurfingの料理にインスピレーションを得たオフィスの中",
-          "title_zh": "走进Kitchensurfing烹饪主题办公室，这家初创公司将私人厨师与派对主办人联系起来"
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업인 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
+          "title_ja": "プライベートシェフとパーティー主催者をつなぐスタートアップ、Kitchensurfingの料理にインスパイアされたオフィスの中",
+          "title_zh": "走进Kitchensurfing的烹饪风办公室，这家初创公司将私人厨师与派对主办人联系起来"
         },
         {
           "title": "Food Protectionism: Countries Restrict Exports for Security, Control Inflation",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeG50UmstalFNc09tRzVFN1A1dDBWdG9DdDd5TTlUSzFuS0YySWpRRW1YU2IxalN2Uy1SWXNoVng4eEhvWU5zRWJmbjFMcnJ2WGVfWE03OTc3WjVpUmRFUWRVU0FyYXBvMUlSUVhfYzYyMXZwcVM5WHR0UDk0eFQ0ZnNYNVlCYVVCZHp1UzRYSmVITGNqYUdDTVpXZ0NlcEYzY3dnLUpheGMtdDZBUHkza0pZOHVzUnBhYUpV?oc=5",
           "desc": "",
           "title_ko": "식량 보호주의: 안보를 위해 수출을 제한하고 인플레이션을 통제하는 국가들",
-          "title_ja": "食料保護主義：各国が安全保障やインフレ抑制のために輸出を制限",
-          "title_zh": "粮食保护主义：各国出于安全考虑限制出口，以控制通胀"
+          "title_ja": "食料保護主義：各国が安全保障とインフレ抑制のために輸出を制限",
+          "title_zh": "粮食保护主义：各国为保障粮食安全、控制通胀而限制出口"
         },
         {
           "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3pBcDV0OU9uRnJfSXZfMkYxTms3a2UtZ0swOU82YXpvQ3ZMTnJlS0dzNVJyakwtenBSWXhIT2RyVFBXTzNIbFdEM3dWeW92X3EyT3FGTUVxc3ptbGJRTDdPRkxoNU5ubng5ZlhXQTRBNmNnQWVXTm4wSlRSdGhwYjg0QnNTN2t6d2NmQWFhWnRuUmRjV0N2cHBXSXkxNkk?oc=5",
           "desc": "",
-          "title_ko": "식품 폐기물 스타트업 Mill이 Google Ventures 등으로부터 1억 달러를 조달하는 데 사용한 독점 피치 데크를 확인해 보세요.",
+          "title_ko": "Google Ventures 등으로부터 1억 달러를 조달한 식품 폐기물 스타트업 Mill이 사용한 독점 피치 데크를 확인해 보세요.",
           "title_ja": "食品廃棄物処理スタートアップのMillが、Google Venturesなどから1億ドルを調達するために使用した独占的なピッチデッキをご覧ください。",
-          "title_zh": "查看食品废弃物初创公司Mill用于从Google Ventures等机构筹集1亿美元的独家路演演示文稿"
+          "title_zh": "查看食品废弃物初创公司Mill用于从Google Ventures等处筹集1亿美元的独家路演演示文稿"
         }
       ]
     },
@@ -84,14 +109,14 @@
           "desc": "A good host is always thinking of others, whether it’s by making guests feel welcome, accommodating everyone’s diets, or setting an Instagram-worthy t",
           "title_ko": "연말 파티 호스트가 정말로 원할 만한 최고의 작은 선물",
           "title_ja": "ホリデーパーティーのホストが本当に喜ぶ最高のプチギフト",
-          "title_zh": "派对主人真正想要的超赞小礼物"
+          "title_zh": "节日派对主人真正想要的最佳小礼物"
         },
         {
           "title": "The Gifts Chefs and Bartenders Actually Want This Year",
           "link": "https://www.eater.com/pre-shift/1001065/gift-guide-chefs-bartenders-hospitality-pre-shift",
           "desc": "This excerpt was originally published in Pre Shift, our newsletter for the hospitality industry, in an issue presented by Square. Subscribe for more f",
           "title_ko": "셰프와 바텐더가 올해 정말 원하는 선물",
-          "title_ja": "シェフやバーテンダーが今年本当に欲しいギフト",
+          "title_ja": "今年、シェフやバーテンダーが本当に欲しいギフト",
           "title_zh": "今年厨师和调酒师真正想要的礼物"
         }
       ]
@@ -106,9 +131,9 @@
           "title": "\"하지원도 챙겨먹는다\" 입소문 타더니…주문 폭증한 '이것' [셀럽픽]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WWmFIdVZQUEkydHdKN1hpUGFWcW9HSVlBVUhXNDBTLVJRZ2NSVW5IS0tKV3RvM2JBXzYxa3dSbHQ5RTFKQURKaE15eTVYUW13bHNhaUR4MU5pZw?oc=5",
           "desc": "",
-          "title_en": "\"Ha Ji-won also eats it.\" After it became popular by word of mouth… Orders for 'this' skyrocketed [Celebrity Picks]",
+          "title_en": "\"Even Ha Ji-won eats it.\" After it became popular by word of mouth… Orders for 'this' skyrocketed [Celebrity Picks]",
           "title_ja": "「ハ・ジウォンも食べている」という口コミが広まって…注文が急増した「これ」[セレブピック]",
-          "title_zh": "“河智苑也在吃”口碑传播开来……“这个”的订单激增【明星精选】"
+          "title_zh": "“河智苑也在吃”口碑爆火……“这款”订单激增【明星精选】"
         },
         {
           "title": "K치킨 다음 타깃 사찰음식…BBQ, 화엄사와 손잡았다",
@@ -123,8 +148,8 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RaFBENnNDYTdjdHBfN1MySVlHT205R3l2UWlhcWd3RjI5Z3Y2RVU0bEtaRWtvMXUtR045eXhmT0JwMHBvdnI4a3lYN2RueklZQUREdXd3bVBXdw?oc=5",
           "desc": "",
           "title_en": "Kimchi comes from the ground?… The groundbreaking transformation of K-food that has swept 70% of the world",
-          "title_ja": "海苔が土から採れるだと…？世界70%を席巻したKフードの驚きの変身",
-          "title_zh": "蒸汽从地下冒出来？……席卷全球70%的韩式美食的颠覆性变革"
+          "title_ja": "海苔が土から採れるだと…？世界70%を席巻したKフードの衝撃的な変身",
+          "title_zh": "蒸汽是从地下冒出来的吗？……席卷全球70%的韩式美食的颠覆性变革"
         }
       ]
     },
@@ -137,24 +162,24 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJOXg4SlhGdENCbGNOYWZ4WW9WaTRDOUdnUkZKZlZZbFhPNmh4OURpeXJpd3QtTVlEaG4zcjJzdUVSUWp4Z19SZkNJUGtyTDFGY3fSAVNBVV95cUxNZWdQMWZaNmRMb3lYdVhSWnpTZHc5Ym9rQTM4amRzVWdtM3VNY3M3Y2pxTDk4R0RocmtselZDUk9RMmQ5bjNwS2I5bWx1Nmc1dXo1WQ?oc=5",
           "desc": "",
           "title_en": "I eat it every morning because it's supposed to be good for you, but \"my stomach is completely ruined\"... \"Foods\" that doctors strongly warn against [Healthy Time]",
-          "title_ja": "体に良いからと毎日朝食に食べていたら「胃がボロボロに」…医師たちが強く警告する「食品」［ヘルシータイム］",
-          "title_zh": "我每天早上都吃，因为据说对身体有好处，但“胃都坏了”……医生强烈警告的“食物”【健康时刻】"
-        },
-        {
-          "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aR2VNc2FBSWY5OUR2bTVVMWFwSXhkUllNTXpoRjBybzVRem1LU3BJdzQ5VXRjWlk1R21aY0gwRlNmNlBGXzM0UHpNOVREVWxjTEHSAVNBVV95cUxQZFJHNkpUNlVVWWlIRWlVOGtxNjBVQVVUVG5ld0Vhdzd6WEJtSXIxeXBmNVdZaklSN2ZFYnBsVE1rRjM2cjFuN3JoTVIxOUxkSE1GZw?oc=5",
-          "desc": "",
-          "title_en": "Baemin separates food and delivery ratings… Store ratings only reflect food ratings",
-          "title_ja": "Baemin、料理・配達の評価を分離…店舗の評価には料理の評価のみを反映",
-          "title_zh": "Baemin 将餐点与配送评分分开……商店评分仅反映餐点评分"
+          "title_ja": "体に良いからと毎日朝食に食べていたら「胃腸がボロボロに」…医師たちが強く警告する「食品」［ヘルシータイム］",
+          "title_zh": "我每天早上都吃，因为据说对身体有好处，但“胃都坏掉了”……医生强烈警告的“食物”[健康时刻]"
         },
         {
           "title": "간편하고 맛있어 매일 먹는데 “라면보다 안 좋다?”…의사가 콕 찍은 ‘이 음식’ [헬시타임]",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYng5aE43QlhmQ2RMVzRuT1pSeFJ5a2JqM25sT21TZVdwS2V3Y0lQVGpWbVo5RXRfeERabFNacmdPcU5CT2I3M1NBcjRmUGJ0b0HSAVNBVV95cUxPWlpqaEcxWkFVTURsVWdhVU9ocWk5akV4U1BTX1RnU3lmWXhGdC10bkc3RkU1R1pkb18wYUhZcVRvb0hmZjZ2UDFvVklJZG43TEdFQQ?oc=5",
           "desc": "",
-          "title_en": "It's easy and delicious, so I eat it every day. \"It's not as good as ramen?\"…‘This food’ that doctors have singled out [Healthy Time]",
-          "title_ja": "手軽でおいしいから毎日食べているのに、「ラーメンより体に悪い？」…医師が名指しで挙げた「この食べ物」［ヘルシータイム］",
-          "title_zh": "方便又好吃，我每天都吃，“比拉面还差？”……医生点名的“这种食物”【健康时刻】"
+          "title_en": "It's easy to make and delicious, so I eat it every day. \"It's not as good as ramen?\"…‘This food’ that doctors have singled out [Healthy Time]",
+          "title_ja": "手軽でおいしくて毎日食べているのに、「ラーメンより体に悪い？」…医師が名指しで指摘した「この食べ物」［ヘルシータイム］",
+          "title_zh": "方便又好吃，我每天都吃，“比拉面还差？”……医生点名的“这种食物” [健康时刻]"
+        },
+        {
+          "title": "미국 10월 소매 판매 0.2% 증가...“자동차 등 고가품 소비 위축 영향”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZTlVCdXdTTVdCR3ZxTG9iZkl1WHR5WFJtcDRBWmxnN3p5QzFYX0FpNnVES0NjcGc5ZkN2X29rSU5XZ1U2WGFhOEtMYTVXeW8wX2fSAVNBVV95cUxPOGxxdkZJTFQwM0pfQURLOFI4T3ZrbXBwUFhwemszb2lxU1BXa1NLQ3JMQzJwUkEwdUNlR1FiVVBDNkNwS1llb2E5TVlxdkVTYjlRYw?oc=5",
+          "desc": "",
+          "title_en": "U.S. retail sales up 0.2% in October... \"Impact of reduced spending on high-priced items such as cars\"",
+          "title_ja": "米国の10月の小売売上高が0.2%増加…「自動車などの高額品の消費が低迷した影響」",
+          "title_zh": "美国10月份零售销售额增长0.2%……“受汽车等高价商品消费萎缩的影响”"
         }
       ]
     },
@@ -166,9 +191,9 @@
           "title": "국빈 대통령에 ‘패스트푸드’ 보냈다…외교참사인줄 알았더니 “판타스틱” 감탄",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pNnBPWV9fR0FJYm9XZkNsclFsNFg1Y0lwUUZncHlxaldvSU0wM1RTWWxwOHBwcWJoRUlpSHdDczBfSUJTcVlLUnd5QUZSS2ZBSXc?oc=5",
           "desc": "",
-          "title_en": "He sent \"fast food\" to the state guest president… I thought it was a diplomatic disaster, but he exclaimed, \"Fantastic.\"",
+          "title_en": "Sent ‘fast food’ to the state guest president… Thought it was a diplomatic disaster, but he exclaimed, \"Fantastic.\"",
           "title_ja": "国賓の韓国大統領に「ファーストフード」を送った…外交的失態かと思いきや「素晴らしい」と絶賛",
-          "title_zh": "向国宾总统送上“快餐”……以为是外交灾难，结果却被赞“太棒了”"
+          "title_zh": "向国宾总统送去了“快餐”……以为是外交灾难，结果却被赞“太棒了”"
         },
         {
           "title": "이경실, 4년 전 처음 요리 시작했다…“엄마 음식이 없다는 딸 말에 충격”",
@@ -176,15 +201,15 @@
           "desc": "",
           "title_en": "Lee Kyung-sil started cooking for the first time four years ago… \"I was shocked when my daughter said she didn't have her mom's cooking.\"",
           "title_ja": "イ・ギョンシル、4年前に初めて料理を始めた…「娘が『ママの料理がない』と言ってショックを受けた」",
-          "title_zh": "李京实，4年前开始学做饭……“女儿说没有妈妈做的菜，我感到很震惊”"
+          "title_zh": "李京实，4年前开始做饭……“女儿说没有妈妈做的饭，我感到很震惊”"
         },
         {
-          "title": "'연구부터 사업화까지' 식품진흥원-농기평, 푸드테크 육성 맞손",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nb19NRkdZcWVtcncxZ0NhZ0Nkdm13cVNJZmU2VHhmZExtMWNqY0h5T2tZLVpORE5rSjI5cENQWF9NbzZlUnpoUkF5d1lKcUlmN2c?oc=5",
+          "title": "현대그린푸드 3분기 영업이익 20% 증가…\"단체급식 호조\"",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52cjM0b1VWN1piVGhEREFaOUI3am8wdi1SOXgtZHdGVnpta3BYMXlOOWlVbGJGRnB5S3VVUkJvV3h3VWVrM0VUYmtfTE03T3g2?oc=5",
           "desc": "",
-          "title_en": "'From Research to Commercialization': The Korea Food Research Institute and the National Institute of Agricultural Sciences Join Forces to Foster Food Tech",
-          "title_ja": "「研究から事業化まで」食品振興院・農研機構、フードテックの育成で協力",
-          "title_zh": "“从研究到商业化”食品振兴院与农技振兴院携手培育食品科技"
+          "title_en": "Hyundai Green Food's operating profit increases by 20% in the third quarter… \"Strong performance in institutional catering\"",
+          "title_ja": "現代グリーンフード、第3四半期の営業利益が20%増加…「団体給食が好調」",
+          "title_zh": "现代格林食品第三季度营业利润增长20%……“团体膳食业务表现良好”"
         }
       ]
     },
@@ -192,14 +217,6 @@
       "label": "리얼푸드",
       "site": "https://www.realfoods.co.kr",
       "items": [
-        {
-          "title": "유산균 5종에 100억 CFU…대상웰라이프 ‘것시스 면역 앤 비피더스 유산균’",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1od3dpWE9WeXhCdWh5bHVLcW4xMjJPQ3F5dXZTSlNZZzVZSWNXc0x2WEVlN0ZmY0o1VDA3MWU1OFFwdDBoOUdsOVRKOXZhUjNTMlY4VFlKVQ?oc=5",
-          "desc": "",
-          "title_en": "10 billion CFUs of 5 types of probiotics… Daesang Well-Life's \"Gutsis Immune & Bifidus Probiotics\"",
-          "title_ja": "5種類の乳酸菌に100億CFU…大象ウェルライフの「ゲットシス・イミューン＆ビフィダス乳酸菌」",
-          "title_zh": "5种益生菌，100亿CFU……Daesang Well-Life“Gutsis Immune & Bifidus益生菌”"
-        },
         {
           "title": "선진, 3년 연속 ESG 통합 A등급…사회 부문 A+",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kMmNjODhCWUtMN0U0TFp1cVlXSUFUZHFtRng4UHI0eXFoaGxPTktyMGl4VEYzQl9BWFJuU0VibUdfYVQ5MWJjcXlMYmIwamJ1MkNrQ1BWUQ?oc=5",
@@ -212,9 +229,17 @@
           "title": "“우리의 발효과학, 모두의 김치”…세계김치연구소, ‘위킴 페스티벌’ 연다",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ucThJZFREOVNZNjZPeW5RbDM0SF95Znh5Zk1EMlowS2V3OXZPWTNqNmNVS0pxdnhnbTNsWS1yMlBIeWJnWjV6T1Y4YWRUd2w1S1pwNGVMWQ?oc=5",
           "desc": "",
-          "title_en": "\"Our Fermentation Science, Everyone's Kimchi\"... World Institute of Kimchi Holds \"WIKIM Festival\"",
+          "title_en": "\"Our Fermentation Science, Everyone's Kimchi\"... World Institute of Kimchi Holds 'WIKIM Festival'",
           "title_ja": "「私たちの発酵科学、みんなのキムチ」…世界キムチ研究所が「ウィキムフェスティバル」を開催",
           "title_zh": "“我们的发酵科学，大家的泡菜”……世界泡菜研究所举办“泡菜节”"
+        },
+        {
+          "title": "다가오는 김장철, 젓갈 냄새 싫다면? ‘청각’ 넣으세요",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLYUR1UTMtV3p1RmNpRFpVbG9wMG51ZVdfdW1xYmpGN09nY3ZQLWxYSVU1d3JodU9Wek1pSEZoZlUyMEVzX0JMWFZZaHVHODZFSlFSQ2Nydw?oc=5",
+          "desc": "",
+          "title_en": "What if you don't like the smell of salted seafood during the upcoming kimchi-making season? Add ‘Chunggak’ (young radish).",
+          "title_ja": "もうすぐやってくるキムジャン（キムチ漬け）の季節、塩辛の匂いが嫌いなら？「チョンガク（大根の塩漬け）」を入れてみてください。",
+          "title_zh": "如果不想在即将到来的腌泡菜的季节闻到腌咸鱼的味道，那就放点“青柿子”吧。"
         }
       ]
     }
