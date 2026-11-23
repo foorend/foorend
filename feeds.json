@@ -1,18 +1,10 @@
 {
-  "lastUpdated": "2026-11-23T01:25:15Z",
+  "lastUpdated": "2026-11-23T11:53:52Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
-        {
-          "title": "As Clare Reichenbach prepares to exit the James Beard Foundation, a look back on her tenure",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU21zTzVsaXJBN0J0UTRENWZldUwxdngtTFZrcEtrZFI1TkE4MFcwVG1lWUtxSXRJNUdMWTB1NWtPaElwbnVkcTFKNHkxSFh1eHZVRFFhVEFSSDlJYVBQaUpNdW5sQ0FsWHVCUWxEbkhMcnhQc2JwaG5iZnQ4RkM1LWM5RWl0bXV6aWh1ZHlUbm41Y3N3enZtREQ5ZEdMX2xfelRIbWVWZG9YWFlxLUwtdEJiX2lwdEJxY2ZBN0gxUXo?oc=5",
-          "desc": "",
-          "title_ko": "클레어 라이헨바흐(Clare Reichenbach)가 제임스 비어드 재단(James Beard Foundation)을 떠날 준비를 하는 가운데, 그녀의 재임 기간을 되돌아봅니다.",
-          "title_ja": "クレア・ライヒェンバッハ氏がジェームズ・ビアード財団を離れるにあたり、彼女の在任期間を振り返ります",
-          "title_zh": "值此Clare Reichenbach即将卸任詹姆斯·比尔德基金会之际，让我们回顾一下她的任期"
-        },
         {
           "title": "Restaurant Business Magazine - Trends, Ideas and News",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
@@ -26,8 +18,16 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
           "title_ko": "연구 결과에 따르면 전국 중식당의 절반이 문을 닫은 것으로 나타났습니다.",
-          "title_ja": "調査によると、国内の中華料理店の半数が閉店していることが判明",
+          "title_ja": "調査によると、全国の中華料理店の半数が閉店していることが判明",
           "title_zh": "研究发现，全国一半的中餐厅已经关门"
+        },
+        {
+          "title": "DoorDash changes how it calculates fees for consumers",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
+          "desc": "",
+          "title_ko": "DoorDash, 소비자에게 부과하는 수수료 산정 방식 변경",
+          "title_ja": "DoorDash が注文者に対する手数料の計算方法を変更",
+          "title_zh": "DoorDash 更改了向消费者收取费用的计算方式"
         }
       ]
     },
@@ -48,7 +48,7 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
           "desc": "",
           "title_ko": "인기 있는 푸드 어드벤트 캘린더가 매진 임박 — 매진되기 전에 구매하세요",
-          "title_ja": "大人気のフードアドベントカレンダーが売り切れ寸前です。なくなる前にぜひお買い求めください。",
+          "title_ja": "大人気のフードアドベントカレンダーが売り切れ寸前です。なくなる前に手に入れましょう。",
           "title_zh": "我们最喜爱的美食倒数日历即将售罄——赶快下单，以免错过！"
         },
         {
@@ -66,11 +66,19 @@
       "site": "https://www.businessinsider.com/food",
       "items": [
         {
+          "title": "Food",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOThqSVE0U3ZWZUVhQWJvTEhPS2xwR1o2Z29HelJ0LURLakEzbVkwZjg0MS1uMlBHU19Ib3VEZWdobGRTajk0ZXRUalE?oc=5",
+          "desc": "",
+          "title_ko": "식료품비",
+          "title_ja": "食料",
+          "title_zh": "食物"
+        },
+        {
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
           "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
-          "title_ja": "プライベートシェフとパーティーの主催者を結びつけるスタートアップ企業、Kitchensurfingの料理にインスピレーションを得たオフィスの中",
+          "title_ja": "プライベートシェフとパーティーの主催者を結びつけるスタートアップ、Kitchensurfingの料理にインスパイアされたオフィスの中",
           "title_zh": "走进Kitchensurfing烹饪主题办公室，这家初创公司将私人厨师与派对主办人联系起来"
         },
         {
@@ -79,15 +87,7 @@
           "desc": "",
           "title_ko": "식량 보호주의: 안보를 위해 수출을 제한하고 인플레이션을 통제하는 국가들",
           "title_ja": "食料保護主義：各国が安全保障やインフレ抑制のために輸出を制限",
-          "title_zh": "粮食保护主义：各国出于安全考虑限制出口，以控制通胀"
-        },
-        {
-          "title": "Check out the exclusive pitch deck food waste startup Mill used to raise $100 million from Google Ventures and others",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3pBcDV0OU9uRnJfSXZfMkYxTms3a2UtZ0swOU82YXpvQ3ZMTnJlS0dzNVJyakwtenBSWXhIT2RyVFBXTzNIbFdEM3dWeW92X3EyT3FGTUVxc3ptbGJRTDdPRkxoNU5ubng5ZlhXQTRBNmNnQWVXTm4wSlRSdGhwYjg0QnNTN2t6d2NmQWFhWnRuUmRjV0N2cHBXSXkxNkk?oc=5",
-          "desc": "",
-          "title_ko": "식품 폐기물 스타트업 Mill이 Google Ventures 등으로부터 1억 달러를 조달하는 데 사용한 독점 피치 데크를 확인해 보세요.",
-          "title_ja": "食品廃棄物処理スタートアップのMillが、Google Venturesなどから1億ドルを調達するために使用した独占的なピッチデッキをご覧ください。",
-          "title_zh": "查看食品废弃物初创公司Mill用于从Google Ventures等处筹集1亿美元的独家路演演示文稿"
+          "title_zh": "粮食保护主义：各国为保障粮食安全、控制通胀而限制出口"
         }
       ]
     },
@@ -100,14 +100,14 @@
           "link": "https://www.eater.com/holidays/1002103/what-to-buy-on-thanksgiving-according-to-chefs",
           "desc": "This story was previously published as part of that series. Subscribe to Eater Today to see more of our editors’ boldest opinions about dining culture",
           "title_ko": "8명의 멋진 푸드 전문가들이 추수감사절에 아웃소싱하는 것",
-          "title_ja": "8人の食のプロが感謝祭に外注するものとは？",
+          "title_ja": "8人の食のプロが感謝祭に外注するもの",
           "title_zh": "8位美食达人感恩节外包的菜品"
         },
         {
           "title": "Celebrating the Eater Awards Winners With a Party in NYC",
           "link": "https://www.eater.com/press-room/1001214/eater-awards-2026",
           "desc": "What a night. On Sunday, November 15, the winners of the 2026 Eater Awards, presented by Capital One, celebrated together at Nine Orchard in NYC. More",
-          "title_ko": "뉴욕시에서 파티를 열어 Uber Eats 고객 어워드 수상자를 축하합니다",
+          "title_ko": "뉴욕시에서 열린 파티로 Uber Eats 고객 어워드 수상자 축하",
           "title_ja": "ニューヨーク市でパーティーを開催し、Eater Awards の受賞者を祝福",
           "title_zh": "在纽约举办派对，庆祝 Eater 大奖获奖者"
         },
@@ -117,7 +117,7 @@
           "desc": "A good host is always thinking of others, whether it’s by making guests feel welcome, accommodating everyone’s diets, or setting an Instagram-worthy t",
           "title_ko": "연말 파티 호스트가 정말로 원할 만한 최고의 작은 선물",
           "title_ja": "ホリデーパーティーのホストが本当に喜ぶ最高のプチギフト",
-          "title_zh": "派对主人真正想要的超赞小礼物"
+          "title_zh": "节日派对主人真正想要的最佳小礼物"
         }
       ]
     }
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "한국산 '이 과일' 미국서 난리 났다…수출 177% 폭증",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tXzViYXQ0RjNqV2tlYmFYQUJobEk4MW5aLUp4TlVHUWRhZkRTX0dwdVZxRmlXTHB0ei1pWjU0M2hqSDF5RGJUcTY1R29vVktYSGV3OVpHc0wwUQ?oc=5",
+          "desc": "",
+          "title_en": "This Korean fruit is causing a sensation in the U.S… Exports have surged by 177%.",
+          "title_ja": "韓国産の「この果物」がアメリカで大人気…輸出が177%急増",
+          "title_zh": "韩国产的“这种水果”在美国掀起热潮……出口量激增177%"
+        },
+        {
           "title": "\"한국선 술안주인데\"…美서 '슈퍼푸드'로 뜨더니 1조원 '잭팟'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aQ0FTQlE1aGxJYzRoQUY2MjNhaHA4OV9oZWpMUHhOeVFOLTJFMXQ2aHNQOXJnY2FwTHhIZ0FJREotT0Joa1lVNm9KY3lsRHJJbkd0cUFIUXBwdw?oc=5",
           "desc": "",
           "title_en": "\"In Korea, it's a side dish for alcohol\"... It became popular as a 'superfood' in the U.S. and hit a 1 trillion KRW 'jackpot'.",
           "title_ja": "「韓国ではおつまみなのに」…米国で「スーパーフード」として人気になり、1兆ウォンの「大当たり」",
-          "title_zh": "“在韩国是下酒菜”……在美国成为“超级食物”后，一夜之间爆赚 1 万亿韩元"
+          "title_zh": "“在韩国是下酒菜”……在美国成为“超级食品”后，一举斩获 1 万亿韩元的“大奖”"
         },
         {
-          "title": "K푸드 무기로 캄보디아 진출…GS25 영토 확장",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5haS1iQkEwc19KTE5JX29fSjdUTTZtYVEzZ0gwcVBaMURWVm1WRjlWaVJyY1ZndFJhejVHQTFsQ0JsM3hvUE04RUpaV01tZm5kRVJXQTBnUVFQUQ?oc=5",
+          "title": "솜땀에서 남프릭까지, 아무나 모르는 태국의 맛을 탐험하다 [신예희의 나홀로 한입여행]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yVkQ4TnJ4WGtES0R5a0pmZnZtMERFMDE1TUZ1MU1fUEJHQUdVQ3dSd2s4UGFhUEdUX2NZOTd1a0FVZ3lyZEZjV2FnN1ZPSjlBT256VzJ0bVlQdw?oc=5",
           "desc": "",
-          "title_en": "Expanding into Cambodia with K-Food as a weapon… GS25 expands its territory",
-          "title_ja": "Kフードを武器にカンボジア進出…GS25の領土拡大",
-          "title_zh": "以韩式美食为武器进军柬埔寨……GS25 扩张领土"
-        },
-        {
-          "title": "BTS가 먹은 음식은 어떻게 '관광상품'이 되는가? [홍재화의 매트릭스로 보는 세상]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzdmJlTG1JMWFPZ3lzOEJfbjljQk1aRVNKem54czZKLTkzeG04b0pOUGMyc3RZZzVmX1NIR2ZrdFZSWlNRdDhrVlY5NEQ4SzdOVS10bm96RzZJdw?oc=5",
-          "desc": "",
-          "title_en": "How do the foods eaten by BTS become 'tourist attractions'? [The World Through Hong Jae-hwa's Matrix]",
-          "title_ja": "BTSが食べた食べ物は、どうやって「観光商品」になるのか？[ホン・ジェファの「マトリックス」で見る世界]",
-          "title_zh": "BTS吃过的食物是如何成为“旅游产品”的？[通过洪在和的矩阵看待世界]"
+          "title_en": "From Som Tum to Nam Prik: Exploring the lesser-known flavors of Thailand [Shin Ye-hee's Solo Food Tour]",
+          "title_ja": "ソムタムからナムプリックまで、誰も知らないタイの味を探索する［シン・イェヒのひとり旅］",
+          "title_zh": "从青木瓜沙拉到南普里克，探索鲜为人知的泰国味道【申艺熙的独行美食之旅】"
         }
       ]
     },
@@ -162,24 +162,24 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OQWplalMzQVBrOGgybGtIcWlLNWFnZk1weWFOdzl6ZGFYZVlSQU1SbnRrWVRCSFNubGp3X05kTFRSd1RQeURFZ1hua0x4UHFKMHfSAVNBVV95cUxNaEZ5M0plNzg3QXZyX1hpZTc1R1JOWF85NDlVTFRiblNEWk9xOEZxODJHZWF4ZDdWc21tX21IUmJUR1c3T0ljS24xSUpnd3FhNlA3TQ?oc=5",
           "desc": "",
           "title_en": "\"Gochujang\" on McDonald's and KFC menus… Fast food also gets a taste of Korean seasoning [Smart Consumer]",
-          "title_ja": "マクドナルドやKFCのメニューに「コチュジャン」…ファーストフードにも韓国の調味料が使われる [똑똑! スマシューマー]",
-          "title_zh": "麦当劳、肯德基菜单上出现“辣椒酱”……快餐也开始使用韩式调味料 [叮咚！智能消费者]"
+          "title_ja": "マクドナルドやKFCのメニューに「コチュジャン」…ファーストフードにもKソースが登場 [トントン！スマート消費者]",
+          "title_zh": "麦当劳、肯德基菜单上出现“辣椒酱”……快餐也开始使用韩式调味料 [聪明！智慧消费者]"
+        },
+        {
+          "title": "몸에 좋대서 아침마다 먹는데 “위장 다 망가져”…의사들 강력 경고한 ‘음식들’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJOXg4SlhGdENCbGNOYWZ4WW9WaTRDOUdnUkZKZlZZbFhPNmh4OURpeXJpd3QtTVlEaG4zcjJzdUVSUWp4Z19SZkNJUGtyTDFGY3fSAVNBVV95cUxNZWdQMWZaNmRMb3lYdVhSWnpTZHc5Ym9rQTM4amRzVWdtM3VNY3M3Y2pxTDk4R0RocmtselZDUk9RMmQ5bjNwS2I5bWx1Nmc1dXo1WQ?oc=5",
+          "desc": "",
+          "title_en": "I eat it every morning because it's supposed to be good for you, but \"my stomach is completely ruined\"... \"Foods\" that doctors strongly warn against [Healthy Time]",
+          "title_ja": "体に良いからと毎日朝食に食べていたら「胃腸がボロボロに」…医師たちが強く警告する「食品」［ヘルシータイム］",
+          "title_zh": "每天早上都吃，因为据说对身体有好处，但“胃都坏掉了”……医生强烈警告的“食物”[健康时刻]"
         },
         {
           "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aR2VNc2FBSWY5OUR2bTVVMWFwSXhkUllNTXpoRjBybzVRem1LU3BJdzQ5VXRjWlk1R21aY0gwRlNmNlBGXzM0UHpNOVREVWxjTEHSAVNBVV95cUxQZFJHNkpUNlVVWWlIRWlVOGtxNjBVQVVUVG5ld0Vhdzd6WEJtSXIxeXBmNVdZaklSN2ZFYnBsVE1rRjM2cjFuN3JoTVIxOUxkSE1GZw?oc=5",
           "desc": "",
-          "title_en": "Baemin separates food and delivery ratings… Store ratings only reflect food ratings",
+          "title_en": "Baemin separates food and delivery ratings… Only food ratings are reflected in store ratings",
           "title_ja": "Baemin、料理・配達の評価を分離…店舗の評価には料理の評価のみを反映",
-          "title_zh": "Baemin 将餐点与配送评分分开……商店评分仅反映餐点评分"
-        },
-        {
-          "title": "간편하고 맛있어 매일 먹는데 “라면보다 안 좋다?”…의사가 콕 찍은 ‘이 음식’ [헬시타임]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYng5aE43QlhmQ2RMVzRuT1pSeFJ5a2JqM25sT21TZVdwS2V3Y0lQVGpWbVo5RXRfeERabFNacmdPcU5CT2I3M1NBcjRmUGJ0b0HSAVNBVV95cUxPWlpqaEcxWkFVTURsVWdhVU9ocWk5akV4U1BTX1RnU3lmWXhGdC10bkc3RkU1R1pkb18wYUhZcVRvb0hmZjZ2UDFvVklJZG43TEdFQQ?oc=5",
-          "desc": "",
-          "title_en": "It's easy to make and delicious, so I eat it every day. \"It's not as good as ramen?\"…‘This food’ that doctors have singled out [Healthy Time]",
-          "title_ja": "手軽でおいしくて毎日食べているのに、「ラーメンより体に悪い？」…医師が名指しで挙げた「この食べ物」［ヘルシータイム］",
-          "title_zh": "方便又好吃，我每天都吃，“比拉面还差？”……医生点名的“这种食物” [健康时刻]"
+          "title_zh": "Baemin 将餐点与配送评分分开……商店评分仅反映餐点评价"
         }
       ]
     },
@@ -196,20 +196,20 @@
           "title_zh": "贸易总部负责人走访牡蛎出口企业和草莓种植户，商讨K-Food出口支持事宜"
         },
         {
+          "title": "“이젠 피자 안 시켜 먹어요”…비만치료제 열풍에 배달 경쟁까지",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6SXNuc0w0QTNPZTBpc050MXMwdHRtWGRlN2ZRdWtJX0JieWxFUktmQndtVlVxS0NteEQzOHk3VXpzUGFhV1lPQVlBNnVmYkVpSVE?oc=5",
+          "desc": "",
+          "title_en": "“I don't order pizza anymore”… The obesity drug craze is even affecting the food delivery business",
+          "title_ja": "「もうピザは頼まない」…肥満治療薬ブームでデリバリー競争まで",
+          "title_zh": "“我再也不点披萨了”……减肥药热潮引发外卖竞争"
+        },
+        {
           "title": "CIA 첫 한식과정 만든 양종집 교수 “한식 세계화 전초기지로”",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91RE5NMXN4MWJLaGdKbVVKbWVMVWg1RmtITzBiei1lNmVYZzF6dlA3LU0zUUt2b1ZYQk5MeFdVdmtYaVV1TFpWQnBmSnJlbFFrU0E?oc=5",
           "desc": "",
           "title_en": "Professor Yang Jong-jip, who created the first Korean food course at the CIA, said, \"It will serve as a base for the globalization of Korean food.\"",
           "title_ja": "CIAで初めての韓国料理コースを作ったヤン・ジョンジプ教授「韓国料理のグローバル化の拠点に」",
           "title_zh": "开创CIA首个韩餐课程的梁钟集教授：“成为韩餐走向世界的桥头堡”"
-        },
-        {
-          "title": "“음식에는 계급이 없다” 미슐랭과 길거리 음식 한자리에 모인 축제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xX0l2WGlMV0ZjTXFsTGxRQXJMelBfOVJET0hidG9fZ0RoNnlBLV81SnB3bVFuMXJXMlQ0WThtNTVGai04d3FKdlJjeHhzSmI2Sm9Mbw?oc=5",
-          "desc": "",
-          "title_en": "\"There are no classes in food\": A festival where Michelin-starred restaurants and street food come together",
-          "title_ja": "「食べ物には格がない」ミシュランとストリートフードが一堂に会するお祭り",
-          "title_zh": "“美食无等级”米其林与街头美食同台亮相的盛宴"
         }
       ]
     },
@@ -221,7 +221,7 @@
           "title": "유럽 푸드테크, 대체식품 넘어 원료·공정 개선으로",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BdXV1Y0RPbkVZMHVKcWNKVVlpb2ZPUC1GUENHUl9tV2J1U0ZLVGRHa1N3ek53aXdtd1E2X3Q0NkgtVThZOFU5MGRFcUg3SURQYmtlaGRtNA?oc=5",
           "desc": "",
-          "title_en": "European food tech: Beyond alternative foods to improvements in ingredients and processes",
+          "title_en": "European Food Tech: Beyond Alternative Foods to Improving Ingredients and Processes",
           "title_ja": "ヨーロッパのフードテック、代替食品を超えて原料・工程の改善へ",
           "title_zh": "欧洲的食品科技：超越替代食品，着眼于原料和工艺的改进"
         },
@@ -238,8 +238,8 @@
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Eejl6ZFVQaUZacWpWQ0hiTHV4ejM2QjRZQm1Cd24yTnRBVXdtNHg4LV90WnFWZzlCQVF1LWhmclNnV2p2b3V5Tngta0JCYldSM0xCTjU1RQ?oc=5",
           "desc": "",
           "title_en": "A week's worth of meals all at once… Bulk cooking is spreading in Australia",
-          "title_ja": "1週間分の食事を一度に…オーストラリアで広がる大量調理",
-          "title_zh": "一次性准备一周的饭菜……批量烹饪在澳大利亚盛行"
+          "title_ja": "1週間の食事を一度に…オーストラリアで広がる大量調理",
+          "title_zh": "一次性准备一周的饭菜……在澳大利亚盛行的批量烹饪"
         }
       ]
     }
