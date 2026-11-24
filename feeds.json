@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-11-23T23:28:31Z",
+  "lastUpdated": "2026-11-24T08:44:32Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
         {
-          "title": "Restaurant Business Magazine - Trends, Ideas and News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRDVTSUZUd1hFcEpYN0pILVdUSzVqUUVDLWRjMlBYMk9GbXNkQldXTWZ0UXFwNjF1blBqTFozVThMdkdjVnRXdUNrVmQwdw?oc=5",
-          "desc": "",
-          "title_ko": "레스토랑 비즈니스 매거진 - 트렌드, 아이디어 및 뉴스",
-          "title_ja": "レストランビジネスマガジン - トレンド、アイデア、ニュース",
-          "title_zh": "《餐饮业杂志》——趋势、创意和新闻"
-        },
-        {
           "title": "Half the nation’s Chinese restaurants have closed, study finds",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
           "desc": "",
-          "title_ko": "연구 결과에 따르면, 미국 내 중국 음식점의 절반이 문을 닫은 것으로 나타났습니다.",
+          "title_ko": "연구 결과에 따르면 전국 중식당의 절반이 문을 닫은 것으로 나타났습니다.",
           "title_ja": "調査によると、全米の中華料理店の半数が閉店していることが判明",
-          "title_zh": "研究发现，全国一半的中餐厅已经关门"
+          "title_zh": "研究发现，全国一半的中餐厅已关门"
         },
         {
-          "title": "DoorDash changes how it calculates fees for consumers",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
+          "title": "Franchisees are behind some iconic menu items",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGtHZFIwR29LV05ySlVERWtkYVRpOXRLVTdPOS1qTVd5VnFnTjNLaXozVWZJMk1VT0t5RFA2ZmNvTExUT3lCTC1LZXVFSUhFYWhaZHB4T281Z0tlSDRTZWFSUEhCV2NXelR3N2JWdGQtblk4Q0FCbkdycmFyZnptX3o2cFk5QnBqS3piNkZDSVdRV014T0M4?oc=5",
           "desc": "",
-          "title_ko": "DoorDash, 고객 수수료 산정 방식 변경",
-          "title_ja": "DoorDash が注文者への手数料の計算方法を変更",
-          "title_zh": "DoorDash 更改了向消费者收取费用的计算方式"
+          "title_ko": "프랜차이즈 가맹점은 일부 상징적인 메뉴 아이템을 선보이고 있습니다.",
+          "title_ja": "フランチャイズ加盟店が考案した象徴的なメニュー商品もあります",
+          "title_zh": "一些标志性菜单餐点由加盟商提供"
+        },
+        {
+          "title": "All of a sudden, QR codes are everywhere",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUg2YVZ3WGwyWF9OcG9PWDJFbkdidllreEplaVZDUVh6WDc2VzRMQk5RdkpEYk1hQU1EV19aRVhaUkNwNnpYOHVXRDVfQnhtRGpiLXZFU3g4WXB0bm1RMGppaWRrbGxiSlpTNm5RVTlDVTJIRUUwdU9HUWNJUno5R3ExMFBLTk9mTHc?oc=5",
+          "desc": "",
+          "title_ko": "갑자기 QR 코드가 어디에나 등장하기 시작했습니다.",
+          "title_ja": "突然、QRコードがどこにでも登場するようになりました",
+          "title_zh": "突然之间，二维码无处不在"
         }
       ]
     },
@@ -44,20 +44,20 @@
           "title_zh": "诉讼称墨西哥啤酒Tecate实际上是在荷兰酿造的"
         },
         {
-          "title": "'McBroken' Website Tells McFlurry Fans the Status of Every McDonald's Ice Cream Machine in Real Time",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOENiSW9IR2xIaG9BNkhpYnhEWTNmNVQ1VEhkXzh4a2Z3bWZ5a1UwSDY1Q1RUU0pPZUV2WDZBazJHSUNnTVNuWE02VlZLYVY0RTNGWVpmVl9PWjVrYUpNLXBrM0JMMWlrblZVanlYWEhzdFBycVp6Sml4R2NrTTd0MTJtejNZZw?oc=5",
-          "desc": "",
-          "title_ko": "'McBroken' 웹사이트가 맥플러리 팬들에게 모든 맥도날드 아이스크림 기계의 상태를 실시간으로 알려줍니다.",
-          "title_ja": "「McBroken」ウェブサイトが、マックフルーリーのファンにすべてのマクドナルドのソフトクリームマシンの稼働状況をリアルタイムで伝える",
-          "title_zh": "“McBroken”网站实时向麦旋风爱好者告知每家麦当劳冰淇淋机的状态"
-        },
-        {
           "title": "Our Favorite Food Advent Calendars Are Selling Out — Grab Yours Before They’re Gone",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
           "desc": "",
           "title_ko": "인기 있는 푸드 어드벤트 캘린더가 매진 임박 — 매진되기 전에 구매하세요",
-          "title_ja": "大人気のフードアドベントカレンダーが売り切れ間近です。なくなる前に手に入れましょう。",
+          "title_ja": "大人気のフードアドベントカレンダーが売り切れ寸前です。なくなる前にぜひお買い求めください。",
           "title_zh": "我们最喜爱的美食倒数日历即将售罄——赶快下单，以免错过！"
+        },
+        {
+          "title": "Anthony Bourdain and Eric Ripert Launch New Chocolate Bar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
+          "desc": "",
+          "title_ko": "앤서니 보데인과 에릭 리퍼트, 새로운 초콜릿 바 출시",
+          "title_ja": "アンソニー・ボーディンとエリック・リパートが新しいチョコレートバーを発売",
+          "title_zh": "安东尼·波登和埃里克·里佩尔推出新款巧克力棒"
         }
       ]
     },
@@ -77,8 +77,8 @@
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업인 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
-          "title_ja": "プライベートシェフとパーティーの主催者を結びつけるスタートアップ、Kitchensurfingの料理にインスピレーションを得たオフィスの中",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
+          "title_ja": "プライベートシェフとパーティー主催者をつなぐスタートアップ、Kitchensurfingの料理にインスピレーションを得たオフィスの中",
           "title_zh": "走进Kitchensurfing烹饪主题办公室，这家初创公司将私人厨师与派对主办人联系起来"
         },
         {
@@ -99,15 +99,15 @@
           "title": "What 8 Cool Food People Outsource for Thanksgiving",
           "link": "https://www.eater.com/holidays/1002103/what-to-buy-on-thanksgiving-according-to-chefs",
           "desc": "This story was previously published as part of that series. Subscribe to Eater Today to see more of our editors’ boldest opinions about dining culture",
-          "title_ko": "8명의 멋진 요리 전문가들이 추수감사절에 아웃소싱하는 것",
-          "title_ja": "8人の食のプロが感謝祭に外注するものとは？",
+          "title_ko": "8명의 멋진 푸드 전문가들이 추수감사절에 아웃소싱하는 것",
+          "title_ja": "8人の食のプロが感謝祭に外注するもの",
           "title_zh": "8位美食达人感恩节外包的菜品"
         },
         {
           "title": "Celebrating the Eater Awards Winners With a Party in NYC",
           "link": "https://www.eater.com/press-room/1001214/eater-awards-2026",
           "desc": "What a night. On Sunday, November 15, the winners of the 2026 Eater Awards, presented by Capital One, celebrated together at Nine Orchard in NYC. More",
-          "title_ko": "뉴욕시에서 열린 파티로 Uber Eats 고객 어워드 수상자 축하",
+          "title_ko": "뉴욕시에서 열린 파티로 Uber Eats 고객 어워드 수상자 축하하기",
           "title_ja": "ニューヨーク市でパーティーを開催し、Eater Awards の受賞者を祝福",
           "title_zh": "在纽约举办派对，庆祝 Eater 大奖获奖者"
         },
@@ -116,7 +116,7 @@
           "link": "https://www.eater.com/23955316/host-gifts-holiday-thanksgiving-design-home-decor",
           "desc": "A good host is always thinking of others, whether it’s by making guests feel welcome, accommodating everyone’s diets, or setting an Instagram-worthy t",
           "title_ko": "연말 파티 호스트가 정말로 원할 만한 최고의 작은 선물",
-          "title_ja": "ホリデーシーズンのパーティーホストが本当に喜ぶ最高のプチギフト",
+          "title_ja": "ホリデーパーティーのホストが本当に喜ぶ最高のプチギフト",
           "title_zh": "派对主人真正想要的超赞小礼物"
         }
       ]
@@ -136,20 +136,20 @@
           "title_zh": "韩国产的“这种水果”在美国掀起热潮……出口量激增177%"
         },
         {
+          "title": "영국 할머니도 반했다…유럽서 인기 폭발한 한식 정체",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ia2FNTmdzQUVVd3JCSnpRa09OcENfVVBSMWl3VTdRMHVYZmJqVDZCQUpqb3JCWVgtYnFHWFBTM2hVekNPdE5zNTRLVGpXOFRqSVhRa0daMHVxUQ?oc=5",
+          "desc": "",
+          "title_en": "Even British grandmothers fell in love… The identity of Korean food that has exploded in popularity in Europe",
+          "title_ja": "イギリスのおばあちゃんも夢中になった…ヨーロッパで人気爆発中の韓国料理の正体",
+          "title_zh": "英国奶奶也为之倾倒……在欧洲爆火的韩餐魅力"
+        },
+        {
           "title": "\"한국선 술안주인데\"…美서 '슈퍼푸드'로 뜨더니 1조원 '잭팟'",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aQ0FTQlE1aGxJYzRoQUY2MjNhaHA4OV9oZWpMUHhOeVFOLTJFMXQ2aHNQOXJnY2FwTHhIZ0FJREotT0Joa1lVNm9KY3lsRHJJbkd0cUFIUXBwdw?oc=5",
           "desc": "",
-          "title_en": "\"In Korea, it's a side dish for alcohol\"... It became a 'superfood' in the U.S. and hit a 1 trillion KRW 'jackpot'",
-          "title_ja": "「韓国ではおつまみなのに」…米国で「スーパーフード」として人気となり、1兆ウォンの「大当たり」",
-          "title_zh": "“在韩国是下酒菜”……在美国成为“超级食物”后，一夜之间爆火，赚取了 1 万亿韩元的“大奖”。"
-        },
-        {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 24일 띠별 추천 점심메뉴",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5namhpT3NPei1nMXlicVNIOHI2TUVaSEdXS0xRQXV0SF9aUHl5bXNiZDdZNnBUcVNpU2sxMlhzclB6c3dackw0WnY0blNhaG9vZV93aHNwb0NfQQ?oc=5",
-          "desc": "",
-          "title_en": "[Today's Horoscope] What should I eat today?…Recommended lunch menus for each zodiac sign on November 24th",
-          "title_ja": "【今日の運勢】今日は何を食べる？…11月24日、干支別のオススメランチメニュー",
-          "title_zh": "【今日运势】今天吃什么？……11月24日按生肖推荐的午餐菜单"
+          "title_en": "\"In Korea, it's a side dish for alcohol\"... It became a \"superfood\" in the U.S. and hit a 1 trillion KRW \"jackpot.\"",
+          "title_ja": "「韓国ではおつまみなのに」…米国で「スーパーフード」として人気になり、1兆ウォンの「大当たり」",
+          "title_zh": "“在韩国是下酒菜”……在美国成为“超级食物”后，一夜暴富赚取 1 万亿韩元"
         }
       ]
     },
@@ -162,24 +162,24 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OQWplalMzQVBrOGgybGtIcWlLNWFnZk1weWFOdzl6ZGFYZVlSQU1SbnRrWVRCSFNubGp3X05kTFRSd1RQeURFZ1hua0x4UHFKMHfSAVNBVV95cUxNaEZ5M0plNzg3QXZyX1hpZTc1R1JOWF85NDlVTFRiblNEWk9xOEZxODJHZWF4ZDdWc21tX21IUmJUR1c3T0ljS24xSUpnd3FhNlA3TQ?oc=5",
           "desc": "",
           "title_en": "\"Gochujang\" on McDonald's and KFC menus… Fast food also gets a taste of Korean seasoning [Smart Consumer]",
-          "title_ja": "マクドナルドやKFCのメニューに「コチュジャン」…ファーストフードにも韓国の調味料が使われる [똑똑! スマシューマー]",
-          "title_zh": "麦当劳、肯德基菜单上出现“辣椒酱”……快餐也开始使用韩式调味料 [叮咚！智能消费者]"
+          "title_ja": "マクドナルドやKFCのメニューに「コチュジャン」…ファストフードにも韓国の調味料が使われる [スマートな消費者「スマシューマー」]",
+          "title_zh": "麦当劳、肯德基菜单上出现“辣椒酱”……快餐也用上了韩式调料【聪明！智慧消费者】"
         },
         {
-          "title": "GS25, 캄보디아 진출…K푸드로 승부",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rOTZ5aWxDTTE1UEVGRmphd1NlM05kMm5DVWpxWEpheGpVSmpNWGNnTmV2RWpnYkFtcWJ1cEg5RFNvUms2SEprUlNya3luR3lmemfSAVNBVV95cUxOQ0xCVGJMWnVteXBqTDY0NlZDcExVTzV6YUM5cVFNVG9uUDFPbVN1SEhPU3hvbGFfZjB5R253T3FqRzZBOHhYTTEzTG5iZE9zcnAzdw?oc=5",
+          "title": "‘국빈’ 트럼프에 고급 만찬 대신 ‘이것’ 보냈더니…“와우, 판타스틱” 뜻밖의 반응",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0XzhiQVZaSHZRejdxc2pBdlJlTjNCeHhTcXpMTEYyOXQyV05JMWFMQ2pUdVlFRmoxNXJQRzRXY0pOSURxOHpoeUhQamhnR3BVemfSAVNBVV95cUxORE9XRkwtejdiTXExWk5FMUhCM2ZqRFlCUWFZVVhBNlB2XzZxVjRKNG9oMHczYXRwLUtLZThtZHpKYlZDeWlwQlY1T1dNdVJRRlJZVQ?oc=5",
           "desc": "",
-          "title_en": "GS25 enters Cambodia… Competing with K-food",
-          "title_ja": "GS25、カンボジアに進出…Kフードで勝負",
-          "title_zh": "GS25进军柬埔寨……以韩式美食取胜"
+          "title_en": "When we sent ‘this’ to ‘state guest’ Trump instead of a fancy dinner… \"Wow, fantastic!\" An unexpected reaction.",
+          "title_ja": "「国賓」トランプに高級晩餐会の代わりに「これ」を送ったら…「ワォ、ファンタスティック」という意外な反応",
+          "title_zh": "向“国宾”特朗普送上“这个”来代替高档晚宴……“哇，太棒了！”意想不到的反应"
         },
         {
-          "title": "美 명문 요리학교, K푸드 정규과목 추진...“전문인력으로 한식 세계화”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95WVdxVXJwVkVDemRscmx5aEVJS1ZxUjVybl9pOFNtX0xmRV8xLXJ4OTJKbUJDRDk0S2hocUFldncyUW81ZmxpcmxPUUUwbWtxTGpj0gFTQVVfeXFMT3lZV3FVcnBWRUN6ZGxybHloRUlLVnFSNXJuX2k4U21fTGZFXzEtcng5MkptQkNEOTRLaGhxQWV2dzJRbzVmbGlybE9RRTBta3FMamM?oc=5",
+          "title": "CJ제일제당, 연말 취약계층에 식품 2만 5000박스 후원",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDeWRhejQ2ZVJkSGVPLXcxNmVxdzlmcEl1ZUFqaVdHYTJlWTl2RTE3ZmZIeVpGY0R2Sm5rUVBBR3pKLVhJc2xWMjlRcGZadWt0ekHSAVNBVV95cUxQaDlrWnhmN1ZFdXVzU2o5dGhsWmRGcHVVT0ItTlpES2tWRjN3aTRPcF9uU3ZYeThHbWlRXzBEQS1KNTBlOWFCVzRfZlFVOW5XTEdxVQ?oc=5",
           "desc": "",
-          "title_en": "Prestigious U.S. culinary school to introduce K-food as a regular course... \"Globalizing Korean food through professional training\"",
-          "title_ja": "米国の名門料理学校、Kフードの正規科目を推進...「専門人材による韓国料理の世界化」",
-          "title_zh": "美国知名烹饪学校推动将韩餐列为正式课程……“通过培养专业人才实现韩餐的全球化”"
+          "title_en": "CJ CheilJedang donates 25,000 boxes of food to vulnerable groups at the end of the year",
+          "title_ja": "CJ第一製糖、年末に弱者層に食品2万5,000箱を寄付",
+          "title_zh": "CJ第一制糖在年底向弱势群体捐赠 2.5 万箱食品"
         }
       ]
     },
@@ -188,27 +188,27 @@
       "site": "https://www.mk.co.kr",
       "items": [
         {
-          "title": "한때 배달음식의 왕이었는데…美 피자가게 9600곳 사라졌다",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9UQzJjbUdONHI3QzVkdEZGQzhUYWZWNEplQUNUYjlNYkVVNWxjcFBOTUthcE9zOF9ReVgtZl9xZWZXS2l4Z3c?oc=5",
+          "title": "한국인들만 이렇게 맛있는 걸 먹었다니…파리서 ‘K푸드’ 위상 높인 K호텔",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05SHZVSHF4VklDdzB0WUFLdjBwUWtNWXlNcDNuSnM2d3lKRDVOdHZOdWMyeGpBM0d2cUxUSUxvSmRNMnU0ODl6bjRpWUtUWW12anBac1Fn?oc=5",
           "desc": "",
-          "title_en": "Once the king of delivery food… 9,600 pizza shops in the U.S. have disappeared.",
-          "title_ja": "かつては配達料理の王様だったのに…米国のピザ屋9600店が消えた",
-          "title_zh": "曾经是外卖之王的……美国的9600家披萨店消失了"
+          "title_en": "The fact that only Koreans have eaten something so delicious… A Korean hotel that has elevated the status of 'K-food' in Paris.",
+          "title_ja": "韓国人だけがこんなに美味しいものを食べていたなんて…。パリで「Kフード」の地位を高めたKホテル",
+          "title_zh": "只有韩国人才吃过这么好吃的……在巴黎提升“韩式美食”地位的韩式酒店"
         },
         {
-          "title": "“이젠 피자 안 시켜 먹어요”…비만치료제 열풍에 배달 경쟁까지",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6SXNuc0w0QTNPZTBpc050MXMwdHRtWGRlN2ZRdWtJX0JieWxFUktmQndtVlVxS0NteEQzOHk3VXpzUGFhV1lPQVlBNnVmYkVpSVE?oc=5",
+          "title": "비, 반전의 고칼로리 음식 취향에…유재석 “이래서 지방간” (틈만나면)",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FNE1EdlpyVFc4b0FrWl9xZ1g0VTJySTFWbl9TaTV2TWhFTXdRbWlta2xwcGl0SXhvZktybzdIZTVZMFVvdXFUdDZOeEZYMWtSeUlxbVB2bnA0bGtlUVBDSnpaS2pwdw?oc=5",
           "desc": "",
-          "title_en": "“I don't order pizza anymore”… The obesity drug craze is even affecting the food delivery business",
-          "title_ja": "「もうピザは頼まない」…肥満治療薬ブームでデリバリー競争まで",
-          "title_zh": "“我再也不点披萨了”……减肥药热潮甚至影响到外卖竞争"
+          "title_en": "Rain, with his surprising preference for high-calorie foods… Yoo Jae-suk: \"That's why you have fatty liver\" (whenever he gets the chance)",
+          "title_ja": "雨の意外な高カロリー食の好み…ユ・ジェソク「だから脂肪肝なんだ」 （隙あらば）",
+          "title_zh": "Rain、叛逆的高热量食物口味……刘在石：“这就是为什么会有脂肪肝。”（一有机会就吃）"
         },
         {
           "title": "통상본부장, 굴 수출기업·딸기 농가 찾아 K-푸드 수출지원 논의",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JVmZBUi0tMU5pdUFGWFp0R1hhajFYbExSdm1BelNSQlE4aFpWdzZJQkNiVnV3cW5idnUxcnZlRmQ2NGNnUkptZ2w3NUt3MWdRcWc?oc=5",
           "desc": "",
           "title_en": "Head of the Trade Headquarters Visits Oyster Export Companies and Strawberry Farms to Discuss Support for K-Food Exports",
-          "title_ja": "通商本部長、牡蠣の輸出企業・イチゴ農家を訪問し、K-フードの輸出支援について協議",
+          "title_ja": "通商本部長、牡蠣の輸出企業・イチゴ農家を訪問し、K-フードの輸出支援について議論",
           "title_zh": "贸易总部负责人走访牡蛎出口企业和草莓种植户，商讨K-Food出口支持事宜"
         }
       ]
@@ -221,25 +221,25 @@
           "title": "유산균 5종에 100억 CFU…대상웰라이프 ‘것시스 면역 앤 비피더스 유산균’",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1od3dpWE9WeXhCdWh5bHVLcW4xMjJPQ3F5dXZTSlNZZzVZSWNXc0x2WEVlN0ZmY0o1VDA3MWU1OFFwdDBoOUdsOVRKOXZhUjNTMlY4VFlKVQ?oc=5",
           "desc": "",
-          "title_en": "10 billion CFUs of 5 types of probiotics… Daesang Well-Life's 'Gutsys Immune & Bifidus Probiotics'",
-          "title_ja": "5種類の乳酸菌に100億CFU…大象ウェルライフの「ゴットシス免疫＆ビフィズス乳酸菌」",
-          "title_zh": "5种益生菌，100亿CFU……Daesang Well-Life“GutCis 免疫益生菌和双歧杆菌”"
+          "title_en": "10 billion CFUs of 5 types of probiotics… Daesang Well-Life's 'Gutsis Immune & Bifidus Probiotics'",
+          "title_ja": "5種類の乳酸菌に100億CFU…大象ウェルライフの「ゲットシス・イミューン＆ビフィダス乳酸菌」",
+          "title_zh": "5种益生菌，100亿CFU……大象Well-Life“Gutsis免疫与双歧杆菌益生菌”"
+        },
+        {
+          "title": "유럽 푸드테크, 대체식품 넘어 원료·공정 개선으로",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BdXV1Y0RPbkVZMHVKcWNKVVlpb2ZPUC1GUENHUl9tV2J1U0ZLVGRHa1N3ek53aXdtd1E2X3Q0NkgtVThZOFU5MGRFcUg3SURQYmtlaGRtNA?oc=5",
+          "desc": "",
+          "title_en": "European Food Tech: Beyond Alternative Foods to Improving Ingredients and Processes",
+          "title_ja": "ヨーロッパのフードテック、代替食品を超えて原料・工程の改善へ",
+          "title_zh": "欧洲的食品科技：超越替代食品，着眼于原料和工艺的改进"
         },
         {
           "title": "일주일 치 식사를 한 번에…호주서 확산하는 대량 조리",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Eejl6ZFVQaUZacWpWQ0hiTHV4ejM2QjRZQm1Cd24yTnRBVXdtNHg4LV90WnFWZzlCQVF1LWhmclNnV2p2b3V5Tngta0JCYldSM0xCTjU1RQ?oc=5",
           "desc": "",
-          "title_en": "A week's worth of meals at once… Batch cooking is spreading in Australia",
+          "title_en": "A week's worth of meals all at once… Bulk cooking is gaining popularity in Australia",
           "title_ja": "1週間分の食事を一度に…オーストラリアで広がる大量調理",
           "title_zh": "一次性准备一周的饭菜……在澳大利亚盛行的批量烹饪"
-        },
-        {
-          "title": "“바다 지키는 히어로 응원”…스타벅스, 해양경찰서 지원",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lNTNQdmhtUHNZQ0hfY0RyQmFPOHdPZXVvNlBvOVRwRlZwQlZIeGFXSndSbW9XVm5DdkV1WkJVWTRqS3gtdTZGdDRpTFhKLU53WE9nOWtGdw?oc=5",
-          "desc": "",
-          "title_en": "“Supporting the heroes who protect the sea”… Starbucks supports the Coast Guard",
-          "title_ja": "「海を守るヒーローを応援」…スターバックス、海上警察署を支援",
-          "title_zh": "“为守护海洋的英雄加油”……星巴克为海上警察署提供支持"
         }
       ]
     }
