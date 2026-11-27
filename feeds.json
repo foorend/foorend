@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-11-27T07:03:12Z",
+  "lastUpdated": "2026-11-27T18:42:30Z",
   "sources": {
     "restaurantbusiness": {
       "label": "Restaurant Business",
       "site": "https://www.restaurantbusinessonline.com/",
       "items": [
         {
-          "title": "Half the nation’s Chinese restaurants have closed, study finds",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkJZSGw2MVBVLVh4eV9PemdjMWhHRWRPY1d2c2FKekNhWTJia3Bxd1Myd0FZN3Q1VGQ5YWNfbzVRRXZaLTNDSk8tbkptTDV5SkQ3dHdTdjlwREdFWWw3UHp6c1hGUTRYaVlEalBDQnhpaWNHVm9RTGQwR0JoUEJBbGtldENjOWotV2Y2eFRZX2hLSlhzd052UlFtaTVqbHNXV3llSUk1Zw?oc=5",
+          "title": "DoorDash changes how it calculates fees for consumers",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzZWOG9hTjBVbmxKN2lQaXFZUmJVeUZubUxQRVhKNzhpTkQ2VEFUNnVsZ2lqbkt1Qk1WQkw1c0VFSVpPanhvVkQ1aGp0SFFKXzd4VUtWVlF1OGllb3R1R0ZWYU0zM2drNlZRcWo3QzRnWkRTN0J1dGFFbkdoVkRqR2R1ZEl5TWdEODllak9qcWwtMTZMU3J3Q3loNUhYZw?oc=5",
           "desc": "",
-          "title_ko": "연구 결과에 따르면, 미국 내 중국 음식점의 절반이 문을 닫은 것으로 나타났습니다.",
-          "title_ja": "調査によると、国内の中華料理店の半数が閉店していることが判明",
-          "title_zh": "研究发现，全国一半的中餐厅已经关门"
+          "title_ko": "DoorDash, 소비자에게 부과하는 수수료 산정 방식 변경",
+          "title_ja": "DoorDash が注文者への手数料の計算方法を変更",
+          "title_zh": "DoorDash 更改了向消费者收取费用的计算方式"
         },
         {
-          "title": "Yum Brands waves the white flag on Pizza Hut",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDU2WVM4WHJ0ZVhTWjdNZjJPN2V6cUUwZTQyeHcwOWxxN2ZyNUVMQTc4Z1I3QkpkQW5iLTNfTlFwSXlJaWlzX3hicWZhWWRydWpPeldqYmVlNnp5VlVPRWdrRUR0NS1wdVd6aXBnOENMb3MwMWJuQlJ4dWJZOFB4WEFRRE5xeXZzdWVCbg?oc=5",
+          "title": "A Del Taco franchisee in Georgia and Alabama files for bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTQ1NjRlUnBjV3J2Z2RDZUZJODJLaFJnS1V0ZnhVLUpZQlB2U0xRQTNZYVVuV2FZVlY5Vjkwa085NjZMS1RvbThRWnRHTEtLdDYwU3lORld1RTNuMjZGeHpIMVVCRERLRHRoTU1mQ09NY2hRUUk4Q3dVQkhWbjRqUXhFYkQwNUZMaWRrNmVycVdtM01xVEU1STU0Z0pKMVBD?oc=5",
           "desc": "",
-          "title_ko": "Yum Brands, 피자헛에서 백기 투항",
-          "title_ja": "Yum Brandsがピザハットで白旗を掲げる",
-          "title_zh": "百胜餐饮集团在必胜客上举起白旗"
+          "title_ko": "조지아주와 앨라배마주의 델타코 가맹점이 파산 신청을 했습니다.",
+          "title_ja": "ジョージア州とアラバマ州のデルタコフランチャイズ加盟店が破産申請",
+          "title_zh": "佐治亚州和阿拉巴马州的 Del Taco 加盟店申请破产"
         },
         {
-          "title": "Franchisees are behind some iconic menu items",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGtHZFIwR29LV05ySlVERWtkYVRpOXRLVTdPOS1qTVd5VnFnTjNLaXozVWZJMk1VT0t5RFA2ZmNvTExUT3lCTC1LZXVFSUhFYWhaZHB4T281Z0tlSDRTZWFSUEhCV2NXelR3N2JWdGQtblk4Q0FCbkdycmFyZnptX3o2cFk5QnBqS3piNkZDSVdRV014T0M4?oc=5",
+          "title": "About Restaurant Business",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZcFdyMFZ6YjRGUDltU0xPTVFvR2hpNUtyaEdqVlVtQ1ZrVFpyamFhaENhRnFBb2oyZDRwRG5YT0FKdUkyOHpFaHZBcVpjbUE3bDFjMXlVTWZBQkRsN2U4aTBHNjVuSmZ2cEoyZnZBZw?oc=5",
           "desc": "",
-          "title_ko": "프랜차이즈 가맹점은 일부 상징적인 메뉴 아이템을 선보이고 있습니다.",
-          "title_ja": "フランチャイズ加盟店が考案した象徴的なメニュー商品",
-          "title_zh": "一些标志性菜单餐点由加盟商提供"
+          "title_ko": "레스토랑 비즈니스 소개",
+          "title_ja": "レストラン事業について",
+          "title_zh": "关于餐饮业务"
         }
       ]
     },
@@ -48,7 +48,7 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqQlp6MFd2dUFVNWFQYW9ZWGFtR1FhSm1uc2NJSHI4b1lBRVFUT0t2b0JYaS03dDBrbkJUQnVvSnUxVkd1ckRIanViNnJZOU51R3RCVmpuWGFGNU13THI5UzdSZFViQWhRMmZnOWU4RFJGcE0?oc=5",
           "desc": "",
           "title_ko": "인기 있는 푸드 어드벤트 캘린더가 매진 임박 — 매진되기 전에 구매하세요",
-          "title_ja": "大人気のフードアドベントカレンダーが売り切れ寸前です。なくなる前にぜひお買い求めください。",
+          "title_ja": "大人気のフードアドベントカレンダーが売り切れ寸前です。なくなる前に手に入れましょう。",
           "title_zh": "我们最喜爱的美食倒数日历即将售罄——赶快下单，以免错过"
         },
         {
@@ -56,7 +56,7 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWY2Tjh2dFB0R2t0RXljTno2dFdWem10dGhxeWNlSnBkRjRLWkI4NEw2OER5Z0cxbG1MSkM5TTZlc3h5WGN5S1NGempLWUV4X1V1U2NIOF9FX2F5SmJ6ZlFvZ3ludjJZNVJ5MzZ6WWFzaEZYbHduQnFsZnN3d0RIYw?oc=5",
           "desc": "",
           "title_ko": "앤서니 보데인과 에릭 리퍼트, 새로운 초콜릿 바 출시",
-          "title_ja": "アンソニー・ボーデイン氏とエリック・リパート氏が新しいチョコレートバーを発売",
+          "title_ja": "アンソニー・ボーディンとエリック・リパートが新しいチョコレートバーを発売",
           "title_zh": "安东尼·波登和埃里克·里佩尔推出新款巧克力棒"
         }
       ]
@@ -77,8 +77,8 @@
           "title": "Inside The Cooking-Inspired Offices Of Kitchensurfing, A Startup That Connects Private Chefs And Party Hosts",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTIycGh2S1RhT0hkdl9ldWNkWU1fTGhXZEJyRzJCNjdJQUYtVWJfWkwteXJfWk1acjdjVGROT1ZmdndwSXVMcDRUanphSEQzakpVRkczczZYR21IYkpVT0M5c3ZsaEUwQ3FxOHh1c1JXM0dLbmo1UXBoV3dpclJ6N1phVVdTTm9jenhRS2dzeXRzWUZicEl3WQ?oc=5",
           "desc": "",
-          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
-          "title_ja": "プライベートシェフとパーティー主催者をつなぐスタートアップ、Kitchensurfingの料理にインスピレーションを得たオフィスの中",
+          "title_ko": "개인 셰프와 파티 호스트를 연결하는 스타트업인 Kitchensurfing의 요리에서 영감을 받은 사무실 내부",
+          "title_ja": "プライベートシェフとパーティー主催者をつなぐスタートアップ、Kitchensurfingの料理にインスパイアされたオフィスの中",
           "title_zh": "走进Kitchensurfing烹饪主题办公室，这家初创公司将私人厨师与派对主办人联系起来"
         },
         {
@@ -87,7 +87,7 @@
           "desc": "",
           "title_ko": "식량 보호주의: 안보를 위해 수출을 제한하고 인플레이션을 통제하는 국가들",
           "title_ja": "食料保護主義：各国が安全保障やインフレ抑制のために輸出を制限",
-          "title_zh": "粮食保护主义：各国出于安全考虑限制出口，以控制通胀"
+          "title_zh": "粮食保护主义：各国为保障粮食安全、控制通胀而限制出口"
         }
       ]
     },
@@ -101,7 +101,7 @@
           "desc": "Forgive the Daddy Warbucks-ness of what I’m about to say, but I think it’s important to remember that a splurge and an extravagance aren’t quite the s",
           "title_ko": "가장 멋진 음식 선물(사실은 우리가 갖고 싶은 것)",
           "title_ja": "最高の高級グルメギフト（実は自分用にも欲しいもの）",
-          "title_zh": "最棒的高档美食礼品（我们其实也想自己拥有）"
+          "title_zh": "最棒的精致美食礼品（我们自己也想要）"
         },
         {
           "title": "2026 Was the Year Restaurants Went Full Midwest",
@@ -109,7 +109,7 @@
           "desc": "This is an excerpt from Pre Shift, our newsletter for bartenders, restaurant workers and the hospitality industry. Subscribe for more perspectives lik",
           "title_ko": "2026년은 레스토랑이 중서부 스타일로 완전히 전환한 해였습니다.",
           "title_ja": "2026年はレストランが完全に中西部化された年でした",
-          "title_zh": "2026年是餐厅全面进军中西部的年份"
+          "title_zh": "2026 年是餐厅全面中西部化的一年"
         },
         {
           "title": "What Eater Editors Are Buying for Black Friday",
@@ -128,28 +128,28 @@
       "site": "https://www.hankyung.com/topic/food",
       "items": [
         {
+          "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 28일 띠별 추천 점심메뉴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9heXhZMEZJbXZHMy1LNmxoM3JLMnhvOGNYLTMyMVcteHlFMnFzOHBqMWZLOW5vbUN5ZWw0cjJRbGlaM2JUdU9rYVJVQmhIU1NYZG8yR0JQX2VUdw?oc=5",
+          "desc": "",
+          "title_en": "[Today's Horoscope] What should I eat today?…Recommended lunch menus by zodiac sign for November 28th",
+          "title_ja": "【今日の運勢】今日は何を食べる？…11月28日、干支別のランチメニューおすすめ",
+          "title_zh": "【今日运势】今天吃什么？……11月28日按生肖推荐的午餐菜单"
+        },
+        {
           "title": "에르메스 접시에 바카라 와인잔…'재혼황후' 속 음식의 비밀 [이혜원의 미디어 속 한식]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qU3lHbDlKVUdrYjM1cVVOemJnY2ViTTloSThrckN1eEpneV9aZzJjUVlqUzNNVjExT29QdVJwdGo1RmxyaDhCd0JhYk9yMndMNUFoU19FNUZjdw?oc=5",
           "desc": "",
-          "title_en": "Hermès plates, Baccarat wine glasses… The secrets behind the food in 'The Remarried Empress' [Hye-won Lee's Korean Food in Media]",
-          "title_ja": "エルメスの皿にバカラのワイングラス…『再婚皇后』の中の料理の秘密 [イ・ヘウォンのメディアの中の韓国料理]",
-          "title_zh": "爱马仕餐盘、巴卡拉酒杯……《再婚皇后》中的美食秘密【李惠媛的影视中的韩餐】"
+          "title_en": "Hermès plates, Baccarat wine glasses… The secrets of the food in 'The Remarried Empress' [Hye-won Lee's Korean Food in Media]",
+          "title_ja": "エルメスの皿にバカラのワイングラス…「再婚皇后」の中の料理の秘密 [イ・ヘウォンのメディアの中の韓国料理]",
+          "title_zh": "爱马仕餐盘、巴卡拉酒杯……《再婚皇后》中的美食秘密【李惠媛的媒体中的韩食】"
         },
         {
           "title": "[현장] 급식 대신 샌드위치·도시락…파업이 바꾼 초교 점심 풍경",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UR01weXc5NWFsR2l1NDF4dENrdUtWTU5PUmdDRnJ0bFN4S0xpTndGS0hmSGM2YW95blZseWUxYnY5ZHZzUWtGdEpjdmRVOUxTb3RWdjRWV3J6Zw?oc=5",
           "desc": "",
-          "title_en": "[On-site] Sandwiches and lunch boxes instead of school meals… The changing lunch scene at elementary schools due to the strike",
+          "title_en": "[On-site] Sandwiches and lunch boxes instead of school meals… The changed lunch scene at elementary schools due to the strike",
           "title_ja": "【現場】給食の代わりにサンドイッチや弁当…ストライキで変わった小学校の昼食風景",
-          "title_zh": "【现场】三明治、便当取代了食堂餐……罢工改变了小学的午餐景象"
-        },
-        {
-          "title": "'주주환원 기대주' 현대그린푸드, 아산병원 간납사 인수에 하락 [종목+]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83Z0RfY0tNQnBCVGhSMXhiZEV3cWdzU3ROTzJRS0hncFRndmloYkpvYW9McklIMWJ0MUF4WjFwVFJ3YlRwZUJwOUtHZEFEVW9KSWdKN3hpWFZUdw?oc=5",
-          "desc": "",
-          "title_en": "Hyundai Green Food, a 'stock expected to return value to shareholders,' declines on the acquisition of Asan Medical Center's exclusive supplier [Stock +]",
-          "title_ja": "「株主還元期待株」現代グリーンフード、峨山病院の納入業者を買収して下落 [銘柄+]",
-          "title_zh": "“股东回报预期股”现代格林食品因收购峨山医院独家供应商而股价下跌 [个股+]"
+          "title_zh": "【现场】三明治、便当取代校餐……罢工改变了小学的午餐景象"
         }
       ]
     },
@@ -162,7 +162,7 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5WEhmTUVhdUlWeWNzS0pNUVBKbTU3dXpCajd0WlFZN2xYMUQwTTk2R3VYMWF1MDVBMDR4eWY1Vnd3WnllWVgzZnpWMVN6X0xsNFHSAVNBVV95cUxQTnV1QUdHRmMxb1NOUkdkWV9yM0F3WWNFeHRMTkdZMzdKSVdYMUVKcXlzV1pSRjZJRWpEYVlWd0hHTExLc01rYkpxdHBWbWVIWUQ4SQ?oc=5",
           "desc": "",
           "title_en": "Lotte Wellfood's \"Xylitol\" Advertising Campaign with Actors Kim So-hyun and Son Joon-ho",
-          "title_ja": "ロッテウェルフード、俳優のキム・ソヒョンさんとソン・ジュンホさんの夫婦と「キシリトール」の広告キャンペーン",
+          "title_ja": "ロッテ・ウェルフード、俳優のキム・ソヒョンさんとソン・ジュンホさんの夫婦と「キシリトール」の広告キャンペーン",
           "title_zh": "乐天食品与演员金素贤和孙俊浩夫妇合作开展“木糖醇”广告宣传活动"
         },
         {
@@ -174,12 +174,12 @@
           "title_zh": "江南超高价公寓里正在发生的事情……“想拦住摩托车，又想收下外卖？”"
         },
         {
-          "title": "17m 시계탑·회전목마·대형 트리…잠실에 뜬 19세기 영국의 X-마스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVk05SnNWQnkyTklMSUg2Ql9NbVlaYTdRdllndDRKcm54V21BMm5GUUdjbkI3TDRiM05QUWVVSFZzNlRvQnhxbGxMWGx4MV90V1HSAVNBVV95cUxPa0t4TTdRNW0temY3ZUd4RlRmTnU1MUVzeENlRlZ3dXFZS1JzT2hSS2lFRDAtZUdfMlE5dmpLS19wMFFxcE9Lb2s4Yk1hUkQySzQ4aw?oc=5",
+          "title": "“매일 하는 행동인데 암 위험 높인다고?”…무심코 반복하는 ‘이 습관’ [헬시타임]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTdmJGb3RTdjJoSXotUVVSQzRzRmpLU3ZYOEMzV0RkRFhvX0pFTGNueEM4RlVwR2RjbXdaclVQR3FUbWd3Qk9IUkZqWGhxV1RobnfSAVNBVV95cUxOQjMtQjRuZG9sckVKU3c2QXp6NUZOTEtWZFFiSXZZN0VYcjc2RVRLVXlLNTNFUkhaRnNlSzlvNWhKNXc1MWszMGdSMzB5N1pQTWtvVQ?oc=5",
           "desc": "",
-          "title_en": "17-meter clock tower, carousel, large Christmas tree… 19th-century British Christmas in Jamsil",
-          "title_ja": "17mの時計塔・メリーゴーランド・大型ツリー…蚕室に現れた19世紀の英国のクリスマス",
-          "title_zh": "17 米高的钟楼、旋转木马、大型圣诞树……Jamsil 呈现 19 世纪英国的圣诞节"
+          "title_en": "“It's something I do every day, but it increases the risk of cancer?”… ‘This habit’ that you mindlessly repeat [Healthy Time]",
+          "title_ja": "「毎日やっていることなのに、がんのリスクが高まるって？」…無意識のうちに繰り返している「この習慣」[ヘルシータイム]",
+          "title_zh": "“每天都在做的事情，竟然会增加患癌的风险？”……不经意间反复进行的“这种习惯” [健康时刻]"
         }
       ]
     },
@@ -193,23 +193,23 @@
           "desc": "",
           "title_en": "Curly to hold 'Food Festa' from the 17th to the 20th of next month… 'Cooking Show' featuring Yeon-bok Lee, Ji-sun Jeong, and others",
           "title_ja": "Coupang、来月17～20日に「フードフェスタ」開催…イ・ヨンボク、チョン・ジソンらによる「クッキングショー」",
-          "title_zh": "Coupang Eats，下月 17 日至 20 日举办“美食节”……李妍福、郑智善等大厨将上演“烹饪秀”"
-        },
-        {
-          "title": "\"한국 치킨에 욱일기라니\"…서경덕, 英 인기 외식업체에 항의",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yVjhMdllXeENzd2JhUWVvUVppZkloOWNBdlZhZjFwQ3Q5Y3F1bk5IQVM3T0xQdlVicm1OYTAwSVNabU90MFJCNzFYWU5UMHcybFE?oc=5",
-          "desc": "",
-          "title_en": "\"The Rising Sun Flag on Korean Fried Chicken?\"…Seo Kyung-duk protests to a popular British restaurant chain",
-          "title_ja": "「韓国のチキンに旭日旗とは…」ソ・ギョンドク、英の人気外食チェーンに抗議",
-          "title_zh": "“韩国炸鸡上竟然有旭日旗”……徐敬德向英国知名餐饮企业提出抗议"
+          "title_zh": "Coupang Eats，下月 17 日至 20 日举办“美食节”……李妍福、郑智善等大厨将带来“烹饪秀”"
         },
         {
           "title": "아워홈 찾은 김승연 \"K푸드 선도기업 도약을\"",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05TG5jYi0tbTkzUlhSeEpMM2s1MUoxMXQtQk0wc1JMUHVjNEhGQzBNQmo5ZVROb0hsc3hsdWdVTGZ1N2lZWVMtd01Jdl9Sd2JTaXpucFZB?oc=5",
           "desc": "",
           "title_en": "Kim Seung-yeon, who discovered OurHome, aims to \"become a leading K-food company.\"",
-          "title_ja": "アワーズホームを見つけた金承淵会長「Kフードのリーディングカンパニーとして飛躍する」",
-          "title_zh": "收购Ahour Home的金胜妍：“迈向K-Food领先企业的步伐”"
+          "title_ja": "アワーホームを見つけたキム・スンヨン会長「Kフードのリーディングカンパニーとして飛躍する」",
+          "title_zh": "收购Ahour Home的金胜妍：“迈向K-Food领军企业”"
+        },
+        {
+          "title": "“너의 이름은?”…작은 과자에서 큼직한 ‘칸쵸 호빵’으로 커진 이름 찾기 대작전",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrNzZSa2FiSlN5ZHJNTWlwVmNZMGZHRzJjbFBnYXZ3NDZfOWFqRnBTcHV2T3VSR0E1RkRzcEdQY1FQX2NhdlNRUVBKLVg4bEh4?oc=5",
+          "desc": "",
+          "title_en": "\"What's your name?\"… A grand quest to find the name that grew from a small cookie to a large \"Kancho Steamed Bun.\"",
+          "title_ja": "「君の名前は？」…小さなお菓子から大きな「カンチョあんまん」に成長した名前探し大作戦",
+          "title_zh": "“你叫什么名字？”……从小小饼干到大大的“可可熊大包”，寻找名字的壮举"
         }
       ]
     },
@@ -229,9 +229,9 @@
           "title": "캐러멜에 된장을?…스와이시 이은 ‘스위마미’ 트렌드",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51RktZLXktWThuaTB4NVFHX0pzWXlQVncxa2lMNVEtQTNuYkFNcVB1T2JkQjZYNWdIaExqQm1QMTViR1RSSWxTVzdRcmtocnNPbFZNV0l2cw?oc=5",
           "desc": "",
-          "title_en": "Miso in caramel?... The \"Swimmie\" trend following \"Swicy\"",
+          "title_en": "Miso in caramel…? The \"Swymami\" trend following \"Swicy\"",
           "title_ja": "キャラメルに味噌を？…「スワイシー」に続く「スウィマミ」トレンド",
-          "title_zh": "焦糖里加味噌？……继“Swicy”之后的“Swimami”潮流"
+          "title_zh": "焦糖里加味噌？……继“Swicy”之后的“Swumami”潮流"
         },
         {
           "title": "“바다 지키는 히어로 응원”…스타벅스, 해양경찰서 지원",
